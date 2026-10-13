@@ -1,0 +1,511 @@
+# Comptabilité de gestion
+
+[Cours complet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/cours-compta.html)
+
+## lessons
+
+- [Comprendre un coût et choisir le bon objet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-couts-objets.html)
+- [MP, MOD, FGF et frais de vente : ranger chaque coût](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-fabrication-classification.html)
+- [Coûts fixes, variables, mixtes : total et unité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-fixes-variables.html)
+- [Séparer un coût mixte avec les points extrêmes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-couts-mixtes.html)
+- [Information fiable, éthique et décision de gestion](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-ethique-information.html)
+- [La MCV et l’état des résultats en coûts variables](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-mcv-etat.html)
+- [Point mort, cible et marge de sécurité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-seuil-cible-securite.html)
+- [Comparer deux structures et plusieurs produits](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-indifference-mix.html)
+- [CVR : rabais, hausse des coûts et nouvelle machine](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-decisions-cvr.html)
+- [Identifier les coûts pertinents et le signe de la décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-pertinence.html)
+- [Commande spéciale : capacité, prix minimum et renonciation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-commande-speciale.html)
+- [Fabriquer ou acheter sans se laisser piéger par le coût moyen](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-fabriquer-acheter.html)
+- [Continuer ou abandonner : la marge sur coûts spécifiques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-abandon-marges.html)
+- [Choisir les produits quand une ressource manque](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-contrainte-production.html)
+- [Imputer les frais indirects avec un taux](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-imputation-base.html)
+- [Plusieurs centres et la marge brute par produit](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-centres-marge-brute.html)
+- [Performance, responsabilités et décisions éthiques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-performance-centres.html)
+- [RCI et résultat net résiduel : calculer et interpréter](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-rci-rnr.html)
+- [Objectif, indicateur, cible : un tableau de bord utile](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-tableau-bord.html)
+- [Résoudre un cas complexe sur une page blanche](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-cas-integration.html)
+## officialExercises
+
+- [Lecture prescrite — Chapitre 1.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch1-1.html)
+- [Lecture prescrite — Chapitre 1.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch1-2.html)
+- [Lecture prescrite — Chapitre 1.5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch1-5.html)
+- [Lecture prescrite — Chapitre 2.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch2-1.html)
+- [Lecture prescrite — Chapitre 2.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch2-2.html)
+- [Lecture prescrite — Chapitre 2.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch2-3.html)
+- [Lecture prescrite — Chapitre 2.5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch2-5.html)
+- [Lecture prescrite — Chapitre 3.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch3-1.html)
+- [Manuel i+ — 2A.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-2A-1.html)
+- [Comparer les termes du cours et du manuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-concordance.html)
+- [11A.6 supp — Cercle Délices](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-11a6.html)
+- [Notes S1 — Décisions et problèmes éthiques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-ethique.html)
+- [Notes S1 — Classer les coûts directs et indirects](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-classification.html)
+- [Notes S1 — Coûts variables/fixes et total/unité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-comportement.html)
+- [Notes S1 — Classification — hôtel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-hotel.html)
+- [Notes S1 — Classification — fabrication de jus de pomme](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-jus.html)
+- [Notes S1 — ABC inc. — coût total et moyen](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s1-abc.html)
+- [Révision officielle S01 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s1.html)
+- [Lecture prescrite — Chapitre 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch11.html)
+- [Manuel i+ — 11A.4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-11A-4.html)
+- [CVR(CG).1 — Étoile Ltée](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-cvr1.html)
+- [11B.3 supp — Jean et Jeannette](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-11b3.html)
+- [CVR(CG).3 — Nordet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-cvr3.html)
+- [TP 1 — Vélos Devini, 11SupC.4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp1-devini.html)
+- [Notes S2 — Révision de classification — vélos](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s2-velos.html)
+- [Notes S2 — XYZ — MCV des tables](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s2-xyz.html)
+- [Notes S2 — Illustration de fête — toutes les questions de CVR](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s2-fete.html)
+- [Notes S2 — Illustration multiproduits et mix](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s2-mix.html)
+- [Notes S2 — Prises de décision CVR — rabais, MP et machine](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s2-decisions.html)
+- [Révision officielle S02 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s2.html)
+- [Lecture prescrite — Chapitre 12.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch12-1.html)
+- [Lecture prescrite — Chapitre 12.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch12-2.html)
+- [Lecture prescrite — Chapitre 12.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch12-3.html)
+- [Lecture prescrite — Chapitre 12.5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch12-5.html)
+- [Lecture prescrite — Chapitre 12.6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch12-6.html)
+- [Manuel i+ — 12A.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-12A-2.html)
+- [12B.3 — Ubois, commande spéciale](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-12b3.html)
+- [Mme Bolduc — analyse d’une décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-bolduc.html)
+- [12B.1 supp — Soleil Brûlant](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-12b1.html)
+- [ABX — déneigement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-abx.html)
+- [Fabrique Tout — prix minimal](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-fabrique-tout.html)
+- [AKAMI — fabriquer ou acheter](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-akami.html)
+- [Cerfs-volants — continuer ou abandonner](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-cerfs-volants.html)
+- [Johnson Motors — engrenages](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-johnson.html)
+- [Notes S3 — FlashCo — retour CVR](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s3-flashco.html)
+- [Notes S3 — Identifier les coûts pertinents](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s3-pertinents.html)
+- [Notes S3 — Atelier FAB — commande spéciale et prix minimal](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s3-fab.html)
+- [Notes S3 — Illustration fabriquer/acheter](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s3-fabriquer.html)
+- [Notes S3 — Illustration continuer/abandonner](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s3-abandon.html)
+- [Révision officielle S03 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s3.html)
+- [Lecture prescrite — Chapitre 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch10.html)
+- [Manuel i+ — 10B.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-10B-3.html)
+- [10CG.1 — FLYREST](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10cg1.html)
+- [10B.1 — Pub du plateau, question 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10b1-q1.html)
+- [10B.1 — Pub du plateau, question 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10b1-q2.html)
+- [10B.1 — Pub du plateau, question 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10b1-q3.html)
+- [10B.1 — Pub du plateau, question 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10b1-q4.html)
+- [10B.1 — Pub du plateau, question 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-10b1-q5.html)
+- [Facteur contraignant facile — situation 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-facile-situation1.html)
+- [Facteur contraignant facile — situation 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-facile-situation2.html)
+- [TP 1 — Autobus Bégin, 12SupC.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp1-begin.html)
+- [Notes S4 — Pomme d’Or — retour commande spéciale](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s4-pomme.html)
+- [Notes S4 — Electrolux — ressource limitée et plan de production](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s4-electrolux.html)
+- [Révision officielle S04 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s4.html)
+- [CAPSULE VIDÉO](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-capsule-367262-1.html)
+- [Lecture prescrite — Chapitre 4.8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch4-8.html)
+- [Lecture prescrite — Chapitre 5.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch5-1.html)
+- [Lecture prescrite — Chapitre 5.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch5-2.html)
+- [Lecture prescrite — Chapitre 5.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch5-3.html)
+- [4CG.2 — Société du Mérite](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-4cg2.html)
+- [Pratique de taux d’imputation — atelier Excel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-taux-centres.html)
+- [4CG.1 — hypothèse 1, base coût de MOD](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-4cg1-h1.html)
+- [4CG.1 — hypothèse 2, base unités fabriquées](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-4cg1-h2.html)
+- [4CG.1 — hypothèse 3, base composants](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-4cg1-h3.html)
+- [TOC — Coût actuel des deux modèles adultes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-toc-1.html)
+- [TOC — Coût par centres de coûts](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-toc-2.html)
+- [TOC — Deux raisons des différences](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-toc-3.html)
+- [TOC — Marge brute face au prix concurrent](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-toc-4a.html)
+- [TOC — Arguments pour continuer ou abandonner](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-toc-4b.html)
+- [TP 2 — 4CG.4, Coût unitaire — base actuelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-4cg4-1.html)
+- [TP 2 — 4CG.4, Coût par centres et taux](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-4cg4-2.html)
+- [TP 2 — 4CG.4, Deux raisons de différence](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-4cg4-3.html)
+- [TP 2 — 4CG.4, Marge brute du Coureur des bois](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-4cg4-4.html)
+- [Notes S5 — Pâte à pizza — coût et marge brute](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s5-pizza.html)
+- [Notes S5 — Biscuiterie — base unique et processus similaires](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s5-biscuit.html)
+- [Notes S5 — Pâtisserie — bases uniques et processus différents](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s5-patisserie.html)
+- [Notes S5 — Guerlain — centres, taux et Abeille](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s5-guerlain.html)
+- [Révision officielle S05 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s5.html)
+- [Énoncé commenté](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-capsule-367277-1.html)
+- [Solution commentée](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-capsule-367277-2.html)
+- [Lecture prescrite — Chapitre 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch1-revision.html)
+- [Lecture prescrite — Chapitre 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch17.html)
+- [Lecture prescrite — Chapitre 18, première plage](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch18-a.html)
+- [Lecture prescrite — Chapitre 18, seconde plage](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-lecture-ch18-b.html)
+- [Manuel i+ — 17A.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-17A-2.html)
+- [Manuel i+ — 17B.8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-manuel-17B-8.html)
+- [Véliko — partie A, question 1 i](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-1i.html)
+- [Véliko — partie A, question 1 ii](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-1ii.html)
+- [Véliko — partie A, question 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-2.html)
+- [Véliko — partie A, question 3 i](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-3i.html)
+- [Véliko — partie A, question 3 ii](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-3ii.html)
+- [Véliko — partie A, question 4 i](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-4i.html)
+- [Véliko — partie A, question 4 ii](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-4ii.html)
+- [Véliko — partie A, question 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-5.html)
+- [Véliko — partie A, question 6 i](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-6i.html)
+- [Véliko — partie A, question 6 ii](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-6ii.html)
+- [Véliko — partie A, question 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-7.html)
+- [Véliko — partie A, question 8 i](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-8i.html)
+- [Véliko — partie A, question 8 ii](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-a-8ii.html)
+- [TP 2 — Trivision 17B.4 supp, RCI/RNR sans siège social](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-trivision-1.html)
+- [TP 2 — Trivision 17B.4 supp, Répartition selon les deux hypothèses](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-trivision-2.html)
+- [TP 2 — Trivision 17B.4 supp, Interprétation des rendements](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-trivision-3.html)
+- [TP 2 — Trivision 17B.4 supp, Pertinence des coûts du siège](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-trivision-4.html)
+- [TP 2 — Trivision 17B.4 supp, Nouveaux RCI avec les trois projets](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-trivision-5.html)
+- [TP 2 — Empathie Conseil, tableau de bord](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-tp2-empathie.html)
+- [Notes S6 — RCI — projet d’investissement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s6-rci1.html)
+- [Notes S6 — RCI — reporter une campagne publicitaire](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s6-rci2.html)
+- [Notes S6 — RCI — reporter un investissement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s6-rci3.html)
+- [Notes S6 — RNR — divisions A et B](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s6-rnr.html)
+- [Notes S6 — Comportement non éthique — discussion des indicateurs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-notes-s6-ethique.html)
+- [Révision officielle S06 — entraînement individuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-formatif-s6.html)
+- [(1) – Énoncé](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-capsule-367334-1.html)
+- [(2) - Solution](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-capsule-367334-2.html)
+- [Pizza Pizza — Saveurs Authentiques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-pizza.html)
+- [Atelier TRACE](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-trace.html)
+- [Révision intra S7 — Cassiopée — analyse hebdomadaire CVR](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cassiop-ee.html)
+- [Révision intra S7 — Nature inc. — partie 1, commande spéciale](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-nature-1.html)
+- [Révision intra S7 — Nature inc. — partie 2 a, plan de production](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-nature-2a.html)
+- [Révision intra S7 — Nature inc. — partie 2 b, nouvelle commande](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-nature-2b.html)
+- [Révision intra S7 — Nature inc. — partie 2 c, prix minimal](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-nature-2c.html)
+- [Révision intra S7 — Nature inc. — partie 3, investissement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-nature-3.html)
+- [Révision intra S7 — Cyclo — coût unitaire, base MOD](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cyclo-1.html)
+- [Révision intra S7 — Cyclo — coût unitaire, base machine](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cyclo-2.html)
+- [Révision intra S7 — Cyclo — choisir la base](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cyclo-3.html)
+- [Révision intra S7 — Cyclo — commenter la rentabilité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cyclo-4.html)
+- [Révision intra S7 — Cyclo — pertinence de plusieurs centres](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-cyclo-5.html)
+- [Révision intra S7 — Révision RCI/RNR — division A actuelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-rci-1.html)
+- [Révision intra S7 — Révision RCI/RNR — division A avec projet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-rci-2.html)
+- [Révision intra S7 — Révision RCI/RNR — choix du directeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-rci-3.html)
+- [Révision intra S7 — Révision RCI/RNR — divisions B et C](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-rci-4.html)
+- [Révision intra S7 — Révision RCI/RNR — nature du centre C](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-rci-5.html)
+- [Révision intra S7 — VisioWeb — tableau de bord](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-s7-visioweb.html)
+- [Véliko — partie B, tableau de bord](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-off-veliko-b.html)
+## projects
+
+- [Préparer TP 2 — imputation, RCI/RNR et tableau de bord](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-project-preparation-tp2.html)
+- [Compléter le dossier final à chaque publication S8–12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/compta-project-final-publication.html)
+## mocks
+
+## mockExams
+
+
+## Documents et textes
+
+- (0) _10904_concordance termes.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f6ac976e0159ffff809fd9949140742361a520814027f4c07327dd54bda51135.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4e273422da37df1842d07d49294a8c2c36f4b4e27a95edbe6ae08c7c6fc7e285.txt)
+- important-1-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/167ab18243eb6402617693f6dab733c2404dfdef2ab02e7c3feb900ef850f39f.png)
+- seance_rouge-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e9680d5511fa551d9198a0efa68301ee40b1302d337df7bbb36b0cf083af4c6d.png)
+- S01_Cheminement - comptabilité de gestion - H2020.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5d5cd692c5373c480c1452f7355f6059fc8c8032423f2ac5d8d170c90b4dc15c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b5e35d9aacfd202a06fb92415fb203a5d8aa8bde62ee1346fccb75f472d1a750.txt)
+- S01_10904_Notes_etudiants_A26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5f36f6bb6e76abc7751236c2b496978be2593e250c79e2d2248ffb8b32993de.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f32840df0d4729bd86d3e7c91e1b6ba48e5adc702847b0b5ae99fbbdcfb193b5.txt)
+- S01_11A.6.supp_énoncé + solution_VF.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1a87812e9da364b2988d8b39906603d5eca0dad51ce73de1a6599eede18a9f67.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6160a9fcd9b224cfae34e1c77811d921ed1998d0032d7a167ca9ede88471cef8.txt)
+- seance_turquoise-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b98c7ad75e394b5f7cd43a3d985a51eae767cedbf91c814b63e1b5edbcb6308.png)
+- S02_10904_Notes_etudiants_A26-2.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/91b2b993f6bfd3170b33ff791b3b6b8a9251efd92edf2d6608885ba828b9aa0a.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/525d9984e2da6538d2d985e17ffa7ed4e82473964bdb3213366729383160d5d9.txt)
+- S02_CVR(CG).1_Etoile Ltée_A2026_VF.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c397890da54b8efc0a500d60cc8417d584bcfeb632a2af24fdd3a49461b22b97.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/63d20b5ce263c54b4459e0f3d78561aaa4279294e46bb91823061e383e4a3f21.txt)
+- S02_Exercice_11B.3.supp_Enonce-Solution_A2026.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cceb1c05abd152d3752c77e0359fc41cc477ad3e735c82956f4216570ace8c63.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e2c051eb0110e31a7f9ca1e864fad513154570191c0f24272714f0827ab2ab3d.txt)
+- S02_Nordet_S2CVR(CG).3_A2026_VF.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b3df6047469018990da5c8459619801a3b8e12a574769bd639d0e29388f69ada.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/af2b40eea13bc1a59b9dc2de0137b8b9db64731d477ddc10182f6b5fe69a5774.txt)
+- seance_jaune-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/07db8d754c322779af2814430916920be61888b880c75e8f4bd35257aafc2144.png)
+- S03_10904_Notes_etudiants_A26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b01b8bea0a2248d04514ea5a1b56e02b879ddb85fe79a4305b0ae5c7d9b9008.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5aebbc45269cf89993464e29c5c81bdb2251a9476d0d46a2de8a30489a12452.txt)
+- S03_Exercice 12B.3_Commande spéciale_étudiant_A26.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/256242aece5434c76df7ab9791479efa7c5f89842a0466cf68a869260e537cae.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/47958e6807842e239b07417a22572ac4048613a4ef54099d6e7d97f42021488e.txt)
+- S03_Exercice d_application Mme Bolduc.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9664905f1ceb45a8a7c312d4d56469bf744aac788de1c9c70f7d964bf8298fa4.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6dfc7c395414e171136f0d33f1bac0b7487ed7749eb672f011b7c5f4fc5f46ca.txt)
+- S03_Exercices_prises de décisions_A2026-1.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8577a0c2e3a111fdf013b324d0efde629e2c68213a233bb232e7d781870eb1ce.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8c777903c195ba8f3437190a04ae6014e2d7dfbb5ea17113c06f4e7635136a3b.txt)
+- S03_Exercice_supp_12B.1.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c4cf846ee4840e28d9bcb31b77669715483d916cf44209da43442e8ba746a759.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3951b1fc49b6f5f810867f4d91ea0925084b93413ffd300e9a7ffe129d7013c.txt)
+- seance_rose-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2b079237ee482edad760c09fdbaac0691e4688b9a909d46c48b5b4cfd86062c3.png)
+- S04_10904_Notes_etudiants_A26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a315a09c213c0ef3f452e355d926b9c8d15667569d72ba00fd73e3ac4c1549da.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/da45820a68de16ccb2938f8c33811f67c035d9c45bd255fd829afb8983fa8e54.txt)
+- S04_10904_Notes_étudiants_A2025-4.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/abcad552f1e159eed65943b84b922a75bf45c7efaea378d565dd1d77c6a9409c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5ed1c2888a70e3ad489622e6ffd3d5c3ff1587871b94399b73d422ad17fb03d5.txt)
+- S04_Exercices_supp_10B.1_énoncés étudiants-3.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/94d547a9a0fdf18151bd1c3f3b19fbae107241b0601654451b603e5af3a58848.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/145ff63a5af6d8636cb6620c50d09f7f872450b1ae889766f85f23ede4bb7039.txt)
+- S04_Exercice application 1- facteur contraignant.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d36ff42032683156ab387cada03333cd730a5fe36bfead13ac62f59e7bf3a342.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d07823d65d856851cb601cd6a37d57890edda67e056b56b0f3e37b09303de9e1.txt)
+- S04_Exercice_Énoncé-Solution 10CG.1_H2022_étudiants-1.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/677e0eabdb9542c68f5440a3cc30685bc68061a42ce1c18246da5e600aca183d.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/05de8bc88660e620fb0b004bad18d19616272bdd644a8c37f93aebdfcf8748bc.txt)
+- TP1_Exercice 11Sup_C.4_Énoncé-étudiants_H2026.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf73ab074a7c9c0b092facf598b9002193b12e469b69c7751319b3c6c9520824.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/aa4a8f51c5fc719d424fd2285ecd1ba02bcdabbc9896d8ae844f1f5a6040fb0b.txt)
+- TP1_Exercice 12Sup_C.3_Énoncé-étudiants_H2026.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fa5127b07e3727416950a0e3a540748fdf249b501a17f9c49bf10c618141a3c8.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a36b910037fbf4904b9cba0dc53fd05bd62d22777c7c53b40c9b422335a1da26.txt)
+- seance_vert-2.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9a472456a337e1b77052634dbbd1bc6454df893b52002454982666cf5c9fe37.png)
+- S05_10904_Notes_etudiants_A26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9d9893bc4dac9a1deae20ba71b506dffe63c258c672ec262c347e7c84aa6170d.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0ae450ad99a6091360eaa4eff80df3a734ec6b87ebdc1530cc2a302043fe97da.txt)
+- S05 Imputation _10904_E2025_étudiants.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4ea8bec31df7644cb60d4cf3c0d5be22ddd71a65b2998e0fe42448e7cceae4a.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4bb4c6f04a9d82f1ce109ae2a6e327790ee7d3a332af3fd008ec11d68788cf5.txt)
+- S05_Exercice_Suggéré_4CG.1_H2022.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c5e2fd487fc721149cf7da9c198e93cf374374ba1fc62fe7781804d7faeacd6f.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b495f9f906d5aa720f0dba8af94787842f760ca73381d5c627d369d302c900ee.txt)
+- S05_Exercice_Suggéré_4CG.2_A2025.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8b79145276ecf7b1aa0fcdd73d40a00d89582848dc9bf73ed668ba65d845f5ac.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/916b9710e954a4ad912a9b69c8338fd1dfa2fb5713b7a8157486836f60132268.txt)
+- S05_Exercice_Application_TOC_H2022.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bc339fad4ec492015d12a7d41bbd3148236d183352e73fafe7f07847c99b7750.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fe4d07675c0c8922f045b85d515c0f0b3a19ffce77be49686df4f26b2689238e.txt)
+- S05_10904_H2022_Exercice_TOC_Gabarit- Solution.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a5a325016323ef4f628e06f14aba67c033c1c623bce8a8d6cabc0980a0ea0835.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b9eaafeabc18c93675a8594d3a6ec3ced864a1afd17860d7d950a6e78a64a5e3.txt)
+- S06_10904_Notes_etudiants_A26-1.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e70fcb180794cde28276849d9e1ac0ffcac1acf94b87e340d21c2c2cb962710c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fb6471e831de60bf96f64cabe1aa9cd64fcd5cc47751806ce21937010d9a93dc.txt)
+- S11_Cas Véliko TBG - Énoncé _H2022.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/04c9aac40bf48a15fb6814705547e3c0645938dccf2794026ecea7f7fc216e13.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/37431e73a0fdd3110cb7db5b8337f422d190f5f2e191a6be1e86f757a8b788d8.txt)
+- S11_Cas Véliko TBG - Solution trouée _H2022.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3bf041a32a5cfff5d60dc5c4fd9649975846ff281ce2e47f00aa3533aadc41f6.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1df21c03e0cd8cd8a095a8e739ec49ec71747fb5a2364293e93b75c53a88c594.txt)
+- S11_Cas Véliko TBG - Solution _Tegrity H2022.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4fca19a34878c5bb6c8402c91d45ce5614e24160da1c093a357cb912a1224f21.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3ee4ccd9ed516d9a901b5f43d8ef3c6cd5fc77a4dd5a5fa7950f11e79859172d.txt)
+- TP2_Exercice 4CG.4_Imputation_Énoncé_A2025.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9ecaf0522cab2d026cefb1bd7ceda48cbcae94d675dd8f012bc1e7046d01330d.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a62724ef56efea5bcfddce1ce27998b24e60c8d93f200740a5d576b382554ecb.txt)
+- TP2_RCI_Trivision_17B.4_Supp_Enonce.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c703744f5b0b547a71061ac9143e066045a1e046baffd928edb2f4baf3483bf8.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/450a50f692a28af0925b9862b6a531b0759d5c87ddac96956996efeb440d7065.txt)
+- TP2_TBG_Empathie Conseil_Enonce.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/25bae78ab7fd204e8984e486d380a19242338f638a6e5c0d5339b627844ea469.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/099d2ff1c7919451a25d9e3b083fa7a86cdb7537b42d1596ffe2f8d0629aa4a2.txt)
+- S07_10904_Notes_etudiants_A26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f7bba2264d33839aae4ac4d66a8abb46cd92ca0cce95e6ee560e35ba8596baaa.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/943e66b8e6cec321fe76b33eeabce3e6695e24d8c80e4513eefbfb731d672eed.txt)
+- S07 Pizza Pizza imputation_étudiants-1.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8f58839b3999e1e62c32936d5bec2ed98e2152343ccb10c50faa930224b25ad1.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fa0961b8f4ab49f1cc3cd65d4d27389f03e2f0a2d5051f1c44dc2bed386d90f5.txt)
+- S07_Atelier TRACE_10904_E2025_ étudiants-1.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/60bab4f22d810044082c9a50e54e80b4257bd44e60995677024ca2646ecd6b75.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4354eb06d03d718c058a2981f5c07e68b132efe4d14e2152d62f9ab6f5a53b79.txt)
+- S07_10904_A2023_Exercices Révision INTRA_A26.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/774591f703280c06584da65a4fe639ac0364dab7397b1cbc3a224a21642878d8.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1a6544bda1941735eb4e20512e19d0aa6a83fad432353e77621c4c02e655232b.txt)
+- PLAN - Révision Quiz 1 Compta (vendredi 9 oct).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3a70afd6fa4e63917889881495e71e6490e0151f4c9c26dbf6bad38c6240f209.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/44c676916b1a9ce375598ff987aa87011df8dd89c0d7d64d1ff642f3cb0f3213.txt)
+- S01 - Cheminement - comptabilite de gestion.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5d5cd692c5373c480c1452f7355f6059fc8c8032423f2ac5d8d170c90b4dc15c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b5e35d9aacfd202a06fb92415fb203a5d8aa8bde62ee1346fccb75f472d1a750.txt)
+- S01 - Exercice 11A.6 supp Cercle Delices (enonce+solution).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1a87812e9da364b2988d8b39906603d5eca0dad51ce73de1a6599eede18a9f67.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6160a9fcd9b224cfae34e1c77811d921ed1998d0032d7a167ca9ede88471cef8.txt)
+- S01 - Notes de cours - La notion de cout.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5f36f6bb6e76abc7751236c2b496978be2593e250c79e2d2248ffb8b32993de.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f32840df0d4729bd86d3e7c91e1b6ba48e5adc702847b0b5ae99fbbdcfb193b5.txt)
+- S02 - Exercice 11B.3 supp Jean et Jeannette (enonce-solution).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cceb1c05abd152d3752c77e0359fc41cc477ad3e735c82956f4216570ace8c63.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e2c051eb0110e31a7f9ca1e864fad513154570191c0f24272714f0827ab2ab3d.txt)
+- S02 - Exercice CVR(CG).1 Etoile Ltee.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c397890da54b8efc0a500d60cc8417d584bcfeb632a2af24fdd3a49461b22b97.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/63d20b5ce263c54b4459e0f3d78561aaa4279294e46bb91823061e383e4a3f21.txt)
+- S02 - Exercice CVR(CG).3 Nordet (plusieurs produits).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b3df6047469018990da5c8459619801a3b8e12a574769bd639d0e29388f69ada.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/af2b40eea13bc1a59b9dc2de0137b8b9db64731d477ddc10182f6b5fe69a5774.txt)
+- S02 - Notes de cours - Analyse CVR.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/91b2b993f6bfd3170b33ff791b3b6b8a9251efd92edf2d6608885ba828b9aa0a.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/525d9984e2da6538d2d985e17ffa7ed4e82473964bdb3213366729383160d5d9.txt)
+- S03 - Exercice 12B.3 Ubois commande speciale.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/256242aece5434c76df7ab9791479efa7c5f89842a0466cf68a869260e537cae.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/47958e6807842e239b07417a22572ac4048613a4ef54099d6e7d97f42021488e.txt)
+- S03 - Exercice Mme Bolduc.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9664905f1ceb45a8a7c312d4d56469bf744aac788de1c9c70f7d964bf8298fa4.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6dfc7c395414e171136f0d33f1bac0b7487ed7749eb672f011b7c5f4fc5f46ca.txt)
+- S03 - Exercice supp 12B.1 Soleil Brulant.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c4cf846ee4840e28d9bcb31b77669715483d916cf44209da43442e8ba746a759.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3951b1fc49b6f5f810867f4d91ea0925084b93413ffd300e9a7ffe129d7013c.txt)
+- S03 - Exercices prises de decisions.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8577a0c2e3a111fdf013b324d0efde629e2c68213a233bb232e7d781870eb1ce.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8c777903c195ba8f3437190a04ae6014e2d7dfbb5ea17113c06f4e7635136a3b.txt)
+- S03 - Notes de cours - Analyse differentielle.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b01b8bea0a2248d04514ea5a1b56e02b879ddb85fe79a4305b0ae5c7d9b9008.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5aebbc45269cf89993464e29c5c81bdb2251a9476d0d46a2de8a30489a12452.txt)
+- S04 - Exercice 10B.1 Pub du plateau (enonce).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/94d547a9a0fdf18151bd1c3f3b19fbae107241b0601654451b603e5af3a58848.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/145ff63a5af6d8636cb6620c50d09f7f872450b1ae889766f85f23ede4bb7039.txt)
+- S04 - Exercice 10CG.1 FLYREST (enonce-solution).doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/677e0eabdb9542c68f5440a3cc30685bc68061a42ce1c18246da5e600aca183d.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/05de8bc88660e620fb0b004bad18d19616272bdd644a8c37f93aebdfcf8748bc.txt)
+- S04 - Exercice revision facteur contraignant (niveau facile).doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d36ff42032683156ab387cada03333cd730a5fe36bfead13ac62f59e7bf3a342.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d07823d65d856851cb601cd6a37d57890edda67e056b56b0f3e37b09303de9e1.txt)
+- S04 - Notes de cours - Les marges et la prise de decision.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a315a09c213c0ef3f452e355d926b9c8d15667569d72ba00fd73e3ac4c1549da.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/da45820a68de16ccb2938f8c33811f67c035d9c45bd255fd829afb8983fa8e54.txt)
+- S05 - Exercice application TOC imputation (enonce).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bc339fad4ec492015d12a7d41bbd3148236d183352e73fafe7f07847c99b7750.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fe4d07675c0c8922f045b85d515c0f0b3a19ffce77be49686df4f26b2689238e.txt)
+- S05 - Exercice suggere 4CG.1 taux imputation.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c5e2fd487fc721149cf7da9c198e93cf374374ba1fc62fe7781804d7faeacd6f.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b495f9f906d5aa720f0dba8af94787842f760ca73381d5c627d369d302c900ee.txt)
+- S05 - Exercice suggere 4CG.2 imputation (solution par etapes).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8b79145276ecf7b1aa0fcdd73d40a00d89582848dc9bf73ed668ba65d845f5ac.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/916b9710e954a4ad912a9b69c8338fd1dfa2fb5713b7a8157486836f60132268.txt)
+- S05 - Exercice TOC gabarit solution.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a5a325016323ef4f628e06f14aba67c033c1c623bce8a8d6cabc0980a0ea0835.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b9eaafeabc18c93675a8594d3a6ec3ced864a1afd17860d7d950a6e78a64a5e3.txt)
+- S05 - Notes de cours - Marge brute par produit.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9d9893bc4dac9a1deae20ba71b506dffe63c258c672ec262c347e7c84aa6170d.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0ae450ad99a6091360eaa4eff80df3a734ec6b87ebdc1530cc2a302043fe97da.txt)
+- S05 - Pratique calcul taux imputation.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4ea8bec31df7644cb60d4cf3c0d5be22ddd71a65b2998e0fe42448e7cceae4a.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4bb4c6f04a9d82f1ce109ae2a6e327790ee7d3a332af3fd008ec11d68788cf5.txt)
+- S06 - Cas Veliko enonce.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/04c9aac40bf48a15fb6814705547e3c0645938dccf2794026ecea7f7fc216e13.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/37431e73a0fdd3110cb7db5b8337f422d190f5f2e191a6be1e86f757a8b788d8.txt)
+- S06 - Cas Veliko solution trouee.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3bf041a32a5cfff5d60dc5c4fd9649975846ff281ce2e47f00aa3533aadc41f6.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1df21c03e0cd8cd8a095a8e739ec49ec71747fb5a2364293e93b75c53a88c594.txt)
+- S06 - Cas Veliko solution.doc
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4fca19a34878c5bb6c8402c91d45ce5614e24160da1c093a357cb912a1224f21.doc)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3ee4ccd9ed516d9a901b5f43d8ef3c6cd5fc77a4dd5a5fa7950f11e79859172d.txt)
+- S06 - Notes de cours - Evaluation de la performance.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8fce14884e2a393219741a82160e1b359850bd95f7eb46f429a297cdf75dcfa0.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/26bd3d15062e0083874a652afaba16b8aba4511a21c5bdb43e0716f4d77dfdd6.txt)
+- TP1 - Exercice Autobus Begin 12SupC.3 (enonce).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fa5127b07e3727416950a0e3a540748fdf249b501a17f9c49bf10c618141a3c8.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a36b910037fbf4904b9cba0dc53fd05bd62d22777c7c53b40c9b422335a1da26.txt)
+- TP1 - Exercice Velos Devini 11SupC.4 (enonce).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf73ab074a7c9c0b092facf598b9002193b12e469b69c7751319b3c6c9520824.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/aa4a8f51c5fc719d424fd2285ecd1ba02bcdabbc9896d8ae844f1f5a6040fb0b.txt)
+- Matériel pédagogique
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/03fe8e3fddd9da967dcbaddb7baeaa292290756d8740928c85512f506396b0ae.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/03fe8e3fddd9da967dcbaddb7baeaa292290756d8740928c85512f506396b0ae.txt)
+- Ressources diverses
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dd4d0cc032c9556fc437ae3688a716f3828c0abac6a915bb18ff64f28e32c8c1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dd4d0cc032c9556fc437ae3688a716f3828c0abac6a915bb18ff64f28e32c8c1.txt)
+- S01 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a1afe5bf01f80f352ca3c255c7ceabb633c961e846085e4e04d21fafc7d06d04.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a1afe5bf01f80f352ca3c255c7ceabb633c961e846085e4e04d21fafc7d06d04.txt)
+- S01 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8077ac6cae4daab58bb74fa6bf9448e7153e19943463f7ca8fb161ec640985bb.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8077ac6cae4daab58bb74fa6bf9448e7153e19943463f7ca8fb161ec640985bb.txt)
+- S01 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c88a1fd2e2eb6ea36a93ce6bccf818ad372949696c6feeadc9f25a76c5b17688.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c88a1fd2e2eb6ea36a93ce6bccf818ad372949696c6feeadc9f25a76c5b17688.txt)
+- S02 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/04f83bb7309755cf9fd6d71b4b65bf3a2a4cc3218ff31e33ef21b5d37982a6b1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/04f83bb7309755cf9fd6d71b4b65bf3a2a4cc3218ff31e33ef21b5d37982a6b1.txt)
+- S02 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f1d900cc7c6e051edcc2726a418ecbe901fb9fae0d85a196f9da7f16f1cb1a2c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f1d900cc7c6e051edcc2726a418ecbe901fb9fae0d85a196f9da7f16f1cb1a2c.txt)
+- S02 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36db01dcfb835a48b8bc56129a9149968e7a93cd88078d96a1ab9de068c7929e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36db01dcfb835a48b8bc56129a9149968e7a93cd88078d96a1ab9de068c7929e.txt)
+- S03 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ec15d8b4f6ae26fdec749731c98aba023a29d1639ec7cd00f3f722f735bbec26.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ec15d8b4f6ae26fdec749731c98aba023a29d1639ec7cd00f3f722f735bbec26.txt)
+- S03 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a1141aef0d3834e458be1d19ad84e5af24555ba444e655db4b9109a6de5910d1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a1141aef0d3834e458be1d19ad84e5af24555ba444e655db4b9109a6de5910d1.txt)
+- S03 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7b6cf02946fe85f3eed094f2207235a5651225493745ac703a109dd37cb6b1ee.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7b6cf02946fe85f3eed094f2207235a5651225493745ac703a109dd37cb6b1ee.txt)
+- S04 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3949720ca8b15acbd878f74d13471bf403a81244f4c66d024e79956c1b35dd3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3949720ca8b15acbd878f74d13471bf403a81244f4c66d024e79956c1b35dd3.txt)
+- S04 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6e5acf145f21f85b7f512359877898e80a05e592078cdb83a63b1c1c44505aaf.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6e5acf145f21f85b7f512359877898e80a05e592078cdb83a63b1c1c44505aaf.txt)
+- S04 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/10478de66f54228a4b078fc183828fd90e959c824c38bc823bb4aee69a967220.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/10478de66f54228a4b078fc183828fd90e959c824c38bc823bb4aee69a967220.txt)
+- TP1 | Plages horaires
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8185c384c1c257079bacb25349f72c359bf47fd835253de2b932aaebebfe2f1b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8185c384c1c257079bacb25349f72c359bf47fd835253de2b932aaebebfe2f1b.txt)
+- TP1 | Activités/exercices AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/41c08b9d5afda2f79a2c8690a20c5b689518728033cd0e9e7d6801a2fe6feda6.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/41c08b9d5afda2f79a2c8690a20c5b689518728033cd0e9e7d6801a2fe6feda6.txt)
+- S05 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/588dda1999382c83edfcbe01a64297b093abe80651867b0a249707d78c3ea4aa.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/588dda1999382c83edfcbe01a64297b093abe80651867b0a249707d78c3ea4aa.txt)
+- S05 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/43780f3d51879bbca7c120738353d6fa588af08e67b621bfa36085ec1b8bc16b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/43780f3d51879bbca7c120738353d6fa588af08e67b621bfa36085ec1b8bc16b.txt)
+- S05 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0814852ec764dc4d64b446137ba78fac3d9863bc722897b167483b820b5ff400.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0814852ec764dc4d64b446137ba78fac3d9863bc722897b167483b820b5ff400.txt)
+- S6 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/afe2837d1ae264da05a5320f7983759008069fecf31afc51cf4fdc8a65b411ab.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/afe2837d1ae264da05a5320f7983759008069fecf31afc51cf4fdc8a65b411ab.txt)
+- S6 | Lectures et notes de cours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/269742de2312a63045bb61deee2362446681d660e5cd867d57b577cddd270a30.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/269742de2312a63045bb61deee2362446681d660e5cd867d57b577cddd270a30.txt)
+- S6 | Activités/exercices de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/931144abb5bf4a2f19f5bdd0cfcfaa727bb9a31916324004a2919ff1c77a2d28.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/931144abb5bf4a2f19f5bdd0cfcfaa727bb9a31916324004a2919ff1c77a2d28.txt)
+- TP2 | Plages horaires
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f2416d14f185f105fbf3d41b1be9511c47b226252dc6560e6481fa6bf535c81.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f2416d14f185f105fbf3d41b1be9511c47b226252dc6560e6481fa6bf535c81.txt)
+- TP2 | Activités/exercices AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/60f78800d4c5e5533790f471d3ff210ed7fed23f319f3401486688f93283642b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/60f78800d4c5e5533790f471d3ff210ed7fed23f319f3401486688f93283642b.txt)
+- S07 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b1cbf52505c7ecca61073c50435ed0e32d05d27029a24fbb8edf8f9b249aa0e7.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b1cbf52505c7ecca61073c50435ed0e32d05d27029a24fbb8edf8f9b249aa0e7.txt)
+- S07 | Notes de cours/ Activités de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/78b0008a070fc1096c9a37aa2767404689551a853c45ce9d963fd5c610179bd3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/78b0008a070fc1096c9a37aa2767404689551a853c45ce9d963fd5c610179bd3.txt)
+- Activité / Ressources
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3419b1cd8e133cf5b7740c1afeb21c3335e69749da04cb0e291c1b03234b2a16.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3419b1cd8e133cf5b7740c1afeb21c3335e69749da04cb0e291c1b03234b2a16.txt)
+- Changement d'horaire
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b3da6828f10d4f953aba25ccd3d079f62d62d4674363fb6caff12405fc4a35b7.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b3da6828f10d4f953aba25ccd3d079f62d62d4674363fb6caff12405fc4a35b7.txt)
+- Concordance des termes et accès aux quizz
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8cf2e4b19b45faea2928e5e012ff999b429f5f5fe9c9458ac43ccc3f5266ed64.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8cf2e4b19b45faea2928e5e012ff999b429f5f5fe9c9458ac43ccc3f5266ed64.txt)
+- Bienvenue au cours COMP10904_A2026
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1a70e2c4503f455b8fdb902f97eef9dfcff9466651f3c37599032280a5309c0d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1a70e2c4503f455b8fdb902f97eef9dfcff9466651f3c37599032280a5309c0d.txt)
+- Révision S01
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f997ce35898df6f3701f9b751e5cc1493cee97631f017b29a30ea3c506fb9d84.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f997ce35898df6f3701f9b751e5cc1493cee97631f017b29a30ea3c506fb9d84.txt)
+- Révision S02
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f8212d31195aeaac7c1a59dcf720bf016d45b2c1291c5b4cfba79b2b0080e45.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f8212d31195aeaac7c1a59dcf720bf016d45b2c1291c5b4cfba79b2b0080e45.txt)
+- Révision S03
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4c870009ffaafd43c1754f26404d121b46dd996a9bb55f13961a367994603067.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4c870009ffaafd43c1754f26404d121b46dd996a9bb55f13961a367994603067.txt)
+- Révision S04
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6722376294107260797c64cfd8b9b46e14b81c11bd7e454fd05adc2e7d35434b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6722376294107260797c64cfd8b9b46e14b81c11bd7e454fd05adc2e7d35434b.txt)
+- Révision S05
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d9bd08dc86f40c5327ade55c1f775c44e3d8f18296cdc9a359b4e9a2c6805abe.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d9bd08dc86f40c5327ade55c1f775c44e3d8f18296cdc9a359b4e9a2c6805abe.txt)
+- Révision S06
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/be175bbee3e70aea313cbddf2bfbe31aba8a535f9aec3f7f959b552d71851080.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/be175bbee3e70aea313cbddf2bfbe31aba8a535f9aec3f7f959b552d71851080.txt)
+- Informations officielles et évaluations
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/37d1a396fbba09460d05fc88d377838ce09fb15e35f4d382763357c386b015dc.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/37d1a396fbba09460d05fc88d377838ce09fb15e35f4d382763357c386b015dc.txt)
+- ERES_RL_4512
+- Soutien aux études
+- CAPSULE VIDÉO
+- portail des salles
+- Énoncé commenté
+- Solution commentée
+- (1) – Énoncé
+- (2) - Solution

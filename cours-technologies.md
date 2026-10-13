@@ -1,0 +1,701 @@
+# Mobiliser les technologies numériques
+
+[Cours complet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/cours-technologies.html)
+
+## lessons
+
+- [Un système d’information sert une stratégie](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-si-strategie.html)
+- [Lire un processus et analyser sa valeur ajoutée](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-processus-valeur.html)
+- [BPMN : suivre les acteurs, les tâches et les messages](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-bpmn.html)
+- [Tables, clés et intégrité référentielle depuis zéro](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-tables-cles.html)
+- [Normaliser : valeurs atomiques puis clé complète](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-normalisation-1-2.html)
+- [Troisième forme normale et anomalies de mise à jour](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-normalisation-3.html)
+- [Du modèle conceptuel au modèle logique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-conceptuel-logique.html)
+- [Formulaire convivial et règles de saisie](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-formulaire-ux.html)
+- [Recherche, filtres, liens et calculs Airtable](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-requete-calcul.html)
+- [Confidentialité, intégrité, disponibilité et données personnelles](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-cyber-donnees.html)
+- [Algorithme : déclencheur, condition, action et test](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-algorithme-auto.html)
+- [IA prédictive et générative : besoins, risques et supervision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-ia-organisations.html)
+- [Projet TI, récits utilisateurs et critères INVEST](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-agile-recits.html)
+- [ETL, faits et dimensions : de la transaction à la décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-etl-dimensionnel.html)
+- [Carte narrative, priorités et choix d’une solution](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-carte-narrative.html)
+- [PGI : intégrer achats, ventes, stocks et décisions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-pgi-integration.html)
+- [Acquisition, déploiement, éditeur et intégrateur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-acquisition-deploiement.html)
+- [Qualité des données et indicateurs fiables](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-qualite-indicateurs.html)
+- [Choisir et lire un graphique selon la question](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-graphiques.html)
+- [OICA : objectif, indicateur, cible et alerte](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-oica-tableau.html)
+- [Tableau de bord : faire comprendre et tester la décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-ux-recits-donnees.html)
+- [Simulation finale : données → décision → action → retour](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-simulation-integree.html)
+## officialExercises
+
+- [S1 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418487.html)
+- [S1 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418504.html)
+- [Support S1 — Expérience IA — réflexion et limites](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s1-ia-reflexion.html)
+- [Support S1 — Jeu de séance et liste des besoins](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s1-jeu.html)
+- [Quiz formatif officiel — séance 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s2.html)
+- [Groupe-Agro — processus et BPMN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-groupe-agro-processus.html)
+- [Érablière Boisvert — processus et besoins](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-processus.html)
+- [BPMN — carte Jeopardy 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-01.html)
+- [BPMN — carte Jeopardy 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-02.html)
+- [BPMN — carte Jeopardy 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-03.html)
+- [BPMN — carte Jeopardy 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-04.html)
+- [BPMN — carte Jeopardy 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-05.html)
+- [BPMN — carte Jeopardy 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-06.html)
+- [BPMN — carte Jeopardy 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-07.html)
+- [BPMN — carte Jeopardy 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-08.html)
+- [BPMN — carte Jeopardy 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-09.html)
+- [BPMN — carte Jeopardy 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-10.html)
+- [BPMN — carte Jeopardy 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-11.html)
+- [BPMN — carte Jeopardy 12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-12.html)
+- [BPMN — carte Jeopardy 13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-13.html)
+- [BPMN — carte Jeopardy 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-14.html)
+- [BPMN — carte Jeopardy 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-15.html)
+- [BPMN — carte Jeopardy 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-16.html)
+- [BPMN — carte Jeopardy 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-17.html)
+- [BPMN — carte Jeopardy 18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-18.html)
+- [BPMN — carte Jeopardy 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-19.html)
+- [BPMN — carte Jeopardy 20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-20.html)
+- [BPMN — carte Jeopardy 21](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-21.html)
+- [BPMN — carte Jeopardy 22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-22.html)
+- [BPMN — carte Jeopardy 23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-23.html)
+- [BPMN — carte Jeopardy 24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-24.html)
+- [BPMN — carte Jeopardy 25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-25.html)
+- [BPMN — carte Jeopardy 26](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-26.html)
+- [BPMN — carte Jeopardy 27](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-27.html)
+- [BPMN — carte Jeopardy 28](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-28.html)
+- [BPMN — carte Jeopardy 29](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-29.html)
+- [BPMN — carte Jeopardy 30](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-bpmn-jeopardy-30.html)
+- [Capsule 1 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-1.html)
+- [Capsule 2 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-2.html)
+- [Capsule 3 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-3.html)
+- [Capsule 4 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-4.html)
+- [Capsule 5 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-5.html)
+- [Capsule 6 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-6.html)
+- [Capsule 7 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-7.html)
+- [Capsule 8 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-8.html)
+- [Capsule 9 du parcours S2 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418652-9.html)
+- [S2 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418652.html)
+- [S2 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418665.html)
+- [S2 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418672.html)
+- [Support S2 — Systèmes pour commander une pizza](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s2-pizza-si.html)
+- [Support S2 — Proposition de valeur et processus de pizzeria](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s2-processus.html)
+- [Support S2 — Modéliser le processus pizzeria et sa valeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s2-bpmn-pizza.html)
+- [Support S2 — Exprimer les besoins pizzeria et Boisvert](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s2-besoins.html)
+- [Aide-mémoire BPMN — dessiner tous les symboles utilisés](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lecture-bpmn.html)
+- [APQC — cadre des processus, ressource de repérage](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-apqc.html)
+- [Quiz formatif officiel — séance 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s3.html)
+- [Travail de normalisation — refuge pour animaux](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-animaux.html)
+- [Dossier étudiant — 1FN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-etudiant-1fn.html)
+- [Dossier étudiant — 2FN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-etudiant-2fn.html)
+- [Dossier étudiant — 3FN et modèle logique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-etudiant-3fn.html)
+- [Bon d’achat — 1FN et choix des clés](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-achat-1fn.html)
+- [Bon d’achat — 2FN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-achat-2fn.html)
+- [Bon d’achat — 3FN et modèle logique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-achat-3fn.html)
+- [Statistiques soccer — 1FN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-soccer-1fn.html)
+- [Statistiques soccer — 2FN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-soccer-2fn.html)
+- [Statistiques soccer — 3FN et modèle logique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-normalisation-soccer-3fn.html)
+- [Jeopardy — révision interactive complète](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-jeopardy-complet.html)
+- [Capsule 1 du parcours S3 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418688-1.html)
+- [Capsule 2 du parcours S3 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418688-2.html)
+- [Capsule 3 du parcours S3 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418688-3.html)
+- [Capsule 4 du parcours S3 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418688-4.html)
+- [Capsule 5 du parcours S3 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418688-5.html)
+- [S3 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418688.html)
+- [S3 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418701.html)
+- [S3 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418707.html)
+- [Support S3 — Données d’une commande et normalisation pizzeria](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s3-commande.html)
+- [Support S3 — Application de normalisation en classe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s3-application.html)
+- [Lecture — texte sur les bases de données](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lecture-bases.html)
+- [Quiz formatif officiel — séance 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s4.html)
+- [Capsule 1 du parcours S4 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418728-1.html)
+- [Capsule 2 du parcours S4 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418728-2.html)
+- [Capsule 3 du parcours S4 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418728-3.html)
+- [Capsule 4 du parcours S4 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418728-4.html)
+- [Capsule 5 du parcours S4 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418728-5.html)
+- [S4 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418728.html)
+- [S4 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418737.html)
+- [S4 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418744.html)
+- [Support S4 — Modèle conceptuel pizzeria et comparaison critique des propositions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s4-conceptuel.html)
+- [Support S4 — Modèle logique, dictionnaire et contraintes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s4-logique.html)
+- [Support S4 — Construire l’application Softr de la séance](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s4-softr.html)
+- [Quiz formatif officiel — séance 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s5.html)
+- [Capsule 1 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-1.html)
+- [Capsule 2 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-2.html)
+- [Capsule 3 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-3.html)
+- [Capsule 4 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-4.html)
+- [Capsule 5 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-5.html)
+- [Capsule 6 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-6.html)
+- [Capsule 7 du parcours S5 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418764-7.html)
+- [S5 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418764.html)
+- [S5 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418778.html)
+- [S5 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418785.html)
+- [Support S5 — Pizzeria — premier besoin et Commande](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s5-besoin1.html)
+- [Support S5 — Pizzeria — deuxième besoin et Article/DetailCommande](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s5-besoin2.html)
+- [Support S5 — Pizzeria — troisième besoin et requêtes/calculs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s5-besoin3.html)
+- [Support S5 — Rôles et autorisations dans l’application](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s5-acces.html)
+- [Support S5 — Discussion défensive des situations de cybersécurité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s5-cyber.html)
+- [Lecture — types de champs Airtable](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lecture-types.html)
+- [Quiz formatif officiel — séance 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s6.html)
+- [Comment fonctionne un modèle comme ChatGPT (6.1)?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-1.html)
+- [Biais et hallucinations: Pourquoi l’IA imagine des oursons bleus (6.5)?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-2.html)
+- [Que faut-il savoir sur les biais de l’IA (2.3)?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-3.html)
+- [Que faut-il comprendre des hallucinations de l’IA (2.4)?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-4.html)
+- [Quelles utilisations de l’IA sont à proscrire ou à encadrer (3.4)?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-5.html)
+- [Capsule 1 du parcours S6 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-6.html)
+- [Capsule 2 du parcours S6 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-7.html)
+- [Capsule 3 du parcours S6 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-8.html)
+- [Capsule 4 du parcours S6 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418804-9.html)
+- [S6 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418804.html)
+- [S6 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418817.html)
+- [Support S6 — Transformer une activité en algorithme](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s6-algorithme.html)
+- [Support S6 — Construire puis critiquer la pizzeria générée](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s6-app-ia.html)
+- [Support S6 — Application des notions IA et parties prenantes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-notes-s6-ia-cas.html)
+- [Quiz formatif officiel — séance 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s7.html)
+- [CIN — pratique intra — Q1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q01.html)
+- [CIN — pratique intra — Q2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q02.html)
+- [CIN — pratique intra — Q3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q03.html)
+- [CIN — pratique intra — Q4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q04.html)
+- [CIN — pratique intra — Q5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q05.html)
+- [CIN — pratique intra — Q6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q06.html)
+- [CIN — pratique intra — Q7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q07.html)
+- [CIN — pratique intra — Q8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q08.html)
+- [CIN — pratique intra — Q9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q09.html)
+- [CIN — pratique intra — Q10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q10.html)
+- [CIN — pratique intra — Q11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q11.html)
+- [CIN — pratique intra — Q12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q12.html)
+- [CIN — pratique intra — Q13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q13.html)
+- [CIN — pratique intra — Q14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q14.html)
+- [CIN — pratique intra — Q15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q15.html)
+- [CIN — pratique intra — Q16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q16.html)
+- [CIN — pratique intra — Q17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-cin-q17.html)
+- [Érablière Boisvert — pratique intra — Q1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q01.html)
+- [Érablière Boisvert — pratique intra — Q2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q02.html)
+- [Érablière Boisvert — pratique intra — Q3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q03.html)
+- [Érablière Boisvert — pratique intra — Q4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q04.html)
+- [Érablière Boisvert — pratique intra — Q5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q05.html)
+- [Érablière Boisvert — pratique intra — Q6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q06.html)
+- [Érablière Boisvert — pratique intra — Q7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q07.html)
+- [Érablière Boisvert — pratique intra — Q8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q08.html)
+- [Érablière Boisvert — pratique intra — Q9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q09.html)
+- [Érablière Boisvert — pratique intra — Q10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q10.html)
+- [Érablière Boisvert — pratique intra — Q11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q11.html)
+- [Érablière Boisvert — pratique intra — Q12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q12.html)
+- [Érablière Boisvert — pratique intra — Q13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q13.html)
+- [Érablière Boisvert — pratique intra — Q14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q14.html)
+- [Érablière Boisvert — pratique intra — Q15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q15.html)
+- [Érablière Boisvert — pratique intra — Q16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q16.html)
+- [Érablière Boisvert — pratique intra — Q17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q17.html)
+- [Érablière Boisvert — pratique intra — Q18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q18.html)
+- [Érablière Boisvert — pratique intra — Q19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q19.html)
+- [Érablière Boisvert — pratique intra — Q20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q20.html)
+- [Érablière Boisvert — pratique intra — Q21](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q21.html)
+- [Érablière Boisvert — pratique intra — Q22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q22.html)
+- [Érablière Boisvert — pratique intra — Q23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q23.html)
+- [Érablière Boisvert — pratique intra — Q24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q24.html)
+- [Érablière Boisvert — pratique intra — Q25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q25.html)
+- [Érablière Boisvert — pratique intra — Q26](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q26.html)
+- [Érablière Boisvert — pratique intra — Q27](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q27.html)
+- [Érablière Boisvert — pratique intra — Q28](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q28.html)
+- [Érablière Boisvert — pratique intra — Q29](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q29.html)
+- [Érablière Boisvert — pratique intra — Q30](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-intra-q30.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q01.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q02.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q03.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q04.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q05.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q06.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q07.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q08.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q09.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q10.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q11.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q12.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q13.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q14.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q15.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q16.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q17.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q18.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q19.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q20.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q21](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q21.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q22.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q23.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q24.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q25.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q26](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q26.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q27](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q27.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q28](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q28.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q29](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q29.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q30](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q30.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q31](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q31.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q32](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q32.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q33](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q33.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q34](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q34.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q35](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q35.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q36](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q36.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q37](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q37.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q38](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q38.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q39](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q39.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q40](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q40.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q41](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q41.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q42](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q42.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q43](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q43.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q44](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q44.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q45](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q45.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q46](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q46.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q47](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q47.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q48](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q48.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q49](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q49.html)
+- [Les Beaux Moments — pratique intra H 2026 — Q50](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lbm-q50.html)
+- [Atelier ETL S7 — pizzeria/transactions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-etl-s7.html)
+- [S7 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418842.html)
+- [S7 — checklist complète PENDANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418858.html)
+- [S7 — checklist complète APRÈS](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418865.html)
+- [Lecture — récits utilisateurs, INVEST et cartes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-lecture-recits.html)
+- [Quiz formatif officiel — séance 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s8.html)
+- [S8 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418883.html)
+- [Maple — les deux capsules de préparation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-maple-videos.html)
+- [Maple — aide-mémoire Job Aid](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-maple-jobaid.html)
+- [Maple — diapositives d’introduction](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-maple-slides.html)
+- [Quiz formatif officiel — séance 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-formatif-s9.html)
+- [Groupe-Agro — dimensions et table de faits](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-etl-s9.html)
+- [L’héritier de l’érable — lire les tableaux pour décider](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-heriter-erable.html)
+- [Capsule 1 du parcours S9 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418929-1.html)
+- [Capsule 2 du parcours S9 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418929-2.html)
+- [Capsule 3 du parcours S9 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418929-3.html)
+- [S9 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418929.html)
+- [Travail #2 — retrouver le fichier Tableau de l’équipe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-work2-twb-externe.html)
+- [Tableau Desktop S10 — vendeurs, paramètres et références](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-tableau-s10.html)
+- [Capsule 3 du parcours S10 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418529-3.html)
+- [Capsule 4 du parcours S10 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418529-4.html)
+- [Capsule 5 du parcours S10 (ordre de la page)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-capsule-418529-5.html)
+- [S10 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418529.html)
+- [Travail #2 — obtenir l’énoncé officiel inaccessible](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-work2-enonce-manquant.html)
+- [Travail #2 — obtenir le gabarit du rapport inaccessible](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-work2-rapport-manquant.html)
+- [S11 — checklist complète AVANT](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-parcours-418565.html)
+- [Tableaux de bord — texte principal de conception](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-tdb-texte.html)
+- [Tableaux de bord — informations de Tableau](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-tdb-tableau.html)
+- [Tableaux de bord — exemples complémentaires à critiquer](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-tdb-mauvais.html)
+- [Érablière Boisvert — pratique final — Q1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q01.html)
+- [Érablière Boisvert — pratique final — Q2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q02.html)
+- [Érablière Boisvert — pratique final — Q3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q03.html)
+- [Érablière Boisvert — pratique final — Q4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q04.html)
+- [Érablière Boisvert — pratique final — Q5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q05.html)
+- [Érablière Boisvert — pratique final — Q6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q06.html)
+- [Érablière Boisvert — pratique final — Q7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q07.html)
+- [Érablière Boisvert — pratique final — Q8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q08.html)
+- [Érablière Boisvert — pratique final — Q9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q09.html)
+- [Érablière Boisvert — pratique final — Q10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q10.html)
+- [Érablière Boisvert — pratique final — Q11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q11.html)
+- [Érablière Boisvert — pratique final — Q12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q12.html)
+- [Érablière Boisvert — pratique final — Q13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q13.html)
+- [Érablière Boisvert — pratique final — Q14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q14.html)
+- [Érablière Boisvert — pratique final — Q15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q15.html)
+- [Érablière Boisvert — pratique final — Q16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q16.html)
+- [Érablière Boisvert — pratique final — Q17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q17.html)
+- [Érablière Boisvert — pratique final — Q18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q18.html)
+- [Érablière Boisvert — pratique final — Q19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q19.html)
+- [Érablière Boisvert — pratique final — Q20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q20.html)
+- [Érablière Boisvert — pratique final — Q21](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q21.html)
+- [Érablière Boisvert — pratique final — Q22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q22.html)
+- [Érablière Boisvert — pratique final — Q23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q23.html)
+- [Érablière Boisvert — pratique final — Q24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q24.html)
+- [Érablière Boisvert — pratique final — Q25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q25.html)
+- [Érablière Boisvert — pratique final — Q26](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q26.html)
+- [Érablière Boisvert — pratique final — Q27](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q27.html)
+- [Érablière Boisvert — pratique final — Q28](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q28.html)
+- [Érablière Boisvert — pratique final — Q29](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q29.html)
+- [Érablière Boisvert — pratique final — Q30](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q30.html)
+- [Érablière Boisvert — pratique final — Q31](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q31.html)
+- [Érablière Boisvert — pratique final — Q32](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q32.html)
+- [Érablière Boisvert — pratique final — Q33](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q33.html)
+- [Érablière Boisvert — pratique final — Q34](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q34.html)
+- [Érablière Boisvert — pratique final — Q35](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q35.html)
+- [Érablière Boisvert — pratique final — Q36](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q36.html)
+- [Érablière Boisvert — pratique final — Q37](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q37.html)
+- [Érablière Boisvert — pratique final — Q38](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q38.html)
+- [Érablière Boisvert — pratique final — Q39](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q39.html)
+- [Érablière Boisvert — pratique final — Q40](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-off-boisvert-final-q40.html)
+## projects
+
+- [Travail #1 — ATI : parcours étudiant et contributions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-project-ati.html)
+- [Entrevue orale individuelle — expliquer le travail #1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-project-oral.html)
+- [Travail #2 — tableau de bord pour la simulation Maple](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/technologies-project-tableau-maple.html)
+## mocks
+
+## mockExams
+
+
+## Documents et textes
+
+- Pratique pour l'intra - Version étudiant E26.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/da4b52eee6132c534bcbdbe6f30280dd1476ea1b64b4915a3dd49fb6f52991dc.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e221a9215d0baa3b746597605e0de9f3a9eb49d9559927887da6aa0e84581c38.txt)
+- Érablière Boisvert (1).pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d1e456e8325aec4666f4fc0efb2f8f637ef3f6c840c84acc34deaff868ea3930.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9549fa8e375e90a735c784679d37aa779d4a0b260d2a073bb54940dde7756444.txt)
+- Questions de révision Érablière Boisvert - Version étudiant (1).pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/468a237d78b1f4247c4e246ba2dac16e0bf817deec6bf6c702c6bfff6e14637c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e89c1e10b8292a18d800307ca5d95a2ff630976ed5e132c0dc79f3744011bd33.txt)
+- Clés de correction examens de pratiques (Boisvert et CIN) E26.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a5b7554bfbaa363a34e57cc80f329b832a7c9dbef5e99fa64cacec2c164797df.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9a62afdac9c8cba29f5a27df082cf8cf816366a342d36bf1b593ba4c82777345.txt)
+- Intra 10701 FR H2026 Examen de pratique.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3d1a776f7c26440f0e55def25894f69365bbfc8feb85d6bbedee71364f2bcb47.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ee4a91e3d4f579a5813f04d50799445b0a9d13eae57dfb72f688a2c510e85ce8.txt)
+- Examen de pratique - Clé de correction.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/91d210628518a1dc926ba28ef237a43076446cb41e265130601f2b67da627219.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4cb1a4d6a62cb2774556d452f275d98a53dd999bca77691a3bc2b864147a4f1c.txt)
+- Cas Érablière Boisvert pour pratique final.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e7386620b882bd901abd7a77271418e481661fe7864482ad88ca4203c6de580c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d8faaee0b830c2eba5f96fd2dcfd86cc9f0835d2c6afa30571995546ec793c09.txt)
+- Examen final de pratique TECH 10701 E2026.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bb8a8f8db0840da76a188d951ae0c51654f453e9f6db18f25cedcc8c51254fd6.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf7e5eded2dfeccf6de30fc068c3c14fc4c32413ca536844e022b095421e9faa.txt)
+- Clés correction Examen pratique TECH 10701 E2026.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/958d6d1933f802aaf6144897a5c061d42f9ed42672249f1e84723e61bfe723bf.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0d87aa71bb0e3e74359bf4725a91481932e455cb70dea55501d713bed75df77.txt)
+- TECH 10701 A2026 Travail équipe #1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/703856a1eb2d9ce7bd2bea40b101b874ef7c5f211221f29ff2b44433b1300fb2.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9420b19dce720ae35e9951e43939ae970b4e58bd5db181b0a61a223150dcfdb.txt)
+- Dictionnaire des données - sources Maple ERPSim FR (3).pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d77b4dfcc8d8c42794c033b149e10f8646771377dcaac8a821ab28fdb3720a99.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/35f38a769456663cec570eeeedfcf8ab47523949d9de50edfd877b53957c9dc3.txt)
+- seance_rouge.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e9680d5511fa551d9198a0efa68301ee40b1302d337df7bbb36b0cf083af4c6d.png)
+- important-1.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/167ab18243eb6402617693f6dab733c2404dfdef2ab02e7c3feb900ef850f39f.png)
+- 10701 A26 Séance 01.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/10741637378855750f735a0b77315210485f7415ec718be72f72856cb83d962d.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2d014ad8799504b8e6cc5b6ce4e8cf00a8b331589367ec252ea139ed91448fc.txt)
+- seance_turquoise.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b98c7ad75e394b5f7cd43a3d985a51eae767cedbf91c814b63e1b5edbcb6308.png)
+- Groupe-Agro FR 2025.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c8df729ca4454458ddab896778cebc10718e96d171ff6fb9846b9b0fcf7ab77.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3f9c3eb02f9314ed15d9774f5632852466eca7862db7b920eafb0f56a91a50fb.txt)
+- Aide-mémoire BPMN de base.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9e0e896c3a5afc78b32baf6be517e53a5860b71914d4d59f94b238398c9ad6cb.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/51201d8f9a195217bf897babbac6e9fa8c90773a88d2398b4a2317297986f011.txt)
+- Érablière Boisvert.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d1e456e8325aec4666f4fc0efb2f8f637ef3f6c840c84acc34deaff868ea3930.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9549fa8e375e90a735c784679d37aa779d4a0b260d2a073bb54940dde7756444.txt)
+- Gabarit BPMN.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ddb1b2fe85962ef767685a2f486d134fa4d1b3c8abfd7ed1ec2832a7fff5ac5c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c097a61c927f9f95b925236ecb789add3c0c43272cec880bd6567dffd2c81178.txt)
+- Gabarit exercice architecture S02.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/68266f39f0f1c1899f8adced37d012e963ec077f995104513127176e82242a73.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6c1282225b3feb7350b97fd5bd224c0133dcbd1c17412593873d6519f255c53c.txt)
+- K08173_Cross_Industry_FR_.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a8e31e864fc7351f0444678be0a5389173ab3f0cc8255585f5dc7e2c0e8887cc.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7dfd81c4c783eaa1c308809d3a7685580189761e8fbdcef3807c45e75f06e23a.txt)
+- 10701 A26 Séance 02 - Étudiants avant.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf3d13b51ae4c1458856eb0867926ac18190f002d9724d288ba4387890050069.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5c384195a293f944bafbe0ebea9b791bf8080e213942f14a64780c2fb285735e.txt)
+- 10701 A26 Séance 02.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/34e8bcf71743178cb4fb6cf8a24a0370ef749e4e9f1991dde0080609ac37a136.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4c5acebf6058334682992d206ad80eeef631e79802967148735e3f55a76219ff.txt)
+- seance_jaune.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/07db8d754c322779af2814430916920be61888b880c75e8f4bd35257aafc2144.png)
+- Texte sur les bases de données.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/89980c4e771648cc69ef95450c5c15f8d8f4c078cce4d578a4037d430f9ccb5a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/153e476e7a759297107747548f550d2789bc20442bb23525ddd882963dcd40f1.txt)
+- 10701 A26 Séance 03 - étudiants avant.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/49273729b41a99f9439de079c2137b48b167e2e057c964462cd36758784d56fe.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9c25dab141ff4e81f0986ce47f8e125c66ce1768883de1da9daa22984c89450e.txt)
+- Exercices de révision - Normalisation.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/31f68c95d7a2afae8da55388c51c7c04afd3667d2f3e2e81935af077ff3e344f.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/edbad36236e3b163da332521b5e39af40c383805715e57f6cdd01a1e79bb628b.txt)
+- Jeopardy FR animé MCT.ppsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1068efd5a3e5b503d1b8d7568ce0205f81d423bfabcf1417316f194ff95fe07e.ppsx)
+- Questions révisions BPMN (extrait de Jeopardy).pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1dfb3f72e1d2513bbfcf12da32f53b561b7425f75a8159363505311788e00c3d.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/65db40ecf083682b2f21d41194be038187f038ef4c1548bb6b864505e2fe9107.txt)
+- mtn-a26-s3-ap-1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/826fe26fa05b48256e55df67032bc44a4204a7231db8b99a31d45765c782df8c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/220d7cd5995abd37eb1724f81158f8e42ec5bb00740ff9dd1df455e31523635b.txt)
+- seance_rose.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2b079237ee482edad760c09fdbaac0691e4688b9a909d46c48b5b4cfd86062c3.png)
+- 10701 A26 Séance 04 - étudiants avant.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1f3e3f6a760abce0b45b9999295eddf3d8bb624db66f85bffd9be5859fec8464.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2f4c46e41810ab33eef852b6c092fa20826347706201446ad8137792f2b2cf6.txt)
+- 10701 A26 Séance 04.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9f820866437291759521360c4c0744e8d2290b9d5ad6c8b4851f93132585a19b.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4453d394ac2fcba5e8853bb0ce5baf3bb476db131271a1ba41885278aa766caa.txt)
+- seance_vert.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9a472456a337e1b77052634dbbd1bc6454df893b52002454982666cf5c9fe37.png)
+- 10701 A26 Séance 05 - étudiants avant.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c2dcab9d92752efa2430cfbd23075ea4bbfcd1be9efc6d524a1111f0e74cf475.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d4d2d23714b6484949192fed784b5561addd5907fb22986dc1b2f4b101bc0dc9.txt)
+- Type de champs dans Airtable.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6e24f6bf8b2b3fb8588daebf24e513edd01b69cd013b1d898680df3f8e5e1428.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/eef99e5b07858e0e8979924bfbe1471ac327db0cf27eddf22afc7361948deaf2.txt)
+- 10701 A26 Séance 05.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0536132340ce4a301993b73441cdcb79e502162276abdbbd2c53c9072e729969.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/edb2c9a33b9941e91b0329731942ceb3e74abf2bfc83f7bb58e993f7eddc6efd.txt)
+- 10701 A26 Séance 06 - étudiants avant.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/23a3482461abe37ecacc452240e2d927c102dee4072e73fe8a1fc453ab5a96ac.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/16fbd4ca60b977e8ec166b56d68a432a9b2b2abcf45f641a19d44514a7a6e88b.txt)
+- S07 - Récits utilisateurs H26.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/923f8403a1017d21a92353b008043297b4428e40f095f990de0f865971387ca2.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f3c5236b6c832dd74e68c950ea9f4faee2195ac79074872bacc47ecbdfaccddb.txt)
+- ArticleTransacH26 (1).txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5c3d0428a67f484f67d1f09ef18c38a82970b00f46dec43347f3da1cd212f437.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5c3d0428a67f484f67d1f09ef18c38a82970b00f46dec43347f3da1cd212f437.txt)
+- TypeTransacH26 (1).txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e1e692075981fe487c2febb75c51993f8a313ee027840e32338ef3050714840b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7d2530d439f6a049b49fea21de753fae734e1063d3bdb069f8bee25ce514f5dd.txt)
+- ClientTransacH26 (1)-1.txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e7edc9efae53f7d3b4e6b73d54c15c195cc2722eb3f861778a9cfdd1fb9d0a3c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf81068e4fdf848ec6b239259d316a9a4cc2b979f368368546f235de47f23f82.txt)
+- CommandeTransacH26 (1).txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/290b85a89f7642570cbb6d7c66e05e8427d7b40457eae2a9c4d86cbe5932dada.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/290b85a89f7642570cbb6d7c66e05e8427d7b40457eae2a9c4d86cbe5932dada.txt)
+- DetailCommandeTransacH26 (1).txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/aaa0196e1c7ed4b1b29c93d04882ab51295ee7daeb4fbe6f142bfd6b0004414f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/aaa0196e1c7ed4b1b29c93d04882ab51295ee7daeb4fbe6f142bfd6b0004414f.txt)
+- seance_bleu.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ecc63d796f6e0da4eb364a7057f0cbce6b962db5c041bb387a0719d0a8d03e6d.png)
+- Agronome.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a8341a854ce7df9e961aa8ca92b4a4806cb5acc806a0c9a95e7085d13e819f36.csv)
+- Produit.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c1b76490055717b451303943b5959c9f693522ff64b4cb48f23c8be1db2f2f60.csv)
+- Site.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/82bae360058e8593ae20ecb3d7dd8602587d0fb607a618403de30cdc9f591455.csv)
+- SiteAgronome.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b17cf7b8a2cbf62fe9528794db8e49328bc8814eaaa97ebcb5d6b6011de1230b.csv)
+- Commande.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/21d8c7330f3943458f89410ac0d4cd92ff00102f4d0b4ddf336cdfa508d932c6.csv)
+- DetailCommande.csv
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/78772efee688e58b5766e2f78ef39621e1e135bc413fba79da7aabfa6f893a10.csv)
+- DIM_Vendeur.txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8dc3e8f67a2a7c20c4176fe0ddf6e672ec2bff99f3250189f08afa36082cfdb5.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0997d63d91f752146faaab86f27a43216aff9c2aa318179ff8e665143b1475b5.txt)
+- 1 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d602720235b50732a9dd843e14fa016fa078632df766ac1ac5e8cb6ee98cd2f1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d602720235b50732a9dd843e14fa016fa078632df766ac1ac5e8cb6ee98cd2f1.txt)
+- 1.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b020481ba08792b9ba338ab372ba561ff778f1aa8d239a990c8e19269fcb841e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b020481ba08792b9ba338ab372ba561ff778f1aa8d239a990c8e19269fcb841e.txt)
+- 1.3 | Activités et ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a820756f00654838182713cf49362330381fa5edfe12211cc878e81ebca0a751.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a820756f00654838182713cf49362330381fa5edfe12211cc878e81ebca0a751.txt)
+- 2 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/34d34083078221523c9fa44a81855c1ac2f7130e5d77422d32b992425b254894.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/34d34083078221523c9fa44a81855c1ac2f7130e5d77422d32b992425b254894.txt)
+- 2.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cb0a71981673a6342fa0bb2943b2c17f2a653ed07e93358f163ffdb670e94a62.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cb0a71981673a6342fa0bb2943b2c17f2a653ed07e93358f163ffdb670e94a62.txt)
+- 2.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5ea23c08faa3a538f521bcf17f68552f663324c5bb692ef07bc263356e789659.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5ea23c08faa3a538f521bcf17f68552f663324c5bb692ef07bc263356e789659.txt)
+- 2.3 | Activités et ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f55f4e9171775e891900af5b7bab58c3d93e95ee330dc9ef6dac86d242483e59.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f55f4e9171775e891900af5b7bab58c3d93e95ee330dc9ef6dac86d242483e59.txt)
+- 3 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/20551b505f44f73b184004ade6ccb59d752d4b057c1da8adb626bea1cd3e1646.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/20551b505f44f73b184004ade6ccb59d752d4b057c1da8adb626bea1cd3e1646.txt)
+- 3.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/93e0b4f4de695f9196bc177be0c99042df29d69cee55ffe5161ef52af4844bc6.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/93e0b4f4de695f9196bc177be0c99042df29d69cee55ffe5161ef52af4844bc6.txt)
+- 3.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/68571ecbea4a33575d815739d2bfa980443cf6f2960d8763d70af4c174a12b20.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/68571ecbea4a33575d815739d2bfa980443cf6f2960d8763d70af4c174a12b20.txt)
+- 3.3 | Activités et ressources APRÈS la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/80063b763fb7d154b05ee74dee6488f785d98e6f4be4926728cb2d8bea5cbc49.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/80063b763fb7d154b05ee74dee6488f785d98e6f4be4926728cb2d8bea5cbc49.txt)
+- 4 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9c6d8f7a898671256cc6a9b6ca5dbbd05c2e7862b7850a61edfcfecc7c59c47a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9c6d8f7a898671256cc6a9b6ca5dbbd05c2e7862b7850a61edfcfecc7c59c47a.txt)
+- 4.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dce30c41f81cc557767876928a055ad3f714ce7af56bc897572baeb698fe7378.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dce30c41f81cc557767876928a055ad3f714ce7af56bc897572baeb698fe7378.txt)
+- 4.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/347665ba59fcb78c67c302683950a0e6b693554753e5f44fce2a8e9c3876a1cd.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/347665ba59fcb78c67c302683950a0e6b693554753e5f44fce2a8e9c3876a1cd.txt)
+- 4.3 | Activités et ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2c4c783514d02feb1789a18913ed53b1b1989e5d14e50cc7cdc223b8faaad24.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2c4c783514d02feb1789a18913ed53b1b1989e5d14e50cc7cdc223b8faaad24.txt)
+- 5 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf9dca9a5e30c6319b8dbf1d4c320d64ecc4c240d6c605288032c37602181c11.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf9dca9a5e30c6319b8dbf1d4c320d64ecc4c240d6c605288032c37602181c11.txt)
+- 5.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3e6568971235ec634d2feb18fda9e27c1123e9eee177592d3835ad6dd0ddb473.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3e6568971235ec634d2feb18fda9e27c1123e9eee177592d3835ad6dd0ddb473.txt)
+- 5.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/46f579c220f83b6b837f60d77e1663e94a12c920d486e9fa4c7ae68d196e57d6.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/46f579c220f83b6b837f60d77e1663e94a12c920d486e9fa4c7ae68d196e57d6.txt)
+- 5.3 | Activités et ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/968bc356c96cbca529b6ab480115e5b928c3e980824264345fdcd3a385f9f58e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/968bc356c96cbca529b6ab480115e5b928c3e980824264345fdcd3a385f9f58e.txt)
+- 6 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bda7a0999defa29262637b78af02dedb4f4915ad06d6c89d274ba6355649fb1c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bda7a0999defa29262637b78af02dedb4f4915ad06d6c89d274ba6355649fb1c.txt)
+- 6.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1e97439ed46ffacfeb6d203240f766bc75c528d88b7060cff78df41afe9a4baa.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1e97439ed46ffacfeb6d203240f766bc75c528d88b7060cff78df41afe9a4baa.txt)
+- 6.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ac89c83adf382c05d42bfe025118bd62ca7bfddf2158acf089406374704466fb.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ac89c83adf382c05d42bfe025118bd62ca7bfddf2158acf089406374704466fb.txt)
+- 6.2.1 | Activités et ressources supplémentaires PENDANT la séance (contenu de l'enseignant)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d4c75622d1d0c401a236f6a82c25f62126362c860569516e564ec9d940f20d21.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d4c75622d1d0c401a236f6a82c25f62126362c860569516e564ec9d940f20d21.txt)
+- 7 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/774ad26b90a4d947202e3f0afd85dfd326ee41b93029f4f904309ef823a9f7c3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/774ad26b90a4d947202e3f0afd85dfd326ee41b93029f4f904309ef823a9f7c3.txt)
+- 7.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/994b383f4756b75c0c1091dbdcab7f36e056e7aae9919f94e0c7963fd490599b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/994b383f4756b75c0c1091dbdcab7f36e056e7aae9919f94e0c7963fd490599b.txt)
+- 7.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3776dc6b575357b69cbe0284d3589eb2221bae691a67f82652e1b70a70b8289b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3776dc6b575357b69cbe0284d3589eb2221bae691a67f82652e1b70a70b8289b.txt)
+- 7.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c4e85639225fd18ba2b70d8dc3374c40053d2b407cbb0f0dd87b4001a4ccdf9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c4e85639225fd18ba2b70d8dc3374c40053d2b407cbb0f0dd87b4001a4ccdf9.txt)
+- 8 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dee4ef4c09134c233b20792e512e5dbe962234e9f256dcfc4e926a4604c9bc9e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dee4ef4c09134c233b20792e512e5dbe962234e9f256dcfc4e926a4604c9bc9e.txt)
+- 8.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f7561f47259d3188172c10134ec8e41c9b07feb7f7c6ce1a268b8030d5f5683.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f7561f47259d3188172c10134ec8e41c9b07feb7f7c6ce1a268b8030d5f5683.txt)
+- 9 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3163f19f7b884b9e77ae4d46433b8eea703cdfa1dd67a50d7d0c8d5aa90c3882.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3163f19f7b884b9e77ae4d46433b8eea703cdfa1dd67a50d7d0c8d5aa90c3882.txt)
+- 9.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/71fe8cf80d761f5057bb4b5c5dd648bb8105e15a424cf5adbd29748e20a0241a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/71fe8cf80d761f5057bb4b5c5dd648bb8105e15a424cf5adbd29748e20a0241a.txt)
+- 10 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d9cc56e5f3e399672fa09ab8917fcbe7b968b7e55732e4ced76b11aec8aad84f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d9cc56e5f3e399672fa09ab8917fcbe7b968b7e55732e4ced76b11aec8aad84f.txt)
+- 10.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9e24f4b52310039789624ca2dcbb30a2ae4784cf392dc6f5c0d5609a7c0a6c7a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9e24f4b52310039789624ca2dcbb30a2ae4784cf392dc6f5c0d5609a7c0a6c7a.txt)
+- 11 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/15033b30ae07680d522e42864cd628e7a28c615a2c467c0dcbb4b8d4220948c8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/15033b30ae07680d522e42864cd628e7a28c615a2c467c0dcbb4b8d4220948c8.txt)
+- 11.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/302ab11c3c966a7df2cd7d0c34aa9ff11cc0f24f58e8669ec89e44e88bc82d46.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/302ab11c3c966a7df2cd7d0c34aa9ff11cc0f24f58e8669ec89e44e88bc82d46.txt)
+- 12 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c6b111c9f639f501934ec76c3a3c3ceda58c957096d365ceffcd5f9eacfa810d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c6b111c9f639f501934ec76c3a3c3ceda58c957096d365ceffcd5f9eacfa810d.txt)
+- Présence obligatoire à la séance 4 - Point de participation
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0df987b28f7ee54c90c4e9ce9229dee4205a643716860196ebd6a09898dceb86.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0df987b28f7ee54c90c4e9ce9229dee4205a643716860196ebd6a09898dceb86.txt)
+- Exercice de normalisation sur le toilettage d'animaux
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/045292a76f9da5069d669c70c6a96a8af4e6ac3d1595552deb1d0e9884ea4e26.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/045292a76f9da5069d669c70c6a96a8af4e6ac3d1595552deb1d0e9884ea4e26.txt)
+- Normalization Exercise on Pet Grooming
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3887bfc6a2697cb22707547e3b566e0e4880d0d12bbed3ec05269ac7ac83b2d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a3887bfc6a2697cb22707547e3b566e0e4880d0d12bbed3ec05269ac7ac83b2d.txt)
+- Participation
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36e3d7104e3e9ded6961a8a2eefcee792578ea68b0602ffc61a310e2b57b248b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36e3d7104e3e9ded6961a8a2eefcee792578ea68b0602ffc61a310e2b57b248b.txt)
+- Quiz formatifs (8 - Voir la section plus bas)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/267b890dc2dabbccf140a5be9a9e9018b5e26c56992d1805d4602c101b0119af.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/267b890dc2dabbccf140a5be9a9e9018b5e26c56992d1805d4602c101b0119af.txt)
+- Évaluation orale liée au premier travail d'équipe (autour de la séance 9)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8cc99c02dcd21469cc3ae79efeb93c3d25ecbc9b2680ae51c6f2382dc1743a7f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8cc99c02dcd21469cc3ae79efeb93c3d25ecbc9b2680ae51c6f2382dc1743a7f.txt)
+- Examen intra
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3a106ffd39ab179817b85592d1c074c333558b7e40603258960bee705881e668.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3a106ffd39ab179817b85592d1c074c333558b7e40603258960bee705881e668.txt)
+- Examen final
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cc01fc37297137a6a60005234efc8f278b0c2adb8a074b317b67216cfc1a8c69.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cc01fc37297137a6a60005234efc8f278b0c2adb8a074b317b67216cfc1a8c69.txt)
+- Développement d’une application pour intégrer les apprentissages (à remettre à la séance 8)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d3b2739aea9b20e77838280b3b4cd7044d4f95a7f0ddce47bcda25f48bf66fb9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d3b2739aea9b20e77838280b3b4cd7044d4f95a7f0ddce47bcda25f48bf66fb9.txt)
+- Développement d’un tableau de bord pour soutenir la dernière simulation (à remettre 2 jours après la séance 12)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/13c935153f6623958cd6da501d840a3e8802fb2f118e806b83d31b8296abfea2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/13c935153f6623958cd6da501d840a3e8802fb2f118e806b83d31b8296abfea2.txt)
+- Préparation séance 2 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2164ac683a5d36b83cf9e4bb8729e1305642b20ea15bd373b29d4dc6434a021.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f2164ac683a5d36b83cf9e4bb8729e1305642b20ea15bd373b29d4dc6434a021.txt)
+- Préparation séance 3
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b853e409904d8413df68d0ad5ca15d40531e235422e8fcad895e8a607c1603b3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b853e409904d8413df68d0ad5ca15d40531e235422e8fcad895e8a607c1603b3.txt)
+- Préparation séance 4
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/450809c3e03d08fde90cc0e660ceb639ee1eb1118098e100f1a301ce0bdf3736.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/450809c3e03d08fde90cc0e660ceb639ee1eb1118098e100f1a301ce0bdf3736.txt)
+- Préparation séance 5
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/14e4a7e1c1783e08b37d89cd8701d43e47997e33cafe5d5c51d4eba8f3e272eb.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/14e4a7e1c1783e08b37d89cd8701d43e47997e33cafe5d5c51d4eba8f3e272eb.txt)
+- Préparation séance 6
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf624f1cb01053e82b93b1fea23679601c4a2ed0e49c4f61e723afdd0ee1c67c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf624f1cb01053e82b93b1fea23679601c4a2ed0e49c4f61e723afdd0ee1c67c.txt)
+- Préparation séance 7
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f65aeac948217ecea7b7829c8828d535605de3df08ea7731dfd64768d807988.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f65aeac948217ecea7b7829c8828d535605de3df08ea7731dfd64768d807988.txt)
+- Préparation séance 8 ERPSim
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/deeb245ca02d3221fc0ab630f34153486de4d925992111f1189c91e770672117.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/deeb245ca02d3221fc0ab630f34153486de4d925992111f1189c91e770672117.txt)
+- Préparation séance 9
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/32ab8e3ef7797e4995060c2978407500face894ddc46e205b5b33da517861801.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/32ab8e3ef7797e4995060c2978407500face894ddc46e205b5b33da517861801.txt)
+- Informations officielles et évaluations
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bd33135604f6209dde5ca9f207761eacb0dc082c6e235e33cdc560762cd4dfa8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bd33135604f6209dde5ca9f207761eacb0dc082c6e235e33cdc560762cd4dfa8.txt)
+- S2a - Piscines et couloirs
+- S2b - Flux de séquence
+- S2c - Passerelles exclusives
+- S2d - Concept de jeton
+- S2e - Événements de début et de fin
+- S2f - Événements intermédiaires
+- S2g - Flux de message
+- S2h - Types d'activités
+- S2i - Objets et magasins de données
+- S3a-Normalisation1FN
+- S3b-Normalisation2et3FN
+- S3c E26 - Dictionnaire des données diaporama
+- S3d E26 - Création liste agronome - Airtable diaporama
+- S3e E26 - Saisie dans formulaire - Airtable diaporama
+- S4a E26 -Modèle conceptuel
+- S4b E26 - Modèle logique
+- S4c E26 - Notions complémentaires BD
+- BD AirTable S03
+- S4d - Saisie depuis Softr - Airtable
+- S4e E26 - Notions complémentaires Softr - Airtable
+- BD Airtable fin séance 4
+- S5a - Recherches lors de saisies
+- S5b - Saisies dans des listes de choix
+- S5c - Filtres
+- S5d - Filtres dans Airtable
+- S5e - Barre de recherche Airtable
+- S5f - Filtres et recherches Softr
+- BD Airtable séance 5 avant G
+- S5g - Champs calculés Airtable
+- BD Airtable pour mise à niveau au début de la séance
+- BD Airtable fin séance 5
+- S6a-Algorithmesdefinitionsdiaporama__88702566
+- S6b-AutomatiserunsuiviAirtablediaporama__142204336
+- BD Airtable avec table Suivi vide
+- S6c-Faciliterlessuivisdiaporama
+- S6d-Forcerlesvaleursuniquesdiaporama
+- Comment fonctionne un modèle comme ChatGPT (6.1)?
+- Biais et hallucinations: Pourquoi l’IA imagine des oursons bleus (6.5)?
+- Que faut-il savoir sur les biais de l’IA (2.3)?
+- Que faut-il comprendre des hallucinations de l’IA (2.4)?
+- Quelles utilisations de l’IA sont à proscrire ou à encadrer (3.4)?
+- Lien du Airtable pour construire l'application Softr
+- sur la page ERPsim
+- https://erpsim.hec.ca/system/files/erpsim/lp/Maple/Intro/2023-24_JobAid_Maple_FR.pdf
+- https://erpsim.hec.ca/system/files/erpsim/lp/Maple/Intro/2023-24_Slides_Maple_FR.pdf
+- S9a - Modélisation dimensionnelle
+- Lien vers la base de données Groupe-Agro
+- S9b - ETL pour dimensions
+- S9c - ETL pour fait
+- S9d - Chargement dans Tableau Software
+- S9e - Requêtes simples Tableau
+- S9f - Requêtes intermédiaires Tableau
+- Lire le texte suivant
+- Information sur les tableaux de bord chez Tableau Software
+- Exemples de mauvais tableaux de bord
+- Exemple satirique de comment créer le pire tableau de bord
+- Document référencé dans la consigne
+- Document référencé dans la consigne
+- Document référencé dans la consigne
+- Document référencé dans la consigne
+- CAI — consentement et nécessité
+- CAI — incidents et mesures de sécurité
+- CAI — droits des personnes

@@ -1,0 +1,224 @@
+# Comportement organisationnel
+
+[Cours complet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/cours-comportement.html)
+
+## lessons
+
+- [Comprendre une personne au travail : faits, modèle, intervention](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-cadre-analyse.html)
+- [Personnalité, identité, réputation et développement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-personnalite-dynamique.html)
+- [OCEAN : cinq dimensions et leurs nuances](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-ocean.html)
+- [HEXACO : la sixième dimension change la lecture](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-hexaco.html)
+- [Traits, types de Jung et attitudes de Horney : choisir le bon cadre](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-jung-horney.html)
+- [Sensation, perception, cognition et métacognition](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-conscience.html)
+- [Neisser et Piaget : des attentes aux nouveaux schémas](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-neisser-piaget.html)
+- [Biais, attribution, prophétie et recul critique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-biais-decision.html)
+- [Motivation : force, direction, persistance et énergie](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-energie-regulation.html)
+- [Maslow : déficience, croissance et besoins en tension](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-maslow.html)
+- [Autodétermination : autonomie, compétence et relation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-autodetermination.html)
+- [Fiske et Dweck : besoins sociaux et schémas face aux défis](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-fiske-dweck.html)
+- [Lazarus et Folkman : évaluer et choisir comment faire face](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lazarus-coping.html)
+- [Hobfoll : réservoir, pertes, caravanes et corridors](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-hobfoll.html)
+- [Émotion et stress : fonctions, mobilisation et récupération](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-emotion-stress.html)
+- [Demandes, ressources et santé au travail : agir sur les conditions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-sante-travail.html)
+- [Synthèse intra : relier personnalité, perception, motivation et adaptation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-intra.html)
+- [Apprendre que, apprendre à, apprendre et apprendre à être](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-apprentissage-approches.html)
+- [Renforcement et punition : ajout, retrait et effet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-consequences-conduite.html)
+- [Comprendre, pratiquer et tirer une règle de l’expérience](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-apprendre-experience.html)
+- [Relations humaines : sociabilité, socialité et liens](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-relations-attachement.html)
+- [Rogers : authenticité, acceptation et empathie](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-rogers.html)
+- [Pouvoir et cinq formes d’influence sociale](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-pouvoir-influence.html)
+- [Leadership : personne, groupe, contexte et effets](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-leadership.html)
+- [Groupe, équipe et interdépendance](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-equipe-groupe.html)
+- [Efficacité collective : résultat, fonctionnement et maintien](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-efficacite-collective.html)
+- [Synthèse finale : relier personne et collectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-finale.html)
+## officialExercises
+
+- [Questionnaire et calculateur Big 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-big5.html)
+- [Cas Justin : observer les comportements](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-justin-observer.html)
+- [Cas Justin : comparer deux profils OCEAN](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-justin-ocean.html)
+- [Cas Justin : comparer deux profils HEXACO](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-justin-hexaco.html)
+- [Exercice Horney : réaction défensive au feedback](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-horney.html)
+- [Exercice de prédispositions naturelles](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-predispositions.html)
+- [Cas Sabrina : besoins et dynamique de motivation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-sabrina.html)
+- [Cas Sabrina : critiquer une réponse d’étudiant](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-sabrina-critique.html)
+- [Compléter Synthèse-Chapitres](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese.html)
+- [Patricia et la réduction de main-d’œuvre](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-patricia.html)
+- [Préparation chapitre 1 — question 1 : Suis-je la même personne au travail et à la maison?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lecture1-question-1.html)
+- [Préparation chapitre 1 — question 2 : Sommes-nous condamnés à rester les mêmes?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lecture1-question-2.html)
+- [Préparation chapitre 1 — question 3 : Quels cinq traits me décrivent?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lecture1-question-3.html)
+- [Préparation chapitre 1 — question 4 : Pourquoi certains comportements contreproductifs?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lecture1-question-4.html)
+- [Préparation chapitre 1 — question 5 : Qu’est-ce qu’être normal?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-lecture1-question-5.html)
+- [Lecture obligatoire — chapitre 1 : Personnalité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch1.html)
+- [Lecture obligatoire — chapitre 2 : Perception](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch2.html)
+- [Lecture obligatoire — chapitre 3 : Motivation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch3.html)
+- [Lecture obligatoire — chapitre 4 : Adaptation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch4.html)
+- [Lecture obligatoire — chapitre 5 : Apprentissage](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch5.html)
+- [Lecture obligatoire — chapitre 6 : Relations humaines](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch6.html)
+- [Lecture obligatoire — chapitre 7 : Influence sociale](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch7.html)
+- [Lecture obligatoire — chapitre 8 : Équipes de travail](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-ch8.html)
+- [Exercices du manuel — inventaire à compléter](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-manuel-exercices.html)
+## projects
+
+- [Synthèse de discussion 1 — en classe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-1.html)
+- [Synthèse de discussion 2 — en classe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-2.html)
+- [Synthèse de discussion 3 — en classe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-3.html)
+- [Synthèse de discussion 4 — en classe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/comportement-synthese-4.html)
+## mocks
+
+## mockExams
+
+
+## Documents et textes
+
+- Synthèse-Chapitres.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f8a5b0357f68e2ad2aba40177db54d11d3d2efc816f7a54c4d5a5a5b7662cfec.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e5e97e98765949aeb0e038ca21136542bc6e08a5e23a7798f5c33f7432544136.txt)
+- important-1.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/167ab18243eb6402617693f6dab733c2404dfdef2ab02e7c3feb900ef850f39f.png)
+- seance_rouge.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e9680d5511fa551d9198a0efa68301ee40b1302d337df7bbb36b0cf083af4c6d.png)
+- 10401-S1-étudiants.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d3bfabbbafe258b944c820e6f2691d1719f3676f1391861987f3e1805184004d.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fb01f1c7adf62f4545090f737c56d712e729b29831436f4006950d29d6aa18d0.txt)
+- seance_turquoise.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b98c7ad75e394b5f7cd43a3d985a51eae767cedbf91c814b63e1b5edbcb6308.png)
+- Copie de Calculateur_Profil de personnalité_Big 5-1.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c6a2554943a9db556bc524aaf0e2959b0970299de719604fca6ceba7ff8b728.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/280d08ba47cb32175f27580e9cb46d7d783b5714e7af7fe19be9a18f4780b6b1.txt)
+- 10401-S2-Personnalité-étudiants.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/55b636c4a7c5eeb0cb75a377fb63d69c7bf42b2f75e0276fac957e0d5c820583.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f72ab1f0d3f054bf683be896d3a34f7b9042ace5485cc38d0ee607096eea39c5.txt)
+- seance_jaune.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/07db8d754c322779af2814430916920be61888b880c75e8f4bd35257aafc2144.png)
+- 10401-S3-.étudiantspptx.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b442ccebff74dde4186d70114e30791d211663ddc5c6d4c9c02cb0f4f65010f4.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c6489aa77d2e9998ad59145f50d962dca63f702bb593e3df5953d80b41b74bca.txt)
+- seance_rose.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2b079237ee482edad760c09fdbaac0691e4688b9a909d46c48b5b4cfd86062c3.png)
+- 10401-S4-Motivation-etudiants.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/80b3d88f516eee9ed53d4b03d82d352b08a2dd79454bc36c899285e3213ed7b8.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/80b58f317e52eaeb2032049eeb697961e835522a401fea5060cecea7e5180f9c.txt)
+- seance_vert.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9a472456a337e1b77052634dbbd1bc6454df893b52002454982666cf5c9fe37.png)
+- 10401-S6-Adaptation-Étudiant.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8f7d7cf40ef4efc8a9a80f5a7eb0ed8ed768032d516c8a066dac6ada79e32e10.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7a7cc548752d1d2afbc47b237926316310dd60315452252fde2f3ebaaca2c7f5.txt)
+- seance_bleu.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ecc63d796f6e0da4eb364a7057f0cbce6b962db5c041bb387a0719d0a8d03e6d.png)
+- 10401-S7-Adaptation-étudiants.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/44ed926aebb95e15a33370ff95e0c50919cab3b200189fffc29cac9608fad3df.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e2e40cbf2ee6eaa70a934ffda0c921abd023cb6a9946aec87ea0a76a3e6c1268.txt)
+- Patricia et la réduction de main.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d1148e778bbb2cd1c5d7f32ce0d9bc324943b9c0bdf84345061d95e7119024ad.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b99cc371428ff1fe302deb809ee9a2c58d87ee069ffaf9aa175038ad4ed3b4b0.txt)
+- Matériel pédagogique
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/de1b30ac0c0fc56f653e7ce71f3b91bcede5e9528633d445e3fc97840c829c8f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/de1b30ac0c0fc56f653e7ce71f3b91bcede5e9528633d445e3fc97840c829c8f.txt)
+- Introduction nouveau ZoneCours
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/47d5ff894b1332fe875a716384f75ee4935e129e0aadabb3947cdd3e26a7f1bf.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/47d5ff894b1332fe875a716384f75ee4935e129e0aadabb3947cdd3e26a7f1bf.txt)
+- 1 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9aa476b32f45f4efc8e9a30ce2bd92ced3ba9070c4c332a7abd3a18f094c24fe.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9aa476b32f45f4efc8e9a30ce2bd92ced3ba9070c4c332a7abd3a18f094c24fe.txt)
+- 1.2 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8f9a9480875e627cd611084915d16224c9ba3474e603a355e3a119408b589758.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8f9a9480875e627cd611084915d16224c9ba3474e603a355e3a119408b589758.txt)
+- 2 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b6193a702272cc8dd372476bbcb11e9cf004a32efe7dc60325ea54a70473723e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b6193a702272cc8dd372476bbcb11e9cf004a32efe7dc60325ea54a70473723e.txt)
+- 2.1 |  Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5413782dd0801344e4d53c37326e96958eed79ed4c4f2d886b8cf97282932605.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5413782dd0801344e4d53c37326e96958eed79ed4c4f2d886b8cf97282932605.txt)
+- 3 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1d69c6ba001314321747defce2904e5f1d900e32351e4358cc05138efb5dd703.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1d69c6ba001314321747defce2904e5f1d900e32351e4358cc05138efb5dd703.txt)
+- 3.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2f96a677dd80704e4ea49b6c4eeb23e7c2473f1478b623ca2e00431edc71d8f8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2f96a677dd80704e4ea49b6c4eeb23e7c2473f1478b623ca2e00431edc71d8f8.txt)
+- 4 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d063121cfa5f1baa34167932b2250af15477b6e638834b34e510724dad84f729.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d063121cfa5f1baa34167932b2250af15477b6e638834b34e510724dad84f729.txt)
+- 4.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/edd6fce0c3d0a772f9f65d0257c6d0df99691683ca66cc17554679263be24a20.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/edd6fce0c3d0a772f9f65d0257c6d0df99691683ca66cc17554679263be24a20.txt)
+- 5 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f65b0bf5631c179cefa5a6ffa346c0fe17ac786f80c7ca380a73d0076aa3f79.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f65b0bf5631c179cefa5a6ffa346c0fe17ac786f80c7ca380a73d0076aa3f79.txt)
+- 5.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c8e8785b913110441fe9ba97a65c4cf01b21341647cb6e4108c682f76c04b80d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c8e8785b913110441fe9ba97a65c4cf01b21341647cb6e4108c682f76c04b80d.txt)
+- 6 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4e4afc2b89b14d4961e6313b0ac28d9b0801daedebba59d3e1e81b0e75c8ba43.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4e4afc2b89b14d4961e6313b0ac28d9b0801daedebba59d3e1e81b0e75c8ba43.txt)
+- 6.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5d9a6ca0a23307ec57144d8494205d507e5ec565a080cd8e6f8df8359ff8a013.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5d9a6ca0a23307ec57144d8494205d507e5ec565a080cd8e6f8df8359ff8a013.txt)
+- 7 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9e93084918a11da3bee81012c132e335e316b207391c11bd23fb3d2955230f53.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9e93084918a11da3bee81012c132e335e316b207391c11bd23fb3d2955230f53.txt)
+- 7.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/714f1eceab69fea3319ccd10caad4d2cfd1d1f347cae674aa4f04a018efdd3e1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/714f1eceab69fea3319ccd10caad4d2cfd1d1f347cae674aa4f04a018efdd3e1.txt)
+- 8 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/def16ba174aa25d236068c079de397ea016bbf1fea4d3b8a6a14113b097f0d4b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/def16ba174aa25d236068c079de397ea016bbf1fea4d3b8a6a14113b097f0d4b.txt)
+- 8.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/44a87aea9f6d7b0303634acb5b69b5b0c52f15918c29a35dbf161c5fabf3402a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/44a87aea9f6d7b0303634acb5b69b5b0c52f15918c29a35dbf161c5fabf3402a.txt)
+- 9 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0dfc79b457edc2ad2f7e6a00e73e2923970c995a53a2278f3290b052ce8364c5.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0dfc79b457edc2ad2f7e6a00e73e2923970c995a53a2278f3290b052ce8364c5.txt)
+- 9.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b080d721c728c0ad15b007a88f2cb3227c5efa97e0201fbb3a58e169ce072da4.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b080d721c728c0ad15b007a88f2cb3227c5efa97e0201fbb3a58e169ce072da4.txt)
+- 10 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/83db1353fa2a00814452db0a748b9241f646539e016a368ec30ad424167c94c2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/83db1353fa2a00814452db0a748b9241f646539e016a368ec30ad424167c94c2.txt)
+- 10.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cba67a3837fbdabbe2a5e29f3c6c14104b9b2522a00875560055de9037d870b3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cba67a3837fbdabbe2a5e29f3c6c14104b9b2522a00875560055de9037d870b3.txt)
+- 11 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/adb6dd30ebc74bf2e5a6dd99ac99e4451f407884aa5235696bf1d4edd5b37897.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/adb6dd30ebc74bf2e5a6dd99ac99e4451f407884aa5235696bf1d4edd5b37897.txt)
+- 11.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f1f7771cca99925d0e9bb2dc65641de053366ec383e604727dd480fb24fc8b8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f1f7771cca99925d0e9bb2dc65641de053366ec383e604727dd480fb24fc8b8.txt)
+- 12 | Description et objectifs de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7166ab96b532270202a1e6bc6fbb6ae282495942523668f51f2efb3247af6e15.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7166ab96b532270202a1e6bc6fbb6ae282495942523668f51f2efb3247af6e15.txt)
+- 12.1 | Espace de l'enseignant (diapos, articles, etc.) 
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5fde505538382bf37f9113a960bf3e9d2d7370fd2d24299112806527a4ffca6.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f5fde505538382bf37f9113a960bf3e9d2d7370fd2d24299112806527a4ffca6.txt)
+- Document synthèse (presque complet!)
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/436ca91722b0fd6c03c34d3d483f4fdb3c0fd959c76d54f75f9794791c5f7d5a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/436ca91722b0fd6c03c34d3d483f4fdb3c0fd959c76d54f75f9794791c5f7d5a.txt)
+- Préparation séance 6
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8b0da30e8fc849816660adeba9ceae671c6a23e88efdf65109b295fc489fa9f3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8b0da30e8fc849816660adeba9ceae671c6a23e88efdf65109b295fc489fa9f3.txt)
+- Préparation - Séance 2
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca82f2047892d6d16e1ca3663c481ae7247514542c3c2de630d13fb1aeec3a59.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca82f2047892d6d16e1ca3663c481ae7247514542c3c2de630d13fb1aeec3a59.txt)
+- Synthèse de discussion 1
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7a1c0ee3c4e44c18866a11e74722e2cdb43809b82dd99013d5195de4ac8f100d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7a1c0ee3c4e44c18866a11e74722e2cdb43809b82dd99013d5195de4ac8f100d.txt)
+- Synthèse de discussion 2
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/50675f69ad633c35778197791f8b6b9fff0f8ad8e36e7300180804cf1d2a49ba.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/50675f69ad633c35778197791f8b6b9fff0f8ad8e36e7300180804cf1d2a49ba.txt)
+- Synthèse de discussion 3
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/61f423d7b0d5e8d8c133d8e49caef6fae8cf287257321135472cc1bed8f81931.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/61f423d7b0d5e8d8c133d8e49caef6fae8cf287257321135472cc1bed8f81931.txt)
+- Synthèse de discussion 4
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4888b63c78eb9ca15ede1cfd84d361cb46c262c1e2b6695fada6355348b1d69.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a4888b63c78eb9ca15ede1cfd84d361cb46c262c1e2b6695fada6355348b1d69.txt)
+- Informations officielles et évaluations
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/32fac9c03d6423a9300b21720debff5ed688dd77681f887746cd5dde8a94dc27.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/32fac9c03d6423a9300b21720debff5ed688dd77681f887746cd5dde8a94dc27.txt)
+- Introduction nouveau ZoneCours
+- Chapitre 1: La personnalité
+- Chapitre 2 La perception
+- Chapitre 3: La motivation
+- L'adaptation
+- Chapitre 5 : L'apprentissage
+- Chapitre 6: Les relations humaines
+- Chapitre 7: L'influence sociale
+- Chapitre 8 : Les équipes de travail

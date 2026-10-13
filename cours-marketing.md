@@ -1,0 +1,360 @@
+# Introduction au marketing
+
+[Cours complet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/cours-marketing.html)
+
+## lessons
+
+- [Besoin, désir, demande et valeur : partir de zéro](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-besoin-valeur.html)
+- [Éthique : tester les décisions sur tout le parcours](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ethique.html)
+- [Enjeu → objectif SMART → stratégie → tactique → contrôle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-plan-smart.html)
+- [Ansoff, concurrence et BCG : trois questions différentes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ansoff-bcg.html)
+- [Mission, partenariats et performance marketing](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-mission-performance.html)
+- [Les quatre P : décisions qui doivent tenir ensemble](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-mix-coherence.html)
+- [Qui fait quoi : organiser et exécuter le plan marketing](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-organisation-execution.html)
+- [FFOM et PESTEL : transformer un fait en diagnostic](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ffom-environnements.html)
+- [Porter : expliquer la pression concurrentielle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-porter.html)
+- [Recherche marketing et SIM : poser la bonne question](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-recherche-sim.html)
+- [Le parcours d’achat et les règles de décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-decision-consommateur.html)
+- [Influences internes, externes, contextuelles et B2B](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-influences-consommation.html)
+- [Quatre dimensions de la décision : explications et applications](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-cadres.html)
+- [Pré-achat, achat, post-achat et unité décisionnelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-unite-phases.html)
+- [Réseaux sociaux, cocréation et marketing conscient](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-evolutions.html)
+- [Cas historique Merck : lier parcours et unité décisionnelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-merck-analyse.html)
+- [Segmenter : créer des groupes utiles, pas des stéréotypes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-segmentation.html)
+- [Cibler et construire un persona fondé sur des données](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ciblage-persona.html)
+- [Combiner les variables : usage, entreprises et pays](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-segmentation-multicriteres.html)
+- [Choisir la cible : ressources, coûts et risques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-choix-cible-contraintes.html)
+- [Ciblage responsable : qui viser, comment et pourquoi](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ciblage-responsable.html)
+- [Atelier TP1 : vérifier les preuves et préparer la défense](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-atelier-tp1.html)
+- [Positionnement et différenciation : une place crédible dans l’esprit](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-positionnement-difference.html)
+- [Proposition de valeur et énoncé de positionnement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-proposition-position.html)
+- [Synthèse intra : raisonner sur 50 QCM à livres fermés](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-synthese-intra.html)
+- [De la valeur à l’offre : ce que le client cherche à accomplir](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-offre-canvas.html)
+- [Produit, service et marque : reconnaître leur rôle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-produit-marque.html)
+- [Expérience client, satisfaction et fidélité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-experience-client.html)
+- [Communication marketing : cible, objectif, message, moyens](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-communication.html)
+- [Défendre le TP1 sans ordinateur et vérifier le TP2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-oral-tp2.html)
+- [Marketing numérique : parcours, indicateurs et responsabilité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-numerique.html)
+- [Vente stratégique : diagnostiquer et construire une relation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-vente-strategique.html)
+- [Synthèse finale : analyser, recommander et justifier](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-synthese-finale.html)
+## officialExercises
+
+- [Chapitre 2 — question 1 : NIVEA/The Body Shop : comparer le positionnement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-1.html)
+- [Chapitre 2 — question 2 : Moustache Bikes : choix du segment](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-2.html)
+- [Chapitre 2 — question 3 : Quick commerce : proposition de valeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-3.html)
+- [Chapitre 2 — question 4 : Organisation par clients et par produits](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-4.html)
+- [Chapitre 2 — question 5 : Faible rétention : diagnostic FFOM](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-5.html)
+- [Chapitre 2 — question 6 : Mission de Google](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-6.html)
+- [Chapitre 2 — question 7 : Aubade : classer les évolutions Ansoff](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-7.html)
+- [Chapitre 2 — question 8 : Zara : logistique et avantage stratégique](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-8.html)
+- [Chapitre 2 — question 9 : BCG et nécessité d’innovation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-9.html)
+- [Chapitre 2 — question 10 : Faible consommation de bière : opportunité ou menace](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-10.html)
+- [Chapitre 2 — question 11 : Herta/Le bon végétal : stratégie de marque](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-11.html)
+- [Chapitre 2 — question 12 : Baccarat : ligne de bijoux](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-12.html)
+- [Chapitre 2 — question 13 : Malongo Eoh : indicateurs de lancement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-13.html)
+- [Chapitre 2 — question 14 : Doro : spécialisation et diversification](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-14.html)
+- [Chapitre 2 — question 15 : Michelin : association de marque](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch2-reflexion-15.html)
+- [Cas Danone — question 1 : Classement BCG de Danone et Sojasun](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-danone-1.html)
+- [Cas Danone — question 2 : Stratégie d’investissement de Danone](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-danone-2.html)
+- [Cas Danone — question 3 : Stratégie des yaourts nature classiques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-danone-3.html)
+- [Chapitre 6 — question 1 : Hypothèses d’une carte perceptuelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-1.html)
+- [Chapitre 6 — question 2 : Positionnement sans segmentation?](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-2.html)
+- [Chapitre 6 — question 3 : Segments du marché des yaourts](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-3.html)
+- [Chapitre 6 — question 4 : Risques de l’hypersegmentation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-4.html)
+- [Chapitre 6 — question 5 : Cosmétiques pour hommes : obstacles](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-5.html)
+- [Chapitre 6 — question 6 : Assurance auto et ciblage : justification/risques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-6.html)
+- [Chapitre 6 — question 7 : Slogan Fiat et proposition de valeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-7.html)
+- [Chapitre 6 — question 8 : Critères du marché du dentifrice](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-8.html)
+- [Chapitre 6 — question 9 : Différentes enseignes hôtelières](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-9.html)
+- [Chapitre 6 — question 10 : Skoda : faire évoluer le positionnement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-10.html)
+- [Chapitre 6 — question 11 : Segments petits et hétérogènes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-11.html)
+- [Chapitre 6 — question 12 : Moins pour moins cher et taille du marché](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-12.html)
+- [Chapitre 6 — question 13 : Marketing global alimentaire](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-13.html)
+- [Chapitre 6 — question 14 : Stabilo Néon : analyser un échec](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-14.html)
+- [Chapitre 6 — question 15 : Ciblage des adolescentes et responsabilité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ch6-reflexion-15.html)
+- [Cas du maquillage pour hommes — question 1 : Potentiel du segment](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-maquillage-1.html)
+- [Cas du maquillage pour hommes — question 2 : Adoption du maquillage](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-maquillage-2.html)
+- [Cas du maquillage pour hommes — question 3 : Noms des collections](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-maquillage-3.html)
+- [Cas du maquillage pour hommes — question 4 : Produits pour la cible](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-maquillage-4.html)
+- [Cas du maquillage pour hommes — question 5 : Stratégie de marque](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-maquillage-5.html)
+- [Apple vs Samsung — Ansoff](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-apple-ansoff.html)
+- [Apple vs Samsung — BCG](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-apple-bcg.html)
+- [Atelier : votre premier diagnostic](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-premier-diagnostic.html)
+- [Analyse SWOT : cas McDonald’s](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-swot-mcdonald.html)
+- [Cas IKEA : motivations stratégiques du marketplace](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-ikea.html)
+- [Trouver une publicité pour une variable de segmentation](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-pub-variable.html)
+- [Reprendre la publicité et construire cible/persona](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-pub-persona.html)
+- [Intra de pratique officiel 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-intra-officiel-1.html)
+- [Intra de pratique officiel 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-intra-officiel-2.html)
+- [Final de pratique officiel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-final-officiel.html)
+- [Capsule préparatoire S1 — Les besoins et les désirs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-capsule-1.html)
+- [Capsule préparatoire S1 — La demande](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-capsule-2.html)
+- [Capsule préparatoire S1 — Le marché](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-capsule-3.html)
+- [Capsule préparatoire S1 — L’échange](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-capsule-4.html)
+- [Capsule préparatoire S1 — La valeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-capsule-5.html)
+- [Lecture obligatoire — Principes de marketing, chapitre 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-lecture-ch2.html)
+- [Lecture obligatoire — Consumer Behavior and the Buying Process](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-lecture-hbs.html)
+- [Lecture obligatoire — Principes de marketing, chapitre 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-lecture-ch6.html)
+- [Vidéo prescrite S7 — positionnement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-video-positionnement.html)
+- [Vidéo prescrite S8 — Value Proposition Canvas](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-video-canvas.html)
+- [Préparation S9 — cohérence et pertinence](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-preparation-communication.html)
+- [Illustration de lecture — Merck et Propecia](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-merck.html)
+- [Vidéo intégrée à la lecture HBS 1 — United Breaks Guitars](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-video-1.html)
+- [Vidéo intégrée à la lecture HBS 2 — Utiliser les réseaux sociaux pour écouter les clients](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-video-2.html)
+- [Vidéo intégrée à la lecture HBS 3 — Exploiter la créativité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-hbs-video-3.html)
+## projects
+
+- [TP1 — Analyse FFOM et réflexion stratégique (BENI si produit confirmé)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-tp1.html)
+- [Oral individuel sur le TP1, rencontre d’équipe](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-oral.html)
+- [TP2 — MKT Shorts et évaluation des pairs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/marketing-tp2.html)
+## mocks
+
+## mockExams
+
+
+## Documents et textes
+
+- important-1.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/167ab18243eb6402617693f6dab733c2404dfdef2ab02e7c3feb900ef850f39f.png)
+- 10100 Instructions TP.2026.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/56820a88db8872fbeb3470953187f9565c3efc10ce46b2c65ee79e33e3139553.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c35145c112999ddf4a9ab7dcf28f056d27dcb9e8073a5d0e176d1b6beaca9980.txt)
+- TP1_A2026_FR.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b7682f366e5624bbb2ec5e260013d6fb840ff9f16f44f3ce5e4411f5b0964dfd.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1bf7cb74285ec6aa7e33425045d3be57336d6eecbdf8505c69b1c30ba65896a9.txt)
+- MKT_Shorts_MARK10100.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e308676f1a47cd2cc6f20bd2e9492518d102de7afceb1b16e8e7f1f65490856a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e4f9368bc84d9dfa215110fea68953982313242a27ec963e717897ec700a4419.txt)
+- ProcédureYouTube.fr.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9533f1415b32fbfdc38e501ccb6fa8476e91495c231b105d54c601708444f18d.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6e5628cc8906d6cdbb3454f1c19e6684f908cce492abc80f6e63528a80b36756.txt)
+- Grilles évaluation pairs.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a27f09044e7a12ecbcbc4f1ac93339eb665e1510dfbcf7fc20a1c9728fb2bb21.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1031a0a0760019495ab1c3e72368c134067f4740a7ac5d3123f7198039a6d992.txt)
+- seance_rouge.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e9680d5511fa551d9198a0efa68301ee40b1302d337df7bbb36b0cf083af4c6d.png)
+- Séance 1 - Intro concepts de base.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/614311d4fccb0eb67c879361d793a1f622774b85f220009cc07c5c025cd8c20a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b9f883ed089332f2756294d8b5c2e3d671d292a7ced9daace145d141b445b2bc.txt)
+- seance_turquoise.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b98c7ad75e394b5f7cd43a3d985a51eae767cedbf91c814b63e1b5edbcb6308.png)
+- Principes_de_marketing_chap2.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/81a84e68e82d4297381114d97f4deb8be6a321183e1558ade913fd38d8c55a04.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d148cf4732c3ea2f3c7c203967e60c48c31f75a9454dcaa9b397f95c1236a484.txt)
+- 30-100 - Séance 2-1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f45055f6a5b0e443f5b61aaff59abf2478af6061ce22adf06e5e4ea2ff860eb3.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/773830547204fb06522a276ae4c50772b0baa5a6696559baf5807ad98a430c5d.txt)
+- seance_jaune.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/07db8d754c322779af2814430916920be61888b880c75e8f4bd35257aafc2144.png)
+- 30-100 - Séance 3.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c9d351fff23d79dbfd18edfe6f18e39914f80345ea4ab483a58a83c2fd77f69.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cc21d60f17cea960b093a34a73ec720675f1790446d40ecd4eca2f524cb89f98.txt)
+- TP1_A2026_FR.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b7682f366e5624bbb2ec5e260013d6fb840ff9f16f44f3ce5e4411f5b0964dfd.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1bf7cb74285ec6aa7e33425045d3be57336d6eecbdf8505c69b1c30ba65896a9.txt)
+- seance_rose.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2b079237ee482edad760c09fdbaac0691e4688b9a909d46c48b5b4cfd86062c3.png)
+- HBS-Comportement du consommateur.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7d8183505257e2675b2107162c304d901bfeec7c2baf485531679be677343dea.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2cdb2f62c79628689eeb55ef6c89cf4e0a8b983f1c2e64ca73879504d0ef48fa.txt)
+- 30-100 - Séance 4.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/55901424f3b87598902063572a48d8b3e48094bc3a7c2b1d1d44ca310d8f46dc.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a339e9758df0a1b2c6e778b06d0bf8f0d8837589d5f2e8049ec00426ef72277d.txt)
+- seance_vert.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9a472456a337e1b77052634dbbd1bc6454df893b52002454982666cf5c9fe37.png)
+- Chapitre 6.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a240a01b36c60dac95b4eb6f12b4db5873f73ca623202c78784ec50ea1d6ba71.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/645e04f2e9e1bfc954ecef08c442574ba4251a83bf58035203693c8e2a99512a.txt)
+- 30-100 - Séance 5.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bdc072117ad924dca129bae6a59242d7a4111ab35d646ad3362ebd95dad904cf.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f6e9ec478eed26c6a423db8b19420c48535e7b66441f7861e07a31c80846262d.txt)
+- seance_bleu.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ecc63d796f6e0da4eb364a7057f0cbce6b962db5c041bb387a0719d0a8d03e6d.png)
+- Chapitre 6-1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a240a01b36c60dac95b4eb6f12b4db5873f73ca623202c78784ec50ea1d6ba71.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/645e04f2e9e1bfc954ecef08c442574ba4251a83bf58035203693c8e2a99512a.txt)
+- LISEZ-MOI - TP1 Beni.txt
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e41cff4e435fede2f5a9064ba18755da2318621bebaffe15b9be32f8acff4fef.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cd0fa9dd9972d8df5e1a5f05139b31038b7c22a1adff02383466a0a8c72ef1dd.txt)
+- TP1_Beni_MARK10100.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/372ebc9dec8220ec2bf17788bda589b750e16bbcb107626a853d27d1e29e197a.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5f61c020916e844b648df58125455fb0b04285946ed47ac1017c65fa475fb2bf.txt)
+- 10100 Instructions TP.2026.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/56820a88db8872fbeb3470953187f9565c3efc10ce46b2c65ee79e33e3139553.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c35145c112999ddf4a9ab7dcf28f056d27dcb9e8073a5d0e176d1b6beaca9980.txt)
+- 30-100 - Séance 2-1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f45055f6a5b0e443f5b61aaff59abf2478af6061ce22adf06e5e4ea2ff860eb3.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/773830547204fb06522a276ae4c50772b0baa5a6696559baf5807ad98a430c5d.txt)
+- 30-100 - Séance 3.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c9d351fff23d79dbfd18edfe6f18e39914f80345ea4ab483a58a83c2fd77f69.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cc21d60f17cea960b093a34a73ec720675f1790446d40ecd4eca2f524cb89f98.txt)
+- 30-100 - Séance 4.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/55901424f3b87598902063572a48d8b3e48094bc3a7c2b1d1d44ca310d8f46dc.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a339e9758df0a1b2c6e778b06d0bf8f0d8837589d5f2e8049ec00426ef72277d.txt)
+- 30-100 - Séance 5.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bdc072117ad924dca129bae6a59242d7a4111ab35d646ad3362ebd95dad904cf.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f6e9ec478eed26c6a423db8b19420c48535e7b66441f7861e07a31c80846262d.txt)
+- Chapitre 6-1.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a240a01b36c60dac95b4eb6f12b4db5873f73ca623202c78784ec50ea1d6ba71.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/645e04f2e9e1bfc954ecef08c442574ba4251a83bf58035203693c8e2a99512a.txt)
+- Chapitre 6.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a240a01b36c60dac95b4eb6f12b4db5873f73ca623202c78784ec50ea1d6ba71.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/645e04f2e9e1bfc954ecef08c442574ba4251a83bf58035203693c8e2a99512a.txt)
+- Grilles évaluation pairs.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a27f09044e7a12ecbcbc4f1ac93339eb665e1510dfbcf7fc20a1c9728fb2bb21.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1031a0a0760019495ab1c3e72368c134067f4740a7ac5d3123f7198039a6d992.txt)
+- HBS-Comportement du consommateur.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7d8183505257e2675b2107162c304d901bfeec7c2baf485531679be677343dea.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2cdb2f62c79628689eeb55ef6c89cf4e0a8b983f1c2e64ca73879504d0ef48fa.txt)
+- MKT_Shorts_MARK10100.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e308676f1a47cd2cc6f20bd2e9492518d102de7afceb1b16e8e7f1f65490856a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e4f9368bc84d9dfa215110fea68953982313242a27ec963e717897ec700a4419.txt)
+- Principes_de_marketing_chap2.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/81a84e68e82d4297381114d97f4deb8be6a321183e1558ade913fd38d8c55a04.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d148cf4732c3ea2f3c7c203967e60c48c31f75a9454dcaa9b397f95c1236a484.txt)
+- ProcédureYouTube.fr.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9533f1415b32fbfdc38e501ccb6fa8476e91495c231b105d54c601708444f18d.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6e5628cc8906d6cdbb3454f1c19e6684f908cce492abc80f6e63528a80b36756.txt)
+- Séance 1 - Intro concepts de base.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/614311d4fccb0eb67c879361d793a1f622774b85f220009cc07c5c025cd8c20a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b9f883ed089332f2756294d8b5c2e3d671d292a7ced9daace145d141b445b2bc.txt)
+- TP1_A2026_FR.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b7682f366e5624bbb2ec5e260013d6fb840ff9f16f44f3ce5e4411f5b0964dfd.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1bf7cb74285ec6aa7e33425045d3be57336d6eecbdf8505c69b1c30ba65896a9.txt)
+- Matériel pédagogique
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d6496ac8f8ebe5e9627d33db79806fc03f61c684cbc8a2f608abc76f0da7140c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d6496ac8f8ebe5e9627d33db79806fc03f61c684cbc8a2f608abc76f0da7140c.txt)
+- Ressources supplémentaires pour les travaux pratiques
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/18845db85300520904e3e7f4ae462635bcee952cdb52707268c3094f8b9992b8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/18845db85300520904e3e7f4ae462635bcee952cdb52707268c3094f8b9992b8.txt)
+- Ressources supplémentaires pour les examens
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a550affb1661352927e88bcc0a81540dd4e7c40bdc36e2d9cc72df9e1910f9a2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a550affb1661352927e88bcc0a81540dd4e7c40bdc36e2d9cc72df9e1910f9a2.txt)
+- 1 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6f724e3e72310d5e77811d371f253bc2f8b57ba2a23c0c9651c28d8880401950.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6f724e3e72310d5e77811d371f253bc2f8b57ba2a23c0c9651c28d8880401950.txt)
+- 1.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/962f6e10fbe83ebe8e12455a8226b701d74fddeda2bfab0926076e8d71d4dbcf.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/962f6e10fbe83ebe8e12455a8226b701d74fddeda2bfab0926076e8d71d4dbcf.txt)
+- 1.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/031572d9c79ab677af63b9390d675a0f0d7327b58e1100eb88b39d475ecc0111.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/031572d9c79ab677af63b9390d675a0f0d7327b58e1100eb88b39d475ecc0111.txt)
+- 2 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/83c0fe2dffd53a46184a633feef7c3186b148ee4da9e62ab6cbe129d27b54e43.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/83c0fe2dffd53a46184a633feef7c3186b148ee4da9e62ab6cbe129d27b54e43.txt)
+- 2.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/abe5f98fb49da3b3241cf9ee425ea9f42dad5c8eae4d300ee4572560673ddca9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/abe5f98fb49da3b3241cf9ee425ea9f42dad5c8eae4d300ee4572560673ddca9.txt)
+- 2.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36a58b386970090ad07729d5d363111645f6d0b10bfe0af12a5288e6b8ca5a2d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/36a58b386970090ad07729d5d363111645f6d0b10bfe0af12a5288e6b8ca5a2d.txt)
+- 3 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0438a448853e625567a7ec89027ce00755611144514421f147ee4ac76e678bd.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0438a448853e625567a7ec89027ce00755611144514421f147ee4ac76e678bd.txt)
+- 3.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d93fea1cb375ddda1cd842a79b855999cedaa77e1ac593070340bdd531ec0f0f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d93fea1cb375ddda1cd842a79b855999cedaa77e1ac593070340bdd531ec0f0f.txt)
+- 3.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/555a6ecc088b813670c812fa80007893f03353bbe7b5c8db999ea4a860fa6a61.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/555a6ecc088b813670c812fa80007893f03353bbe7b5c8db999ea4a860fa6a61.txt)
+- 4 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7c630840c94836af4f9b9f82c977c33e51b86c625c9c1cefc1163ebdd7be94bc.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7c630840c94836af4f9b9f82c977c33e51b86c625c9c1cefc1163ebdd7be94bc.txt)
+- 4.1 |Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d013e12225ce8f9efc9dc8a1900e235905b53d99d4d63cf52936d6f5ea58b09e.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d013e12225ce8f9efc9dc8a1900e235905b53d99d4d63cf52936d6f5ea58b09e.txt)
+- 4.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2d17079576e52788ad82629dfa19f180a8a5fa5c539a8927825cc5720cd7bca4.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2d17079576e52788ad82629dfa19f180a8a5fa5c539a8927825cc5720cd7bca4.txt)
+- 5 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1cb236a3959bb8162da39867530aa6d3b20b79bf7f61b50ea44c0312f429e512.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1cb236a3959bb8162da39867530aa6d3b20b79bf7f61b50ea44c0312f429e512.txt)
+- 5.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf761ffc268916e22f60aea3dd2c406b40ccfae3604e3d1023d87556916cab02.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf761ffc268916e22f60aea3dd2c406b40ccfae3604e3d1023d87556916cab02.txt)
+- 5.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a98931c40fef398d0f302f36986530756be6adebe5e894c53838c207876b806d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a98931c40fef398d0f302f36986530756be6adebe5e894c53838c207876b806d.txt)
+- 6 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7231002726f75333480b7ecb697029f0065968e9461ee55f0d158a0c72ed17a7.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7231002726f75333480b7ecb697029f0065968e9461ee55f0d158a0c72ed17a7.txt)
+- 6.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f5e87001466c7fc5b3bac208458432fb74d5f2257ac4e2ffe06366ffdd76ed1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f5e87001466c7fc5b3bac208458432fb74d5f2257ac4e2ffe06366ffdd76ed1.txt)
+- 6.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/15bdfdd7a70d6e5065c54d0409031f74caf491d808a0f68e0449a3bc9e8f8f76.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/15bdfdd7a70d6e5065c54d0409031f74caf491d808a0f68e0449a3bc9e8f8f76.txt)
+- 7 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d7ec57b89c781a9ba0042c676890c4d56df9c6c2298540ae9c6aac29c03ee8ce.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d7ec57b89c781a9ba0042c676890c4d56df9c6c2298540ae9c6aac29c03ee8ce.txt)
+- 7.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d0d6b59f7e9365595b9d5806f0c6dcf71f79c473912af528dfd2cfefdcbfd406.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d0d6b59f7e9365595b9d5806f0c6dcf71f79c473912af528dfd2cfefdcbfd406.txt)
+- 7.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f4981ee9dc671d18704f73510f1faddf8b32605e7586663e5bb60372706f0b55.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f4981ee9dc671d18704f73510f1faddf8b32605e7586663e5bb60372706f0b55.txt)
+- 8 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ba1ea44ff4cbacc16377c78dba73463076ef13e901c528e1aed996bc6abbb1a0.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ba1ea44ff4cbacc16377c78dba73463076ef13e901c528e1aed996bc6abbb1a0.txt)
+- 8.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7b1292fe90d4cc73f078ae2b624888c4c6bf8f12187b066cf788456f173cb97b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7b1292fe90d4cc73f078ae2b624888c4c6bf8f12187b066cf788456f173cb97b.txt)
+- 8.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a5bb99310f88a5f3367f4beef9363fc681beb1c70c4f7d3102e6dff7ae3bce17.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a5bb99310f88a5f3367f4beef9363fc681beb1c70c4f7d3102e6dff7ae3bce17.txt)
+- 9 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0bc8a812a60f43d6a88bc2d8d4ddacfb1c8ae3e86e9160539a27093a4775ee4d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0bc8a812a60f43d6a88bc2d8d4ddacfb1c8ae3e86e9160539a27093a4775ee4d.txt)
+- 9.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c739ddaa77f908b46af8371d0b88623b8b612ecb714c3adc10ab60c1a314e168.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c739ddaa77f908b46af8371d0b88623b8b612ecb714c3adc10ab60c1a314e168.txt)
+- 9.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/299021b782a0c7399f37b2994fe17aac2e031bf063ac66676b8bde3835adbc1c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/299021b782a0c7399f37b2994fe17aac2e031bf063ac66676b8bde3835adbc1c.txt)
+- 10 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5126ca245dc41e3ee03f35fa2e2d6909417ada6e2df158feba64f3e60c315724.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5126ca245dc41e3ee03f35fa2e2d6909417ada6e2df158feba64f3e60c315724.txt)
+- 10.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d0bf7f8b6927e20ae72c6d130797dad8993746fbc468dfb21225880270212e0f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d0bf7f8b6927e20ae72c6d130797dad8993746fbc468dfb21225880270212e0f.txt)
+- 10.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7eee97310e933aa2db920da02cab2daab608ddd7300812875d25ca69eba0459a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7eee97310e933aa2db920da02cab2daab608ddd7300812875d25ca69eba0459a.txt)
+- 11 | Thèmes de la séance - Le marketing numérique et la vente stratégique
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/27dcab7b0c65ce152001167cc5a882169df5a84b4fc75b65152c46c5677498a4.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/27dcab7b0c65ce152001167cc5a882169df5a84b4fc75b65152c46c5677498a4.txt)
+- 11.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3881ec16f4179c0de2c879bf40aa2206f7fc03609b5f07d8be9502944e99b3af.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3881ec16f4179c0de2c879bf40aa2206f7fc03609b5f07d8be9502944e99b3af.txt)
+- 11.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c4411d9f1e979055df628b5877a85d8c98579961ff88450a9dee8eaa11f0afc7.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c4411d9f1e979055df628b5877a85d8c98579961ff88450a9dee8eaa11f0afc7.txt)
+- 12 | Thèmes de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b0f80dd3d0b8f51fb10c5221b62af03b7db1227018a0ca065c65a6bef3d984d8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b0f80dd3d0b8f51fb10c5221b62af03b7db1227018a0ca065c65a6bef3d984d8.txt)
+- 12.1 | Ressources multimédias de la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2f9bbe47e0c85aaf1b5ee2cbd3373cf116f95c02bb87d0749b0668e2b38c92cb.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2f9bbe47e0c85aaf1b5ee2cbd3373cf116f95c02bb87d0749b0668e2b38c92cb.txt)
+- 12.2 | Matériel utilisé en classe
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/71309c6d6c987d73727d78ae9a3cd0d379b7aadc582e963639465ef264353f8c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/71309c6d6c987d73727d78ae9a3cd0d379b7aadc582e963639465ef264353f8c.txt)
+- IMPORTANT - Examen intra
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e96b0d72b61e519191ab256b8d050796942e34620f0ad2c53bee298b4bcf2ccd.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e96b0d72b61e519191ab256b8d050796942e34620f0ad2c53bee298b4bcf2ccd.txt)
+- Remise Travail pratique 1
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2d7e084c5fc1a77243c7066fb2fd6ba32cd9b85587494a0d1af7bd84b088fded.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2d7e084c5fc1a77243c7066fb2fd6ba32cd9b85587494a0d1af7bd84b088fded.txt)
+- Informations officielles et évaluations
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a508d217d29079417095fdedfcb37ae2fd4954749102ae74f005ee5ab2b633b5.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a508d217d29079417095fdedfcb37ae2fd4954749102ae74f005ee5ab2b633b5.txt)
+- Pratique d'examens - interactif (2)
+- Les concepts fondamentaux (capsules)
+- https://alfred.hec.ca/video/cours/prog_cert/MKS_30-100-17/MK_S03_A04c_X4_3dgr66eduSdu/index.html
+- https://www.youtube.com/watch?v=ReM1uqmVfP0
+- contenu incorporé
+- contenu incorporé
+- Document référencé dans la consigne
+- Deux intras et un final de pratique officiels — interactif
+- Vidéo intégrée au PDF
+- Vidéo intégrée au PDF
+- Vidéo intégrée au PDF

@@ -1,0 +1,732 @@
+# Finance
+
+[Cours complet](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/cours-finance.html)
+
+## lessons
+
+- [À quoi sert la finance : valeur, décisions et marchés](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-decisions.html)
+- [Déplacer un montant dans le temps sans se tromper](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-valeur-temps.html)
+- [Taux nominal, taux effectif et conversions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-taux.html)
+- [Annuités : paiements égaux et bonnes dates](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-annuites.html)
+- [Prêts, soldes et retraite en plusieurs étapes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-prets-epargne.html)
+- [Perpétuités et flux en croissance](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-perpetuites.html)
+- [BAII Plus : calculer après avoir compris](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-calculatrice.html)
+- [Obligations : contrat, coupons et prix](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-obligations.html)
+- [Obligations entre coupons et contrats inhabituels](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-obligations-dates.html)
+- [RAÉ, rendement réalisé et risques obligataires](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-obligations-risque.html)
+- [Actions : dividendes, Gordon et multiple C/B](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-actions.html)
+- [Actions : plusieurs croissances et périodes sans dividende](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-actions-phases.html)
+- [Rendement attendu, variance et croissance réalisée](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-rendement-risque.html)
+- [Portefeuilles : poids, covariance et diversification](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-portefeuilles.html)
+- [MÉDAF : rendement exigé, bêta et décision](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-medaf.html)
+- [VAN et critères d’investissement : décider avec la valeur](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-van.html)
+- [Flux différentiels, fonds de roulement et coût d’opportunité](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-flux-projets.html)
+- [Économies fiscales d’amortissement : formule actuelle du cours](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-amortissement.html)
+- [CMPC : coûts des titres, valeurs de marché et taux effectifs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-cmpc.html)
+- [Choisir le taux d’un projet : éviter les mauvaises décisions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-risque-projet.html)
+- [Dette, capitaux propres et compromis de financement](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-structure-capital.html)
+- [Efficience, gestion active/passive et frais](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-efficience.html)
+- [Compte comptant, CELI et REER : comprendre les mécanismes](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-fiscalite-personnelle.html)
+## officialExercises
+
+- [Manuel 4e — chapitre 5, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-2.html)
+- [Manuel 4e — chapitre 5, exercice 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-3.html)
+- [Manuel 4e — chapitre 5, exercice 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-4.html)
+- [Manuel 4e — chapitre 5, exercice 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-5.html)
+- [Manuel 4e — chapitre 5, exercice 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-6.html)
+- [Manuel 4e — chapitre 5, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-7.html)
+- [Manuel 4e — chapitre 5, exercice 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-9.html)
+- [Manuel 4e — chapitre 5, exercice 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-11.html)
+- [Manuel 4e — chapitre 5, exercice 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-14.html)
+- [Manuel 4e — chapitre 5, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-15.html)
+- [Manuel 4e — chapitre 5, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-19.html)
+- [Manuel 4e — chapitre 5, exercice 20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch5-20.html)
+- [Manuel 4e — chapitre 6, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-2.html)
+- [Manuel 4e — chapitre 6, exercice 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-4.html)
+- [Manuel 4e — chapitre 6, exercice 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-5.html)
+- [Manuel 4e — chapitre 6, exercice 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-6.html)
+- [Manuel 4e — chapitre 6, exercice 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-8.html)
+- [Manuel 4e — chapitre 6, exercice 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-9.html)
+- [Manuel 4e — chapitre 6, exercice 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-10.html)
+- [Manuel 4e — chapitre 6, exercice 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-11.html)
+- [Manuel 4e — chapitre 6, exercice 13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-13.html)
+- [Manuel 4e — chapitre 6, exercice 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-14.html)
+- [Manuel 4e — chapitre 6, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-15.html)
+- [Manuel 4e — chapitre 6, exercice 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-17.html)
+- [Manuel 4e — chapitre 6, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-19.html)
+- [Manuel 4e — chapitre 6, exercice 22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-22.html)
+- [Manuel 4e — chapitre 6, exercice 24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-24.html)
+- [Manuel 4e — chapitre 6, exercice 25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-25.html)
+- [Manuel 4e — chapitre 6, exercice 29](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-29.html)
+- [Manuel 4e — chapitre 6, exercice 31](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-31.html)
+- [Manuel 4e — chapitre 6, exercice 33](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-33.html)
+- [Manuel 4e — chapitre 6, exercice 35](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-35.html)
+- [Manuel 4e — chapitre 6, exercice 41](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-41.html)
+- [Manuel 4e — chapitre 6, exercice 42](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-42.html)
+- [Manuel 4e — chapitre 6, exercice 45](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-45.html)
+- [Manuel 4e — chapitre 6, exercice 47](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-47.html)
+- [Manuel 4e — chapitre 6, exercice 49](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-49.html)
+- [Manuel 4e — chapitre 6, exercice 52](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-52.html)
+- [Manuel 4e — chapitre 6, exercice 54](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-54.html)
+- [Manuel 4e — chapitre 6, exercice 55](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-55.html)
+- [Manuel 4e — chapitre 6, exercice 59](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-59.html)
+- [Manuel 4e — chapitre 6, exercice 61](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-61.html)
+- [Manuel 4e — chapitre 6, exercice 69](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-69.html)
+- [Manuel 4e — chapitre 6, exercice 72](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch6-72.html)
+- [Manuel 4e — chapitre 7, exercice 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-3.html)
+- [Manuel 4e — chapitre 7, exercice 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-6.html)
+- [Manuel 4e — chapitre 7, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-7.html)
+- [Manuel 4e — chapitre 7, exercice 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-8.html)
+- [Manuel 4e — chapitre 7, exercice 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-17.html)
+- [Manuel 4e — chapitre 7, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-19.html)
+- [Manuel 4e — chapitre 7, exercice 24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-24.html)
+- [Manuel 4e — chapitre 7, exercice 26 (sauf c)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-26.html)
+- [Manuel 4e — chapitre 7, exercice 27](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-27.html)
+- [Manuel 4e — chapitre 7, exercice 31](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch7-31.html)
+- [Manuel 4e — chapitre 8, exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-1.html)
+- [Manuel 4e — chapitre 8, exercice 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-4.html)
+- [Manuel 4e — chapitre 8, exercice 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-8.html)
+- [Manuel 4e — chapitre 8, exercice 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-10.html)
+- [Manuel 4e — chapitre 8, exercice 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-11.html)
+- [Manuel 4e — chapitre 8, exercice 12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-12.html)
+- [Manuel 4e — chapitre 8, exercice 13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-13.html)
+- [Manuel 4e — chapitre 8, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-15.html)
+- [Manuel 4e — chapitre 8, exercice 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-16.html)
+- [Manuel 4e — chapitre 8, exercice 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-17.html)
+- [Manuel 4e — chapitre 8, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-19.html)
+- [Manuel 4e — chapitre 8, exercice 20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-20.html)
+- [Manuel 4e — chapitre 8, exercice 23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch8-23.html)
+- [Manuel 4e — chapitre 12, exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-1.html)
+- [Manuel 4e — chapitre 12, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-2.html)
+- [Manuel 4e — chapitre 12, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-7.html)
+- [Manuel 4e — chapitre 12, exercice 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-9.html)
+- [Manuel 4e — chapitre 12, exercice 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-14.html)
+- [Manuel 4e — chapitre 12, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch12-15.html)
+- [Manuel 4e — chapitre 13, exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-1.html)
+- [Manuel 4e — chapitre 13, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-2.html)
+- [Manuel 4e — chapitre 13, exercice 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-3.html)
+- [Manuel 4e — chapitre 13, exercice 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-4.html)
+- [Manuel 4e — chapitre 13, exercice 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-5.html)
+- [Manuel 4e — chapitre 13, exercice 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-6.html)
+- [Manuel 4e — chapitre 13, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-7.html)
+- [Manuel 4e — chapitre 13, exercice 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-8.html)
+- [Manuel 4e — chapitre 13, exercice 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-9.html)
+- [Manuel 4e — chapitre 13, exercice 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-11.html)
+- [Manuel 4e — chapitre 13, exercice 12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-12.html)
+- [Manuel 4e — chapitre 13, exercice 13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-13.html)
+- [Manuel 4e — chapitre 13, exercice 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-14.html)
+- [Manuel 4e — chapitre 13, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-15.html)
+- [Manuel 4e — chapitre 13, exercice 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-16.html)
+- [Manuel 4e — chapitre 13, exercice 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-17.html)
+- [Manuel 4e — chapitre 13, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-19.html)
+- [Manuel 4e — chapitre 13, exercice 23 a et b](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-23.html)
+- [Manuel 4e — chapitre 13, exercice 24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-24.html)
+- [Manuel 4e — chapitre 13, exercice 25](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-25.html)
+- [Manuel 4e — chapitre 13, exercice 26](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch13-26.html)
+- [Manuel 4e — chapitre 10, exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-1.html)
+- [Manuel 4e — chapitre 10, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-2.html)
+- [Manuel 4e — chapitre 10, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-7.html)
+- [Manuel 4e — chapitre 10, exercice 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-8.html)
+- [Manuel 4e — chapitre 10, exercice 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-10.html)
+- [Manuel 4e — chapitre 10, exercice 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-16.html)
+- [Manuel 4e — chapitre 10, exercice 18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-18.html)
+- [Manuel 4e — chapitre 10, exercice 19](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-19.html)
+- [Manuel 4e — chapitre 10, exercice 20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-20.html)
+- [Manuel 4e — chapitre 10, exercice 21](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-21.html)
+- [Manuel 4e — chapitre 10, exercice 24](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-24.html)
+- [Manuel 4e — chapitre 10, exercice 33](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-33.html)
+- [Manuel 4e — chapitre 10, exercice 34](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-34.html)
+- [Manuel 4e — chapitre 10, exercice 36](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-36.html)
+- [Manuel 4e — chapitre 10, exercice 37](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-37.html)
+- [Manuel 4e — chapitre 10, exercice 43](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-43.html)
+- [Manuel 4e — chapitre 10, exercice 47](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-47.html)
+- [Manuel 4e — chapitre 10, exercice 51](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch10-51.html)
+- [Manuel 4e — chapitre 14, exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-1.html)
+- [Manuel 4e — chapitre 14, exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-2.html)
+- [Manuel 4e — chapitre 14, exercice 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-4.html)
+- [Manuel 4e — chapitre 14, exercice 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-5.html)
+- [Manuel 4e — chapitre 14, exercice 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-6.html)
+- [Manuel 4e — chapitre 14, exercice 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-7.html)
+- [Manuel 4e — chapitre 14, exercice 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-9.html)
+- [Manuel 4e — chapitre 14, exercice 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-10.html)
+- [Manuel 4e — chapitre 14, exercice 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-11.html)
+- [Manuel 4e — chapitre 14, exercice 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-14.html)
+- [Manuel 4e — chapitre 14, exercice 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-15.html)
+- [Manuel 4e — chapitre 14, exercice 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-16.html)
+- [Manuel 4e — chapitre 14, exercice 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-17.html)
+- [Manuel 4e — chapitre 14, exercice 20](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-20.html)
+- [Manuel 4e — chapitre 14, exercice 22](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-22.html)
+- [Manuel 4e — chapitre 14, exercice 23](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-livre4-ch14-23.html)
+- [Conversion de taux — 1 : Coupon semestriel, RAÉ annuel effectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-1.html)
+- [Conversion de taux — 2 : Coupon trimestriel, RAÉ nominal semestriel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-2.html)
+- [Conversion de taux — 3 : Coupon semestriel, RAÉ nominal trimestriel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-3.html)
+- [Conversion de taux — 4 : Coupon hebdomadaire, RAÉ nominal mensuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-4.html)
+- [Conversion de taux — 5 : Coupon annuel, RAÉ nominal trimestriel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-5.html)
+- [Conversion de taux — 6 : Dividende mensuel, rendement annuel effectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-6.html)
+- [Conversion de taux — 7 : Dividende trimestriel, rendement annuel effectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-7.html)
+- [Conversion de taux — 8 : Annuel effectif vers semestriel et nominal](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-8.html)
+- [Conversion de taux — 9 : Annuité trimestrielle, taux nominal mensuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-9.html)
+- [Conversion de taux — 10 : Annuité mensuelle, taux nominal semestriel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-10.html)
+- [Conversion de taux — 11 : Nominal mensuel vers annuel effectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-11.html)
+- [Conversion de taux — 12 : Annuel effectif vers nominal semestriel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-12.html)
+- [Conversion de taux — 13 : Nominal trimestriel vers annuel effectif](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-13.html)
+- [Conversion de taux — 14 : Nominal trimestriel vers effectif mensuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-14.html)
+- [Conversion de taux — 15 : Annuel effectif vers nominal mensuel](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-conversion-15.html)
+- [Obligations supplémentaires — 1 : Aviron](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-1.html)
+- [Obligations supplémentaires — 2 : Béatrix](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-2.html)
+- [Obligations supplémentaires — 3 : Cavallieri](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-3.html)
+- [Obligations supplémentaires — 4 : Denver](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-4.html)
+- [Obligations supplémentaires — 5 : Evanti (a et b)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-5.html)
+- [Obligations supplémentaires — 6 : Farouch](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-6.html)
+- [Obligations supplémentaires — 7 : Gamouch](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-7.html)
+- [Obligations supplémentaires — 8 : Hilou](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-8.html)
+- [Obligations supplémentaires — 9 : Ilya](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-9.html)
+- [Obligations supplémentaires — 10 : Julian](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-10.html)
+- [Obligations supplémentaires — 11 : Kaminski](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-11.html)
+- [Obligations supplémentaires — 12 : Louka](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-12.html)
+- [Obligations supplémentaires — 13 : Marain](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-13.html)
+- [Obligations supplémentaires — 14 : Nadjoie](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-14.html)
+- [Obligations supplémentaires — 15 : Olive](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-oblig-extra-15.html)
+- [Retraite — ancien exercice 57 (a, b, c)](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-retraite57.html)
+- [Chréphane — retrouver le coupon](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-chrephane8.html)
+- [BDJ — nouvelle obligation au pair](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-bdj19.html)
+- [Entendus — cours actuel, dans 3 ans et dans 15 ans](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-entendus1.html)
+- [Villa — croissance des dividendes en plusieurs phases](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-villa12.html)
+- [TP 1 d’entraînement — exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp1-1.html)
+- [TP 1 d’entraînement — exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp1-2.html)
+- [TP 1 d’entraînement — exercice 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp1-3.html)
+- [TP 2 d’entraînement — exercice 1.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-1-1.html)
+- [TP 2 d’entraînement — exercice 1.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-1-2.html)
+- [TP 2 d’entraînement — exercice 1.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-1-3.html)
+- [TP 2 d’entraînement — exercice 2.1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-2-1.html)
+- [TP 2 d’entraînement — exercice 2.2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-2-2.html)
+- [TP 2 d’entraînement — exercice 2.3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp2-2-3.html)
+- [TP 3 d’entraînement — exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp3-1.html)
+- [TP 3 d’entraînement — exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp3-2.html)
+- [TP 4 d’entraînement — exercice 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp4-1.html)
+- [TP 4 d’entraînement — exercice 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-tp4-2.html)
+- [Cahier intra — math, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-math-1.html)
+- [Cahier intra — math, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-math-2.html)
+- [Cahier intra — math, problème 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-math-3.html)
+- [Cahier intra — math, problème 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-math-4.html)
+- [Cahier intra — obligations, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-obligations-1.html)
+- [Cahier intra — obligations, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-obligations-2.html)
+- [Cahier intra — obligations, problème 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-obligations-3.html)
+- [Cahier intra — obligations, problème 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-obligations-4.html)
+- [Cahier intra — actions, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-actions-1.html)
+- [Cahier intra — actions, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-actions-2.html)
+- [Cahier intra — actions, problème 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-actions-3.html)
+- [Cahier intra — risque, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-risque-1.html)
+- [Cahier intra — risque, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-risque-2.html)
+- [Cahier intra — risque, problème 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-risque-3.html)
+- [Cahier intra — risque, problème 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-intra-risque-4.html)
+- [Intra A2023 — question 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-1.html)
+- [Intra A2023 — question 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-2.html)
+- [Intra A2023 — question 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-3.html)
+- [Intra A2023 — question 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-4.html)
+- [Intra A2023 — question 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-5.html)
+- [Intra A2023 — question 6](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-6.html)
+- [Intra A2023 — question 7](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-7.html)
+- [Intra A2023 — question 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-8.html)
+- [Intra A2023 — question 9](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-9.html)
+- [Intra A2023 — question 10](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-10.html)
+- [Intra A2023 — question 11](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-11.html)
+- [Intra A2023 — question 12](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-12.html)
+- [Intra A2023 — question 13](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-13.html)
+- [Intra A2023 — question 14](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-14.html)
+- [Intra A2023 — question 15](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-15.html)
+- [Intra A2023 — question 16](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-16.html)
+- [Intra A2023 — question 17](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-17.html)
+- [Intra A2023 — question 18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-intra2023-18.html)
+- [Cahier final — projets, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-projets-1.html)
+- [Cahier final — projets, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-projets-2.html)
+- [Cahier final — projets, problème 3](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-projets-3.html)
+- [Cahier final — projets, problème 4](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-projets-4.html)
+- [Cahier final — cmpc, problème 1](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-cmpc-1.html)
+- [Cahier final — cmpc, problème 2](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cahier-final-cmpc-2.html)
+- [Cap Genius — coût du capital](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-cap-genius.html)
+- [Ernesto inc. — coût du capital](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-ex-ernesto.html)
+- [S1 — lecture théorique chapitre 1, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch1.html)
+- [S1–2 — lecture théorique chapitre 5](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch5.html)
+- [S1–2 — lecture théorique chapitre 6, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch6.html)
+- [S3 — lecture théorique chapitre 7, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch7.html)
+- [S4 — lecture théorique chapitre 8](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch8.html)
+- [S5–6 — lectures théoriques chapitres 12 et 13, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch12-13.html)
+- [S8–9 — lectures théoriques chapitres 9 et 10, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch9-10.html)
+- [S10 — lecture théorique chapitre 14, sections retenues](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch14.html)
+- [S11 — lecture théorique chapitre 16, aspects qualitatifs](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch16.html)
+- [S12 — lecture théorique section 12.6 et chapitre 18](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-ch12-6-ch18.html)
+- [S1–2 — explications des capsules théoriques](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s1-2.html)
+- [S3 — explications des capsules obligataires](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s3.html)
+- [S4 — explications des capsules sur les actions](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s4.html)
+- [S5–6 — explications des capsules risque/portefeuille](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s5-6.html)
+- [S8–9 — explications des capsules sur les projets](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s8-9.html)
+- [S10 — explications des capsules CMPC](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s10.html)
+- [S11 — explications des capsules structure de capital](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s11.html)
+- [S12 — explications des capsules finance personnelle](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/pour-chatgpt/finance-theory-caps-s12.html)
+## projects
+
+## mocks
+
+## mockExams
+
+
+## Documents et textes
+
+- important-1.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/167ab18243eb6402617693f6dab733c2404dfdef2ab02e7c3feb900ef850f39f.png)
+- Importance de chaque section - Livre - Révisé (A2025).docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7fc5ef2d816a5be9fd29450deef164ebd6ce6b7dd412372d5a88e0410e1f4beb.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e25d88b9e2f643f21ea6969ec10573cc70842d8ec4f4b9ab0cd9a621e5d51e66.txt)
+- Importance de chaque section - Livre.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f8f62725fb62609e2b6cdefe8dd7e4e912a5397feb70a09999f5533691d918d0.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fe4cacb1debc450efd0f11bfc80764c86179850a33da6425246a38e6b204a6f0.txt)
+- PetitmanuelBAIIplus.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/39087ace4a688abe9f7480385a7485b519bc467cc5a3569545f2514a739a9a15.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f7a3142598a24a304d7caf797c67354389f5dba551de5399265e5e6f6d1f43bf.txt)
+- TP 1 - français.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/40cdcf727d85168be35cd3333f5f3a0e20b35677a1f8ec6c17899287ce55684b.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/25221588776f58920091160dc814eba30670e90046f3855dfe5a58af2ef5b4bb.txt)
+- TP 2 - français.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cef4088b4438e36aecf7758daefc39c3a3a5f4404face7d7d20bbe724961c33c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a7960cd39c4707ec41a88c338db8ab0dd0bfc21261e70b7c05fc70234c8cd1c5.txt)
+- TP 3 - français.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8e3388a1c2dba223c3a343c14d78560944ec3ee74d7609dbc7a571115a6986af.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5264ab1e26cf5741467e17ea6bd930a3cae8799bcce895869a3845220316a564.txt)
+- TP 4 - français.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/dc8ee0a3a95257217e9da65f8c940290a6c9f8f92657c2d4949ac8bc331b9112.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c63e53aaea6d388da8e9ddffa25a8d1a0bc48906c60245699df2b9c445b484d0.txt)
+- 10200 - Cahier de problèmes solutionnés - Intra - MAJ Juin 2022.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf0985e4d4a9d59aae62e449c74b2304d6b8042ed7a355b85be08affcba3f400.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/de4c358ebef652805164f31a540404e2baaf0fa380fc4f5b4d8917288ab97a2f.txt)
+- 10200 - Feuille de formules - Intra _MAJ 2025_.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e8bda8c4d049c40e39df2d4824b5c9303dc94ef4ad1860e7dc8f8f16973597b7.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c1d6a11178edb0b1a656d4cb3106fa088318b98f03ff957812e394ad1c7f8714.txt)
+- Intra 10200 - A2023.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/af3efbe0f4ee7c323d03e30d8a7d7190ae2f56bbf41335ef7d47fa2aa678a5a4.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/975ba3fc8a9f51cde2c2a317a9295c93b915eaf032d8d687e7bf698d43755fd6.txt)
+- Intra 10200 A2023 - Solution.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f1ac866b84b2fa3efc5915e37e4dbb3086fe301e9eb37cebaa0b7b31af0b26c6.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/130204c912075cdfdfb0531824eeaeba2dbaba5068e4435f8cd4f745eee44dd0.txt)
+- 10200 - Cahier de problèmes solutionnés - Final - MAJ Decembre 2024.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e74a17c19ea1420d60f5a4a819fc9cdf4681cdc9dbf69839b9f68861d0686b2a.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7db07b3d98559313dcfd8cafc6b04ff5ed08fad1c5dd336213d1d47fcf0f0af1.txt)
+- 10200 - Feuille de formules - Final _MAJ 2025_.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d7ccbad9bf80270b5160a97d3afb73fc3a3636563912029bb46c0e3298b97b47.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1917e7c11679bafa966fe54300e8549dd6609370a73f14d182d9d4c69f13a004.txt)
+- seance_rouge.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e9680d5511fa551d9198a0efa68301ee40b1302d337df7bbb36b0cf083af4c6d.png)
+- S1 Chapitre 1_ introduction à la finance.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/be400c099ae21bb323ab0dcaff1003c3b8d57f54104327983222f09128c03f9b.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6c9df5ee71f2b7e26ceba0d87048acbce404602822c5be4cdf49f8c4638e1042.txt)
+- Séance 2- Capsules 1 à 5.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f6fb5e382c7ca010d1a055f2ad211d0d69a5f3b2671b597551fdb8c8c50d80d0.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/70f4c9bba7359725f89564e838beeeb49b89592f8e741ff269e2ae341a320441.txt)
+- Résumé math fin.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c1e5914b7225040125d53b38f8cbea54b2f766b95d36b8c61db8b5be40825b9e.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/41634f85c91b020f9103aa1dd1d5c0614f017909b672611f040980bb83a6c600.txt)
+- Notes de cours séance 1.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0b2ee11641504e08ed8a7a12334cb55e7c525b9cd7f57b3cc4c1e9715a9ce7a3.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/102f4f161fe5194ec44bf4ccfc74ba3cfd4c3c8a891c757b4e9cdb98f40d4bd9.txt)
+- Exemple de calcul Intérêt simple et composé.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/65bf884bc449f5cff29a0554fe4e4ed76e2562706ae9cea2344f3e43e672f144.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/303aae63d4085894eccfee4eb269e56154c78922ba872a37f31aad54df1fb2ba.txt)
+- Chronique ESG.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0243ae1908675191b61e134d8bff386390a1abd2c5eae5731a19b92c1dbd033c.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0f728507889e403f2571d0d1ddf491c747626b42589f4a6afe502c2131ea6e23.txt)
+- Notes de cours séance 2-1.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fef40991e1f1ebc1a795e90956a6ee79e01c662785a0cd92304db4798478c8f1.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3fa045e03c741caf5272de61733aca08bee6a0fcabcd0a9a851935fba8c1f3d2.txt)
+- Exercices extra et solutions - conversion de taux.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/367170100c3071585d59e83cddb789c4fc7f2277025d10bacb71fbd47c9c35ee.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/978f3caa20c28887cde85e7aec08735b8e0d973d69e3677d42cb472b96a93aba.txt)
+- Exercices extra et solutions - conversion de taux.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2c256d2102d6fe41abac6260aad084c7d5d196f71cefee877ef62fb8bd94bf9a.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/978f3caa20c28887cde85e7aec08735b8e0d973d69e3677d42cb472b96a93aba.txt)
+- seance_turquoise.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6b98c7ad75e394b5f7cd43a3d985a51eae767cedbf91c814b63e1b5edbcb6308.png)
+- Chapitre 7 Le marché obligataire-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7333cae94ec56b23a70ce168eb39d174f061e4462d58e0b235451e287265a0af.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b1052b30136f8d1fa93b81d7a75de2918215a3c938f09a16188bc48e7f917801.txt)
+- Retour sur les mathématiques financières-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5007f464fc2acf8b4138fb48cfded65321b0f6ca36027dc56ec18fa19d3c0e03.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f1e0e6d35d5d8ec51a605efed230ee2b19e010c1d025f2b71947741651eccbd.txt)
+- Notes de cours séance 3.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/244c83b637de129ae4f503f0a31ea88dc71d987524126f111ef965c580d568ba.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4bb99f1ff671f6af58511233e7067d07625243001f0b76c40f3f4c9c40da7363.txt)
+- Chronique financière Les hypothèques.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/73842bc9f5ce9340e501aacb699e6b3340ee6f19ef56675d7a8cc896e233e560.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6a3214753e2260e17316390e3f1ce87694a0181106addbde422e4bb8e85dfb5d.txt)
+- Supplément chronique financière Options de remboursement anticipé des hypothèques au Canada v2-1.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/430f389fd2630f17370965280a27e7fc001c2549d3b07c0a985468cccfba5ccf.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a38efafdc19430a9855347e9f7f4b1e72b8fba8b82e419b906e699ce2080b8b5.txt)
+- Calcul d'hypothèque.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1527ea3f8415d707b2ac03bd4d0b41c09a45d261fb0a7bb8011b3032c00dc82d.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9448a996d87a8f823a0e39e949249ecadb5eb7195b4ca1c9938ba58c3364f6e2.txt)
+- Exercices supplémentaires - Obligations.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/79d477943369b00ef1581a911e046616b13d2cd7972997f63c024e1f0a969fb2.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ea91ff15cce4bab62caa5dab822b6198b1e9fd864268eac7ba81cd8a6f945312.txt)
+- seance_jaune.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/07db8d754c322779af2814430916920be61888b880c75e8f4bd35257aafc2144.png)
+- Chapitre 8 Le marché des actions-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9b96dd065963820a8c9a29044945ccc8a76a9477c23d1b48aaa007f4e041c982.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2490f8d05605e570a28ec4e444df30e451892b0fc3bb2f336b3656ddf0b705e5.txt)
+- Notes de cours 10-200 - Séance 4 - Actions v2.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e7129ce0d363b6c0d1a314576a16fa6e119b3b0828904604ea0e65205f5b6c33.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/68ee74b72d096a696e1be129285d241098822bbbba80d56892b9f3a6580f5c10.txt)
+- seance_rose.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2b079237ee482edad760c09fdbaac0691e4688b9a909d46c48b5b4cfd86062c3.png)
+- Chapitre 12 et 13 Théroie de portefeuille.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/22493aa4b703aa64638f673662ec46443a301dab7685ea4626e822204957531f.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b6b51a6c73285a38c2ce394309ae7deecec12f23b9ebc77f51bdfdf84123e6c9.txt)
+- Class 5 & 6 risk and return  fr.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9d3aab08a895453a5afd6b27fb9925da08ade5c88f3fd194ea49659ce93958ed.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ae51c34359cdfa31e908b49cd1844903456a3da0a2aa11b1b6e87abf0d9642bf.txt)
+- Chronique financière - TESLA.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/037d2a305f1fcf3e53bdc0a029fe4cc80d5f03aff75834a7d2d17be8c522d4f8.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5f4b301c8c4d60d0af9a76b325b0005b3cf50bd4a752d54f0bd91238590c5cc7.txt)
+- seance_vert.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f9a472456a337e1b77052634dbbd1bc6454df893b52002454982666cf5c9fe37.png)
+- seance_bleu.png
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ecc63d796f6e0da4eb364a7057f0cbce6b962db5c041bb387a0719d0a8d03e6d.png)
+- Chapitre 9_critères de décision de projet-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b26f0f83504aca3e216bc29956d8984de7303332709895a3eb765d9fd01530b6.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5da82a14360a1dff91cdbb79c826f0e411f80844b68b1ee5e0db550aa15177ce.txt)
+- Chapitre 10_évaluation de projet-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2093e1bbac3254ee951c33bcfa0e1c74a7a5c019283f6989e015d10db9e0edef.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/24cacd3902cceaa1d59342623be3ac65c42699e927ad7ad4799dade18238e69e.txt)
+- Chapitre 14_Le coût du capital.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a944241f386f46d522168206ec1453e34715c0dc022f0d0368b0ff506f2ee8dc.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/775514991f13e8fad951c4284bce2675da68792616dccbbae9d40b2a33709b14.txt)
+- Exercice Cap Genius.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7b47b81677e2cf70c2e78c917106dcf5f47215df973242cde214914bcdc95ea8.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/17bf2b210d60082d4118cb916dcfd338c729991d68ffbc843bb6cca39b514b8d.txt)
+- Exercice - Ernesto inc.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8dd9d181b4e9bbcf14f0ed27a69413844fd2ca9f0adffc2dcd7f633a1602fcb2.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/bf7a1f835874f3ca8a98cdd70f53e85fdf36681b0278e9fc05111113f0706122.txt)
+- Exercice Ernesto - solution.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/60f16c7d8ab35d0d479aa62da3ef45d5d87db15ea98ad5d7842f91863fb24412.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cea50652b4d05fa65d7b4c7c4adf2bb389d5942e9ad02242736cc431aa5ee7ea.txt)
+- Chapitre 16_décision de structure de capital-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f3d23a53a7338bb05d159e9f7ae91b80f114858507afb3f2f804c0964a6c8edc.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6586a0370592d23312c5542ec34a232baed116770a2f59dd12ae3de0f8dfd4e6.txt)
+- Résumé SC - M_M.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4fc3ec1fc43745bdc5a179fcb987d3368bf19d17ad14a2dc571bf81aef24685a.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/387b5af1c6748b586e32f5675f449bfd162658059d0bc4e58ab0fba6f2c07f30.txt)
+- chap18_complet.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d2f1ad157dc0e0e53bed8bdf9c46a01de3095b8d0a5cabdf9f413b32e99a10b4.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3a8233512c52ff03b51191c48c038c15747fadf67df37378cf77c7e94b58d43d.txt)
+- Chapitre 18_Notions de finance personnelle-HEC _2_.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ce169ddd8bd6a5bdd5be127a719dde3d39069b05b30f679416a34f1d0d72c6aa.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/867ae873d56f75fdd54c129121fc966c346e581cf4bc5a5d1ae3a57dc15ac5af.txt)
+- Calculatrice financière BA II Plus.html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0976a6f57fc7a6da573e4288c1a04038bcb0d06e6feccfa23be0a5fa3c0059d.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/52b247610aa994d8461220e1666fe4654c826fcf2cf870c38feec115e6f53994.txt)
+- Corrigé - Chapitre 5 (exercices).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/facf1bdacf9726e4aca803b9b7c5e3f73add8348a7cf4b9f85981a95886a3d60.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5d7c223b5d58ef859115f158a21e1aefc86b34990d9cdbcab256268c1765c069.txt)
+- Corrigé - Chapitre 6 (exercices).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/63b79e8c42f38077d806c1e6e5c2d4a0c9ee14160dadd03be3a869f4e81dc2d9.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/81d481d7fccef0bbb02e3a98528e0d2a6c156abfe5c7395b91e018616757ef90.txt)
+- Corrigé - Chapitre 7 (obligations, exercices quiz).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e034745791ac9d07b1677557f90f229480dee42ff72c80f10d395aedfc4e356e.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f8304ee0161e06e0a9033939ac11b3ed3dbe9a79d9c0da723923595b88cd1b40.txt)
+- Corrigé - Chapitre 8 (actions, exercices quiz).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b0ab4816fa03ceb48bbb8c3e0892184a13a2d26b439b2ffe734e764824b6d213.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1aab6f7dd0c91b5d7468fcc00f99fd66b33c78b89e9647f24354d17c2134958d.txt)
+- Cours visuel - Chapitres 5 et 6 (Valeur temporelle de l'argent).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/13469002187f3ecc32e7919c9f76a027fb5114b72df7e2150cd25ca8902dbcb4.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4db857baa4a5d0f6f5528e1957ea19a6c57c635247bc11fe1169dd996e4bf262.txt)
+- Importance de chaque section - Livre.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f8f62725fb62609e2b6cdefe8dd7e4e912a5397feb70a09999f5533691d918d0.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fe4cacb1debc450efd0f11bfc80764c86179850a33da6425246a38e6b204a6f0.txt)
+- Manuel - Gestion financière (4e édition).pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ab62fb2cbf17297f60eb7cac22aefaf239f3b14e05aafae9f1b98640c65d970c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/69bb6fc57739aa674bfb21f42f36eeeec3b874a0820472dc63ab67217874f8ad.txt)
+- PLAN - Révision Quiz 1 (dimanche 27 sept).html
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b43979ec74f8b7714e2ea9f3aa23328d9deae9a67675628480574a2ed4c3d291.html.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e79e0098a1ac8bff5238abc9914eae0be2b45476124bb2829f3dc82d607add0c.txt)
+- 10200 - Feuille de formules - Intra MAJ 2025.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e8bda8c4d049c40e39df2d4824b5c9303dc94ef4ad1860e7dc8f8f16973597b7.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c1d6a11178edb0b1a656d4cb3106fa088318b98f03ff957812e394ad1c7f8714.txt)
+- Chapitre 7 Le marche obligataire-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/7333cae94ec56b23a70ce168eb39d174f061e4462d58e0b235451e287265a0af.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b1052b30136f8d1fa93b81d7a75de2918215a3c938f09a16188bc48e7f917801.txt)
+- Chapitre 8 Le marche des actions-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9b96dd065963820a8c9a29044945ccc8a76a9477c23d1b48aaa007f4e041c982.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2490f8d05605e570a28ec4e444df30e451892b0fc3bb2f336b3656ddf0b705e5.txt)
+- Exemple de calcul Interet simple et compose.xlsx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/65bf884bc449f5cff29a0554fe4e4ed76e2562706ae9cea2344f3e43e672f144.xlsx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/303aae63d4085894eccfee4eb269e56154c78922ba872a37f31aad54df1fb2ba.txt)
+- Exercices extra et solutions - conversion de taux.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/367170100c3071585d59e83cddb789c4fc7f2277025d10bacb71fbd47c9c35ee.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/978f3caa20c28887cde85e7aec08735b8e0d973d69e3677d42cb472b96a93aba.txt)
+- Exercices supplementaires - conversion de taux.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2c256d2102d6fe41abac6260aad084c7d5d196f71cefee877ef62fb8bd94bf9a.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/978f3caa20c28887cde85e7aec08735b8e0d973d69e3677d42cb472b96a93aba.txt)
+- Exercices supplementaires - Obligations.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/79d477943369b00ef1581a911e046616b13d2cd7972997f63c024e1f0a969fb2.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ea91ff15cce4bab62caa5dab822b6198b1e9fd864268eac7ba81cd8a6f945312.txt)
+- Guide de lecture - Importance de chaque section - Livre 4e.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f8f62725fb62609e2b6cdefe8dd7e4e912a5397feb70a09999f5533691d918d0.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fe4cacb1debc450efd0f11bfc80764c86179850a33da6425246a38e6b204a6f0.txt)
+- Notes de cours 10-200 - Seance 4 - Actions v2.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e7129ce0d363b6c0d1a314576a16fa6e119b3b0828904604ea0e65205f5b6c33.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/68ee74b72d096a696e1be129285d241098822bbbba80d56892b9f3a6580f5c10.txt)
+- Notes de cours seance 1.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0b2ee11641504e08ed8a7a12334cb55e7c525b9cd7f57b3cc4c1e9715a9ce7a3.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/102f4f161fe5194ec44bf4ccfc74ba3cfd4c3c8a891c757b4e9cdb98f40d4bd9.txt)
+- Notes de cours seance 2.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fef40991e1f1ebc1a795e90956a6ee79e01c662785a0cd92304db4798478c8f1.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3fa045e03c741caf5272de61733aca08bee6a0fcabcd0a9a851935fba8c1f3d2.txt)
+- Notes de cours seance 3.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/244c83b637de129ae4f503f0a31ea88dc71d987524126f111ef965c580d568ba.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4bb99f1ff671f6af58511233e7067d07625243001f0b76c40f3f4c9c40da7363.txt)
+- Petit manuel BAII Plus.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/39087ace4a688abe9f7480385a7485b519bc467cc5a3569545f2514a739a9a15.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f7a3142598a24a304d7caf797c67354389f5dba551de5399265e5e6f6d1f43bf.txt)
+- Resume math fin.docx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c1e5914b7225040125d53b38f8cbea54b2f766b95d36b8c61db8b5be40825b9e.docx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/41634f85c91b020f9103aa1dd1d5c0614f017909b672611f040980bb83a6c600.txt)
+- Retour sur les mathematiques financieres-HEC.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5007f464fc2acf8b4138fb48cfded65321b0f6ca36027dc56ec18fa19d3c0e03.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f1e0e6d35d5d8ec51a605efed230ee2b19e010c1d025f2b71947741651eccbd.txt)
+- S1 Chapitre 1 - Introduction a la finance.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/be400c099ae21bb323ab0dcaff1003c3b8d57f54104327983222f09128c03f9b.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6c9df5ee71f2b7e26ceba0d87048acbce404602822c5be4cdf49f8c4638e1042.txt)
+- Seance 2 - Capsules 1 a 5.pptx
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f6fb5e382c7ca010d1a055f2ad211d0d69a5f3b2671b597551fdb8c8c50d80d0.pptx)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/70f4c9bba7359725f89564e838beeeb49b89592f8e741ff269e2ae341a320441.txt)
+- TP 1 - Mathematiques financieres.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/40cdcf727d85168be35cd3333f5f3a0e20b35677a1f8ec6c17899287ce55684b.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/25221588776f58920091160dc814eba30670e90046f3855dfe5a58af2ef5b4bb.txt)
+- TP 2 - Evaluation de titres.pdf
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cef4088b4438e36aecf7758daefc39c3a3a5f4404face7d7d20bbe724961c33c.pdf)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a7960cd39c4707ec41a88c338db8ab0dd0bfc21261e70b7c05fc70234c8cd1c5.txt)
+- Matériel pédagogique
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a78420b0d27e4bcf0d73ea1ad91ddd4e7957a0465fdf04cecfe2307367d816a2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a78420b0d27e4bcf0d73ea1ad91ddd4e7957a0465fdf04cecfe2307367d816a2.txt)
+- TP 1 - Mathématiques financières
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b001cdc017c84c99feac82d688626765e0eaca0afabc2e87494b02dd8f95afa1.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/b001cdc017c84c99feac82d688626765e0eaca0afabc2e87494b02dd8f95afa1.txt)
+- TP 2 - Évaluation de titres
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ff5f4897f7fc1ac29164444ebbd539e543734b0db9ee4835dff8caa238e0a211.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ff5f4897f7fc1ac29164444ebbd539e543734b0db9ee4835dff8caa238e0a211.txt)
+- TP 3 - Évaluation de projets
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/92f2087088ccf19c1286bfd292ead0b0b69d9468d04b79d2c25bcff82532a8d2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/92f2087088ccf19c1286bfd292ead0b0b69d9468d04b79d2c25bcff82532a8d2.txt)
+- TP 4 - Coût du capital
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/374a50a239b91c4dfa1aaad0b8d97ebeb588f73071c5ea268f785c1b98b9c956.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/374a50a239b91c4dfa1aaad0b8d97ebeb588f73071c5ea268f785c1b98b9c956.txt)
+- Préparation à l'examen INTRA
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1526d0d461687852da5c61e07c87ee23e6087a530be63f4855fa7b4baa9489fe.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1526d0d461687852da5c61e07c87ee23e6087a530be63f4855fa7b4baa9489fe.txt)
+- Préparation à l'examen FINAL
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4027aa9bed14bad8be985994593d73c6ac86c9db3228c287f0a37f1d4930ac84.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4027aa9bed14bad8be985994593d73c6ac86c9db3228c287f0a37f1d4930ac84.txt)
+- 1-2 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca91ab6368ccacb74e3391d649ff0bf5992f1b6e8a1efa4e45401b25232a39e3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca91ab6368ccacb74e3391d649ff0bf5992f1b6e8a1efa4e45401b25232a39e3.txt)
+- 1-2.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d26af886a1638cc4355707d54a5c9e152e18f92911634bdc1ac965296b3130af.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/d26af886a1638cc4355707d54a5c9e152e18f92911634bdc1ac965296b3130af.txt)
+- 1-2.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/38f14b03a12aedfae7d611629bcf5900880abdec6bc5ab99dcea8c41fb65d71f.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/38f14b03a12aedfae7d611629bcf5900880abdec6bc5ab99dcea8c41fb65d71f.txt)
+- 1-2.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6061b55257f805656555c2a51e3c183e56359d4e06c6afe80cdd703064a69818.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/6061b55257f805656555c2a51e3c183e56359d4e06c6afe80cdd703064a69818.txt)
+- 1-2.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4d616c89f2362c8db06b90aff2e1c2cfd857c331b8b00d4ca7f2202389dd9c24.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4d616c89f2362c8db06b90aff2e1c2cfd857c331b8b00d4ca7f2202389dd9c24.txt)
+- 3 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/64ef66a5576902aab361a4b8d53947b6b11c7ff0385506b25cfd3edddcd2dd95.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/64ef66a5576902aab361a4b8d53947b6b11c7ff0385506b25cfd3edddcd2dd95.txt)
+- 3.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e03cf1e3cf5e04b57f65829cd58c15a3b27a14d9d0de94f02b2988673461f391.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e03cf1e3cf5e04b57f65829cd58c15a3b27a14d9d0de94f02b2988673461f391.txt)
+- 3.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/78119579ff1fadd2f1aa0eefabd9459207d847c34d9500a0b95a1c747d77fb5c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/78119579ff1fadd2f1aa0eefabd9459207d847c34d9500a0b95a1c747d77fb5c.txt)
+- 3.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fd0131d61a67e22403898e568b05173352a91340ce684115d88c3dcf356a8d79.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/fd0131d61a67e22403898e568b05173352a91340ce684115d88c3dcf356a8d79.txt)
+- 3.4  | Ressources et FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9f58e04ab8ce42811bc99525e0ea680e8faf76178ca8a30b2e38f0b7a2945b03.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9f58e04ab8ce42811bc99525e0ea680e8faf76178ca8a30b2e38f0b7a2945b03.txt)
+- 4 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8ab7ea894278dd95ae1ddd33d7c59c93523a8a98bdd24a325339ace472eec973.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8ab7ea894278dd95ae1ddd33d7c59c93523a8a98bdd24a325339ace472eec973.txt)
+- 4.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8114da0a2973801dcc144d210885ba84ac8f71e3d3e70c194a29fb7fcd8e21e3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8114da0a2973801dcc144d210885ba84ac8f71e3d3e70c194a29fb7fcd8e21e3.txt)
+- 4.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/17ea34d7acc9fb6fdb790e46bf97813ec927d2a065d5d432a5ca2454e817ecb9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/17ea34d7acc9fb6fdb790e46bf97813ec927d2a065d5d432a5ca2454e817ecb9.txt)
+- 4.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0fbc1e8b45dd80de9a45ca8f9348e558c2e0ea2953f8e99019ef7967e0474923.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0fbc1e8b45dd80de9a45ca8f9348e558c2e0ea2953f8e99019ef7967e0474923.txt)
+- 4.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/56fd8d4cfec8d7b11219134361e404dd4ee4af8e7b11c34a5e9c74150fb08244.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/56fd8d4cfec8d7b11219134361e404dd4ee4af8e7b11c34a5e9c74150fb08244.txt)
+- 5-6 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1cd8278ecf88edef2b35ca1964885da3a920f1109b8e09a59c530d478a005f91.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1cd8278ecf88edef2b35ca1964885da3a920f1109b8e09a59c530d478a005f91.txt)
+- 5-6.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/90b5b79ef9b9b94733a7d25144a034c6e10090bb02d454add6143240c4a85355.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/90b5b79ef9b9b94733a7d25144a034c6e10090bb02d454add6143240c4a85355.txt)
+- 5-6.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c2e963e2f327db350b77e5d60def1484ae19fd4bf86674e995d3d178b4295f7a.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/c2e963e2f327db350b77e5d60def1484ae19fd4bf86674e995d3d178b4295f7a.txt)
+- 5-6.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/92a3144b84e9525783a8007c7e951820683b5bbe7dbf1a95cf22d03ba8d58a53.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/92a3144b84e9525783a8007c7e951820683b5bbe7dbf1a95cf22d03ba8d58a53.txt)
+- 5-6.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/060e6ee41a17a84fedebf99d727a82932dd81407e61addd04a1253f99f8a9a76.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/060e6ee41a17a84fedebf99d727a82932dd81407e61addd04a1253f99f8a9a76.txt)
+- 7 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/98efafbc5092f279c48df6fb89dc24f86a421b9174af816cf96cf53518321792.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/98efafbc5092f279c48df6fb89dc24f86a421b9174af816cf96cf53518321792.txt)
+- 7.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a9f3ec73b89b5c944a2003093ac30ac9c1850af409d0e718699613f7aeac4725.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a9f3ec73b89b5c944a2003093ac30ac9c1850af409d0e718699613f7aeac4725.txt)
+- 7.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c4e85639225fd18ba2b70d8dc3374c40053d2b407cbb0f0dd87b4001a4ccdf9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/3c4e85639225fd18ba2b70d8dc3374c40053d2b407cbb0f0dd87b4001a4ccdf9.txt)
+- 8-9 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/55bbd273c6924f7caffd536d5bb68d963f819c150b70da45693db5c3bafe25d9.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/55bbd273c6924f7caffd536d5bb68d963f819c150b70da45693db5c3bafe25d9.txt)
+- 8-9.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a7d35bef1ad9bc318ad95d037ff08683a52190b17282b5e2ac3576f255cc54e2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a7d35bef1ad9bc318ad95d037ff08683a52190b17282b5e2ac3576f255cc54e2.txt)
+- 8-9.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8d0e278c2f933a9f89a054db8880f12bbdf601a92afb89fae44b087e46d361a3.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8d0e278c2f933a9f89a054db8880f12bbdf601a92afb89fae44b087e46d361a3.txt)
+- 8-9.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/02d80b0b2dd6629678986fbcb377047350bc9e95bb14daab6b9758f419ceaf49.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/02d80b0b2dd6629678986fbcb377047350bc9e95bb14daab6b9758f419ceaf49.txt)
+- 8-9.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/092eaba06e19d00bd7cc9dd86c46298f18c2833e50bad50dd50c89503d61e5a2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/092eaba06e19d00bd7cc9dd86c46298f18c2833e50bad50dd50c89503d61e5a2.txt)
+- 10 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca05a26e09d3b7713fd67b4b89b91fa98e3884412a45e5a5b1b54160d966235b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ca05a26e09d3b7713fd67b4b89b91fa98e3884412a45e5a5b1b54160d966235b.txt)
+- 10.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a611ca8f6312dc4b52e1134da683ce0ed81442afff7dca54caea4a0b346f0188.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/a611ca8f6312dc4b52e1134da683ce0ed81442afff7dca54caea4a0b346f0188.txt)
+- 10.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e0ee6d8dd5436ba89c66c0ca4b64f572c554ce2fed1dcf1e9dbe074d571d4415.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/e0ee6d8dd5436ba89c66c0ca4b64f572c554ce2fed1dcf1e9dbe074d571d4415.txt)
+- 10.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ab5d295fad69da154e587951d51a27f8d09c5420bf977ed50b1d74acf201a7f2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ab5d295fad69da154e587951d51a27f8d09c5420bf977ed50b1d74acf201a7f2.txt)
+- 10.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9030d79a9c6491b52d0547d498fcef5a9f73908cc38981e971e3344f3d58b3f8.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9030d79a9c6491b52d0547d498fcef5a9f73908cc38981e971e3344f3d58b3f8.txt)
+- 11 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0ca41292bdd1883cf67a7ff96e01b96e9e88ef33776c343e49ffd5b32e40e9cc.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/0ca41292bdd1883cf67a7ff96e01b96e9e88ef33776c343e49ffd5b32e40e9cc.txt)
+- 11.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f1275726e014f97c6f36135b83e07efa9ada6bc49cd775aeaea38ab9ae8a1a47.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f1275726e014f97c6f36135b83e07efa9ada6bc49cd775aeaea38ab9ae8a1a47.txt)
+- 11.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ab437b7a86c3daa7a078c021f20a822c0cb213c7edfa876401d46deee17ea68b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ab437b7a86c3daa7a078c021f20a822c0cb213c7edfa876401d46deee17ea68b.txt)
+- 11.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0e0033d1d7a9199057b572be2ba942ace61f7734d02da86445a31821f738238.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/f0e0033d1d7a9199057b572be2ba942ace61f7734d02da86445a31821f738238.txt)
+- 11.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5601a7eb2ca36fd3af0bd82397c09e7dd5569843f20cd2b451b1d0019609ae72.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/5601a7eb2ca36fd3af0bd82397c09e7dd5569843f20cd2b451b1d0019609ae72.txt)
+- 12 | Description et objectifs
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/10ab29b0827a45d9c900f966fd821cf5ee1e0d7a8eb0995a7e04e055fd78366d.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/10ab29b0827a45d9c900f966fd821cf5ee1e0d7a8eb0995a7e04e055fd78366d.txt)
+- 12.1 | Activités/ressources AVANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1c96481644f6648cc2de121943dadc27c94a9abdeb3c82b88bfe28e5b119ba30.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/1c96481644f6648cc2de121943dadc27c94a9abdeb3c82b88bfe28e5b119ba30.txt)
+- 12.2 | Activités/ressources PENDANT la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9c1f2ebe7d19b006d58764f271aabb35dbd3cd17227e36b745955f0943fbef94.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/9c1f2ebe7d19b006d58764f271aabb35dbd3cd17227e36b745955f0943fbef94.txt)
+- 12.3 | Activités/ressources APRÈS la séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f041b81a646c40c69a4a2cb071b0b3e4b8318aecef6e2a3fd8d0003962aae17.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4f041b81a646c40c69a4a2cb071b0b3e4b8318aecef6e2a3fd8d0003962aae17.txt)
+- 12.4  | FAQ
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8154d840414b56c3196ad8f478ca7bc85aa55a7c4340af5440043e4d9b640135.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/8154d840414b56c3196ad8f478ca7bc85aa55a7c4340af5440043e4d9b640135.txt)
+- Quiz #1 * Important *
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4344adba4c95298f1a091ad9f3ddc65ae35d68dfe79e6c4be284224c879a10d5.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/4344adba4c95298f1a091ad9f3ddc65ae35d68dfe79e6c4be284224c879a10d5.txt)
+- Séances de consultation : nouvel horaire
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2c8cd570b06bb8a658c02f2c120471c39fb16f5864ff7bc17b062e8fa052f45b.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/2c8cd570b06bb8a658c02f2c120471c39fb16f5864ff7bc17b062e8fa052f45b.txt)
+- Notes de cours séance 2
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/87cd90bf3e690dd6ef2f1cf8466a71e998da403ce55927159fb251b01d05c9ed.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/87cd90bf3e690dd6ef2f1cf8466a71e998da403ce55927159fb251b01d05c9ed.txt)
+- Ateliers offerts par le Centre d’aide en mathématiques et statistique (CAMS) à l’automne 2026
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/86d524886c8bc7e445ce10205eceb116990c0e9f2e8c27d9ec500f15b76073a2.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/86d524886c8bc7e445ce10205eceb116990c0e9f2e8c27d9ec500f15b76073a2.txt)
+- Séances de consultation
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ae7680c15d61ba26b16bf7509e1e5cb82528d4d3f156176d67a377b4cd4834ff.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/ae7680c15d61ba26b16bf7509e1e5cb82528d4d3f156176d67a377b4cd4834ff.txt)
+- Bienvenue! Et quelques infos pour la première séance
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf3400f66c827d8e91eb5768ce1f11316412cdf47d9ff686fca47a3afade722c.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/cf3400f66c827d8e91eb5768ce1f11316412cdf47d9ff686fca47a3afade722c.txt)
+- Informations officielles et évaluations
+  - [Document original](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/97edd7844e4ac77c30fac39e100912b731a462755f825e54508337ab8bbc9a81.txt)
+  - [Texte extrait](https://raw.githubusercontent.com/yanisssvibecoder/campus-revisions-documents/main/documents/97edd7844e4ac77c30fac39e100912b731a462755f825e54508337ab8bbc9a81.txt)
+- ERES_RL_1952
+- https://mabibliotheque.cheneliere.ca/
+- Via le site de l’éditeur
+- Calculatrice financière  (neuve ou usagée).
+- Zone Info
+- Ressources pédagogiques complémentaires fournies par l'éditeur
+- contenu incorporé
+- TP 1 - Mathématiques financières (Solution)
+- TP 2 - Évaluation de titres (Solution)
+- TP 3 - Évaluation de projets (Solution)
+- TP 4 - Coût du capital (Solution)
+- Informations officielles
+- S1 Chapitre 1 - Introduction à la finance
+- S2_ Capsule 1 - principes de math financières & montant simple
+- S2_ Capsule 2 - L'annuité
+- S2_ Capsule 3 - La perpétuité
+- S2_ Capsule 4 - L'équivalence de taux
+- S2_ Capsule 5 - Exercices
+- https://melies.hec.ca/visionnement_auth.cfm?version=kJScvSyQ1RSwgCg&lv=1
+- S3_ Capsule 1 - L'obligation
+- S3_ Capsule 2 - Autres caractéristiques de l'obligation
+- S3_ Capsule 3- La courbe des taux d'intérêt
+- S3_ Capsule 4- La durée de l'obligation
+- S3_ Capsule 5 - Exercices sur les obligations
+- S3_ Capsule 6 - Les taux d'intérêt et l'inflation
+- S5_ Capsule 1 - La valeur entre 2 dates de versement
+- http://tintin.hec.ca/audiovisuel/melies/visionnement.cfm?version=sJSglLy5RXDQgCg
+- http://tintin.hec.ca/audiovisuel/melies/visionnement.cfm?version=wJSglLy5RXEwgCg
+- contenu incorporé
+- S4_ Capsule 1 - Description des actions
+- S4_ Capsule 2 - Évaluation des actions privilégiées
+- S4_ Capsule 3 - Évaluation des actions ordinaires
+- S4_ Capsule 4 - Évaluation par multiple
+- https://melies.hec.ca/visionnement.cfm?version=eJSglLy5RLFQgCg
+- https://melies.hec.ca/visionnement.cfm?version=aJSglLy5RLFAgCg
+- S8_ Capsule 1 - Définition du risque
+- S8_ Capsule 2 - Le risque entre 2 titres
+- S8_ Capsule 3 - Le risque en contexte de portefeuille
+- S9_ Capsule 1 - MEDAF
+- S5_ Capsule 1 - Les critères de décision de projet
+- S5_ Capsule 2 - Le conflit VAN vs TRI
+- S6_ Capsule 1 - Principes de base de l'évaluation de projet
+- S6_ Capsule 2 - L'analyse marginale & les FMs pertinents
+- S6_ Capsule 3 - Autres FMs pertinents
+- S10_ Capsule 1 - Introduction au coût du capital
+- S10_ Capsule 2 - L'approximation du CMPC
+- S10_ Capsule 3 - La correction du CMPC
+- Solution Cap Genius
+- S10_ Capsule 4 - La décision de financement
+- S11_ Capsule 5 - La démonstration de M&M
+- Capsule résumée de la Structure de capital
+- S12_ Capsule 1 - Les marchés
+- S12_ Capsule 2 - Rendement & risque
+- S12_ Capsule 3 - Efficience des marchés
+- S12_ Capsule 4 - Investir dans les marchés
+- S12_ Capsule 5 - L'investissement & l'impôt
