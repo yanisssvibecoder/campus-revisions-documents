@@ -1,0 +1,283 @@
+## xl/worksheets/sheet1.xml
+A1: Mois | B1: A2017 | C1: A2018 | D1: A2019 | E1: A2020 | F1: A2021 | G1: A2022 | H1: A2023 | I1: A2024 | J1: A2025
+A2: Janvier | B2: 6036 | C2: 5873 | D2: 5895 | E2: 5761 | F2: 5704 | G2: 5534 | H2: 5607 | I2: 5446 | J2: 5503
+A3: Février | B3: 6049 | C3: 5991 | D3: 5976 | E3: 5825 | F3: 5831 | G3: 5672 | H3: 5584 | I3: 5591 | J3: 5569
+A4: Mars | B4: 5810 | C4: 5807 | D4: 5639 | E4: 5669 | F4: 5585 | G4: 5419 | H4: 5358 | I4: 5377 | J4: 5297
+A5: Avril | B5: 6100 | C5: 6076 | D5: 5905 | E5: 5890 | F5: 5677 | G5: 5733 | H5: 5628 | I5: 5505 | J5: 5530
+A6: Mai | B6: 6013 | C6: 5905 | D6: 5895 | E6: 5737 | F6: 5697 | G6: 5591 | H6: 5563 | I6: 5525 | J6: 5401
+A7: Juin | B7: 6204 | C7: 5976 | D7: 5931 | E7: 5848 | F7: 5836 | G7: 5709 | H7: 5616 | I7: 5502 | J7: 5532
+A8: Juillet | B8: 6068 | C8: 5997 | D8: 5861 | E8: 5896 | F8: 5732 | G8: 5622 | H8: 5490 | I8: 5591 | J8: 5495
+A9: Août | B9: 6254 | C9: 6182 | D9: 6181 | E9: 6055 | F9: 5948 | G9: 5917 | H9: 5894 | I9: 5781 | J9: 5805
+A10: Septembre | B10: 6629 | C10: 6418 | D10: 6355 | E10: 6378 | F10: 6208 | G10: 6131 | H10: 6165 | I10: 6072 | J10: 5999
+A11: Octobre | B11: 6137 | C11: 6177 | D11: 6028 | E11: 5998 | F11: 5845 | G11: 5869 | H11: 5677 | I11: 5700 | J11: 5538
+A12: Novembre | B12: 6050 | C12: 6037 | D12: 5888 | E12: 5842 | F12: 5724 | G12: 5704 | H12: 5548 | I12: 5465 | J12: 5445
+A13: Décembre | B13: 6159 | C13: 5948 | D13: 5954 | E13: 5796 | F13: 5794 | G13: 5627 | H13: 5686 | I13: 5610 | J13: 5535
+A14: Total | B14: 73509 [formule : SUM(B2:B13)] | C14: 72387 [formule : SUM(C2:C13)] | D14: 71508 [formule : None] | E14: 70695 [formule : None] | F14: 69581 [formule : None] | G14: 68528 [formule : None] | H14: 67816 [formule : None] | I14: 67165 [formule : None] | J14: 66649 [formule : None]
+A16: Mois | B16: Demande
+A17: 01/01/2017 | B17: 6036
+A18: 01/02/2017 | B18: 6049
+A19: 01/03/2017 | B19: 5810
+A20: 01/04/2017 | B20: 6100
+A21: 01/05/2017 | B21: 6013
+A22: 01/06/2017 | B22: 6204
+A23: 01/07/2017 | B23: 6068
+A24: 01/08/2017 | B24: 6254
+A25: 01/09/2017 | B25: 6629
+A26: 01/10/2017 | B26: 6137
+A27: 01/11/2017 | B27: 6050
+A28: 01/12/2017 | B28: 6159
+A29: 01/01/2018 | B29: 5873
+A30: 01/02/2018 | B30: 5991
+A31: 01/03/2018 | B31: 5807
+A32: 01/04/2018 | B32: 6076
+A33: 01/05/2018 | B33: 5905
+A34: 01/06/2018 | B34: 5976
+A35: 01/07/2018 | B35: 5997
+A36: 01/08/2018 | B36: 6182
+A37: 01/09/2018 | B37: 6418
+A38: 01/10/2018 | B38: 6177
+A39: 01/11/2018 | B39: 6037
+A40: 01/12/2018 | B40: 5948
+A41: 01/01/2019 | B41: 5895
+A42: 01/02/2019 | B42: 5976
+A43: 01/03/2019 | B43: 5639
+A44: 01/04/2019 | B44: 5905
+A45: 01/05/2019 | B45: 5895
+A46: 01/06/2019 | B46: 5931
+A47: 01/07/2019 | B47: 5861
+A48: 01/08/2019 | B48: 6181
+A49: 01/09/2019 | B49: 6355
+A50: 01/10/2019 | B50: 6028
+A51: 01/11/2019 | B51: 5888
+A52: 01/12/2019 | B52: 5954
+A53: 01/01/2020 | B53: 5761
+A54: 01/02/2020 | B54: 5825
+A55: 01/03/2020 | B55: 5669
+A56: 01/04/2020 | B56: 5890
+A57: 01/05/2020 | B57: 5737
+A58: 01/06/2020 | B58: 5848
+A59: 01/07/2020 | B59: 5896
+A60: 01/08/2020 | B60: 6055
+A61: 01/09/2020 | B61: 6378
+A62: 01/10/2020 | B62: 5998
+A63: 01/11/2020 | B63: 5842
+A64: 01/12/2020 | B64: 5796
+A65: 01/01/2021 | B65: 5704
+A66: 01/02/2021 | B66: 5831
+A67: 01/03/2021 | B67: 5585
+A68: 01/04/2021 | B68: 5677
+A69: 01/05/2021 | B69: 5697
+A70: 01/06/2021 | B70: 5836
+A71: 01/07/2021 | B71: 5732
+A72: 01/08/2021 | B72: 5948
+A73: 01/09/2021 | B73: 6208
+A74: 01/10/2021 | B74: 5845
+A75: 01/11/2021 | B75: 5724
+A76: 01/12/2021 | B76: 5794
+A77: 01/01/2022 | B77: 5534
+A78: 01/02/2022 | B78: 5672
+A79: 01/03/2022 | B79: 5419
+A80: 01/04/2022 | B80: 5733
+A81: 01/05/2022 | B81: 5591
+A82: 01/06/2022 | B82: 5709
+A83: 01/07/2022 | B83: 5622
+A84: 01/08/2022 | B84: 5917
+A85: 01/09/2022 | B85: 6131
+A86: 01/10/2022 | B86: 5869
+A87: 01/11/2022 | B87: 5704
+A88: 01/12/2022 | B88: 5627
+A89: 01/01/2023 | B89: 5607
+A90: 01/02/2023 | B90: 5584
+A91: 01/03/2023 | B91: 5358
+A92: 01/04/2023 | B92: 5628
+A93: 01/05/2023 | B93: 5563
+A94: 01/06/2023 | B94: 5616
+A95: 01/07/2023 | B95: 5490
+A96: 01/08/2023 | B96: 5894
+A97: 01/09/2023 | B97: 6165
+A98: 01/10/2023 | B98: 5677
+A99: 01/11/2023 | B99: 5548
+A100: 01/12/2023 | B100: 5686
+A101: 01/01/2024 | B101: 5446
+A102: 01/02/2024 | B102: 5591
+A103: 01/03/2024 | B103: 5377
+A104: 01/04/2024 | B104: 5505
+A105: 01/05/2024 | B105: 5525
+A106: 01/06/2024 | B106: 5502
+A107: 01/07/2024 | B107: 5591
+A108: 01/08/2024 | B108: 5781
+A109: 01/09/2024 | B109: 6072
+A110: 01/10/2024 | B110: 5700
+A111: 01/11/2024 | B111: 5465
+A112: 01/12/2024 | B112: 5610
+A113: 01/01/2025 | B113: 5503
+A114: 01/02/2025 | B114: 5569
+A115: 01/03/2025 | B115: 5297
+A116: 01/04/2025 | B116: 5530
+A117: 01/05/2025 | B117: 5401
+A118: 01/06/2025 | B118: 5532
+A119: 01/07/2025 | B119: 5495
+A120: 01/08/2025 | B120: 5805
+A121: 01/09/2025 | B121: 5999
+A122: 01/10/2025 | B122: 5538
+A123: 01/11/2025 | B123: 5445
+A124: 01/12/2025 | B124: 5535
+## xl/worksheets/sheet2.xml
+A1: Année | B1: Mois | C1: Demande | D1: Moyenne mobile | E1: Moyenne mobile pondérée | F1: Lissage exponentiel | G1: Lissage exponentiel
+D2: K = 6 | E2: K = 4, 10 % - 20 %, 30 %, 40 % | F2: 0.25 | G2: 0.75
+A3: 2017 | B3: Janvier | C3: 6036 | F3: 6036 [formule : C3] | G3: 6036 [formule : C3]
+B4: Février | C4: 6049 | F4: 6036 [formule : F$2*$C3+(1-F$2)*F3] | G4: 6036 [formule : G$2*$C3+(1-G$2)*G3]
+B5: Mars | C5: 5810 | F5: 6039.25 [formule : F$2*$C4+(1-F$2)*F4] | G5: 6045.75 [formule : G$2*$C4+(1-G$2)*G4]
+B6: Avril | C6: 6100 | F6: 5981.9375 [formule : None] | G6: 5868.9375 [formule : None]
+B7: Mai | C7: 6013 | E7: 5996.4 [formule : C3*0.1+C4*0.2+C5*0.3+C6*0.4] | F7: 6011.453125 [formule : None] | G7: 6042.234375 [formule : None]
+B8: Juin | C8: 6204 | E8: 6002.1 [formule : C4*0.1+C5*0.2+C6*0.3+C7*0.4] | F8: 6011.83984375 [formule : F$2*$C7+(1-F$2)*F7] | G8: 6020.30859375 [formule : G$2*$C7+(1-G$2)*G7]
+B9: Juillet | C9: 6068 | D9: 6035.333333333333 [formule : AVERAGE(C3:C8)] | E9: 6086.5 [formule : C5*0.1+C6*0.2+C7*0.3+C8*0.4] | F9: 6059.8798828125 [formule : None] | G9: 6158.0771484375 [formule : None]
+B10: Août | C10: 6254 | D10: 6040.666666666667 [formule : AVERAGE(C4:C9)] | E10: 6101 [formule : None] | F10: 6061.909912109375 [formule : None] | G10: 6090.519287109375 [formule : None]
+B11: Septembre | C11: 6629 | D11: 6074.833333333333 [formule : None] | E11: 6164.1 [formule : None] | F11: 6109.9324340820313 [formule : None] | G11: 6213.1298217773438 [formule : None]
+B12: Octobre | C12: 6137 | D12: 6211.333333333333 [formule : None] | E12: 6361.8 [formule : None] | F12: 6239.6993255615234 [formule : None] | G12: 6525.0324554443359 [formule : None]
+B13: Novembre | C13: 6050 | D13: 6217.5 [formule : None] | E13: 6301.1 [formule : None] | F13: 6214.0244941711426 [formule : None] | G13: 6234.008113861084 [formule : None]
+B14: Décembre | C14: 6159 | D14: 6223.666666666667 [formule : None] | E14: 6212.3 [formule : None] | F14: 6173.0183706283569 [formule : None] | G14: 6096.002028465271 [formule : None]
+A15: 2018 | B15: Janvier | C15: 5873 | D15: 6216.166666666667 [formule : None] | E15: 6168.9000000000005 [formule : None] | F15: 6169.5137779712677 [formule : None] | G15: 6143.2505071163177 [formule : None]
+A16: 2018 | B16: Février | C16: 5991 | D16: 6183.666666666667 [formule : None] | E16: 6020.6 [formule : None] | F16: 6095.3853334784508 [formule : None] | G16: 5940.5626267790794 [formule : None]
+A17: 2018 | B17: Mars | C17: 5807 | D17: 6139.833333333333 [formule : None] | E17: 5995.1 [formule : None] | F17: 6069.2890001088381 [formule : None] | G17: 5978.3906566947699 [formule : None]
+A18: 2018 | B18: Avril | C18: 6076 | D18: 6002.833333333333 [formule : None] | E18: 5910.6 [formule : None] | F18: 6003.7167500816286 [formule : None] | G18: 5849.8476641736925 [formule : None]
+A19: 2018 | B19: Mai | C19: 5905 | D19: 5992.666666666667 [formule : None] | E19: 5958 [formule : None] | F19: 6021.7875625612214 [formule : None] | G19: 6019.4619160434231 [formule : None]
+A20: 2018 | B20: Juin | C20: 5976 | D20: 5968.5 [formule : None] | E20: 5945.3 [formule : None] | F20: 5992.5906719209161 [formule : None] | G20: 5933.6154790108558 [formule : None]
+A21: 2018 | B21: Juillet | C21: 5997 | D21: 5938 [formule : None] | E21: 5957.8 [formule : None] | F21: 5988.443003940687 [formule : None] | G21: 5965.4038697527139 [formule : None]
+A22: 2018 | B22: Août | C22: 6182 | D22: 5958.666666666667 [formule : None] | E22: 5980.2 [formule : None] | F22: 5990.5822529555153 [formule : None] | G22: 5989.1009674381785 [formule : None]
+A23: 2018 | B23: Septembre | C23: 6418 | D23: 5990.5 [formule : None] | E23: 6057.6 [formule : None] | F23: 6038.4366897166365 [formule : None] | G23: 6133.7752418595446 [formule : None]
+A24: 2018 | B24: Octobre | C24: 6177 | D24: 6092.333333333333 [formule : None] | E24: 6218.8 [formule : None] | F24: 6133.3275172874773 [formule : None] | G24: 6346.9438104648862 [formule : None]
+A25: 2018 | B25: Novembre | C25: 6037 | D25: 6109.166666666667 [formule : None] | E25: 6232.3 [formule : None] | F25: 6144.2456379656078 [formule : None] | G25: 6219.4859526162218 [formule : None]
+A26: 2018 | B26: Décembre | C26: 5948 | D26: 6131.166666666667 [formule : None] | E26: 6169.7000000000007 [formule : None] | F26: 6117.4342284742061 [formule : None] | G26: 6082.6214881540554 [formule : None]
+A27: 2019 | B27: Janvier | C27: 5895 | D27: 6126.5 [formule : None] | E27: 6067.5 [formule : None] | F27: 6075.0756713556548 [formule : None] | G27: 5981.6553720385136 [formule : None]
+A28: 2019 | B28: Février | C28: 5976 | D28: 6109.5 [formule : None] | E28: 5967.5 [formule : None] | F28: 6030.0567535167411 [formule : None] | G28: 5916.6638430096282 [formule : None]
+A29: 2019 | B29: Mars | C29: 5639 | D29: 6075.166666666667 [formule : None] | E29: 5952.2000000000007 [formule : None] | F29: 6016.5425651375554 [formule : None] | G29: 5961.165960752407 [formule : None]
+A30: 2019 | B30: Avril | C30: 5905 | D30: 5945.333333333333 [formule : None] | E30: 5822.2000000000007 [formule : None] | F30: 5922.1569238531665 [formule : None] | G30: 5719.5414901881013 [formule : None]
+A31: 2019 | B31: Mai | C31: 5895 | D31: 5900 [formule : None] | E31: 5838.4 [formule : None] | F31: 5917.8676928898749 [formule : None] | G31: 5858.6353725470253 [formule : None]
+A32: 2019 | B32: Juin | C32: 5931 | D32: 5876.333333333333 [formule : None] | E32: 5854.9 [formule : None] | F32: 5912.1507696674062 [formule : None] | G32: 5885.9088431367563 [formule : None]
+A33: 2019 | B33: Juillet | C33: 5861 | D33: 5873.5 [formule : None] | E33: 5885.8 [formule : None] | F33: 5916.8630772505549 [formule : None] | G33: 5919.7272107841891 [formule : None]
+A34: 2019 | B34: Août | C34: 6181 | D34: 5867.833333333333 [formule : None] | E34: 5893.2000000000007 [formule : None] | F34: 5902.8973079379157 [formule : None] | G34: 5875.6818026960473 [formule : None]
+A35: 2019 | B35: Septembre | C35: 6355 | D35: 5902 [formule : None] | E35: 6006.4 [formule : None] | F35: 5972.4229809534372 [formule : None] | G35: 6104.6704506740116 [formule : None]
+A36: 2019 | B36: Octobre | C36: 6028 | D36: 6021.333333333333 [formule : None] | E36: 6161.6 [formule : None] | F36: 6068.0672357150779 [formule : None] | G36: 6292.4176126685034 [formule : None]
+A37: 2019 | B37: Novembre | C37: 5888 | D37: 6041.833333333333 [formule : None] | E37: 6140 [formule : None] | F37: 6058.0504267863089 [formule : None] | G37: 6094.1044031671263 [formule : None]
+A38: 2019 | B38: Décembre | C38: 5954 | D38: 6040.666666666667 [formule : None] | E38: 6052.7000000000007 [formule : None] | F38: 6015.5378200897321 [formule : None] | G38: 5939.5261007917816 [formule : None]
+A39: 2020 | B39: Janvier | C39: 5761 | D39: 6044.5 [formule : None] | E39: 5989.1 [formule : None] | F39: 6000.1533650672991 [formule : None] | G39: 5950.3815251979449 [formule : None]
+A40: 2020 | B40: Février | C40: 5825 | D40: 6027.833333333333 [formule : None] | E40: 5871 [formule : None] | F40: 5940.3650238004739 [formule : None] | G40: 5808.3453812994867 [formule : None]
+A41: 2020 | B41: Mars | C41: 5669 | D41: 5968.5 [formule : None] | E41: 5837.9 [formule : None] | F41: 5911.5237678503554 [formule : None] | G41: 5820.8363453248712 [formule : None]
+A42: 2020 | B42: Avril | C42: 5890 | D42: 5854.166666666667 [formule : None] | E42: 5762.7 [formule : None] | F42: 5850.8928258877668 [formule : None] | G42: 5706.9590863312178 [formule : None]
+A43: 2020 | B43: Mai | C43: 5737 | D43: 5831.166666666667 [formule : None] | E43: 5797.8 [formule : None] | F43: 5860.6696194158249 [formule : None] | G43: 5844.2397715828047 [formule : None]
+A44: 2020 | B44: Juin | C44: 5848 | D44: 5806 [formule : None] | E44: 5778.1 [formule : None] | F44: 5829.7522145618686 [formule : None] | G44: 5763.8099428957012 [formule : None]
+A45: 2020 | B45: Juillet | C45: 5896 | D45: 5788.333333333333 [formule : None] | E45: 5805.2000000000007 [formule : None] | F45: 5834.3141609214017 [formule : None] | G45: 5826.9524857239248 [formule : None]
+A46: 2020 | B46: Août | C46: 6055 | D46: 5810.833333333333 [formule : None] | E46: 5849.2000000000007 [formule : None] | F46: 5849.7356206910517 [formule : None] | G46: 5878.7381214309808 [formule : None]
+A47: 2020 | B47: Septembre | C47: 6378 | D47: 5849.166666666667 [formule : None] | E47: 5934.1 [formule : None] | F47: 5901.0517155182888 [formule : None] | G47: 6010.9345303577447 [formule : None]
+A48: 2020 | B48: Octobre | C48: 5998 | D48: 5967.333333333333 [formule : None] | E48: 6131.7000000000007 [formule : None] | F48: 6020.2887866387164 [formule : None] | G48: 6286.2336325894357 [formule : None]
+A49: 2020 | B49: Novembre | C49: 5842 | D49: 5985.333333333333 [formule : None] | E49: 6113.2000000000007 [formule : None] | F49: 6014.7165899790371 [formule : None] | G49: 6070.0584081473589 [formule : None]
+A50: 2020 | B50: Décembre | C50: 5796 | D50: 6002.833333333333 [formule : None] | E50: 6017.3 [formule : None] | F50: 5971.5374424842776 [formule : None] | G50: 5899.0146020368393 [formule : None]
+A51: 2021 | B51: Janvier | C51: 5704 | D51: 5994.166666666667 [formule : None] | E51: 5908.4 [formule : None] | F51: 5927.6530818632082 [formule : None] | G51: 5821.7536505092103 [formule : None]
+A52: 2021 | B52: Février | C52: 5831 | D52: 5962.166666666667 [formule : None] | E52: 5788.6 [formule : None] | F52: 5871.7398113974059 [formule : None] | G52: 5733.4384126273026 [formule : None]
+A53: 2021 | B53: Mars | C53: 5585 | D53: 5924.833333333333 [formule : None] | E53: 5787 [formule : None] | F53: 5861.5548585480547 [formule : None] | G53: 5806.6096031568259 [formule : None]
+A54: 2021 | B54: Avril | C54: 5677 | D54: 5792.666666666667 [formule : None] | E54: 5703.7 [formule : None] | F54: 5792.4161439110412 [formule : None] | G54: 5640.4024007892067 [formule : None]
+A55: 2021 | B55: Mai | C55: 5697 | D55: 5739.166666666667 [formule : None] | E55: 5682.9 [formule : None] | F55: 5763.5621079332814 [formule : None] | G55: 5667.8506001973019 [formule : None]
+A56: 2021 | B56: Juin | C56: 5836 | D56: 5715 [formule : None] | E56: 5682 [formule : None] | F56: 5746.921580949961 [formule : None] | G56: 5689.712650049325 [formule : None]
+A57: 2021 | B57: Juillet | C57: 5732 | D57: 5721.666666666667 [formule : None] | E57: 5737.4 [formule : None] | F57: 5769.1911857124705 [formule : None] | G57: 5799.4281625123313 [formule : None]
+A58: 2021 | B58: Août | C58: 5948 | D58: 5726.333333333333 [formule : None] | E58: 5750.7000000000007 [formule : None] | F58: 5759.8933892843525 [formule : None] | G58: 5748.8570406280833 [formule : None]
+A59: 2021 | B59: Septembre | C59: 6208 | D59: 5745.833333333333 [formule : None] | E59: 5835.7000000000007 [formule : None] | F59: 5806.9200419632643 [formule : None] | G59: 5898.2142601570213 [formule : None]
+A60: 2021 | B60: Octobre | C60: 5845 | D60: 5849.666666666667 [formule : None] | E60: 5997.6 [formule : None] | F60: 5907.190031472448 [formule : None] | G60: 6130.5535650392558 [formule : None]
+A61: 2021 | B61: Novembre | C61: 5724 | D61: 5877.666666666667 [formule : None] | E61: 5963.2 [formule : None] | F61: 5891.642523604336 [formule : None] | G61: 5916.3883912598139 [formule : None]
+A62: 2021 | B62: Décembre | C62: 5794 | D62: 5882.166666666667 [formule : None] | E62: 5879.5 [formule : None] | F62: 5849.731892703252 [formule : None] | G62: 5772.0970978149535 [formule : None]
+A63: 2022 | B63: Janvier | C63: 5534 | D63: 5875.166666666667 [formule : None] | E63: 5824.6 [formule : None] | F63: 5835.7989195274386 [formule : None] | G63: 5788.5242744537381 [formule : None]
+A64: 2022 | B64: Février | C64: 5672 | D64: 5842.166666666667 [formule : None] | E64: 5681.1 [formule : None] | F64: 5760.3491896455789 [formule : None] | G64: 5597.6310686134348 [formule : None]
+A65: 2022 | B65: Mars | C65: 5419 | D65: 5796.166666666667 [formule : None] | E65: 5660.2 [formule : None] | F65: 5738.2618922341844 [formule : None] | G65: 5653.4077671533587 [formule : None]
+A66: 2022 | B66: Avril | C66: 5733 | D66: 5664.666666666667 [formule : None] | E66: 5555.4 [formule : None] | F66: 5658.4464191756379 [formule : None] | G66: 5477.6019417883399 [formule : None]
+A67: 2022 | B67: Mai | C67: 5591 | D67: 5646 [formule : None] | E67: 5606.7000000000007 [formule : None] | F67: 5677.0848143817284 [formule : None] | G67: 5669.150485447085 [formule : None]
+A68: 2022 | B68: Juin | C68: 5709 | D68: 5623.833333333333 [formule : None] | E68: 5607.2999999999993 [formule : None] | F68: 5655.5636107862965 [formule : None] | G68: 5610.537621361771 [formule : None]
+A69: 2022 | B69: Juillet | C69: 5622 | D69: 5609.666666666667 [formule : None] | E69: 5649.4 [formule : None] | F69: 5668.9227080897226 [formule : None] | G69: 5684.3844053404428 [formule : None]
+A70: 2022 | B70: Août | C70: 5917 | D70: 5624.333333333333 [formule : None] | E70: 5653 [formule : None] | F70: 5657.1920310672922 [formule : None] | G70: 5637.5961013351107 [formule : None]
+A71: 2022 | B71: Septembre | C71: 6131 | D71: 5665.166666666667 [formule : None] | E71: 5754.3 [formule : None] | F71: 5722.1440233004687 [formule : None] | G71: 5847.1490253337779 [formule : None]
+A72: 2022 | B72: Octobre | C72: 5869 | D72: 5783.833333333333 [formule : None] | E72: 5922.8 [formule : None] | F72: 5824.3580174753515 [formule : F$2*$C71+(1-F$2)*F71] | G72: 6060.037256333444 [formule : G$2*$C71+(1-G$2)*G71]
+A73: 2022 | B73: Novembre | C73: 5704 | D73: 5806.5 [formule : None] | E73: 5932.5 [formule : C69*0.1+C70*0.2+C71*0.3+C72*0.4] | F73: 5835.5185131065136 [formule : None] | G73: 5916.7593140833615 [formule : None]
+A74: 2022 | B74: Décembre | C74: 5627 | D74: 5825.333333333333 [formule : AVERAGE(C68:C73)] | E74: 5860.2000000000007 [formule : None] | F74: 5802.6388848298848 [formule : None] | G74: 5757.1898285208408 [formule : None]
+A75: 2023 | B75: Janvier | C75: 5607 | D75: 5811.666666666667 [formule : None] | E75: 5748.9000000000005 [formule : None] | F75: 5758.7291636224136 [formule : None] | G75: 5659.5474571302102 [formule : None]
+A76: 2023 | B76: Février | C76: 5584 | D76: 5809.166666666667 [formule : None] | E76: 5658.6 [formule : None] | F76: 5720.79687271681 [formule : None] | G76: 5620.1368642825528 [formule : None]
+A77: 2023 | B77: Mars | C77: 5358 | D77: 5753.666666666667 [formule : None] | E77: 5611.5 [formule : None] | F77: 5686.597654537607 [formule : None] | G77: 5593.0342160706386 [formule : None]
+A78: 2023 | B78: Avril | C78: 5628 | D78: 5624.833333333333 [formule : None] | E78: 5502.5 [formule : None] | F78: 5604.4482409032053 [formule : None] | G78: 5416.7585540176597 [formule : None]
+A79: 2023 | B79: Mai | C79: 5563 | D79: 5584.666666666667 [formule : None] | E79: 5536.1 [formule : None] | F79: 5610.3361806774037 [formule : None] | G79: 5575.1896385044147 [formule : None]
+A80: 2023 | B80: Juin | C80: 5616 | D80: 5561.166666666667 [formule : None] | E80: 5543.6 [formule : None] | F80: 5598.5021355080526 [formule : None] | G80: 5566.0474096261041 [formule : None]
+A81: 2023 | B81: Juillet | C81: 5490 | D81: 5559.333333333333 [formule : None] | E81: 5576.7000000000007 [formule : None] | F81: 5602.8766016310392 [formule : None] | G81: 5603.5118524065256 [formule : None]
+A82: 2023 | B82: Août | C82: 5894 | D82: 5539.833333333333 [formule : None] | E82: 5556.2 [formule : None] | F82: 5574.6574512232792 [formule : None] | G82: 5518.3779631016314 [formule : None]
+A83: 2023 | B83: Septembre | C83: 6165 | D83: 5591.5 [formule : None] | E83: 5684.1 [formule : None] | F83: 5654.4930884174591 [formule : None] | G83: 5800.0944907754074 [formule : None]
+A84: 2023 | B84: Octobre | C84: 5677 | D84: 5726 [formule : None] | E84: 5893.8 [formule : None] | F84: 5782.1198163130939 [formule : None] | G84: 6073.7736226938523 [formule : None]
+A85: 2023 | B85: Novembre | C85: 5548 | D85: 5734.166666666667 [formule : None] | E85: 5848.1 [formule : None] | F85: 5755.8398622348204 [formule : None] | G85: 5776.1934056734626 [formule : None]
+A86: 2023 | B86: Décembre | C86: 5686 | D86: 5731.666666666667 [formule : None] | E86: 5744.7000000000007 [formule : None] | F86: 5703.8798966761151 [formule : None] | G86: 5605.0483514183652 [formule : None]
+A87: 2024 | B87: Janvier | C87: 5446 | D87: 5743.333333333333 [formule : None] | E87: 5690.7000000000007 [formule : None] | F87: 5699.4099225070859 [formule : None] | G87: 5665.7620878545913 [formule : None]
+A88: 2024 | B88: Février | C88: 5591 | D88: 5736 [formule : None] | E88: 5561.5 [formule : None] | F88: 5636.0574418803144 [formule : None] | G88: 5500.9405219636483 [formule : None]
+A89: 2024 | B89: Mars | C89: 5377 | D89: 5685.5 [formule : None] | E89: 5562.2000000000007 [formule : None] | F89: 5624.7930814102356 [formule : None] | G89: 5568.4851304909116 [formule : None]
+A90: 2024 | B90: Avril | C90: 5505 | D90: 5554.166666666667 [formule : None] | E90: 5485.9000000000005 [formule : None] | F90: 5562.8448110576765 [formule : None] | G90: 5424.8712826227274 [formule : None]
+A91: 2024 | B91: Mai | C91: 5525 | D91: 5525.5 [formule : None] | E91: 5477.9 [formule : None] | F91: 5548.3836082932576 [formule : None] | G91: 5484.9678206556819 [formule : None]
+A92: 2024 | B92: Juin | C92: 5502 | D92: 5521.666666666667 [formule : None] | E92: 5496 [formule : None] | F92: 5542.5377062199432 [formule : None] | G92: 5514.9919551639205 [formule : None]
+A93: 2024 | B93: Juillet | C93: 5591 | D93: 5491 [formule : None] | E93: 5497 [formule : None] | F93: 5532.4032796649572 [formule : None] | G93: 5505.2479887909803 [formule : None]
+A94: 2024 | B94: Août | C94: 5781 | D94: 5515.166666666667 [formule : None] | E94: 5542.5 [formule : None] | F94: 5547.0524597487183 [formule : None] | G94: 5569.5619971977449 [formule : None]
+A95: 2024 | B95: Septembre | C95: 6072 | D95: 5546.833333333333 [formule : None] | E95: 5642.6 [formule : None] | F95: 5605.5393448115392 [formule : None] | G95: 5728.1404992994358 [formule : None]
+A96: 2024 | B96: Octobre | C96: 5700 | D96: 5662.666666666667 [formule : None] | E96: 5831.5 [formule : None] | F96: 5722.1545086086544 [formule : None] | G96: 5986.0351248248589 [formule : None]
+A97: 2024 | B97: Novembre | C97: 5465 | D97: 5695.166666666667 [formule : None] | E97: 5816.9 [formule : None] | F97: 5716.6158814564906 [formule : None] | G97: 5771.5087812062147 [formule : None]
+A98: 2024 | B98: Décembre | C98: 5610 | D98: 5685.166666666667 [formule : None] | E98: 5688.5 [formule : None] | F98: 5653.7119110923677 [formule : None] | G98: 5541.6271953015539 [formule : None]
+A99: 2025 | B99: Janvier | C99: 5503 | D99: 5703.166666666667 [formule : None] | E99: 5630.7 [formule : None] | F99: 5642.783933319276 [formule : None] | G99: 5592.9067988253883 [formule : None]
+A100: 2025 | B100: Février | C100: 5569 | D100: 5688.5 [formule : None] | E100: 5547.2000000000007 [formule : None] | F100: 5607.8379499894572 [formule : None] | G100: 5525.4766997063471 [formule : None]
+A101: 2025 | B101: Mars | C101: 5297 | D101: 5653.166666666667 [formule : None] | E101: 5547 [formule : None] | F101: 5598.1284624920927 [formule : None] | G101: 5558.1191749265872 [formule : None]
+A102: 2025 | B102: Avril | C102: 5530 | D102: 5524 [formule : None] | E102: 5451.1 [formule : None] | F102: 5522.8463468690697 [formule : None] | G102: 5362.2797937316464 [formule : None]
+A103: 2025 | B103: Mai | C103: 5401 | D103: 5495.666666666667 [formule : None] | E103: 5465.2 [formule : None] | F103: 5524.6347601518028 [formule : None] | G103: 5488.0699484329116 [formule : None]
+A104: 2025 | B104: Juin | C104: 5532 | D104: 5485 [formule : None] | E104: 5435.7000000000007 [formule : None] | F104: 5493.7260701138521 [formule : None] | G104: 5422.7674871082281 [formule : None]
+A105: 2025 | B105: Juillet | C105: 5495 | D105: 5472 [formule : None] | E105: 5468.8 [formule : None] | F105: 5503.2945525853893 [formule : None] | G105: 5504.6918717770568 [formule : None]
+A106: 2025 | B106: Août | C106: 5805 | D106: 5470.666666666667 [formule : None] | E106: 5490.8 [formule : None] | F106: 5501.2209144390417 [formule : None] | G106: 5497.4229679442642 [formule : None]
+A107: 2025 | B107: Septembre | C107: 5999 | D107: 5510 [formule : None] | E107: 5617 [formule : None] | F107: 5577.1656858292808 [formule : None] | G107: 5728.1057419860663 [formule : None]
+A108: 2025 | B108: Octobre | C108: 5538 | D108: 5627 [formule : None] | E108: 5793.2999999999993 [formule : None] | F108: 5682.6242643719606 [formule : None] | G108: 5931.2764354965166 [formule : None]
+A109: 2025 | B109: Novembre | C109: 5445 | D109: 5628.333333333333 [formule : None] | E109: 5725.4 [formule : None] | F109: 5646.4681982789707 [formule : None] | G109: 5636.3191088741296 [formule : None]
+A110: 2025 | B110: Décembre | C110: 5535 | D110: 5635.666666666667 [formule : AVERAGE(C104:C109)] | E110: 5619.7 [formule : C106*0.1+C107*0.2+C108*0.3+C109*0.4] | F110: 5596.1011487092283 [formule : F$2*$C109+(1-F$2)*F109] | G110: 5492.8297772185324 [formule : G$2*$C109+(1-G$2)*G109]
+## xl/worksheets/sheet3.xml
+A1: Prévisions arrondies 2025
+A2: Année | B2: Mois | C2: Demande | D2: Moyenne mobile | E2: Moyenne mobile pondérée | F2: Lissage exponentiel | G2: Lissage exponentiel
+D3: K = 6 | E3: K = 4, 10 % - 20 %, 30 %, 40 % | F3: 0.25 | G3: 0.75
+A4: 2025 | B4: Janvier | C4: 5503 | D4: 5703 [formule : ROUND('Q3 - Prévisions non arrondies'!D99,0)] | E4: 5631 [formule : ROUND('Q3 - Prévisions non arrondies'!E99,0)] | F4: 5643 [formule : ROUND('Q3 - Prévisions non arrondies'!F99,0)] | G4: 5593 [formule : ROUND('Q3 - Prévisions non arrondies'!G99,0)]
+B5: Février | C5: 5569 | D5: 5689 [formule : ROUND('Q3 - Prévisions non arrondies'!D100,0)] | E5: 5547 [formule : ROUND('Q3 - Prévisions non arrondies'!E100,0)] | F5: 5608 [formule : ROUND('Q3 - Prévisions non arrondies'!F100,0)] | G5: 5525 [formule : ROUND('Q3 - Prévisions non arrondies'!G100,0)]
+B6: Mars | C6: 5297 | D6: 5653 [formule : ROUND('Q3 - Prévisions non arrondies'!D101,0)] | E6: 5547 [formule : ROUND('Q3 - Prévisions non arrondies'!E101,0)] | F6: 5598 [formule : ROUND('Q3 - Prévisions non arrondies'!F101,0)] | G6: 5558 [formule : ROUND('Q3 - Prévisions non arrondies'!G101,0)]
+B7: Avril | C7: 5530 | D7: 5524 [formule : ROUND('Q3 - Prévisions non arrondies'!D102,0)] | E7: 5451 [formule : ROUND('Q3 - Prévisions non arrondies'!E102,0)] | F7: 5523 [formule : ROUND('Q3 - Prévisions non arrondies'!F102,0)] | G7: 5362 [formule : ROUND('Q3 - Prévisions non arrondies'!G102,0)]
+B8: Mai | C8: 5401 | D8: 5496 [formule : ROUND('Q3 - Prévisions non arrondies'!D103,0)] | E8: 5465 [formule : ROUND('Q3 - Prévisions non arrondies'!E103,0)] | F8: 5525 [formule : ROUND('Q3 - Prévisions non arrondies'!F103,0)] | G8: 5488 [formule : ROUND('Q3 - Prévisions non arrondies'!G103,0)]
+B9: Juin | C9: 5532 | D9: 5485 [formule : ROUND('Q3 - Prévisions non arrondies'!D104,0)] | E9: 5436 [formule : ROUND('Q3 - Prévisions non arrondies'!E104,0)] | F9: 5494 [formule : ROUND('Q3 - Prévisions non arrondies'!F104,0)] | G9: 5423 [formule : ROUND('Q3 - Prévisions non arrondies'!G104,0)]
+B10: Juillet | C10: 5495 | D10: 5472 [formule : ROUND('Q3 - Prévisions non arrondies'!D105,0)] | E10: 5469 [formule : ROUND('Q3 - Prévisions non arrondies'!E105,0)] | F10: 5503 [formule : ROUND('Q3 - Prévisions non arrondies'!F105,0)] | G10: 5505 [formule : ROUND('Q3 - Prévisions non arrondies'!G105,0)]
+B11: Août | C11: 5805 | D11: 5471 [formule : ROUND('Q3 - Prévisions non arrondies'!D106,0)] | E11: 5491 [formule : ROUND('Q3 - Prévisions non arrondies'!E106,0)] | F11: 5501 [formule : ROUND('Q3 - Prévisions non arrondies'!F106,0)] | G11: 5497 [formule : ROUND('Q3 - Prévisions non arrondies'!G106,0)]
+B12: Septembre | C12: 5999 | D12: 5510 [formule : ROUND('Q3 - Prévisions non arrondies'!D107,0)] | E12: 5617 [formule : ROUND('Q3 - Prévisions non arrondies'!E107,0)] | F12: 5577 [formule : ROUND('Q3 - Prévisions non arrondies'!F107,0)] | G12: 5728 [formule : ROUND('Q3 - Prévisions non arrondies'!G107,0)]
+B13: Octobre | C13: 5538 | D13: 5627 [formule : ROUND('Q3 - Prévisions non arrondies'!D108,0)] | E13: 5793 [formule : ROUND('Q3 - Prévisions non arrondies'!E108,0)] | F13: 5683 [formule : ROUND('Q3 - Prévisions non arrondies'!F108,0)] | G13: 5931 [formule : ROUND('Q3 - Prévisions non arrondies'!G108,0)]
+B14: Novembre | C14: 5445 | D14: 5628 [formule : ROUND('Q3 - Prévisions non arrondies'!D109,0)] | E14: 5725 [formule : ROUND('Q3 - Prévisions non arrondies'!E109,0)] | F14: 5646 [formule : ROUND('Q3 - Prévisions non arrondies'!F109,0)] | G14: 5636 [formule : ROUND('Q3 - Prévisions non arrondies'!G109,0)]
+B15: Décembre | C15: 5535 | D15: 5636 [formule : ROUND('Q3 - Prévisions non arrondies'!D110,0)] | E15: 5620 [formule : ROUND('Q3 - Prévisions non arrondies'!E110,0)] | F15: 5596 [formule : ROUND('Q3 - Prévisions non arrondies'!F110,0)] | G15: 5493 [formule : ROUND('Q3 - Prévisions non arrondies'!G110,0)]
+A18: Écarts moyens 2025
+A19: Année | B19: Mois | C19: Demande | D19: Moyenne mobile | E19: Moyenne mobile pondérée | F19: Lissage exponentiel | G19: Lissage exponentiel
+D20: K = 6 | E20: K = 4, 10 % - 20 %, 30 %, 40 % | F20: 0.25 | G20: 0.75
+A21: 2025 | B21: Janvier | C21: 5503 | D21: -200 [formule : ($C21-D4)] | E21: -128 [formule : ($C21-E4)] | F21: -140 [formule : None] | G21: -90 [formule : None]
+B22: Février | C22: 5569 | D22: -120 [formule : ($C22-D5)] | E22: 22 [formule : None] | F22: -39 [formule : None] | G22: 44 [formule : None]
+B23: Mars | C23: 5297 | D23: -356 [formule : ($C23-D6)] | E23: -250 [formule : None] | F23: -301 [formule : None] | G23: -261 [formule : None]
+B24: Avril | C24: 5530 | D24: 6 [formule : ($C24-D7)] | E24: 79 [formule : None] | F24: 7 [formule : None] | G24: 168 [formule : None]
+B25: Mai | C25: 5401 | D25: -95 [formule : ($C25-D8)] | E25: -64 [formule : None] | F25: -124 [formule : None] | G25: -87 [formule : None]
+B26: Juin | C26: 5532 | D26: 47 [formule : ($C26-D9)] | E26: 96 [formule : None] | F26: 38 [formule : None] | G26: 109 [formule : None]
+B27: Juillet | C27: 5495 | D27: 23 [formule : ($C27-D10)] | E27: 26 [formule : None] | F27: -8 [formule : None] | G27: -10 [formule : None]
+B28: Août | C28: 5805 | D28: 334 [formule : ($C28-D11)] | E28: 314 [formule : None] | F28: 304 [formule : None] | G28: 308 [formule : None]
+B29: Septembre | C29: 5999 | D29: 489 [formule : ($C29-D12)] | E29: 382 [formule : None] | F29: 422 [formule : None] | G29: 271 [formule : None]
+B30: Octobre | C30: 5538 | D30: -89 [formule : ($C30-D13)] | E30: -255 [formule : None] | F30: -145 [formule : None] | G30: -393 [formule : None]
+B31: Novembre | C31: 5445 | D31: -183 [formule : ($C31-D14)] | E31: -280 [formule : None] | F31: -201 [formule : None] | G31: -191 [formule : None]
+B32: Décembre | C32: 5535 | D32: -101 [formule : ($C32-D15)] | E32: -85 [formule : None] | F32: -61 [formule : None] | G32: 42 [formule : None]
+A33: Moyenne (EM) | D33: -20.416666666666668 [formule : AVERAGE(D21:D32)] | E33: -11.916666666666666 [formule : AVERAGE(E21:E32)] | F33: -20.666666666666668 [formule : None] | G33: -7.5 [formule : None]
+A36: Écarts quadratiques moyens 2025
+A37: Année | B37: Mois | C37: Demande | D37: Moyenne mobile | E37: Moyenne mobile pondérée | F37: Lissage exponentiel | G37: Lissage exponentiel
+D38: K = 6 | E38: K = 4, 10 % - 20 %, 30 %, 40 % | F38: 0.25 | G38: 0.75
+A39: 2025 | B39: Janvier | C39: 5503 | D39: 40000 [formule : D21*D21] | E39: 16384 [formule : E21*E21] | F39: 19600 [formule : None] | G39: 8100 [formule : None]
+B40: Février | C40: 5569 | D40: 14400 [formule : D22*D22] | E40: 484 [formule : None] | F40: 1521 [formule : None] | G40: 1936 [formule : None]
+B41: Mars | C41: 5297 | D41: 126736 [formule : D23*D23] | E41: 62500 [formule : None] | F41: 90601 [formule : None] | G41: 68121 [formule : None]
+B42: Avril | C42: 5530 | D42: 36 [formule : D24*D24] | E42: 6241 [formule : None] | F42: 49 [formule : None] | G42: 28224 [formule : None]
+B43: Mai | C43: 5401 | D43: 9025 [formule : D25*D25] | E43: 4096 [formule : None] | F43: 15376 [formule : None] | G43: 7569 [formule : None]
+B44: Juin | C44: 5532 | D44: 2209 [formule : D26*D26] | E44: 9216 [formule : None] | F44: 1444 [formule : None] | G44: 11881 [formule : None]
+B45: Juillet | C45: 5495 | D45: 529 [formule : D27*D27] | E45: 676 [formule : None] | F45: 64 [formule : None] | G45: 100 [formule : None]
+B46: Août | C46: 5805 | D46: 111556 [formule : D28*D28] | E46: 98596 [formule : None] | F46: 92416 [formule : None] | G46: 94864 [formule : None]
+B47: Septembre | C47: 5999 | D47: 239121 [formule : D29*D29] | E47: 145924 [formule : None] | F47: 178084 [formule : None] | G47: 73441 [formule : None]
+B48: Octobre | C48: 5538 | D48: 7921 [formule : D30*D30] | E48: 65025 [formule : None] | F48: 21025 [formule : None] | G48: 154449 [formule : None]
+B49: Novembre | C49: 5445 | D49: 33489 [formule : D31*D31] | E49: 78400 [formule : None] | F49: 40401 [formule : None] | G49: 36481 [formule : None]
+B50: Décembre | C50: 5535 | D50: 10201 [formule : D32*D32] | E50: 7225 [formule : None] | F50: 3721 [formule : None] | G50: 1764 [formule : None]
+A51: Moyenne (EQM) | D51: 49601.916666666664 [formule : AVERAGE(D39:D50)] | E51: 41230.583333333336 [formule : AVERAGE(E39:E50)] | F51: 38691.833333333336 [formule : None] | G51: 40577.5 [formule : None]

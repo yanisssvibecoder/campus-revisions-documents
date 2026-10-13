@@ -1,0 +1,410 @@
+## Diapositive 1
+
+Chapitre 12 & 13
+
+La relation risque-rendement
+
+## Diapositive 2
+
+Le risque
+
+
+
+## Diapositive 3
+
+Le rendement selon les produits financiers
+
+En pratique, on constate que les différents types d’actifs financiers présentent des niveaux de variabilité différents.
+
+
+
+
+## Diapositive 4
+
+Le risque selon les produits financiers
+
+On constate toutefois que la volatilité des actifs financiers présentant de meilleurs rendements à long terme est plus élevée.
+
+
+
+
+## Diapositive 5
+
+Relation rendement-risque
+
+À partir de ces constats, on peut convenir d’une relation entre le rendement que l’on peut obtenir d’un groupe d’actifs financiers et le risque de chacun :
+
+## Diapositive 6
+
+Relation rendement-risque
+
+À partir de ces constats, on peut convenir d’une relation entre le rendement que l’on peut obtenir d’un groupe d’actifs financiers et le risque de chacun :
+
+
+## Diapositive 7
+
+Relation rendement-risque
+
+À partir de ces constats, on peut convenir d’une relation entre le rendement que l’on peut obtenir d’un groupe d’actifs financiers et le risque de chacun :
+
+
+## Diapositive 8
+
+Relation rendement-risque
+
+À partir de ces constats, on peut convenir d’une relation entre le rendement que l’on peut obtenir d’un groupe d’actifs financiers et le risque de chacun :
+
+
+
+
+
+
+E(R)
+Espérance
+de
+rendement
+
+Risque
+
+Bon du Trésor
+
+Obligations gouvernementales
+
+Obligations corporatives
+
+Débentures corporatives
+
+Actions privilégiées
+
+Actions ordinaires
+
+Produits dérivés
+
+## Diapositive 9
+
+Les outils mathématiques pour illustrer le risque
+
+Le risque d’un seul titre
+	Quel outil mathématique pourrait être utilisé afin de représenter le risque (la variabilité) d’un titre?
+	La variance (l’écart-type)
+Le rendement d’un titre : on s’intéresse aux FMs futurs, donc à l’espérance du rendement noté → E(R)
+
+Le risque d’un titre: sa variabilité (variation forte ou faible)
+La variance: représente le risque en « %2»
+L’écart-type: représente le risque en « % » (racine de la variance)
+
+
+
+
+## Diapositive 10
+
+Le rendement d’un portefeuille
+
+Que l’on regarde dans le futur (espérance) ou la passé (rend. historique) :
+
+Moyenne arithmétique des rendements (RA)
+	= Somme des rendements annuels divisée par le nombre d’années
+
+
+Moyenne géométrique des rendements (RG)
+= Le taux de rendement moyen que vous devez réaliser chaque année afin d’atteindre un niveau de richesse futur
+
+
+## Diapositive 11
+
+Le rendement d’un portefeuille
+
+Exemple: 
+Vous avez investi 100 $ dans une action il y a un an.  Depuis ces cinq dernières années, les rendements annuels ont été de : 15 %, -8 %, 12 %, 18 %  et -11 %. 
+Que vaut votre investissement aujourd’hui? 
+Que valent RA et RG?
+
+## Diapositive 12
+
+Le risque entre 2 titres
+
+
+
+## Diapositive 13
+
+Le risque d’un portefeuille
+
+Le risque entre 2 titres
+	Quel outil mathématique pourrait être utilisé afin de représenter le risque (la variabilité) entre deux ou plusieurs titres?	
+La corrélation
+
+Le coefficient de corrélation: lien des variations entre les titres
+
+
+
+La covariance: la variance, mais entre 2 titres (« %2»)
+
+Notez que: cov (x,y) = x,y x y
+
+
+
+-1
+
+0
+
+1
+
+## Diapositive 14
+
+Représentation graphique de l’effet de diversification
+
+## Diapositive 15
+
+Représentation graphique de l’effet de diversification
+
+## Diapositive 16
+
+Représentation graphique de l’effet de diversification
+
+## Diapositive 17
+
+Représentation graphique de l’effet de diversification
+
+## Diapositive 18
+
+Représentation graphique de l’effet de diversification
+
+Profil risque-rend d’un PF
+L’effet de diversification selon le coefficient de corrélation:
+
+r = 1: pas diversification
+
+r = 0,5: faible diversification
+
+r = 0: bon effet de diversification
+
+r = -0,5: fort effet de diversification
+
+r = 1: diversification parfaite
+Il existe des proportions entre A & B tel que le risque du portefeuille sera nul
+
+
+
+
+
+## Diapositive 19
+
+Les outils mathématiques pour illustrerla relation risque - rendement
+
+Exemple : 
+
+
+
+
+
+
+
+
+
+
+Pi | A | B
+
+10 % | 12 % | 20 %
+
+25 % | 11 % | 25 %
+
+50 % | 9 % | 15 %
+
+15 % | 6 % | -3 %
+
+## Diapositive 20
+
+Les outils mathématiques pour illustrerla relation risque - rendement
+
+Retrouvez les valeurs
+suivantes :
+
+E(RA) = 	9,35 %
+E(RB) = 	15,30 %
+A = 	1,77 %
+B = 	8,72 %
+CovA,B = 	0,0014495
+x,y = 	0,94
+
+
+
+
+
+
+Pi | A | B
+
+10 % | 12 % | 20 %
+
+25 % | 11 % | 25 %
+
+50 % | 9 % | 15 %
+
+15 % | 6 % | -3 %
+
+## Diapositive 21
+
+Le risque en contexte de portefeuille
+
+
+
+## Diapositive 22
+
+Le risque d’un portefeuille
+
+Le risque d’un portefeuille : une part de risque s’élimine en raison du principe de la diversification
+
+
+
+
+
+
+Contribution individuelle de chacun des titres au risque du PF
+
+Effet de diversification entre les titres (coef. de corrélation se cache dans la covariance)
+cov (A,B) = A,B A B
+
+
+## Diapositive 23
+
+Le risque d’un portefeuille
+
+Trouvez le risque d’un portefeuille constitué à 60 %-40 % des titres A & B.
+
+Pi | A | B
+
+10 % | 12 % | 20 %
+
+25 % | 11 % | 25 %
+
+50 % | 9 % | 15 %
+
+15 % | 6 % | -3 %
+
+## Diapositive 24
+
+Diversification de portefeuille
+
+Il est possible de créer une infinité de portefeuille contenant plusieurs titres.
+
+Certains de ces PF ont des profils plus intéressants que d’autres, ces derniers se trouvent sur la courbe appelée frontière efficiente.
+
+## Diapositive 25
+
+Diversification de portefeuille
+
+Lorsqu’on augmente le nombre de titres contenus dans le portefeuille, on se rend donc compte que le risque du PF diminue, mais n’est pas complètement éliminable.
+
+
+
+
+
+Risque
+du PF
+
+Nombre de titres
+
+
+
+Risque éliminable
+Risque spécifique
+
+Risque non-éliminable
+Risque systématique
+
+
+
+
+
+## Diapositive 26
+
+L’approche pratique
+
+Un investisseur rationnel ne paiera donc pas pour du risque éliminable : seul le risque systématique importe!
+
+En pratique, qu’est-ce qu’un PF diversifié?
+On peut utiliser l’indice d’une bourse tel que le S&P/TSX (hypothèse : l’indice se trouve sur la frontière efficiente)
+
+En pratique, qu’utilise-t-on pour représenter le risque systématique?
+On utilise la lettre grecque 
+On fixe le risque systématique du marché m= 1
+Les titres  risqués que le marché auront des   1.
+
+
+## Diapositive 27
+
+L’approche pratique
+
+Beta () : niveau de variation des titres avec le marché.
+
+ 1 : titre plus variable que le marché
+
+ =1 : titre présentant un niveau de variabilité comparable au marché
+
+ 1 : titre moins variable que le marché
+
+## Diapositive 28
+
+Le MÉDAF
+
+MÉDAF : Modèle d’Évaluation Des Actifs Financiers.
+Utilisation : sert à déterminer le rendement à exiger pour un titre financier (action).
+
+
+Rf : taux sans risque (Risk-free Rate)
+E(Rm) : espérance de rendement du marché
+i : Risque systématique du titre i
+Rappel : l’investisseur étant rationnel et donc diversifié, le titre i sera à ajouter à un portefeuille qui ne présente pas de risque spécifique.
+
+E(Ri) = Rf + [E(Rm)-Rf] i 
+
+## Diapositive 29
+
+Le MÉDAF
+
+On déterminera donc le rendement à exiger pour un titre en fonction de son risque systématique.
+	La relation sera linéaire:
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rf
+
+E(Rm)
+
+m=1
+
+E(Ri)
+
+i
+
+E(Ri) = Rf + [E(Rm)-Rf] i 
+
+y = b + m x
+
+## Diapositive 30
+
+Le MÉDAF
+
+Exemple : trouvez le rendement exigé pour investir dans les actions suivantes si vous anticipez que le marché devrait rapporter 8 % et que vous savez que les bons du trésor vous rapportent 2 %.
+
+
+E(Ri)= Rf + [E(Rm)-Rf] i 
+
+E(Ri)= 2%+[ 8% - 2% ] i
+
+À quoi sert ces taux exigé?
+
+## Diapositive 31
+
+Le risque: résumé
+
+## Diapositive 32

@@ -1,0 +1,34 @@
+10.4  | FAQ
+
+Séance 10
+Q :
+J’ai bien compris qu’il fallait calculer le CMPC avec des taux uniformes. Soit tous des taux effectifs ou tous nominaux, et que le calcul en taux effectif est plus simple et privilégié. Mais je constate que parfois dans le livre, cette règle n’est pas respectée. Pourquoi ?
+R : Il est à noter que lorsque l'on fait le calcul du CMPC, on doit utiliser des taux cohérents. On peut choisir tous des taux effectifs ou tous nominaux avec une même capitalisation. Le plus simple pour vous est de faire la moyenne pondérée du CMPC avec des taux effectifs. Lorsque l'on trouve un taux de rendement pour les obligations, il sera fort probablement périodique semestriel: il faudra ensuite le capitaliser par deux périodes pour le rendre effectif.
+Mais attention, dans votre livre, il est possible que l'on ne suive pas toujours cette règle, i.e. que l'on calcule le CMPC avec des taux effectifs et nominaux dans la même moyenne pondérée, ce qui manque de rigueur.
+En pratique, il est vrai que ces subtilités n'ont pas d'impact sur le résultat final de l'évaluation d'un projet qui se base sur plusieurs hypothèses très approximatives. Le cours vous demande toutefois d'être rigoureux dans votre approche analytique.
+Q : J'ai beaucoup de difficulté à comprendre le ratio dette fond propre. Je comprends ce qu'il représente mais je ne sais pas quoi faire avec quand il se présente dans un problème et que je dois trouver le E/V et le D/V lors du calcul du CMPC.
+R : En effet, ce n'est pas un concept complexe, mais si on ne fait pas attention, il peut nous filer entre les doigts. En fait, il faut être en mesure de passer d'un ratio à l'autre pour nos besoins selon le problème.
+Par exemple, si on vous présente un ratio D/E = 2; ça veut dire qu'il y a (D/E = 2/1) 2$ de dette pour chaque 1$ dollar de fonds propres: 2$/1$ (E = équité ou fonds propres). C'est donc dire qu'il y a au total 3$ de capital dans l'entreprise: V = D + E = 2$ + 1$ = 3$ (on suppose qu'il n'y a que du capital Dette et Équité).
+À l'aide de ce que l'on a trouvé plus haut, on peut trouver n'importe quel autre ratio:
+E/D = 1$/2$ = 1/2
+E/V = 1$/3$ = 1/3
+D/V = 2$/3$ = 2/3
+V/E = 3$/1$ = 3
+V/D = 3$/2$ = 1,5 etc.
+On peut donc partir de n'importe lequel de ceux-ci pour trouver n'importe quel autre ratio.
+Q :
+Je suis en train de faire l’exercice 14 (p.494) du manuel et je ne comprends pas comment on fait pour trouver le 2.25 qui nous aide à trouver le ratio de la dette (D/V), à partir du ratio dette fond-propre.
+R : Considérant l'équation du bilan: (V(valeur ou actif) = D + FP).
+Si D / FP = 2,25$, implicitement D / FP = 2,25$ / 1$
+Donc, V = D + FP  :   3,25$ = 2,25$ + 1$
+De ces valeurs, on peut retrouver n'importe lequel des ratios.
+Q : Lorsqu’il est question de trouver le coût des fonds propres (Re) et qu’on nous fournis les informations pour le calculer à partir du “MÉDAF” ET du modèle de croissance du dividende (en même temps), devons-nous faire la moyenne des deux résultats trouvés à l’aide de ses méthodes (pour trouver Re) ?
+R : C'est à la discrétion de l'analyste (choix de l'un ou l'autre ou les deux). Dans une évaluation, s'il est possible de trouver avec les 2, c'est qu'on s'est trompé dans la rédaction de la question, ou on vous laisse le choix du modèle à utiliser.
+Q : Au numéro 17, c), p. 494, qu’est-ce qui fait en sortes qu’on accepterait ou refuserait par erreur le projet ici? Je crois avoir mal compris ce concept, car je ne comprends pas pourquoi on ajoute PAS dans la réponse du manuel que X serait accepté par erreur et que Z serait refusé par erreur.
+R : Le problème avec le CMPC, c'est que le taux ne tient pas compte du risque de chaque projet (on cherche la relation linéaire avec pente qui augmente). C'est la raison pour laquelle on ajuste le CMPC (risque des actifs de l'entreprise) vs le taux d’actualisation du projet.
+Si on ne utilise le CMPC pour actualiser les FMs d'un projet sans corriger pour le risque, on fait l'hypothèse (ou l'erreur) que le projet présente le même risque que les actifs de l'entreprise. C'est pour cette raison que lorsqu'on compare le taux à exigé sur le graphique risque-rendement, les triangles représentent des erreurs de décisions (CMPC non ajusté pour le risque vs relation risque-rendement). Voir livre et notes de cours pour plus de détails.
+Q : Je me demande pourquoi nous ne devons pas tenir compte de la marge de crédit dans le problème 2 de la section CMPC ?
+R : Le CMPC est le
+coût moyen du capital à long terme de l'entreprise
+. Lorsqu'on évalue cette valeur, ni le choix de financement du projet, ni les sources de financement à court terme ne sont tenus en compte.
+Comme on veut connaître le taux de financement moyen des actifs à long terme de la firme, uniquement le financement à long terme de celle-ci importe (voir équation du bilan représenté dans les capsules). Le financement à long terme d'une firme est typiquement constitué d'actions ordinaires, d'actions privilégiées et de dettes à long terme (sous plusieurs formes: obligations, débentures, hypothèques, dettes privés, etc.)

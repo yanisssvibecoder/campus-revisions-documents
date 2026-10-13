@@ -1,0 +1,56 @@
+## Page 1
+                SYMBOLES DE BASE DU BPMN
+
+
+                                          Contexte
+
+                                                                                                                                                                                                                                                                                                                                                                  Couloir
+Piscine                                                                                                                                                                                                                                                                                                                                          Piscine
+                                                                                                                                                                                                                                                                                                                                                                  Couloir
+
+
+       Événements                                       Activités/Tâches
+
+
+
+
+          Événement début                   Événement fin
+           générique                           générique
+
+
+
+
+
+                                                                                             Générique                               Manuelle                                      Utilisateur                                    Service
+
+          Événement début                   Événement fin
+         message                        message
+                                             Flux                          Passerelles
+
+
+
+          Événement intermédiaire            Événement intermédiaire
+           Émission générique                   Réception générique
+            (Le sens du flux permet                (Le sens du flux permet                                                                                                                                   Flux de séquence
+          de connaître la nature                de connaître la nature
+          de l’événement.)                    de l’événement.)                                                                                                                                                                                                                                            Passerelle                                                                                                                                                                                                    Passerelle                                                                                                                                                                                                                                                       exclusive
+
+
+                                                                                                                                   Flux de message
+
+
+          Événement intermédiaire            Événement intermédiaire
+           Réception message                  Émission message
+                                              Objet de données et magasin de données
+
+
+
+
+          Événement début                   Événement intermédiaire                                   Objet de données                                 Magasin de données                                                      Association
+           Minuterie                             Minuterie
+
+
+
+
+
+                                    Aucune reproduction, diffusion ou copie de ce document, en tout ou en partie, n’est permise sans l’autorisation écrite et préalable de HEC Montréal. © HEC Montréal

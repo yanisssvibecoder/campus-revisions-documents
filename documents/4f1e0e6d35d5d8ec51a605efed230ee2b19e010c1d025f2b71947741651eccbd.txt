@@ -1,0 +1,197 @@
+## Diapositive 1
+
+VALEUR ENTRE 2 DATES ET CROISSANCE
+
+Retour sur les mathématiques financières
+
+## Diapositive 2
+
+À réviser :
+
+Valeur entre deux dates de versements
+Regroupement des FMs d’une annuité présentant des montants en croissance
+
+## Diapositive 3
+
+À réviser :
+
+Valeur entre deux dates de versements
+Regroupement des FMs d’une annuité présentant des montants en croissance
+
+
+## Diapositive 4
+
+Valeur entre deux dates de versements
+
+Aujourd’hui
+	  *
+
+
+
+
+
+
+
+
+
+
+
+
+Valeur
+
+PMT
+
+PMT
+
+
+
+## Diapositive 5
+
+Valeur entre deux dates de versements
+
+  n                   m 	
+
+
+
+1re étape:	actualiser à la période de versement précédente
+		(calcul habituel pour une annuité et/ou perpétuité)		
+			
+
+		     
+
+
+
+
+
+
+
+
+
+Valeur
+
+PMT
+
+PMT
+
+
+
+
+
+
+
+
+
+## Diapositive 6
+
+Valeur entre deux dates de versements
+
+  n                   m 	
+
+
+
+2e étape:	capitaliser pour la fraction de période		
+	
+Ou				
+
+
+
+
+
+
+
+
+
+Valeur
+
+PMT
+
+PMT
+
+
+
+
+
+
+
+
+
+## Diapositive 7
+
+Exemple
+
+Le dernier coupon a été versé il y a 1 mois. Quelle est la valeur de l’obligation aujourd’hui s’il reste 9 coupons à verser, le TC est de 8 % et le TRE est de 5 %?
+
+*** Note: nous allons privilégier cette approche plus rigoureuse mathématiquement à ce que le livre couvre sur les obligations au point 7.5.3 (clean & dirty price) ***
+
+## Diapositive 8
+
+Exemple
+
+Le dernier dividende trimestriel de 0,30 $ a été versé il y a 2 mois. Quel est la valeur intrinsèque de l’action si vous exigez un rendement de 12 % et prévoyez une croissance de 6 % (taux nominaux trimestriels)?
+
+## Diapositive 9
+
+À réviser :
+
+Valeur entre deux dates de versements
+Regroupement des FMs d’une annuité présentant des montants en croissance
+
+## Diapositive 10
+
+L’annuité en croissance
+
+Si un montant croît de façon constante et finie, comme pour l’annuité, on peut regrouper ces montant en un seul calcul :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAAC
+
+
+
+r
+
+PMT1
+
+
+
+
+
+*Résultat de ce calcul d’annuité en croissance est TOUJOURS
+trouvé sur une période avant le 1er versement
+
+t = # de paiements
+      à regrouper
+
+PMT2
+
+PMT3
+
+PMTt
+
+PMTt-1
+
+## Diapositive 11
+
+Exemple
+
+À l’âge de 60 ans vous achetez une rente mensuelle indexée au taux d’inflation de 3 % à une compagnie d’assurance. Le premier versement, à la date d’achat, serait de 7 500 $.
+Évaluez le coût de cette rente si la compagnie d’assurance estime votre espérance de vie à 85 ans et exige un rendement de 9 % (tous les taux sont nominaux mensuels):
+
+## Diapositive 12

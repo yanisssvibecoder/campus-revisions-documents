@@ -1,0 +1,224 @@
+
+
+1) Calculer l’impact de l’acceptation par la division viennoiserie de la proposition de la division pâtisserie (fournir les pâtes feuilletées) :
+
+i) sur le résultat de la division viennoiserie (vendre pâte feuilletée)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii) sur le résultat de la division pâtisserie (faire des tartes)
+
+
+
+
+
+
+
+
+2) Calculer l’impact sur le résultat de la division viennoiserie du développement des chaussons pomme-framboise (si elle ne produit pas les pâtes feuilletées)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exercice d’application – Véliko - Solution (suite)
+
+
+3) Calculer la variation du RCI de la division viennoiserie : 
+
+i) si les pâtes feuilletées sont produites
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ii) si les chaussons pomme-framboise sont produits
+
+Variation du RCI de la division viennoiserie : 350 000 $ / 30 000 000 $ = 1,166 %
+OU
+RCI actuel de la division viennoiserie : (2 850 000 $ / 30 000 000 $) 	= 9,50 %
+Nouveau RCI de la division viennoiserie : (3 200 000 $ / 30 000 000 $) 	= 10,666 $
+Variation du RCI de la division viennoiserie :	= + 1,166 %
+OU
+RCI actuel de la division viennoiserie : (2 850 000 $ / 30 000 000 $) 		 = 9,50 %
+Nouveau RCI de la division viennoiserie : (2 850 000 $ / 30 000 000 $) + 1,166 % = 10,666 %
+Variation du RCI de la division viennoiserie :		 = + 1,166 %
+
+
+
+4) Calculer l’impact sur la rémunération du directeur de la division viennoiserie :
+
+i) si les pâtes feuilletées sont produites
+
+
+
+
+
+
+ii) si les chaussons pomme-framboise sont produits
+
+
+
+
+
+
+
+Exercice d’application – Véliko - Solution (suite)
+
+
+5) Énoncez deux éléments qui pourraient inciter le directeur de la division viennoiserie à préférer le développement des chaussons pomme-framboise et deux éléments qui pourraient l’inciter à préférer la production de pâtes feuilletées.
+
+
+Éléments pour le développement des chaussons pomme-framboise: 
+
+Résultat plus grand
+
+Si on regarde ses mesures de performance : Augmentation de son RCI supérieur à 0,5 % et donc de sa prime.
+
+Innovation - Développement d’une nouvelle variété (diversification – nouveau marché)
+
+Risque associé à l’autre alternative : la division pâtisserie ne vend pas autant de tartes qu’espéré ou la commande de pâte n’est pas renouvelée (un fournisseur décide de fournir la division pâtisserie).
+
+Tout autre élément pertinent au contexte
+
+
+
+Éléments pour la production de pâtes feuilletées.
+
+Projet alternatif (chaussons pomme-framboise) jugé plus risqué que le projet de pâtes feuilletées car : 
+
+Ce projet étant proposé à la dernière minute, aucune analyse sérieuse n’a été menée. Il est possible que le projet ne rencontre pas le succès escompté.
+
+Les coûts fixes à engager sont plus importants (100 000 $ vs 25 000 $)
+
+À la différence du projet de chaussons, le projet de pâtes permet de ne pas travailler à 100 % de la capacité, il y a donc moins de risque de bris d’équipement, de problème de qualité… 
+
+Si la division pâtisserie accepte un prix plus élevé pour la pâte, le projet peut devenir aussi intéressant que le développement d’une nouvelle variété.
+
+Tout autre élément pertinent au contexte
+
+
+
+
+
+
+Exercice d’application – Véliko - Solution (suite)
+
+
+6) Calculer l’impact sur le résultat global de la compagnie 
+
+i) de l’acceptation par la division viennoiserie de la proposition de la division pâtisserie (fournir les pâtes feuilletées) 
+
+
+▪ Résultat additionnel =  650 000 $ + 25 000 $ = 675 000 $
+
+
+
+
+
+
+
+ii) du développement des chaussons pomme-framboise
+
+
+▪ Résultat additionnel =   350 000 $
+
+
+
+
+
+
+
+
+
+7) Du point de vue financier, quelle option est la plus intéressante pour l’entreprise Véliko ?
+
+Les deux projets sont rentables pour l’entreprise. Toutefois, un seul des deux projets pourra être mené, car la capacité disponible de la ligne de production C ne permet pas de réaliser les deux projets simultanément. 
+
+Pour l’entreprise, il est préférable de produire les tartes aux noix de pécan. La marge nette dégagée est de 675 000 $ contre 350 000 $ pour la production des chaussons pomme-framboise. 
+
+Toutefois, le directeur de la division viennoiserie pourrait préférer le développement des chaussons pomme-framboise. Cette option permet une augmentation plus grande du résultat de cette division (350 000 $) que celle découlant de la production de pâtes feuilletées     (25 000 $). 
+
+
+
+
+
+
+
+
+Exercice d’application – Véliko - Solution (suite)
+
+
+8) Que pensez-vous :
+
+
+i) de l’évaluation de la performance des directeurs de divisions sur la base du RCI
+
+Le RCI intègre des éléments sur lesquels les gestionnaires n’ont pas le contrôle.
+
+Les divisions sont des centres de profit (et non des centres d’investissements)
+
+Les directeurs déterminent de manière autonome les politiques commerciales et la planification opérationnelle, mais ne peuvent pas prendre les décisions concernant les investissements. Or, les choix faits en termes d’investissements ont un impact sur le RCI. 
+
+Il y a une incohérence entre les responsabilités déléguées et la mesure de performance utilisée. Par exemple, le directeur de la division boulangerie ne peut pas investir pour tenter d’améliorer ses performances puisque le projet d’investissement proposé n’a pas été validé par la direction, il sera pourtant pénalisé si son RCI n’augmente pas. 
+
+Un seul indicateur de performance (le RCI) est utilisé. Cet indicateur n’incite pas directement les divisions à se préoccuper de la qualité des produits, de la satisfaction des clients et de l’innovation.
+
+
+
+
+ii) de l’incidence que peut avoir cette mesure de performance sur les choix de développement des directeurs 
+
+La mesure de performance ne permet pas d’aligner les objectifs des divisions avec ceux de l’entreprise. 
+
+Par exemple, 
+La division viennoiserie va très certainement préférer lancer la production de chaussons pomme-framboise. En effet, le projet de pâte à tarte est moins intéressant pour cette division. 
+La division pâtisserie, qui ne peut pas s’approvisionner à l’externe ne pourra donc pas développer les tartes aux noix de pécan. Pourtant, le projet de tartes aux noix de pécan permet de développer un nouveau produit qui s’avère plus rentable pour la compagnie dans son ensemble.
+
+
+
+
+
+
+
+
+
+Exercice d’application – Véliko - Solution (suite)
+
+
+Partie B : 
+
+Que pensez-vous de l’évaluation de la performance basée sur le tableau de bord de l’annexe 4?
+

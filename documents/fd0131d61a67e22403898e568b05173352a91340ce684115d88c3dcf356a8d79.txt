@@ -1,0 +1,38 @@
+3.3 | Activités/ressources APRÈS la séance
+
+Séance 3
+EXERCICES :
+Livre Gestion financière, 5e édition
+Chapitre 7
+(pages 218-221) :
+Exercices: 3, 5, 6, 15, 21 a) b)
+Note
+: la cote représente le prix de l'obligation exprimé en pourcentage de la valeur nominale. Ainsi, une cote de 102 % signifie un prix de 1020 $ (soit 102 % * 1000).
+Exercices supplémentaires
+: Les exercices du livre sont insuffisants pour bien vous préparer au quiz ou aux examens. Nous vous conseillons de faire les '
+E
+xercices supplémentaires - obligations'
+que vous trouverez ci-dessous.
+Livre Gestion financière, 4e édition
+Chapitre 7
+(pages 222-225) :
+Exercices: 3, 6, 7, 8, 17, 19, 24, 26 (sauf c), 27, 31
+Note
+: la cote représente le prix de l'obligation exprimé en pourcentage de la valeur nominale. Ainsi, une cote de 102 % signifie un prix de 1020 $ (soit 102 % * 1000).
+Exercices supplémentaires
+: Les exercices du livre sont insuffisants pour bien vous préparer au quiz ou aux examens. Nous vous conseillons de faire les '
+E
+xercices supplémentaires - obligations'
+que vous trouverez ci-dessous.
+Important !
+Exercices supplémentaires - Obligations.docx
+Question solutionnée d'une version antérieure du livre *Trouvez le coupon à l'aide de la calculatrice plutôt qu'Excel*
+http://tintin.hec.ca/audiovisuel/melies/visionnement.cfm?version=sJSglLy5RXDQgCg
+Énoncé
+(rédigez votre propre solution avec schéma temporel avant de consulter la solution)
+8. Il y a 5 an et demi, la société Chréphane a émis des obligations dont l’échéance initiale était de 20 ans.  Si le TRE est actuellement de 9% et que les titres se vendent à une cote de 85%, quel était le taux de coupon initialement offert à l'émission ?
+Question 2 solutionnée d'une version antérieure du livre *Trouvez le résultat à l'aide de la calculatrice financière plutôt qu'Excel*
+http://tintin.hec.ca/audiovisuel/melies/visionnement.cfm?version=wJSglLy5RXEwgCg
+Énoncé
+(rédigez votre propre solution avec schéma temporel avant de consulter la solution)
+19. La société BDJ souhaite émettre une nouvelle obligation avec une échéance de 10 ans pour un projet d’expansion devenu nécessaire. La société possède actuellement des obligations dont le taux du coupon est de 8 % et qui se vendent 1 095 $. Les coupons sont versés de façon semestrielle et l’obligation a une échéance de 10 ans. Quel devrait être le taux du coupon de la nouvelle obligation si la société désire les vendre à la valeur nominale ?

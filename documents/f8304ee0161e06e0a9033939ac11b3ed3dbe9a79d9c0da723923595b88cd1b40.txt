@@ -1,0 +1,1138 @@
+Corrigé du chapitre 7 — Obligations (exercices quiz)
+🌙
+FINA 10200 · Chapitre 7 · pages 222–225 · préparation au quiz
+Les obligations :
+prix, rendements et risque de taux
+Corrigé pas-à-pas des exercices demandés pour le quiz :
+3, 6, 7, 8, 17, 19, 24, 26 (a et b), 27 et 31
+. Pour chacun : énoncé nettoyé, schéma temporel, formule écrite
+en entier avec les valeurs substituées
+, séquence
+BA II Plus
+et réponse encadrée.
+La seule équation à retenir — et les consignes du prof
+tout le chapitre tourne autour de la formule du prix d'une obligation
+P
+0
+=
+C
+× [ 1 − (1 +
+i
+)
+−n
+] ÷
+i
++
+VN
+× (1 +
+i
+)
+−n
+P
+0
+— le prix (le « cours ») aujourd'hui
+C
+— coupon
+périodique
+= VN × TC ÷ 2
+i
+— taux périodique exigé = TRE ÷ 2
+n
+— nombre de périodes = années × 2
+VN
+— valeur nominale (habituellement 1 000 $), remboursée à l'échéance
+Formules en entier obligatoires
+: une démarche du type « N=30, PMT=50, PV=… » est refusée. La calculatrice sert à
+vérifier
+, pas à remplacer la démarche.
+Toujours faire le schéma temporel
+avant de calculer (t=0, coupons, VN).
+Obligation nord-américaine standard
+: coupons semestriels; TC et TRE sont des taux
+nominaux à capitalisation semestrielle
+→ taux périodique = TC/2 ou TRE/2. Sauf indication contraire de l'énoncé.
+Cote = prix en % de la valeur nominale
+: une cote de 105 % = 1,05 × 1 000 $ = 1 050 $.
+Règle d'or
+: la valeur d'une annuité (ou d'une perpétuité) se trouve toujours
+une période avant le premier versement
+.
+Valeur entre deux dates de coupon
+: 1) actualiser tous les FM à la date de coupon précédente, 2) capitaliser le résultat pour la fraction de période écoulée au taux périodique.
+Position du prix
+: prime si TC > TRE · au pair si TC = TRE · escompte si TC < TRE. (Le prix suit l'inverse : P > VN, P = VN, P < VN.)
+Selon ce qu'on te demande, tu isoles une lettre — à la calculatrice :
+Chercher le prix
+CPT PV
+On connaît C, i, n, VN.
+N=semestres · I/Y=i · PMT=C · FV=VN → CPT PV
+Chercher le RAE/TRE
+CPT I/Y
+i est impossible à isoler algébriquement → BND. RAE = 2 × i.
+N · prix +/− PV · PMT=C · FV=VN → CPT I/Y ×2
+Chercher le coupon/TC
+CPT PMT
+D'abord (prix − VA du VN) ÷ facteur d'annuité. TC = 2C ÷ VN.
+N · I/Y · prix +/− PV · FV=VN → CPT PMT
+Zéro-coupon
+PMT = 0
+Aucun coupon : seul le nominal est actualisé.
+P
+0
+= VN ÷ (1+i)
+n
+Convention de signes BA II
+: le prix qu'on
+paie
+se saisit en
+négatif
+(touche
++/−
+) quand on cherche I/Y ou N; le résultat PV sort lui aussi en négatif — c'est le prix à payer.
+Notions de base · exercice 3
+le grand classique : trouver le prix
+3
+Le cours des obligations — CIR inc.
+Chercher le prix
+La société CIR inc. possède des obligations sur le marché dont le taux de coupon vaut
+10 %
+avec une échéance de
+15 ans
+. Les obligations offrent des
+versements semestriels
+. Si le rendement à l'échéance est de
+8 %
+, quel est le cours actuel des obligations ?
+(VN de 1 000 $, la valeur usuelle, sous-entendue.)
+TC = 10 %
+→ C = 1 000 × 0,10 ÷ 2 =
+50 $
+par semestre  ·
+TRE = 8 %
+→ i = 0,08 ÷ 2 =
+4 %
+par semestre  ·
+n = 15 × 2 = 30
+semestres  ·
+VN = 1 000 $
+t (semestres) :  0      1      2      3    ····   29       30
+FM ($)        :        50     50     50    ····   50      50 + 1 000
+↑
+↑
+P₀ ?                          dernier coupon + remboursement du VN
+Formule du prix, avec substitution :
+P
+0
+= C × [1 − (1 + i)
+−n
+] ÷ i + VN × (1 + i)
+−n
+P
+0
+= 50 × [1 − (1,04)
+−30
+] ÷ 0,04 + 1 000 × (1,04)
+−30
+avec (1,04)
+30
+= 3,243398, donc (1,04)
+−30
+= 0,308319
+P
+0
+= 50 × (1 − 0,308319) ÷ 0,04 + 1 000 × 0,308319
+P
+0
+= 50 × 17,292033 + 308,319 = 864,60 + 308,32 =
+1 172,92 $
+Réponse — cours actuel
+1 172,92
+$ (cote ≈ 117,29 %)
+BA II Plus
+2ND
+FV
+·
+30
+N
+·
+4
+I/Y
+·
+50
+PMT
+·
+1000
+FV
+·
+CPT
+PV
+→
+−1 172,92
+Cohérence
+: TC (10 %) > TRE (8 %) → l'obligation doit se vendre
+à prime
+(P > VN) : 1 172,92 $ > 1 000 $ ✓
+À retenir :
+prix = VA de l'annuité de coupons + VA du nominal, le tout au
+taux périodique
+(semestriel ici : tout se divise par 2, tout se multiplie par 2).
+Notions intermédiaires · exercices 6 à 19
+temps écoulé depuis l'émission, cote, RAE et coupon caché
+6
+Le cours des obligations — Simonato
+Chercher le prix
+La société Simonato a émis des obligations dont l'échéance était de
+11 ans l'année dernière
+et dont le taux du coupon est de
+7,8 %
+. Les coupons sont payés par
+versements semestriels
+. Si le rendement à l'échéance est de
+8,6 %
+, quel est le cours actuel de ces obligations ?
+Le piège
+: l'émission date d'un an → il reste
+10 ans
+(et non 11) → n = 10 × 2 =
+20 semestres
+.
+TC = 7,8 %
+→ C = 1 000 × 0,078 ÷ 2 =
+39 $
+·
+TRE = 8,6 %
+→ i =
+4,3 %
+·
+n = 20
+semestres  ·
+VN = 1 000 $
+Émission
+Aujourd'hui
+Échéance
+  |-------- 1 an ---------|----------- 10 ans restants -----------|
+t (semestres) :  0    ····
+0
+1      2    ····   19       20
+FM ($)        :               39     39    ····   39      39 + 1 000
+Formule du prix, avec substitution :
+P
+0
+= 39 × [1 − (1,043)
+−20
+] ÷ 0,043 + 1 000 × (1,043)
+−20
+avec (1,043)
+20
+= 2,321065, donc (1,043)
+−20
+= 0,430831
+P
+0
+= 39 × (1 − 0,430831) ÷ 0,043 + 1 000 × 0,430831
+P
+0
+= 39 × 13,236488 + 430,83 = 516,22 + 430,83 =
+947,05 $
+Réponse — cours actuel
+947,05
+$ (cote ≈ 94,71 %)
+BA II Plus
+2ND
+FV
+·
+20
+N
+·
+4.3
+I/Y
+·
+39
+PMT
+·
+1000
+FV
+·
+CPT
+PV
+→
+−947,05
+Cohérence
+: TC (7,8 %) < TRE (8,6 %) →
+escompte
+: 947,05 $ < 1 000 $ ✓
+À retenir :
+« l'échéance était de 11 ans
+l'année dernière
+» → toujours recompter les années
+restantes
+à partir d'aujourd'hui.
+7
+Le rendement des obligations — Fleur
+Chercher le RAE
+La société Fleur a émis des obligations dont l'échéance était de
+15 ans il y a 3 ans
+et dont le taux de coupon est de
+9,2 %
+. Les coupons sont payés par
+versements semestriels
+. Si ces obligations se vendent actuellement à une
+cote de 105 %
+, quel est leur rendement à l'échéance ?
+Deux conversions à faire
+: ① 15 − 3 =
+12 ans restants
+→ n = 24 semestres; ② cote 105 % → prix = 1,05 × 1 000 =
+1 050 $
+.
+C = 1 000 × 0,092 ÷ 2 = 46 $
+·
+P
+0
+= 1 050 $
+·
+n = 24
+semestres  ·
+VN = 1 000 $
+·  i = ? (taux semestriel)
+Émission
+Aujourd'hui (1 050 $)
+Échéance
+  |--- 3 ans ---|---------- 12 ans restants ----------|
+t (semestres) :  ····
+0
+1     2    ····   23      24
+FM ($)        :              46    46    ····   46     46 + 1 000
+Équation du prix — on cherche i par itération (BND) :
+1 050 = 46 × [1 − (1 + i)
+−24
+] ÷ i + 1 000 × (1 + i)
+−24
+essai i = 4,25 % → prix = 1 052,03 $ (trop haut → i un peu plus grand)
+essai i = 4,27 % → prix = 1 048,95 $ (trop bas)
+solution :
+i = 4,2632 % par semestre
+RAE = 2 × i = 2 × 4,2632 % =
+8,53 %
+(taux nominal, capitalisation semestrielle)
+Réponse — rendement à l'échéance
+8,53
+% (nominal sém.)
+BA II Plus
+2ND
+FV
+·
+24
+N
+·
+1050
++/−
+PV
+·
+46
+PMT
+·
+1000
+FV
+·
+CPT
+I/Y
+→
+4,2632
+→ RAE = 2 × 4,2632 =
+8,53 %
+Cohérence
+: cote de 105 % > 100 % → prime → le RAE doit être
+inférieur
+au TC : 8,53 % < 9,2 % ✓  (Le rendement
+effectif
+annuel serait (1,042632)² − 1 = 8,71 %, mais par convention le cours demande le RAE nominal, c'est-à-dire i × 2.)
+À retenir :
+quand le prix est connu et le taux inconnu, i ne peut pas s'isoler : on le trouve à la calculatrice (BND / CPT I/Y) et on
+multiplie par 2
+pour rapporter le RAE nominal.
+8
+Le taux de coupon — Reznik
+Chercher le coupon
+La société Reznik possède des obligations sur le marché dont l'échéance est de
+14,5 ans
+, le rendement à l'échéance de
+6,8 %
+et le cours actuel, de
+1 136,50 $
+. Les coupons sont payés par
+versements semestriels
+. Quel est le taux du coupon de ces obligations ?
+TRE = 6,8 %
+→ i =
+3,4 %
+par semestre  ·
+n = 14,5 × 2 = 29
+semestres  ·
+P
+0
+= 1 136,50 $
+·
+VN = 1 000 $
+·  C = ?
+t (semestres) :  0      1      2    ····   28        29
+FM ($)        :        C      C    ····   C      C + 1 000
+↑
+P₀ = 1 136,50 $
+Équation du prix, avec substitution :
+1 136,50 = C × [1 − (1,034)
+−29
+] ÷ 0,034 + 1 000 × (1,034)
+−29
+avec (1,034)
+29
+= 2,636915, donc (1,034)
+−29
+= 0,379231
+1 136,50 = C × (1 − 0,379231) ÷ 0,034 + 379,23
+1 136,50 = C × 18,25791 + 379,23
+C = (1 136,50 − 379,23) ÷ 18,25791 = 757,27 ÷ 18,25791 =
+41,48 $ par semestre
+Taux de coupon : TC = 2 × C ÷ VN = 2 × 41,48 ÷ 1 000 =
+8,30 %
+Réponse — coupon semestriel
+41,48
+$
+Réponse — taux de coupon
+8,30
+%
+BA II Plus
+2ND
+FV
+·
+29
+N
+·
+3.4
+I/Y
+·
+1136.50
++/−
+PV
+·
+1000
+FV
+·
+CPT
+PMT
+→
+41,48
+→ TC = 2 × 41,48 ÷ 1 000 =
+8,30 %
+Cohérence
+: prix 1 136,50 $ > 1 000 $ → prime → TC doit dépasser le RAE : 8,30 % > 6,8 % ✓
+À retenir :
+pour isoler le coupon : ① actualiser le VN, ② soustraire du prix, ③ diviser par le facteur d'annuité — puis TC = 2C ÷ VN.
+17
+Le risque de taux d'intérêt — FRA contre CAN
+Risque de taux
+L'obligation
+FRA
+offre un taux de coupon de
+6 %
+et l'obligation
+CAN
+, de
+12 %
+. Dans les deux cas : échéance de
+10 ans
+, coupons
+semestriels
+, RAE de
+8 %
+. Si les taux d'intérêt augmentaient soudain de
+2 %
+, quel serait le pourcentage de changement du cours de ces obligations ? Et si les taux devaient
+chuter de 2 %
+? Conclusion sur le risque de taux des obligations à faible coupon ?
+FRA
+: C = 30 $  ·
+CAN
+: C = 60 $  ·  i = 4 % (si RAE 8 %), 5 % (si 10 %), 3 % (si 6 %)  ·  n = 20 semestres  ·  VN = 1 000 $
+t (semestres) :  0      1      2    ····   19        20
+FRA ($)       :        30     30    ····   30      30 + 1 000
+CAN ($)       :        60     60    ····   60      60 + 1 000
+→ même schéma, même échéance : seule la grosseur des coupons change
+Prix de départ — RAE 8 % (i = 4 %) :
+P
+FRA
+= 30 × [1 − (1,04)
+−20
+] ÷ 0,04 + 1 000 × (1,04)
+−20
+= 30 × 13,590326 + 456,387 =
+864,10 $
+P
+CAN
+= 60 × 13,590326 + 456,387 =
+1 271,81 $
+Hausse de 2 % → RAE 10 % (i = 5 %) :
+P
+FRA
+= 30 × [1 − (1,05)
+−20
+] ÷ 0,05 + 1 000 × (1,05)
+−20
+= 30 × 12,462210 + 376,889 =
+750,76 $
+P
+CAN
+= 60 × 12,462210 + 376,889 =
+1 124,62 $
+Baisse de 2 % → RAE 6 % (i = 3 %) :
+P
+FRA
+= 30 × [1 − (1,03)
+−20
+] ÷ 0,03 + 1 000 × (1,03)
+−20
+= 30 × 14,877473 + 553,676 =
+1 000,00 $
+(au pair : TC = TRE = 6 %!)
+P
+CAN
+= 60 × 14,877473 + 553,676 =
+1 446,32 $
+Obligation
+Prix si RAE 6 %
+Prix si RAE 8 %
+Prix si RAE 10 %
+Δ si +2 %
+Δ si −2 %
+FRA (TC 6 %)
+1 000,00 $
+864,10 $
+750,76 $
+−13,12 %
++15,73 %
+CAN (TC 12 %)
+1 446,32 $
+1 271,81 $
+1 124,62 $
+−11,57 %
++13,72 %
+Calcul des pourcentages de changement :
+FRA : (750,76 − 864,10) ÷ 864,10 =
+−13,12 %
+·  (1 000,00 − 864,10) ÷ 864,10 =
++15,73 %
+CAN : (1 124,62 − 1 271,81) ÷ 1 271,81 =
+−11,57 %
+·  (1 446,32 − 1 271,81) ÷ 1 271,81 =
++13,72 %
+BA II Plus — ex. prix de FRA à 8 %
+2ND
+FV
+·
+20
+N
+·
+4
+I/Y
+·
+30
+PMT
+·
+1000
+FV
+·
+CPT
+PV
+→
+−864,10
+(
+idem avec
+5
+I/Y
+,
+3
+I/Y
+, et PMT =
+60
+pour CAN
+)
+FRA (faible coupon)
+−13,12 %
+/ +15,73 %
+CAN (coupon élevé)
+−11,57 %
+/ +13,72 %
+Conclusion
+: à échéance égale, l'obligation au
+faible coupon (FRA)
+réagit plus fortement que celle au coupon élevé, que les taux montent (−13,12 % vs −11,57 %) ou descendent (+15,73 % vs +13,72 %). Son prix est plus volatil car une plus grande part de sa valeur est concentrée à l'échéance (VN) : sa
+durée est plus longue
+. Si on veut profiter d'une baisse des taux, on achète long et à faible coupon; si on craint une hausse, l'inverse.
+À retenir :
+volatilité du prix ↑ avec l'échéance et ↓ avec le taux de coupon — c'est exactement ce que mesure la
+durée
+(annexe 7A).
+19
+Le rendement des obligations — CAT
+Chercher le RAE
+La société CAT souhaite émettre une
+nouvelle
+obligation d'échéance
+15 ans
+pour financer un projet d'expansion. Elle possède actuellement des obligations de
+même échéance (15 ans)
+dont le taux de coupon est de
+7 %
+et qui se vendent
+1 044 $
+(coupons semestriels). Quel devrait être le
+taux du coupon de la nouvelle obligation
+si la société désire la vendre
+à la valeur nominale
+?
+Anciennes :
+C = 35 $
+·
+P
+0
+= 1 044 $
+·
+n = 30
+semestres  ·  VN = 1 000 $ → trouver i, puis TC
+nouvelle
+= RAE du marché.
+Anciennes obligations :                         Nouvelle obligation (même risque) :
+t : 0     1    ···  29     30                   t : 0     1    ···  29     30
+    35    ···  35   35+1000                       C?    ···  C?    C?+1000
+↑
+↑
+P₀ = 1 044 $                              P₀ = 1 000 $ (au pair)
+Étape 1 — RAE des obligations existantes (BND) :
+1 044 = 35 × [1 − (1 + i)
+−30
+] ÷ i + 1 000 × (1 + i)
+−30
+solution :
+i = 3,2677 % par semestre
+→ RAE = 2 × 3,2677 % =
+6,54 %
+Étape 2 — coupon de la nouvelle obligation :
+Pour se vendre au pair, il faut TC
+nouvelle
+= RAE exigé =
+6,54 %
+C = 1 000 × 0,065354 ÷ 2 =
+32,68 $
+par semestre
+RAE du marché (anciennes)
+6,54
+%
+TC de la nouvelle obligation
+6,54
+% (C = 32,68 $/sem.)
+BA II Plus
+2ND
+FV
+·
+30
+N
+·
+1044
++/−
+PV
+·
+35
+PMT
+·
+1000
+FV
+·
+CPT
+I/Y
+→
+3,2677
+→ × 2 =
+6,5354 ≈ 6,54 %
+Cohérence
+: les anciennes se vendent au-dessus du pair (1 044 > 1 000) → leur RAE (6,54 %) doit être
+sous
+leur TC (7 %) ✓. Une obligation se vend au pair si et seulement si son coupon égale le rendement exigé — c'est pourquoi la nouvelle doit offrir 6,54 %.
+À retenir :
+vendre au pair ⟺ TC = TRE du marché pour ce niveau de risque. Le prix des vieilles obligations révèle le taux que le marché exige des nouvelles.
+(Même logique que la question solutionnée « BDJ » des notes de cours.)
+Théorie · exercice 24
+les trois questions de compréhension que le prof adore
+24
+Le cours des obligations et le rendement
+Conceptuel
+a) Quel est le rapport entre le cours d'une obligation et le rendement à l'échéance ?
+Relation inverse.
+Le cours n'est rien d'autre que la valeur actualisée des flux monétaires futurs :
+P
+0
+= C × [1 − (1 + i)
+−n
+] ÷ i + VN × (1 + i)
+−n
+Si le RAE (donc i) augmente, chaque terme (1 + i)
+−n
+diminue → le prix baisse. Si le RAE baisse, le prix monte. (Graphique prix vs RAE : courbe décroissante et convexe.)
+b) Pourquoi certaines obligations se vendent-elles à prime, d'autres à escompte ?
+Le coupon est
+fixé à l'émission
+, alors que le rendement exigé par le marché
+change tous les jours
+. Le prix est le « régulateur » : il monte ou descend jusqu'à ce que l'acheteur obtienne exactement le RAE du marché.
+À prime
+(P > VN) : le coupon est plus généreux que ce que le marché exige → les investisseurs paient plus que le nominal →
+TC > RAE
+À escompte
+(P < VN) : le coupon est insuffisant → la décote compense le manque à gagner →
+TC < RAE
+Au pair
+(P = VN) : le coupon égale exactement le rendement exigé →
+TC = RAE
+c) Rapport entre le rendement courant et le rendement à l'échéance ?
+Rappel : rendement courant
+RC = coupon annuel ÷ prix
+. Il ignore le gain (ou la perte) en capital qui se réalise quand le prix converge vers le VN à l'échéance.
+Position
+Coupon vs RAE
+Hiérarchie des rendements
+À prime
+TC > RAE
+TC > RC > RAE
+Au pair
+TC = RAE
+TC = RC = RAE
+À escompte
+TC < RAE
+TC < RC < RAE
+Exemples chiffrés (avec nos exercices) :
+À prime — exercice 3 : RC = 100 ÷ 1 172,92 =
+8,53 %
+, entre TC = 10 % et RAE = 8 % ✓
+À escompte — exercice 17 (FRA) : RC = 60 ÷ 864,10 =
+6,94 %
+, entre TC = 6 % et RAE = 8 % ✓
+Intuition : le RC ne compte que le coupon. À prime, le prix devra descendre vers 1 000 $ à l'échéance (perte qui fait chuter le RAE sous le RC); à escompte, le prix remontera (gain qui pousse le RAE au-dessus du RC).
+À retenir :
+prix et RAE varient en sens inverse; la position du prix (prime/pair/escompte) se lit dans TC vs RAE, et le rendement courant se loge
+toujours entre
+le TC et le RAE.
+Problèmes complexes · exercices 26, 27 et 31
+zéro-coupon, piège de l'échéance et obligation non conventionnelle
+26
+Les obligations à coupon détaché — émission de 20 M$
+Zéro-coupon · parties a et b
+Votre entreprise a besoin de
+20 millions de dollars
+et choisit d'émettre des obligations venant à échéance dans
+30 ans
+. Le rendement exigé pour cette émission sera de
+7 %
+. Deux possibilités : une obligation à
+coupons annuels de 7 %
+ou une obligation à
+coupon détaché
+(zéro-coupon).
+a)
+Combien d'obligations de chaque type faudrait-il émettre ?
+b)
+Quel montant l'entreprise devra-t-elle rembourser dans 30 ans dans chaque cas ?
+(Partie c) non demandée pour le quiz.)
+Attention à la périodicité
+: ici l'énoncé dit
+coupons annuels
+(exception au standard nord-américain) → n = 30
+années
+et i = 7 %
+effectif annuel
+. VN = 1 000 $ par obligation.
+Coupons annuels :  t=0    1    2   ···   29    30
+                        70 $  70 $ ···  70 $  70+1000
+Zéro-coupon    :  t=0 ························ 30
+                                                    1 000 $ (rien avant)
+a) Nombre d'obligations à émettre
+Obligations à coupons : TC = TRE = 7 % → prix = VN = 1 000 $
+P
+0
+= 70 × [1 − (1,07)
+−30
+] ÷ 0,07 + 1 000 × (1,07)
+−30
+= 70 × 12,409043 + 131,37 = 868,63 + 131,37 =
+1 000,00 $
+Nombre = 20 000 000 ÷ 1 000 =
+20 000 obligations
+Zéro-coupon : aucun coupon, PMT = 0
+P
+0
+= VN × (1 + i)
+−n
+= 1 000 × (1,07)
+−30
+= 1 000 ÷ 7,612255 =
+131,37 $
+Nombre = 20 000 000 ÷ 131,367 = 152 245,1 →
+152 246 obligations
+(on arrondit vers le haut pour atteindre les 20 M$)
+b) Remboursement dans 30 ans
+Coupons : 20 000 × 1 000 $ =
+20 000 000 $
+(20 M$)
+Zéro-coupon : 152 246 × 1 000 $ =
+152 246 000 $
+(≈ 152,2 M$)
+a) Coupons
+20 000
+obligations
+a) Zéro-coupon (131,37 $/obligation)
+152 246
+obligations
+b) Coupons — remboursement
+20,0
+M$
+b) Zéro-coupon — remboursement
+152,25
+M$
+BA II Plus — prix du zéro-coupon
+2ND
+FV
+·
+30
+N
+·
+7
+I/Y
+·
+0
+PMT
+·
+1000
+FV
+·
+CPT
+PV
+→
+−131,37
+Note sur l'arrondi
+: 20 000 000 ÷ 131,367 = 152 245,1. En gardant 152 245 obligations, on ne recueillerait que 19 999 984 $ (et on rembourserait 152 245 000 $); on arrondit donc à 152 246 obligations. Le taux d'imposition de 35 % ne sert qu'à la partie c) (sorties de fonds après impôt), non demandée ici.
+À retenir :
+le zéro-coupon ne rapporte que sa décote : son prix d'émission est minuscule (131,37 $), il en faut une avalanche pour amasser 20 M$, et tout le rendement se paie d'un coup à l'échéance — d'où un remboursement 7,6 fois plus lourd.
+27
+Le calcul de l'échéance — le piège
+Piège !
+Vous avez trouvé une obligation assortie d'un coupon au taux de
+12 %
+qui se vend
+à la valeur nominale
+. Quelle est l'échéance de cette obligation ?
+Raisonnement :
+vendue au pair ⟺ TC = RAE. Le coupon est de 12 % → le rendement exigé (RAE) est de
+12 %
+, donc i = 6 % par semestre = TC ÷ 2.
+Or, si i = TC ÷ 2, le prix est
+exactement égal au pair pour n'importe quel n
+:
+P
+0
+= 60 × [1 − (1,06)
+−n
+] ÷ 0,06 + 1 000 × (1,06)
+−n
+= 1 000 $
+(vrai que n = 2, 10, 40 ou 100 semestres)
+Réponse : impossible à déterminer — l'échéance peut être n'importe laquelle (1 an, 10 ans, 30 ans…).
+Échéance
+Indéterminable
+BA II Plus — preuve avec n = 10 puis n = 40
+2ND
+FV
+·
+10
+N
+·
+6
+I/Y
+·
+60
+PMT
+·
+1000
+FV
+·
+CPT
+PV
+→
+−1 000,00
+·
+remplacer
+10
+par
+40
+N
+→ même
+−1 000,00
+À retenir :
+une obligation se vend au pair dès que TC = RAE —
+quelle que soit son échéance
+. L'échéance ne peut être déduite que si le prix s'écarte du pair (ou si on connaît un autre indice).
+31
+L'évaluation des obligations — Tour Magne (T et M)
+Obligation non conventionnelle
+Obligation T
+: VN de
+10 000 $
+, échéance de
+20 ans
+. Aucun coupon pendant les
+10 premières années
+; coupons
+semestriels de 1 500 $
+pendant les
+4 années suivantes
+(années 11 à 14); puis
+3 300 $ annuellement
+pendant les
+6 dernières années
+(années 15 à 20).
+Obligation M
+: VN de
+20 000 $
+, 20 ans, escompte pur (aucun coupon). Rendement exigé :
+9 % capitalisé tous les 6 mois
+. Quel est le cours actuel de T ? de M ?
+TRE = 9 % sém. → i = 4,5 % par semestre
+·  20 ans =
+40 semestres
+·  taux annuel équivalent : (1,045)² − 1 =
+9,2025 %
+(pour les coupons annuels de T)
+semestres : 0 ······ 20 | 21 ···· 28 | 29 |  30    32    34    36    38    40
+années    : 0 ······ 10 | 11 ···· 14 |    |  15    16    17    18    19    20
+oblig. T  :   néant   |
+1 500 $ × 8
+|    |
+3 300 $ × 6 (annuels)
++ VN 10 000 $ à t=40
+                      | (semestriels)|
+oblig. M  :   néant jusqu'à t=40, puis
+20 000 $
+une seule fois
+Obligation T — on découpe en trois morceaux standards
+Morceau 1 : les 8 coupons semestriels de 1 500 $ (semestres 21 à 28).
+Règle d'or : valeur de l'annuité
+une période avant le premier versement
+→ au semestre 20 :
+V
+20
+= 1 500 × [1 − (1,045)
+−8
+] ÷ 0,045 = 1 500 × 6,595886 =
+9 893,83 $
+P
+0
+= 9 893,83 × (1,045)
+−20
+= 9 893,83 ÷ 2,411714 =
+4 102,41 $
+Morceau 2 : les 6 coupons annuels de 3 300 $ (années 15 à 20) — versements annuels, capitalisation semestrielle → taux annuel équivalent 9,2025 %.
+Valeur une période (1 an) avant le premier versement → à l'année 14 :
+V
+14
+= 3 300 × [1 − (1,092025)
+−6
+] ÷ 0,092025 = 3 300 × 4,458964 =
+14 714,58 $
+P
+0
+= 14 714,58 × (1,045)
+−28
+= 14 714,58 ÷ 3,429700 =
+4 290,34 $
+Morceau 3 : le nominal de 10 000 $ au semestre 40.
+P
+0
+= 10 000 × (1,045)
+−40
+= 10 000 ÷ 5,816365 =
+1 719,29 $
+Total obligation T :
+4 102,41 + 4 290,34 + 1 719,29 =
+≈ 10 112,03 $
+(écart de ±0,01 $ possible selon l'arrondi des morceaux)
+Obligation M — escompte pur
+P
+0
+= VN × (1 + i)
+−n
+= 20 000 × (1,045)
+−40
+= 20 000 ÷ 5,816365 =
+3 438,57 $
+Obligation T
+10 112,03
+$ (cote ≈ 101,12 %)
+Obligation M
+3 438,57
+$ (cote ≈ 17,19 %)
+BA II Plus — T, morceau 1 (2 étapes)
+2ND
+FV
+·
+8
+N
+·
+4.5
+I/Y
+·
+1500
+PMT
+·
+0
+FV
+·
+CPT
+PV
+→
+−9 893,83
+2ND
+FV
+·
+20
+N
+·
+4.5
+I/Y
+·
+0
+PMT
+·
+9893.83
+FV
+·
+CPT
+PV
+→
+−4 102,41
+BA II Plus — T, morceau 2 (2 étapes)
+2ND
+FV
+·
+6
+N
+·
+9.2025
+I/Y
+·
+3300
+PMT
+·
+0
+FV
+·
+CPT
+PV
+→
+−14 714,58
+2ND
+FV
+·
+28
+N
+·
+4.5
+I/Y
+·
+0
+PMT
+·
+14714.58
+FV
+·
+CPT
+PV
+→
+−4 290,34
+BA II Plus — T, morceau 3 et obligation M
+2ND
+FV
+·
+40
+N
+·
+4.5
+I/Y
+·
+0
+PMT
+·
+10000
+FV
+·
+CPT
+PV
+→
+−1 719,29
+même chose avec
+20000
+FV
+→
+−3 438,57
+Lecture du schéma
+: les coupons de 1 500 $ tombent aux semestres 21 à 28 (années 11 à 14); le premier coupon annuel de 3 300 $ tombe à l'année 15 = semestre 30, puis un à chaque année paire de semestres (32, 34, 36, 38, 40). Le VN de T est remboursé au semestre 40, en plus du dernier coupon.
+À retenir :
+obligation non conventionnelle = la découper en morceaux standards (annuités + montants simples), chaque annuité étant évaluée
+une période avant son premier versement
+, puis tout ramener à aujourd'hui. Si la périodicité des versements (annuel) diffère de la capitalisation (semestrielle), on passe par le
+taux équivalent
+.
+En gros, retiens que…
+👉
+Une seule équation
+: P
+0
+= C × [1 − (1+i)
+−n
+]/i + VN × (1+i)
+−n
+, avec
+tout en périodes semestrielles
+(C = VN·TC/2, i = TRE/2, n = années × 2) sauf si l'énoncé impose autre chose.
+👉
+Position du prix
+: TC > TRE → prime · TC = TRE → pair · TC < TRE → escompte. Sert de vérification instantanée pour 3, 6, 7, 8, 19 et 27.
+👉
+RAE
+: impossible à isoler →
+CPT
+I/Y
+, puis
+× 2
+(taux nominal).
+Coupon
+:
+CPT
+PMT
+, puis TC = 2C ÷ VN.
+👉
+Règle d'or
+: une annuité se valorise
+une période avant son premier versement
+— indispensable pour l'obligation T de l'exercice 31.
+👉
+Risque de taux
+: le prix bouge d'autant plus que l'échéance est longue et le coupon petit (exercice 17 : −13,12 % vs −11,57 %).
+👉
+Zéro-coupon
+: P
+0
+= VN ÷ (1+i)
+n
+— prix minuscule, remboursement énorme (exercice 26).
+✏️
+Petit test de compréhension :
+une obligation de 1 000 $, coupon 8 % semestriel, 12 ans, TRE 9 %. Prime ou escompte, et quel prix ?
+(Indice : TC < TRE → escompte; réponse ≈ 927,52 $.)
+Corrigé — Chapitre 7 · La valeur des obligations et les taux d'intérêt · pages 222–225 · Gestion financière 4e éd.

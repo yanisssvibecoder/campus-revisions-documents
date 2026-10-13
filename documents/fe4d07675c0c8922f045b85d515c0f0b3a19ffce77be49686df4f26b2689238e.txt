@@ -1,0 +1,39 @@
+La société TOC inc. fabrique trois modèles de casques protecteurs pour le ski vendus exclusivement dans les boutiques des différents centres de ski canadiens. Le modèle T-J1 est destiné aux skieurs juniors. Quant aux deux modèles pour adultes, ils se différencient ainsi : le TOC-22 est un modèle classique de grand confort tandis que le TOC-36 est plus avant-gardiste et inclut un système de musique intégré au casque. Voici les résultats financiers du dernier exercice pour chacun des modèles :
+Note 1 : 	TOC fabrique uniquement selon les commandes reçues des boutiques de ski, ainsi elle ne détient aucun stock.
+Note 2 : 	Les employés directement affectés à la fabrication des casques touchent un salaire horaire de 20 $ l’heure. 
+Voici les heures de MOD requises par modèle :
+Le modèle TOC-36 nécessite davantage d’heures de MOD en raison de l’assemblage du système de musique intégré. L’assemblage des trois modèles est en grande partie réalisé manuellement.
+Note 3 :	Les frais généraux de fabrication sont actuellement imputés en fonction des heures-machines.
+Voici des données supplémentaires concernant la production du dernier exercice :
+La présidente de TOC est un peu déçue du niveau de ventes du modèle TOC-22 au dernier exercice. Puisqu’il s’agit d’un modèle standard de très grand confort, elle s’attendait à un chiffre d’affaires plus élevé pour ce modèle. Vincent, un de ses employés, travaillant à mi-temps pour TOC et à mi-temps pour les Boutiques Sports-Intermédiaire (BSI), affirme qu’un modèle similaire est offert chez BSI au prix de 275 $. La présidente l’informe que TOC ne peut accepter de vendre à ce prix, car cela ramènerait la marge bénéficiaire brute pour ce modèle sous les 20 %, ce qui est inacceptable pour la direction. Si les ventes du modèle TOC-22 ne s’améliorent pas au cours du prochain exercice, elle songe à cesser la production de ce modèle.
+Vincent, qui effectue également des études universitaires en comptabilité, propose à la présidente de revoir l’analyse des coûts. Disposant de quelques heures libres, il propose ses services afin de développer un modèle utilisant la répartition des frais généraux de fabrication par centres de coûts. 
+Voici le résultat de son travail :
+TRAVAIL À FAIRE
+Calculez le coût de fabrication unitaire des deux modèles pour adultes (TOC-22 et TOC-36) selon la méthode d’imputation des frais généraux de fabrication utilisée par la société TOC au cours du dernier exercice. Prenez soin de présenter tous vos calculs en identifiant clairement le taux d’imputation actuellement utilisé par la société TOC. 
+Calculez le coût de fabrication unitaire des deux modèles pour adultes (TOC-22 et TOC-36) selon la méthode de la comptabilité par centres de coûts proposée par Vincent. Prenez soin de présenter tous vos calculs en identifiant clairement chacun des taux d’imputation par centre de coûts. 
+Expliquez pourquoi les coûts de fabrication unitaire des deux modèles pour adultes sont différents selon les deux méthodes utilisées ci-dessus. Vous devez fournir deux explications spécifiques à la situation de TOC. 
+Concernant les informations divulguées par la présidente :
+Est-il vrai que TOC n’est pas en mesure d’offrir le même prix de vente unitaire que les Boutiques Sports-Intermédiaire pour le TOC-22 sans quoi la marge bénéficiaire brute unitaire chuterait sous les 20 % ? Veuillez fournir tous vos calculs à l’appui. 
+Selon vous, la société TOC doit-elle abandonner la production du modèle TOC-22 ? Veuillez justifier votre réponse à l’aide de deux arguments pertinents. 
+ | T-J1 | TOC-22 | TOC-36
+Nombre d’unités vendues (1) | 1 400 | 2 600 | 1 850
+Ventes totales ($) | 350 000 $ | 780 000 $ | 814 000 $
+  Matières premières ($) | 154 000 $ | 325 000 $ | 314 500 $
+  Main-d’œuvre directe ($) (2) | 22 400 $ | 88 400 $ | 88 800 $
+  Frais généraux de fabrication ($) (3) | 36 896 $ | 164 449 $ | 117 012 $
+Résultat brut | 136 704 $ | 202 151 $ | 293 688 $
+MODÈLES | Heure(s) de
+MOD requise par unité
+T-J1 | 0,8 hmod  / unité
+TOC-22 | 1,7 hmod / unité
+TOC-36 | 2,4 hmod / unité
+ | T-J1 | TOC-22 | TOC-36
+Heure-machine par unité | 0,5 | 1,2 | 1,2
+Nombre de composants par unité | 5 | 7 | 10
+Nombre de lots | 56 | 65 | 185
+Centres de coûts | Bases d’imputation | Coût total par centre de coûts
+Moulage des casques | Heures-machines | 134  390 $
+Préparation des composants | Nombre de composants | 41  515 $
+Assemblage des casques | Heures de MOD | 89  820 $
+Contrôle de la qualité | Nombre de lots | 52  632 $
+Total des frais généraux de fabrication |   |  318  357 $   

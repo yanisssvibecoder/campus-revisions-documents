@@ -1,0 +1,230 @@
+## Page 1
+CURRENT INVENTORY
+
+ID                                      Identifiant de ligne
+
+Material Description              Description complète du produit, incluant sa taille (si applicable).
+
+Material Number             Numéro unique qui identifie un produit.
+
+Plant                                  Définit l'usine pour laquelle les données seront fournies.
+
+Row Id                               ID de ligne unique généré pour permettre des clauses de tri.
+
+Storage Location                Indique l'emplacement de stockage où le produit est entreposé.
+
+Unit                                    Fait référence à l'unité de mesure définie dans les données de base du produit.
+
+                                 Quantité actuelle de produit réservée pour une consommation dans les ordres deRESTRICTED                                   production.
+
+STOCK                          Quantité actuelle de produit en stock.
+
+
+
+
+
+                                                                                                                                                                                                                                               1
+
+## Page 2
+CURRENT INVENTORY KPI
+
+ID                                   Identifiant de ligne
+
+Material Description             Description complète du produit, incluant sa taille (si applicable).
+
+Material Number            Numéro unique qui identifie un produit.
+
+Plant                                Définit l'usine pour laquelle les données seront fournies.
+
+Row Id                            ID de ligne unique généré pour permettre des clauses de tri.
+
+Storage Location               Indique l'emplacement de stockage où le produit est entreposé.
+
+Unit                                 Fait référence à l'unité de mesure définie dans les données de base du produit.
+
+CURRENT INVENTORY           Quantité actuelle de produit en stock.
+
+                        Nombre d'étapes durant lesquelles le produit était en inventaire. Peut être utilisé avec les étapes écoulées pourNB STEPS AVAILABLE                               analyser la fréquence de ruptures de stock.
+
+QUANTITY SOLD               Représente la quantité totale de produit vendue aux clients.
+
+SIM ELAPSED STEPS          Nombre d'étapes depuis le début de la simulation.
+
+## Page 3
+FINANCIAL POSTINGS
+Company Code                    Définit la société pour laquelle les données seront fournies.
+Currency                      Clé identifiant la devise utilisée pour maintenir le solde du compte.
+                                Indique si l'écriture au compte G/L a été faite en débit ou en crédit. À utiliser de préférence avec la mesureDebit Credit Indicator                            Montant (Abs).
+                            Permet d'explorer les valeurs dans les états financiers. Commence par le niveau le plus élevé (niveau 1 des étatsFs Level 1                                   financiers)…
+Fs Level 2                 …
+Fs Level 3                 …
+Fs Level 4                  …avec jusqu'à 4 niveaux.
+Gl Account Name                  Libellé décrivant le compte du grand livre.
+Gl Account Number               Identifiant unique de compte du grand livre.
+ID                                   Identifiant de ligne
+Row Id                             ID de ligne unique généré pour permettre des clauses de tri.
+Sim Date                     Concaténation du cycle de simulation et de l'étape de simulation.
+Sim Round                  Composante cycle de la date virtuelle dans ERPsim.
+Sim Step                   Composante étape de la date virtuelle dans ERPsim.
+                            Montant réel, où les débits sont positifs et les crédits négatifs. À utiliser de préférence avec les comptes du bilan,AMOUNT                             obtenus en filtrant la dimension FS Niveau 1 pour la valeur ‘Bilan’.
+SIM ELAPSED STEPS           Nombre d'étapes depuis le début de la simulation.
+SIM PERIOD                 Une période est un ensemble de 5 étapes.
+
+## Page 4
+INVENTORY
+
+ID                                       Identifiant de ligne
+
+Material Description                 Description complète du produit, incluant sa taille (si applicable).
+
+Material Number               Numéro unique qui identifie un produit.
+
+Plant                                    Définit l'usine pour laquelle les données seront fournies.
+
+Row Id                                 ID de ligne unique généré pour permettre des clauses de tri.
+
+Sim Date                         Concaténation du cycle de simulation et de l'étape de simulation.
+
+Sim Round                    Composante cycle de la date virtuelle dans ERPsim.
+
+Sim Step                      Composante étape de la date virtuelle dans ERPsim.
+
+Storage Location                   Indique l'emplacement de stockage où le produit est entreposé.
+
+Unit                                      Fait référence à l'unité de mesure définie dans les données de base du produit.
+
+INVENTORY OPENING BALANCE     Retourne la quantité de stock au début de chaque journée.
+
+SIM ELAPSED STEPS             Nombre d'étapes depuis le début de la simulation.
+
+SIME PERIOD                   Une période est un ensemble de 5 étapes.
+
+## Page 5
+MARKET
+
+Area                                   Définit la région dans laquelle les investissements marketing ont été effectués (Nord, Sud, Ouest).
+
+Company Code                      Définit la société pour laquelle les données seront fournies.
+
+Currency                        Clé identifiant la devise utilisée pour les valeurs monétaires.
+
+Distribution Channel                  Identifiant unique du canal de distribution.
+
+ID                                      Identifiant de ligne
+
+Material Description                Description complète du produit, incluant sa taille (si applicable).
+
+Row Id                                ID de ligne unique généré pour permettre des clauses de tri.
+
+Sales Organization                   Définit l'organisation des ventes pour laquelle les données seront fournies.
+
+Sim Round                    Composante cycle de la date virtuelle dans ERPsim.
+
+Unit                                    Fait référence à l'unité de mesure définie dans les données de base du produit.
+
+AVERAGE PRICE                       Prix de vente moyen des biens vendus dans une combinaison canal de distribution / région.
+
+                                 Valeur des commandes clients générées. La valeur nette correspond à la quantité vendue multipliée par le prixNET VALUE                                       unitaire de chaque article.
+
+QUANTITY                       Représente la quantité totale de produit vendue aux clients pour la période.
+
+SIME PERIOD                  Une période est un ensemble de 5 étapes.
+
+## Page 6
+MARKETING EXPENSES
+
+                                  Définit la région dans laquelle les investissements marketing ont été effectués (Nord, Sud,Area                               Ouest).
+
+Currency                   Clé identifiant la devise utilisée pour les valeurs monétaires.
+
+ID                                Identifiant de ligne
+
+Material Description          Description complète du produit, incluant sa taille (si applicable).
+
+Material Number          Numéro unique qui identifie un produit.
+
+Row Id                         ID de ligne unique généré pour permettre des clauses de tri.
+
+Sales Organization             Définit l'organisation des ventes pour laquelle les données seront fournies.
+
+Simulation Round          Composante cycle de la date virtuelle dans ERPsim.
+
+Simulation Step           Composante étape de la date virtuelle dans ERPsim.
+
+Simulation Date             Concaténation du cycle de simulation et de l'étape de simulation.
+
+AMOUNT                  Représente la valeur quotidienne de l'investissement marketing.
+
+SIM ELAPSED TIME         Nombre d'étapes depuis le début de la simulation.
+
+SIME PERIOD              Une période est un ensemble de 5 étapes.
+
+
+
+                                                                                                                             6
+
+## Page 7
+PURCHASE ORDERS
+
+Company Code              Définit la société pour laquelle les données seront fournies.
+
+Currency                 Clé identifiant la devise utilisée pour les valeurs monétaires.
+
+Goods Receipt Date       Concaténation de la phase de réception des marchandises et de l'étape de réception des marchandises.
+
+Goods Receipt Round      Cycle au cours duquel la commande sera reçue.
+
+Goods Receipt Step       Étape à laquelle la commande sera reçue.
+
+ID                             Identifiant de ligne
+
+Material Description        Description complète du produit, incluant sa taille (si applicable).
+
+Material Number        Numéro unique qui identifie un produit.
+
+Purchasing Order        Numéro du bon de commande.
+
+Row Id                       ID de ligne unique généré pour permettre des clauses de tri.
+
+Sim Date                 Concaténation du cycle de simulation et de l'étape de simulation.
+
+Sim Round             Composante cycle de la date virtuelle dans ERPsim.
+
+Sim Step               Composante étape de la date virtuelle dans ERPsim.
+
+Unit                            Fait référence à l'unité de mesure définie dans les données de base du produit.
+
+Vendor                       Identifiant unique du fournisseur.
+
+QUANTITY                Quantité de produit dans la commande d'achat.
+
+SIM ELAPSED STEPS       Nombre d'étapes depuis le début de la simulation.
+
+SIME PERIOD            Une période est un ensemble de 5 étapes.
+
+UNIT PRICE                    Prix unitaire du produit pour cette commande d'achat.
+
+## Page 8
+SALES
+Area                        Définit la région dans laquelle les investissements marketing ont été effectués (Nord, Sud, Ouest).
+Currency               Clé identifiant la devise utilisée pour les valeurs monétaires.
+Distribution Channel       Identifiant unique du canal de distribution.
+ID                           Identifiant de ligne
+Line Item                Poste de ligne dans le document de commande client.
+Material Description      Description complète du produit, incluant sa taille (si applicable).
+Material Number       Numéro unique qui identifie un produit.
+Row Id                     ID de ligne unique généré pour permettre des clauses de tri.
+Sales Order Number    Numéro du document de commande client.
+Sales Organization        Définit l'organisation des ventes pour laquelle les données seront fournies.
+Sim Date               Concaténation du cycle de simulation et de l'étape de simulation.
+Sim Round            Composante cycle de la date virtuelle dans ERPsim.
+Sim Step             Composante étape de la date virtuelle dans ERPsim.
+Storage Location        Indique l'emplacement de stockage où le produit est entreposé.
+Unit                         Fait référence à l'unité de mesure définie dans les données de base du produit.
+                       Représente le coût du produit selon son évaluation. Inclut les coûts directs liés aux achats ainsi que lesCOST                               frais de transport.
+NET PRICE                  Prix moyen par article vendu aux clients.
+                        Valeur des commandes clients générées. La valeur nette correspond à la quantité vendue multipliée parNET VALUE                               le prix unitaire de chaque article.
+QUANTITY              Quantité de produit dans la commande d'achat.
+QUANTITY DELIVERED    Représente la quantité de l'article de commande client livrée au client.
+SIM ELAPSED STEPS     Nombre d'étapes depuis le début de la simulation.
+SIME PERIOD           Une période est un ensemble de 5 étapes.

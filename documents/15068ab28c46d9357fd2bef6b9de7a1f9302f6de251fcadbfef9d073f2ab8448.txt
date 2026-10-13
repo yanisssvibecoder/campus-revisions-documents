@@ -1,0 +1,220 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Plan des besoins-matières - PBM
+
+© 2024 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+
+
+
+
+
+
+- Stocks en main
+- Tailles de lot à respecter
+- Délais de fabrication et de commande
+
+
+
+Fichier maître
+des produits
+
+Prévisions de 
+la demande
+
+Commandes
+clients
+
+Nomenclatures
+des produits
+
+Planification des 
+besoins matières
+
+Planification 
+détaillée
+
+Planification 
+intégrée
+
+Planification des besoins matières : Structure de l’information et intrants
+
+## Diapositive 5
+
+La nomenclature – Structure de produit
+
+
+
+5
+
+Barreau
+
+Pattes avant
+
+Siège
+
+Traverses
+
+Barreau
+
+Pattes arrière
+
+Produit fini
+
+Source : Adapté de Stevenson W., Benedetti C., (2001), p 526
+
+## Diapositive 6
+
+ 
+
+Élaboration d’un PBM : La nomenclature
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+X
+
+Y (3)
+
+Z (2)
+
+Y (1)
+
+W (2)
+
+
+
+
+
+Niveau 0
+
+
+Niveau 1
+
+
+Niveau 2
+
+Pour chaque produit X, il faut 3 «Y» et 2 «Z»
+Pour chaque produit Z, il faut 2 «W» et 1 «Y»
+
+
+
+
+
+
+
+Structure du produit
+
+Parent
+
+## Diapositive 7
+
+ExerciceComprendre la nomenclature
+
+26/02/16
+
+
+
+7
+
+Niveau | Besoin | Branche de gauche | Branche centrale | Branche de droite | Total
+
+1(A, B et C) | Brut |  |  |  | 
+
+ | Net |  |  |  | 
+
+2(D uniquement) | Brut |  |  |  | 
+
+ | Net |  |  |  | 
+
+En considérant la nomenclature et les stocks en main, calculez le nombre supplémentaire d’articles D requis pour assembler 20 unités du produit fini.
+
+## Diapositive 8
+
+Élaboration d’un PBM : Règles à suivre
+
+Il faut toujours faire le PBM par ordre de niveau dans la nomenclature (articles du niveau 1, puis articles du niveau 2, articles du niveau 3, …).
+
+On procède à l’identification de l’origine des besoins : lorsqu’un article apparaît à plusieurs niveaux dans la nomenclature, on établit l’ordre selon le niveau le plus bas où il y apparaît (chiffre le plus élevé).
+
+Le besoin brut d’un article est fonction :
+Des lancements planifiés des articles parents,
+De la quantité incluse de l’article considéré dans chacun des articles parents.
+
+
+## Diapositive 9
+
+Synchronisation des besoins :Horizon minimum de planification
+
+## Diapositive 10
+
+Horizon minimum de planification
+
+
+
+10
+
+
+
+
+
+Jalonnement aval : en commençant aujourd’hui, le produit A pourra être livré, au plus tôt, dans 9 semaines
+
+Jalonnement amont : pour livrer le produit A à la semaine 9, les travaux devront débuter, au plus tard, 9 semaines avant la date cible
+
+## Diapositive 11
+
+Différentes techniques de lotissement
+
+Lot pour lot : On fabrique ou achète exactement la quantité requise. Évite d’avoir des produits en stock mais néglige les coûts de commande
+
+Lot de taille fixe « X » :  La quantité fabriquée ou achetée est X ou un multiple de X (ex.: douzaine, caisse, palette, etc.)
+
+Lot de taille minimale « X » :  La quantité fabriquée ou achetée est au minimum X; si le besoin net est supérieur à X, on commande exactement la quantité requise.
+
+Nombre de périodes (x périodes) :  La quantité fabriquée ou achetée est fonction de la quantité requise pour combler les besoins nets du nombre de périodes spécifiées.
+
+
+
+
+
+## Diapositive 12
+
+
+
+ExerciceModules électriques Turner, page 207
+
+## Diapositive 13
+
+Fichier maître des stocks
+
+Semaine | 8 | 9 | 10 | 11 | 12
+
+Lancements planifiés | 50 | 0 | 20 | 60 | 100
+
+## Diapositive 14
+
+Questions…

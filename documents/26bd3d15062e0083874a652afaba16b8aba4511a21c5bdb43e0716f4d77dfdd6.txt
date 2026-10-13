@@ -1,0 +1,823 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2025 – 2026
+
+Comptabilité de gestion(10904)Séance 6
+
+1
+
+(c) 10904 - S11 / Version H2024
+
+## Diapositive 2
+
+La mesure et l’évaluation de la performance organisationnelle
+
+2
+
+Séance 6
+
+(c) 10904 - S11
+
+## Diapositive 3
+
+Objectifs de la séance
+
+Définir la performance
+Mesurer la performance d’un centre d’investissement 
+Comprendre les moyens à la disposition d’un gestionnaire pour améliorer sa performance financière 
+Comprendre l’utilité de la mesure de performance multidimensionnelle
+Expliquer en quoi consiste le tableau de bord de gestion. 
+Exposer les principaux indicateurs (financiers et non financiers) utilisés lors de l’élaboration d'un tableau de bord de gestion.
+Faire la distinction entre l’évaluation de la performance des dirigeants et l’évaluation de la performance organisationnelle
+
+
+
+
+
+3
+
+(c) 10904 - S11
+
+## Diapositive 4
+
+La mesure de la performance
+
+4
+
+(c) 10904 - S11
+
+## Diapositive 5
+
+Qu’est-ce que la performance ?
+
+La performance d’une organisation est souvent associée à sa performance  financière…​
+
+… mais la performance n’est pas que financière, elle peut faire référence à​
+la performance non financière
+le respect de l’environnement ;​
+la capacité à innover ;​
+etc.​
+
+► Une (première) idée essentielle à retenir : la performance est multidimensionnelle (comporte plusieurs dimensions) …​
+
+
+
+5
+
+(c) 10904 - S11
+
+## Diapositive 6
+
+Comment mesurer la performance ?
+
+Les mesures de performance doivent être alignées avec les objectifs de l’organisation.
+Pour mesurer les objectifs, on se sert d’indicateurs.
+Puisque la performance englobe des dimensions financières et non financières, la mesure de la performance exige d’utiliser: 
+ des indicateurs financiers: pour mesurer les coûts, les revenus, et la rentabilité
+ex: l'analyse des écarts et les ratios comme le rendement sur capital investi. 
+Ces indicateurs nous renseignent sur la performance passée de l'entreprise.
+ des indicateurs non financiers. 
+ex: taux de satisfaction de la clientèle, % de capacité utilisée de l’usine, etc…
+Ce type d'indicateurs nous éclairent sur la performance future de l’entreprise
+
+
+6
+
+(c) 10904 - S11
+
+## Diapositive 7
+
+Exemples : Indicateurs non-financiers utilisés dans diverses industries
+
+
+
+
+Indicateurs
+
+% de capacité utilisée de l’usine
+L’âge moyen des actifs importants
+
+Nombre de nouveaux produits
+
+Nombre moyen de produits bancaires par client
+Taux de rétention (carte de crédit)
+
+7
+
+(c) 10904 - S11
+
+## Diapositive 8
+
+Pourquoi mesure-t-on la performance organisationnelle ?
+
+8
+
+Pour faire connaître la stratégie de l’entreprise (mission, vision, valeurs) et améliorer la coordination des unités administratives.
+Pour prendre des décisions en vue d’améliorer la performance organisationnelle
+Ex : allouer des ressources aux entités avec le plus de potentiel
+Ex : identifier les aspects problématiques et trouver des solutions 
+Pour inciter les employés à contribuer à la performance organisationnelle
+Ex : Rémunérer la performance individuelle
+Pour contrôler la performance de l’organisation et de ses entités (divisions, départements, etc.)
+Ex : juger de la pertinence des actions prises pendant une période 
+Ex : comparer les performances des différentes entités 
+
+
+
+
+(c) 10904 - S11
+
+## Diapositive 9
+
+Mesure financière de la performance et les entreprises décentralisées
+
+9
+
+(c) 10904 - S11
+
+## Diapositive 10
+
+La décentralisation
+
+Définition
+La délégation d’un certain degré d’autonomie sur certaines décisions à des subdivisions de l’entreprise (centres de responsabilité).
+
+Pourquoi décentraliser ?
+Accroître l’autonomie décisionnelle pour améliorer l'efficacité de la prise de décision
+Allouer plus de liberté aux subdivisions pour rendre la prise de décision plus efficace dans, par exemple, les entreprises complexes ou en croissance.
+
+Comment faire pour s'assurer que les décisions prises rencontrent les objectifs organisationnels visés ? 
+L’évaluation de la performance = système d’information qui m’informe sur les forces et les faiblesses de l’organisation
+
+
+
+10
+
+(c) 10904 - S11
+
+## Diapositive 11
+
+Avantages
+
+Prise de décision plus rapide 
+Meilleure réponse aux besoins locaux
+Motivation des cadres
+Etc.
+
+
+Désavantages
+
+Dédoublement de tâches
+Perte d’économie d’échelle
+Perte de contrôle (plus risqué)
+Absence de coordination entre les subdivisions
+Incompatibilité entre les objectifs des directeurs de subdivisions et ceux de l’entreprise
+
+
+
+Décentralisation – Avantages et désavantages
+
+11
+
+(c) 10904 - S11
+
+## Diapositive 12
+
+12
+
+Une unité exclusivement axée sur les revenus.
+Objectif : maximiser les revenus
+Ex : département des ventes
+
+Une entité qui fonctionne comme une entreprise quasi-autonome au sein de l’organisation
+Objectif : maximiser les profits ET le rendement (investissements) Ex : lignes de produits de 
+General Mills
+
+Une entité qui s’occupe exclusivement des coûts
+Objectif : contrôler les coûts
+Ex : départements de production ou départements de service 
+
+Une entité qui gère à la fois des revenus et des coûts. 
+Objectif : maximiser les profits
+Ex : Département des bijoux de la Compagnie de la Baie d'Hudson
+
+Les centres de responsabilité : 
+- Les ressources sont regroupées en centres de responsabilité
+- Délégation du pouvoir décisionnel à un gestionnaire
+
+(c) 10904 - S11
+
+## Diapositive 13
+
+Évaluer la performance des centres d’investissement
+
+Le gestionnaire d'un centre d'investissement a un pouvoir  décisionnel sur :
+Revenus
+Coûts/dépenses
+Investissements
+Le rendement sur le capital investi (RCI) est un indicateur clé de la performance d’un centre d’investissement
+Le RCI est une mesure financière qui permet de déterminer si le gestionnaire utilise efficacement les actifs dont il dispose.
+
+13
+
+(c) 10904 - S11
+
+## Diapositive 14
+
+Rendement sur capital investi (RCI %) 
+
+14
+
+Résultat net 
+(résultat d’exploitation) |  | Capital investi | = | Rendement sur capital investi (RCI)
+
+
+
+Définition du capital investi (dans le cours 10904) : Actif utilisé
+Il existe également plusieurs définitions du Capital investi mais dans le cours 10904 nous allons considérer que le capital investi est égal à l’actif utilisé (actifs générant des revenus). On suppose que l’actif inutilisé est négligeable ou qu’on le trouve normalement au sein de toutes les entités évaluées.
+
+
+(c) 10904 - S11
+
+Définition du Résultat net (dans le cours 10904) : Résultat d’exploitation
+
+Définition du Rendement : Le rendement mesure le résultat obtenu par rapport aux ressources investies dans l’entité. 
+
+## Diapositive 15
+
+Rendement sur capital investi (RCI %) 
+
+15
+
+Supposez les données suivantes pour la division beauté de la cie B&G
+
+Ventes
+Coûts variables
+Marge sur coûts variables (45%)
+Coûts fixes spécifiques à la division
+Résultat d’exploitation (a)
+Capital investi (b)
+Rendement sur le capital investi [(a)  (b)] | 	2 000 000 $
+	     1 100 000 $
+	900 000 $
+	   300 000 $
+	600 000 $
+	5 000 000 $
+	12%
+
+(c) 10904 - S11
+
+## Diapositive 16
+
+Actions pour influencer le RCI
+
+16
+
+(c) 10904 - S11
+
+## Diapositive 17
+
+Exemple 1 - actions pour influencer le RCI
+
+17
+
+Travail à faire:
+Calculer le RCI actuel
+Calculer le nouveau RCI avec le projet d’investissement.
+
+Projet d’investissement :
+100 000 $ rendement de 10 %
+
+
+
+
+(c) 10904 - S11
+
+## Diapositive 18
+
+Exemple 2 - actions pour influencer le RCI
+
+18
+
+Travail à faire:
+Calculer le RCI actuel
+Calculer le nouveau RCI si le gestionnaire décide de reporter une campagne publicitaire de 15 000 $
+
+
+
+
+
+
+
+(c) 10904 - S11
+
+## Diapositive 19
+
+Exemple 3 - actions pour influencer le RCI
+
+19
+
+Travail à faire:
+Calculer le RCI actuel
+Calculer le nouveau RCI si le gestionnaire décide de reporter un investissement dans un logiciel informatique.
+Coût achat du logiciel :        25 000 $
+Amortissement annuel :        5 000 $ 
+
+
+(c) 10904 - S11
+
+## Diapositive 20
+
+RCI – Conclusion
+
+Avantages
+Données facilement accessibles
+Mesure de rendement : 
+ne prend pas seulement en considération le résultat
+il tient compte aussi des investissements
+Permet la comparaison entre divers placements 
+
+Inconvénient important 
+ne tient pas compte du taux de rendement minimum requis sur les actifs d'exploitation (coût du capital).
+Taux auquel les coûts sont couverts et les bénéfices réalisés.
+
+
+
+20
+
+(c) 10904 - S11
+
+## Diapositive 21
+
+Résultat Net Résiduel (RNR)
+
+Le résultat net résiduel (RNR) est le résultat net, déduction faite d’une charge fictive conçue pour tenir compte d’un taux de rendement minimal requis (coût du capital investi) pour l’ensemble des projets d’investissement. 
+
+Formule : 
+	
+     Exemple : RNR 1 600 000 $ - 960 000 $ = 640 000 $
+     Résultat exigé: (Coût du capital investi %) 12% x 8 000 000 $(capital investi ) = 960 000 $
+
+Interprétation : Si le RNR est positif, l’entreprise dégage un résultat supérieur au résultat exigé, c’est-à-dire que l’entreprise génère des profits en sus des intérêts fictifs.
+
+
+
+21
+
+
+
+(c) 10904 - S11
+
+RNR = Résultat net – (taux de rendement minimal requis x capital investi)
+
+Notes : Définition coût du capital = taux de rendement minimal que l’entreprise doit réaliser sur ses nouveaux investissements 
+et qui est au moins comparable à celui d’investissements comptant le même risque sur le marché.
+ (Source: Dictionnaire de la comptabilité et de la gestion financière (Ménard, 2004))
+
+
+## Diapositive 22
+
+Résultat Net Résiduel (RNR)
+
+
+
+
+22
+
+
+
+(c) 10904 - S11
+
+ | Année 1 | Année 2
++ Projet A | Année 2
++ Projet B
+
+Rendement sur capital investi |  20 % | 20 % | 19 %
+
+Résultat net résiduel | 640 000 $ | 800 000 $ | 700 000 $
+
+Le RNR est un montant en absolu, et non pas un pourcentage. Le RNR donne donc une perspective différente du RCI, comme le montre l’exemple suivant. 
+
+Notes : Définition coût du capital = taux de rendement minimal que l’entreprise doit réaliser sur ses nouveaux investissements 
+et qui est au moins comparable à celui d’investissements comptant le même risque sur le marché.
+ (Source: Dictionnaire de la comptabilité et de la gestion financière (Ménard, 2004))
+
+
+## Diapositive 23
+
+Calcul du RNR- exemple
+
+Le RNR est calculé en considérant un coût du capital à atteindre de 10 %.
+Calculer le RNR de la division A et de la division B.
+Est-ce qu'une autre division peut utiliser moins d'actifs (capital investi) pour générer un résultat net résiduel équivalent ?
+
+23
+
+Données de base |  | 
+
+Divisions | A | B
+
+Ventes | 1 200 000 $  | 1 000 000 $
+
+Résultat net | 360 000 $ | 260 000 $
+
+Capital investi | 3 000 000 $ | 2 000 000 $
+
+(c) 10904 - S11
+
+## Diapositive 24
+
+Révision calcul RCI et RNR– Exemple
+
+Divisions | A | B
+
+Résultat exploitation | 360 000 $ | 260 000 $
+
+Capital investi | 3 000 000 $ | 2 000 000 $
+
+24
+
+Le RCI est utilisé pour évaluer la performance du directeur de la subdivision A 
+Tandis que Résultat Net Résiduel (RNR) est utilisé pour évaluer la performance du directeur de la subdivision B 
+Les divisions peuvent investir dans un projet nécessitant un investissement de 1 000 000 $ et offrant un rendement de 11%. 
+Coût du capital à atteindre de 10 %
+
+
+(c) 10904 - S11
+
+
+Travail à faire : 
+Calculer le RCI et le RNR actuel.
+Calculer le RCI et le RNR avec le projet.
+Quel sera l’impact possible quant à l’acceptation du projet si on lie la bonification du directeur au RCI-RNR de la division ?
+
+
+## Diapositive 25
+
+Illustration RCI –RNR
+
+Division A
+RCI actuel:
+360 000 $ / 3 000 000 $ = 12 %
+Projet d'investissement
+1 000 000 $ x 11 % = 110 000 $
+
+Division B
+RNR actuel : 
+Résultat exigé: (2 000 000 $ x 10 %) = 200 000 $
+260 000 $ - 200 000 $ = 60 000 $
+
+(c) 10904 - S11 / Version H2024
+
+25
+
+## Diapositive 26
+
+RCI et RNR - Limites
+
+26
+
+Limites : 
+Donnent une image historique de l’entreprise
+Favorisent une perspective à court terme
+Ne permettent pas d’identifier les facteurs qui expliquent la performance
+
+Désavantages notamment quand les mesures de performance financières servent de mesure de performance des dirigeants :
+Dépend souvent de décisions antérieures indépendantes des responsables actuels
+
+Peut amener les dirigeants à des opérations non rentables à long terme
+réduire la recherche 
+réduire les frais d’entretien 
+ne pas investir dans les immobilisations
+
+Pour le RCI, peut amener à rejeter des projets qui feraient diminuer le RCI actuel de la subdivision
+
+L’utilisation de mesures non financières permet de contrebalancer les effets négatifs des mesures financières.
+
+
+(c) 10904 - S11
+
+## Diapositive 27
+
+Mesure multidimensionnelle de la performance
+
+27
+
+(c) 10904 - S11
+
+## Diapositive 28
+
+Outil de mesure de la performance organisationnelle 
+
+Un ensemble organisé et synthétique d’indicateurs financiers et non financiers qui reflètent les objectifs d’une organisation.
+
+« Le Tableau de bord traduit la mission et la stratégie de l’entreprise en un ensemble d’indicateurs de performance qui constituent la base d’un système de pilotage de la stratégie »
+
+« Il permet aux entreprises de suivre les résultats financiers, mais aussi, simultanément, les progrès dans le développement des compétences et l’acquisition des actifs intangibles dont elles auront besoin pour asseoir leur croissance future. »
+
+
+
+28
+
+Tableau de bord de gestion équilibré(Kaplan et Norton, 2003)
+
+(c)  (10904 - S12) 
+
+## Diapositive 29
+
+Mise en œuvre d’un tableau de bord équilibré - à noter
+
+Le tableau de bord est contingent à l’organisation (mission, vision, stratégie, culture, …). 
+Importance de comprendre les interdépendances entre les objectifs et entre les indicateurs. 
+Importance de reconnaître les limites de l’outil de mesure (ce que l’on ne mesure pas).
+Les indicateurs dépendent de la disponibilité des données dans les systèmes d’information.
+On peut mettre en œuvre un tableau de bord à un autre niveau que celui de l’organisation (ex : pour un projet) 
+Le choix des objectifs clés et des indicateurs peut-être difficile et source de désaccords, surtout lorsque les indicateurs sont liés à la rémunération incitative.
+
+
+
+
+
+
+
+29
+
+(c)  (10904 - S12) 
+
+## Diapositive 30
+
+Tableau de bord de gestion équilibréIntégration de 4 dimensions fondamentales
+
+30
+
+Stratégies
+
+(c)  (10904 - S12) 
+
+
+
+
+
+## Diapositive 31
+
+Objectif, indicateur, cible
+
+OBJECTIF | INDICATEUR | CIBLE
+
+Permet de mettre en œuvre la stratégie sur une dimension donnée​ | En général quantitatif et mesurable. Il permet d’indiquer la poursuite de l’objectif. Formule de calcul précise.  | ​Précise et cohérente avec l’objectif, très souvent chiffrée.​
+
+
+(c)  (10904 - S12) 
+
+« Proposer des biscuits d’une qualité irréprochable et utilisant exclusivement des produits locaux afin d’offrir à nos clients une expérience gustative inégalée ».
+ |  |  | 
+
+Dimension | Objectif | Indicateur | Cible
+
+Client | Augmenter la satisfaction client | % de satisfaction des clients | 95 % indice de satisfaction client
+
+31
+
+## Diapositive 32
+
+Dimension financière - exemples
+
+32
+
+Les mesures liées aux finances sont constituées principalement de ratios financiers 
+RCI, RNR, VÉA 
+Ratios du cycle d’exploitation (C/C, C/F, Stocks)
+
+Objectifs | Indicateurs
+
+Améliorer le rendement  | RCI, RNR
+
+Accroître les revenus | Variation du chiffre d’affaires
+
+Améliorer la rentabilité par marché ou client | Rentabilité par marché ou client
+
+Améliorer la rentabilité par produit
+ | Rentabilité par produit
+
+(c)  (10904 - S12) 
+
+## Diapositive 33
+
+Dimension client (externe/interne) - exemples
+
+33
+
+Objectifs | Indicateurs
+
+Satisfaction des clients
+ | % de clients satisfaits
+Nombre de plaintes
+Nombre de livraisons dans les délais 
+
+Fidélisation des clients
+ | Nombre d’achats par clients
+
+Conquête de nouveaux clients
+ | % de nouveaux clients vs % de perte d’anciens clients
+
+Augmenter les parts de marché
+ | % de parts de marché
+
+(c)  (10904 - S12) 
+
+## Diapositive 34
+
+Processus internes
+
+Employés
+
+Dimension processus internes et employés - exemples
+
+34
+
+(c)  (10904 - S12) 
+
+Objectifs | Indicateurs
+
+Contrôler les coûts 
+ | Standards de coûts MOD, MP, etc. 
+
+Améliorer la productivité
+ | Standards H-MOD par produit
+Standards H-M par produit
+
+Améliorer la qualité 
+ | Taux de rejet
+Nombre de retours pour défectuosité
+
+Optimiser l’utilisation des ressources  | % de capacité utilisée
+
+Améliorer la gestion des stocks  | Taux de rotation des stocks
+Rupture de stock
+
+Objectifs | Indicateurs
+
+Améliorer la satisfaction des employés 
+ | Taux de rétention
+Taux de rotation
+% d’employés satisfaits
+
+S’assurer d’un meilleur comportement chez les employés 
+ | Taux d’absentéisme
+Nombres de griefs
+
+## Diapositive 35
+
+Dimension innovation et apprentissage - exemples
+
+35
+
+Objectifs | Indicateurs
+
+Création et mise en service de nouveaux produits/services  | Nombre de nouveaux produits
+Ventes des nouveaux produits
+
+Améliorer les compétences et la polyvalence des employés | Nombre de formations suivies
+Nombre de terminaux
+
+
+Disponibilité / Efficacité des systèmes d’information | Nombre d’arrêts des systèmes d’information
+
+(c)  (10904 - S12) 
+
+## Diapositive 36
+
+(c)  (10904 - S12) 
+
+36
+
+Illustration- Les Biscuiteries de Montmagny 
+
+## Diapositive 37
+
+(c)  (10904 - S12) 
+
+Dimensions | Objectifs | Indicateurs | Cibles
+
+Financière | Développer ses parts de marchés | RCI | 20 %
+
+Clients | Satisfaire les clients | Satisfaction des clients | 15 %
+
+Processus internes | Améliorer le processus de production | % de diminution du coût d’achat des matières premières par rapport à l’année précédente | 20 %
+
+Innovation et apprentissage | Nombre de lancements de nouveaux produits | % d’augmentation de la part de marché des nouveaux produits par rapport à l’année précédente | 5 %
+
+37
+
+Illustration - Les Biscuiteries de Montmagny 
+
+## Diapositive 38
+
+Question : est-ce qu’il manque quelque chose ?
+
+Dimension Financière
+Dimension Client
+Dimension Processus interne
+Dimension innovation et apprentissage
+
+(c)  (10904 - S12) 
+
+38
+
+## Diapositive 39
+
+Comment intégrer des objectifs environnementaux dans le tableau de bord de gestion intégré ?
+
+(1) Une cinquième dimension « responsabilité sociale et environnementale »
+(2) Objectifs et indicateurs environnementaux intégrés dans les quatre dimensions existantes.
+(3) Un tableau de bord spécifique, en parallèle des tableaux de bord déjà utilisés.
+
+
+Stratégies
+
+(c)  (10904 - S12) 
+
+39
+
+## Diapositive 40
+
+Convergence des intérêts de l’organisation et des individus
+
+40
+
+(c) 10904 - S11
+
+## Diapositive 41
+
+Lier la rémunération à l’évaluation de la performance (1/2)
+
+Les mesures de performance …
+Influencent la prise de décision, elles ne permettent pas seulement de rendre compte des performances des décisions déjà prises et donc des résultats obtenus, elles les provoquent 
+Évalue la performance des entités et la performance des individus (gestionnaires)
+Les mesures de performance doivent encourager les gestionnaires à prendre des décisions qui répondront aux objectifs de l'entreprise ainsi qu'à leurs propres objectifs professionnels.
+Elles doivent permettre d’évaluer la performance des gestionnaires sans créer de comportements dysfonctionnels
+
+41
+
+(c) 10904 - S11
+
+## Diapositive 42
+
+Lier la rémunération à l’évaluation de la performance (2/3)
+
+Des comportements (non-éthique) peuvent apparaître lorsqu’on lie la rémunération des cadres et des employés aux indicateurs
+Pour les limiter, on peut…
+Utiliser des mesures multidimensionnelles (tableau de bord)
+Évaluer les gestionnaires avec des éléments sur lesquels ils ont un contrôle (principe de contrôlabilité)
+Comparer les résultats à des objectifs clairement définis et acceptés (principe de transparence)
+
+
+42
+
+(c) 10904 - S11
+
+## Diapositive 43
+
+Illustration – comportement non-éthique (3/3)
+
+L'entreprise évalue les responsables des centres d'investissement en fonction de la contribution du centre aux bénéfices, de sa part de marché et sur le RCI du centre. Lorsque les responsables n'atteignent pas les objectifs fixés par la direction de l'entreprise, ils sont rétrogradés ou licenciés. 
+Il a été noté dans un rapport que certains gestionnaires ont adopté un comportement contraire à l'éthique pour tenter d'atteindre leurs objectifs. 
+Par exemple, dans certaines usines, des pressions ont été exercées pour réduire le contrôle de la qualité. De même, le personnel de vente a été encouragé à utiliser des tactiques de vente douteuses pour obtenir des commandes, notamment en offrant des cadeaux.
+Identifier le problème d’ordre éthique.
+Que pourrait faire l'entreprise pour éliminer les comportements non éthiques ?
+
+43
+
+(c) 10904 - S11
+
+## Diapositive 44
+
+Conclusion - séance 6
+
+44
+
+La mesure et l’évaluation de la performance organisationnelle
+
+Idée  
+
+Comment
+
+Cohérence : Stratégie / Responsabilités / Mesures
+Le tableau de bord de gestion des mesures financières et non financières
+Définir des objectifs et des indicateurs pour les 4 dimensions de la performance
+
+
+La performance : Quoi ? Pourquoi ? Comment ?
+
+Gérer la performance financière et non financière de l’organisation
+
+(c) 10904 - S11
+
+## Diapositive 45
+
+QUESTIONS…
+
+45
+
+(c) 10904 - S11

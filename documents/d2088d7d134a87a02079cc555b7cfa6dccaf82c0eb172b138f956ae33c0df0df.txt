@@ -1,0 +1,120 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Plan directeur de production - PDP
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+Détermination des quantités et des dates relatives aux
+produits à fabriquer
+
+
+Unité réelle
+
+
+Environ 3 mois
+
+
+Intervalles de 1 semaine
+
+Choix d’options dans l’utilisation des installations et des ressources
+
+Unité équivalente
+
+
+De 12 à 24 mois
+
+
+Intervalles de 1 mois
+
+Plan global de production
+
+Objectif principal
+
+
+
+
+Unité de produit
+
+
+Horizon
+
+
+Échelonnement des
+activités
+
+
+
+
+
+Plan directeur de production
+
+
+
+
+
+
+
+1 plan qui englobe tous les produits
+
+1 plan par produit
+
+Du plan global au plan directeur
+
+
+
+
+
+
+
+## Diapositive 5
+
+Plan directeur de production : Intrants
+
+
+
+
+
+
+Les stocks de début ou initiaux
+
+
+
+Les commandes clients
+
+
+
+Les prévisions pour chaque période
+
+
+La capacité globale disponible selon le PGP
+
+
+## Diapositive 6
+
+## Diapositive 7
+
+7
+
+Pour compléter le PDP final, il faut considérer la capacité de production en unités équivalentes.
+
+Pour compléter le PDP final, il faut considérer la capacité de production en unités équivalentes
+
+La capacité de production est de 450 unités équivalentes par période.
+
+## Diapositive 8
+
+## Diapositive 9
+
+Questions…

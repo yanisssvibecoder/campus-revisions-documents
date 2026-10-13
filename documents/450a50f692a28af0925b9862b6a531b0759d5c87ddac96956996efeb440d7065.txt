@@ -1,0 +1,20 @@
+L'entreprise Trivision inc. comprend trois divisions, les divisions A, B et C, ainsi qu'un siège social, lequel génère des coûts annuels de 4 500 000 $. Le coût du capital de l'entreprise Trivision inc. est de 12 %.
+Le tableau qui suit présente le résultat d'exploitation de chaque division pour le dernier exercice terminé le 31 décembre 20X0. Ce résultat exclut toute charge liée au siège social : ces coûts            de 4 500 000 $ doivent être répartis en totalité entre les trois divisions, selon l'une des trois hypothèses présentées plus bas.
+Dans votre travail d'analyse, vous devez vous pencher sur les deux hypothèses suivantes de répartition des coûts du siège social :
+Les coûts du siège social sont répartis entre les divisions au prorata du nombre d'employés de chacune.
+Les coûts du siège social sont répartis entre les divisions au prorata de leur chiffre d'affaires respectif.
+Les divisions ont par ailleurs les projets suivants pour la prochaine année :
+Division A : Grâce à l'acquisition de nouveaux clients, la division s'attend à une augmentation des ventes de 5 %. L’entreprise a la capacité de produire le volume additionnel. 
+Division B : À la suite d'une révision de ses processus administratifs et de la négociation de nouveaux contrats avec ses fournisseurs, le centre anticipe une réduction de ses dépenses annuelles de 200 000 $.
+Division C : La division envisage de se départir d'un équipement peu utilisé dont la valeur inscrite aux livres est de 600 000 $. Cet équipement entraîne actuellement une charge d'amortissement annuelle de 50 000 $.
+TRAVAIL À FAIRE : 
+Calculez le RCI et le RNR pour chacune des divisions sans les coûts du siège social.
+Calculez le RCI et le RNR pour chacune des divisions selon chacune des hypothèses.
+Commentez le rendement de chacune des divisions en fonction de chacune des hypothèses.
+Pensez-vous qu’on devrait inclure les coûts du siège social dans le calcul du RCI pour évaluer la performance des divisions et des gestionnaires.
+Calculez le nouveau RCI de chaque division selon son projet pour la prochaine année.
+ | Division A | Division B | Division C
+Capital investi | 40 000 000 $ | 60 000 000 $ | 80 000 000 $
+Chiffre d'affaires | 85 000 000 $ | 90 000 000 $ | 50 000 000 $
+Résultat d'exploitation (avant répartition des frais de siège social) | 7 410 000 $ | 8 970 000 $ | 11 720 000 $
+Nombre d'employés | 5 800 | 2 600 | 1 600

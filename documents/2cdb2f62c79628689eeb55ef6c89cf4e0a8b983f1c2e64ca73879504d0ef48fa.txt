@@ -1,0 +1,1588 @@
+## Page 1
+Marketing
+ Sunil Gupta, éditeur de la série
+
+
+
+
+
+               + VIDÉO
+Comportement des
+consommateurs et
+processus d'achat
+
+
+
+
+
+JOHN T. GOURVILLE
+HARVARD BUSINESS SCHOOL
+
+MICHAEL I. NORTON
+HARVARD BUSINESS SCHOOL
+
+
+
+
+
+                                     8167 |  Publié le 30 juin 2014
+
+## Page 2
+                        Table des matières
+
+
+
+
+1      Introduction ........................................................................................................................... 3
+
+
+2      Lectures essentielles .............................................................................................................. 4
+
+  2.1 Cadres conceptuels La prise de décision des consommateurs ................................................. 4
+        Prise de décision cognitive ou émotionnelle .......................................................................... 4
+       Décision à forte implication versus à faible implication ......................................................... 9
+       Optimisation ou « satisfaction » dans la prise de décision................................................... 12
+        Prise de décision compensatoire ou non compensatoire .................................................... 13
+
+  2.2 Le processus de décision d’achat du consommateur ............................................................. 15
+      Phase 1 : Pré-achat ............................................................................................................... 15
+      Phase 2 : Achat ..................................................................................................................... 17
+      Phase 3 : Après l'achat ......................................................................................................... 18
+
+  2.3 L'unité de décision du consommateur ................................................................................... 20
+       Rôles au sein des unités décisionnelles ................................................................................ 20
+
+  2.4 Merck et la commercialisation du Propecia ....................................................................... 22
+       Analyse du processus décisionnel et l'unité décisionnelle ................................................... 22
+      Mise en œuvre de la stratégie marketing ............................................................................ 24
+
+
+3      Lectures complémentaires ................................................................................................... 25
+
+  3.1 Les forces qui modifient le comportement des consommateurs et le processus d'achat .... 25
+      Réseaux sociaux ................................................................................................................... 25
+       Cocréation et implication des consommateurs .................................................................... 26
+       Marketing « conscient » ....................................................................................................... 27
+
+
+4     Termes clés .......................................................................................................................... 28
+
+
+5     Pour aller plus loin................................................................................................................ 28
+
+
+6     Notes .................................................................................................................................... 29
+
+
+Cette lecture contient des liens vers des vidéos en ligne, indiqués par l'icône ci-dessus. Pour accéder à ces clips vidéo, vous
+devez disposer d'une connexion Internet haut débit. Vérifiez que votre navigateur répond aux exigences techniques
+minimales en vous rendant sur http://hbsp.harvard.edu/list/tech-specs.
+
+John T. Gourville, Albert J. Weatherhead, Jr., professeur d'administration des affaires à la Harvard Business School, et
+Michael I. Norton, professeur agrégé d'administration des affaires à la Harvard Business School, ont élaboré cette lecture
+fondamentale avec l'aide de la rédactrice Lauren Keller Johnson.
+
+
+Copyright © 2014 Harvard Business School Publishing Corporation. Tous droits réservés.
+
+Pour commander des exemplaires ou demander l'autorisation de reproduire des documents (y compris pour les publier sur des sites
+web universitaires), appelez le 1-800-545-7685 ou rendez-vous sur http://www.hbsp.harvard.edu.
+
+Translated and reprinted by permission of Harvard Business Publishing.
+This Core Curriculum was originally published under the English title, "Marketing Reading: Consumer Behavior and the Buying
+Process" by John T. Gourville, Michael I. Norton.
+Copyright 2014, 2019 by the Harvard Business Publishing Corporation; all rights reserved.
+This translation, Copyright 2025 by the Harvard Business Publishing Corporation.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              2
+
+## Page 3
+1 INTRODUCTION
+
+
+       Il y a plusieurs années, Theodore  Levitt a rendu célèbre un conseil destiné aux
+
+     spécialistes du marketing : « Les gens ne veulent pas acheter une mèche de foreuse de 6Il
+mm,  ils veulent un trou de 6 mm  ! »1 Cette déclaration rappelait aux spécialistes du
+
+marketing qu'une compréhension approfondie des consommateurs, de leurs besoins et de
+
+leurs comportements, est un élément essentiel pour créer et commercialiser des produits et
+
+services performants.
+
+   Le fait que les consommateurs soient très différents les uns des autres lorsqu'il s'agit
+de décider s'ils vont acheter, quand, comment et quoi acheter représente un défi pour les
+spécialistes du marketing (et, en fin de compte, pour les organisations). La manière dont
+les consommateurs prennent leurs décisions d'achat peut varier en fonction de la
+catégorie de produits, du contexte d'achat et/ou des particularités personnelles des
+consommateurs. Un achat peut être effectué sur un coup de tête ou prendre des mois,
+voire des années, à se concrétiser. La décision d'achat du consommateur peut être prise
+de manière isolée ou être influencée par une multitude d'autres personnes. Les
+entreprises doivent comprendre et anticiper ces facteurs, entre autres, afin de servir
+leurs clients de manière rentable.
+  Ne pas relever ces défis peut coûter cher. Dans le secteur américain des biens de
+consommation courante, par exemple, les entreprises lancent environ 30 000 nouveaux
+produits chaque année, mais 70 à 90 % d'entre eux sont retirés du marché dans les 12
+mois en raison de ventes décevantes. Bien que les scooters Segway, ces moyens de
+transport motorisés à deux roues, aient été conçus pour changer la façon dont les gens se
+déplacent en ville, ils ne se sont jamais vendus en quantités suffisantes sur le marché
+grand public et sont désormais limités à des applications de niche telles que la sécurité
+dans les centres commerciaux et le tourisme. Le gouvernement fédéral américain a tenté
+à au moins cinq reprises d'introduire une pièce d'un dollar, mais chacune de ces
+nouvelles pièces s'est avérée impopulaire auprès d'un public toujours attaché aux billets
+de banque. À partir de la fin des années 1990, Webvan a dépensé plus d'un milliard de
+dollars pour développer son activité de vente en ligne de produits alimentaires, avant de
+mettre la clé sous la porte en 2001, faute d'avoir réussi à attirer suffisamment de clients.
+Il semble que l'entreprise n'ait pas pris conscience de la difficulté de changer les
+habitudes bien ancrées des consommateurs.
+   Pourquoi les organisations échouent-elles si souvent, et de manière si spectaculaire, à
+lancer certains produits et services ? Une partie du problème réside dans le fait qu'elles
+n'ont pas investi le temps et les efforts nécessaires pour comprendre le comportement
+des consommateurs et le processus d'achat. Pour aggraver encore les choses, dans le
+monde interconnecté d'aujourd'hui, lorsqu'une offre ne satisfait pas les consommateurs,
+peut-être en raison d'un défaut de conception du produit ou d'une erreur de marketing,
+ceux-ci peuvent très bien diffuser cet échec sur les réseaux sociaux tels que Facebook et
+X (ex Twitter).
+   Si les échecs commerciaux sont fréquents, ils ne doivent pas nécessairement être la
+règle. Malgré sa diversité et sa complexité, le comportement d'achat des consommateurs
+n'est pas totalement aléatoire, et les organisations peuvent utiliser des modèles pour
+prédire  les schémas de comportement d'achat. Ces schémas sont déterminés, au
+minimum, par le produit considéré, le contexte dans lequel l'achat a lieu et les personnes
+impliquées  dans  le  processus  d'achat.  Lorsque  les  spécialistes  du  marketing
+comprennent ces schémas, ils peuvent anticiper le comportement des consommateurs et
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              3
+
+## Page 4
+adapter leurs efforts de vente afin de mieux correspondre aux processus d'achat des
+consommateurs. Cette compréhension profite en fin de compte à la fois aux clients et aux
+organisations.
+  En gardant ces points à  l'esprit, la lecture qui suit présente certains concepts
+fondamentaux importants pour comprendre le comportement des consommateurs. Nous
+commençons par explorer plusieurs cadres conceptuels qui éclairent les processus
+décisionnels des consommateurs. Nous examinerons ensuite les différentes phases par
+lesquelles passent les clients lorsqu'ils prennent une décision d'achat. Nous nous
+intéresserons ensuite aux personnes qui participent à la décision d'achat. Pour illustrer
+ces  concepts,  nous  présenterons un  exemple  détaillé  montrant comment  une
+organisation a utilisé sa compréhension du comportement des consommateurs pour
+développer et lancer un produit à succès. Enfin, dans la lecture complémentaire, nous
+discuterons de la manière dont les évolutions technologiques clés et les changements
+récents dans les outils marketing, tels que les réseaux sociaux, influencent radicalement
+le comportement des consommateurs et le processus d'achat.
+
+
+2 LECTURES ESSENTIELLES
+
+
+                       2.1 Cadres conceptuels
+              La prise de décision des consommateurs
+
+
+Au fil des ans, les professionnels du marketing et les universitaires ont développé de
+nombreux  cadres  conceptuels pour comprendre  les  processus  décisionnels  des
+consommateurs. Chaque cadre examine le processus d'achat sous un angle différent,
+offrant des perspectives précieuses sur les nombreux facteurs qui influencent  le
+comportement des consommateurs. Nous examinons ici quatre modèles qui ont résisté à
+l'épreuve du temps et se sont avérés utiles pour cartographier le processus par lequel les
+consommateurs effectuent un achat : la prise de décision cognitive par opposition à la
+prise de décision émotionnelle ; la prise de décision à forte implication par opposition à
+la prise de décision à faible implication ; la prise de décision optimisante par opposition
+à la prise de décision « satisfaisante »  ; et la prise de décision compensatoire par
+opposition à la prise de décision non compensatoire.
+
+
+Prise de décision cognitive ou émotionnelle
+La  dimension  la  plus  fondamentale  dans  laquelle  la  prise  de  décision  des
+consommateurs varie est peut-être le fait qu'un achat particulier repose sur la cognition
+ou sur l'émotion. Il n'est pas surprenant que de nombreux achats soient principalement
+de nature cognitive, motivés par l'esprit. Ces décisions d'achat impliquent un traitement
+délibératif et fondé sur des informations des caractéristiques pertinentes du produit.
+Pour la plupart des gens, l'achat d'une assurance est un achat cognitif. Les personnes
+intéressées par la souscription d'une police d'assurance ont tendance à peser des
+facteurs tels que le montant de la couverture, le montant de la franchise et le coût de la
+police afin de parvenir à un choix économiquement optimal et rationnel.
+   Mais d'autres décisions sont résolument émotionnelles, motivées par le cœur et
+impliquant une préférence subjective pour une option plutôt qu'une autre. Lorsqu'une
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              4
+
+## Page 5
+personne vivant à Hawaï tombe amoureuse d'un blouson aviateur en cuir doublé de
+laine, malgré son caractère peu pratique dans un climat chaud, ce sont les émotions qui
+entrent en jeu. D'un point de vue rationnel, l'achat de ce blouson n'a guère de sens. Sur le
+plan émotionnel, cependant, ce blouson peut permettre au consommateur de retrouver
+une image jeune et insouciante de lui-même, et ce sentiment peut motiver le processus
+d'achat. Dans de tels cas, la rationalité et la réflexion raisonnée peuvent passer au second
+plan derrière les émotions personnelles, en l'occurrence les sentiments que suscite le
+blouson.
+   Bien sûr, de nombreux achats comportent à la fois une composante cognitive et une
+composante  émotionnelle. Prenons l'exemple de  l'achat d'un nouveau  téléphone
+intelligent. Les considérations cognitives peuvent inclure le prix de base du téléphone, le
+choix entre acheter le téléphone seul ou dans le cadre d'une offre groupée, le coût du
+forfait et la décision d'acheter ou non une extension de garantie. Les consommateurs
+peuvent évaluer différentes marques et différents modèles de téléphone intelligents
+selon  ces  critères  afin de  trouver  la  meilleure  option. Cependant,  les  facteurs
+émotionnels peuvent également jouer un rôle important. Des facteurs tels que le fait
+qu'une marque ou un modèle donné soit considéré comme « cool » par ses amis, qu'il
+soit disponible dans la couleur préférée de l'acheteur ou qu'il puisse être personnalisé
+avec une coque unique peuvent influencer le choix. En fin de compte, la cognition et
+l'émotion peuvent s'avérer essentielles dans le choix final.
+  Comment les spécialistes du marketing peuvent-ils alors déterminer si le processus
+d'achat d'une personne est principalement cognitif, émotionnel ou une combinaison des
+deux ? Ils peuvent commencer par prendre en compte des facteurs tels que le type de
+produit, le contexte et les différences individuelles.
+
+   • Type de produit : certains produits ou catégories de produits se prêtent à un
+      traitement cognitif, comme ceux qui ont une fonction utilitaire. Les tondeuses à
+      gazon, les broyeurs à déchets, les logiciels de préparation des déclarations
+      d'impôts, la peinture pour la maison et d'innombrables autres produits ont tous
+     une forte fonction utilitaire. Pour ces produits, les acheteurs ont tendance à
+      évaluer objectivement les alternatives au sein de ces catégories de produits en
+      fonction de leur capacité à satisfaire cet objectif.
+       En revanche, les produits qui ont une fonction d'expression de l'ego ou
+      hédonique (comportement de recherche du plaisir) suscitent souvent un
+      traitement plus émotionnel. Les produits achetés parce que les acheteurs pensent
+       qu'ils en disent long sur qui ils sont ou qui ils aspirent à être encouragent un
+      traitement plus émotionnel, tout comme ceux qui sont destinés à faire une
+      déclaration à leurs pairs et à leurs groupes sociaux. Les articles de mode tels que
+       les vêtements, les chaussures, les bijoux et les accessoires impliquent
+      généralement un traitement émotionnel pour la plupart des gens, tout comme les
+      vins fins, les cafés de boutique et les aliments gastronomiques. Et l'achat d'œuvres
+       d'art et de décorations pour la maison est généralement motivé davantage par le
+     cœur que par la raison.
+       Une dimension similaire mais distincte qui influence le fait que la prise de
+      décision soit plutôt cognitive ou émotionnelle est la question de savoir si un
+      produit peut être considéré davantage comme un bien de recherche ou comme un
+      bien d'expérience.2 Les biens de recherche disposent généralement d'une
+      multitude d'informations consultables, de sorte que les consommateurs peuvent
+     apprendre presque tout ce qu'ils doivent savoir sur le produit avant de décider de
+       l'acheter. Par exemple, une personne qui souhaite acheter une nouvelle machine à
+      laver peut facilement se renseigner sur les différents modèles disponibles en
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              5
+
+## Page 6
+      consultant les sites web des fabricants et des détaillants, en lisant les avis sur les
+      produits dans les guides d'achat et en consultant les témoignages d'autres
+      acheteurs sur Facebook ou d'autres réseaux sociaux. Ces biens de recherche se
+      prêtent généralement à un traitement cognitif.
+       En revanche, les consommateurs ne peuvent évaluer les caractéristiques des
+      biens d'expérience qu'après les avoir achetés et utilisés. De nombreux services
+      entrent dans cette catégorie. Par exemple, malgré des critiques élogieuses, un
+     amateur de théâtre devra tout de même assister à une représentation pour
+      déterminer si elle lui plaît. De même, les aliments, les boissons et les vacances
+       d'été sont généralement des biens d'expérience : une personne qui achète un
+     nouveau millésime de vin ne peut être certaine de l'apprécier avant d'avoir
+     débouché la bouteille et goûté le vin. Compte tenu de ces caractéristiques, les
+      biens d'expérience ont tendance à susciter un traitement plus émotionnel.
+
+   •  Contexte : Tenez également compte du contexte dans lequel le produit ou le
+      service sera utilisé. Par exemple, la mesure dans laquelle l'achat d'une
+     camionnette est motivé par des processus cognitifs ou émotionnels dépendra de
+       l'utilisation que l'acheteur fera de celle-ci. Si l'acheteur souhaite utiliser la
+     camionnette principalement pour transporter des outils et des fournitures d'un
+      chantier à l'autre, l'achat sera probablement beaucoup plus cognitif et les facteurs
+       utilitaires prédomineront, tels que la capacité de remorquage, l'espace de
+     chargement ou la durée de la garantie. Si, en revanche, la camionnette est destinée
+     à donner l'impression que son propriétaire est un amateur de plein air robuste, il y
+     aura une forte composante émotionnelle et les facteurs liés à l'expression de l'ego
+      seront très importants : le camion est-il fabriqué dans le pays d'origine de
+      l'acheteur ? Est-il garni de chrome ? Est-il équipé de pneus surdimensionnés ?
+
+   •  Différences individuelles : enfin, les spécialistes du marketing doivent tenir
+     compte des tendances naturelles de chaque acheteur. Dans le jargon populaire, la
+     dichotomie entre le cerveau droit et le cerveau gauche traduit l'idée que certaines
+     personnes sont davantage guidées par leurs émotions, tandis que d'autres se
+     basent davantage sur des faits et des chiffres. Cette distinction implique que le
+    même produit, dans le même contexte, peut donner lieu à des processus
+      décisionnels très différents en fonction des tendances naturelles de chaque
+      individu. Alors que certaines personnes analysent pratiquement chaque décision
+      d'achat comme un ensemble de compromis objectifs, d'autres peuvent décider sur
+     un coup de tête en fonction de ce qui les touche le plus émotionnellement à ce
+     moment-là.
+
+   La distinction entre cognition et émotion préoccupe principalement les spécialistes
+du marketing,  car  la prise de décision cognitive  est souvent  plus  lente,  plus
+systématique  et  plus  exhaustive  que  la  prise de  décision  émotionnelle.  Les
+consommateurs recherchent un certain nombre d'options et les comparent et les
+contrastent en  fonction  des  caractéristiques du  produit  qu'ils  jugent  les  plus
+importantes. Les décisions d'achat fondées sur une critique publiée dans le magazine
+Consumer Reports sont emblématiques de la prise de décision cognitive. En revanche,
+une décision émotionnelle  est souvent plus  rapide, plus idiosyncratique  et peut
+n'impliquer qu'une seule alternative. L'approche « je le saurai quand je le verrai » en
+matière d'achats reflète un processus d'achat guidé par les émotions.
+   Selon que le processus d'achat d'un client particulier est principalement cognitif ou
+émotionnel, les spécialistes du marketing doivent adapter leur processus de vente en
+conséquence. Par exemple, ils doivent varier le placement des produits dans les magasins
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              6
+
+## Page 7
+en fonction de la distinction cognitive/émotionnelle. Lorsqu'ils sont engagés dans un
+processus cognitif, les consommateurs sont plus susceptibles de rechercher activement
+les produits d'une entreprise, que ce soit en ligne ou dans des magasins physiques, ce qui
+suggère que le placement sur le site web ou dans un magasin n'est pas forcément
+déterminant. En revanche, pour attirer les consommateurs engagés dans un processus
+hédonique, un vendeur peut choisir de placer un produit là où il est le plus susceptible
+d'être vu et ainsi encourager les achats impulsifs, par exemple en le plaçant sur la page
+d'accueil du site web du magasin ou dans un présentoir en bout d'allée à l'entrée du
+magasin.
+   Les spécialistes du marketing peuvent également adapter leurs efforts promotionnels
+aux  décisions  d'achat  cognitives ou  émotionnelles. Une  publicité  qui  décrit  les
+caractéristiques d'une  offre, met  l'accent sur un  prix avantageux, documente  la
+supériorité du produit par rapport aux offres concurrentes ou fournit des instructions
+pour en savoir plus sur l'offre peut constituer un argument cognitif. Une publicité qui
+                                                                 utilise   des   images,   des
+ILLUSTRATION 1 Appel principalement cognitif : publicité       symboles  et  des  situations
+pour les épices McCormick                               évocateurs qui font appel à des
+                                                    sentiments tels que le bonheur,
+                                                                la peur,  le patriotisme ou  le
+                                                         désir sexuel peuvent être plus
+                                                            efficaces lorsque  la prise de
+                                                       décision  est  guidée  par  les
+                                                     émotions. Les illustrations 1 à
+                                            3 présentent des exemples de
+                                                           publicités     utilisant    des
+                                                arguments     cognitifs     et
+                                                   émotionnels     ou     une
+                                                 combinaison  des  deux   :  la
+                                             campagne   informative   de
+                                              McCormick & Company visant
+                                                  à remplacer les anciens flacons
+                                                        d'épices (illustration 1)  ;  le
+                                                     parrainage par Chrysler (Ram
+                                                   Trucks) du guide de chasse et
+                                               de pêche des parcs d'État du
+                                                       Texas,  évoquant   la  beauté
+                                                    émotionnelle et la robustesse
+                                                         fonctionnelle du « Far West »
+                                                         (illustration 2)  ; et la reprise
+                                                   humoristique par Toys R Us,
+                                                      qui reprend avec humour une
+                                                   scène de film romantique dans
+                                                     sa campagne « Classic DVDs
+ Source : McCormick & Co., Inc. © 2006.                                Available » (illustration 3).
+  En 2004, McCormick a commencé à imprimer la date limite de consommation sur ses
+épices, herbes, extraits et mélanges pour recettes. Parallèlement, l'entreprise a lancé une
+campagne publicitaire avec un message cognitif  fort. La publicité présentée dans
+l’illustration 1 fournit des informations que les consommateurs peuvent utiliser pour
+déterminer si leur pot d'épices a dépassé sa date limite de consommation et doit donc
+être remplacé afin de conserver la capacité de l'épice à rehausser l'odeur, la fraîcheur et
+la saveur des aliments. La publicité attire l'attention des spectateurs sur les informations
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              7
+
+## Page 8
+pertinentes et les caractéristiques de l'emballage du produit (forme rectangulaire et
+texte de l'étiquette). Elle renvoie également les consommateurs vers le site web de
+McCormick, qui fournit un « décodeur » permettant de déchiffrer le code de date
+imprimé sur les anciens flacons d'épices en verre.3
+
+
+ILLUSTRATION 2 Un mélange d'attrait cognitif et émotionnel : publicité pour les camions Ram
+
+
+
+
+
+Source : « Horsepower National Park », publicité Ram Trucks, reproduite avec l'autorisation de Chrysler Group LLC.
+
+   La publicité Ram Trucks de l’illustration 2, qui fait partie d'une série en quatre parties
+lancée en 2013, comporte à la fois un élément cognitif et un élément émotionnel. Ses
+caractéristiques cognitives comprennent une liste en haut de la page des fonctionnalités
+proposées qui plaisent aux amateurs de chasse et de pêche (« moteur HEMI, essieux
+verrouillables, treuil Warn et pneus tout-terrain ») et une image illustrant les capacités
+du véhicule. L'attrait émotionnel de la publicité provient de son design rétro qui rappelle
+le Far West, d'images évoquant la beauté et la rudesse du paysage, et de noms de lieux
+fictifs inspirants (« Horsepower National Park » dans cette publicité ; « Versatility Valley
+» et « Inspirational Canyon » dans d'autres publicités de la série).4
+   L’illustration 3 montre une publicité principalement émotionnelle et humoristique
+pour des DVD de films classiques pour enfants, qui s'adresse aux consommateurs ciblés
+(les parents) en représentant des animaux en peluche dans une pose évoquant une
+scène romantique d'un film dramatique classique pour adultes (Titanic).
+   Enfin, une entreprise doit tenir compte du type de prise de décision susceptible d'être
+utilisé par son marché  cible. Par exemple, les adolescents prennent souvent des
+décisions plus émotionnelles que les adultes, ce qui suggère que les spécialistes du
+marketing qui ciblent les clients adolescents devraient se concentrer davantage sur les
+facteurs émotionnels qu'ils ne le feraient avec des clients plus âgés. Prenons l'exemple
+des publicités emblématiques pour l'iPod, dans lesquelles une silhouette sombre danse
+sur une musique populaire devant un fond coloré, les écouteurs blancs de l'iPod étant
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              8
+
+## Page 9
+clairement visibles. Ces publicités, qui ciblent les jeunes consommateurs, ne contiennent
+pratiquement aucune information sur le produit et mettent l'accent sur son côté « cool ».
+En revanche, les publicités télévisées « Can You Hear Me Now » de Verizon, bien que
+conçues avec humour, délivrent un message cognitif fort sur la réception des téléphones
+portables, un message qui trouve presque certainement plus d'écho auprès des adultes
+qui voyagent beaucoup que des adolescents qui restent dans leur région.
+
+
+ILLUSTRATION 3 Appel principalement émotionnel : publicité Toys « R » Us
+
+
+
+
+
+Source : Volcano Advertising, Johannesburg, Afrique du Sud.
+
+
+Décision à forte implication versus à faible implication
+Les décisions d'achat des consommateurs varient également en fonction du niveau
+d'implication qu'elles engendrent. Certains achats se caractérisent par un processus très
+impliqué et élaboré, tandis que d'autres se caractérisent par un processus minimal ou
+presque inconscient. Pour compliquer les choses, les achats cognitifs et émotionnels
+peuvent être soit très impliqués, soit peu impliqués.
+   Considérons d'abord les achats à forte implication, qu'il s'agisse d'une robe de
+mariée, d'un lave-vaisselle, d'une voiture ou d'une maison. L'acheteur est pleinement
+impliqué, la prise de décision demande généralement beaucoup d'efforts, le délai est
+relativement  long  et  les  conséquences  d'un bon ou  d'un mauvais  choix  sont
+généralement importantes et visibles. Pour un achat largement cognitif, comme l'achat
+d'un téléviseur à écran large, un consommateur peut rechercher les différentes marques
+et modèles disponibles sur le marché, se rendre chez plusieurs détaillants pour voir
+lequel propose les meilleurs prix, demander conseil à ses amis et consulter les journaux
+pour trouver des promotions temporaires. Ce processus peut prendre plusieurs heures,
+voire plusieurs semaines ou mois, et impliquer de réduire une liste de choix à une ou
+deux alternatives. De même, pour un achat largement émotionnel, comme l'achat d'une
+robe pour le bal de fin d'année, un consommateur peut également visiter de nombreux
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT              9
+
+## Page 10
+magasins, demander l'avis de ses amis et de ses proches, et s'assurer que la robe choisie
+est suffisamment distinctive pour ne pas ressembler à celle d'une autre participante au
+bal. Dans ces deux cas, et dans de nombreuses décisions d'achat en général, le niveau
+d'implication élevé résulte de facteurs tels que le coût, le risque inhérent à un mauvais
+choix et l'incertitude quant à la meilleure alternative.
+  En revanche, les achats à faible implication nécessitent généralement beaucoup
+moins d'efforts ; ils sont souvent rapides et sont perçus comme présentant un risque
+beaucoup plus faible. Pour la plupart des gens, acheter du chewing-gum dans un
+magasin de  proximité,  acheter un soda  avec  leur  déjeuner ou  prolonger  leur
+abonnement mensuel à un club de fitness implique une faible implication. Cette faible
+implication peut être due à plusieurs facteurs. Peut-être est-ce dû au coût : le prix est si
+faible que l'achat ne justifie pas une réflexion approfondie et minutieuse. Ou bien cela
+peut être une question d'habitude : il y a longtemps, le consommateur a décidé quelles
+serviettes en papier il préférait ou quelle salle de sport répondait le mieux à ses besoins,
+et désormais, la décision de racheter est automatique. Ou peut-être que les alternatives
+disponibles sont largement similaires : la personne en est venue à croire que toutes les
+essences sont identiques et choisit une station-service uniquement en fonction du prix et
+de la commodité.
+    Il est intéressant de noter que le niveau d'implication d'un achat peut évoluer au fil
+du temps. Prenons l'exemple du niveau d'implication d'une personne qui souscrit une
+assurance automobile pour  la première  fois. L'acheteur peut envisager plusieurs
+prestataires, se demander quel montant de franchise accepter, s'interroger sur le niveau
+de couverture à choisir et comparer les prix de différents assureurs. Pour beaucoup de
+gens, cet achat est une décision très impliquée et très cognitive. Mais un an plus tard,
+lorsque vient le moment de renouveler cette police d'assurance, la situation est tout
+autre. En supposant qu'aucun événement imprévu ne se soit produit au cours de l'année
+écoulée (tel qu'un accident ayant entraîné une forte augmentation du prix de la police),
+de nombreux acheteurs se contenteront de renouveler la police et n'y penseront plus, ce
+qui constitue un achat à faible implication. En fait, il faut généralement un changement
+radical, tel qu'un déménagement dans un autre État ou l'ajout d'un jeune conducteur à la
+police, pour qu'un client se lance à nouveau dans une évaluation minutieuse des polices
+d'assurance.
+  De même, le niveau d'implication peut varier d'un consommateur à l'autre, même
+lorsque le type de produit reste le même. Une publicité datant de plusieurs années
+montrait une femme d'une vingtaine d'années s'efforçant de choisir une carte de Saint-
+Valentin pour son compagnon, examinant des dizaines de cartes afin de trouver celle qui
+exprimerait  parfaitement  ses  sentiments.  Son  compagnon,  quant  à  lui,  moins
+perfectionniste, choisissait sans réfléchir une carte de Saint-Valentin dans un petit
+présentoir à la caisse d'une supérette où il venait acheter de la bière. Même catégorie de
+produits, mais deux niveaux d'implication très différents.
+  Comme pour  les achats  cognitifs par opposition aux achats émotionnels,  les
+spécialistes du marketing  avisés  adaptent  leurs  stratégies de  vente au  niveau
+d'implication des consommateurs. Pour  les  achats à  forte  implication,  certaines
+entreprises vantent leurs politiques de retour facile ou offrent des garanties afin de
+réduire le risque perçu par le consommateur lors de l'achat. D'autres encouragent les
+consommateurs à « comparer les prix » ou leur fournissent des comparaisons entre leurs
+produits et ceux de la concurrence, comme le montre la publicité de l’illustration 4, qui
+permet aux consommateurs de comparer facilement les caractéristiques de leur carte de
+fidélité actuelle à celles de VentureOne.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             10
+
+## Page 11
+   Certaines entreprises peuvent même encourager les consommateurs à comparer les
+prix. Prenons l'exemple de la stratégie de Progressive Insurance, qui consiste à montrer
+à ses clients non seulement ses propres prix, mais aussi ceux de ses concurrents, même
+lorsque ces derniers proposent des tarifs plus bas. À première vue, cela peut sembler
+contre-productif, jusqu'à ce que l'on se rende compte que l'assurance est souvent un
+choix très réfléchi, où le prix n'est pas le seul critère pris en compte. Progressive parie
+que même si un concurrent propose des tarifs légèrement inférieurs, le niveau de service
+et de couverture offert par Progressive incitera les consommateurs à choisir cette
+compagnie.
+  En revanche, les stratégies pour les achats à faible implication peuvent consister à
+rendre l'offre facilement accessible, comme lorsque les magasins placent des chewing-
+gums, des bonbons et des magazines dans les allées des caisses ou que les détaillants en
+ligne suggèrent des « produits qui pourraient également vous plaire » lorsqu'un
+consommateur régulier est connecté. Les achats à faible implication peuvent également
+nécessiter une justification simple pour l'achat du produit. Pensez au slogan de Snuggie,
+« la couverture à manches », qui sous-entend que les couvertures sans manches sont en
+quelque sorte profondément imparfaites. Ces achats peuvent également nécessiter une
+tentative de différenciation du produit par rapport à ce qui pourrait autrement être un
+ensemble indifférencié d'alternatives. Les slogans « Notre chewing-gum contient des
+cristaux aromatiques ! », utilisé par Ice Breakers, et « Froide comme les Rocheuses »,
+utilisé par Coors, en sont de bons exemples.
+
+
+ILLUSTRATION 4 Utiliser les comparaisons
+
+
+
+
+
+Source : Capital One.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             11
+
+## Page 12
+Optimisation ou « satisfaction » dans la prise de décision
+Un concept lié à l'implication, mais qui s'en distingue également, consiste à déterminer si
+l'objectif de l'achat est d'optimiser le choix ou simplement de « satisfaire ». Bien qu'il soit
+tentant de supposer que les consommateurs sont toujours motivés à acheter la meilleure
+alternative possible, c'est-à-dire à optimiser leur prise de décision, la réalité est que les
+consommateurs choisissent parfois de se satisfaire. La prise de décision satisfaisante,
+un terme inventé dans les années 1950 par l'économiste Herbert Simon, est le processus
+par lequel les consommateurs se contentent d'une alternative « suffisamment bonne »
+ou qui dépasse un certain seuil acceptable. Dans de tels cas,  il peut exister une
+alternative plus optimale que des recherches supplémentaires pourraient permettre de
+découvrir. Cependant, le décideur estime que le bénéfice supplémentaire ne justifie pas
+le coût supplémentaire de la recherche.
+   Prenons l'exemple de l'achat et de  la location d'une maison de vacances. Les
+consommateurs qui achètent une maison de vacances sont plus enclins à essayer
+d'optimiser leur prise de décision  : le coût sera beaucoup plus important que  s'ils
+louaient, et la satisfaction ou l'insatisfaction liée à un bon ou un mauvais choix se
+prolongera beaucoup plus longtemps dans le futur. Par conséquent, ils ont tendance à
+prendre plus de temps pour prendre leur décision, ils recherchent davantage de conseils,
+ils font plus de recherches sur les prix de l'immobilier dans la région et ils peuvent
+même passer du temps dans la région pour découvrir à quoi pourrait ressembler la vie
+là-bas. La recommandation « louez avant d'acheter » reflète l'importance de la décision à
+prendre. Comparez cela à la location d'une maison de vacances pour une semaine. Même
+si les consommateurs peuvent encore faire beaucoup de recherches (il s'agit toujours
+d'une décision relativement importante),  ils sont plus enclins à mettre fin à leurs
+recherches lorsqu'ils trouvent une alternative qui semble répondre à leurs critères,
+plutôt que de continuer à chercher toutes les alternatives possibles sur tous les sites
+web. Et même s'ils tiendront compte du coût et de l'emplacement , ils n'ont pas autant
+besoin de prendre la bonne décision. En fin de compte, les satisfaiteurs sont prêts à
+consacrer le temps et l'énergie nécessaires pour faire un bon choix, plutôt que le temps
+et l'énergie bien plus importants nécessaires pour faire le meilleur choix.
+   Les facteurs qui influencent  le choix d'un consommateur entre un processus
+décisionnel optimisé ou satisfaisant sont en partie les mêmes que ceux qui déterminent
+si un processus implique un engagement élevé ou faible. En règle générale, plus les
+dépenses  sont importantes (une  voiture, une maison, une  assurance),  plus  les
+consommateurs sont susceptibles d'essayer d'optimiser leur choix. De même, plus la
+variance en termes de qualité et de prix est importante, plus  ils seront enclins à
+optimiser, alors que lorsque toutes les alternatives sont pratiquement identiques,
+l'avantage d'efforts de recherche supplémentaires peut être négligeable. Enfin, la durée
+d'utilisation du produit ou du service peut être un facteur. Par exemple, il est beaucoup
+plus important de faire le bon choix d'université que de choisir le cours de formation
+pour adultes idéal d'une semaine.
+    Il est intéressant de noter que la distinction entre optimisation et satisfaction varie
+souvent d'une personne à l'autre. Indépendamment de la catégorie de produit ou du
+type de décision, certains consommateurs sont plus enclins à optimiser et d'autres à se
+satisfaire, et ils peuvent le faire pour la plupart de leurs décisions d'achat. En effet, la
+plupart d'entre nous peuvent penser à un ami ou à un membre de leur famille qui
+analyse de manière excessive des achats apparemment simples, ainsi qu'à quelqu'un qui
+se contente d'un produit sans trop réfléchir. Cependant, se situer à l'un ou l'autre de ces
+extrêmes peut être préjudiciable à l'acheteur. La personne qui applique régulièrement
+une stratégie d'optimisation à son choix de sandwich pour le déjeuner ou à son choix de
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             12
+
+## Page 13
+film sur Netflix consacre probablement plus de temps à ces tâches qu'elles ne le justifient
+rationnellement. De même, la personne qui utilise une stratégie de satisficing pour
+choisir une maison ou une nouvelle voiture aurait probablement intérêt, tant en termes
+de satisfaction que de valeur obtenue, à examiner de manière plus exhaustive les
+alternatives disponibles.
+  Une fois encore, la distinction entre optimisation et satisfaction devrait influencer les
+stratégies de commercialisation d'une entreprise. Lorsqu'elles vendent du shampoing à
+des clients cibles qui pensent que tous les shampoings sont pratiquement identiques, les
+entreprises peuvent s'attendre à ce qu'ils se satisfassent. Par conséquent, une entreprise
+devrait rendre son produit facile à trouver, lui consacrer un espace important dans les
+rayons, concevoir un emballage coloré pour le distinguer des autres produits et lui
+donner un prix abordable. Les clients cibles qui pensent  qu'il existe de grandes
+différences entre les shampooings sont toutefois plus enclins à essayer de choisir le
+meilleur. Les spécialistes du marketing peuvent donc souhaiter faire beaucoup de
+publicité pour mettre en avant la supériorité de leur produit, souligner les coûts
+économiques et sociaux d'un mauvais choix et fixer le prix du produit à un niveau qui
+suggère la qualité.
+
+
+Prise de décision compensatoire ou non compensatoire
+La prise de décision des consommateurs peut également être classée en fonction de la
+quantité d'informations pertinentes utilisées et des compromis faits pour aboutir aux
+choix des consommateurs. Dans certains cas, les consommateurs prennent en compte
+(ou tentent de prendre en compte) toutes les caractéristiques pertinentes, en faisant des
+compromis entre celles-ci. Ce processus est appelé prise de décision compensatoire,
+car les défauts d'un produit sur une caractéristique particulière, comme un prix élevé,
+peuvent être compensés par ses atouts sur une autre caractéristique, comme un style
+exceptionnel, ce qui donne un produit que les consommateurs trouvent toujours
+désirable. Pour certaines personnes, l'achat du premier iPhone d'Apple est le résultat
+d'un processus de prise de décision compensatoire. Même  si ces consommateurs
+pouvaient avoir des inquiétudes concernant diverses caractéristiques du produit,
+notamment des connexions WiFi défaillantes, une autonomie de batterie insuffisante et
+un prix d'achat élevé,  ils étaient tellement satisfaits de la  facilité d'utilisation, de
+l'élégance et de la nouveauté de l'appareil qu'ils étaient prêts à l'acheter.
+  Dans d'autres cas, les consommateurs peuvent prendre en compte certains attributs
+d'un produit, mais pas tous, en ignorant les compromis potentiels entre ces attributs. Ce
+processus est appelé prise de décision non compensatoire, car l'incapacité d'un produit
+à atteindre un seuil acceptable pour un attribut ne peut être compensée par des
+performances élevées pour un autre attribut. Pour de nombreuses personnes, le choix
+d'un vol aérien représente une décision non compensatoire. Lorsqu'ils voyagent de
+Boston à San Francisco, par exemple, certains voyageurs peuvent ne prendre en
+considération que les vols sans escale. Même si un vol avec escale à Chicago coûte 500
+dollars de moins, le voyageur peut ne pas l'envisager car il ne répond pas au critère d'un
+vol sans escale. Par conséquent, alors qu'il peut y avoir 30 vols entre Boston et San
+Francisco un jour donné, ces consommateurs peuvent ne prendre en considération que
+les quatre vols qui répondent au critère requis de vol sans escale.
+   L'un des facteurs qui déterminent  la prise de décision compensatoire ou non
+compensatoire est l'étendue des choix possibles. Si le nombre de choix est limité, par
+exemple trois restaurants dans une petite ville,  il n'est pas trop difficile d'examiner
+toutes les alternatives en fonction de tous les attributs pertinents. Cependant, si les choix
+sont nombreux, par exemple pour décider où passer sa lune de miel, il devient difficile et
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             13
+
+## Page 14
+fastidieux d'être exhaustif dans sa prise de décision. En conséquence, le couple heureux
+peut réduire le nombre d'alternatives envisagées en établissant certains seuils non
+compensatoires : la destination doit être située dans un climat chaud, au bord de l'eau et
+à moins de cinq heures de vol.
+  Un deuxième facteur qui détermine le recours à la prise de décision compensatoire ou
+non compensatoire est l'importance des différents attributs pour le consommateur. Si un
+attribut domine tous les autres, aucune forme de prise de décision compensatoire ne
+peut produire un  résultat supérieur à un processus non compensatoire. À  titre
+d'exemple, si un voyageur déteste vraiment manquer ses correspondances aériennes, le
+fait de ne prendre en considération que les vols sans escale peut être un critère tout à
+fait acceptable qui conduit à la meilleure décision pour ce voyageur.
+   Enfin, la disponibilité des ressources peut jouer un rôle. Si les consommateurs ont le
+temps, la patience et l'accès aux informations sur les produits, ils peuvent recourir à la
+prise de décision compensatoire. Lorsqu'ils décident en avril à quel match de baseball
+des Red Sox de Boston ils emmèneront leur famille de quatre personnes en août, les
+parents peuvent procéder à une évaluation minutieuse et complète qui tient compte du
+jour de la semaine préféré, de l'heure, de l'équipe adverse, de l'emplacement des sièges
+et du prix. Mais si, à 14 heures le 15 août, un collègue de travail leur propose quatre
+billets pour le match des Red Sox plus tard dans la journée, ils peuvent envisager
+beaucoup moins de compromis, et la décision peut simplement dépendre de leur
+disponibilité et de celle de leur famille à ce moment-là.
+  Comme  pour  les  autres  cadres  conceptuels  liés  à  la  décision  d’achat du
+consommateur, le processus dominant utilisé par les consommateurs (compensatoire ou
+non compensatoire) doit guider les efforts de marketing d'une entreprise.  Si les
+consommateurs prennent des décisions compensatoires, il n'est pas nécessaire qu'un
+produit obtienne un score élevé pour chaque attribut, mais il doit obtenir un bon score
+global, lorsque tous les attributs sont pris en compte. Ainsi, les efforts visant à
+promouvoir l' « offre globale » peuvent être primordiaux et l'entreprise doit s'efforcer de
+rendre toutes les informations pertinentes facilement accessibles. Si la prise de décision
+est non compensatoire, cependant, une entreprise  doit particulièrement bien se
+positionner sur  le ou  les deux  critères qui dominent  la  prise de décision des
+consommateurs.
+  En outre, selon qu'un produit bénéficie d'une prise de décision compensatoire ou non
+compensatoire, une entreprise peut tenter d'influencer le type de processus décisionnel
+utilisé par les consommateurs. Par exemple, une entreprise qui domine la concurrence
+sur un seul attribut peut chercher à inciter les consommateurs à s'engager dans une
+prise de décision non compensatoire et les encourager à valoriser cet attribut par
+rapport à tous les autres. Prenons l'exemple des efforts déployés par Volvo pour se
+positionner comme le véhicule le plus sécuritaire. Cela encourage les consommateurs à
+ignorer d'autres attributs qui pourraient rendre Volvo moins attrayant par rapport aux
+autres alternatives (tels que le prix ou la consommation de carburant) et à se fier
+uniquement à la stratégie « la voiture la plus sécuritaire est la meilleure voiture ».
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             14
+
+## Page 15
+        2.2 Le processus de décision d’achat du consommateur
+
+
+Après avoir examiné les différents cadres conceptuels qui éclairent la prise de décision
+des consommateurs, passons maintenant à la compréhension du processus complet de
+prise de décision des consommateurs. Lorsque nous examinons les étapes nécessaires à
+la prise de décision d'achat par les individus, nous concentrons souvent notre attention
+sur le moment réel de la transaction, comme l'expérience en magasin, la rencontre avec
+le vendeur ou le clic sur le bouton « Acheter » sur le site web d'un commerçant.
+Cependant, quel que soit le type de transaction, le processus décisionnel d’achat (PDA)
+comporte  trois phases  distinctes  :  la pré-achat,  l'achat et  le post-achat, que  les
+consommateurs traversent généralement lorsqu'ils prennent des décisions d'achat.
+Chaque phase présente des caractéristiques distinctes qui peuvent influencer fortement
+le comportement d'achat. Les spécialistes du marketing doivent donc comprendre les
+caractéristiques déterminantes de chaque phase afin d'élaborer des stratégies de vente
+efficaces.
+
+
+Phase 1 : Pré-achat
+Avant d'acheter un produit ou un service, les consommateurs s'engagent dans une série
+d'activités préalables à l'achat, notamment la reconnaissance d'un besoin, la recherche
+d'alternatives viables pour satisfaire ce besoin et la collecte d'informations sur ces
+alternatives. Selon la nature de l'achat, ces activités préalables à l'achat peuvent prendre
+plus ou moins de temps. Par exemple, plusieurs années peuvent s'écouler entre le
+moment où une personne envisage pour la première fois d'acheter un voilier et l'achat
+effectif de ce bateau. À l'inverse, la décision d'aller dîner au restaurant un soir donné
+peut être prise quelques heures, voire quelques minutes seulement avant d'entrer dans
+le restaurant, en fonction de facteurs tels qu'une journée particulièrement bonne («
+Fêtons ça ! ») ou particulièrement mauvaise (« J'ai besoin de me faire plaisir »).
+   Prenons l'exemple d'une consommatrice que nous appellerons Anna, qui décide
+d'acheter une voiture. Tout d'abord, il faut un élément déclencheur, quelque chose qui
+fait naître dans l'esprit d'Anna l'idée qu'elle doit acheter une nouvelle voiture. Peut-être
+a-t-elle appris que la dernière réparation de sa voiture actuelle coûterait 4 000 dollars,
+soit plus que la valeur de revente de la voiture. Peut-être a-t-elle eu des difficultés à
+démarrer sa voiture plus tôt dans la journée. Peut-être qu'une des amies d'Anna a
+récemment acheté une nouvelle voiture et lui a proposé de l'emmener faire un tour, ce
+qui a rendu Anna un peu envieuse. Ou peut-être qu'elle va avoir 30 ans et qu'elle
+souhaite marquer cette étape importante en achetant une nouvelle voiture. En bref,
+quelque chose doit susciter l'intérêt d'Anna et la faire passer de ce que les spécialistes du
+marketing appellent un état « froid » (« Ma voiture actuelle me convient très bien ») à un
+état « tiède » ou « chaud » (« J'ai vraiment besoin d'une nouvelle voiture »).
+  Anna entame alors un processus de recherche et de réflexion. Au début, ce processus
+peut être aussi informel que d'observer attentivement les autres voitures sur la route
+afin de déterminer les modèles qui lui plaisent le plus. Ensuite, le processus peut devenir
+plus sérieux lorsqu'elle sollicite des conseils sur les différentes options (par le biais de
+conversations, d'e-mails ou de réseaux sociaux) auprès de membres de sa famille,
+d'amis, de voisins, de connaissances et même d'inconnus. Anna peut alors commencer à
+consulter des annonces, à visiter des sites web consacrés aux produits, à parcourir des
+guides d'achat de voitures et à se rendre chez des concessionnaires. Au fur et à mesure
+que ce processus se déroule, elle peut commencer à mettre de côté des fonds pour payer
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             15
+
+## Page 16
+la nouvelle voiture, en réduisant ses dépenses discrétionnaires, en prenant des vacances
+moins coûteuses ou en supprimant certaines de ses sorties nocturnes.
+  Anna passe ensuite à l'évaluation des alternatives dans le cadre de la phase préalable
+à l'achat. Lorsqu'elle réfléchit à la voiture qu'elle va acheter, elle pourrait théoriquement
+choisir parmi l'ensemble des alternatives disponibles sur le marché : une sélection de
+toutes les options possibles, même les plus obscures ou les moins adaptées à ses besoins
+(comme un monospace conçu pour accueillir huit personnes, alors qu'Anna est une
+femme célibataire). Cependant, de manière plus réaliste, elle se concentre probablement
+sur un ensemble de solutions dont elle a connaissance, c'est-à-dire le sous-ensemble de
+solutions qu'elle connaît et dont elle a entendu parler. À mesure qu'elle reçoit les
+commentaires de ses amis, effectue ses recherches et prend en compte ses propres
+préférences et son goût pour différents véhicules, Anna réduit la liste à un ensemble de
+solutions qui répondent à ses critères d'achat initiaux et qu'elle envisagera plus en
+détail. Cela aboutit finalement à un ensemble de considération, c'est-à-dire les candidats
+sérieux à l'achat, et finalement à la décision d'acheter une voiture spécifique (voir
+illustration 5).
+
+
+ILLUSTRATION 5 Achat d'une voiture : de la liste complète à la décision
+
+
+
+
+
+    Il convient de noter que, à mesure que les consommateurs franchissent ces étapes,
+tous les cadres décisionnels que nous avons identifiés peuvent entrer en jeu. Anna
+pourrait  utiliser  un  processus  décisionnel  hautement  cognitif,  basé  sur  les
+caractéristiques objectives de chaque alternative, ou elle pourrait prendre une décision
+beaucoup plus émotionnelle, en pensant à l'impression qu'elle fera sur ses amis et sa
+famille. Elle pourrait adopter une stratégie décisionnelle hautement compensatoire (en
+faisant un compromis entre la valeur et la sécurité), ou elle pourrait utiliser une stratégie
+non compensatoire, en éliminant les alternatives qui ne répondent pas à ses critères sur
+des aspects clés (par exemple, la voiture doit être équipée d'un système audio haut de
+gamme).
+  De même, la durée de la phase de pré-achat peut varier en fonction de la situation du
+consommateur. Pour les consommateurs dont les voitures ont accumulé de nombreuses
+années et de nombreux kilomètres, mais qui sont encore assez fiables, la phase de pré-
+achat peut durer des mois, voire des années. En revanche, pour un consommateur qui a
+eu un accident dans lequel sa voiture a été déclarée irréparable, la phase de pré-achat
+peut être relativement courte, car il a besoin d'une autre voiture immédiatement.
+   Les spécialistes du marketing doivent comprendre qu'il existe une phase de pré-achat
+pour presque tous les achats et qu'ils peuvent, en tant que spécialistes du marketing,
+jouer un rôle dans la forme et la durée de cette phase. Par exemple, de nombreuses
+entreprises tentent d'activer ou de déclencher la prise de conscience d'un besoin chez le
+client. Les détaillants de meubles recommandent aux consommateurs de remplacer
+leurs matelas et sommiers tous les 10 ans. Les ateliers de vidange d'huile apposent des
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             16
+
+## Page 17
+autocollants « changer avant » sur le pare-brise des voitures des clients. Les bijouteries
+rappellent aux consommateurs plusieurs mois avant Noël ou la Saint-Valentin que seuls
+les bijoux leur permettront de gagner l'amour éternel de leur partenaire.
+  En plus de fournir des déclencheurs, les entreprises doivent s'assurer que leurs
+produits ou services sont pris en compte par les acheteurs, puis qu'ils font partie de leurs
+choix et de leur ensemble de considération. Une entreprise qui fabrique une gamme de
+produits  capillaires  (shampooings,  après-shampooings,  gels  coiffants)  cherchera
+probablement à trouver des détaillants qui stockent tous les produits de la gamme dans
+un seul endroit sur les étagères des magasins. Ainsi, les acheteurs qui ont cette marque
+dans leur ensemble de considération seront plus enclins à choisir différents produits de
+la même gamme. Lorsque les détaillants stockent tous les shampooings de différents
+fabricants sur une seule étagère et tous les après-shampooings de différents fabricants
+sur une autre étagère, les acheteurs sont moins conscients de la gamme complète de
+produits de soins capillaires proposés par une entreprise particulière. En conséquence,
+ils peuvent choisir des produits de plusieurs marques différentes au lieu de s'en tenir à
+une seule marque, ce qui réduit la part de marché de la marque d'une entreprise donnée.
+   Enfin,   les  entreprises  peuvent  essayer  d'influencer   la  manière  dont  les
+consommateurs réduisent leur choix en expliquant ou en amplifiant l'importance des
+caractéristiques  pour  lesquelles un  produit  est  performant, ou en  minimisant
+l'importance des caractéristiques pour lesquelles  il est moins performant. Hyundai
+affirme  offrir  les meilleures  garanties du marché automobile américain  afin de
+sensibiliser  les  consommateurs  à  l'importance  des  services  dans  l’esprit  des
+consommateurs  . Et les efforts d'IKEA pour minimiser l'idée que les meubles doivent
+durer éternellement visaient à minimiser ce que certains considéraient comme un défaut
+des produits de l'entreprise, à savoir leur durabilité.
+
+
+Phase 2 : Achat
+Une fois que le consommateur a pris la décision d'acheter un produit ou un service, la
+phase d'achat commence. Cette phase peut impliquer de faire des choix concernant la
+marque à acheter, le lieu d'achat (chez un détaillant physique ou en ligne), le nombre
+d'articles à acheter (un seul ou plusieurs si une remise sur volume est offerte), le
+moment de l'achat (pendant les soldes ou un jour de semaine où les magasins sont
+moins fréquentés) et le mode de paiement (en espèces, par chèque, par carte de crédit
+ou par financement).
+   Cependant, de nombreux facteurs peuvent intervenir entre  le moment où un
+consommateur décide d'acheter et le moment de l'achat effectif. Un acheteur qui a
+décidé d'acheter un canapé dans un magasin de meubles haut de gamme peut se sentir
+dépassé par les centaines de tissus et de garnitures différents disponibles pour ce
+canapé, et finir par partir. Un autre consommateur peut entrer dans un magasin
+d'appareils photo avec l'intention d'acheter une marque et un modèle particuliers
+d'appareil photo numérique, mais finir par en choisir un autre sur les conseils d'un
+vendeur. Un troisième consommateur peut entrer chez un concessionnaire automobile
+avec l'intention d'acheter une nouvelle Ford Escape, mais découvrir que sa cote de crédit
+n'est pas suffisante pour obtenir le financement nécessaire. Ces situations montrent
+pourquoi les entreprises doivent anticiper les obstacles à l'achat et tenter de les
+minimiser. Le magasin de meubles peut former ses vendeurs à recommander des
+combinaisons de tissus et de garnitures, par exemple. Le fabricant d'appareils photo
+pourrait  fournir  des  supports  pédagogiques  conviviaux  sur  ses  produits  afin
+d'encourager les vendeurs à promouvoir ses appareils photo auprès des clients plutôt
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             17
+
+## Page 18
+que ceux de ses concurrents. Et le concessionnaire automobile pourrait proposer
+d'autres moyens de financement.
+    Il convient de noter que, dans de nombreux cas, un consommateur peut avoir décidé
+d'acheter un produit, par exemple une bouteille de vin blanc, mais n'a pas encore choisi
+la marque. Dans ce cas, l'acheteur est réceptif à toute une série d'indices sur lesquels les
+entreprises peuvent influer, tels que la mise en avant du produit, la notoriété de la
+marque, l'attrait de l'étiquette et l'acceptabilité du prix.
+
+
+Phase 3 : Après l'achat
+Si une entreprise a bien géré les phases de pré-achat et d'achat (et a eu un peu de
+chance), le consommateur achète le produit ou le service. Mais, bien souvent, le travail
+de  l'entreprise  n'est  pas  terminé. Dans  la  phase  post-achat,  l'appréciation du
+consommateur pour le produit acheté et sa fidélité à l'entreprise qui le lui a vendu ne
+sont en aucun cas garanties. Les acheteurs peuvent être déçus si l'offre ne répond pas à
+leurs  attentes,  ou  penser  qu'ils  ont  fait  une  erreur  s'ils  entendent  d'autres
+consommateurs s'extasier sur un produit alternatif. Cette situation redoutée, connue
+sous le nom de « remords de l'acheteur », peut se produire en particulier lorsque les
+gens ont dépensé beaucoup d'argent pour un produit.
+   Les spécialistes du marketing accordent une grande importance à la gestion de la
+phase post-achat, car les consommateurs satisfaits de leurs achats sont plus enclins à
+renouveler leur achat et à faire passer le mot à d'autres personnes. Ceux qui ne sont pas
+satisfaits peuvent retourner le produit ou annuler le service, se plaindre auprès de
+l'entreprise ou déconseiller à d'autres personnes d'acheter le produit ou le service.
+Prenons l'exemple d'un produit qui nécessite un entretien après l'achat pour conserver
+son attrait, comme un pull de qualité ou une table à manger en acajou. Souvent, une
+entreprise recommandera le type d'entretien nécessaire pour tirer le meilleur parti de
+ce produit, par exemple la meilleure façon de nettoyer le pull ou la fréquence et les
+produits à utiliser pour polir la table à manger. En recommandant (et parfois même en
+contrôlant) les types et les niveaux d'entretien après-vente, les entreprises peuvent
+accroître la satisfaction des consommateurs à l'égard de leurs achats. Dans d'autres cas,
+les entreprises peuvent souhaiter améliorer les mauvaises expériences. Des politiques
+de  retour  généreuses  et  des  périodes  de  garantie  longues  suscitent  souvent
+l'appréciation des consommateurs, et les politiques de réparation qui proposent un
+produit de prêt pendant la période de réparation atténuent une préoccupation majeure
+pour de nombreux consommateurs.
+   Après l'achat, une entreprise peut également anticiper et encourager le prochain
+achat du même produit. Par exemple, pour inciter les consommateurs à remplacer des
+produits  ou  à  renouveler  des  services,  les  entreprises  ajoutent  parfois  des
+fonctionnalités spéciales qui indiquent quand il est temps de racheter. Certaines brosses
+à dents et certains rasoirs sont équipés d'un indicateur de couleur qui s'estompe à
+chaque utilisation, indiquant ainsi quand  l'article doit être remplacé. Les éditeurs
+envoient des avis de renouvellement aux lecteurs plusieurs mois avant l'expiration de
+leur abonnement à un magazine. De même, une entreprise peut encourager l'achat
+d'autres produits qu'elle propose. Par exemple, une compagnie d'assurance peut offrir
+aux consommateurs une remise importante pour  les  inciter à regrouper  leurs
+assurances habitation, automobile et bateau auprès d'un seul et même prestataire.
+   Enfin, les entreprises doivent réfléchir à la manière dont les consommateurs vont
+finalement se débarrasser des produits après leur achat. Cela est particulièrement
+important pour les produits qui peuvent être difficiles à éliminer, peut-être parce qu'ils
+sont volumineux et encombrants ou parce qu'ils peuvent nuire à l'environnement. C'est
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             18
+
+## Page 19
+pourquoi les détaillants de matelas proposent généralement de reprendre le matelas
+remplacé, tandis que de nombreux détaillants de batteries automobiles enlèvent et
+éliminent l'ancienne batterie. Hewlett Packard, par exemple, a pris des dispositions pour
+que Bureau en Gros  et Walmart acceptent  les cartouches d'imprimante que  les
+consommateurs  déposent  pour  recyclage,  et  fournit  également  des  étiquettes
+d'expédition pour un programme de recyclage par courrier. En facilitant l'élimination
+des  produits  par  les consommateurs de  manière  pratique  et  respectueuse de
+l'environnement, les entreprises peuvent encourager davantage la fidélité à la marque.
+   La dynamique spécifique des phases de pré-achat, d'achat et d'après-achat du
+processus d'achat varie considérablement selon les personnes, les produits, les époques
+et les contextes. Ainsi, malgré cette grande variance, cette dynamique existe sous une
+forme ou une autre, et les spécialistes du marketing doivent en tenir compte  s'ils
+souhaitent vendre aux clients ciblés par leur entreprise. Par exemple, la dynamique peut
+varier en fonction du type d'acheteur : s'agit-il d'acheteurs habituels, de consommateurs
+à la recherche d'offres à forte valeur ajoutée, de clients qui aiment la variété ou
+d'acheteurs qui ont tendance à utiliser un processus décisionnel très impliqué (voir
+illustration 6) ? Une meilleure compréhension de cette dynamique peut aider les
+entreprises à mieux adapter leur processus de vente au processus décisionnel des
+consommateurs. Un échec à n'importe quelle étape du processus, que ce soit avant,
+pendant ou après l'achat, peut entraîner une perte de ventes et de ventes futures.
+
+
+ILLUSTRATION 6 Dynamique par type d'acheteur à travers les différentes phases du processus d'achat
+
+
+
+                                                                        Étapes du processus d’achat
+
+                                                          Phase 1                                Phase 2           Phase 3
+Type d’acheteur ou d’acheteuse                                  Pré-achat                                 Achat            Post-achat
+
+                                                    Recherche              Évaluation des
+                                Déclencheur                                                     Achat            Post-achat
+                                                         d’information           alternatives
+
+                                                                                                  Achat déclenché
+                                                                     Utilise uniquement
+                                                                          Se fie à des préférences  par un rappel
+                                                              l’information fournie ou                                          Réévaluations limitées,
+                                                                      de longue date         Achats planifiés
+                          Tombe à court d’un     facilement accessible                                              sauf en cas de
+Acheteur.euse habituel.le                                                             Fidèle à la marque,      et non planifiés
+                                   produit               Découvre de nouveaux                                     changement de
+                                                                          mais susceptible de     Fortement
+                                                           produits de façon                                        marque
+                                                                            changer                guidé.e par
+                                                                 fortuite
+                                                                                                                                   l’inertie
+
+                                                                                                  Attend le « bon
+                                                                           Cherche l’avis de ses   moment » (ex. :
+                                 Reconnaît un besoin lié  Fait confiance aux                                                Réévaluations
+                                                                              proches               promotion à
+                               à un événement de vie   détaillants                                                     importantes
+Chasseur.euse de bonnes affaires                                                           Utilise les marques      durée limitée)
+                                        (ex. : augmentation     S’appuie sur l’aide de                                           Risque de remords
+                                                                          pour orienter ses       Achat souvent
+                                         salariale)                l’équipe de vente                                                 post-achat
+                                                                           jugements             motivé par le
+                                                                                                      besoin
+
+                                                                                         Choisit spontanément
+                                                Compare sur le
+                              Magasine par                                   Exige le respect de      Achat impulsif ou Se perçoit comme très
+Amateur.rice de variété                           moment
+                                  divertissement                                      critères minimaux       par suggestion     satisfait.e ou déçu.e
+                                                     Recherche les soldes
+                                                                               Ouvert.e à l’essai
+
+                                 Motivé.e par des
+                                       objectifs de vie et des   Évalue l’information en                           Sélection
+Acheteur.euse à fort niveau         intérêts à long terme    fonction de ses besoins  Recherche l’avis          réfléchie du     Peu de réévaluation
+d’implication                       Influencé.e par des      Considère de nombreux d’expert.e.s          moment et du    immédiate
+                              événements ou des      attributs du produit                                  lieu d’achat
+                                personnes
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             19
+
+## Page 20
+               2.3 L'unité de décision du consommateur
+
+
+Parallèlement au processus décisionnel (PDA), il existe le concept d'unité décisionnelle,
+c'est-à-dire l'ensemble des personnes qui affectent, influencent et/ou participent à une
+décision d'achat. Les unités décisionnelles sont toujours composées d'au moins une
+personne, l'acheteur, mais comprennent souvent de nombreuses autres personnes,
+chacune pouvant pousser l'acheteur vers (ou l'éloigner de) la décision d'achat effective.
+
+
+Rôles au sein des unités décisionnelles
+Il est essentiel pour les spécialistes du marketing de savoir que les différents membres
+d'une unité décisionnelle donnée jouent souvent des rôles différents. Pour vendre un
+produit ou un service, les spécialistes du marketing doivent comprendre le rôle unique
+joué par chaque membre de  l’unité.  Ils doivent ensuite adapter leurs efforts de
+marketing non seulement à l'acheteur final, mais aussi à chaque personne qui influence
+la décision.
+  Revenons à Anna, qui cherchait à acheter une voiture. Nous avons avancé l'horloge de
+20 ans, et elle est maintenant mariée à Daniel et ils ont des jumeaux de 16 ans, Sam et
+Gloria. Anna est sur le point de fêter son cinquantième anniversaire, et elle veut le faire
+avec style, en achetant une Ford Mustang GT toute neuve. Elle adore le style sportif du
+coupé, la puissance brute de son moteur de 420 chevaux et le rugissement rauque de son
+système d'échappement high-tech. Depuis dix ans, Anna conduit une Honda Civic de
+base (et, à son avis, ennuyeuse). Elle souhaite vendre la Civic afin de financer l'acompte
+de la Mustang, dont le prix affiché atteindra 37 000 dollars une fois toutes les options
+souhaitées incluses.
+  Anna joue le rôle d'acheteuse dans cette décision d'achat, mais les membres de sa
+famille font également partie du groupe décisionnel et influencent donc son processus.
+Par exemple, Daniel joue le rôle d'influenceur lorsqu'il dissuade Anna de commander le
+compresseur de 7 000 dollars qui porte la puissance de la Mustang à 520 chevaux. Il joue
+également le rôle de gardien lorsqu'il cache à Anna la publicité parue dans le journal du
+dimanche d'un concessionnaire Ford local qui propose encore plus d'options qu'elle
+pourrait ajouter à la voiture de ses rêves. Enfin, Daniel joue le rôle de décideur, car Anna
+et lui ont convenu qu'ils devaient tous deux approuver tout achat d'un article aussi
+coûteux.
+   Par ailleurs, malgré leur manque de pouvoir d'achat, les jumeaux Sam et Gloria sont
+également des membres essentiels du groupe décisionnaire. Sam, par exemple, plaide
+haut et fort pour l'ajout de deux bandes de course à la peinture de la voiture, tandis que
+Gloria exige qu'Anna choisisse la couleur « Gotta Have It Green » plutôt que « l'ennuyeux
+argent vieillot ».
+   L'unité décisionnelle ne se limite pas à  la famille immédiate d'Anna. D'autres
+personnes influentes entrent en jeu, notamment les collègues et amis d'Anna, qui sont
+enthousiasmés  et  envieux de  sa  situation. Chacun  d'entre eux  lui  fournit  des
+informations qui influencent son processus de réflexion. Par exemple, un ami qui a
+possédé plusieurs voitures de sport puissantes conseille à Anna d'écouter Daniel en ce
+qui concerne le moteur, car « 420 chevaux, c'est largement suffisant ». Un autre ami lui
+dit : « Ne demande pas au constructeur de faire les décalques de course ; c'est beaucoup
+moins cher si tu l'apportes à un carrossier après-vente. En plus, tu auras beaucoup plus
+de choix de couleurs et de styles. »
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             20
+
+## Page 21
+  Comme le montre clairement l'expérience d'achat d'une voiture par Anna et sa
+famille, les spécialistes du marketing doivent développer des processus de vente qui
+persuadent tous les membres d'un DMU, et pas seulement la personne qui joue le rôle
+d'acheteur. Cela vaut toutefois pour bien d'autres secteurs que l'industrie automobile.
+Un exemple classique est celui de la publicité, de l'emballage des produits et des
+stratégies de présentation des céréales pour enfants. Pour les parents de jeunes enfants,
+les céréales du petit-déjeuner représentent souvent l'une des premières grandes
+batailles qu'ils auront à mener. Les parents détiennent le pouvoir d'achat et veulent
+offrir à leurs enfants un petit-déjeuner nutritif, tandis que les enfants veulent un petit-
+déjeuner sucré et amusant, comme celui dont parlent leurs amis. Ainsi, les publicités
+pour les céréales vantent les vitamines et les minéraux contenus dans le produit, tout en
+mettant en avant des personnages de dessins animés et en soulignant les formes
+appétissantes qui parsèment le produit. De plus, les boîtes de céréales elles-mêmes
+présentent des images colorées et sont souvent placées à la hauteur des yeux des enfants
+dans les rayons des magasins d'alimentation. Une fois qu'un enfant a attrapé la boîte, lui
+et sa mère deviennent instantanément liés dans l'allée du magasin en tant qu'unité
+décisionnelle, engagés dans un processus de prise de décision conjoint, même si celui-ci
+peut se terminer en larmes.
+  Comme nous l'avons vu dans cette discussion, comprendre le processus décisionnel
+et l'unité décisionnelle pour un produit ou un service particulier peut s'avérer beaucoup
+plus complexe que ne le supposent initialement de nombreux gestionnaires. Voici un
+exemple tiré de la société pharmaceutique Merck, qui illustre en détail les variables en
+jeu.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             21
+
+## Page 22
+           2.4 Merck et la commercialisation du Propecia 5
+
+
+L'histoire de Merck et de son médicament sur ordonnance Propecia illustre comment
+une  stratégie  marketing  efficace repose  sur  la compréhension des  complexités
+inhérentes au processus décisionnel d'un consommateur. Propecia est un comprimé à
+prendre une fois par jour que Merck a lancé pour prévenir la chute des cheveux. La
+société disposait de deux outils marketing principaux  : la « promotion » auprès des
+médecins (visites des commerciaux dans les cabinets médicaux) et la publicité directe
+auprès des consommateurs (DTC). Lancé en 1998, Propecia bénéficiait d'un marché
+potentiel important, avec pas moins de 40 millions d'hommes souffrant de calvitie
+masculine aux États-Unis. Mais la société était également confrontée à de nombreux
+défis, notamment les suivants :
+
+   •  Les hommes avaient tendance à sous-estimer considérablement leur taux de perte
+     de cheveux.
+   •  Parmi les hommes atteints de calvitie, environ un tiers se résignait simplement à
+      cette réalité, tandis qu'un autre tiers considérait qu'il s'agissait d'un problème à
+       traiter à l'avenir.
+   •  Les autres hommes souffrant de calvitie essayaient souvent d'abord d'autres
+     remèdes, notamment les coiffures dissimulatrices, les casquettes de baseball, les
+     coupes de cheveux courtes et les postiches, avant de rechercher une solution
+      médicale, ce qui retardait de plusieurs mois, voire plusieurs années, leur
+      consultation chez le médecin.
+   •  Ceux qui finissaient par consulter un médecin constataient souvent que celui-ci
+       était réticent à prescrire un médicament pour ce qui était considéré comme un
+     problème lié au mode de vie ou à l'apparence physique. De plus, certains médecins
+      avaient déjà eu des expériences négatives avec le Rogaine, un médicament contre
+       la perte de cheveux sur ordonnance qui n'était que modérément efficace. Enfin, le
+      Propecia était connu pour avoir des effets secondaires sexuels graves (mais rares).
+   •  Lors des essais cliniques, Propecia a mis jusqu'à trois mois pour montrer des
+       résultats, qui étaient souvent modestes. Il s'est avéré beaucoup plus efficace pour
+      ralentir ou arrêter la chute des cheveux que pour faire repousser de nouveaux
+      cheveux. De plus, il nécessitait une utilisation régulière sur de longues périodes et
+      cessait complètement d'agir si les utilisateurs arrêtaient le traitement.
+
+
+Analyse du processus décisionnel et l'unité décisionnelle
+Pour commencer à relever ces défis, Merck a analysé les processus décisionnels de deux
+décideurs clés impliqués dans l'achat et l'utilisation de Propecia : les médecins et les
+consommateurs.
+  Comme Merck le savait grâce à ses années d'expérience, les médecins passent
+généralement par  plusieurs phases  avant  d'être  prêts à  prescrire un nouveau
+médicament : « conscient mais sceptique », « à l'aise », « confiant » et « prescripteur
+proactif  ».6 Les médecins qui connaissent peu un nouveau médicament sont peu
+susceptibles de le prescrire, mais leur confort et leur confiance dans le médicament
+augmentent à mesure qu'ils en apprennent davantage grâce aux informations détaillées
+et  qu'ils prescrivent de manière sélective les échantillons gratuits fournis par  le
+laboratoire pharmaceutique. De  plus, leurs connaissances  et leur compréhension
+s'améliorent grâce aux présentations lors de conférences et aux articles évalués par des
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             22
+
+## Page 23
+pairs qui rendent compte des essais cliniques du médicament. Tout au long de ce
+processus, la volonté de prescrire est influencée par les progrès réalisés par les
+médecins.
+  Dans le cas du Propecia, Merck s'est également rendu compte que de nombreux
+médecins étaient peu enthousiastes à l'idée de traiter ce qu'ils considéraient comme une
+affection non médicale avec un médicament puissant présentant des effets secondaires
+potentiels importants. Les délégués médicaux de Merck devaient donc surmonter ce
+manque d'enthousiasme et encourager les médecins à au moins envisager de prescrire le
+médicament. Même  si la plupart des médecins ne devenaient pas des défenseurs
+fervents du Propecia, ils devaient au moins être ouverts à la possibilité de le prescrire,
+en particulier si leurs patients le leur demandaient. En d'autres termes, Merck a compris
+que l'objectif de la promotion du Propecia était de transformer les médecins, qui
+risquaient d'être un obstacle ou des opposants, en prescripteurs volontaires, même s'ils
+étaient quelque peu réticents.
+  Merck a également activement envisagé la possibilité d'impliquer les dermatologues
+dans la prise de décision concernant Propecia. Les dermatologues, qui étaient très
+habitués à discuter et à traiter des problèmes esthétiques ne mettant pas la vie en
+danger, étaient susceptibles d'être plus réceptifs aux efforts de Merck pour promouvoir
+Propecia. Leur familiarité avec la perte de cheveux les rendait également plus enclins à
+prescrire le médicament. Mais Merck a également reconnu que les dermatologues
+étaient rarement le premier point de contact des patients préoccupés par la perte de
+cheveux et que les hommes, en particulier, avaient tendance à ne pas consulter
+régulièrement un dermatologue. Ainsi, même si Merck considérait les dermatologues
+comme des alliés potentiels, l'essentiel des efforts de promotion de la société devait se
+concentrer sur les médecins généralistes, qui seraient le premier point de contact pour
+la plupart des hommes cherchant de l'aide pour leur perte de cheveux.
+  En ce qui concerne les consommateurs, Merck a découvert que les hommes chauves
+avaient également tendance à passer par un processus en plusieurs étapes avant
+d'envisager Propecia comme une solution viable à leur problème. Comme indiqué
+précédemment, peu d'hommes prenaient des mesures immédiates pour stopper ou
+inverser leur perte de cheveux, certains se résignant à l'inévitable, d'autres considérant
+cela comme un « problème futur » et d'autres encore recherchant des moyens non
+médicaux pour cacher ou dissimuler leur perte de cheveux. Ce n'est qu'après des mois
+ou des années de déni ou de dissimulation de leur état que la plupart des hommes ont
+cherché un traitement efficace pour enrayer ou inverser leur perte de cheveux. Comme
+Propecia est plus efficace pour maintenir les cheveux que pour les faire repousser,
+Merck a rapidement compris qu'il fallait trouver un moyen d'accélérer le long processus
+de décision des consommateurs. Il fallait encourager les utilisateurs potentiels à agir tôt,
+alors qu'il restait encore des cheveux à sauver, plutôt que plus tard, lorsque la perte de
+cheveux était déjà importante. L'entreprise savait donc qu'elle devait recourir à une
+publicité  persuasive  pour  susciter  un  sentiment  d'urgence,  afin  d'inciter  les
+consommateurs à consulter un médecin et à demander une ordonnance avant qu'ils ne
+perdent trop de cheveux pour que Propecia soit efficace.
+  Merck a compris que, tant pour les médecins que pour les consommateurs, le
+processus de décision d'achat de Propecia  différait de celui de nombreux autres
+médicaments qu'elle commercialisait, pour lesquels les médecins prescrivaient de
+manière proactive un médicament et les patients acceptaient passivement leurs conseils.
+Comme l'illustre l’illustration 7, dans le cas du Propecia, la clé du succès du produit
+réside dans un patient proactif qui recherche activement une solution à sa perte de
+cheveux et un médecin plus passif qui doit prendre en considération la demande du
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             23
+
+## Page 24
+patient. En d'autres termes, les patients souffrant de calvitie sont fortement impliqués
+dans la décision de se faire traiter ou non, laissant à leurs médecins le soin de décider de
+la forme du traitement, et non de la nécessité d'un traitement.
+
+
+ILLUSTRATION 7
+Le processus décisionnel : des patients proactifs et des médecins réactifs
+
+
+
+
+
+Source : Reproduit à partir de Harvard Business School, « PROPECIA™ : Helping Make Hair Loss History », 506-053, par Marta Wosinska.
+Copyright © 2004 par le président et les membres du Harvard College ; tous droits réservés.
+
+
+Mise en œuvre de la stratégie marketing
+S'appuyant sur  l'analyse que nous venons de  décrire brièvement du processus
+décisionnel et des unités décisionnelles, Merck a lancé Propecia en janvier 1998. La
+campagne a débuté par une campagne d'information de trois mois visant à sensibiliser
+les médecins au médicament et à les préparer à recevoir les patients. Un mois après le
+lancement, grâce à une large couverture médiatique du nouveau médicament, Propecia a
+atteint un niveau de notoriété auprès des consommateurs que la direction n'avait pas
+prévu d'atteindre avant douze mois. En avril 1998, la société a lancé une campagne
+publicitaire directe auprès des consommateurs, utilisant des publicités montrant des
+hommes aux premiers stades de la perte de cheveux. Ces publicités visaient à signaler
+que le médicament était principalement destiné à prévenir la perte de cheveux plutôt
+qu'à favoriser leur repousse. À la fin de l'année, Propecia avait atteint un taux de
+notoriété remarquable de 90 % sur son marché cible, et les ventes de la première année
+ont atteint 72 millions de dollars.
+
+
+
+Comme l'illustre l'exemple de Merck, les phases et les interactions qui composent le
+processus de décision du consommateur peuvent varier, souvent en fonction du type de
+produit ou de service proposé. De plus, tout au long de cette lecture, nous avons
+cartographié les phases du processus de décision du consommateur et présenté les
+principaux acteurs de l'unité de décision du consommateur. Nous avons également
+présenté plusieurs cadres conceptuels importants pour comprendre le comportement
+des consommateurs et le processus d'achat en général.
+   Bien sûr, cette lecture ne doit pas être considérée comme complète ou exhaustive. De
+nombreux cadres conceptuels ont été développés au fil des ans pour expliquer pourquoi
+et comment les consommateurs prennent leurs décisions d'achat. Cette lecture vise
+plutôt à souligner que, même si les décisions des consommateurs varient, elles le font
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             24
+
+## Page 25
+souvent de manière systématique et prévisible. Les consommateurs qui utilisent un style
+cognitif pour prendre leurs décisions auront tendance à se comporter d'une certaine
+manière, tandis que ceux qui utilisent un style émotionnel auront tendance à se
+comporter différemment. Le processus décisionnel des personnes très impliquées sera
+différent de celui des personnes peu impliquées. Et bien qu'il n'existe pas de modèle
+unique  et  simple  pour comprendre  le comportement  des  consommateurs,  les
+entreprises qui s'efforcent de comprendre le « comment » et le « pourquoi » du
+comportement des consommateurs peuvent considérablement augmenter leurs chances
+de développer une activité durable et rentable.
+  Dans la lecture complémentaire (y compris les vidéos d'exemple) qui suit, nous
+explorons comment  le paysage technologique continue  d'évoluer,  influençant de
+manière significative le comportement des consommateurs.
+
+
+3 LECTURES COMPLÉMENTAIRES
+
+
+   3.1 Les forces qui modifient le comportement des consommateurs
+                        et le processus d'achat
+
+
+Trois  évolutions du  paysage  marketing  (les  réseaux  sociaux,  la  co-création  et
+l'implication des consommateurs, ainsi que le marketing « conscient ») influencent le
+comportement des consommateurs et  le processus d'achat au XXIe  siècle.  Si  les
+spécialistes du  marketing  avisés  doivent  toujours  tenir  compte  des  principes
+fondamentaux décrits dans la lecture essentielle, ces évolutions récentes impliquent
+qu'ils doivent interagir avec leurs clients de manière nouvelle et en constante évolution.
+
+
+Réseaux sociaux
+L'utilisation des réseaux sociaux par les consommateurs a un impact considérable sur
+leur processus décisionnel et sur l'unité décisionnelle. Alors qu'un acheteur pouvait
+auparavant consulter quelques amis ou collègues hors ligne avant d'effectuer un achat,
+des sites web tels que Facebook permettent désormais aux consommateurs de consulter
+facilement l'ensemble de leur réseau d'amis et de connaissances avant de procéder à
+l'achat le plus insignifiant (« Quelle coque d'iPhone préférez-vous ? »). Il n'est donc pas
+surprenant que les entreprises aient réagi en renforçant leur présence sur les réseaux
+sociaux, notamment en incitant les consommateurs à « aimer » leurs marques sur
+Facebook afin de faire connaître la popularité de leurs produits aux autres membres du
+réseau de leurs consommateurs.
+   Mais c'est peut-être dans la phase post-achat du processus d'achat que l'effet des
+réseaux sociaux est le plus évident. Avant l'arrivée d'Internet, les consommateurs déçus
+ou insatisfaits de leurs achats disposaient de recours limités et souvent inefficaces. Ils
+pouvaient se plaindre à leurs amis, attendre indéfiniment en ligne pour parler à un
+représentant du service clientèle ou signaler leurs préoccupations à des organisations
+dont la mission est de protéger les intérêts des consommateurs. En revanche, les réseaux
+sociaux permettent aux consommateurs de diffuser leur insatisfaction à grande échelle.
+Dans un exemple bien connu, un musicien nommé Dave Carroll s'est vu casser sa guitare
+par United Airlines pendant un vol. Après avoir tenté pendant neuf mois d'obtenir une
+compensation, il a écrit une chanson sur son calvaire et l'a publiée sur YouTube7 (voir
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             25
+
+## Page 26
+vidéo 1). La vidéo a été visionnée 150 000 fois en une journée, et United a rapidement
+contacté Carroll dans un effort tardif pour répondre à sa réclamation. Malgré les efforts
+de l'organisation, la vidéo a continué à faire le buzz, enregistrant quelque trois millions
+de vues en une semaine. Plusieurs autres vidéos « United Breaks Guitars » ont été
+réalisées, et l'histoire est désormais même disponible sous forme de livre.
+
+
+VIDÉO 1 United Breaks Guitars
+
+Source : Vidéo gracieusement fournie par Dave Carroll Music, Big Break Enterprises, Inc. et Curve Productions, Inc.
+
+
+  De  telles expériences ont appris à de nombreuses organisations à consacrer
+davantage de personnel au service clientèle afin de surveiller les fils X (ancien Twitter) à
+la recherche de signes de mécontentement des clients, puis à contacter rapidement les
+clients insatisfaits afin de minimiser les dommages (voir vidéo 2).
+
+
+VIDÉO 2 Utiliser les réseaux sociaux pour écouter les clients
+
+
+   Pour utiliser efficacement les réseaux sociaux, une entreprise doit comprendre
+pourquoi les consommateurs utilisent ces médias. Par exemple, une étude a montré que
+les entreprises se trompent souvent sur ce que les consommateurs attendent d'elles en
+ligne et supposent que les consommateurs rejoignent le site d'une organisation sur les
+réseaux sociaux pour appartenir à une communauté et se sentir ainsi connectés à la
+marque. Mais en réalité, les consommateurs ne sont guère intéressés par l'établissement
+d'une relation avec une entreprise au-delà de la simple transaction. Les principales
+raisons qui les poussent à se connecter en ligne sont l'obtention d'informations et de
+réductions, ainsi que l'achat de produits ou de services.8
+
+
+Cocréation et implication des consommateurs
+De plus en plus d'entreprises impliquent leurs clients dans la cocréation de produits, de
+services et même de supports marketing. Par exemple, depuis plusieurs années, Doritos
+fait appel à l’externalisation ouverte (crowdsourcing) pour ses publicités diffusées
+pendant le Super Bowl, en encourageant les consommateurs à créer des publicités et qui
+peuvent les aider à remporter jusqu'à 1 million de dollars. L'une des finalistes les plus
+connues de 2013, « Goat for Sale », mettait en scène la relation tumultueuse d'un homme
+avec la chèvre qu'il venait d'acheter.
+   D'autres organisations impliquent les consommateurs dans le développement, la
+sélection et la fabrication des produits. Sur Threadless.com, un site de vente en ligne de
+t-shirts, les consommateurs soumettent des designs de t-shirts, la communauté vote
+pour ses préférés et l'entreprise fabrique les t-shirts les mieux notés.9 (Voir vidéo 3.)
+Une entreprise automobile naissante, Local Motors, va encore plus loin. Elle fait appel à
+l’externalisation ouverte pour la conception de ses modèles et utilise le vote de la
+communauté pour sélectionner les modèles gagnants. Elle demande également aux
+consommateurs, souvent des passionnés d'automobile, de réaliser eux-mêmes une
+grande partie de l'assemblage de la voiture, avec l'aide d'ingénieurs et de fabricants.10
+Bien sûr, la cocréation s'accompagne d'une multitude de défis : les entreprises qui font
+appel à l’externalisation pour leurs messages marketing et leurs produits courent le
+risque de diluer la cohésion de leur message de marque et/ou la cohérence de leurs
+gammes de  produits. Par conséquent,  les  organisations  intelligentes  utilisent  la
+cocréation de manière stratégique tout en conservant un contrôle suffisant.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             26
+
+## Page 27
+VIDÉO 3 Exploiter la créativité
+
+
+
+Marketing « conscient »
+Les consommateurs sont de plus en plus soucieux d'acheter des produits et services
+socialement et écologiquement responsables. Dans une étude menée aux États-Unis, par
+exemple, 9 personnes sur 10 se sont décrites comme des « consommateurs conscients »
+et ont déclaré être plus enclines à acheter auprès d'entreprises qu'elles considéraient
+comme de bons gestionnaires sociaux et environnementaux.11 De plus, 89 % des
+milléniaux, généralement définis comme les personnes nées entre 1983 et 2000, ont
+déclaré être susceptibles de se tourner vers une marque associée à une bonne cause.12
+   Les efforts des entreprises pour répondre aux attentes de ces consommateurs ont
+commencé à se multiplier dans les années 1980 avec les programmes de marketing lié à
+une cause (dans lesquels des organisations à but lucratif et à but non lucratif s'associent
+pour leur bénéfice mutuel). La première campagne de ce type a peut-être été la
+promotion réussie d'American Express pour la Statue de la Liberté, dans le cadre de
+laquelle l'entreprise a reversé un pourcentage des achats effectués par ses clients avec
+leur carte de crédit à la restauration de la Statue de la Liberté. De nombreuses grandes
+marques ont suivi le mouvement. En 2009, par exemple, PepsiCo a lancé son « Pepsi
+Refresh Project », une initiative dans le cadre de laquelle Pepsi a réaffecté 20 millions de
+dollars destinés à la publicité pendant le Super Bowl à des causes chères à ses clients.13
+   Grâce à cette tendance, les consommateurs sont de plus en plus enclins à prendre en
+compte dans leurs décisions d'achat des facteurs tels que l'empreinte carbone d'une
+entreprise, ses pratiques d'approvisionnement en matières premières, le traitement
+qu'elle réserve à ses employés et sa contribution aux communautés dans lesquelles elle
+opère. En cherchant à « acheter vert » ou à acheter auprès d'entreprises qui «réussissent
+en faisant le bien», les consommateurs peuvent mener davantage de recherches sur les
+produits et  les entreprises qu'auparavant, et  ils peuvent  s'efforcer davantage de
+s'assurer  que  leurs  achats  correspondent  à  leurs  valeurs.  Pour  séduire  ces
+consommateurs et d'autres qui partagent les mêmes valeurs, les entreprises doivent non
+seulement affirmer qu'elles sont socialement et écologiquement responsables dans leurs
+pratiques commerciales, mais aussi le prouver aux consommateurs. Une fois encore, la
+volonté de PepsiCo d'allouer des millions de dollars aux causes chères à ses clients
+démontre que l'entreprise s'implique réellement.
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             27
+
+## Page 28
+4 TERMES CLÉS
+
+Prise de décision cognitive Décisions d'achat          Prise de décision à faible implication
+qui impliquent un traitement délibératif et           Décisions d'achat qui nécessitent peu
+fondé sur des informations des                          d'efforts, se prennent rapidement et sont
+caractéristiques pertinentes du produit.             perçues par les consommateurs comme
+                                                 présentant un faible risque
+Prise de décision compensatoire Décisions
+d'achat dans lesquelles les consommateurs            Prise de décision non compensatoire
+prennent en compte (ou tentent de prendre          Décisions d'achat dans lesquelles les
+en compte) tous les attributs pertinents, en         consommateurs prennent en compte
+faisant des compromis entre ces attributs.            certains attributs d'un produit, mais pas
+                                                        tous, et ignorent les compromis potentiels
+Unité décisionnelle Ensemble d'individus            entre ces attributs ; le fait qu'un produit
+qui affectent, influencent et participent à             n'atteigne pas un seuil acceptable pour un
+une décision d'achat                                   attribut ne peut être compensé par des
+                                               performances élevées pour d'autres
+Prise de décision émotionnelle Décisions              attributs
+d'achat qui impliquent une préférence
+subjective pour une option plutôt qu'une              Prise de décision optimisante Décisions
+autre                                               d'achat dans lesquelles les consommateurs
+                                                  sont motivés à acheter la meilleure
+Prise de décision à forte implication                   alternative possible.
+Décisions d'achat dans lesquelles l'acheteur
+est pleinement impliqué, la prise de décision          Prise de décision « satisfaisante » Décisions
+tend à être difficile, le délai tend à être               d'achat dans lesquelles les consommateurs
+relativement long et les conséquences d'un          se contentent d'une alternative «
+bon ou d'un mauvais choix tendent à être           suffisamment bonne » ou qui dépasse un
+importantes et visibles                               certain seuil acceptable.
+
+
+5 POUR ALLER PLUS LOIN
+
+Ariely, Dan, et Michael I. Norton. « Conceptual Consumption ». Annual Review of Psychology 60
+   (janvier 2009) : 475-499.
+
+Gneezy, Ayelet, Alex Imas, Amber Brown, Leif D. Nelson et Michael I. Norton. « Paying To Be Nice:
+  Consistency and Costly Prosocial Behavior » (Payer pour être gentil : cohérence et
+  comportement prosocial coûteux). Management Science 58 (janvier 2012) : 179-187.
+
+Gourville, John T. « Eager Sellers and Stony Buyers: Understanding the Psychology of New-Product
+  Adoption » (Vendeurs enthousiastes et acheteurs réticents : comprendre la psychologie de
+   l'adoption des nouveaux produits). Harvard Business Review 84 (juin 2006) : 99-106.
+
+Gourville, John T. et Dilip Soman. « Overchoice and Assortment Type: When and Why Variety
+   Backfires » (Surcharge de choix et type d'assortiment : quand et pourquoi la variété se retourne
+  contre vous). Marketing Science 24 (été 2005) : 382-395.
+
+Gourville, John T. et Dilip Soman. « Pricing and the Psychology of Consumption » (La tarification et
+   la psychologie de la consommation). Harvard Business Review 80 (septembre 2002) : 90-96.
+
+Kumar, V., Rajkumar Venkatesan et Werner Reinartz. « Knowing What to Sell, When, and to Whom
+  » (Savoir quoi vendre, quand et à qui). Harvard Business Review 84 (mars 2006) : 131-137.
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             28
+
+## Page 29
+Norton, Michael I., Daniel Mochon et Dan Ariely. « The IKEA Effect: When Labor Leads to Love »
+   (L'effet IKEA : quand le travail mène à l'amour). Journal of Consumer Psychology 22 (juillet
+  2012) : 453-460.
+
+Thompson, Debora V. et Michael I. Norton. « The Social Utility of Feature Creep » (L'utilité sociale
+  de la dérive des fonctionnalités). Journal of Marketing Research 48 (juin 2011) : 555-565.
+
+
+6 NOTES
+
+ 1 Leo McGinneva, cité par Theodore Levitt, The Marketing Imagination, nouvelle édition augmentée (New York
+      : The Free Press, 1986), p. 128.
+
+ 2 Phillip Nelson, « Information and Consumer Behavior », Journal of Political Economy 78 (mars-avril 1970) :
+   311– 329.
+
+ 3 « What Is the Shelf Life of McCormick Products? », http://mccormick.custhelp.com/app/answers/detail/,
+   consulté le 3 janvier 2014 ; McCormick & Company, Incorporated, Rapport annuel 2006 (Sparks, MD :
+   McCormick & Company, Incorporated, 2007), p. 21 ; Lorie Hutson, « Spice Up Dishes with Dash of Self-Care
+    », McClatchy–Tribune Business News, 20 septembre 2006, p. 1.
+
+ 4 Donny Nordlicht, « New 2013 Ram 1500 Adverts Go Retro », Automobile, 15 août 2012,
+   http://www.automobilemag.com/features/news/new-2013-ram-1500-adverts-go-retro-163219/,
+   consulté le 28 janvier 2014.
+
+ 5 Section adaptée de Marta Wosinska et Youngme Moon, « PROPECIA™ : Helping Make Hair Loss History »,
+   505-035 (Boston : Harvard Business School, 2004) ; Marta Wosinska, « PROPECIA™ : Helping Make Hair
+   Loss History », 506-053 (Boston : Harvard Business School, 2004).
+
+ 6 Marta Wosinska, « PROPECIA™ : Helping Make Hair Loss History », 506-053 (Boston : Harvard Business
+    School, 2004), pp. 7-8.
+
+ 7 John A. Deighton et Leora Kornfeld, « United Breaks Guitars », 510-057 (Boston : Harvard Business School,
+   2010).
+
+ 8 Patrick Spenner et Karen Freeman, « To Keep Your Customers, Keep It Simple », Harvard Business Review
+   90 (mai 2012) : 5.
+
+ 9 Karim R. Lakhani et Zahra Kanji, « Threadless: The Business of Community », 608-707 (Boston : Harvard
+   Business School, 2008).
+
+10 Michael I. Norton et Jeremy B. Dann, « Local Motors : Designed by the Crowd, Built by the Customer », 510-
+   062, (Boston : Harvard Business School, 2010) ; Larry Edsall, « For This Car Company, All Business Is Local
+    », AutoWeek, 18 mai 2009, p. 12.
+
+11 Raphael Bemporad et Mitch Baranowski, Conscious Consumers Are Changing the Rules of Marketing. Are You
+   Ready? Highlights from the BBMG Conscious Consumer Report (New York : BBMG, 2007), p. 1.
+
+12 Cone Inc./AMP Insights, The 2006 Millennial Cause Study, p. 3, cité dans Ron Nixon, « Bottom Line for
+   (RED) », The New York Times, 6 février 2008,
+   http://www.nytimes.com/2008/02/06/business/06red.html?pagewanted=
+    all&_r=0, consulté le 29 janvier 2014. Aux fins de l'étude Cone, les milléniaux ont été définis comme des
+   personnes âgées de 13 à 25 ans en 2006.
+
+13 Michael I. Norton et Jill Avery, « The Pepsi Refresh Project: A Thirst for Change », 512-018 (Boston :
+   Harvard Business School, 2011).
+
+
+
+
+
+8167 | Lecture fondamentale : COMPORTEMENT DES CONSOMMATEURS ET PROCESSUS D'ACHAT             29

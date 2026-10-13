@@ -1,0 +1,573 @@
+## Diapositive 1
+
+Chapitre 7: le marché obligataire
+
+
+
+## Diapositive 2
+
+Plan de présentation
+
+Introduction à l’évaluation de titre
+Les obligations
+Obligation: description
+Obligation: son évaluation
+Obligation: la notion de durée
+
+## Diapositive 3
+
+Introduction: l’évaluation de titre
+
+Nous avons vu que la valeur de tous les actifs financiers est déterminée par les flux monétaires futurs liés à cet actif :
+
+
+
+	
+Ainsi, tous les actifs financiers peuvent être évalués à l’aide des seuls trois formules vues précédemment: le montant simple, l’annuité et la perpétuité
+
+
+
+
+## Diapositive 4
+
+Obligation: description
+
+Une obligation est un titre de dette (créance) par lequel l’émetteur s’engage à verser le capital et les intérêts dans le futur
+L’émetteur peut être un gouvernement (fédéral, provincial ou municipal) ou une entreprise
+Le document légal émis par l’émetteur: acte de fiducie
+L’obligation est garantie par un actif qui permet au détenteur de l’obligation de saisir en cas de défaut de paiement
+Le document légal émis par l’émetteur: acte de fiducie
+Les émissions gouvernementales sont garanties par la capacité de taxation de celle-ci
+Lorsqu’aucun actif n’est adossé, l’obligation s’appelle plutôt une débenture
+
+
+## Diapositive 5
+
+Obligation: description
+
+L’obligation traditionnelle verse les intérêts (aussi appelé coupon) à tous les 6 mois et le capital est remboursé à l’échéance
+
+
+
+
+L’obligation peut rembourser intérêt et capital à l’échéance
+
+## Diapositive 6
+
+Titre à revenu fixe
+
+Obligation: catégorie des titres à revenu fixe les FMs sont fixés à l’avance et resteront les mêmes tout au long de la durée de vie de l’obligation pour l’obligation traditionnelle, on retrouve 2 types de FMs qui seront versés au prêteur :
+
+Valeur nominale (emprunt, habituellement 1 000 $)
+Coupons (intérêts, habituellement versé aux semestres)
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 7
+
+Obligation : son évaluation
+
+Le zéro-coupon
+
+
+
+L’obligation conventionnelle
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Valeur nominale (VN)
+
+## Diapositive 8
+
+Obligation: son évaluation
+
+Exemple de valorisation : une obligation nord-américaine d’une valeur nominale de 1 000 $ porte un taux de coupon de 5 %, et vient à échéance dans exactement 12 ans. Si vous exigez un TRE (taux de rendement à l’échéance) de 8 %, quelle est la valeur au marché de l’obligation? (rép: 771,30 $)
+
+
+
+
+	Note: Sauf indication contraire, l’obligation (type nord-américaine) verse toujours des coupons semestriels, donc TC et TRE sont des taux nominaux à capitalisation semestrielle.
+
+## Diapositive 9
+
+Obligation: son évaluation
+
+
+
+
+
+## Diapositive 10
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+## Diapositive 11
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+## Diapositive 12
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+3%
+
+## Diapositive 13
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+3%
+
+## Diapositive 14
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRE
+
+=>
+
+Prix
+
+
+
+
+
+
+
+
+
+Obligation au pair
+
+## Diapositive 15
+
+Obligation: son évaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRE
+
+=>
+
+Prix
+
+
+
+
+
+
+
+
+
+Obligation au pair
+
+à prime
+
+à escompte
+
+## Diapositive 16
+
+Obligation: autres caractéristiques
+
+Obligation avec clauses optionnelles:
+Obligation rétractable
+	Le détenteur peut retourner le titre (prix et période spécifiée)
+Obligation rachetable
+	L’émetteur peut racheter le titre (prix et période spécifiée)
+Obligation convertible
+	Le détenteur peut convertir le titre en actions (ratio et pér. spécifiée)
+Points de base: hausse de 50 points de base = hausse de 0,50 %
+Lecture de la cotation d’une obligation
+
+Émetteur | Taux de coupon | Échéance | Cote | TRE
+
+Gouv du QC | 8,25% | 1er août 2028 | 129.75 | 6.49%
+
+## Diapositive 17
+
+Obligation: autres caractéristiques
+
+Prix de l’obligation vs caractéristiques
+Toutes choses étant égales par ailleurs, prix + ou – élevé qu’une obligation traditionnelle:
+Option de rétractation	
+Option de rachat			
+Option de conversion		
+Liquidité élevé du titre
+Meilleure cote de crédit
+
+Prix
+
++
+-
++
++
++
+
+## Diapositive 18
+
+Obligation: autres caractéristiques
+
+## Diapositive 19
+
+Obligation: risque de crédit
+
+Risque de crédit: représente la probabilité que l’émetteur fasse défaut sur les paiements. Cette probabilité est représentée par une cote de crédit
+
+Les cotes de crédit sont émises par les agences de crédit
+
+Les cotes sont révisées selon l’évolution de la firme et l’évolution de l’économie
+
+## Diapositive 20
+
+Obligation: risque decrédit
+
+Exemple de cote de crédit selon 3 types d’agence de crédit :
+
+Standard & Poor’s
+Moody’s
+Fitch
+
+Pour l’investisseur : 2 catégories
+
+Obligation de qualité
+Investment grade
+Obligation de pacotille
+Non-investment grade
+High-yield bond
+Junk bond
+
+
+Source: wwwmarketdeal.com
+
+## Diapositive 21
+
+Obligation: cote de crédit pour certains pays & entreprisesBanque centrale du Canada (2016) et Globe & Mail (2012)
+
+## Diapositive 22
+
+Obligation: risque de crédit
+
+Matrice de transition & défauts
+
+
+
+
+
+Whitdrawn
+
+Défaut
+
+## Diapositive 23
+
+Effet Fisher
+
+(1 + rNominal) = (1 + rRéel)(1 + hInflation)
+
+Approx:    rNominal   =   rRéel   +    hInflation
+
+Inflation : augmentation des prix dans le temps
+Rendement réel : rendement obtenu après inflation
+Rendement nominal : rendement d’un investissement (supposez le annuel)
+
+Ex.: On place 10 $ pour un an à un taux de 8 % plutôt que de s’acheter un sac de lait qui coûte également 10 $. Un an plus tard, le sac de lait vaut 10,30 $. Décomposez le rendement nominal.
+
+## Diapositive 24
+
+Structure à terme des taux d’intérêt
+
+La courbe des taux d’intérêt représente en quelque sorte l’anticipation des taux d’intérêt dans le futur :
+
+Courbe normale : hausse anticipé des taux d’intérêt
+
+Pentification : la hausse sera plus marquée qu’initialement anticipée
+
+Aplatissement : la hausse des taux sera moins marquée qu’initialement anticipée (ou aucune hausse)
+
+Inversion : réduction anticipé des taux d’intérêt
+
+## Diapositive 25
+
+Structure à terme des taux d’intérêt
+
+La structure (courbe) des taux d’intérêt représente le niveau exigé des taux d’intérêt selon l’échéance de l’obligation.
+
+Graphiquement, on retrouve les éléments du taux de la décomposition de Fisher + la partie risque du taux
+
+Rendement =	Inflation
+Taux réel
+Prime de risque
+
+
+## Diapositive 26
+
+Obligation: la notion de durée
+
+Représente la volatilité du prix de l’obligation par rapport aux taux d’intérêt.
+
+Pour un même taux de coupon :
+	échéance élevée  durée élevée
+
+Pour une même échéance :
+	taux de coupon élevé  durée faible
+
+Aucun calcul de durée n’est requis.
+
+## Diapositive 27
+
+Représentation de la durée
+
+Durée: FMs moyens pondérés par le temps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 28
+
+Représentation de la durée
+
+Durée : FMs moyens pondérés par le temps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Point d’équilibre
+= Durée de l’obligation
+
+## Diapositive 29
+
+Représentation de la durée
+
+Durée: FMs moyens pondérés par le temps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 30
+
+Représentation de la durée
+
+Durée: FMs moyens pondérés par le temps
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 31
+
+Pour un gestionnaire de PF obligataire
+
+## Diapositive 32
+
+Deux risques à ne pas confondre
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 33
+
+Exercice 1
+
+Il y a 6 ans, une obligation de type nord-américaine a été émise aux conditions suivantes:
+Échéance : 20 ans
+Taux de rendement à l’échéance : 8 %
+Valeur nominale : 1 000 $
+
+Quel est le taux de coupon (probable)?
+Quel était alors le prix au marché (probable)?
+Quel est le prix si le TRE est de 9,5 %? (889,35$)
+À combien les taux (TRE) devrait-il se situer pour que l’obligation se transige à 1 030 $ (établir l’équation(7,632…%))
+
+## Diapositive 34
+
+Exercice 2
+
+Pour des raisons de liquidité, un émetteur projette émettre une obligation dont le versement des coupons semestriels ne débutera que dans exactement 3 ans. Le taux de coupon de cette obligation et le taux de rendement à l’échéance serait de 8 %. L’échéance prévue est de 10 ans.
+
+À quel prix devrait se faire cette émission de titre? (821,93$)
+L’émetteur convient plutôt d’émettre des obligation de type zéro-coupon. 
+Quel serait alors le prix du titre à l’émission? (456,39$)
+
+## Diapositive 35
+
+Exercice 3
+
+Il est possible de retrouver le cours des obligations à partir des taux affichés.
+Quel serait le prix affiché (cours) pour certains titres suivants?
+
+## Diapositive 36
+
+Exercice 4
+
+Un conseiller financier doit acheter une obligation émise par le gouvernement du Canada à un client. Il a retenu les 4 titres suivants :
+
+
+
+
+
+S’il anticipe une baisse générale des taux d’intérêt (uniforme selon les échéances), quelle obligation devrait-il privilégier? (D)
+Et qu’en serait-il s’il anticipait une hausse des taux? (A)
+
+
+Obligation | Taux de coupon | Échéance
+
+A | 6 % | Sept. 2017
+
+B | 3 % | Sept. 2017
+
+C | 6 % | Sept. 2030
+
+D | 3 % | Sept. 2030
+
+## Diapositive 37

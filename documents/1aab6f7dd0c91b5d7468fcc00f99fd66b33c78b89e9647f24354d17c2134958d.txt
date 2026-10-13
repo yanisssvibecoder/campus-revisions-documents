@@ -1,0 +1,1513 @@
+Corrigé du chapitre 8 — Actions (exercices quiz)
+🌙
+Finance FINA10200 · Chapitre 8 · pages 260–262 · préparation quiz
+L'évaluation des
+actions
+Corrigé complet et pas-à-pas des exercices demandés pour le quiz :
+1, 4, 8, 10, 11, 12, 13, 15, 16, 17, 19, 20 et 23
+. Pour chacun : énoncé propre, schéma temporel, formule en entier avec les valeurs substituées, séquence
+BA II Plus
+et réponse encadrée.
+Consignes du prof à respecter dans chaque démarche :
+Écrire
+la formule en entier avec les valeurs substituées
+avant le résultat — une démarche « N=, PMT= » seule est refusée.
+Toujours tracer le
+schéma temporel
+(t=0, D
+1
+, D
+2
+, …).
+Par défaut (rien de précisé) :
+dividendes annuels
+et
+taux effectifs
+.
+« Vient tout juste d'être versé » ou « prochain dividende dans exactement une période » → premier flux à
+t = 1
+, et D
+1
+= D
+0
+× (1+g).
+Le modèle de Gordon donne le prix
+une période avant le premier versement
+de la phase constante.
+Croissance non constante :
+décomposition
+(dividendes explicites + Gordon à la date de stabilisation + actualisation du tout).
+Les trois formules du chapitre
+tout le chapitre 8 se résout avec la perpétuité, Gordon et la décomposition
+P
+0
+=
+D
+1
+/ (
+r
+−
+g
+) =
+D
+0
+(1 + g) / (r − g)
+P
+0
+— le cours
+une période avant le premier versement
+D
+0
+— le dividende
+déjà versé
+(à t = 0)
+D
+1
+— le
+prochain
+dividende (à t = 1)
+r
+— rendement exigé (effectif annuel par défaut)
+g
+— taux de croissance constant des dividendes
+Action privilégiée
+Perpétuité
+Dividende constant versé indéfiniment.
+P
+0
+= D / r
+Et inversement : r = D / P
+0
+. Si les dividendes sont trimestriels, utiliser le taux trimestriel équivalent (ex. r
+trim
+= (1+r)
+1/4
+− 1).
+Croissance constante
+Modèle de Gordon
+Le résultat est trouvé
+une période avant le premier versement
+.
+P
+t
+= D
+t+1
+/ (r − g)
+Prix dans t années
+Le prix croît au taux g
+Si r et g sont constants, le prix suit les dividendes.
+P
+t
+= P
+0
+× (1 + g)
+t
+Croissance non constante
+Décomposition en 3 blocs
+1) actualiser chaque dividende explicite en montant simple; 2) Gordon à la date de stabilisation; 3) actualiser le tout à t = 0.
+P
+0
+= Σ D
+t
+/(1+r)
+t
++ P
+n
+/(1+r)
+n
+Vérification réflexe :
+si r ≤ g dans Gordon, la formule est inapplicable (prix infini ou négatif) — c'est le signal qu'il faut une autre lecture de l'énoncé (phase de transition, date de stabilisation mal placée, etc.). L'annuité en croissance (VAAC de la feuille de formules) reste permise, mais le cours privilégie la
+décomposition
+.
+Notions de base · exercices 1 et 4
+croissance constante : Gordon directement
+1
+La valeur des actions — Jackson-Timberlake
+Gordon + prix futurs
+La société Jackson-Timberlake
+vient tout juste de verser
+un dividende annuel de
+1,95 $
+par action (donc D
+0
+= 1,95 $, premier flux à t = 1). On prévoit que les dividendes augmenteront à un taux constant de
+6 % par année, indéfiniment
+. Si les investisseurs exigent un taux de rendement de
+11 %
+, quel est le cours actuel ? Quel sera le cours
+dans 3 ans
+?
+dans 15 ans
+?
+D1 = 2,0670  D2 = 2,1910  D3 = 2,3227               D16 = 4,9537
+   1,95 $    │           │           │             …             │
+    ●────────────┼───────────┼───────────┼────────────…─────────────┼──────▶  g = +6 %/an, indéfiniment
+   t=0         t=1         t=2         t=3                         t=16
+  (versé)       └── P0 = VA(D1 + D2 + D3 + … à l'infini) au taux r = 11 %
+Étape 1 — le prochain dividende (le dividende versé « vient tout juste » d'être payé → D1 = D0 × (1+g)) :
+D
+1
+= D
+0
+× (1 + g) = 1,95 $ × 1,06 =
+2,0670 $
+Étape 2 — le cours actuel :
+P
+0
+= D
+1
+/ (r − g) = 2,0670 $ / (0,11 − 0,06) = 2,0670 $ / 0,05 =
+41,34 $
+Étape 3 — le cours dans 3 ans (deux démarches équivalentes) :
+a)
+P
+3
+= D
+4
+/ (r − g)  avec  D
+4
+= D
+0
+× (1 + g)
+4
+= 1,95 $ × 1,06
+4
+= 1,95 $ × 1,262477 = 2,4618 $
+P
+3
+= 2,4618 $ / 0,05 =
+49,24 $
+b)
+P
+3
+= P
+0
+× (1 + g)
+3
+= 41,34 $ × 1,06
+3
+= 41,34 $ × 1,191016 =
+49,24 $
+(le prix croît au même taux g que les dividendes)
+Étape 4 — le cours dans 15 ans :
+P
+15
+= P
+0
+× (1 + g)
+15
+= 41,34 $ × 1,06
+15
+= 41,34 $ × 2,396558 =
+99,07 $
+vérif. :
+P
+15
+= D
+16
+/ (r − g) = (1,95 × 1,06
+16
+) / 0,05 = 4,9537 $ / 0,05 =
+99,07 $
+✔
+Réponse — P0
+41,34
+$
+Réponse — P3
+49,24
+$
+Réponse — P15
+99,07
+$
+BA II Plus — P3 et P15 par capitalisation
+2ND
+FV
+·
+3
+N
+·
+6
+I/Y
+·
+41.34
++/−
+PV
+·
+0
+PMT
+·
+CPT
+FV
+→
+49,2366
+puis
+15
+N
+·
+CPT
+FV
+→
+99,0737
+À retenir :
+« vient tout juste d'être versé » → D
+0
+est donné et le premier flux est à t = 1; et si r et g sont constants, le
+prix croît au taux g
+: P
+t
+= P
+0
+(1+g)
+t
+.
+4
+La valeur des actions — Échasses
+Gordon
+La société Échasses
+versera un dividende de 3,04 $ par action l'année prochaine
+(donc D
+1
+= 3,04 $ est déjà le prochain dividende — inutile de le faire croître). L'entreprise promet d'augmenter ses dividendes de
+3,8 % par année, indéfiniment
+. Si vous exigez un rendement de
+11 %
+, quel sera le cours des actions en date d'aujourd'hui ?
+D1 = 3,04 $  D2 = 3,1555 $  D3 = 3,2754 $              D∞
+    ●────────────┼─────────────┼──────────────┼────────────…──────────────┼───▶  g = +3,8 %/an, indéfiniment
+   t=0         t=1           t=2            t=3
+  (aucun flux)   └── P0 = VA(D1 + D2 + D3 + …) au taux r = 11 %   (D1 donné tel quel)
+Formule en entier avec substitution directe (D1 est déjà donné) :
+P
+0
+= D
+1
+/ (r − g) = 3,04 $ / (0,11 − 0,038) = 3,04 $ / 0,072 =
+42,22 $
+Réponse — P0
+42,22
+$
+BA II Plus — opération simple
+3.04
+÷
+(
+0.11
+−
+0.038
+)
+=
+→
+42,2222
+Piège classique :
+« versera l'année prochaine » = D
+1
+. On ne multiplie
+pas
+par (1+g). On ne multiplie que quand l'énoncé donne D
+0
+(« vient de verser »).
+À retenir :
+identifier si le dividende donné est D
+0
+(→ ×(1+g)) ou D
+1
+(→ substitution directe) avant d'appliquer Gordon.
+Notions intermédiaires · exercices 8 et 10 à 17
+perpétuités, dividendes nuls ou variables, croissance négative, formule inversée
+8
+L'évaluation des actions privilégiées — Ayden
+Chercher r
+La société Ayden inc. possède des actions privilégiées en circulation dont le dividende est de
+5,50 $ par année
+. Si les actions se vendent actuellement
+108 $
+chacune, quel est le rendement exigé ?
+5,50 $    5,50 $    5,50 $              5,50 $
+     │         │         │    …    │
+   ──●─────────●─────────●─────────●──▶  dividende CONSTANT, indéfiniment (perpétuité)
+   t=0       t=1       t=2                P0 = 108 $ (donné)  →  r = D / P0
+Action privilégiée = perpétuité, P0 = D / r, qu'on isole pour r :
+r = D / P
+0
+= 5,50 $ / 108 $ = 0,050926 =
+5,09 %
+Réponse — r
+5,09
+%
+BA II Plus — opération simple
+5.50
+÷
+108
+=
+→
+0,050926
+À retenir :
+action privilégiée = perpétuité → P
+0
+= D/r; connaître deux des trois termes donne le troisième (ici r = D/P
+0
+).
+10
+La croissance variable — Métallique
+Gordon différé
+La société Métallique est une jeune entreprise. Elle
+ne versera aucun dividende au cours des 9 prochaines années
+(bénéfices réinvestis). Elle versera ensuite un dividende annuel de
+10 $ par action à la dixième année
+, pour l'augmenter par la suite de
+5 % par année, indéfiniment
+. Si le rendement exigé est de
+14 %
+, quel est le cours actuel de l'action ?
+D1 … D9 = 0 $          D10 = 10,00 $   D11 = 10,50 $   D12 = 11,03 $ …  (+5 %/an, indéfiniment)
+    ●──────────…──────────────────┼───────────────┼───────────────┼──▶
+   t=0                            t=10            t=11            t=12
+    ↑ 9 années sans dividende     ↑ Gordon s'applique à t = 9, UNE période avant D10
+Étape 1 — Gordon à t = 9 (une période avant le premier versement de la phase constante) :
+P
+9
+= D
+10
+/ (r − g) = 10 $ / (0,14 − 0,05) = 10 $ / 0,09 =
+111,11 $
+Étape 2 — actualisation de P9 à aujourd'hui (montant simple, 9 périodes) :
+P
+0
+= P
+9
+/ (1 + r)
+9
+= 111,11 $ / (1,14)
+9
+= 111,11 $ / 3,251949 =
+34,17 $
+Réponse — P0
+34,17
+$
+BA II Plus — actualisation de P9
+2ND
+FV
+·
+9
+N
+·
+14
+I/Y
+·
+111.11
+FV
+·
+0
+PMT
+·
+CPT
+PV
+→
+−34,1675
+Le prix sort en
+négatif
+sur la calculatrice (c'est un placement), sa valeur est 34,17 $.
+À retenir :
+Gordon se place
+une période avant le premier versement
+de la phase constante — ici D
+10
+→ P
+9
+, puis on actualise 9 ans pour revenir à t = 0.
+11
+Les dividendes variables — Spears Inc.
+Flux explicites
+La société Spears Inc.
+vient tout juste de verser
+un dividende annuel de
+6 $
+par action et a annoncé qu'elle compte
+augmenter ce dividende de 4 $ par action au cours de chacune des 5 prochaines années
+, puis de
+cesser entièrement
+de payer des dividendes. Si vous exigez un rendement de
+11 %
+, combien vous coûtera une action aujourd'hui ?
++4 $        +4 $        +4 $        +4 $        +4 $
+   6 $ ──▶  10 $        14 $        18 $        22 $        26 $        0 $  …  0 $
+    ●──────────●───────────●───────────●───────────●───────────●───────────×──▶
+   t=0       t=1         t=2         t=3         t=4         t=5         t=6
+  (versé)   D1          D2          D3          D4          D5       cessation → P5 = 0
+Étape 1 — les dividendes prévus (hausse de 4 $ en MONTANT chaque année, pas en %) :
+D
+1
+= 6 $ + 4 $ = 10 $  ·  D
+2
+= 14 $  ·  D
+3
+= 18 $  ·  D
+4
+= 22 $  ·  D
+5
+= 26 $, puis 0 $ à l'infini →
+P
+5
+= 0 $
+Étape 2 — actualisation de chaque dividende en montant simple (aucune perpétuité à ajouter) :
+P
+0
+= D
+1
+/(1+r)
+1
++ D
+2
+/(1+r)
+2
++ D
+3
+/(1+r)
+3
++ D
+4
+/(1+r)
+4
++ D
+5
+/(1+r)
+5
+P
+0
+= 10/(1,11) + 14/(1,11)
+2
++ 18/(1,11)
+3
++ 22/(1,11)
+4
++ 26/(1,11)
+5
+P
+0
+= 9,0090 + 11,3627 + 13,1614 + 14,4921 + 15,4297 =
+63,45 $
+Réponse — P0
+63,45
+$
+BA II Plus — feuille des flux monétaires
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+ENTER
+↓
+·
+C01 =
+10
+ENTER
+↓
+↓
+·
+C02 =
+14
+ENTER
+↓
+↓
+·
+C03 =
+18
+ENTER
+↓
+↓
+·
+C04 =
+22
+ENTER
+↓
+↓
+·
+C05 =
+26
+ENTER
+·
+NPV
+→ I =
+11
+ENTER
+↓
+CPT
+→
+63,4550
+À retenir :
+croissance en
+montant constant
+($ fixe) ≠ croissance en pourcentage : chaque dividende est un flux explicite à actualiser un par un, et « cesser de payer » → rien à ajouter après le dernier versement.
+12
+Les dividendes variables — Côte Nord Corp.
+Flux explicites + Gordon
+La société Côte Nord Corp. prévoit verser les dividendes suivants au cours des 4 prochaines années :
+11 $, 8 $, 5 $ et 2 $
+. Par la suite, la société promet un taux de croissance constant des dividendes de
+5 %, indéfiniment
+. Si le rendement exigé pour ces actions est de
+12 %
+, quel est leur cours actuel ?
+11 $        8 $         5 $         2 $        2,10 $      2,21 $ …  (+5 %/an, indéfiniment)
+    ●───────────●───────────●───────────●───────────●───────────●──▶
+   t=0        t=1         t=2         t=3         t=4         t=5
+   (rien)     D1          D2          D3          D4 ← base de la phase constante :
+                                                    D5 = D4 × 1,05 = 2,10 $ et P4 = D5/(r−g)
+Étape 1 — Gordon à t = 4 (une période avant D5) :
+D
+5
+= D
+4
+× (1 + g) = 2 $ × 1,05 =
+2,10 $
+P
+4
+= D
+5
+/ (r − g) = 2,10 $ / (0,12 − 0,05) = 2,10 $ / 0,07 =
+30,00 $
+Étape 2 — actualisation des 4 dividendes ET de P4 :
+P
+0
+= D
+1
+/(1,12) + D
+2
+/(1,12)
+2
++ D
+3
+/(1,12)
+3
++ (D
+4
++ P
+4
+)/(1,12)
+4
+P
+0
+= 11/(1,12) + 8/(1,2544) + 5/(1,404928) + (2 + 30)/(1,57351936)
+P
+0
+= 9,8214 + 6,3776 + 3,5589 + 20,3366 =
+40,09 $
+Réponse — P0
+40,09
+$
+BA II Plus — feuille des flux (D4 et P4 additionnés à t = 4)
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+·
+C01 =
+11
+·
+C02 =
+8
+·
+C03 =
+5
+·
+C04 =
+32
+(= 2 + 30)
+·
+NPV
+→ I =
+12
+ENTER
+↓
+CPT
+→
+40,0945
+Le 2 $ de l'année 4 compte deux fois
+: une fois comme dividende perçu à t = 4, une fois comme base D
+4
+qui génère la perpétuité croissante. C'est le réflexe clé de la décomposition.
+À retenir :
+le
+dernier dividende explicite
+sert à la fois de flux à sa date et de base (D
+n
+) du Gordon P
+n
+= D
+n+1
+/(r−g).
+13
+La croissance excessive — Rizzi Co.
+2 étapes
+La société Rizzi Co. connaît une croissance très rapide. On prévoit que les dividendes
+augmenteront de 30 % par année au cours des 3 prochaines années
+, pour ensuite
+chuter à un taux constant de 6 %
+. Si le rendement exigé est de
+13 %
+et que la société
+vient tout juste de verser
+un dividende annuel de
+1,80 $
+, quel est le cours actuel de l'action ?
+D0=1,80 $    D1=2,3400   D2=3,0420   D3=3,9546   D4=4,1919   D5=4,4434 … (+6 %/an, indéfiniment)
+    ●─────────────●────────────●────────────●────────────●────────────●──▶
+   t=0          t=1          t=2          t=3          t=4          t=5
+  (versé)      +30 %        +30 %        +30 %         +6 %          +6 %
+                                            ↑ P3 = D4/(r−g) : valeur à t=3 de la phase stable
+Étape 1 — les dividendes de la phase de croissance excessive :
+D
+1
+= D
+0
+× 1,30 = 1,80 $ × 1,30 =
+2,3400 $
+D
+2
+= D
+1
+× 1,30 = 2,3400 $ × 1,30 =
+3,0420 $
+D
+3
+= D
+2
+× 1,30 = 3,0420 $ × 1,30 =
+3,9546 $
+Étape 2 — Gordon à t = 3 (une période avant D4) :
+D
+4
+= D
+3
+× 1,06 = 3,9546 $ × 1,06 =
+4,1919 $
+P
+3
+= D
+4
+/ (r − g) = 4,1919 $ / (0,13 − 0,06) = 4,1919 $ / 0,07 =
+59,88 $
+Étape 3 — actualisation des 3 dividendes et de P3 :
+P
+0
+= D
+1
+/(1,13) + D
+2
+/(1,13)
+2
++ (D
+3
++ P
+3
+)/(1,13)
+3
+P
+0
+= 2,3400/(1,13) + 3,0420/(1,2769) + (3,9546 + 59,8839)/(1,442897)
+P
+0
+= 2,0708 + 2,3823 + 44,2433 =
+48,70 $
+Réponse — P0
+48,70
+$
+BA II Plus — feuille des flux (D3 et P3 additionnés à t = 3)
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+·
+C01 =
+2.34
+·
+C02 =
+3.042
+·
+C03 =
+63.8385
+(= 3,9546 + 59,8839)
+·
+NPV
+→ I =
+13
+ENTER
+↓
+CPT
+→
+48,6964
+À retenir :
+croissance en deux étapes =
+3 blocs
+: dividendes explicites de la phase 1 + Gordon à la date de stabilisation + actualisation de l'ensemble à t = 0.
+15
+La croissance négative — Antiquités
+g négatif
+La société Antiquités est une fabrique qui existe depuis déjà bien longtemps. Elle
+vient tout juste de verser
+un dividende annuel de
+10,46 $
+, mais la direction prévoit
+réduire
+les versements de
+4 % par année, indéfiniment
+. Si vous exigez un rendement de
+11,5 %
+, combien vous coûte une de ces actions aujourd'hui ?
+D0=10,46 $   D1=10,0416   D2=9,6400   D3=9,2544 …  (−4 %/an, indéfiniment)
+    ●─────────────●─────────────●────────────●──▶
+   t=0          t=1           t=2          t=3     croissance NÉGATIVE : g = −4 %
+Étape 1 — le prochain dividende avec g = −0,04 :
+D
+1
+= D
+0
+× (1 + g) = 10,46 $ × (1 − 0,04) = 10,46 $ × 0,96 =
+10,0416 $
+Étape 2 — Gordon, en soignant le signe du dénominateur :
+P
+0
+= D
+1
+/ (r − g) = 10,0416 $ / [0,115 − (−0,04)] = 10,0416 $ / (0,115 + 0,04) = 10,0416 $ / 0,155 =
+64,78 $
+Réponse — P0
+64,78
+$
+BA II Plus — opération simple
+10.46
+×
+0.96
+=
+→ 10,0416
+·
+10.0416
+÷
+0.155
+=
+→
+64,7845
+Piège de signe :
+avec g = −4 %, (1+g) =
+0,96
+et le dénominateur devient r − (−0,04) = r
++ 0,04
+= 0,155. La croissance négative
+réduit
+le prix (l'action vaut moins que 10,0416/0,115 = 87,32 $, ce qu'elle vaudrait avec g = 0).
+À retenir :
+g négatif fonctionne très bien dans Gordon — il suffit de brancher g = −4 % partout, signes compris.
+16
+Le calcul du dividende — Aoumes
+Chercher D0
+La société Aoumes possède des actions qui se négocient actuellement
+64 $
+chacune. Le marché exige un rendement de
+10 %
+pour les actions de la société. Si la société Aoumes maintient un taux de croissance constant des dividendes de
+4,5 %
+, quel était le montant du
+dividende le plus récent
+par action ?
+D0 = ?     D1 = D0 × 1,045   D2 = …   (+4,5 %/an, indéfiniment)
+    ●─────────────●─────────────────●──▶
+   t=0          t=1                t=2     P0 = 64 $ (donné) → on ISOLE D0 dans Gordon
+Étape 1 — Gordon avec l'inconnue D0 :
+P
+0
+= D
+0
+(1 + g) / (r − g)  ⟹  D
+0
+= P
+0
+× (r − g) / (1 + g)
+Étape 2 — substitution :
+D
+0
+= 64 $ × (0,10 − 0,045) / (1,045) = 64 $ × 0,055 / 1,045 = 3,52 $ / 1,045 =
+3,37 $
+(3,3684 $)
+Vérification :
+D
+1
+= 3,3684 $ × 1,045 = 3,52 $  →  P
+0
+= 3,52 $ / (0,10 − 0,045) = 3,52 $ / 0,055 =
+64,00 $
+✔
+Réponse — D0
+3,37
+$
+BA II Plus — opération simple
+64
+×
+0.055
+÷
+1.045
+=
+→
+3,3684
+À retenir :
+Gordon est réversible — on peut isoler D
+0
+, D
+1
+, g ou r : D
+0
+= P
+0
+(r−g)/(1+g).
+17
+L'évaluation des actions privilégiées — Banque Meilleure
+Perpétuité différée
+La Banque Meilleure vient tout juste d'émettre une nouvelle action privilégiée. L'action offrira un dividende annuel de
+20 $ sous forme de perpétuité
+, et les
+versements débuteront dans 20 ans
+(premier versement à t = 20). Si le marché exige un rendement de
+6,4 %
+pour cet investissement, quel est le cours d'une action privilégiée de cette société aujourd'hui ?
+t=0 …………………… t=19 : AUCUN versement        20 $      20 $      20 $ …   (perpétuité constante)
+    ●──────────…───────────────────●──────────●──────────●──▶
+   t=0                             t=19      t=20      t=21
+                                    ↑ VA de la perpétuité = D/r, trouvée UNE période avant
+                                      le premier versement (t = 20)
+Étape 1 — valeur de la perpétuité à t = 19 (une période avant le premier versement) :
+P
+19
+= D / r = 20 $ / 0,064 =
+312,50 $
+Étape 2 — actualisation de P19 à aujourd'hui :
+P
+0
+= P
+19
+/ (1 + r)
+19
+= 312,50 $ / (1,064)
+19
+= 312,50 $ / 3,250057 =
+96,15 $
+Réponse — P0
+96,15
+$
+BA II Plus — actualisation de P19
+2ND
+FV
+·
+19
+N
+·
+6.4
+I/Y
+·
+312.5
+FV
+·
+0
+PMT
+·
+CPT
+PV
+→
+−96,1522
+Lecture de l'énoncé :
+« les versements débuteront dans 20 ans » = le premier dividende arrive à t = 20, donc la perpétuité se value à t = 19 et on actualise 19 ans. (Si on interprétait plutôt un premier versement à t = 21, on obtiendrait 312,50/1,064
+20
+= 90,37 $ — mais la lecture standard reste t = 20.)
+À retenir :
+perpétuité
+différée
+= deux temps : la perpétuité P = D/r (une période avant le premier versement), puis actualisation de ce montant jusqu'à t = 0.
+Problèmes complexes · exercices 19, 20 et 23
+longues phases de croissance non constante — décomposition systématique
+19
+Croissance des dividendes à deux périodes — Formula 51 Corp.
+2 étapes (8 + ∞)
+L'entreprise Formula 51 Corp.
+vient tout juste de verser
+un dividende annuel de
+1,25 $
+par action (D
+0
+). Ce dernier devrait croître à un taux de
+28 % par année au cours des 8 prochaines années
+, puis augmenter de
+6 % par année jusqu'à l'infini
+. Si le rendement exigé est de
+13 %
+, quel est le prix aujourd'hui de l'action ?
+D0=1,25 $  D1=1,60 … D8=9,0072      D9=9,5476    D10=10,1205 … (+6 %/an, indéfiniment)
+    ●────────────●─────…──────●──────────────────●─────────────●──▶
+   t=0         t=1          t=8                t=9           t=10
+  (versé)     +28 %/an × 8 ans                  ↑ P8 = D9/(r−g), value à t=8
+Étape 1 — les 8 dividendes de la phase rapide : D
+t
+= D
+0
+× (1,28)
+t
+D
+1
+= 1,25 × 1,28 =
+1,6000
+·  D
+2
+=
+2,0480
+·  D
+3
+=
+2,6214
+·  D
+4
+=
+3,3554
+·  D
+5
+=
+4,2950
+·  D
+6
+=
+5,4976
+·  D
+7
+=
+7,0369
+·  D
+8
+=
+9,0072
+Étape 2 — Gordon à t = 8 (une période avant D9) :
+D
+9
+= D
+8
+× (1 + g) = 9,0072 $ × 1,06 =
+9,5476 $
+P
+8
+= D
+9
+/ (r − g) = 9,5476 $ / (0,13 − 0,06) = 9,5476 $ / 0,07 =
+136,3947 $
+Étape 3 — actualisation des 8 dividendes et de P8 à 13 % :
+t
+D
+t
+($)
+(1,13)
+t
+VA = D
+t
+/(1,13)
+t
+($)
+1
+1,6000
+1,130000
+1,4159
+2
+2,0480
+1,276900
+1,6039
+3
+2,6214
+1,442897
+1,8168
+4
+3,3554
+1,630474
+2,0580
+5
+4,2950
+1,842435
+2,3311
+6
+5,4976
+2,081952
+2,6406
+7
+7,0369
+2,352605
+2,9911
+8
+9,0072
+2,658444
+3,3881
+Somme des VA des dividendes
+18,2455
+8
+P
+8
+= 136,3947
+2,658444
+51,3062
+P
+0
+= 18,2455 + 51,3062
+69,55 $
+P
+0
+= Σ
+t=1…8
+D
+t
+/(1,13)
+t
++ P
+8
+/(1,13)
+8
+= 18,2455 + 51,3062 =
+69,55 $
+Réponse — P0
+69,55
+$
+BA II Plus — feuille des flux (D8 et P8 additionnés à t = 8)
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+·
+C01 =
+1.60
+·
+C02 =
+2.048
+·
+C03 =
+2.62144
+·
+C04 =
+3.35544
+·
+C05 =
+4.29497
+·
+C06 =
+5.49756
+·
+C07 =
+7.03687
+·
+C08 =
+145.40193
+(= 9,0072 + 136,3947)
+·
+NPV
+→ I =
+13
+ENTER
+↓
+CPT
+→
+69,5517
+Remarque : 74 % de la valeur (51,31 $ sur 69,55 $) vient du bloc Gordon — normal quand la phase stable couvre l'infini.
+À retenir :
+longue phase de forte croissance = chaque dividende explicite est actualisé
+en montant simple
+; pas de raccourci possible, mais la mécanique reste toujours la même en 3 blocs.
+20
+Croissance des dividendes à deux périodes — Chartreuse inc.
+2 étapes (11 + ∞)
+L'entreprise Chartreuse inc. connaît une croissance importante. Elle prévoit pour les
+11 prochaines années un taux de croissance de 25 %
+par année des dividendes qu'elle versera. Par la suite, les dividendes croîtront à un taux stable de
+6 % par année jusqu'à l'infini
+. Le rendement exigé par les actionnaires est de
+12 %
+. Si le
+dernier dividende versé était de 1,74 $
+, quel est le prix de l'action aujourd'hui ?
+D0=1,74 $  D1=2,1750 … D11=20,2563    D12=21,4716   D13=22,76 … (+6 %/an, indéfiniment)
+    ●────────────●──────…──────●──────────────────●─────────────●──▶
+   t=0         t=1           t=11               t=12          t=13
+  (versé)     +25 %/an × 11 ans                  ↑ P11 = D12/(r−g), value à t=11
+Étape 1 — les 11 dividendes de la phase rapide : D
+t
+= D
+0
+× (1,25)
+t
+D
+1
+=
+2,1750
+·  D
+2
+=
+2,7188
+·  D
+3
+=
+3,3984
+·  D
+4
+=
+4,2480
+·  D
+5
+=
+5,3101
+·  D
+6
+=
+6,6376
+·  D
+7
+=
+8,2970
+·  D
+8
+=
+10,3712
+·  D
+9
+=
+12,9640
+·  D
+10
+=
+16,2050
+·  D
+11
+=
+20,2563
+Étape 2 — Gordon à t = 11 (une période avant D12) :
+D
+12
+= D
+11
+× (1 + g) = 20,2563 $ × 1,06 =
+21,4716 $
+P
+11
+= D
+12
+/ (r − g) = 21,4716 $ / (0,12 − 0,06) = 21,4716 $ / 0,06 =
+357,8607 $
+Étape 3 — actualisation des 11 dividendes et de P11 à 12 % :
+t
+D
+t
+($)
+(1,12)
+t
+VA = D
+t
+/(1,12)
+t
+($)
+1
+2,1750
+1,120000
+1,9420
+2
+2,7188
+1,254400
+2,1674
+3
+3,3984
+1,404928
+2,4189
+4
+4,2480
+1,573519
+2,6997
+5
+5,3101
+1,762342
+3,0131
+6
+6,6376
+1,973823
+3,3628
+7
+8,2970
+2,210681
+3,7531
+8
+10,3712
+2,475963
+4,1888
+9
+12,9640
+2,773079
+4,6750
+10
+16,2050
+3,105848
+5,2176
+11
+20,2563
+3,478550
+5,8232
+Somme des VA des dividendes
+39,2615
+11
+P
+11
+= 357,8607
+3,478550
+102,8764
+P
+0
+= 39,2615 + 102,8764
+142,14 $
+P
+0
+= Σ
+t=1…11
+D
+t
+/(1,12)
+t
++ P
+11
+/(1,12)
+11
+= 39,2615 + 102,8764 =
+142,14 $
+Réponse — P0
+142,14
+$
+BA II Plus — feuille des flux (D11 et P11 additionnés à t = 11)
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+·
+C01 =
+2.175
+·
+C02 =
+2.71875
+·
+C03 =
+3.39844
+·
+…
+·
+C10 =
+16.20501
+·
+C11 =
+378.11697
+(= 20,2563 + 357,8607)
+·
+NPV
+→ I =
+12
+ENTER
+↓
+CPT
+→
+142,1379
+L'annuité en croissance (VAAC) de la feuille de formules donnerait le même 39,26 $ pour les 11 dividendes, mais le cours privilégie la
+décomposition
+: plus longue à écrire, mais impossible à se tromper de période.
+À retenir :
+même après 11 ans de croissance à 25 % (taux supérieur à r !), la structure est légale : g > r est permis
+temporairement
+; seul le taux
+à l'infini
+(6 %) doit être inférieur à r.
+23
+La croissance variable — Kanésataquai
+g dégressif par points
+La société Kanésataquai
+vient tout juste de verser
+un dividende de
+2,45 $
+par action. La société compte
+augmenter son dividende de 20 % l'année prochaine
+, puis
+réduira le taux de croissance de 5 points de pourcentage par année
+pour atteindre finalement la moyenne de l'industrie, soit
+5 %
+. Après quoi, le taux de croissance restera constant,
+indéfiniment
+. Si le rendement exigé est de
+11 %
+, quel est le cours de ces actions aujourd'hui ?
+D0=2,45 $  D1=2,9400  D2=3,3810  D3=3,7191  D4=3,9051   D5=4,1003 … (+5 %/an, indéfiniment)
+    ●────────────●───────────●───────────●───────────●────────────●──▶
+   t=0         t=1         t=2         t=3         t=4          t=5
+  (versé)     +20 %       +15 %       +10 %       +5 %          +5 %
+              (baisse de 5 POINTS par année jusqu'à 5 %)  ↑ P4 = D5/(r−g)
+Étape 1 — les taux de croissance : 20 %, puis −5 points par année → 15 %, 10 %, 5 % (ensuite 5 % constant). Les dividendes :
+D
+1
+= 2,45 $ × 1,20 =
+2,9400 $
+D
+2
+= 2,9400 $ × 1,15 =
+3,3810 $
+D
+3
+= 3,3810 $ × 1,10 =
+3,7191 $
+D
+4
+= 3,7191 $ × 1,05 =
+3,9051 $
+(3,905 055 $)
+Étape 2 — Gordon à t = 4 (une période avant D5, croissance stabilisée à 5 %) :
+D
+5
+= D
+4
+× (1 + g) = 3,9051 $ × 1,05 =
+4,1003 $
+P
+4
+= D
+5
+/ (r − g) = 4,1003 $ / (0,11 − 0,05) = 4,1003 $ / 0,06 =
+68,3385 $
+Étape 3 — actualisation des 4 dividendes et de P4 :
+P
+0
+= D
+1
+/(1,11) + D
+2
+/(1,11)
+2
++ D
+3
+/(1,11)
+3
++ (D
+4
++ P
+4
+)/(1,11)
+4
+P
+0
+= 2,9400/(1,11) + 3,3810/(1,2321) + 3,7191/(1,367631) + (3,9051 + 68,3385)/(1,51807041)
+P
+0
+= 2,6486 + 2,7441 + 2,7194 + 47,5890 =
+55,70 $
+Réponse — P0
+55,70
+$
+BA II Plus — feuille des flux (D4 et P4 additionnés à t = 4)
+2ND
+CE|C
+·
+CF
+→ CF
+0
+=
+0
+·
+C01 =
+2.94
+·
+C02 =
+3.381
+·
+C03 =
+3.7191
+·
+C04 =
+72.2435
+(= 3,9051 + 68,3385)
+·
+NPV
+→ I =
+11
+ENTER
+↓
+CPT
+→
+55,7012
+Vocabulaire précis :
+« réduire de 5
+points
+de pourcentage » = 20 % → 15 % → 10 % → 5 %. Ce n'est pas « réduire de 5 % » (qui donnerait 20 % → 19 % → 18,05 %…). La stabilisation arrive à g = 5 %, donc Gordon à t = 4.
+À retenir :
+croissance dégressive « par points » : construire le tableau des g
+t
+d'abord, composer les dividendes un à un (D
+t
+= D
+t−1
+× (1+g
+t
+)), puis Gordon à la date de stabilisation.
+En gros, retiens que…
+👉
+Trois outils seulement
+: perpétuité P
+0
+= D/r (privilégiées), Gordon P
+t
+= D
+t+1
+/(r−g), et la décomposition (dividendes explicites + Gordon + actualisation).
+👉
+Toujours situer le premier versement
+: « vient d'être versé » → D
+0
+donné, premier flux à t = 1, D
+1
+= D
+0
+(1+g); « versera l'année prochaine » → D
+1
+déjà donné.
+👉 Gordon se lit
+une période avant le premier versement
+de la phase constante — c'est LA source d'erreur n
+o
+1 (exercices 10, 12, 13, 17, 19, 20, 23).
+👉 Le
+dernier dividende explicite compte deux fois
+(flux perçu + base du Gordon) : additionne-le à P
+n
+avant d'actualiser.
+👉 g négatif : brancher (1+g) = 0,96 et un dénominateur r+|g|. g > r toléré temporairement, jamais à l'infini.
+👉 Dividendes autres qu'annuels :
+taux périodique équivalent
+d'abord (ex. trimestriel : r
+trim
+= (1+r)
+1/4
+− 1), Gordon ou perpétuité ensuite avec D trimestriel.
+✏️
+Petit test de compréhension :
+une action privilégiée verse 1,60 $ par trimestre, indéfiniment, et le marché exige 9 % effectif annuel. Quel est son prix ?
+(Indice : r
+trim
+= 1,09
+0,25
+− 1 ≈ 2,1779 % → P
+0
+= 1,60/0,021779 ≈ 73,47 $.)
+Corrigé — Chapitre 8 · L'évaluation du capital-actions · pages 260–262 · exercices 1, 4, 8, 10, 11, 12, 13, 15, 16, 17, 19, 20, 23

@@ -1,0 +1,887 @@
+## Diapositive 1
+
+Chapitre 8: le marché des actions
+
+
+
+## Diapositive 2
+
+Plan de présentation
+
+Rappel : l’évaluation de titre
+Le marché des actions :
+Action : description
+Action : évaluation d’une action à dividende constant
+Action : évaluation d’une action à dividende croissant
+
+
+## Diapositive 3
+
+Introduction : l’évaluation de titre
+
+Nous avons vu que la valeur de tous les actifs financiers est déterminée par les flux monétaires futurs liés à cet actif :
+
+
+
+Ainsi, tous les actifs financiers peuvent être évalués à l’aide des trois seuls formules vues précédemment: le montant simple, l’annuité et la perpétuité.
+
+
+
+
+## Diapositive 4
+
+Action: description
+
+L’action ordinaire
+Porte un droit de vote afin d’élire le conseil d’administration
+Donne droit aux bénéfices résiduels qui sont versés en dividende et/ou réinvestis (BNR)
+Dans l’ordre de faillite, il est le dernier en rang de priorité
+
+L’action privilégiée
+Titre senior aux actions ordinaires et subordonné à la dette
+Donne habituellement droit à un dividende constant
+Ne donne pas de droit de vote
+Habituellement cumulative: les dividendes non versés sont reportés
+Possibilité de droit de vote pour certaines contingences: report prolongé du dividende, émission de nouvelles actions, etc.
+
+## Diapositive 5
+
+Action: dividende constant
+
+Habituellement, l’action privilégiée verse des dividendes constants et à l’infini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAP
+
+
+
+r
+
+D
+
+D
+
+D
+
+D
+
+D
+
+
+
+
+
+D
+
+## Diapositive 6
+
+Action: dividende constant
+
+L’action privilégiée de BDB inc. verse un dividende annuel constant de 1 $. Si vous exigez un rendement de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+## Diapositive 7
+
+Action : dividende constant
+
+L’action privilégiée de BDB inc. verse un dividende annuel constant de 1 $. Si vous exigez un rendement de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+
+
+
+## Diapositive 8
+
+Action : dividende constant
+
+L’action privilégiée de BDB inc. verse un dividende annuel constant de 1 $.Si vous exigez un rendement de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+
+
+VAact.div.const.= 1$/0,08 = 12,50$
+
+## Diapositive 9
+
+Action : dividende constant
+
+Ex 2: Une autre action de BDB inc. verse un dividende trimestriel constant de 0,25 $. Si vous exigez un rendement effectif de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+## Diapositive 10
+
+Action : dividende constant
+
+Ex 2: Une autre action de BDB inc. verse un dividende trimestriel constant de 0,25 $. Si vous exigez un rendement effectif de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+## Diapositive 11
+
+Action : dividende constant
+
+Ex 2: Une autre action de BDB inc. verse un dividende trimestriel constant de 0,25 $. Si vous exigez un rendement effectif de 8 %, quel prix serez-vous prêt à payer pour cette action?
+
+
+
+VAact.div.const.= 0,25$/0,0194265… = 12,87$
+
+## Diapositive 12
+
+Action : dividende croissant
+
+On anticipe que, pour une société en bonne santé financière, l’action ordinaire versera des dividendes croissants. 
+
+## Diapositive 13
+
+Action : dividende croissant
+
+On anticipe que, pour une société en bonne santé financière, l’action ordinaire versera des dividendes croissants. 
+
+## Diapositive 14
+
+Action : dividende croissant
+
+On anticipe que, pour une société en bonne santé financière, l’action ordinaire versera des dividendes croissants. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r
+
+D1
+
+D2
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+## Diapositive 15
+
+Action : dividende croissant
+
+On anticipe que, pour une société en bonne santé financière, l’action ordinaire versera des dividendes croissants. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAP
+
+
+
+r
+
+D1
+
+D2
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+
+
+
+
+
+
+## Diapositive 16
+
+Action: dividende croissant
+
+On anticipe que, pour une société en bonne santé financière, l’action ordinaire versera des dividendes croissants. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAP
+
+
+
+r
+
+D1
+
+D2
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+g
+
+g
+
+g
+
+g
+
+g
+
+g
+
+
+
+
+
+
+
+*Résultat TOUJOURS trouvé
+une période avant le premier versement
+
+## Diapositive 17
+
+Action: dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+## Diapositive 18
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+
+## Diapositive 19
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+## Diapositive 20
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+## Diapositive 21
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+## Diapositive 22
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 % pour cette action, quel devrait être son prix d’achat?
+
+## Diapositive 23
+
+Action : dividende croissant
+
+IBN inc. vient de verser un dividende de 1 $ aux détenteurs d’actions ordinaires. Vous prévoyez que ce dividende devrait croître de 5 % dans l’avenir. Si vous exigez un rendement effectif de 14 %.
+
+Considérant le prix que vous êtes prêt à payer pour le titre, quels devraient être la source de vos rendements si vos anticipations sont correctes?
+
+## Diapositive 24
+
+Action : dividende croissant
+
+Une nouvelle information vient à vos oreilles à propos de cette action d’IBN inc. Vos hypothèses sont les mêmes à la différence que la croissance prévue pour les 2 prochaines années devraient être de 20% et de 15% pour ensuite retomber à 5% comme prévu auparavant.
+
+## Diapositive 25
+
+Action: dividende croissant
+
+Une nouvelle information vient à vos oreilles à propos d’IBN : vos hypothèses sont les mêmes à la différence que la croissance prévue pour les 2 prochaines années devraient être respectivement de 20 % et de 15 % pour ensuite retomber à 5 % tel que prévu auparavant.
+
+## Diapositive 26
+
+Action : dividende croissant
+
+Une nouvelle information vient à vos oreilles à propos d’IBN : vos hypothèses sont les mêmes à la différence que la croissance prévue pour les 2 prochaines années devraient être respectivement de 20 % et de 15 % pour ensuite retomber à 5 % tel que prévu auparavant.
+
+
+
+
+	Croissance non constante → décomposition de la structure des FMs
+
+## Diapositive 27
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante :
+
+5%
+
+5%
+
+5%
+
+5%
+
+## Diapositive 28
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante :
+
+
+
+
+
+
+
+## Diapositive 29
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante :
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+20%
+
+
+
+1$
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix2
+
+## Diapositive 30
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante :
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+20%
+
+
+
+1$
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix2
+
+## Diapositive 31
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante:
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+20%
+
+
+
+1$
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix2
+
+## Diapositive 32
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante:
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+20%
+
+
+
+1$
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix2
+
+## Diapositive 33
+
+Action : dividende croissant
+
+On peut donc décomposer les FMs de la façon suivante:
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+20%
+
+
+
+1$
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix2
+
+## Diapositive 34
+
+Action : dividende croissant
+
+ou encore, on pourrait décomposer de la façon suivante :
+
+
+
+
+
+
+
+
+
+D1
+
+D2
+
+
+
+15%
+
+
+
+
+
+
+
+
+
+
+
+D3
+
+D5
+
+D6
+
+
+
+
+
+D4
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+
+
+5%
+
+Prix3
+
+
+
+
+
+
+
+
+
+## Diapositive 35
+
+Conclusion
+
+Le prix des actions, comme le prix des obligations sont déterminés par les FMs futurs
+
+D’ailleurs, le prix de tous les actifs est déterminé par les FMs futurs que l’on actualise
+
+## Diapositive 36
+
+Méthode d’évaluation alternative
+
+Actualisation des FMs disponibles aux actionnaires ordinaires
+On considère tous les FMs qui reviennent à l’actionnaire (décomposition des bénéfices)
+Méthode qui sera couverte dans un cours d’évaluation ultérieur
+Méthode d’évaluation par multiple
+Les multiples sont une méthode simplifiée d’évaluation demandant moins d’hypothèses (dividende)
+Choix des multiples en fonction de certains paramètres pertinents à l’analyse (P/E, P/B, EV/EBIT, EV/EBITDA, P/clic, etc.)
+
+## Diapositive 37
+
+Multiple Cours/Bénéfices (P/E)
+
+C/B: Combien de fois paie-t-on les bénéfices des 4 derniers trimestres?
+Exemple: cours = 90 $, bénéfices = 7,50 $ (2 $ + 1,50 $ + 2,50 $ + 1,50 $)
+	C/B = 90 $ / 7,50 $ = 12
+
+On compare à la moyenne de l’industrie (ex: 14 fois)
+On utilise cette moyenne pour la valeur intrinsèque du titre
+	Valeur intrinsèque = 			= 14 * 7,50$ = 105$
+
+
+## Diapositive 38

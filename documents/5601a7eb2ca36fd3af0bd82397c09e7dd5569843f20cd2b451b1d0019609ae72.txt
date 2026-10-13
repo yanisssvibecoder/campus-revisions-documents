@@ -1,0 +1,15 @@
+11.4  | FAQ
+
+Séance 11
+Q : Comment les gestionnaires prennent-ils leurs décisions d'investissement et de financement ?
+R : Il est important de se rappeler que l'objectif du gestionnaire financier est de maximiser la valeur de l'entreprise.
+Pour ce faire, le gestionnaire doit prendre les décisions suivantes :
+Premièrement, il doit choisir les meilleurs projets dont la VAN positive est la plus élevée ;
+Deuxièmement, le gestionnaire doit choisir la structure de capital optimale pour financer ces projets, soit celle qui maximise la valeur de l'entreprise.
+Q : Quelle est la structure de capital optimale d'une entreprise ?
+R : il s'agit de la combinaison optimale des ressources financières (capitaux propres et dettes) qui maximise la valeur de l'entreprise en minimisant le coût du capital.
+Q : Qu'est-ce qu'une entreprise (projet) sans levier financier ?
+R : C'est une entreprise (projet) qui est financée uniquement par des capitaux propres (actions).
+Q : Comment une entreprise peut-elle maintenir constant son levier financier ?
+R : Pour ce faire, l'entreprise doit financer tout nouveau projet par la même proportion de capitaux propres et de dettes que pour les actifs existants.
+Cela suppose implicitement que le nouveau projet présente le même risque commercial que les actifs existants de l'entreprise.

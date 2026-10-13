@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Corrigé du chapitre 8 — Actions (exercices quiz)</title>
+<meta name="description" content="Corrigé pas-à-pas des exercices 1, 4, 8, 10 à 13, 15 à 17, 19, 20 et 23 du chapitre 8 — l'évaluation du capital-actions.">
+<style>
+:root{
+  --paper:#eaefec; --card:#fbfdfc; --card2:#f1f5f3;
+  --ink:#16211d; --muted:#5a6b64; --faint:#7c8b84;
+  --line:#d6ded9; --line2:#e6ece9;
+  --teal:#0b7c72; --teal-bright:#0d9488; --teal-soft:#d7ece8;
+  --gold:#9a6f12; --gold-soft:#f3e6c6;
+  --lcd1:#b9c4a8; --lcd2:#a7b493; --lcd-ink:#14241a; --lcd-lab:#3c4d38;
+  --keycap:#3a3f47; --keycap2:#4c525d; --keytxt:#f3f4f2; --keygold:#e8b04b;
+  --neg:#b23b3b;
+  --shadow:0 14px 40px -22px rgba(12,40,34,.55);
+  --disp:"Spectral",Georgia,"Times New Roman",serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"IBM Plex Mono","SFMono-Regular",Consolas,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#111815; --card:#18211d; --card2:#1e2823;
+    --ink:#e7efeb; --muted:#9fb1a9; --faint:#83978f;
+    --line:#2a3630; --line2:#232e29;
+    --teal:#5bd0c2; --teal-bright:#2dd4bf; --teal-soft:#153029;
+    --gold:#e2ad55; --gold-soft:#3a2f16;
+    --neg:#e8807f;
+    --shadow:0 16px 44px -20px rgba(0,0,0,.7);
+  }
+}
+[data-theme="dark"]{
+  --paper:#111815; --card:#18211d; --card2:#1e2823;
+  --ink:#e7efeb; --muted:#9fb1a9; --faint:#83978f;
+  --line:#2a3630; --line2:#232e29;
+  --teal:#5bd0c2; --teal-bright:#2dd4bf; --teal-soft:#153029;
+  --gold:#e2ad55; --gold-soft:#3a2f16;
+  --neg:#e8807f;
+  --shadow:0 16px 44px -20px rgba(0,0,0,.7);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);
+  line-height:1.62;font-size:16.5px;-webkit-font-smoothing:antialiased;padding-bottom:70px}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+
+.tbtn{position:fixed;top:14px;right:14px;z-index:20;width:38px;height:38px;border-radius:11px;
+  border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:16px;
+  box-shadow:var(--shadow)}
+.tbtn:hover{border-color:var(--teal)}
+
+header{padding:58px 0 26px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:var(--mono);font-size:.74rem;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--teal);font-weight:600;margin:0 0 14px}
+h1{font-family:var(--disp);font-weight:700;font-size:clamp(2rem,6vw,3.1rem);line-height:1.06;
+  margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 em{font-style:italic;color:var(--teal)}
+.sub{color:var(--muted);margin:16px 0 0;max-width:62ch;font-size:1.02rem}
+
+section{padding:34px 0;border-bottom:1px solid var(--line2)}
+h2{font-family:var(--disp);font-weight:600;font-size:1.55rem;margin:0 0 4px;letter-spacing:-.01em}
+.h2note{color:var(--faint);font-size:.9rem;margin:0 0 20px;font-family:var(--mono)}
+
+.intro{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px 24px 8px;
+  box-shadow:var(--shadow)}
+.masterf{font-family:var(--mono);font-size:1.3rem;font-weight:500;text-align:center;color:var(--ink);
+  background:var(--card2);border:1px dashed var(--line);border-radius:12px;padding:18px 10px;margin:6px 0 18px}
+.masterf b{color:var(--teal);font-weight:600}
+.legend{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 22px;margin:0 0 14px;padding:0;list-style:none}
+.legend li{font-size:.92rem;color:var(--muted)}
+.legend b{font-family:var(--mono);color:var(--ink);font-weight:600}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:14px 0 22px}
+.tool{background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:15px 16px}
+.tool .t-tag{font-family:var(--mono);font-size:.72rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--teal)}
+.tool h4{font-family:var(--disp);font-size:1.08rem;margin:3px 0 5px;font-weight:600}
+.tool p{margin:0 0 8px;font-size:.86rem;color:var(--muted)}
+.tool .f{font-family:var(--mono);font-size:.92rem;color:var(--ink);background:var(--card);
+  border:1px solid var(--line);border-radius:8px;padding:7px 9px;display:block}
+
+.ex{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin:16px 0;
+  box-shadow:var(--shadow)}
+.ex-head{display:flex;align-items:center;gap:12px;margin:0 0 8px;flex-wrap:wrap}
+.num{font-family:var(--disp);font-weight:700;font-size:1.5rem;color:var(--teal);line-height:1;min-width:2.1ch}
+.ex-title{font-family:var(--disp);font-weight:600;font-size:1.16rem;margin:0;flex:1 1 auto}
+.chip{font-family:var(--mono);font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  padding:4px 9px;border-radius:999px;background:var(--teal-soft);color:var(--teal);white-space:nowrap}
+.chip.gold{background:var(--gold-soft);color:var(--gold)}
+.enonce{color:var(--muted);font-size:.94rem;margin:2px 0 10px}
+.enonce b{color:var(--ink);font-weight:600}
+
+.timeline{font-family:var(--mono);font-size:.82rem;line-height:1.8;background:var(--card2);
+  border:1px dashed var(--line);border-radius:10px;padding:12px 14px;margin:12px 0;overflow-x:auto;
+  white-space:pre;color:var(--ink)}
+.timeline .dim{color:var(--faint)}
+
+.step{font-family:var(--mono);font-size:.9rem;line-height:1.95;background:var(--card2);
+  border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin:10px 0;overflow-x:auto}
+.step .c{color:var(--teal);font-weight:600}
+.step .g{color:var(--faint)}
+
+.lcd{display:flex;align-items:baseline;gap:12px;justify-content:flex-end;
+  background:linear-gradient(180deg,var(--lcd1),var(--lcd2));border:2px solid #1b1d22;border-radius:9px;
+  padding:9px 15px;margin:12px 0 4px;box-shadow:inset 0 2px 5px rgba(0,0,0,.3)}
+.lcd .lab{font-family:var(--mono);font-size:.66rem;font-weight:600;letter-spacing:.14em;color:var(--lcd-lab);
+  text-transform:uppercase;margin-right:auto}
+.lcd .val{font-family:var(--mono);font-weight:600;font-size:1.5rem;color:var(--lcd-ink);
+  font-variant-numeric:tabular-nums;text-shadow:0 1px 0 rgba(255,255,255,.18)}
+.lcd .val.neg{color:#5a2020}
+.lcd .u{font-size:.8rem;color:var(--lcd-lab)}
+
+.keys{font-family:var(--mono);font-size:.82rem;line-height:2.2;color:var(--muted);margin:12px 0 2px}
+.keys .lbl{display:block;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+kbd{font-family:var(--mono);font-size:.78rem;font-weight:600;background:linear-gradient(180deg,var(--keycap2),var(--keycap));
+  color:var(--keytxt);border-radius:6px;padding:3px 8px;border:1px solid rgba(0,0,0,.25);
+  box-shadow:0 1.5px 0 rgba(0,0,0,.4);white-space:nowrap;display:inline-block;margin:1px 0}
+kbd.gold{background:linear-gradient(180deg,#f0c266,var(--keygold));color:#3a2a05;border-color:#9c7420}
+.keys .sep{color:var(--line);margin:0 3px}
+
+.tbl{width:100%;border-collapse:collapse;font-size:.9rem;margin:10px 0;font-variant-numeric:tabular-nums}
+.tbl th,.tbl td{padding:9px 10px;text-align:right;border-bottom:1px solid var(--line2)}
+.tbl th:first-child,.tbl td:first-child{text-align:left;font-family:var(--mono);color:var(--faint);font-weight:500}
+.tbl thead th{font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;border-bottom:1.5px solid var(--line)}
+.tbl td.ans{font-family:var(--mono);font-weight:600;color:var(--teal);background:var(--teal-soft)}
+.tbl tr.total td{font-weight:600;border-top:1.5px solid var(--line)}
+[data-theme="dark"] .tbl td.ans, :root:not([data-theme="light"]) .tbl td.ans{color:var(--teal-bright)}
+
+.note{font-size:.86rem;color:var(--muted);margin:12px 0 0;padding:10px 14px;border-left:3px solid var(--gold);
+  background:var(--gold-soft);border-radius:0 8px 8px 0}
+.note b{color:var(--ink)}
+.aretenir{margin:14px 0 4px;padding:10px 14px;border-radius:10px;background:var(--teal-soft);
+  border:1px solid var(--teal);font-size:.9rem}
+.aretenir b{color:var(--teal)}
+[data-theme="dark"] .aretenir b, :root:not([data-theme="light"]) .aretenir b{color:var(--teal-bright)}
+.resume{background:var(--teal-soft);border:1px solid var(--teal);border-radius:14px;padding:18px 22px;margin-top:8px}
+.resume h3{font-family:var(--disp);margin:0 0 8px;font-size:1.15rem;color:var(--teal)}
+.resume p{margin:6px 0;font-size:.94rem}
+footer{color:var(--faint);font-size:.82rem;text-align:center;padding:30px 0 0}
+@media(max-width:560px){
+  body{font-size:16px}
+  .ex,.intro{padding:17px 16px}
+  .lcd .val{font-size:1.25rem}
+}
+</style>
+</head>
+<body>
+
+<button class="tbtn" id="tbtn" title="Clair / sombre" aria-label="Changer le thème">🌙</button>
+
+<div class="wrap">
+<header>
+  <p class="eyebrow">Finance FINA10200 · Chapitre 8 · pages 260–262 · préparation quiz</p>
+  <h1>L'évaluation des <em>actions</em></h1>
+  <p class="sub">Corrigé complet et pas-à-pas des exercices demandés pour le quiz : <b>1, 4, 8, 10, 11, 12, 13, 15, 16, 17, 19, 20 et 23</b>. Pour chacun : énoncé propre, schéma temporel, formule en entier avec les valeurs substituées, séquence <b>BA&nbsp;II&nbsp;Plus</b> et réponse encadrée.</p>
+  <div class="note" style="margin-top:18px">
+    <b>Consignes du prof à respecter dans chaque démarche :</b>
+    <ul style="margin:8px 0 4px;padding-left:18px">
+      <li>Écrire <b>la formule en entier avec les valeurs substituées</b> avant le résultat — une démarche « N=, PMT= » seule est refusée.</li>
+      <li>Toujours tracer le <b>schéma temporel</b> (t=0, D<sub>1</sub>, D<sub>2</sub>, …).</li>
+      <li>Par défaut (rien de précisé) : <b>dividendes annuels</b> et <b>taux effectifs</b>.</li>
+      <li>« Vient tout juste d'être versé » ou « prochain dividende dans exactement une période » → premier flux à <b>t = 1</b>, et D<sub>1</sub> = D<sub>0</sub> × (1+g).</li>
+      <li>Le modèle de Gordon donne le prix <b>une période avant le premier versement</b> de la phase constante.</li>
+      <li>Croissance non constante : <b>décomposition</b> (dividendes explicites + Gordon à la date de stabilisation + actualisation du tout).</li>
+    </ul>
+  </div>
+</header>
+
+<!-- ============ BOÎTE À OUTILS ============ -->
+<section>
+  <h2>Les trois formules du chapitre</h2>
+  <p class="h2note">tout le chapitre 8 se résout avec la perpétuité, Gordon et la décomposition</p>
+  <div class="intro">
+    <div class="masterf"><b>P<sub>0</sub></b> = <b>D<sub>1</sub></b> / (<b>r</b> − <b>g</b>) = <b>D<sub>0</sub></b>(1 + g) / (r − g)</div>
+    <ul class="legend">
+      <li><b>P<sub>0</sub></b> — le cours <em>une période avant le premier versement</em></li>
+      <li><b>D<sub>0</sub></b> — le dividende <em>déjà versé</em> (à t = 0)</li>
+      <li><b>D<sub>1</sub></b> — le <em>prochain</em> dividende (à t = 1)</li>
+      <li><b>r</b> — rendement exigé (effectif annuel par défaut)</li>
+      <li><b>g</b> — taux de croissance constant des dividendes</li>
+    </ul>
+    <div class="tools">
+      <div class="tool">
+        <span class="t-tag">Action privilégiée</span>
+        <h4>Perpétuité</h4>
+        <p>Dividende constant versé indéfiniment.</p>
+        <span class="f">P<sub>0</sub> = D / r</span>
+        <p style="margin-top:8px">Et inversement : r = D / P<sub>0</sub>. Si les dividendes sont trimestriels, utiliser le taux trimestriel équivalent (ex. r<sub>trim</sub> = (1+r)<sup>1/4</sup> − 1).</p>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Croissance constante</span>
+        <h4>Modèle de Gordon</h4>
+        <p>Le résultat est trouvé <b>une période avant le premier versement</b>.</p>
+        <span class="f">P<sub>t</sub> = D<sub>t+1</sub> / (r − g)</span>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Prix dans t années</span>
+        <h4>Le prix croît au taux g</h4>
+        <p>Si r et g sont constants, le prix suit les dividendes.</p>
+        <span class="f">P<sub>t</sub> = P<sub>0</sub> × (1 + g)<sup>t</sup></span>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Croissance non constante</span>
+        <h4>Décomposition en 3 blocs</h4>
+        <p>1) actualiser chaque dividende explicite en montant simple; 2) Gordon à la date de stabilisation; 3) actualiser le tout à t = 0.</p>
+        <span class="f">P<sub>0</sub> = Σ D<sub>t</sub>/(1+r)<sup>t</sup> + P<sub>n</sub>/(1+r)<sup>n</sup></span>
+      </div>
+    </div>
+    <p class="note"><b>Vérification réflexe :</b> si r ≤ g dans Gordon, la formule est inapplicable (prix infini ou négatif) — c'est le signal qu'il faut une autre lecture de l'énoncé (phase de transition, date de stabilisation mal placée, etc.). L'annuité en croissance (VAAC de la feuille de formules) reste permise, mais le cours privilégie la <b>décomposition</b>.</p>
+  </div>
+</section>
+
+<!-- ============ NOTIONS DE BASE ============ -->
+<section>
+  <h2>Notions de base · exercices 1 et 4</h2>
+  <p class="h2note">croissance constante : Gordon directement</p>
+
+  <!-- EX 1 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">1</span><h3 class="ex-title">La valeur des actions — Jackson-Timberlake</h3><span class="chip">Gordon + prix futurs</span></div>
+    <p class="enonce">La société Jackson-Timberlake <b>vient tout juste de verser</b> un dividende annuel de <b>1,95 $</b> par action (donc D<sub>0</sub> = 1,95 $, premier flux à t = 1). On prévoit que les dividendes augmenteront à un taux constant de <b>6 % par année, indéfiniment</b>. Si les investisseurs exigent un taux de rendement de <b>11 %</b>, quel est le cours actuel ? Quel sera le cours <b>dans 3 ans</b> ? <b>dans 15 ans</b> ?</p>
+    <div class="timeline">              D1 = 2,0670  D2 = 2,1910  D3 = 2,3227               D16 = 4,9537
+   1,95 $    │           │           │             …             │
+    ●────────────┼───────────┼───────────┼────────────…─────────────┼──────▶  g = +6 %/an, indéfiniment
+   t=0         t=1         t=2         t=3                         t=16
+  (versé)       └── P0 = VA(D1 + D2 + D3 + … à l'infini) au taux r = 11 %</div>
+
+    <div class="step"><span class="g">Étape 1 — le prochain dividende (le dividende versé « vient tout juste » d'être payé → D1 = D0 × (1+g)) :</span><br>
+      D<sub>1</sub> = D<sub>0</sub> × (1 + g) = 1,95 $ × 1,06 = <span class="c">2,0670 $</span></div>
+    <div class="step"><span class="g">Étape 2 — le cours actuel :</span><br>
+      P<sub>0</sub> = D<sub>1</sub> / (r − g) = 2,0670 $ / (0,11 − 0,06) = 2,0670 $ / 0,05 = <span class="c">41,34 $</span></div>
+    <div class="step"><span class="g">Étape 3 — le cours dans 3 ans (deux démarches équivalentes) :</span><br>
+      <span class="g">a)</span> P<sub>3</sub> = D<sub>4</sub> / (r − g) &nbsp;avec&nbsp; D<sub>4</sub> = D<sub>0</sub> × (1 + g)<sup>4</sup> = 1,95 $ × 1,06<sup>4</sup> = 1,95 $ × 1,262477 = 2,4618 $<br>
+      &nbsp;&nbsp;&nbsp;P<sub>3</sub> = 2,4618 $ / 0,05 = <span class="c">49,24 $</span><br>
+      <span class="g">b)</span> P<sub>3</sub> = P<sub>0</sub> × (1 + g)<sup>3</sup> = 41,34 $ × 1,06<sup>3</sup> = 41,34 $ × 1,191016 = <span class="c">49,24 $</span> <span class="g">(le prix croît au même taux g que les dividendes)</span></div>
+    <div class="step"><span class="g">Étape 4 — le cours dans 15 ans :</span><br>
+      P<sub>15</sub> = P<sub>0</sub> × (1 + g)<sup>15</sup> = 41,34 $ × 1,06<sup>15</sup> = 41,34 $ × 2,396558 = <span class="c">99,07 $</span><br>
+      <span class="g">vérif. :</span> P<sub>15</sub> = D<sub>16</sub> / (r − g) = (1,95 × 1,06<sup>16</sup>) / 0,05 = 4,9537 $ / 0,05 = <span class="c">99,07 $</span> ✔</div>
+
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">41,34</span><span class="u">$</span></div>
+    <div class="lcd"><span class="lab">Réponse — P3</span><span class="val">49,24</span><span class="u">$</span></div>
+    <div class="lcd"><span class="lab">Réponse — P15</span><span class="val">99,07</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — P3 et P15 par capitalisation</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>3</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>6</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>41.34</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>FV</kbd> → <b>49,2366</b><br>
+      puis <kbd>15</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>FV</kbd> → <b>99,0737</b>
+    </div>
+    <div class="aretenir"><b>À retenir :</b> « vient tout juste d'être versé » → D<sub>0</sub> est donné et le premier flux est à t = 1; et si r et g sont constants, le <b>prix croît au taux g</b> : P<sub>t</sub> = P<sub>0</sub>(1+g)<sup>t</sup>.</div>
+  </div>
+
+  <!-- EX 4 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">4</span><h3 class="ex-title">La valeur des actions — Échasses</h3><span class="chip">Gordon</span></div>
+    <p class="enonce">La société Échasses <b>versera un dividende de 3,04 $ par action l'année prochaine</b> (donc D<sub>1</sub> = 3,04 $ est déjà le prochain dividende — inutile de le faire croître). L'entreprise promet d'augmenter ses dividendes de <b>3,8 % par année, indéfiniment</b>. Si vous exigez un rendement de <b>11 %</b>, quel sera le cours des actions en date d'aujourd'hui ?</p>
+    <div class="timeline">              D1 = 3,04 $  D2 = 3,1555 $  D3 = 3,2754 $              D∞
+    ●────────────┼─────────────┼──────────────┼────────────…──────────────┼───▶  g = +3,8 %/an, indéfiniment
+   t=0         t=1           t=2            t=3
+  (aucun flux)   └── P0 = VA(D1 + D2 + D3 + …) au taux r = 11 %   (D1 donné tel quel)</div>
+
+    <div class="step"><span class="g">Formule en entier avec substitution directe (D1 est déjà donné) :</span><br>
+      P<sub>0</sub> = D<sub>1</sub> / (r − g) = 3,04 $ / (0,11 − 0,038) = 3,04 $ / 0,072 = <span class="c">42,22 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">42,22</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — opération simple</span>
+      <kbd>3.04</kbd> <kbd>÷</kbd> <kbd>(</kbd> <kbd>0.11</kbd> <kbd>−</kbd> <kbd>0.038</kbd> <kbd>)</kbd> <kbd>=</kbd> → <b>42,2222</b>
+    </div>
+    <p class="note"><b>Piège classique :</b> « versera l'année prochaine » = D<sub>1</sub>. On ne multiplie <b>pas</b> par (1+g). On ne multiplie que quand l'énoncé donne D<sub>0</sub> (« vient de verser »).</p>
+    <div class="aretenir"><b>À retenir :</b> identifier si le dividende donné est D<sub>0</sub> (→ ×(1+g)) ou D<sub>1</sub> (→ substitution directe) avant d'appliquer Gordon.</div>
+  </div>
+</section>
+
+<!-- ============ NOTIONS INTERMÉDIAIRES ============ -->
+<section>
+  <h2>Notions intermédiaires · exercices 8 et 10 à 17</h2>
+  <p class="h2note">perpétuités, dividendes nuls ou variables, croissance négative, formule inversée</p>
+
+  <!-- EX 8 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">8</span><h3 class="ex-title">L'évaluation des actions privilégiées — Ayden</h3><span class="chip gold">Chercher r</span></div>
+    <p class="enonce">La société Ayden inc. possède des actions privilégiées en circulation dont le dividende est de <b>5,50 $ par année</b>. Si les actions se vendent actuellement <b>108 $</b> chacune, quel est le rendement exigé ?</p>
+    <div class="timeline">   5,50 $    5,50 $    5,50 $              5,50 $
+     │         │         │    …    │
+   ──●─────────●─────────●─────────●──▶  dividende CONSTANT, indéfiniment (perpétuité)
+   t=0       t=1       t=2                P0 = 108 $ (donné)  →  r = D / P0</div>
+
+    <div class="step"><span class="g">Action privilégiée = perpétuité, P0 = D / r, qu'on isole pour r :</span><br>
+      r = D / P<sub>0</sub> = 5,50 $ / 108 $ = 0,050926 = <span class="c">5,09 %</span></div>
+    <div class="lcd"><span class="lab">Réponse — r</span><span class="val">5,09</span><span class="u">%</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — opération simple</span>
+      <kbd>5.50</kbd> <kbd>÷</kbd> <kbd>108</kbd> <kbd>=</kbd> → <b>0,050926</b>
+    </div>
+    <div class="aretenir"><b>À retenir :</b> action privilégiée = perpétuité → P<sub>0</sub> = D/r; connaître deux des trois termes donne le troisième (ici r = D/P<sub>0</sub>).</div>
+  </div>
+
+  <!-- EX 10 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">10</span><h3 class="ex-title">La croissance variable — Métallique</h3><span class="chip">Gordon différé</span></div>
+    <p class="enonce">La société Métallique est une jeune entreprise. Elle <b>ne versera aucun dividende au cours des 9 prochaines années</b> (bénéfices réinvestis). Elle versera ensuite un dividende annuel de <b>10 $ par action à la dixième année</b>, pour l'augmenter par la suite de <b>5 % par année, indéfiniment</b>. Si le rendement exigé est de <b>14 %</b>, quel est le cours actuel de l'action ?</p>
+    <div class="timeline">   D1 … D9 = 0 $          D10 = 10,00 $   D11 = 10,50 $   D12 = 11,03 $ …  (+5 %/an, indéfiniment)
+    ●──────────…──────────────────┼───────────────┼───────────────┼──▶
+   t=0                            t=10            t=11            t=12
+    ↑ 9 années sans dividende     ↑ Gordon s'applique à t = 9, UNE période avant D10</div>
+
+    <div class="step"><span class="g">Étape 1 — Gordon à t = 9 (une période avant le premier versement de la phase constante) :</span><br>
+      P<sub>9</sub> = D<sub>10</sub> / (r − g) = 10 $ / (0,14 − 0,05) = 10 $ / 0,09 = <span class="c">111,11 $</span></div>
+    <div class="step"><span class="g">Étape 2 — actualisation de P9 à aujourd'hui (montant simple, 9 périodes) :</span><br>
+      P<sub>0</sub> = P<sub>9</sub> / (1 + r)<sup>9</sup> = 111,11 $ / (1,14)<sup>9</sup> = 111,11 $ / 3,251949 = <span class="c">34,17 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">34,17</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — actualisation de P9</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>9</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>14</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>111.11</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>PV</kbd> → <b>−34,1675</b>
+    </div>
+    <p class="note">Le prix sort en <b>négatif</b> sur la calculatrice (c'est un placement), sa valeur est 34,17 $.</p>
+    <div class="aretenir"><b>À retenir :</b> Gordon se place <b>une période avant le premier versement</b> de la phase constante — ici D<sub>10</sub> → P<sub>9</sub>, puis on actualise 9 ans pour revenir à t = 0.</div>
+  </div>
+
+  <!-- EX 11 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">11</span><h3 class="ex-title">Les dividendes variables — Spears Inc.</h3><span class="chip">Flux explicites</span></div>
+    <p class="enonce">La société Spears Inc. <b>vient tout juste de verser</b> un dividende annuel de <b>6 $</b> par action et a annoncé qu'elle compte <b>augmenter ce dividende de 4 $ par action au cours de chacune des 5 prochaines années</b>, puis de <b>cesser entièrement</b> de payer des dividendes. Si vous exigez un rendement de <b>11 %</b>, combien vous coûtera une action aujourd'hui ?</p>
+    <div class="timeline">   +4 $        +4 $        +4 $        +4 $        +4 $
+   6 $ ──▶  10 $        14 $        18 $        22 $        26 $        0 $  …  0 $
+    ●──────────●───────────●───────────●───────────●───────────●───────────×──▶
+   t=0       t=1         t=2         t=3         t=4         t=5         t=6
+  (versé)   D1          D2          D3          D4          D5       cessation → P5 = 0</div>
+
+    <div class="step"><span class="g">Étape 1 — les dividendes prévus (hausse de 4 $ en MONTANT chaque année, pas en %) :</span><br>
+      D<sub>1</sub> = 6 $ + 4 $ = 10 $ &nbsp;·&nbsp; D<sub>2</sub> = 14 $ &nbsp;·&nbsp; D<sub>3</sub> = 18 $ &nbsp;·&nbsp; D<sub>4</sub> = 22 $ &nbsp;·&nbsp; D<sub>5</sub> = 26 $, puis 0 $ à l'infini → <span class="c">P<sub>5</sub> = 0 $</span></div>
+    <div class="step"><span class="g">Étape 2 — actualisation de chaque dividende en montant simple (aucune perpétuité à ajouter) :</span><br>
+      P<sub>0</sub> = D<sub>1</sub>/(1+r)<sup>1</sup> + D<sub>2</sub>/(1+r)<sup>2</sup> + D<sub>3</sub>/(1+r)<sup>3</sup> + D<sub>4</sub>/(1+r)<sup>4</sup> + D<sub>5</sub>/(1+r)<sup>5</sup><br>
+      P<sub>0</sub> = 10/(1,11) + 14/(1,11)<sup>2</sup> + 18/(1,11)<sup>3</sup> + 22/(1,11)<sup>4</sup> + 26/(1,11)<sup>5</sup><br>
+      P<sub>0</sub> = 9,0090 + 11,3627 + 13,1614 + 14,4921 + 15,4297 = <span class="c">63,45 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">63,45</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux monétaires</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <span class="sep">·</span> C01 = <kbd>10</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd><kbd>↓</kbd> <span class="sep">·</span> C02 = <kbd>14</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd><kbd>↓</kbd> <span class="sep">·</span> C03 = <kbd>18</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd><kbd>↓</kbd> <span class="sep">·</span> C04 = <kbd>22</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd><kbd>↓</kbd> <span class="sep">·</span> C05 = <kbd>26</kbd> <kbd>ENTER</kbd> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>11</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>63,4550</b>
+    </div>
+    <div class="aretenir"><b>À retenir :</b> croissance en <b>montant constant</b> ($ fixe) ≠ croissance en pourcentage : chaque dividende est un flux explicite à actualiser un par un, et « cesser de payer » → rien à ajouter après le dernier versement.</div>
+  </div>
+
+  <!-- EX 12 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">12</span><h3 class="ex-title">Les dividendes variables — Côte Nord Corp.</h3><span class="chip">Flux explicites + Gordon</span></div>
+    <p class="enonce">La société Côte Nord Corp. prévoit verser les dividendes suivants au cours des 4 prochaines années : <b>11 $, 8 $, 5 $ et 2 $</b>. Par la suite, la société promet un taux de croissance constant des dividendes de <b>5 %, indéfiniment</b>. Si le rendement exigé pour ces actions est de <b>12 %</b>, quel est leur cours actuel ?</p>
+    <div class="timeline">   11 $        8 $         5 $         2 $        2,10 $      2,21 $ …  (+5 %/an, indéfiniment)
+    ●───────────●───────────●───────────●───────────●───────────●──▶
+   t=0        t=1         t=2         t=3         t=4         t=5
+   (rien)     D1          D2          D3          D4 ← base de la phase constante :
+                                                    D5 = D4 × 1,05 = 2,10 $ et P4 = D5/(r−g)</div>
+
+    <div class="step"><span class="g">Étape 1 — Gordon à t = 4 (une période avant D5) :</span><br>
+      D<sub>5</sub> = D<sub>4</sub> × (1 + g) = 2 $ × 1,05 = <span class="c">2,10 $</span><br>
+      P<sub>4</sub> = D<sub>5</sub> / (r − g) = 2,10 $ / (0,12 − 0,05) = 2,10 $ / 0,07 = <span class="c">30,00 $</span></div>
+    <div class="step"><span class="g">Étape 2 — actualisation des 4 dividendes ET de P4 :</span><br>
+      P<sub>0</sub> = D<sub>1</sub>/(1,12) + D<sub>2</sub>/(1,12)<sup>2</sup> + D<sub>3</sub>/(1,12)<sup>3</sup> + (D<sub>4</sub> + P<sub>4</sub>)/(1,12)<sup>4</sup><br>
+      P<sub>0</sub> = 11/(1,12) + 8/(1,2544) + 5/(1,404928) + (2 + 30)/(1,57351936)<br>
+      P<sub>0</sub> = 9,8214 + 6,3776 + 3,5589 + 20,3366 = <span class="c">40,09 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">40,09</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux (D4 et P4 additionnés à t = 4)</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <span class="sep">·</span> C01 = <kbd>11</kbd> <span class="sep">·</span> C02 = <kbd>8</kbd> <span class="sep">·</span> C03 = <kbd>5</kbd> <span class="sep">·</span> C04 = <kbd>32</kbd> <span class="g">(= 2 + 30)</span> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>12</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>40,0945</b>
+    </div>
+    <p class="note"><b>Le 2 $ de l'année 4 compte deux fois</b> : une fois comme dividende perçu à t = 4, une fois comme base D<sub>4</sub> qui génère la perpétuité croissante. C'est le réflexe clé de la décomposition.</p>
+    <div class="aretenir"><b>À retenir :</b> le <b>dernier dividende explicite</b> sert à la fois de flux à sa date et de base (D<sub>n</sub>) du Gordon P<sub>n</sub> = D<sub>n+1</sub>/(r−g).</div>
+  </div>
+
+  <!-- EX 13 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">13</span><h3 class="ex-title">La croissance excessive — Rizzi Co.</h3><span class="chip">2 étapes</span></div>
+    <p class="enonce">La société Rizzi Co. connaît une croissance très rapide. On prévoit que les dividendes <b>augmenteront de 30 % par année au cours des 3 prochaines années</b>, pour ensuite <b>chuter à un taux constant de 6 %</b>. Si le rendement exigé est de <b>13 %</b> et que la société <b>vient tout juste de verser</b> un dividende annuel de <b>1,80 $</b>, quel est le cours actuel de l'action ?</p>
+    <div class="timeline">   D0=1,80 $    D1=2,3400   D2=3,0420   D3=3,9546   D4=4,1919   D5=4,4434 … (+6 %/an, indéfiniment)
+    ●─────────────●────────────●────────────●────────────●────────────●──▶
+   t=0          t=1          t=2          t=3          t=4          t=5
+  (versé)      +30 %        +30 %        +30 %         +6 %          +6 %
+                                            ↑ P3 = D4/(r−g) : valeur à t=3 de la phase stable</div>
+
+    <div class="step"><span class="g">Étape 1 — les dividendes de la phase de croissance excessive :</span><br>
+      D<sub>1</sub> = D<sub>0</sub> × 1,30 = 1,80 $ × 1,30 = <span class="c">2,3400 $</span><br>
+      D<sub>2</sub> = D<sub>1</sub> × 1,30 = 2,3400 $ × 1,30 = <span class="c">3,0420 $</span><br>
+      D<sub>3</sub> = D<sub>2</sub> × 1,30 = 3,0420 $ × 1,30 = <span class="c">3,9546 $</span></div>
+    <div class="step"><span class="g">Étape 2 — Gordon à t = 3 (une période avant D4) :</span><br>
+      D<sub>4</sub> = D<sub>3</sub> × 1,06 = 3,9546 $ × 1,06 = <span class="c">4,1919 $</span><br>
+      P<sub>3</sub> = D<sub>4</sub> / (r − g) = 4,1919 $ / (0,13 − 0,06) = 4,1919 $ / 0,07 = <span class="c">59,88 $</span></div>
+    <div class="step"><span class="g">Étape 3 — actualisation des 3 dividendes et de P3 :</span><br>
+      P<sub>0</sub> = D<sub>1</sub>/(1,13) + D<sub>2</sub>/(1,13)<sup>2</sup> + (D<sub>3</sub> + P<sub>3</sub>)/(1,13)<sup>3</sup><br>
+      P<sub>0</sub> = 2,3400/(1,13) + 3,0420/(1,2769) + (3,9546 + 59,8839)/(1,442897)<br>
+      P<sub>0</sub> = 2,0708 + 2,3823 + 44,2433 = <span class="c">48,70 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">48,70</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux (D3 et P3 additionnés à t = 3)</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <span class="sep">·</span> C01 = <kbd>2.34</kbd> <span class="sep">·</span> C02 = <kbd>3.042</kbd> <span class="sep">·</span> C03 = <kbd>63.8385</kbd> <span class="g">(= 3,9546 + 59,8839)</span> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>13</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>48,6964</b>
+    </div>
+    <div class="aretenir"><b>À retenir :</b> croissance en deux étapes = <b>3 blocs</b> : dividendes explicites de la phase 1 + Gordon à la date de stabilisation + actualisation de l'ensemble à t = 0.</div>
+  </div>
+
+  <!-- EX 15 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">15</span><h3 class="ex-title">La croissance négative — Antiquités</h3><span class="chip">g négatif</span></div>
+    <p class="enonce">La société Antiquités est une fabrique qui existe depuis déjà bien longtemps. Elle <b>vient tout juste de verser</b> un dividende annuel de <b>10,46 $</b>, mais la direction prévoit <b>réduire</b> les versements de <b>4 % par année, indéfiniment</b>. Si vous exigez un rendement de <b>11,5 %</b>, combien vous coûte une de ces actions aujourd'hui ?</p>
+    <div class="timeline">   D0=10,46 $   D1=10,0416   D2=9,6400   D3=9,2544 …  (−4 %/an, indéfiniment)
+    ●─────────────●─────────────●────────────●──▶
+   t=0          t=1           t=2          t=3     croissance NÉGATIVE : g = −4 %</div>
+
+    <div class="step"><span class="g">Étape 1 — le prochain dividende avec g = −0,04 :</span><br>
+      D<sub>1</sub> = D<sub>0</sub> × (1 + g) = 10,46 $ × (1 − 0,04) = 10,46 $ × 0,96 = <span class="c">10,0416 $</span></div>
+    <div class="step"><span class="g">Étape 2 — Gordon, en soignant le signe du dénominateur :</span><br>
+      P<sub>0</sub> = D<sub>1</sub> / (r − g) = 10,0416 $ / [0,115 − (−0,04)] = 10,0416 $ / (0,115 + 0,04) = 10,0416 $ / 0,155 = <span class="c">64,78 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">64,78</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — opération simple</span>
+      <kbd>10.46</kbd> <kbd>×</kbd> <kbd>0.96</kbd> <kbd>=</kbd> → 10,0416 &nbsp;<span class="sep">·</span>&nbsp; <kbd>10.0416</kbd> <kbd>÷</kbd> <kbd>0.155</kbd> <kbd>=</kbd> → <b>64,7845</b>
+    </div>
+    <p class="note"><b>Piège de signe :</b> avec g = −4 %, (1+g) = <b>0,96</b> et le dénominateur devient r − (−0,04) = r <b>+ 0,04</b> = 0,155. La croissance négative <b>réduit</b> le prix (l'action vaut moins que 10,0416/0,115 = 87,32 $, ce qu'elle vaudrait avec g = 0).</p>
+    <div class="aretenir"><b>À retenir :</b> g négatif fonctionne très bien dans Gordon — il suffit de brancher g = −4 % partout, signes compris.</div>
+  </div>
+
+  <!-- EX 16 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">16</span><h3 class="ex-title">Le calcul du dividende — Aoumes</h3><span class="chip gold">Chercher D0</span></div>
+    <p class="enonce">La société Aoumes possède des actions qui se négocient actuellement <b>64 $</b> chacune. Le marché exige un rendement de <b>10 %</b> pour les actions de la société. Si la société Aoumes maintient un taux de croissance constant des dividendes de <b>4,5 %</b>, quel était le montant du <b>dividende le plus récent</b> par action ?</p>
+    <div class="timeline">   D0 = ?     D1 = D0 × 1,045   D2 = …   (+4,5 %/an, indéfiniment)
+    ●─────────────●─────────────────●──▶
+   t=0          t=1                t=2     P0 = 64 $ (donné) → on ISOLE D0 dans Gordon</div>
+
+    <div class="step"><span class="g">Étape 1 — Gordon avec l'inconnue D0 :</span><br>
+      P<sub>0</sub> = D<sub>0</sub>(1 + g) / (r − g) &nbsp;⟹&nbsp; D<sub>0</sub> = P<sub>0</sub> × (r − g) / (1 + g)</div>
+    <div class="step"><span class="g">Étape 2 — substitution :</span><br>
+      D<sub>0</sub> = 64 $ × (0,10 − 0,045) / (1,045) = 64 $ × 0,055 / 1,045 = 3,52 $ / 1,045 = <span class="c">3,37 $</span> <span class="g">(3,3684 $)</span></div>
+    <div class="step"><span class="g">Vérification :</span> D<sub>1</sub> = 3,3684 $ × 1,045 = 3,52 $ &nbsp;→&nbsp; P<sub>0</sub> = 3,52 $ / (0,10 − 0,045) = 3,52 $ / 0,055 = <span class="c">64,00 $</span> ✔</div>
+    <div class="lcd"><span class="lab">Réponse — D0</span><span class="val">3,37</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — opération simple</span>
+      <kbd>64</kbd> <kbd>×</kbd> <kbd>0.055</kbd> <kbd>÷</kbd> <kbd>1.045</kbd> <kbd>=</kbd> → <b>3,3684</b>
+    </div>
+    <div class="aretenir"><b>À retenir :</b> Gordon est réversible — on peut isoler D<sub>0</sub>, D<sub>1</sub>, g ou r : D<sub>0</sub> = P<sub>0</sub>(r−g)/(1+g).</div>
+  </div>
+
+  <!-- EX 17 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">17</span><h3 class="ex-title">L'évaluation des actions privilégiées — Banque Meilleure</h3><span class="chip">Perpétuité différée</span></div>
+    <p class="enonce">La Banque Meilleure vient tout juste d'émettre une nouvelle action privilégiée. L'action offrira un dividende annuel de <b>20 $ sous forme de perpétuité</b>, et les <b>versements débuteront dans 20 ans</b> (premier versement à t = 20). Si le marché exige un rendement de <b>6,4 %</b> pour cet investissement, quel est le cours d'une action privilégiée de cette société aujourd'hui ?</p>
+    <div class="timeline">   t=0 …………………… t=19 : AUCUN versement        20 $      20 $      20 $ …   (perpétuité constante)
+    ●──────────…───────────────────●──────────●──────────●──▶
+   t=0                             t=19      t=20      t=21
+                                    ↑ VA de la perpétuité = D/r, trouvée UNE période avant
+                                      le premier versement (t = 20)</div>
+
+    <div class="step"><span class="g">Étape 1 — valeur de la perpétuité à t = 19 (une période avant le premier versement) :</span><br>
+      P<sub>19</sub> = D / r = 20 $ / 0,064 = <span class="c">312,50 $</span></div>
+    <div class="step"><span class="g">Étape 2 — actualisation de P19 à aujourd'hui :</span><br>
+      P<sub>0</sub> = P<sub>19</sub> / (1 + r)<sup>19</sup> = 312,50 $ / (1,064)<sup>19</sup> = 312,50 $ / 3,250057 = <span class="c">96,15 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">96,15</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — actualisation de P19</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>19</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>6.4</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>312.5</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>PV</kbd> → <b>−96,1522</b>
+    </div>
+    <p class="note"><b>Lecture de l'énoncé :</b> « les versements débuteront dans 20 ans » = le premier dividende arrive à t = 20, donc la perpétuité se value à t = 19 et on actualise 19 ans. (Si on interprétait plutôt un premier versement à t = 21, on obtiendrait 312,50/1,064<sup>20</sup> = 90,37 $ — mais la lecture standard reste t = 20.)</p>
+    <div class="aretenir"><b>À retenir :</b> perpétuité <b>différée</b> = deux temps : la perpétuité P = D/r (une période avant le premier versement), puis actualisation de ce montant jusqu'à t = 0.</div>
+  </div>
+</section>
+
+<!-- ============ PROBLÈMES COMPLEXES ============ -->
+<section>
+  <h2>Problèmes complexes · exercices 19, 20 et 23</h2>
+  <p class="h2note">longues phases de croissance non constante — décomposition systématique</p>
+
+  <!-- EX 19 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">19</span><h3 class="ex-title">Croissance des dividendes à deux périodes — Formula 51 Corp.</h3><span class="chip">2 étapes (8 + ∞)</span></div>
+    <p class="enonce">L'entreprise Formula 51 Corp. <b>vient tout juste de verser</b> un dividende annuel de <b>1,25 $</b> par action (D<sub>0</sub>). Ce dernier devrait croître à un taux de <b>28 % par année au cours des 8 prochaines années</b>, puis augmenter de <b>6 % par année jusqu'à l'infini</b>. Si le rendement exigé est de <b>13 %</b>, quel est le prix aujourd'hui de l'action ?</p>
+    <div class="timeline">   D0=1,25 $  D1=1,60 … D8=9,0072      D9=9,5476    D10=10,1205 … (+6 %/an, indéfiniment)
+    ●────────────●─────…──────●──────────────────●─────────────●──▶
+   t=0         t=1          t=8                t=9           t=10
+  (versé)     +28 %/an × 8 ans                  ↑ P8 = D9/(r−g), value à t=8</div>
+
+    <div class="step"><span class="g">Étape 1 — les 8 dividendes de la phase rapide : D<sub>t</sub> = D<sub>0</sub> × (1,28)<sup>t</sup></span><br>
+      D<sub>1</sub> = 1,25 × 1,28 = <span class="c">1,6000</span> &nbsp;·&nbsp; D<sub>2</sub> = <span class="c">2,0480</span> &nbsp;·&nbsp; D<sub>3</sub> = <span class="c">2,6214</span> &nbsp;·&nbsp; D<sub>4</sub> = <span class="c">3,3554</span> &nbsp;·&nbsp; D<sub>5</sub> = <span class="c">4,2950</span> &nbsp;·&nbsp; D<sub>6</sub> = <span class="c">5,4976</span> &nbsp;·&nbsp; D<sub>7</sub> = <span class="c">7,0369</span> &nbsp;·&nbsp; D<sub>8</sub> = <span class="c">9,0072</span></div>
+    <div class="step"><span class="g">Étape 2 — Gordon à t = 8 (une période avant D9) :</span><br>
+      D<sub>9</sub> = D<sub>8</sub> × (1 + g) = 9,0072 $ × 1,06 = <span class="c">9,5476 $</span><br>
+      P<sub>8</sub> = D<sub>9</sub> / (r − g) = 9,5476 $ / (0,13 − 0,06) = 9,5476 $ / 0,07 = <span class="c">136,3947 $</span></div>
+    <div class="step"><span class="g">Étape 3 — actualisation des 8 dividendes et de P8 à 13 % :</span></div>
+    <table class="tbl">
+      <thead><tr><th>t</th><th>D<sub>t</sub> ($)</th><th>(1,13)<sup>t</sup></th><th>VA = D<sub>t</sub>/(1,13)<sup>t</sup> ($)</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>1,6000</td><td>1,130000</td><td>1,4159</td></tr>
+        <tr><td>2</td><td>2,0480</td><td>1,276900</td><td>1,6039</td></tr>
+        <tr><td>3</td><td>2,6214</td><td>1,442897</td><td>1,8168</td></tr>
+        <tr><td>4</td><td>3,3554</td><td>1,630474</td><td>2,0580</td></tr>
+        <tr><td>5</td><td>4,2950</td><td>1,842435</td><td>2,3311</td></tr>
+        <tr><td>6</td><td>5,4976</td><td>2,081952</td><td>2,6406</td></tr>
+        <tr><td>7</td><td>7,0369</td><td>2,352605</td><td>2,9911</td></tr>
+        <tr><td>8</td><td>9,0072</td><td>2,658444</td><td>3,3881</td></tr>
+        <tr><td colspan="3">Somme des VA des dividendes</td><td class="ans">18,2455</td></tr>
+        <tr><td>8</td><td>P<sub>8</sub> = 136,3947</td><td>2,658444</td><td class="ans">51,3062</td></tr>
+        <tr class="total"><td colspan="3">P<sub>0</sub> = 18,2455 + 51,3062</td><td class="ans">69,55 $</td></tr>
+      </tbody>
+    </table>
+    <div class="step">P<sub>0</sub> = Σ<sub>t=1…8</sub> D<sub>t</sub>/(1,13)<sup>t</sup> + P<sub>8</sub>/(1,13)<sup>8</sup> = 18,2455 + 51,3062 = <span class="c">69,55 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">69,55</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux (D8 et P8 additionnés à t = 8)</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <span class="sep">·</span> C01 = <kbd>1.60</kbd> <span class="sep">·</span> C02 = <kbd>2.048</kbd> <span class="sep">·</span> C03 = <kbd>2.62144</kbd> <span class="sep">·</span> C04 = <kbd>3.35544</kbd> <span class="sep">·</span> C05 = <kbd>4.29497</kbd> <span class="sep">·</span> C06 = <kbd>5.49756</kbd> <span class="sep">·</span> C07 = <kbd>7.03687</kbd> <span class="sep">·</span> C08 = <kbd>145.40193</kbd> <span class="g">(= 9,0072 + 136,3947)</span> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>13</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>69,5517</b>
+    </div>
+    <p class="note">Remarque : 74 % de la valeur (51,31 $ sur 69,55 $) vient du bloc Gordon — normal quand la phase stable couvre l'infini.</p>
+    <div class="aretenir"><b>À retenir :</b> longue phase de forte croissance = chaque dividende explicite est actualisé <b>en montant simple</b>; pas de raccourci possible, mais la mécanique reste toujours la même en 3 blocs.</div>
+  </div>
+
+  <!-- EX 20 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">20</span><h3 class="ex-title">Croissance des dividendes à deux périodes — Chartreuse inc.</h3><span class="chip">2 étapes (11 + ∞)</span></div>
+    <p class="enonce">L'entreprise Chartreuse inc. connaît une croissance importante. Elle prévoit pour les <b>11 prochaines années un taux de croissance de 25 %</b> par année des dividendes qu'elle versera. Par la suite, les dividendes croîtront à un taux stable de <b>6 % par année jusqu'à l'infini</b>. Le rendement exigé par les actionnaires est de <b>12 %</b>. Si le <b>dernier dividende versé était de 1,74 $</b>, quel est le prix de l'action aujourd'hui ?</p>
+    <div class="timeline">   D0=1,74 $  D1=2,1750 … D11=20,2563    D12=21,4716   D13=22,76 … (+6 %/an, indéfiniment)
+    ●────────────●──────…──────●──────────────────●─────────────●──▶
+   t=0         t=1           t=11               t=12          t=13
+  (versé)     +25 %/an × 11 ans                  ↑ P11 = D12/(r−g), value à t=11</div>
+
+    <div class="step"><span class="g">Étape 1 — les 11 dividendes de la phase rapide : D<sub>t</sub> = D<sub>0</sub> × (1,25)<sup>t</sup></span><br>
+      D<sub>1</sub> = <span class="c">2,1750</span> &nbsp;·&nbsp; D<sub>2</sub> = <span class="c">2,7188</span> &nbsp;·&nbsp; D<sub>3</sub> = <span class="c">3,3984</span> &nbsp;·&nbsp; D<sub>4</sub> = <span class="c">4,2480</span> &nbsp;·&nbsp; D<sub>5</sub> = <span class="c">5,3101</span> &nbsp;·&nbsp; D<sub>6</sub> = <span class="c">6,6376</span> &nbsp;·&nbsp; D<sub>7</sub> = <span class="c">8,2970</span> &nbsp;·&nbsp; D<sub>8</sub> = <span class="c">10,3712</span> &nbsp;·&nbsp; D<sub>9</sub> = <span class="c">12,9640</span> &nbsp;·&nbsp; D<sub>10</sub> = <span class="c">16,2050</span> &nbsp;·&nbsp; D<sub>11</sub> = <span class="c">20,2563</span></div>
+    <div class="step"><span class="g">Étape 2 — Gordon à t = 11 (une période avant D12) :</span><br>
+      D<sub>12</sub> = D<sub>11</sub> × (1 + g) = 20,2563 $ × 1,06 = <span class="c">21,4716 $</span><br>
+      P<sub>11</sub> = D<sub>12</sub> / (r − g) = 21,4716 $ / (0,12 − 0,06) = 21,4716 $ / 0,06 = <span class="c">357,8607 $</span></div>
+    <div class="step"><span class="g">Étape 3 — actualisation des 11 dividendes et de P11 à 12 % :</span></div>
+    <table class="tbl">
+      <thead><tr><th>t</th><th>D<sub>t</sub> ($)</th><th>(1,12)<sup>t</sup></th><th>VA = D<sub>t</sub>/(1,12)<sup>t</sup> ($)</th></tr></thead>
+      <tbody>
+        <tr><td>1</td><td>2,1750</td><td>1,120000</td><td>1,9420</td></tr>
+        <tr><td>2</td><td>2,7188</td><td>1,254400</td><td>2,1674</td></tr>
+        <tr><td>3</td><td>3,3984</td><td>1,404928</td><td>2,4189</td></tr>
+        <tr><td>4</td><td>4,2480</td><td>1,573519</td><td>2,6997</td></tr>
+        <tr><td>5</td><td>5,3101</td><td>1,762342</td><td>3,0131</td></tr>
+        <tr><td>6</td><td>6,6376</td><td>1,973823</td><td>3,3628</td></tr>
+        <tr><td>7</td><td>8,2970</td><td>2,210681</td><td>3,7531</td></tr>
+        <tr><td>8</td><td>10,3712</td><td>2,475963</td><td>4,1888</td></tr>
+        <tr><td>9</td><td>12,9640</td><td>2,773079</td><td>4,6750</td></tr>
+        <tr><td>10</td><td>16,2050</td><td>3,105848</td><td>5,2176</td></tr>
+        <tr><td>11</td><td>20,2563</td><td>3,478550</td><td>5,8232</td></tr>
+        <tr><td colspan="3">Somme des VA des dividendes</td><td class="ans">39,2615</td></tr>
+        <tr><td>11</td><td>P<sub>11</sub> = 357,8607</td><td>3,478550</td><td class="ans">102,8764</td></tr>
+        <tr class="total"><td colspan="3">P<sub>0</sub> = 39,2615 + 102,8764</td><td class="ans">142,14 $</td></tr>
+      </tbody>
+    </table>
+    <div class="step">P<sub>0</sub> = Σ<sub>t=1…11</sub> D<sub>t</sub>/(1,12)<sup>t</sup> + P<sub>11</sub>/(1,12)<sup>11</sup> = 39,2615 + 102,8764 = <span class="c">142,14 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">142,14</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux (D11 et P11 additionnés à t = 11)</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <span class="sep">·</span> C01 = <kbd>2.175</kbd> <span class="sep">·</span> C02 = <kbd>2.71875</kbd> <span class="sep">·</span> C03 = <kbd>3.39844</kbd> <span class="sep">·</span> … <span class="sep">·</span> C10 = <kbd>16.20501</kbd> <span class="sep">·</span> C11 = <kbd>378.11697</kbd> <span class="g">(= 20,2563 + 357,8607)</span> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>12</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>142,1379</b>
+    </div>
+    <p class="note">L'annuité en croissance (VAAC) de la feuille de formules donnerait le même 39,26 $ pour les 11 dividendes, mais le cours privilégie la <b>décomposition</b> : plus longue à écrire, mais impossible à se tromper de période.</p>
+    <div class="aretenir"><b>À retenir :</b> même après 11 ans de croissance à 25 % (taux supérieur à r !), la structure est légale : g &gt; r est permis <b>temporairement</b>; seul le taux <b>à l'infini</b> (6 %) doit être inférieur à r.</div>
+  </div>
+
+  <!-- EX 23 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">23</span><h3 class="ex-title">La croissance variable — Kanésataquai</h3><span class="chip">g dégressif par points</span></div>
+    <p class="enonce">La société Kanésataquai <b>vient tout juste de verser</b> un dividende de <b>2,45 $</b> par action. La société compte <b>augmenter son dividende de 20 % l'année prochaine</b>, puis <b>réduira le taux de croissance de 5 points de pourcentage par année</b> pour atteindre finalement la moyenne de l'industrie, soit <b>5 %</b>. Après quoi, le taux de croissance restera constant, <b>indéfiniment</b>. Si le rendement exigé est de <b>11 %</b>, quel est le cours de ces actions aujourd'hui ?</p>
+    <div class="timeline">   D0=2,45 $  D1=2,9400  D2=3,3810  D3=3,7191  D4=3,9051   D5=4,1003 … (+5 %/an, indéfiniment)
+    ●────────────●───────────●───────────●───────────●────────────●──▶
+   t=0         t=1         t=2         t=3         t=4          t=5
+  (versé)     +20 %       +15 %       +10 %       +5 %          +5 %
+              (baisse de 5 POINTS par année jusqu'à 5 %)  ↑ P4 = D5/(r−g)</div>
+
+    <div class="step"><span class="g">Étape 1 — les taux de croissance : 20 %, puis −5 points par année → 15 %, 10 %, 5 % (ensuite 5 % constant). Les dividendes :</span><br>
+      D<sub>1</sub> = 2,45 $ × 1,20 = <span class="c">2,9400 $</span><br>
+      D<sub>2</sub> = 2,9400 $ × 1,15 = <span class="c">3,3810 $</span><br>
+      D<sub>3</sub> = 3,3810 $ × 1,10 = <span class="c">3,7191 $</span><br>
+      D<sub>4</sub> = 3,7191 $ × 1,05 = <span class="c">3,9051 $</span> &nbsp;<span class="g">(3,905 055 $)</span></div>
+    <div class="step"><span class="g">Étape 2 — Gordon à t = 4 (une période avant D5, croissance stabilisée à 5 %) :</span><br>
+      D<sub>5</sub> = D<sub>4</sub> × (1 + g) = 3,9051 $ × 1,05 = <span class="c">4,1003 $</span><br>
+      P<sub>4</sub> = D<sub>5</sub> / (r − g) = 4,1003 $ / (0,11 − 0,05) = 4,1003 $ / 0,06 = <span class="c">68,3385 $</span></div>
+    <div class="step"><span class="g">Étape 3 — actualisation des 4 dividendes et de P4 :</span><br>
+      P<sub>0</sub> = D<sub>1</sub>/(1,11) + D<sub>2</sub>/(1,11)<sup>2</sup> + D<sub>3</sub>/(1,11)<sup>3</sup> + (D<sub>4</sub> + P<sub>4</sub>)/(1,11)<sup>4</sup><br>
+      P<sub>0</sub> = 2,9400/(1,11) + 3,3810/(1,2321) + 3,7191/(1,367631) + (3,9051 + 68,3385)/(1,51807041)<br>
+      P<sub>0</sub> = 2,6486 + 2,7441 + 2,7194 + 47,5890 = <span class="c">55,70 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — P0</span><span class="val">55,70</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — feuille des flux (D4 et P4 additionnés à t = 4)</span>
+      <kbd class="gold">2ND</kbd> <kbd>CE|C</kbd> <span class="sep">·</span> <kbd>CF</kbd> → CF<sub>0</sub> = <kbd>0</kbd> <span class="sep">·</span> C01 = <kbd>2.94</kbd> <span class="sep">·</span> C02 = <kbd>3.381</kbd> <span class="sep">·</span> C03 = <kbd>3.7191</kbd> <span class="sep">·</span> C04 = <kbd>72.2435</kbd> <span class="g">(= 3,9051 + 68,3385)</span> <span class="sep">·</span> <kbd>NPV</kbd> → I = <kbd>11</kbd> <kbd>ENTER</kbd> <kbd>↓</kbd> <kbd>CPT</kbd> → <b>55,7012</b>
+    </div>
+    <p class="note"><b>Vocabulaire précis :</b> « réduire de 5 <b>points</b> de pourcentage » = 20 % → 15 % → 10 % → 5 %. Ce n'est pas « réduire de 5 % » (qui donnerait 20 % → 19 % → 18,05 %…). La stabilisation arrive à g = 5 %, donc Gordon à t = 4.</p>
+    <div class="aretenir"><b>À retenir :</b> croissance dégressive « par points » : construire le tableau des g<sub>t</sub> d'abord, composer les dividendes un à un (D<sub>t</sub> = D<sub>t−1</sub> × (1+g<sub>t</sub>)), puis Gordon à la date de stabilisation.</div>
+  </div>
+</section>
+
+<!-- ============ RÉSUMÉ ============ -->
+<section style="border-bottom:none">
+  <div class="resume">
+    <h3>En gros, retiens que…</h3>
+    <p>👉 <b>Trois outils seulement</b> : perpétuité P<sub>0</sub> = D/r (privilégiées), Gordon P<sub>t</sub> = D<sub>t+1</sub>/(r−g), et la décomposition (dividendes explicites + Gordon + actualisation).</p>
+    <p>👉 <b>Toujours situer le premier versement</b> : « vient d'être versé » → D<sub>0</sub> donné, premier flux à t = 1, D<sub>1</sub> = D<sub>0</sub>(1+g); « versera l'année prochaine » → D<sub>1</sub> déjà donné.</p>
+    <p>👉 Gordon se lit <b>une période avant le premier versement</b> de la phase constante — c'est LA source d'erreur n<sup>o</sup>&nbsp;1 (exercices 10, 12, 13, 17, 19, 20, 23).</p>
+    <p>👉 Le <b>dernier dividende explicite compte deux fois</b> (flux perçu + base du Gordon) : additionne-le à P<sub>n</sub> avant d'actualiser.</p>
+    <p>👉 g négatif : brancher (1+g) = 0,96 et un dénominateur r+|g|. g &gt; r toléré temporairement, jamais à l'infini.</p>
+    <p>👉 Dividendes autres qu'annuels : <b>taux périodique équivalent</b> d'abord (ex. trimestriel : r<sub>trim</sub> = (1+r)<sup>1/4</sup> − 1), Gordon ou perpétuité ensuite avec D trimestriel.</p>
+  </div>
+  <p style="margin-top:18px;font-size:.92rem;color:var(--muted)">✏️ <b>Petit test de compréhension :</b> une action privilégiée verse 1,60 $ par trimestre, indéfiniment, et le marché exige 9 % effectif annuel. Quel est son prix ? <span style="color:var(--faint)">(Indice : r<sub>trim</sub> = 1,09<sup>0,25</sup> − 1 ≈ 2,1779 % → P<sub>0</sub> = 1,60/0,021779 ≈ 73,47 $.)</span></p>
+</section>
+
+<footer>Corrigé — Chapitre 8 · L'évaluation du capital-actions · pages 260–262 · exercices 1, 4, 8, 10, 11, 12, 13, 15, 16, 17, 19, 20, 23</footer>
+</div>
+
+<script>
+(function(){
+  var root=document.documentElement, btn=document.getElementById('tbtn'), K='ch8-theme';
+  function sysDark(){return window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;}
+  function cur(){var a=root.getAttribute('data-theme');return a?a:(sysDark()?'dark':'light');}
+  function apply(t){root.setAttribute('data-theme',t);btn.textContent=(t==='dark'?'☀️':'🌙');try{localStorage.setItem(K,t);}catch(e){}}
+  try{var s=localStorage.getItem(K);if(s)root.setAttribute('data-theme',s);}catch(e){}
+  btn.textContent=(cur()==='dark'?'☀️':'🌙');
+  btn.addEventListener('click',function(){apply(cur()==='dark'?'light':'dark');});
+})();
+</script>
+</body>
+</html>

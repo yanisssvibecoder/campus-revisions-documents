@@ -1,0 +1,8 @@
+11 | Description et objectifs
+
+Séance 11
+Description
+Différences entre dette et actions
+Définition d'une structure de capital optimale
+Théories de Modigliani et Miller (avec et sans impôt)
+Théorie du compromis statique

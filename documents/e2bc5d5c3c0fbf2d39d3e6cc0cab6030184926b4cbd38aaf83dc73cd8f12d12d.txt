@@ -1,0 +1,18 @@
+La chaîne de production – page 394
+Solution
+6.1 
+6.2	Le temps de cycle du processus correspond au temps de cycle le plus long soit celui de l’étape 5 : 5,5 minutes.
+6.3 	La cadence du processus est égale à 60 / cycle soit 60 / 5,5 = 10,9 unités / heure
+6.4	Le calcul du coût de revient d’une unité correspond au temps standard total :
+	4 + 9 + 5 + 15 + 11 = 44 minutes
+6.5	On utilise le temps de cycle, d’où on tire la cadence. 
+	On produit 10,9 unités / heure x 7 heures x 5 jours 
+donc on produit 381,5 unités par semaine.
+6.6	Pour calculer la capacité d’un processus parallèle :
+	Somme des temps standard : 44 minutes
+	Cadence d’un employé : 60 / 44 = 1,36 unité / heure
+	Cadence totale : 1,36 unité / heure x 9 employés = 12,24 unités / heure
+	Capacité hebdomadaire : 12,24 x 35 heures = 428,4 unités / semaine
+	On explique la différence avec la réponse en 6.5 par l’absence de goulot d’étranglement dans un processus parallèle. Le taux d’utilisation de chaque employé est donc de 100 %. 
+ | Étape 1 | Étape 2 | Étape 3 | Étape 4 | Étape 5
+Temps de cycle (min.) | 4 | 4,5 | 5 | 5 | 5,5

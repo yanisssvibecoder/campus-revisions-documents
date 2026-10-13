@@ -1,0 +1,9 @@
+## xl/worksheets/sheet1.xml
+A1: Ventes quotidiennes de beignes (en douzaines)
+B3: Il y a 4 semaines | C3: Il y a 3 semaines | D3: Il y a 2 semaines | E3: Semaine dernière
+A4: Lundi | B4: 2200 | C4: 2400 | D4: 2300 | E4: 2400
+A5: Mardi | B5: 2000 | C5: 2100 | D5: 2200 | E5: 2200
+A6: Mercredi | B6: 2300 | C6: 2400 | D6: 2300 | E6: 2500
+A7: Jeudi | B7: 1800 | C7: 1900 | D7: 1800 | E7: 2000
+A8: Vendredi | B8: 1900 | C8: 1800 | D8: 2100 | E8: 2000
+A9: Samedi | B9: 2800 | C9: 2700 | D9: 3000 | E9: 2900

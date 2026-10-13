@@ -1,0 +1,636 @@
+## Page 1
+  DOCUMENTATION SUR LES RÉCITS UTILISATEURS EN PROJETS AGILES *
+
+
+
+Les récits utilisateur sont un élément crucial de la méthodologie Agile et sont
+utilisés pour définir les exigences du point de vue de l’utilisateur. La rédaction de
+récits utilisateur efficaces assure qu’un produit soit axé sur la satisfaction des
+besoins des utilisateurs et puisse aboutir à un produit réussi. Dans ce texte, nous
+introduirons les récits utilisateur et leurs rôles dans le processus de conception et
+de développement d’une solution numérique. Nous présenterons aussi comment
+rédiger des récits utilisateur efficaces et comment évaluer les solutions conçues à
+partir de ceux-ci.
+
+1. Récits utilisateurs
+
+1.1. Objectif
+Les récits utilisateurs sont très similaires à la définition des besoins que nous avons
+utilisée depuis le début de la session. Ils permettent aux utilisateurs et aux analystes
+d’affaires de présenter les fonctionnalités clés d’un futur système à partir de phrases
+clés rédigées selon le point de vue de l’utilisateur et non celui des équipes techniques
+qui réalisent le futur système. Ils sont basés sur une collaboration d’équipes composées
+d’utilisateurs, d’analystes d’affaires et les membres de l’équipe de développement.
+
+1.2. Description
+
+1.2.1. Nature et rôle des récits utilisateurs
+Les récits utilisateurs permettent de saisir les besoins d’une partie prenante spécifique
+(l’utilisateur) et d’aider les équipes à définir les fonctionnalités qui lui sont utiles grâce à
+une documentation concise et simple. Elles servent de base à l’identification des besoins
+et facilitent la priorisation, l’estimation et la planification des solutions.
+
+Axés sur la valeur ajoutée pour la partie prenante, les récits utilisateurs encouragent
+l’exploration des exigences en favorisant les échanges entre les membres de l’équipe et
+en regroupant les exigences fonctionnelles en vue de leur réalisation et de leur mise en
+œuvre.
+
+1.2.2.  Utilisations des récits utilisateurs
+Les récits utilisateurs peuvent être utilisés :
+
+•   afin de cerner les besoins des parties prenantes et de prioriser le développement de
+    solutions,
+
+
+* Ce document est une adaptation d’extraits de la documentation du BABOK (Business Analysis Body of Knowledge)
+  et du livre compagnon sur les extensions agiles au BABOK.
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 1
+
+## Page 2
+•  comme base d’estimation et de planification de la mise en œuvre de la solution,
+•  comme base pour la génération de tests d’acceptation utilisateur,
+•  en tant qu’indicateur de mesure de la création de valeur,
+•  en tant qu’unité de suivi des exigences,
+•  en tant qu’unité de gestion pour les comptes-rendus de projet.
+
+
+1.2.3.  Critère INVEST
+Un outil couramment utilisé pour garantir la qualité des récits utilisateurs est le critère
+INVEST, qui exige que les récits utilisateurs soient :
+
+•  Indépendant : représente une fonctionnalité qui peut être fournie indépendamment
+   des autres fonctionnalités.
+
+   •  Exemple : « La saisie du code PIN du distributeur automatique de billets est
+      indépendante du « montant du retrait ».
+
+•  Négociable : l’équipe peut négocier les modalités de livraison.
+•  Valorisé : exprime la valeur pour le client.
+
+   •  Exemple : La « saisie du code PIN au guichet automatique » permet uniquement
+     à la personne autorisée d’accéder au compte.
+
+•  Estimable : l’équipe peut estimer l’effort à fournir en fonction de son expérience
+   passée.
+•  Dimension appropriée (Size) : l’équipe peut le terminer en une seule itération. En
+   général, plus c’est petit, mieux c’est.
+•  Testable : peut être validé objectivement par une partie prenante.
+
+1.3. Éléments
+Les récits utilisateurs suivent les 3C : Carte, Conversation et Confirmation.
+
+1.3.1. Carte
+Titre (facultatif)
+
+Le titre du récit utilisateur décrit une activité que l’utilisateur souhaite réaliser avec la
+solution. Il s’agit généralement d’une phrase exprimant un objectif avec un verbe d’action,
+à l’instar des titres des cas d’utilisation1.
+
+Déclaration de valeur
+
+
+
+1 Une technique distincte non couverte dans le cours TECH 10701 et plutôt vue dans le cours TECH 20709
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 2
+
+## Page 3
+Il n’existe pas de structure obligatoire pour les récits utilisateurs. Le format le plus courant
+comprend trois composantes :
+
+•  Qui : un rôle ou une persona utilisateur.
+•  Quoi : une action, un comportement, une caractéristique ou une qualité nécessaire.
+•  Pourquoi : le bénéfice ou la valeur retirés par l’utilisateur lorsque le récit est mis en
+   œuvre.
+
+Exemple de format 1
+
+« En tant que <qui>, j’ai besoin de (ou je veux) <quoi>, afin que <pourquoi> ».
+
+Exemple : En tant que titulaire d’un compte bancaire, j’ai besoin d’accéder à mon compte
+pour pouvoir retirer de l’argent.
+
+Exemple de format 2
+
+« Pour <valeur commerciale>, en tant que <rôle>, je dois <comportement> ».
+
+Exemple : Pour retirer de l’argent de mon compte, en tant que titulaire d’un compte
+bancaire, j’ai besoin d’y avoir accès.
+
+1.3.2. Conversation
+L’objectif des  récits  utilisateurs est de  faciliter  la communication entre les parties
+prenantes et l’équipe de développement. Les récits utilisateurs aident les équipes à
+explorer et à comprendre la fonctionnalité décrite et la valeur qu’elle apportera à la partie
+prenante. Un récit utilisateur bien rédigé encourage les échanges au sein de l’équipe.
+
+1.3.3. Confirmation (Critères d’acceptation)
+Un récit utilisateur peut être étayé par l’élaboration de critères d’acceptation détaillés (voir
+Critères d’acceptation et d’évaluation). Ces critères définissent les limites du  récit
+utilisateur et aident l’équipe à comprendre les fonctionnalités que la solution doit offrir
+pour apporter de la valeur aux parties prenantes. Ils permettent de vérifier et de confirmer
+que la solution répond bien au besoin de l’utilisateur. Ils peuvent être complétés par
+d’autres modèles d’analyse, au besoin.
+
+Les critères d’acceptation aident l’équipe de développement à identifier les fonctionnalités
+minimales requises. Ils sont principalement utilisés pour vérifier et valider le produit. Ils
+servent également de base pour  définir les tests permettant de valider  le produit
+développé.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 3
+
+## Page 4
+1.4. Considérations relatives à l’utilisation des récits utilisateurs
+
+1.4.1. Points forts
+•  Facilement compréhensible par tous les participants de l’équipe.
+•  Peut être développé grâce à diverses techniques d’élicitation, y compris, mais sans
+    s’y limiter, des ateliers animés, des enquêtes contextuelles et d’autres techniques de
+    collecte d’informations.
+•   Privilégie la valeur ajoutée pour les parties prenantes.
+•  Renforce une compréhension partagée du domaine d’activité par la collaboration pour
+    définir et explorer des scénarios utilisateurs. Le processus de collaboration renforce
+   l’engagement de l’équipe.
+•  Est lié à des fonctionnalités petites, implémentables et testables, ce qui facilite une
+    livraison rapide et des retours clients fréquents.
+•  Suffisamment simples pour que chacun puisse apprendre à les écrire en quelques
+   minutes, en veillant à toujours apporter de la valeur ajoutée à l’entreprise.
+•   Invitent à la discussion pour une décomposition et une exploration plus approfondie.
+•  Peuvent être complétés par des modèles d’analyse (tels que la modélisation du
+   processus,  la  modélisation des données  et des  règles  d’affaires, des  tests
+   d’acceptation utilisateurs, et des maquettes ou prototypes d’écrans.
+
+1.4.2. Limites
+En général, les récits d’utilisateurs sont conçus comme un outil permettant de saisir et de
+hiérarchiser les exigences à court terme, et non comme un moyen de conserver des
+connaissances à long terme ou de fournir une analyse détaillée. Le non-respect de ce
+principe peut entraîner les problèmes suivants :
+
+•  Cette approche conversationnelle peut représenter un défi pour l’équipe, car elle ne
+   dispose pas de toutes les réponses ni des spécifications détaillées au préalable.
+•  Les récits utilisateurs engendrent d’autres récits utilisateurs par décomposition, il est
+   donc essentiel d’organiser l’information pour garantir qu’elle soit à jour et pertinente.
+•  La collection de récits utilisateurs doit être régulièrement affinée et priorisée.
+•  Nécessite du contexte ; les équipes peuvent se concentrer excessivement sur les
+    récits utilisateurs individuels et perdre de vue la vision d’ensemble et la feuille de route
+   du produit.
+•  Cette technique inclut la fonctionnalité souhaitée de sorte que les équipes peuvent
+   prendre l’habitude de négliger l’énoncé de valeur (POURQUOI) et de ne se concentrer
+   que sur la fonctionnalité (QUOI).
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 4
+
+## Page 5
+2. Décomposition des récits
+
+2.1. Objet
+La décomposition des récits est utilisée pour représenter les exigences d’une solution au
+niveau de détail approprié et les aligner sur les résultats souhaités.
+
+2.2. Description
+La décomposition des récits offre une structure permettant de définir les différents
+éléments des exigences à des niveaux de granularité de plus en plus  petits, en
+commençant par le contexte système global et en descendant à plusieurs niveaux pour
+finalement définir les critères d’acceptation détaillés pour chaque récit.
+
+Toute histoire trop vaste ou insuffisamment comprise pour être élaborée, estimée ou
+livrée sous forme de récit est prête à être décomposée. L’approche agile la plus courante
+en matière de décomposition des récits peut être décrite comme « l’étendue avant la
+profondeur » :
+    •  La décomposition décrit d’abord une vue d’ensemble des objectifs commerciaux à
+       atteindre,
+    •  La vue d’ensemble est décomposée en composants plus petits qui apportent des
+      incréments  de  valeur   client  (parfois  appelés  Fonctionnalités  Minimales
+      Commercialisables ou FMC),
+    •  Ces composants plus petits sont décomposés en récits, et les récits sont élaborés
+     en incréments plus petits avec des critères d’acceptation (voir Élaboration du
+        récit).
+
+La décomposition des récits utilisateurs est réalisée progressivement. Dans les initiatives
+agiles, les analyses initiales permettent d’identifier les objectifs, les facteurs clés de
+succès (FCS) et la plupart des principaux récits utilisateurs. La décomposition initiale des
+récits utilisateurs est effectuée de manière incrémentale.  Il est entendu que ces récits
+utilisateurs sont susceptibles d’évoluer et que la compréhension des exigences s’affinera
+avec le temps. Par conséquent, une décomposition jusqu’au niveau de détail le plus fin
+risque d’être une activité contre-productive en début d’initiative.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 5
+
+## Page 6
+                             Figure 1 : Décomposition du récit
+
+La décomposition des récits utilisateurs s’applique de différentes manières selon le
+contexte. Par exemple, certains analystes métier suivent le modèle de façon linéaire,
+comme illustré dans le diagramme ci-dessus, tandis que d’autres utilisent des techniques
+adaptées à leur environnement. Une fois la fonctionnalité minimale commercialisable
+(FMC) ou les groupes de fonctionnalités définis, les cas d’utilisation peuvent remplacer
+les récits utilisateurs. Les analystes métier privilégient une collaboration dynamique, la
+facilitation et la communication pour obtenir l’adhésion au niveau de détail minimal requis
+pour développer et livrer la solution.
+
+2.3. Éléments
+
+2.3.1. Objectifs de la solution
+Les objectifs de la solution représentent le niveau le plus élevé des exigences métier. Ils
+incarnent les motivations de l’entreprise à entreprendre cette initiative et constituent le
+cadre de référence pour l’évaluation de tous les besoins détaillés.
+
+2.3.2. FMC/Composante
+Les fonctionnalités minimales commercialisables sont des regroupements logiques de
+fonctionnalités et de capacités que la solution livrée doit offrir pour justifier sa mise sur le
+marché. Elles constituent souvent les thèmes d’une version et permettent de donner une
+vision d’ensemble du produit en cours de développement.
+
+2.3.3. Récit
+Représente un récit utilisateur, un récit de tâche, un cas d’utilisation ou une exigence à
+implémenter dans la solution livrée.
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 6
+
+## Page 7
+2.3.4. Critères d’acceptation
+Conditions de satisfaction ou critères nécessaires à la validation d’Un récit utilisateur. Ils
+peuvent se présenter sous forme de listes d’éléments, de spécifications ou de tests
+d’acceptation  utilisateurs (ou une combinaison de ces éléments). Les exigences
+détaillées sont représentées et validées dans les critères d’acceptation.
+
+2.4. Considérations relatives à l’utilisation
+
+2.4.1. Points forts
+    •  Permet d’éviter le problème courant qui consiste à se perdre dans les détails des
+       récits utilisateurs et à perdre de vue le contexte global.
+    •    Il est important que les membres de l’équipe gardent à l’esprit les buts et objectifs
+     du projet et puissent relier les fonctionnalités mises en œuvre ou demandées aux
+       objectifs commerciaux sous-jacents.
+    •  La décomposition du produit en FMC et en épopées facilite la planification au
+      niveau des versions, offre une visibilité sur le développement de la solution et aide
+     à coordonner les activités de programmes externes, telles que la gestion du
+     changement organisationnel et la formation des utilisateurs.
+
+2.4.2. Limites
+    •  Une erreur fréquente consiste à considérer la décomposition des récits utilisateurs
+     comme un moyen de revenir à des exigences détaillées dès le départ. Garantir le
+      maintien d’une approche minimaliste et adaptée aux besoins du client implique de
+       savoir quand arrêter la décomposition.
+    •  La décomposition des récits utilisateurs ne doit pas se baser sur un processus
+      (étapes 1, 2 et 3 d’un flux), une architecture (création de la base de données, du
+      serveur et de l’interface utilisateur) ou une procédure (conception, développement
+       et tests). Elle doit plutôt s’appuyer sur les fonctionnalités valorisées par le client.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 7
+
+## Page 8
+3. Élaboration des récits
+
+3.1. Objet
+L’élaboration des récits utilisateurs sert à définir la conception détaillée et les critères
+d’acceptation d’un récit, nécessaires à la livraison d’une solution fonctionnelle.
+
+3.2. Description
+L’élaboration du récit est le niveau le plus fin de la décomposition du récit et le processus
+par lequel le récit est décomposé en tâches. L’élaboration du récit facilite la collecte et la
+communication des exigences les plus détaillées.
+
+L’élaboration des récits utilisateurs est une activité continue qui se déroule dans l’horizon
+de livraison. L’élaboration des récits utilisateurs au moment opportun et de manière ciblée
+permet de  réduire  les  efforts  inutiles.  Les  analystes  d’affaires  développent  et
+communiquent en permanence des exigences dynamiques, ce qui exige une grande
+maîtrise de l’animation et de la communication.
+
+À chaque itération, du temps est prévu pour approfondir le récit et en comprendre les
+détails. Ce travail se déroule généralement lors d’un atelier réunissant les personnes
+chargées de sa mise en œuvre : les experts du domaine, le représentant du client qui a
+besoin du récit, la personne qui le testera et un analyste métier qui anime les échanges
+et apporte des éléments de critique. L’élaboration du récit est effectuée en amont de
+l’atelier de planification.
+
+Afin de garantir que les exigences détaillées incluent les retours d’information les plus
+récents sur l’apprentissage, l’élaboration des récits est effectuée juste à temps pour les
+récits qui ont été jugés pertinents pour la prochaine itération.
+
+3.3. Éléments
+
+3.3.1. Élicitation
+La sollicitation consiste à recueillir ou à recevoir des informations auprès des parties
+prenantes ou d’autres sources.
+
+3.3.2. Décomposition du récit
+L’élaboration du récit peut identifier les occasions de décomposer les récits (pour plus
+d’informations, voir Décomposition du récit).
+
+3.3.3. Critères d’acceptation
+L’élaboration du  récit permet de  clarifier, d’ajouter ou de supprimer des  critères
+d’acceptation pour un récit (pour plus d’informations, voir Critères d’acceptation et
+d’évaluation).
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 8
+
+## Page 9
+3.3.4. Éléments optionnels supplémentaires
+L’élaboration du récit utilisateur peut identifier les tâches nécessaires à la réalisation de
+la prochaine itération. Ces résultats peuvent inclure
+   •  tâches, définitions et analyses,
+   •  exemples et scénarios pour expliquer l’intention du client concernant l’histoire,
+   •  des modèles à faible fidélité pour clarifier la conception technique ou de processus
+       (par exemple, des modèles de données et des diagrammes de flux de données),
+   •  maquettes d’écran ou de rapport, et
+   •  tableaux de données d’entrée/sortie.
+
+L’élaboration du récit aboutit à une compréhension partagée entre les parties prenantes
+de ce qui doit être livré pour que ce récit soit considéré comme « terminé ».
+
+3.4. Considérations relatives à l’utilisation
+
+3.4.1. Points forts
+   •  Réduit le temps de recueil des besoins, et potentiellement la documentation, en
+      se concentrant sur les fonctionnalités actuelles.
+   •  Le fait de préciser les exigences uniquement lorsque cela est nécessaire permet
+     à l’équipe d’éviter le travail de collecte des exigences pour des fonctionnalités qui
+      changeront d’ici à ce qu’elles soient prêtes à être mises en œuvre.
+   •  Permet à l’équipe de rester concentrée sur la fonctionnalité prioritaire.
+
+3.4.2. Limitations
+   •  Un développement incomplet peut entraîner un excès ou un manque de détails,
+     empêchant ainsi de terminer une histoire.
+   •  Le choix du moment opportun est délicat. Si la collecte est effectuée trop tôt, les
+       informations risquent d’être obsolètes pour la version concernée et  il faudra les
+        recueillir à nouveau. En revanche, si elle est effectuée trop tard, elle peut retarder
+        le passage au développement au sein de l’équipe projet.
+   •    Il peut être difficile de recueillir le niveau de détail approprié pour que les exigences
+      puissent être élaborées, testées et comparées aux critères d’acceptation.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                        p. 9
+
+## Page 10
+4. Cartographie narrative
+
+4.1. Objectif
+La cartographie des récits utilisateurs est utilisée pour faciliter la compréhension des
+fonctionnalités du produit, du flux d’utilisation et pour aider à prioriser la livraison du
+produit.
+
+4.2. Description
+La cartographie des récits utilisateurs offre une représentation visuelle et concrète de la
+séquence d’activités prises en charge par une solution. Elle utilise une structure de grille
+bidimensionnelle pour afficher la séquence et les regroupements des aspects clés du
+produit sur l’axe horizontal, et le détail et la priorité des récits sur l’axe vertical. La
+cartographie des récits utilisateurs est une technique de décomposition qui permet une
+compréhension progressive d’une solution, en partant d’une vue d’ensemble et en
+descendant jusqu’aux récits utilisateurs détaillés.
+
+La cartographie narrative est un outil efficace pour comprendre les besoins tout en se
+concentrant sur les éléments prioritaires à analyser.
+
+Une cartographie des récits utilisateurs est conçue pour faciliter la visualisation des
+résultats d’une solution en fonction de son utilisation et de sa priorité. Elle est souvent
+présentée à l’équipe de développement lors des réunions de planification des versions.
+En analysant cette cartographie, les analystes métier peuvent identifier plus facilement
+les dépendances générées par le flux prévu des récits utilisateurs. La cartographie des
+récits utilisateurs peut également servir à l’évaluation et à la gestion des risques en
+examinant comment les récits devront interagir pour apporter de la valeur ajoutée à
+l’entreprise.
+
+L’illustration suivante est un exemple de schéma narratif.
+
+
+
+
+
+                                 Figure 2 : Carte narrative
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 10
+
+## Page 11
+4.3. Éléments
+
+4.3.1. Thèmes ou activités
+La première ligne d’une carte narrative présente tous les thèmes (souvent appelés
+Épopées en terminologie Agile) ou les activités connus qu’un client suivra dans un
+parcours linéaire. Par exemple, les thèmes liés à l’utilisation d’un distributeur automatique
+de billets pourraient ressembler à ceci :
+    1.  Activer la machine.
+    2. Valider les informations d’identification du compte.
+    3. Effectuer demande.
+    4. Recevoir résultat.
+    5. Choisissez la finalisation ou une autre transaction.
+
+Ces thèmes offrent une vue d’ensemble de toutes les activités pour tous les profils
+connus.
+
+4.3.2. Récits ou fonctionnalités
+Sous chaque thème, des récits ou des fonctionnalités individuels sont présentés. Ceux-
+ci incluent toutes les fonctionnalités connues liées à un thème. Chaque récit peut
+concerner un seul personnage ou plusieurs.
+
+4.3.3. Ordre de priorité
+Les récits sont classés par ordre de priorité, du plus simple au plus complexe, au sein de
+chaque thème. Cela permet de répartir les fonctionnalités entre les différentes versions.
+Un classement par ordre de priorité permet d’identifier les récits qui intéressent le plus
+les personas les plus importants et ceux qui doivent être implémentés avant les
+fonctionnalités suivantes.
+
+4.3.4. Facilitation
+La cartographie des  récits  utilisateurs est une technique d’auto-animation. Aucun
+animateur dédié n’est requis pour élaborer une carte des récits utilisateurs. Souvent,  il
+s’agit d’une activité de groupe visant à prioriser les récits existants, identifier ceux qui
+manquent  et  sélectionner  ceux  qui  nécessitent  un  développement  (voir  7.19.
+Développement des récits utilisateurs) et une décomposition (voir 7.18. Décomposition
+des récits utilisateurs). Un responsable produit peut accompagner le groupe en prenant
+des décisions si nécessaire.
+
+Les thèmes et les récits sont préparés avant la séance de cartographie des récits afin de
+concentrer les efforts de l’équipe sur la priorisation et la compréhension du parcours
+client.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 11
+
+## Page 12
+4.4. Considérations relatives à l’utilisation
+
+4.4.1. Points forts
+   •  Lorsque le contexte global d’une solution n’est pas pris en compte, les projets
+       agiles risquent de s’enliser dans les détails et d’échouer à assembler efficacement
+       les composants pour créer une valeur ajoutée globale. Les cartes narratives
+      permettent d’éviter cet écueil fréquent : se perdre dans les détails des récits
+       utilisateurs et risquer de perdre de vue l’ensemble.
+   •  Les cartes narratives incluent des personas pour aider l’équipe à prioriser les
+       fonctionnalités en fonction de celles qui sont les plus pertinentes pour un ou
+       plusieurs personas spécifiques.
+   •  Les cartes narratives peuvent également être utilisées pour comprendre le flux de
+     données au sein d’un système.
+
+4.4.2. Limitations
+   •  Les cartes de récits utilisateurs peuvent devenir complexes à mettre en œuvre
+      lorsque la solution est très volumineuse et peuvent nécessiter la création de
+     nombreuses cartes couvrant un programme de travail important. Bien que les
+       cartes de récits utilisateurs illustrent un flux, elles n’analysent ni n’illustrent les
+     dépendances entre les exigences. Elles ne peuvent être utilisées que pour faciliter
+       l’analyse.
+   •  Les contextes qui ne sont pas axés sur les processus peuvent trouver les cartes
+       narratives moins utiles.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 12
+
+## Page 13
+5. Critères d’acceptation et d’évaluation
+
+5.1. Objectif
+Les critères d’acceptation définissent les exigences, les résultats ou les conditions qui
+doivent être remplies pour qu’une solution soit jugée acceptable par les principales
+parties prenantes. Les critères d’évaluation sont les mesures utilisées pour évaluer un
+ensemble d’exigences afin de choisir entre plusieurs solutions.
+
+5.2. Description
+Les critères d’acceptation et d’évaluation définissent les mesures des attributs de valeur
+utilisées pour évaluer et comparer les solutions et les conceptions alternatives. Des
+critères mesurables et vérifiables permettent une évaluation objective et cohérente des
+solutions et des conceptions. La technique des critères d’acceptation et d’évaluation peut
+s’appliquer à tous les niveaux d’un projet, du niveau global au niveau détaillé.
+
+Les critères d’acceptation définissent l’ensemble minimal d’exigences à satisfaire pour
+qu’une solution donnée soit pertinente. Ils permettent de déterminer si une solution ou un
+composant de  solution répond à une  exigence. Les  critères  d’acceptation  sont
+généralement  utilisés  lorsqu’une  seule  solution  possible  est  évaluée  et  sont
+généralement exprimés par un résultat de réussite ou d’échec.
+
+Les critères d’évaluation définissent un ensemble de mesures permettant de classer les
+solutions et les conceptions alternatives selon leur valeur pour les parties prenantes.
+Chaque critère d’évaluation représente une échelle continue ou discrète permettant de
+mesurer un attribut spécifique de la solution, tel que le coût, la performance, la facilité
+d’utilisation et la pertinence des fonctionnalités par rapport aux besoins des parties
+prenantes. Les attributs non mesurables directement sont évalués par l’expertise de
+spécialistes ou à l’aide de diverses techniques de notation.
+
+Les critères d’évaluation et d’acceptation peuvent être définis à l’aide des mêmes attributs
+de valeur. Lors de l’évaluation de différentes solutions, celles présentant les coûts les
+plus bas et les meilleures performances peuvent être mieux notées. Pour accepter une
+solution, les critères sont formulés en précisant les exigences minimales de performance
+et les limites maximales de coût dans les accords contractuels et les tests d’acceptation
+utilisateurs.
+
+5.3. Éléments
+
+5.3.1. Attributs de valeur
+Les attributs de valeur sont les caractéristiques d’une solution qui déterminent ou
+influencent fortement sa  valeur pour  les  parties prenantes.  Ils représentent une
+décomposition  pertinente  et  consensuelle de  la  proposition de  valeur en  ses
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 13
+
+## Page 14
+composantes, que l’on peut décrire comme des qualités que la solution doit posséder ou
+éviter.
+
+Exemples d’attributs de valeur :
+   •  capacité à fournir des informations spécifiques,
+   •  capacité à réaliser ou à soutenir des opérations spécifiques,
+   •  performance et réactivité caractéristiques,
+   •   applicabilité de la solution dans des situations et contextes spécifiques,
+   •   disponibilité de fonctionnalités et de capacités spécifiques,
+   •   convivialité, sécurité, évolutivité et fiabilité.
+
+Le fait de fonder les critères d’acceptation et d’évaluation sur des attributs de valeur
+garantit leur validité et leur pertinence au regard des besoins des parties prenantes ; ces
+attributs doivent être pris en compte lors de l’acceptation et de l’évaluation de la solution.
+Les analystes d’affaires veillent à ce que la définition de tous les attributs de valeur soit
+validée par l’ensemble des parties prenantes. Ils peuvent également concevoir des outils
+et des instructions pour réaliser l’évaluation, ainsi que pour consigner et traiter ses
+résultats.
+
+
+
+
+
+                     Figure 3 : Critères d’acceptation et d’évaluation
+
+5.3.2. Évaluation
+Pour évaluer une solution au regard de critères d’acceptation ou d’évaluation, elle doit
+être construite dans un format mesurable.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 14
+
+## Page 15
+5.3.3. Testabilité
+Les critères d’acceptation sont formulés de manière à être testables. Cela peut nécessiter
+de décomposer les exigences en éléments atomiques afin de rédiger des cas de test
+permettant de vérifier la conformité de la solution aux critères. Les critères d’acceptation
+sont présentés sous forme d’énoncés pouvant être vérifiés comme vrais ou faux. Cette
+vérification est souvent réalisée par le biais de tests d’acceptation utilisateurs (TAU).
+
+5.3.4. Mesures
+Les critères d’évaluation permettent de déterminer si les fonctionnalités apportent la
+valeur nécessaire pour satisfaire les besoins des parties prenantes. Ces critères sont
+présentés sous forme de paramètres mesurables sur une échelle continue ou discrète.
+La définition de chaque critère permet d’évaluer la solution par différentes méthodes,
+telles que l’analyse comparative ou  l’expertise. L’élaboration de ces critères peut
+impliquer la conception d’outils et de consignes pour la réalisation de l’évaluation, ainsi
+que pour l’enregistrement et le traitement des résultats.
+
+5.4. Considérations relatives à l’utilisation
+
+5.4.1. Points forts
+   •  Les méthodologies  agiles peuvent  exiger que toutes  les exigences  soient
+      exprimées sous la forme de critères d’acceptation testables.
+   •  Des critères d’acceptation sont nécessaires lorsque les exigences expriment des
+       obligations contractuelles.
+   •  Les critères d’acceptation permettent d’évaluer les exigences sur la base de
+       critères convenus.
+   •  Les critères d’évaluation permettent d’évaluer des besoins divers sur la base de
+       critères convenus, tels que des caractéristiques, des indicateurs communs, des
+       points de référence locaux ou mondiaux et des ratios convenus.
+   •  Les critères d’évaluation contribuent à la réalisation du retour sur investissement
+      (RSI) attendu ou de la valeur potentielle spécifiée.
+   •  Les critères d’évaluation aident à définir les priorités.
+
+5.4.2. Limites
+   •  Les critères d’acceptation peuvent exprimer des obligations contractuelles et, de
+      ce fait, peuvent être difficiles à modifier pour des raisons juridiques ou politiques.
+   •    Il peut être difficile de parvenir à un consensus sur les critères d’évaluation pour
+      répondre aux différents besoins des diverses parties prenantes.
+
+
+
+
+
+Documentation sur les récits utilisateurs en projets agiles                                                       p. 15

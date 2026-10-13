@@ -1,0 +1,125 @@
+Question 1
+Mme Duff, qui habite sur le Plateau Mont-Royal, est à la retraite depuis bientôt deux ans et elle produit une bière blonde artisanale comme passe-temps. Elle a récemment entrepris des démarches pour commercialiser sa bière « Blonde ». Pour ce faire, elle a transformé la cour arrière de sa maison en une terrasse où elle pourra vendre sa bière  durant l’été (soit de la mi-juin à la mi-septembre). Le reste de l’année sera consacré à la production.
+Pour la fabrication de sa bière, Mme Duff a fait l’acquisition, en septembre 20X0, d’un équipement de fabrication usagé au coût total de 15 000 $. Elle a également fait l’acquisition d’un équipement servant à l’embouteillage et à l’étiquetage des bières au coût de 10 500 $. La durée de vie utile de ces deux équipements a été estimée à trois ans.
+Son premier été d’exploitation est prévu de juin 20X1 à septembre 20X1. Voici les données prévisionnelles établies pour ce premier été. On prévoit vendre 10 000 bières « Blonde » au prix de 8 $ chacune. Le coût de la matière première sera de 3 $ par bière, alors que le coût de la main-d’œuvre directe sera de 2 $ par bière. Les frais généraux de fabrication totaux seront de 1,10 $ par bière (pour un volume de 10 000 bières), ce qui comprend l’amortissement des équipements (voir ci-dessus) ainsi que les frais généraux de fabrication variables. Finalement, une commission de 0,75 $ par bière vendue sera versée.
+Travail pratique :
+À partir de ces informations, faites une analyse de la rentabilité de la bière « Blonde » pour l’été 20X1 de façon à faire ressortir la marge sur coûts variables.
+Question 1 (solution)
+Question 2
+Nous sommes à la fin septembre 20X1 et le premier été du Pub du Plateau vient de se terminer. Mme Duff a décidé de créer deux nouvelles bières, une « Rousse » et une
+« Noire », pour la prochaine année d’exploitation. Voici les résultats d’une brève étude de marché :
+Afin de produire les deux nouvelles bières, Mme Duff doit acheter deux nouveaux équipements de fabrication. Elle prévoit également remplacer l’ancien équipement servant à la fabrication de la bière « Blonde ». Le montant d’amortissement annuel pour chacun de ces nouveaux équipements serait de 20 000 $ par équipement.
+Avec l’acquisition de ces nouveaux équipements, Mme Duff prévoit pouvoir fabriquer toutes les bières nécessaires pour répondre à la demande. Cependant, la capacité de l’équipement d’embouteillage et d’étiquetage, acquis en septembre 20X0 au coût de     10 500 $, est limitée à 2 000 heures-machines.
+Le temps d’embouteillage et d’étiquetage pour chacune des bières est le suivant :
+0,08 heure-machine pour la bière « Blonde »
+0,06 heure-machine pour la bière « Rousse »
+0,08 heure-machine pour la bière « Noire »
+Travail pratique :
+Sachant que la capacité d’embouteillage et d’étiquetage est de 2 000 heures-machines, quelle bière madame Duff devrait-elle privilégier?
+Établissez le plan de production optimal en prenant soin de préciser les arguments pour et contre à considérer avant de prendre une décision et faites vos suggestions à Mme Duff. (Cette question ne sera pas traitée en classe - voir solution)
+Question 2 a) (solution)
+Question 2 b
+Établissez le plan de production optimal en prenant soin de préciser les arguments pour et contre à considérer avant de prendre une décision et faites vos suggestions à Mme Duff.
+L’entreprise a-t-elle la capacité de produire toute la demande avec sa contrainte de capacité de                 2 000 heures ?
+    Réponse: non. Elle devrait réduire la production du produit le moins rentable par heure machine. 
+    Réponse: elle devra réduire la production de la bière Blonde. 
+       Validation : 48 h / 0,08 h = 600 unités de la bière blonde.
+Est-ce que Mme Duff devrait investir dans un nouvel équipement de fabrication pour la               bière blonde considérant sa contrainte de capacité ?
+   Arguments :
+À cause de la réduction du volume de production de la bière « Blonde », ce produit ne couvre plus ses frais fixes. Devrait-on abandonner la bière « Blonde »?
+Pour : Cela nuit à la rentabilité de l’entreprise (marge nette négative de 1 200 $).
+Contre (qualitatif) : Comme produit d’entrée pour cette gamme de produits, la bière « Blonde » semble être un « must », car ce n’est pas tout le monde qui aime les bières rousses et noires.
+Suggestion : Garder la bière blonde pour cette année ;
+À plus long terme, augmenter la capacité de l’embouteillage et l’étiquetage (acquisition d’un nouvel équipement) afin d’être en mesure de répondre à la demande totale.
+À court terme, ne pas changer l’équipement de fabrication de la bière « Blonde » cette année (utiliser l’ancien équipement encore deux ans pour faire en sorte de diminuer les coûts spécifiques). Attendre d’avoir la capacité (résultat suffisant pour changer l’équipement de la bière « Blonde »).
+Question 3
+En faisant l’hypothèse que nous en sommes à la troisième année d’exploitation du Pub du Plateau. Voici les prédictions de ventes pour la prochaine année.
+Mme Duff possède un montant de 750 $ qu’elle compte investir en publicité pour la promotion d’une des trois bières. L’étude de marché a démontré que la demande pour cette bière (en unités) augmentera de 2,5 % à la suite de la publicité.
+Travail pratique :
+À partir de ces informations, indiquez à Mme Duff sur quelle bière elle devrait investir. (Noter qu’il n’y aura plus de problème de capacité lors de la troisième année d’exploitation.)
+Question 3 (Solution)
+Question 4
+En prévision de la quatrième année d’exploitation, Mme Duff a fait faire une nouvelle étude de marché qui a démontré que les clients aimant la bière « Rousse » étaient sensibles au prix. Voici l’information concernant les prévisions de ventes pour cette bière. Les coûts variables sont de 6 $.
+11 500 unités         10,00 $	
+10 600 unités         10,50 $	
+9 700 unités           11,00 $	
+Travail pratique :
+En faisant l’hypothèse que les frais fixes demeureront au même niveau, déterminez quel devrait être le prix de vente de la bière « Rousse ».
+Question 4 (piste de solution)
+Question 5
+En prévision de sa cinquième année d’exploitation, Mme Duff se demande si des changements pourraient être apportés afin d’accroître le volume des ventes. Ses amies, Monique et Rita, lui ont fait des propositions qui permettraient, selon elles, d’augmenter le chiffre d’affaires et l’achalandage du Pub de leur bonne amie. Les propositions n’affecteraient que la bière « Blonde » qui est vendue présentement à 8 $ l’unité. La demande annuelle actuelle pour cette bière est de 12 000 bières.
+Voici les deux propositions:
+Monique propose la location d’une chaîne stéréo pour avoir une musique d’ambiance. Selon elle, cette option jumelée à l’augmentation du prix de vente de la bière
+« Blonde » de 0,50 $ permettrait d’augmenter la demande de 1 000 bières. Toutefois, les frais fixes augmenteraient de 2 000 $ par été, ce qui inclut les frais de location de la chaîne stéréo, les redevances de droits d’auteur sur la musique et d’autres frais minimes.
+Rita, quant à elle, a une idée un peu plus ambitieuse. Elle propose à Mme Duff d’embaucher un chansonnier. Selon elle, cette option jumelée à l’augmentation du prix de vente de la bière « Blonde » de 10 % permettrait d’augmenter la demande de la bière « Blonde » de 20 %. Ayant fait quelques recherches, elle affirme que le salaire d’un tel chanteur serait de 12 000 $ plus le versement d’une redevance de 0,45 $ par bière vendue au-delà de 5 000 bières.
+Travail pratique :
+Selon vous, Mme Duff devrait-elle mettre en application ces deux propositions? (Prenez soin d’indiquer l’impact de ces deux propositions sur le résultat.)
+Question 5 (solution)
+Voici l’analyse des deux propositions permettant de déterminer si elles doivent être mises en application.
+Il faut évaluer les propositions sur la base de :
+Facteurs quantitatifs :
+Choisir la Proposition 1, car le résultat différentiel est de 6 410 $ (soit 6 500 $ - 90 $).
+Facteurs qualitatifs :
+S’assurer que la capacité (espace) du Pub est suffisante (si ↑ achalandage)
+Analyser l’impact de ce changement d’orientation stratégique
+→ Impact sur la clientèle régulière, sur le voisinage (surtout si le Pub est situé dans un secteur résidentiel)
+Produit | Bière
+« Blonde » | Bière
+« Rousse » | Bière
+« Noire »
+Demande (unités) | 10 000 | 8 500 | 9 225
+Prix de vente | 8,00 $ | 10,50 $ | 10,00 $
+Coûts variables | 6,00 $ | 6,00 $ | 5,00 $
+MCV unitaire | 2,00 $ | 4,50 $ | 5,00 $
+ | Blonde | Rousse | Noire | 
+Demande (u) | 10 000 | 8 500 | 9 225 | 
+Temps requis (h/u) | 0,08 h | 0,06 h | 0,08 h | 
+Temps requis (h) | 800 h | 510 h | 738 h | = 2 048 h
+> 2 000 h
+ | Blonde | Rousse | Noire
+MCV unitaire | 2,00 $ | 4,50 $ | 5,00 $
+Temps requis (h/u) | 0,08 h | 0,06 h | 0,08 h
+MCV/heure | 25,00 $ | 75,00 $ | 62,50 $
+Ordre de production | 3 | 1 | 2
+ | Blonde | Rousse | Noire | 
+Temps utilisé (h) | 752 | 510 | 738 | 2 000
+Unités fabriquées | 9 400 | 8 500 | 9 225 | 
+Demande (u) | 10 000 | 8 500 | 9 225 | 
+ | Blonde | Rousse | Noire | 
+MCV totale | 18 800 $ | 38 250 $ | 46 125 $ | 103 175 $
+C.Fixes spécifiques |  (20 000) | (20 000) | (20 000) | (60 000)
+Marge couts spécifiques | (1 200 $) | 18 250 $ | 26 125 $ | 43 175
+C.Fixes communs |  |  |  | (3 500)
+Résultat d’exploitation |  |  |  |      39 675 $
+Produit | Bière
+« Blonde » | Bière
+« Rousse » | Bière
+« Noire »
+Demande (unités) | 12 000 | 10 600 | 9 400
+MCV unitaire | 2,00 $ | 4,50 $ | 5,00 $
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+Proposition 1 : location d’une chaîne stéréo |  | 
+↑ Volume des ventes (↑ de 1 000 unités) | 1 000 u × (8,50 $ – 6,00 $) | ↑ 2 500 $
+↑ Prix de vente (ventes régulières) | 12 000 u × (8,50 $ – 8,00 $) | ↑ 6 000 $
+↑ Coûts fixes |  | 
+Location chaîne stéréo et autres frais |  | ↓ (2 000 $)
+
+Impact sur le résultat |  |  ↑ 6 500 $
+
+Proposition 2 : embauche d’un chansonnier |  | 
+↑ Volume des ventes (↑ de 20 %) | 2 400 u × (8,80 $ – 6,00 $) | ↑ 6 720 $
+12 000 unités × 20 % = 2 400 unités
+8 $ × 1,10 = 8,80 $  |  | 
+↑ Prix de vente (ventes régulières) | 12 000 u × (8,80 $ – 8,00 $) | ↑ 9 600 $
+↑ Coûts variables (redevance) | (14 400 u – 5 000 u) × 0,45 $ | ↓ (4 230 $)
+↑ Coûts fixes |  | 
+Salaire fixe du chanteur |  | ↓ (12 000 $)
+
+Impact sur le résultat |  |  ↑ 90 $

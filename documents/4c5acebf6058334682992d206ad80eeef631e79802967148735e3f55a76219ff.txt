@@ -1,0 +1,1047 @@
+## Page 1
+Mobiliser les
+technologies numériques
+TECH 10701
+
+
+Développé par
+Marie -Claude Trudel
+
+## Page 2
+1 – À la base d’une transformation numérique réussie            : une stratégie et une architecture
+
+
+
+2 – Au cœur des systèmes d’information       : des processus d’affaires
+
+
+
+3 – La matière première des systèmes d’information : des données
+
+
+
+4 – L’utilisation des systèmes d’information      : des interfaces et des droits
+
+
+
+5 – L’utilisation des systèmes d’information : des requêtes simples et des enjeux de cybersécurité
+
+
+
+6 - Au cœur des systèmes d’information : des algorithmes et de l’intelligence artificielle
+
+
+
+7 - Pour passer du concept au système matérialisé : des projets structurés
+
+
+
+              8 - Des processus standardisés et des données intégrées : des progiciels de gestion intégrés
+
+
+
+              9 – La matière première des systèmes d’information : toujours plus de données
+
+
+
+              10 – L’utilisation des systèmes d’information : des requêtes complexes à l’aide de tableaux de bord
+
+
+
+              11- À l’avant scène des systèmes d’information : une expérience utilisateur réfléchie
+
+
+
+             12 – Une solution complète : un tableau de bord pour soutenir l’utilisation d’un progiciel de gestion intégré
+
+## Page 3
+     Séance 2
+
+    Au cœur des systèmes d’information                :
+
+     des processus d’affaires
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 4
+          ▪Distinguer les processus d'affaires d'une organisation, leurs
+
+               interactions et leur rôle dans la transformation numérique
+
+         ▪Analyser la valeur ajoutée des activités d'un processus d'affaires
+
+          ▪Appliquer les symboles de base du BPMN à la lecture et à
+
+                l'interprétation d'un processus modélisé                                        2
+
+
+Mobiliser les technologies numériques
+
+## Page 5
+Plan de la séance
+
+
+ Retours           Assimilation       Application       Synthèse
+
+## Page 6
+ Retour sur la séance 1
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 7
+      Récapitulatif de la séance 1
+
+
+
+
+▪Qu’est -ce qu’une technologie numérique?
+
+▪Qu’est -ce qu’un système d’information?
+
+▪Quelle est la différence fondamentale entre un analyste TI et un informaticien ou
+
+ un ingénieur logiciel?
+
+▪Quels sont les quatre principes à garder en tête tout au long de la session pour ce
+
+  cours?
+
+## Page 8
+       Illustrations avec des exemples concrets
+
+
+
+
+▪Vous voulez commander une pizza au restaurant. Quels sont les systèmes
+
+  d’information qui peuvent vous soutenir dans ce processus?
+
+▪Mettez -vous à la place du propriétaire et des employés de la pizzeria. Quels sont
+
+  les technologies numériques qui peuvent les aider pour que leur restaurant soit
+
+  fonctionnel? Et profitable?
+
+## Page 9
+                         du parcours Assimilation
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 10
+      Processus  – Une définition
+
+▪Un processus est un ensemble d’    activités logiquement agencées        pour effectuer
+
+  une transformation    donnée (saisir un intrant, le transformer et fournir un extrant à
+
+ un destinataire), et procurer une    plus -value  à l’organisation
+
+
+
+
+                    Intrant       Activités de transformation                    Extrant
+
+
+
+▪Deux types de processus      :
+    ▪Processus de production (ex.      : fabriquer un produit, acquérir des matières premières)
+    ▪Processus d’affaires (ex.     : traiter une commande, s’approvisionner en fournitures)
+
+## Page 11
+Processus d’affaires en contexte
+
+
+
+    Stratégie                            Mission         Vision        Objectifs
+
+
+
+
+
+    Processus d’affaires
+
+
+
+
+
+   Système d’information
+
+
+
+
+
+    Infrastructure                                                  Matériel                    Logiciels               Données            Télécommunication
+
+## Page 12
+      Structure des séances 1 à 7
+
+À la séance 1 on a vu:
+   • Principe 2 : Ne pas
+    perdre de vue la
+    stratégie
+
+## Page 13
+      Structure des séances 1 à 7
+
+À la séance 1 on a vu:
+   • Principe 2 : Ne pas
+    perdre de vue la
+    stratégie
+   • Principe 3 : Séparer les
+    données des
+    traitements
+
+## Page 14
+      Structure des séances 1 à 7
+
+
+À S1 on a vu:
+   • Principe 2 : Ne pas perdre de
+    vue la stratégie
+   • Principe 3 : Séparer les
+    données des traitements
+On constate que les
+processus d’affaires
+soutiennent les activités de
+l’entreprise (stratégie)
+
+## Page 15
+      Structure des séances 1 à 7
+
+
+À S1 on a vu:
+   • Principe 2 : Ne pas perdre de
+    vue la stratégie
+   • Principe 3 : Séparer les
+    données des traitements
+On constate que les
+processus d’affaires
+supportent les activités de
+l’entreprise (stratégie)…
+…et que le système
+d’information contient les
+données pour réaliser le
+processus d’affaires
+
+## Page 16
+      Structure des séances 1 à 7
+
+S2 : On analyse le processus
+d’affaires afin d’avoir un
+système d’information adapté à
+un processus performant qui
+répond aux objectifs de
+l’entreprise
+                                            Modélisation  - cartographie (BPMN)
+
+                                           Analyse de la valeur ajoutée
+
+                                            Amélioration de processus
+
+## Page 17
+      Structure des séances 1 à 7
+
+
+S2 : On analyse le processus d’affaires
+afin d’avoir un système d’information
+adapté à un processus performant
+qui répond aux objectifs de
+l’entreprise
+S3 et S4 : On identifie les
+données pour supporter le
+processus d’affaires
+
+
+
+
+                                                     Normalisation
+
+                                             Modèle conceptuel
+
+                                             Modèle logique (DSBD)
+
+                                                      Création de tables dans une application de BD (Airtable)
+
+## Page 18
+      Structure des séances 1 à 7
+
+S2 : On analyse le processus
+d’affaires afin d’avoir un
+système d’information adapté à
+un processus performant qui
+répond aux objectifs de
+l’entreprise
+S3 et S4 : On identifie les
+données pour supporter le
+processus d’affaires
+S4 : Interface utilisateur                                                             Interface : Les meilleures pratiques
+
+                                                        Formulaire Airtable  – Démontrer la non  -convivialité
+
+                                                               Softr – pour avoir des formulaires avec un UX adéquat
+
+                                                               Softr - Menu de navigation
+
+## Page 19
+      Structure des séances 1 à 7
+
+
+S2 : On analyse le processus d’affaires
+afin d’avoir un système d’information
+adapté à un processus performant
+qui répond aux objectifs de
+l’entreprise
+S3 et S4 : On identifie les données pour
+supporter le processus d’affaires
+S4 : Interface utilisateur
+S5 : Requêtes simples  -> on
+débute l’interaction entre les
+données et les traitements
+                                             Trouver les bonnes données (Lookup, choice, Filter et Search)
+
+                                                    Relier les tables entre elles    (Clé lointaine, modèle logique)
+
+                                               Créer les liens entre les tables dans Air Table
+
+## Page 20
+      Structure des séances 1 à 7
+
+S2 : On analyse le processus
+d’affaires afin d’avoir un système
+d’information adapté à un
+processus performant qui répond
+aux objectifs de l’entreprise
+S3 et S4 : On identifie les données
+pour supporter le processus
+d’affaires
+S4 : Interface utilisateur
+S5 : Requêtes simples   -> on débute
+l’interaction entre les données et
+les traitements                                            Avons -nous les moyens d’avoir des SI et est     -ce que
+S5 : Cybersécurité                          des actions humaines pourraient mener à un
+
+                                                     incident de sécurité ?
+
+## Page 21
+      Structure des séances 1 à 7
+
+
+S2 : On analyse le processus d’affaires
+afin d’avoir un système d’information
+adapté à un processus performant
+qui répond aux objectifs de
+l’entreprise
+S3 et S4 : On identifie les données pour
+supporter le processus d’affaires
+S4 : Interface utilisateur
+S5 : Requêtes simples  -> on débute
+l’interaction entre les données et les
+traitements
+S5 : Cybersécurité
+                                          Composantes d’un algorithme
+S6 : Les traitements: Comment
+                                                Créer un algorithme   – Automatisation
+est structuré un programme
+informatique                                  Interface de sortie   – Historique du changement de statut
+
+## Page 22
+      Structure des séances 1 à 7
+
+
+S2 : On analyse le processus d’affaires afin
+d’avoir un système d’information adapté à
+un processus performant qui répond aux
+objectifs de l’entreprise
+S3 et S4 : Identifier les données pour
+supporter le processus d’affaires
+S4 : Interface utilisateur
+S5 : Requêtes simples : On débute
+l’interaction entre les données et les
+traitements
+S5 : Cybersécurité
+S6 : Les traitements: Comment est
+structuré un programme informatique
+                                                               Introduction à la gestion de projet TI
+S7 : En TI, on travaille                                                         Concepts Agile
+principalement en mode
+                                                             Acquérir les bases pour participer activement à
+projet                                            un projet TI dans votre carrière
+
+## Page 23
+      Les processus appartiennent à tous
+
+
+▪Quelle est la proposition de valeur (stratégie) de la pizzeria
+
+ que vous avez en tête?
+
+
+
+
+▪Quels sont les autres processus nécessaires à cette pizzeria pour qu’elle
+
+  fonctionne adéquatement?
+
+▪Sont -ils tous aussi importants stratégiquement?
+
+▪Ces processus sont   -ils les mêmes pour toutes les pizzerias?
+
+▪Une mine d’or d’information, la liste de l’  APQC
+
+## Page 24
+      Exercice   – Et si on interrogeait l’IA?
+
+
+Premier temps — Interrogez un outil d'IA (3 min)
+▪Posez ces deux questions à l'outil de votre choix :
+   ▪Quels sont les processus d'une pizzeria de quartier?
+    ▪Décris le processus de prise en charge d'une commande          client
+
+      dans cette pizzeria
+
+Deuxième temps — Comparez (5 min)
+▪Trois critères, dans cet ordre :
+   ▪Quels processus l'IA a   -t-elle identifiés que vous n'aviez pas dans votre liste APQC
+       ▪et vice -versa?
+   ▪En quoi la description de l'IA diffère    -t-elle du processus que vous avez modélisé en BPMN?
+    ▪L'IA vous aide  -t-elle à distinguer les activités qui ajoutent de la valeur de celles qui n'en
+
+      ajoutent pas?
+
+## Page 25
+Les processus d’une pizzeria
+
+
+
+
+
+                                              Recevoir la
+                                    commandeGestion des commandes
+
+
+   Achat des produits
+
+                                                                                                              Gérer les
+                                                                             Acheter les                        fournisseurs
+                                              Préparer la                          produits
+                                    commande
+
+
+
+
+
+                                                       Livrer la
+                                    commande
+
+## Page 26
+      Les processus d’une pizzeria
+
+▪Que faire lorsque l’on a déjà des produits en stock, mais que l’on doit s’assurer de
+
+ ne pas en manquer?
+
+
+
+
+
+                                                              Recevoir la
+                                               commande                Gestion des commandes
+
+
+                  Achat des produits
+
+                                                                                                                             Gérer les
+                                                                                            Acheter les                        fournisseurs
+                                                             Préparer la                          produits
+                                               commande
+
+
+
+
+
+                                                                        Livrer la
+                                               commande
+
+## Page 27
+      Les processus d’une pizzeria
+
+▪Que faire lorsque l’on a déjà des produits en stock, mais que l’on doit s’assurer de
+
+ ne pas en manquer?
+
+
+
+
+
+                                                              Recevoir la
+                                               commande                Gestion des commandes
+
+
+                    Gestion des stocks
+
+                                                                                                                                              Gérer les
+                                                                                                             Acheter les                        fournisseurs
+                                                             Préparer la                                            produits
+                                               commande
+
+
+                                                                                      Gérer
+                                                                                                   l’inventaire
+
+
+
+                                                                        Livrer la
+                                               commande
+
+## Page 28
+      Les processus d’une pizzeria
+
+▪Pouvez penser à d’autres familles de processus qui seraient nécessaires pour
+
+  notre petite pizzeria?
+
+
+
+
+                                                      Gestion des commandes
+
+
+                                                         Gestion des stocks
+
+## Page 29
+      Les processus d’une pizzeria
+
+▪Pouvez penser à d’autres familles de processus qui seraient nécessaires pour
+
+  notre petite pizzeria?
+
+
+
+
+                                                      Gestion des commandes
+
+
+                                                         Gestion des stocks
+
+
+                                                   Gestion les menus / Recettes
+
+
+                                                       Gestion comptabilité
+
+
+                                                           Gestion les RH
+
+
+                                                       Gestion des véhicules
+
+## Page 30
+    Les processus d’une pizzeria
+
+
+
+
+
+                                                                        Gérer le
+                                                          menu
+   Embaucher
+    personnel                                Recevoir la
+                                   commande
+
+                                                                                Gérer les
+                    Gérer les                                                          recettes
+                      horaires
+
+                                                                                                                              Gérer les
+                                             Préparer la                                        Acheter les                        fournisseurs
+                                   commande                                            produits  Payer
+employés
+
+
+                                                                      Gérer                                                                                                                                                   Facturer les
+                                                                                l’inventaire                  Affecter                                                                                                                                            clients
+                     livreur
+                                                     Livrer la
+                                   commande
+                                                                                                                   Payer les
+                                                                                       Gérer les                     fournisseurs
+             Gérer la                                                                                 activités
+                flotte de                                                               comptables
+                                            Affecter              véhicules
+                                           véhicule
+
+## Page 31
+     Ce que l’on vient de voir…
+
+
+
+▪… c’est que les TI soutiennent des processus qui appartiennent aux spécialisations
+
+    ▪Marketing
+
+    ▪Gestion des opérations et de la logistique
+
+    ▪Comptabilité
+
+    ▪Gestion des ressources humaines
+
+   ▪entre autres
+
+
+
+    Comprendre les processus, c'est une compétence de gestionnaire!
+
+## Page 32
+    Un peu de pratique
+
+
+
+▪Si on prend l’exemple d’une pizzeria , qu’est    -ce qui
+
+  déclenche le processus?
+
+▪Quelles sont les principales activités exécutées?
+
+▪Qui sont les acteurs impliqués dans l’exécution de ces tâches?
+
+▪Quelles sont les données qui sont nécessaires pour que le processus se déroule
+
+  bien?
+
+▪Quelles sont les données que la pizzeria doit conserver?
+
+▪Qu’est -ce qui met fin au processus?
+
+## Page 33
+Processus type
+
+## Page 34
+    Un peu de pratique
+
+
+
+▪L’intrant est l’élément d’information qui déclenche le
+
+  processus d’affaires
+
+   ▪Cet événement de début peut être de type     message  ou temporel
+
+▪Les activités ou tâches servent à transformer l’intrant en extrant
+
+   ▪Une activité peut soit être   manuelle     , utilisateur   (humain -machine) ou  service
+
+   ▪Une activité peut être à   valeur ajoutée réelle         , à valeur ajoutée d’affaires      ou sans
+
+      valeur ajoutée       , nous reviendrons sur ces éléments dans quelques minutes
+
+▪Qui sont les acteurs impliqués?
+
+   ▪Un acteur peut être   interne  ou externe  au processus étudié
+
+## Page 35
+    Un peu de pratique
+
+
+
+
+
+▪Les données nécessaires au déroulement du processus
+
+  doivent être accessibles pour l’utilisateur
+
+    ▪Elles peuvent se retrouver sur des    objets de données ou encore
+
+      dans des  magasins   de données
+
+▪La fin du processus est illustrée par un événement de fin
+
+   ▪Cet événement est habituellement    générique
+
+## Page 36
+Aide mémoire des symboles de base en BPMN
+
+## Page 37
+ Nouvelle matière
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 38
+      Qu’est -ce qu’une transformation?
+
+▪Dans le cas d’une transformation physique, c’est plutôt évident, mais qu’en est            -il
+
+ de la matière première des systèmes, l’information?
+▪Il faut se demander si   l’état  des données à la   sortie d’une activité      est le même
+
+  qu’à l’entrée  de l’activité. Sont  -elles identiques ou ont  -elles été modifiées?
+   ▪Imprimer un document ne modifie pas les données. Transcrire des données d’un écran à un
+
+     document ne modifie pas non plus les données. Cependant, la saisie initiale des données dans
+
+     un système d’information est souvent considérée comme une transformation puisqu’avant
+
+      cette saisie, l’information n’existe tout simplement pas officiellement.
+    ▪Vérifier si un produit commandé est en stock modifie les données qui étaient en intrant,
+
+      puisqu’avant la vérification on ne savait pas si le produit était en stock (disponibilité passe de
+
+      inconnue à disponible) et cette information additionnelle existe parce qu’il y a eu
+
+      transformation.
+
+## Page 39
+Concept de valeur ajoutée      – Arbre de décision
+
+
+
+
+                                                                   Effectue une          Non
+                      Activité                                                              transformation?
+
+
+
+                                                           Oui
+
+
+                                    Oui              Vise autre chose           Non
+                                                     que corriger une
+                                                                    erreur?
+
+
+           Contribue aux
+                         Non                                                                                       Contribue aux objectifs de               Non              objectifs du
+              destinataire                                                                                  l'entreprise?
+                   final?
+
+
+
+                 Oui                                                                  Oui
+
+
+
+           VAR                                                       VAA                                       SVA
+
+
+  Activités qui contribuent à                                                                    Activités qui ne contribuent pas à l'atteinte des
+   optimiser les objectifs du                                                                      objectifs du destinataire de l’extrant final du
+    destinataire de l’extrant                                                              processus. Les SVA peuvent souvent (mais pas
+        final du processus                                                                  toujours) être éliminées sans nuire à la qualité du
+                                                                                                     produit ou du service.
+
+## Page 40
+      Détermination du type de valeur ajoutée
+
+▪Est-ce que le client est susceptible d’apprécier davantage le produit acheté ou le
+
+  service acquis parce que cette tâche précise a été réalisée? Serait             -il même prêt à
+
+  payer un peu plus cher pour ça?
+
+   ▪Si oui, alors VAR
+▪Est-ce que l’entreprise améliore sa performance ou assure sa pérennité en
+
+  effectuant cette tâche précise? Est    -ce que le client serait prêt à payer un peu plus
+
+  cher pour ça?
+   ▪Si oui à la première question et non à la seconde, alors VAA
+▪Il n’y a pas de transformation du fond ou alors celle       -ci ne sert qu’à corriger une
+
+  erreur?
+   ▪Si oui, alors SVA
+
+## Page 41
+Analyse valeur ajoutée
+
+## Page 42
+Amélioration du processus d’affaires
+
+
+
+
+
+                                                         Diagnostic
+
+
+
+
+                                                                              L’activité ou
+                                                                          l’extrant est…
+
+
+
+
+
+      À valeur ajoutée réelle             À valeur ajoutée d’affaires                   Sans valeur ajoutée
+              VAR                            VAA                              SVA
+
+
+           Peut -on augmenter la                           Cette activité est  -elle                                                                                                     Peut -on éliminer cette
+             valeur pour le client?                             toujours nécessaire?                                                                                                                                   activité?
+              Réduire les délais?                          Peut -on l’automatiser?                                                                                                   Peut -on réduire les coûts?
+          Augmenter la qualité?
+                                                      Peut -on réduire les coûts?
+
+                                                                 Les erreurs?
+         Peut -on réduire les coûts?
+                                                                  Les délais?
+
+## Page 43
+                                    nouvelle matière  Assimilation
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 44
+      Et si on informatisait la pizzeria?
+
+
+
+
+▪L’analyse de la valeur ajoutée nous amène à imaginer un processus amélioré qui
+
+  pourrait être soutenu par un système d’information
+
+▪En quoi ce système viendra    -t-il nous aider?
+
+▪Que veut -on faire à partir de celui   -ci?
+
+   ▪Comment énoncer ces éléments sous la forme QUI, QUOI, POURQUOI?
+
+## Page 45
+   Liste des besoins de la pizzeria
+
+
+
+
+
+No besoin         Énoncé du besoin
+
+## Page 46
+   Liste des besoins de la pizzeria
+
+
+No besoin    Énoncé du besoin
+
+1           En tant que caissier, je veux savoir les informations du client (livraison) pour livrer la
+          commande au bon endroit
+
+2           En tant que caissier, je veux connaître les articles souhaités et la quantité de chacun
+                afin de préparer la commande souhaitée.
+
+3           En tant que caissier, je veux connaître le montant de la commande pour la présenter
+            au client afin qu’il sache combien payer
+
+4           En tant que cuisinier, Je veux connaître les articles commandés et la quantité afin de
+             préparer la bonne commande
+
+5           En tant que cuisinier, je veux avoir les recettes pour préparer adéquatement chaque
+                 article.
+
+6           En tant que livreur, je veux savoir où livrer la commande afin que le bon client la
+               reçoive.
+
+7           En tant que livreur, je veux connaître le montant de la commande afin de faire payer le
+           bon montant
+
+8           En tant que livreur, je veux confirmer le paiement afin de remettre la commande au
+                client
+
+## Page 47
+  Application
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 48
+    Un symbole de plus dans la boîte à outil
+
+
+
+▪Le sous -processus fermé       , pour synthétiser les modèles
+
+## Page 49
+   Retour sur le cas Érablière Boisvert
+
+
+  En lisant le cas Boisvert, qu'avez       -vous reconnu?
+
+
+
+Érablière Boisvert                           Jeu Maple
+
+Marcel Boisvert                            Acheteur  – vendeur
+
+Propriétaires forestiers                       Fournisseurs de barils
+
+Marchés publics                        Commerces détaillants
+
+Évaporateur                               Transformateur
+
+Bouts de papier, calepin, téléphone           Papier rose
+
+## Page 50
+Érablière Boisvert
+
+              ▪Quel est ou quels sont le(s) processus réalisés par Marcel
+
+                 dans le cas de l’Érablière Boisvert?
+
+
+
+                ▪Pour nommer un processus, il y a deux courants
+
+                          distincts
+
+                                ▪Utiliser un verbe d’action à l’infinitif avec des
+
+                           compléments
+
+                          ▪Formuler en débutant par le déclencheur et en
+
+                              terminant par l’extrant final
+
+## Page 51
+      Érablière Boisvert
+
+
+
+
+▪Qu’est -ce qui déclenche le processus?
+
+▪Quelles sont les activités/tâches exécutées?
+
+▪Qui sont les acteurs (rôles) impliqués dans l’exécution de ces tâches?
+
+▪Quelles sont les données qui sont nécessaires pour que le processus se déroule
+
+  bien?
+
+▪Quelles sont les données qui devraient être conservées?
+
+## Page 52
+Macro  -processus  – Érablière Boisvert
+
+## Page 53
+Processus détaillé    – Érablière Boisvert
+
+## Page 54
+      Et si on informatisait l’Érablière Boisvert?
+
+
+
+
+
+▪En quoi ce système viendra    -t-il nous aider?
+
+▪Que voudrait  -on faire à partir de celui   -ci?
+
+   ▪Comment énoncer ces éléments sous la forme QUI, QUOI, POURQUOI?
+
+## Page 55
+       Liste des besoins    – Ajouter la comptabilité
+
+
+No besoin         Énoncé du besoin
+
+          1            En tant que responsable des achats, je veux savoir combien de barils je peux acheter et à quel prix afin de choisir la meilleure option
+
+          2            En tant que responsable de la production, je dois connaître le nombre de bouteilles que chaque baril permet de produire et le coût
+                      de production de chaque bouteille afin de gérer les dépenses
+
+          3            En tant que responsable des achats, je dois savoir la quantité en inventaire afin de savoir combien je peux vendre de bouteilles.
+
+          4            En tant que responsable des achats, je veux savoir combien de bouteilles je peux vendre et à quel prix afin de maximiser mes
+                         revenus
+
+          5            En tant que responsable de la production, je veux connaître le nombre de bouteilles vendues afin de les retirer de l’inventaire (ou
+                              afin de les expédier)
+
+## Page 56
+ Synthèse
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 57
+    Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités                                                                                     localisations                              événements         stratégiques et des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affaires            règles d’affaires
+
+
+Niveau                                         Processus            Localisations  des                            Événements                            Entités d’affaires                                                        Unités d’affaires                                Objectifs  d’affaires
+                                                             d’affaires                  unités                                             d’affairesconceptuel
+
+
+                                                      Application/
+Niveau                                                                                                 Événements                           Entité de données           système           Fonctions nodales      Rôles et interfaces                                      Critères
+logique                                         d’information                                                       système
+
+
+Niveau                Ligne (dans une         Algorithmes           Localisation  des                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmés             système stechnique
+
+## Page 58
+      La suite du cours d’aujourd’hui dans la spécialisation
+
+
+
+
+
+▪TECH 20709  – Poser un diagnostic et élaborer des solutions numériques
+
+▪TECH 20790  – Construire la stratégie et la gouvernance numériques de
+
+                   l’organisation
+
+## Page 59
+Les métiers impliqués dans le cours d’aujourd’hui
+
+## Page 60
+    À faire pour la semaine prochaine
+
+
+
+
+▪Visionner les capsules vidéo du parcours d’apprentissage de la séance 3
+
+   ▪28 minutes environ + les exercices à faire en écoutant les vidéos
+
+▪Lire le texte d’appoint sur les bases de données relationnelles
+
+▪Ouvrir un compte  Airtable  gratuit à l’adresse   https://www.airtable.com/
+
+▪Ouvrir un compte   Softr gratuit à l’adresse   https://www.softr.  io/

@@ -1,0 +1,6 @@
+noType	descriptionType
+1	Entrées
+2	Plats principaux
+3	À côtés
+4	Breuvages
+5	Desserts

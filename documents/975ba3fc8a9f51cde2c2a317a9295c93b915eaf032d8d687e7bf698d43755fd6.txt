@@ -1,0 +1,168 @@
+10200	Finance	Automne 2023
+EXAMEN INTRA
+Coordonnatrice : 		Marie-Hélène Allard
+Enseignants : 	Mélanie Caron-Harris et Jean-Philippe Tarte
+PREMIÈRE PARTIE (30 MINUTES)
+QUESTIONS À CHOIX MULTIPLES (30 POINTS)
+Répondez dans le cahier réponse qui vous a été distribué. 
+Noircissez la bonne réponse, 2 points par bonne réponse.
+Quel est le taux nominal à capitalisation semestrielle équivalent à un taux effectif de 8 % ?
+4 %
+3,92 %
+7,84 %
+7,72 %
+8 %
+Classez les taux suivants, du plus petit taux effectif ou plus grand taux effectif :
+Taux 1 : Taux effectif de 10 %
+Taux 2 : Taux semestriel de 5 % 
+Taux 3 : Taux nominal de 10 %, capitalisation trimestrielle 
+Taux 1, taux 2, taux 3
+Taux 1, taux 3, taux 2
+Taux 2, taux 1, taux 3
+Taux 2, taux 3, taux 1
+Taux 3, taux 1, taux 2
+Taux 3, taux 2, taux 1
+Laquelle des séquences suivantes présente la plus grande valeur actuelle ? Considérez que le taux d’actualisation est le même pour toutes les séquences de flux monétaires. 
+12 versements mensuels de 100 $ dont le premier a lieu dans 1 mois.
+1 200 $ versés dans 1 an.
+4 versements trimestriels de 300 $ dont le premier a lieu aujourd’hui. 
+Toutes ces séquences sont équivalentes.
+Placez les investisseurs suivants en ordre de priorité de remboursement, en cas de liquidation : actionnaires ordinaires, actionnaires privilégiés et obligataires.
+Actionnaires ordinaires, actionnaires privilégiés, obligataires.
+Actionnaires ordinaires, obligataires, actionnaires privilégiés.
+Actionnaires privilégiés, actionnaires ordinaires, obligataires.
+Actionnaires privilégiés, obligataires, actionnaires ordinaires.
+Obligataires, actionnaires privilégiés, actionnaires ordinaires.
+Obligataires, actionnaires ordinaires, actionnaires privilégiés.
+Vous recevrez 100 $ par année, jusqu’à l’infini. Le premier versement aura lieu dans un mois. Laquelle des formules suivantes vous permet de trouver la valeur actuelle de cette séquence de flux monétaires ? Considérez un taux d’actualisation de 9 % effectif.
+Aucune de ces réponses
+Lequel des éléments suivants ferait diminuer le rendement à l’échéance (RAE) d’une obligation ?
+Une augmentation du niveau général des taux d’intérêt dans l’économie
+L’élimination des garanties
+Une diminution de la cote de crédit (de AA à A)
+L’ajout d’un privilège de conversion
+Vous anticipez une baisse des taux d’intérêt au cours des prochaines semaines. Dans ce contexte, vous devriez choisir une obligation possédant une ____________ échéance et un taux de coupon _____________.
+Longue, élevé
+Longue, bas
+Courte, élevé
+Courte, bas
+Lequel des énoncés suivants à propos des actions privilégiées est vrai ? 
+Les actionnaires privilégiées ont un droit de vote, alors que les actionnaires ordinaires n’en ont pas.
+Les actions privilégiées sont garanties par les actifs de l’entreprise.
+Les actionnaires privilégiés sont remboursés avant les créanciers advenant une liquidation.
+Les dividendes privilégiés sont déterminés à l’avance, au moment de l’émission.
+Lequel des éléments suivants est un exemple de risque systématique ? 
+La probabilité d’une hausse des taux d’intérêt.
+La probabilité d’une inondation dans votre usine.
+La probabilité de la faillite d’un de vos concurrents.
+La probabilité d’une grève des employés du secteur public.
+Le bêta du titre A est de 0, alors que le bêta du titre B est de 1. Selon le MÉDAF, le rendement espéré du titre A sera égal à/au____________, et le rendement espéré du titre B sera égal à/au ______________.
+0 %; rendement espéré de l’indice boursier
+rendement des bons du Trésor; rendement espéré du portefeuille de marché
+taux sans risque; la prime de risque du marché
+0 %; la prime de risque du marché
+ Vous possédez un portefeuille d’actions dont l’écart-type est de 15 %. Si vous ajoutez un nouveau titre dans ce portefeuille, dont l’écart-type est de 20 %, quel serait l’impact de cet ajout sur l’écart-type de votre portefeuille ?
+Augmentation de l’écart-type
+Diminution de l’écart-type
+Aucun impact
+Nous n’avons pas les informations nécessaires pour répondre à la question.
+Vrai ou faux ? Un titre qui présente des rendements négatifs stables dans le temps est plus risqué qu’un titre qui présente des rendements variables, mais toujours positifs.
+Vrai 
+Faux
+Vrai ou faux ? Pour calculer le prix d’une obligation de type nord-américaine dans un an, on peut capitaliser le prix actuel de l’obligation.
+Vrai
+Faux
+Vrai ou faux ? 1 $ certain versé dans un an vaut plus que 1 $ incertain versé dans un an.
+Vrai
+Faux
+Vrai ou faux ? Recevoir 200 $ dans 1 an vaut moins que recevoir 100 $ aujourd’hui et 100 $ dans 1 an.
+Vrai
+Faux
+DEUXIÈME PARTIE (150 MINUTES)
+QUESTIONS À DÉVELOPPEMENT (70 POINTS)
+Répondez dans le cahier réponse qui vous a été distribué. Soyez transparent dans votre démarche.
+Aucune documentation n’est permise. 
+L’utilisation de la calculatrice financière est autorisée et nécessaire.
+Montrez clairement tous vos calculs. Pour tous vos calculs, vous devez inscrire les formules utilisées. Vous trouverez les formules à la fin de ce questionnaire.
+Vous DEVEZ utiliser deux décimales pour toutes les réponses liées aux taux (ex.: 1,23 %) et deux décimales pour toutes les réponses en dollars (ex.: 12,34 $).
+Mise en contexte : 
+Jeanne a hérité de 500 000 $ de sa grand-mère. Elle vous appelle pour avoir des conseils sur la façon de placer cet argent. Trois options sont envisagées.
+Question 16 (45 minutes, 20 points) : Achat d’un immeuble à logements
+La première option considérée par Jeanne est l’achat d’un immeuble à logements qui se vend 500 000 $. Cet immeuble comporte deux logements. Le premier logement est occupé et génère des revenus de loyer mensuels de 800 $. Le deuxième logement est présentement vacant. Le locataire arrivera dans exactement 4 mois et paiera un loyer mensuel de 900 $ (le premier loyer mensuel sera versé dans 4 mois). 
+Jeanne conserverait l’immeuble pendant 10 ans. Après ce temps, l’immeuble devra subir des rénovations majeures et les locataires devront quitter leur logement. Jeanne ne souhaite pas gérer les rénovations. Ainsi, dans 10 ans, elle vendra l’immeuble à logements à son frère pour un prix non déterminé.
+Il est à noter que les loyers mensuels sont versés en début de mois et qu’ils resteront constants jusqu’à ce que Jeanne vende l’immeuble à son frère.
+Jeanne exige un taux de rendement de 8,3 % (nominal, capitalisation semestrielle) pour ce projet.
+Quelle est la valeur actuelle des loyers que Jeanne encaisserait si elle achetait l’immeuble et le conservait pendant 10 ans ? Fournissez vos calculs. (8 points)
+Supposez que vous ayez trouvé en a) un montant de 200 000 $. 
+D’un point de vue financier, pour que le projet d’achat de l’immeuble à logement soit intéressant, à quel prix minimum Jeanne doit-elle vendre l’immeuble à son frère ? Fournissez vos calculs.  (3 points)
+Si Jeanne n’avait pas hérité l’argent de sa grand-mère, elle aurait dû financer le prix d’achat de l’immeuble (500 000 $) par un prêt hypothécaire comportant un taux d’intérêt de 8,2 % nominal, capitalisation semestrielle, et ayant une échéance de 10 ans. Ce prêt est remboursable par versements constants aux deux semaines. 
+Quel est le versement aux deux semaines du prêt hypothécaire ? Fournissez vos calculs.  (5 points)
+Quel serait le solde de ce prêt hypothécaire dans exactement 3 ans ? Fournissez vos calculs. (4 points)
+Question 17 (40 minutes, 20 points) : Achat d’obligations
+Comme deuxième option, Jeanne pourrait utiliser l’argent de l’héritage pour acheter des obligations. Trois obligations de type nord-américain sont envisagées.
+Des obligations de l’entreprise Millefeuilles. Ces obligations se négocient à un prix actuel de 1 120,45 $ et viennent à échéance dans exactement 5 ans et versent des coupons semestriels. Leur taux de coupon est de 6,5 % (nominal, capitalisation semestrielle).
+Des obligations de l’entreprise Anissette, ont été émises au pair il y a exactement 6 ans et 4 mois. Leur échéance initiale (lors de l’émission) était de 10 ans. Elles versent des coupons semestriels de 20 $. Leur taux de rendement à l’échéance actuel est 100 points de base supérieurs au rendement à l’échéance initial (lors de l’émission). 
+Des obligations de l’entreprise Tatin qui viennent à échéance dans 11 ans. Ces obligations ne verseront pas de coupons lors des 8 prochaines années, mais verseront des coupons semestriels de 15 $ lors des trois dernières années (le premier coupon de 15 $ sera versé dans exactement 8 ans et 6 mois). Le rendement à l’échéance actuel est de 6,5 % (nominal, capitalisation semestrielle). 
+Quel est le rendement à l’échéance actuel de l’obligation de l’entreprise Millefeuilles ? Fournissez vos calculs. (3 points)
+Quel est le prix actuel de l’obligation de l’entreprise Anissette ? Fournissez vos calculs. (6 points)
+Quel est le prix actuel de l’obligation de l’entreprise Tatin ? Fournissez vos calculs. (5 points)
+Laquelle (ou lesquelles) des obligations précédentes se négocie(nt) à escompte ? Encerclez la bonne réponse dans le cahier réponse. Aucune justification nécessaire. (3 points)
+Si vous anticipez une baisse des taux d’intérêt lors des prochains mois, laquelle des obligations devriez-vous choisir ? Justifiez en deux lignes maximum. (3 points)
+Question 18 (65 minutes, 30 points) : Achat d’actions
+La dernière option de Jeanne est d’utiliser l’argent de son héritage pour acheter des actions. Voici les données recueillies sur des titres qui lui semblaient intéressants.
+Compagnie Farine : 
+L’action ordinaire de Farine verse des dividendes trimestriels.
+Les analystes estiment que l’action versera un dividende de 1,00 $ dans exactement un trimestre. Par la suite, les dividendes augmenteront à un taux constant pour tout l’avenir prévisible.
+Le prix actuel de l’action ordinaire de Farine est de 106,38 $.
+Selon le MÉDAF, les actions ordinaires de Farine présentent un taux de rendement espéré de 9,05 % effectif.
+La variance du rendement des actions de Farine est de 6,2 %.
+Compagnie Sucre :
+Le bêta des actions de Sucre est de 1,1.
+La compagnie Sucre verse des dividendes annuels.
+La compagnie a versé ce matin un dividende de 1,50 $.
+Voici les prévisions des analytes pour les dividendes : les dividendes augmenteront à un taux de 20 % effectif pour les deux prochaines années. Ensuite, le taux de croissance sera constant à 5 % effectif pour tout l’avenir prévisible. 
+Autres informations :
+Le taux sans risque est présentement de 3,5 % effectif.
+Le rendement espéré du portefeuille de marché est de 10,5 % effectif.
+La variance du rendement du portefeuille de marché est de 4 %.
+Quel est le taux de croissance trimestriel des dividendes de l’entreprise Farine ? Fournissez vos calculs. (5 points)
+Quel est le bêta des actions de l’entreprise Farine ? Fournissez vos calculs. (3 points)
+Quel est le coefficient de corrélation des actions de Farine avec le portefeuille de marché ? Fournissez vos calculs. (3 points)
+Quel est le taux de rendement effectif exigé par les actionnaires de l’entreprise Sucre ? Fournissez vos calculs. (3 points)
+Supposez que vous avez trouvé en d) en taux de 12 % effectif. 
+Quel est le prix actuel des actions de l’entreprise Sucre ? Fournissez vos calculs. (7 points)
+Placez les titres suivants du plus faible risque systématique ou plus grand risque systématique: actions de l’entreprise Farine, actions de l’entreprise Sucre, le portefeuille de marché ? Encerclez la bonne réponse dans le cahier réponse. Aucune justification nécessaire. (2 points)
+Quelle serait la variance d’un portefeuille composé à 60 % d’actions de l’entreprise Farine et à 40 % du portefeuille de marché ? Fournissez vos calculs. (4 points)
+Quelle serait le bêta d’un portefeuille composé à 50 % d’actions de Sucre et à 50 % des bons du Trésor ? Fournissez vos calculs. (3 points)
+FORMULES MAJ H22
+La valeur actuelle d’un flux monétaire
+
+La valeur actuelle d’une perpétuité
+
+La valeur actuelle d’une annuité
+VAA
+La valeur finale d’une annuité
+VFA
+La valeur actuelle d’une perpétuité en croissance
+
+La valeur actuelle d’une annuité en croissance
+
+ | Le prix d’une obligation
+
+
+Le prix d’une action avec des dividendes constants
+
+Le prix d’une action avec des dividendes croissants
+
+
+Rendement espéré et la variance d’un titre | 
+
+
+Rendement espéré et la variance d’un portefeuille composé de deux titres financiers
+ | 
+
+Corrélation entre les rendements des titres A et B
+ | 
+MÉDAF
+ | 
+Bêta | 

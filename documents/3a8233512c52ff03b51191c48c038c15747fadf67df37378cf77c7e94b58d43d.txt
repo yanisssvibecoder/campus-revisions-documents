@@ -1,0 +1,864 @@
+## Page 1
+ Table des matières
+
+
+
+Chapitre 18   La finance personnelle ..........................................................................................     2
+
+                 18.1 L’effet de l’efficience des marchés sur le choix de portefeuille..........................    3
+                          18.1.1 L’efficience des marchés : en bref...................................................................     3
+                          18.1.2 Qu’entend-on par l’efficience des marchés et quel est son impact
+                               sur l’investisseur ?.........................................................................................            3
+                          18.1.3 Que faire alors ?...........................................................................................     5
+
+                 18.2 L’investissement passif ou l’investissement actif.................................................    6
+                          18.2.1 La performance agrégée des investissements passifs et actifs..........................     6
+                          18.2.2 Le désavantage lié à l’investissement actif......................................................     8
+                          18.2.3 Les tendances d’investissements passif et actif...............................................    11
+
+                 18.3 L’imposition ...............................................................................................................   12
+                          18.3.1 Le compte d’épargne libre d’impôts................................................................    12
+                          18.3.2 Le régime enregistré d’épargne retraite..........................................................    12
+                          18.3.3 Le CELI versus le REER..................................................................................    13
+
+                 18.4 Le risque d’investissement......................................................................................   13
+                          18.4.1 Le risque idiosyncratique, spécifique et diversifiable.........................................    13
+                          18.4.2 Le risque de crédit........................................................................................    14
+             Résumé et conclusions ....................................................................................................   15
+
+
+
+
+
+   Tous les renvois dans ce chapitre
+   sont en lien avec la 4e édition de
+   Gestion financière.
+
+
+
+
+
+Reproduction interdite © TC Média Livres Inc.
+
+## Page 2
+ Chapitre   La finance personnelle
+
+
+                    Martin Boyer, professeur titulaire, HEC Montréal
+                  Gunnar Grass, professeur adjoint, HEC Montréal18
+
+              Objectifs d’apprentissage
+
+                   Après avoir étudié ce chapitre, vous pourrez comprendre :
+                OA1 les raisons pour lesquelles l’investisseur a avantage à croire à l’efficience des
+                          marchés, même lorsque ces derniers ne le sont pas ;
+                OA2 la différence entre l’investissement actif et l’investissement passif, et pour-
+                              quoi, en général, ce dernier offre une meilleure performance que l’investisse-
+                       ment actif moyen ;
+                OA3 la façon de réduire le fardeau fiscal sur les investissements ;
+                OA4 la prise de risque qui est désavantageuse ;
+                OA5 les avantages et les inconvénients des divers produits d’investissement
+                                 tels que les actions, les obligations, les fonds négociés en Bourse et les
+                                 certificats d’investissement.
+
+
+    e gouvernement canadien veut responsabiliser ses citoyens     d’évaluation des actifs financiers (MEDAF), la théorie de porte-
+     afin que ces derniers préparent sérieusement leur retraite.       feuille, l’efficience des marchés et l’impôt des particuliers.L
+ L’incitatif fiscal à l’épargne personnelle volontaire est l’un des    Un bon investissement est un investissement qui maximise le ren-
+ piliers du système de retraite canadien. Puisque les choix d’inves-    dement net par unité de risque qu’il engendre. Ce chapitre
+tissement peuvent être complexes, les Canadiens ont dépensé     explique­ pourquoi il est préférable de minimiser les coûts et les
+ plus de 20 milliards de dollars en 2014 afin d’obtenir des conseils     risques d’investir plutôt que d’essayer d’accroître le rendement
+de placement. Selon Luigi Zingales dans son discours présidentiel     brut en essayant de battre le marché.
+de 2015 devant l’American Finance Association, il n’est pas clair     La première section de ce chapitre porte sur l’efficience des
+que l’argent dépensé pour obtenir des conseils en placement est    marchés et décrit l’influence de celle-ci sur la sélection du rende-
+une bonne manière d’utiliser son argent 1. Ce chapitre vise donc à    ment net visé par un investisseur. La deuxième section présente les
+éduquer les étudiants sur les principes de base de la finance     notions d’investissement actif et d’investissement passif, notam-
+ personnelle afin de les aider à investir de manière indépendante    ment les avantages que représente celui-ci. D’une manière plus
+ et intelligente. L’objectif de ce chapitre est d’encourager les étu-     générale, l’investissement passif permet de réduire les coûts asso-
+ diants à investir dans les marchés financiers tout en leur appre-     ciés à la gestion de portefeuille. Dans la troisième section, nous
+nant à éviter de simples erreurs courantes. Bien que ce chapitre     nous concentrons sur la minimisation de l’impôt à payer sur les
+ porte sur l’investissement personnel, il n’en est pas moins utile de     revenus d’investissement, les règles fiscales ayant un impact
+ l’inclure dans le contexte de cet ouvrage de finance d’entre-     important sur le rendement des investissements. Pour conclure ce
+ prise, car les décisions personnelles sont principalement basées      chapitre, la quatrième section aborde l’exposition aux divers ris-
+ ­sur la théorie présentée dans cet ouvrage. Entre autres, ce     ques et les outils mis à la disposition des investisseurs afin de
+ ­chapitre revient sur la valeur de l’argent dans le temps, le modèle­     réduire l’impact des risques pour lesquels ils ne sont pas rémunérés.
+
+
+ 1. ZINGALES, L. « Presidential Address : Does Finance Benefit Society ? », Journal of Finance, vol. 70, no 4, août 2015, p. 327-1363.
+
+                                                                                                Reproduction interdite © TC Média Livres Inc.
+
+## Page 3
+18.1  L’effet de l’efficience des marchés
+     sur le choix de portefeuille
+L’hypothèse d’efficience des marchés (HEM) a déjà été abordée au chapitre 12. Il est néanmoins nécessaire
+de revenir sur cette notion à cause de son important rôle dans les choix d’investissement des investis-
+seurs individuels.
+
+18.1.1  L’efficience des marchés : en bref
+Dans un marché efficient, les prix reflètent toute l’information disponible pouvant avoir un impact sur la
+valeur d’un titre. Les trois niveaux (ou formes) d’efficience sont définis en fonction du type d’information
+incluse dans le prix. Dans la forme d’efficience « faible », l’information sur les prix passés du titre est déjà
+pleinement incorporée à son prix actuel sur les marchés. Dans la forme d’efficience « semi-forte », toutes
+les informations publiques disponibles telles que les résultats financiers, les rapports d’analystes ou les
+autres nouvelles sont déjà prises en compte dans le prix. Enfin, dans la forme d’efficience « forte », toute
+forme d’information, y compris l’information privée, est déjà reflétée dans le prix du titre.
+    La raison pour laquelle on peut penser que les marchés sont efficients est que les investisseurs sont
+fortement incités à détecter et à éliminer les déviations de prix : cela leur permet de réaliser des profits. Par
+exemple, un investisseur qui détermine que la juste valeur d’un titre est de 11 $, alors que sa valeur au
+marché est de 10 $, peut réaliser un profit en achetant ce titre. Bien entendu, cette décision repose sur
+l’hypothèse que le marché, dans son ensemble, se rend compte éventuellement que la juste valeur du titre
+est de 11 $. En achetant le titre, l’investisseur exerce une pression sur la demande pour le titre et contribue
+à faire monter son prix. Sans prendre en considération les coûts de transaction, il est avantageux pour lui
+d’acheter le titre jusqu’à concurrence de 11 $. Avec suffisamment de ressources, un seul investisseur peut
+corriger le prix d’un titre afin de l’amener à ce qu’on appelle un « prix efficient ». Le niveau d’efficience
+des marchés est important dans le processus de sélection d’une stratégie d’investissement permettant
+d’obtenir des rendements supérieurs au marché et qui sont ajustés pour le risque. Dans un marché carac-
+térisé par la forme faible d’efficience, les stratégies d’investissement basées sur ce qu’on appelle l’« analyse
+technique des titres » ne peuvent pas mener à des résultats probants. Dans un marché caractérisé par la
+forme d’efficience semi-forte, les stratégies d’investissement basées sur ce qu’on appelle l’« analyse fonda-
+mentale des titres » n’apportent rien non plus. Dans une forme d’efficience forte, l’information privée n’a
+pas de valeur.
+
+18.1.2  Qu’entend-on par l’efficience des marchés et
+       quel est son impact sur l’investisseur ?
+Le niveau d’efficience des marchés a été le sujet d’un bon nombre de discussions depuis plusieurs décen-
+nies sans qu’on puisse en arriver à une conclusion sans équivoque. En 2013, Eugène F. Fama, souvent
+considéré comme le père de la théorie de l’efficience des marchés, et Robert J. Shiller, connu pour son
+travail sur les bulles spéculatives, ont reçu le prix Nobel d’économie. Robert J. Shiller est l’un de ceux qui
+considèrent que l’HEM ne s’applique que dans certaines situations particulières 2 et quasi folkloriques.
+
+     Plutôt que de répondre à la question « Les marchés sont-ils efficients ? », nous préférons présenter de
+manière anecdotique des situations qui tendent à confirmer ou à infirmer l’hypothèse d’efficience des
+marchés. Nous formulerons également certaines conclusions utiles pour les investisseurs individuels,
+conclusions qu’aucun partisan ou détracteur de l’hypothèse d’efficience des marchés ne pourrait contre-
+dire. Les trois premiers arguments en ce sens se résument dans la phrase suivante : Il est préférable, pour
+un investisseur individuel, de croire en l’efficience des marchés plutôt que d’essayer d’en découvrir
+les faiblesses.
+
+    Le premier argument que nous aimerions présenter est que les investisseurs sur le marché des capi-
+taux sont très sophistiqués. Ils ont accès à un grand volume d’informations et sont capables de les analyser
+très rapidement. Qui plus est, un volume croissant de transactions est effectué à l’aide d’algorithmes de
+
+
+
+2. Le troisième récipiendaire du prix Nobel cette année-là, Lars Peter Hansen, n’avait que très peu d’intérêt pour la recherche sur l’efficience
+   des marchés.
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle      3
+
+## Page 4
+                        choix d’investissement (ce qu’on appelle de l’algotrading dans le jargon financier). Ce sont des systèmes
+                           électroniques programmés qui ont la capacité d’effectuer des transactions en fonction de règles préétablies.
+                        Ces systèmes peuvent entre autres analyser et évaluer l’information standardisée, par exemple l’augmen-
+                            tation des bénéfices à laquelle s’attendent les analystes d’une firme. Ils peuvent également filtrer l’infor-
+                       mation issue de longs textes tels que des articles de presse financière.
+
+                            Bien que ces algorithmes puissent être utilisés dans le développement de stratégies d’investissement à
+                        long terme, ils servent principalement à effectuer des transactions à très haute fréquence. Dans cette pra-
+                            tique, les décisions d’investissement sont prises et les transactions sont effectuées en une fraction de
+                          seconde. Selon le New York Times, 51 % de toutes les transactions aux États-Unis en 2012 ont été effectuées
+                         par des systèmes de transactions à haute fréquence 3. Ainsi, un investisseur individuel basant ses décisions
+                          sur des articles de journaux doit être conscient qu’il est en compétition avec des investisseurs équipés de
+                                 tels outils.
+
+                         Dans un deuxième temps, un investisseur individuel doit réaliser que même certains génies de la
+                          finance et de l’économie n’ont pas réussi à déterminer des inefficiences de marché permettant de performer
+                     mieux dans les marchés sur le long terme. On peut citer par exemple le fonds d’investissement Long Term
+                           Capital Management (LTCM), dirigé en partie par deux récipiendaires du prix Nobel d’économie, le Cana-
+                         dien Myron Scholes et l’Américain Robert Merton. Ce fonds a réussi à réaliser des rendements impression-
+                        nants de 21 %, de 43 % et de 41 % durant trois années consécutives. L’année suivante, le fonds a perdu
+                           4,6 milliards de dollars à cause d’une crise financière et monétaire en Russie et en Asie. En dépit du fait
+                       qu’au début de 1998, les actifs totaux du fonds étaient évalués à 130 milliards de dollars (dont 95 % étaient
+                          financés par de la dette), la réserve fédérale des États-Unis a dû injecter plus de 3,6 milliards de dollars dans
+                               le LTCM afin d’éviter l’effondrement du système financier 4.
+
+                            Troisièmement, certaines pratiques illégales permettent à un petit nombre d’investisseurs de se
+                       démarquer. Les autorités canadiennes et américaines ont révélé certains cas de délits d’initiés où les
+                        personnes impliquées ont pu réaliser des profits en échangeant en Bourse à partir d’informations qui
+                          n’avaient pas été encore révélées au grand public. Bien que la plupart des transactions d’initiés n’ont
+                       qu’une faible importance et n’influencent généralement pas le rendement obtenu par les autres inves-
+                             tisseurs, d’autres cas mettent en cause de grandes entreprises d’investissement. Une autre pratique
+                      complètement illégale a été la manipulation du taux London interbank rate (LIBOR) pendant plusieurs
+                       années par plusieurs grandes banques d’investissement. Le LIBOR sert de référence pour un grand
+                    nombre de contrats financiers dont la valeur nominale cumulative est de plus de 300 000 milliards de
+                               dollars 5. Enfin, Goldman Sachs nous offre un autre exemple de manipulation de prix sur les marchés.
+                        Bien que jugé « immoral et non illégal », le stockage d’un grand volume d’aluminium dans des entre-
+                          pôts a permis à Goldman Sachs de profiter des déséquilibres entre l’offre et la demande pour ce métal,
+                               et ainsi de contrôler les prix en sa faveur 6.
+
+                       En somme, un investisseur songeant à essayer de battre le marché doit être conscient des divers
+                        désavantages auxquels il fait face. L’investisseur individuel, par manque de compétence ou d’accès aux
+                          ressources dont bénéficient (légalement ou non) les grandes sociétés d’investissement, est largement
+                      handicapé dans sa quête des inefficiences de marché… si même ces dernières existent ! Certaines
+                         études universitaires 7 rapportent que les stratégies d’investissement des particuliers leur permettent
+                         d’obtenir en moyenne des rendements entre 2,0 % et 3,8 % inférieurs à ceux des investisseurs
+                            institutionnels.
+
+
+
+                                    3. « Declining U.S. High-Frequency Trading », The New York Times, 15 octobre 2012 (www.nytimes.com/interactive/2012/10/15/business/
+                                      Declining-US-High-Frequency-Trading.html?_r=0).
+                                    4. Voir l’ouvrage de LOWENSTEIN, R. When Genius Failed : The Rise and Fall of Long-Term Capital Management, Random House, 2001.
+                                    5. VAUGHAN, L. et FINCH, G. « Libor Lies Revealed in Rigging of $300 Trillion Benchmark », Bloomberg, 6 février 2013 (www.bloomberg.com/
+                                       news/articles/2013-01-28/libor-lies-revealed-in-rigging-of-300-trillion-benchmark).
+                                    6. MASON, J. « Immoral, But Not Illegal : Metal Warehousing Games in the Spotlight », Reuters, 21 novembre 2014 (www.reuters.com/
+                                  article/2014/11/21/us-commodities-banks-goldman-warehousing-idUSKCN0J50P920141121).
+                                    7. Voir BARBER, B. M. et ODEAN, T. « Trading Is Hazardous to your Wealth : The Common Stock Investment Performance of Individual Investors »,
+                                       Journal of Finance, 2000, p. 773-806, ainsi que BARBER, B. M. et collab. « Just How Much Do Individual Investors Lose By Trading? », Review
+                                          of Financial Studies, vol. 22, no 2, 2009, p. 609-632.
+
+
+
+4      CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 5
+18.1.3  Que faire alors ?
+Malgré la sophistication des méthodes employées par les acteurs évoluant sur les marchés financiers, on
+relève certaines attaques qui remettent en question l’hypothèse d’efficience des marchés financiers. Ces
+attaques peuvent laisser penser qu’il est possiblement bénéfique, pour un investisseur, de se faire une opi-
+nion sur ce qui apparaît comme un bon ou un mauvais investissement, et ce, en dépit des différents scan-
+dales liés à la manipulation des prix sur ces marchés.
+
+    Premièrement, il est vrai que la recherche universitaire portant sur le comportement des rendements
+boursiers des actifs financiers a permis de documenter un certain nombre d’anomalies dans le prix des
+titres. Une anomalie dans les prix indique une inefficience du marché, ce qui se produit quand de l’infor-
+mation publique n’est pas corrélée positivement au risque qui permet de prédire des rendements. Par
+exemple, on a observé qu’après avoir pris en considération les différences quant au risque systématique
+des titres selon les modèles d’évaluation des actifs financiers (MEDAF), les actions qui ont eu tendance à
+bien performer dans le passé tendent à continuer de bien performer dans un avenir immédiat, phéno-
+mène considéré comme l’effet momentum. Dans son discours d’acceptation du prix Nobel en 2013,
+Eugene Fama a fait référence à l’effet momentum comme étant le « plus grand défi lancé à l’efficience
+des marchés 8 ».
+
+     Certains autres indicateurs de rendement bien connus sont la valeur marchande de l’entreprise en
+comparaison à sa valeur comptable, et la taille de l’entreprise. Comme l’ont montré Eugene Fama et
+Ken French 9, les entreprises ayant une plus petite capitalisation sur les marchés et dont le ratio de la
+valeur marchande sur la valeur comptable est faible (les actions étant souvent qualifiées d’« actions à
+petite valeur ») offrent des rendements bien supérieurs à ceux des grandes entreprises et des entreprises
+de type « croissance » (ratio élevé de valeur marchande-comptable) une fois qu’on a pris en compte le
+risque systématique. Alors que certains défendent l’idée que ces découvertes prouvent une anomalie
+dans l’établissement des prix, les défenseurs de l’efficience des marchés, dont Eugene Fama et Ken
+French, soutiennent que ces deux mesures représentent des risques et devraient être considérées dans
+l’établissement des prix. Indépendamment de ces découvertes, la très grande majorité des études por-
+tant sur les rendements boursiers prennent en compte le rendement espéré qui a été trouvé à l’aide du
+MEDAF et y ajoutent ces facteurs liés à la taille de l’entreprise, au ratio valeur marchande-valeur
+­comptable, et à l’effet de momentum pour arriver à un modèle d’évaluation des actifs financiers
+à quatre facteurs.
+
+    Deuxièmement, des opposants de l’HEM tel Robert Shiller soulignent certaines anomalies à un niveau
+macroéconomique qui touchent des pans entiers du marché : les bulles financières. Les prix des actions des
+entreprises, dans le secteur des nouvelles technologies à la fin des années 1990 ou dans le marché de
+l’immobilier (en particulier aux États-Unis) en 2007, se sont révélés être largement au-dessus des valeurs
+fondamentales telles qu’elles sont calculées avec les méthodes connues d’évaluation. Que ces événements
+soient ou non des bulles financières, et donc des situations démontrant que les marchés ne sont pas effi-
+caces, la rationalité du comportement des investisseurs peut néanmoins être remise en question. C’est ainsi
+qu’un grand nombre d’investisseurs individuels étaient exposés aux actions technologiques durant la
+première période et, bien entendu, au secteur immobilier durant la seconde période. Ils ont ainsi essuyé de
+lourdes pertes au cours des années qui ont suivi ces crises.
+
+   Même les gestionnaires de fonds de couverture se spécialisant dans la détection d’anomalies de mar-
+ché confient que celles-ci sont difficiles à détecter et à utiliser 10. La plupart des gestionnaires de portefeuille
+sont incapables, à une petite échelle, de profiter davantage des inefficiences de marché en sélectionnant de
+meilleures actions que d’autres investisseurs très avisés. Il n’en demeure pas moins qu’un investisseur
+gagnerait à se pencher sur la rationalité de ses propres stratégies d’investissement qu’il peut considérer
+comme rationnelles.
+
+
+
+
+  8.  F. FAMA, E. « Two Pillars of Assets Pricing », Nobel Prize, 8 décembre 2013 (www.nobelprize.org/nobel_prizes/economic-sciences/­
+    laureates/2013/fama-lecture.pdf).
+  9. FAMA, E. F. et FRENCH, K. R. « The Cross-Section of Expected Stock Returns », Journal of Finance, vol. 47, no 2, 1992, p. 427-465.
+10. « Equity Markets : Rational or Not ?  », The Economist, 4 mars 2014 (www.economist.com/blogs/buttonwood/2014/03/equity-markets).
+
+
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle      5
+
+## Page 6
+                      Question théorique
+
+                         1. Pourquoi est-il naïf d’acheter l’action d’une entreprise en réaction à de bonnes nouvelles parues
+                           dans la presse financière ?
+
+              18.2  L’investissement passif
+               ou l’investissement actif
+                    Dépendamment de sa philosophie d’investissement, un investisseur peut être décrit comme étant un
+                             « investisseur actif » ou un « investisseur passif ».
+
+                      Un investisseur actif essaie d’augmenter la performance d’un portefeuille de référence (ou portefeuille
+                          étalon) ou, par exemple, d’un indice de marché (ou indice de référence) comme le SNP/TSX de la Bourse
+                        de Toronto. Il peut choisir d’investir activement en effectuant des investissements directs dans divers titres
+                            boursiers, obligataires ou autres. Il peut aussi décider d’engager un gestionnaire de fonds afin que celui-ci
+                       prenne les décisions d’investissement pour lui. Dans ce cas, il s’agit d’un type d’investissement indirect. Un
+                            investisseur actif considère que les marchés ne sont pas (complètement) efficients et pense pouvoir recon-
+                            naître et exploiter les titres mal évalués par le marché.
+
+                      Un investisseur passif n’essaie pas de faire des choix au-delà de l’indice de référence ; il préfère investir
+                       dans un portefeuille se rapprochant le plus possible de ce dernier. Bien qu’il ne croie pas forcément en
+                              l’efficience des marchés, il pense que les coûts associés à la détection et à l’exploitation des anomalies qui
+                         pourraient apparaître sur les marchés sont trop élevés par rapport aux bénéfices potentiels. Le capital
+                             investi par la plupart des investisseurs individuels ne permet pas de dupliquer efficacement l’indice de
+                           référence au moyen d’investissements directs (achat de titres individuels). De ce fait, une grande partie des
+                          investissements passifs sont effectués dans des investissements dont les fonds gérés incluent des certificats
+                             indiciels de titres ou encore des fonds négociés en Bourse.
+
+                             Le rendement d’un portefeuille, en comparaison au rendement d’un portefeuille de référence, est appelé
+                               l’« alpha ». Dans la lignée des définitions précédentes, le principal objectif d’un investisseur actif est de maxi-
+                         miser l’alpha de son portefeuille. Il se rapproche de cet objectif en investissant du temps et de l’argent dans de
+                             la recherche l’aidant à sélectionner des titres qui sont actuellement sous-évalués par le marché et qui
+                           devraient performer mieux dans le futur. Il peut aussi payer un gestionnaire de fonds pour atteindre cet objec-
+                                          tif. Cela contraste donc avec l’investisseur passif qui privilégie un alpha nul tout en minimisant ses coûts.
+                         Tandis que les gestionnaires de fonds actifs sont évalués en fonction de leur performance, les gestionnaires de
+                          fonds passifs se voient évalués par rapport à leur capacité à se rapprocher de l’indice de référence ou du por-
+                               tefeuille étalon. On cherche à savoir de combien leur portefeuille s’est écarté de l’indice de référence.
+
+                                 L’investissement passif ne demande que de reproduire la composition d’un indice, ce qui peut être effectué
+                       à l’aide d’un ordinateur. Cela contraste avec l’investissement actif, à la sélection de titres qui est souvent effec-
+                           tuée par des gestionnaires de fonds, ce qui exige souvent des coûts substantiels afin d’en arriver aux bonnes
+                             décisions. Le coût d’une stratégie d’investissement actif est bien supérieur à celui d’une stratégie passive.
+
+                        Que nous croyions ou non en l’efficience des marchés, il n’en demeure pas moins qu’une fois qu’on
+                       a pris en considération les différences dans les coûts des différents véhicules de placement, les rendements
+                        obtenus par les investisseurs passifs dans leur ensemble dépassent ceux des investisseurs actifs, ce qui est
+                               illustré dans la prochaine sous-section.
+
+                  18.2.1  La performance agrégée des investissements passifs
+                        et actifs
+                    En 2008, dans son discours à l’American Finance Association, Kenneth French a quantifié la différence des
+                               frais (et plus généralement des coûts) de l’investissement passif et de l’investissement actif aux États-Unis
+                           entre 1980 et 2006. Cette différence de coûts engendrés par les deux modes d’investissement s’élevait, au
+
+
+
+
+
+6      CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 7
+cours de cette période, à 0,67 % en moyenne par année. En dépit du fait que cet écart demeure conservateur
+et pourrait être bien plus élevé, la différence de coûts entre les deux types d’investissement n’est pas négli-
+geable, et cette différence de coûts entre les deux approches est bien supérieure au Canada qu’aux
+États-Unis.
+
+   Comme on le montre dans cette section, le portefeuille agrégé, qui est constitué de la somme de
+tous les portefeuilles d’investisseurs passifs, est, par définition, aussi performant que le portefeuille
+agrégé des investisseurs actifs avant d’avoir pris en compte les frais de gestion liés aux deux types
+d’investissement. Après comptabilisation des différents frais et coûts d’investissement des deux
+types d’investissement, le portefeuille passif agrégé affiche une meilleure performance que le porte-
+feuille actif agrégé.
+Le marché   Pour des raisons de simplicité, intéressons-nous maintenant à un marché constitué de
+seulement deux actions, A et B. L’action A, dont la capitalisation (ou valeur marchande du capital – VMC)
+est de 70 millions de dollars, offre un rendement de 15 %. L’action B, ayant une valeur marchande du
+­capital de 30 millions, offre un rendement de 1 %. Le tableau 18.1 illustre la situation.
+
+
+ Tableau 18.1  Un exemple de performance d’investissements actif et passif
+
+                 A. Le marché                    B. Investissement passif             C. Investissement actif (agrégé)
+         VMC      Rendement            VMC      Rendement           VMC      Rendement
+   A                  70           15,0 %        A        21           15,00 %       A        49              15 %
+   B                  30             1,0 %       B                   9            1,00 %       B        21               1 %
+  Total      100           10,8 %         Total       30           10,80 %         Total       70                 10,8 %
+                                     Après paiement                      Après paiement
+                                    des frais               10,65 %      des frais                    8,80 %
+
+
+                 C1. Actif 1                                                 C2. Actif 2
+      VMC              Rendement                  VMC                 Rendement
+         35                      15 %                             14                           15 %
+                     5                        1 %                             16                             1 %
+         40                       13,3 %                           30                               7,5 %
+ Après paiement                                          Après paiement
+ des frais                      11,25 %                   des frais                          5,53 %
+
+
+Le portefeuille passif agrégé   Supposons que les investisseurs passifs détiennent 30 % de la capita-
+lisation du marché, soit 30 millions de dollars. Puisque les investisseurs passifs ne font que reproduire
+l’indice de marché, les poids des actions A et B dans leur portefeuille seront les mêmes que ceux du marché.
+Bien entendu, le portefeuille agrégé respectera aussi ces proportions. Puisque le rendement du portefeuille
+est égal au rendement moyen pondéré de ses composantes, le rendement du portefeuille passif est alors
+égal à celui du marché avant la prise en compte des frais. Si on pose l’hypothèse que le coût inhérent à
+l’investissement passif est de 0,15 %, le rendement net pour chaque investisseur passif ainsi que celui du
+portefeuille passif agrégé est de 10,65 %.
+Le portefeuille actif agrégé   Les investisseurs actifs détiennent, quant à eux, les 70 % (ou encore
+70 millions de dollars) de la valeur marchande du capital restant. Par définition, les proportions des
+actions dans des stratégies actives d’investissement sont différentes de celles du marché. Cependant le
+portefeuille actif agrégé doit avoir le même poids que le portefeuille de marché (et de tous les portefeuilles
+passifs), comme on peut le voir à la figure 18.1 à la page suivante. De manière intuitive, on sait que le
+portefeuille actif agrégé est ce qui reste une fois qu’on a soustrait tous les investissements passifs du
+marché. Puisque le poids de la partie passive est égal à celui du marché, les proportions de tous les inves-
+tissements restants doivent aussi être égales à celles du marché.
+
+
+
+
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle      7
+
+## Page 8
+                   Figure 18.1   Les proportions des portefeuilles de marché, des portefeuilles passif et actif
+
+
+                               Marché                                           Investissement actif
+                                                                                 seulement
+
+
+
+                                                                                                                                     Action B
+                                                                     Action B
+
+
+                                               Action A
+
+                                                         Investissement
+                                                                  passif                                                                                                       Action A
+
+                                                          Investissement
+                                                                              actif
+
+
+
+
+                            Bien qu’il puisse exister des investisseurs actifs qui performent mieux que le marché, tous les inves-
+                              tisseurs actifs ne peuvent qu’obtenir un rendement, avant le paiement des frais, égal à celui du marché. Si
+                               le coût de l’investissement actif – de 2 % dans notre exemple – est plus élevé que celui de l’investissement
+                              passif, alors les investisseurs passifs peuvent en moyenne obtenir un rendement net plus élevé que le
+                         ­rendement moyen agrégé des investisseurs actifs.
+                     Les bons et les mauvais investisseurs actifs   Puisqu’il est possible que plusieurs années de per-
+                       formance supérieure soient dues à la « chance », il est difficile de dissocier les investisseurs ayant réalisé un
+                            véritable alpha positif de ceux qui ont eu de la chance. Il est tout à fait vraisemblable que certains investis-
+                           seurs actifs avisés arrivent à atteindre un alpha positif en surpassant constamment le marché. Comme on
+                                l’a mentionné précédemment, il est possible que certains investisseurs bénéficient d’un plus grand accès à
+                          des données et à des infrastructures, ou encore qu’ils aient des compétences particulières dans la décou-
+                            verte d’écarts de prix. D’autres s’engagent aussi dans des activités illégales tel le délit d’initié. En étudiant
+                             la performance d’un grand nombre de fonds communs de placement entre 1984 et 2006, Eugene Fama et
+                       Kenneth French ont confirmé que seule la petite fraction des gestionnaires de fonds communs de place-
+                     ment réussit à atteindre un « vrai » alpha positif 11.
+
+                                  Si certains obtiennent un alpha positif, cela implique que le rendement brut agrégé de tous les autres
+                            investisseurs actifs est inférieur à celui du marché. La prise en compte des frais vient creuser un peu plus
+                           leur désavantage. Nous pouvons alors faire l’affirmation suivante : indépendamment du nombre d’inves-
+                             tisseurs actifs qui connaissent une véritable performance après le paiement des frais, les investisseurs
+                             passifs performent mieux que les investisseurs actifs.
+
+                    Comme Kenneth French le mentionnait dans son discours, « l’argent dépensé par les investisseurs
+                               actifs en essayant de battre le marché est en réalité très utile. Il sert à la recherche de la juste valeur. Nous,
+                              les investisseurs passifs, qui n’investissons que passivement, apprécions grandement leur générosité.
+                     Nous profitons tout simplement de leurs efforts 12 ». En d’autres termes, les investisseurs passifs profitent de
+                             la « générosité » des investisseurs actifs lorsque ces derniers collectent de l’information qui, dans le marché
+                            boursier, devient un bien public.
+
+                  18.2.2  Le désavantage lié à l’investissement actif
+                        Bien qu’ils paraissent faibles, les coûts additionnels liés à l’investissement actif par rapport à l’investisse-
+                     ment passif peuvent avoir un grand impact sur les rendements, et ce, pour au moins deux raisons.
+
+
+                                11. FAMA, E. F. et FRENCH, K. R. « Luck Versus Skill in the Cross-Section of Mutual Fund Returns ». The Journal of Finance, vol. 65, no 65, 2010,
+                                           p. 1915-1947.
+                                12. La vidéo du discours présidentiel de 2008 de Kenneth French, « The cost of active investing », est disponible à l’adresse suivante :
+                                         www.afajof.org.
+
+8      CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 9
+    Premièrement, le coût de 0,67 % mentionné précédemment est une estimation conservatrice
+pour les investisseurs américains. Dans les trois rapports d’expérience de fonds globaux que Mor-
+ningstar a publiés, les frais de gestion des fonds communs de placement canadiens sont les plus
+élevés parmi les pays couverts par l’étude, contrairement aux fonds communs de placement amé-
+ricains. Selon Morningstar, les frais moyens annuels (plus précisément les ratios de dépenses de
+gestion sur les actifs totaux) des fonds d’actions canadiennes sont supérieurs à 2 %. On peut com-
+parer ce résultat avec un ratio de dépenses de 0,18 % pour un grand fonds d’actions canadiennes
+de type passif.
+
+    Cremers et ses collaborateurs ont comparé des fonds communs de placement gérés passivement et
+activement dans plusieurs pays 13. Ils en ont conclu que plusieurs fonds communs de placement supposé-
+ment gérés activement se rapprochent en réalité d’une gestion passive. Cependant, ils continuent de factu-
+rer des frais de gestion plus importants que ce que nécessiteraient des fonds passifs typiques, qui sont
+généralement appelés des fonds « cryptopassifs » ou « closets ». Les auteurs estiment que la différence des
+coûts annuels entre investir dans un fonds commun de placement (type d’investissement très populaire)
+réellement passif ou actif est de 2,38 % versus 1,05 % aux États-Unis. Le tableau 18.2 présente les différences
+d’estimations de coûts que les auteurs ont déterminées entre les investissements passifs et les investisse-
+ments actifs dans plusieurs pays.
+
+
+ Tableau 18.2   La différence de coûts de fonds communs de placement dans plusieurs pays
+
+   Pays ou         Tous les fonds            Part de marché (% d’actifs)               Coûts totaux (%)
+     région              N*         Actifs              Passif          Réellement           Passif          Réellement
+                                 (milliards     Explicite    Closet**       Actif       Explicite     Closet        Actif
+                         de dollars)
+  États-Unis                        3 153          5 150,3        27         15          58           0,26         1,07          1,31
+ Luxembourg        2 057         750,5                  4         26          70           1,21         2,60          2,43
+  Royaume-Uni        975         504,1                  9         32          59           0,62         2,33          2,38
+ Canada            895         326,4                  8         37          55           0,42         2,11          2,83
+  Asie Pacifique      1 204         255,5        24         20          56           0,75         1,46          1,90
+  Irlande             484         222,5        31         25          44           0,56         1,89          2,17
+  Allemagne          356         139,5        16         34          50           0,69         2,34          2,37
+  France             492         134,1        25         29          46           0,77         2,07          2,22
+ Suède             266         113,5        10         56          34           0,56         1,47          1,42
+  Suisse             220          69,7        58         24          18           1,01         1,73          2,08
+
+  * N signifie « nombre d’observations ».
+** Closet signifie « fonds qui est vendu comme fonds actif mais qui est effectivement passif ».
+Source : CREMERS, M. et collab. « Indexing and active fund management : International evidence », Journal of Financial Economics (forthcoming), 2015.
+
+
+    Deuxièmement, de petites différences de coûts annuels d’investissement peuvent devenir d’impor-
+tantes différences de rendement au fil des années, comme on peut le voir dans les simples exemples sui-
+vants sur l’application des concepts de valeur de l’argent dans le temps. Le tableau 18.3, à la page suivante,
+montre comment la valeur d’un simple montant de 100 $ évolue sur une période de capitalisation de
+40 ans avec différents taux de rendement. La valeur capitalisée à l’année t est calculée de la façon suivante :
+VF = 100 $ (1 + r)t, où le taux de rendement r varie en fonction des hypothèses posées. Le tableau 18.4, à
+la page suivante, présente la valeur d’une annuité de 5 000 $ pour différentes périodes de temps. Les valeurs
+capitalisées sont calculées en utilisant la formule d’une annuité. Le premier paiement est effectué
+aujourd’hui (donc il s’agit d’une annuité de début de période).
+
+
+
+
+
+13. CREMERS, M. et collab. « Indexing and active fund management : International evidence », Journal of Financial Economics (forthco­-
+    ming), 2015.
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle      9
+
+## Page 10
+ Tableau 18.3  Un seul investissement de 100 $ capitalisés à différents taux
+
+                                                        Horizon d’investissement (années)
+                     Rendement        Frais          0        10        20        30        40
+                        avant paiement   annuels
+                      des frais
+ Bas     Actif                   6 %            2,00 %        100 $        148 $        219 $         324 $        480 $
+          Passif                  6 %            0,20 %        100 $        175 $        308 $         542 $        953 $
+          Actif/Passif                                            1,0          1,2           1,4            1,7                  1,99
+ Haut    Actif                 10 %            2,00 %        100 $        215 $        466 $      1 006 $      2 172 $
+          Passif                10 %            0,20 %        100 $        254 $        648 $      1 652 $      4 208 $
+          Actif/Passif                                            1,0          1,2           1,4            1,6                  1,94
+
+
+ Tableau 18.4   L’annuité de 5 000 $ capitalisés à différents taux (résultats en milliers de dollars)
+
+                                                     Horizon d’investissement (années)
+                    Rendement       Frais         0       10       20       30          40
+                       avant paiement   annuels
+                     des frais
+ Bas     Actif                 6 %           2,00 %          5 $          67 $        160 $       297 $                     499 $
+          Passif                6 %           0,20 %          5 $         74 $        196 $       409 $                     784 $
+           Actif/Passif                                        1,0          1,1          1,2          1,4                        1,6
+ Haut    Actif               10 %           2,00 %          5 $         83 $        252 $       617 $                  1 404 $
+          Passif              10 %           0,20 %          5 $         92 $        312 $       875 $                  2 306 $
+           Actif/Passif                                        1,0          1,1          1,2          1,4                          1,64
+
+
+                         Dans les deux précédents tableaux, les rendements des portefeuilles actif et passif avant le paiement
+                          des frais sont égaux ; le rendement est de 10 % dans le scénario (et de 6 % dans le mauvais). Les coûts de
+                           l’investissement actif sont de 2 %, tandis qu’ils sont de 0,2 % pour le passif.
+
+                     On remarque que de faibles différences dans les coûts annuels d’investissement se cumulent au fil
+                    du temps et se transforment en d’importantes différences sur de longues périodes. Qui plus est, les
+                      rendements bruts influent très peu sur cette différence. Après 40 ans, le ratio de la valeur capitalisée
+                       d’un investissement passif sur un investissement actif est égal à 1,99 pour le mauvais état de la nature
+                              et de 1,94 pour le bon état de la nature. Sans considérer les frais, la richesse de l’investisseur après
+                      40 années de capitalisation au taux de 6 % par année serait VF = 100 $ (1 + 6 %)40 = 1 028,57 $. Cela
+                         veut dire que les frais de gestion diminuent de 53,3 % la richesse de l’investisseur actif lorsque celui-ci
+                         paie des frais de 2 % et de 7,3 % celle de l’investisseur passif lorsque celui-ci paie des frais de 0,2 %. La
+                         valeur capitalisée d’une annuité de 5 000 $ montre quelque chose de similaire. Après 40 ans, la richesse
+                       de l’investisseur passif est environ 60 % plus élevée que celle de l’investisseur actif dans les deux scéna-
+                            rios possibles. Pour le scénario pessimiste, la valeur capitalisée, sans tenir compte des frais, est de
+                      825 238 $. De ce montant, on peut déjà comptabiliser 205 000 $ issus des 41 paiements de l’investisseur.
+                                 Ici, les frais de gestion privent l’investisseur actif de 39,5 % de sa richesse finale et de seulement 5 % pour
+                             l’investisseur passif.
+
+                      Un autre élément qui ressort de ces deux tableaux est qu’il est crucial de commencer à épargner le
+                          plus tôt possible puisque les gains les plus importants arrivent vers la fin de la période d’investissement. Le
+                       développement exponentiel des valeurs capitalisées montre bien qu’investir tôt est bénéfique. C’est d’ail-
+                            leurs l’un des principaux facteurs de réussite d’un investissement à long terme. Un étudiant âgé de 20 ans
+                         qui commence par investir 5 000 $ chaque année de façon passive, et ce, pendant 40 ans, aura 783 663 $
+                     au moment de sa retraite à 60 ans si cette richesse croît au taux de 6% par année. Un autre étudiant qui
+
+
+
+10     CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 11
+choisit de dépenser l’intégralité de ses 10 premières années de salaire, puis qui commence à épargner ce
+même montant par la suite n’aura que 499 133 $ au moment de la retraite à 60 ans. Comme nous en avons
+discuté précédemment, les flux monétaires provenant de ces investissements sont libres d’impôts si on se
+sert du CELI.
+
+18.2.3  Les tendances d’investissements passif et actif
+Comme nous l’avons déjà vu, un investisseur peut investir activement en achetant directement des actions
+ou d’autres titres ou encore en payant quelqu’un pour le faire, par exemple dans un fonds commun de
+placement ou un fonds de couverture. Cela contraste avec les investisseurs passifs qui n’effectuent pas
+d’investissements directs, mais plutôt des investissements indirects afin de minimiser les coûts.
+
+    La figure 18.2 montre les tendances des divers types d’investissement entre 1986 et 2006 sur le marché
+des actions ordinaires américaines. Tandis que la part des investissements directs est passée de 44 % à 27 %,
+celle des fonds gérés passivement et activement a fortement augmenté. À la fin de 2006, la proportion des
+fonds activement gérés est passée de 79 % à 69 %.
+
+ Figure 18.2   Les allocations des capitaux d’actions publiques (en pourcentage)
+
+               60,0
+
+
+               50,0
+
+
+               40,0
+                                                                                       Investissement
+                                                                                           géré passivement               30,0
+                                                                                           géré activement
+                                                                             non géré (direct)
+               20,0
+
+
+               10,0
+
+
+                 0,0
+                               1986 1987 198819891990 199119921993 1994 199519961997 19981999 20002001 20022003200420052006
+
+Source : Basé sur l’ouvrage de FRENCH, K. R. « Presidential Address : The Cost of Active Investing », Journal of Finance,
+vol. 63, no 4, 2008, p. 1537-1573.
+
+   Un nombre de plus en plus important d’investisseurs se rend compte de la valeur de l’investissement
+passif. Même Warren Buffet, un des plus imminents investisseurs actifs, a dit :
+
+     « Le conseil le plus simple que je peux donner à un investisseur est le suivant : mettre 10 % des liqui-
+dités dans des obligations à court terme du gouvernement et 90 % dans un fonds indiciel du S&P 500 très
+peu coûteux. Je pense que les rendements à long terme, avec cette stratégie, seront supérieurs à ceux
+qu’obtiennent la plupart des investisseurs individuels, institutionnels et fonds de pension qui dépensent
+largement dans le recrutement de gestionnaires14. »
+
+      Question théorique
+
+  1. Pourquoi est-ce que les investisseurs passifs peuvent en moyenne obtenir un rendement net plus
+      élevé que le rendement moyen agrégé des investisseurs actifs ?
+
+
+
+14. TUCHMAN, M. « Warren Buffett to Heirs : Put my Estate in Index Fund », Market Watch, 13 mars 2014 (www.marketwatch.com/story/
+     warren-buffett-to-heirs-put-my-estate-in-index-funds-2014-03-13).
+
+
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle     11
+
+## Page 12
+              18.3  L’imposition
+                         Après les frais d’investissement, les impôts constituent un autre coût majeur lié à l’investissement. Comme
+                               le montre le chapitre 2, les trois types de revenus d’un investisseur canadien sont imposés de manière dif-
+                             férente. Selon les calculs du tableau 2.6 à la page 42, un résident ontarien se situant dans la plus haute
+                         tranche d’imposition doit payer 40,16 % d’impôts sur les intérêts reçus (qui sont donc imposés au taux
+                       marginal d’imposition de l’individu), 20,08 % sur les gains en capitaux réalisés (puisque seulement la
+                          moitié des gains sont imposables au taux marginal d’imposition) et, enfin, 19,98 % sur les dividendes reçus
+                                (si on tient compte du crédit d’impôt sur les dividendes des entreprises canadiennes).
+
+                              L’épargne individuelle joue un rôle important dans la constitution d’une retraite. Ainsi, le gouverne-
+                     ment canadien essaie d’encourager l’investissement en offrant diverses façons de réduire l’impôt sur les
+                         revenus d’investissement. Les deux plus populaires sont le compte d’épargne libre d’impôts (CELI) et le
+                       régime enregistré d’épargne retraite (REER).
+
+                  18.3.1  Le compte d’épargne libre d’impôts
+                        Le compte d’épargne libre d’impôts (CELI) offre la possibilité d’épargner grâce à une grande variété de
+                          véhicules d’investissement sans avoir à payer d’impôt sur les revenus générés. En termes simples, un
+                           résident canadien peut ouvrir un CELI auprès d’un établissement financier et acheter des actions, des
+                          obligations ou des fonds de placement à partir de ce compte. Les gains en capitaux générés ainsi que
+                              les dividendes et les intérêts ne sont alors pas imposables, sauf exception. Les dividendes payés par des
+                          entreprises non canadiennes sont assujettis à un traitement fiscal différent. Dans ce cas, le taux
+                         d’imposition dépend du traité signé entre le Canada et le pays de domiciliation de la compagnie payant
+                               le dividende. Ce taux est souvent égal à 15 % 15. Ainsi, un investisseur souhaitant diversifier son porte-
+                              feuille en investissant à l’étranger peut choisir soit d’accepter ce taux d’imposition, soit d’investir uni-
+                     quement dans des entreprises étrangères ne payant pas de dividendes, ou encore choisir de renoncer au
+                      CELI pour ce type d’investissement afin de laisser le champ libre pour les placements éligibles à la
+                             défiscalisation.
+
+                            Bien entendu, le montant qu’on peut investir dans le CELI est limité. La limite de contribution
+                         annuelle a été augmentée de 5 500 $ à 10 000 $ en 2015. Les montants non utilisés peuvent être reportés et
+                          sont utilisables dans des années futures. Les variations de valeur d’investissements effectués dans un CELI
+                       augmentent et diminuent la limite de contribution possible afin d’éviter d’avoir à effectuer des transactions
+                       pour respecter les seuils limites. Par exemple, prenons le cas d’un investisseur pouvant encore investir
+                       41 000 $ dans son CELI et qui décide d’utiliser tout ce montant afin d’acheter des actions. Si, par la suite,
+                             la valeur de ces actions augmente à 51 000 $, l’investisseur n’est pas obligé de vendre pour 10 000 $ d’ac-
+                            tions afin de satisfaire aux exigences. Les investisseurs dont les CELI excèdent les seuils posés sont exposés
+                       à des frais de pénalité non négligeables.
+
+                       En somme, le CELI permet aux Canadiens de réduire le poids de l’impôt sur leurs investissements.
+                       Malgré sa simplicité, les investisseurs devraient s’informer en détail sur les diverses exceptions fiscales et
+                               les pénalités applicables ainsi que la meilleure façon d’optimiser les avantages du CELI.
+
+                  18.3.2  Le régime enregistré d’épargne retraite
+                       Tout comme le CELI, le régime enregistré d’épargne retraite (REER) est un compte dans lequel les
+                      Canadiens peuvent épargner afin de réduire les revenus imposables. Le mécanisme permettant
+                            la réduction d’impôts est tout de même différent. Contrairement au CELI, les contributions faites dans
+                              le REER réduisent le revenu imposable d’un individu durant l’année où elles sont faites, alors que les
+                          contributions au CELI viennent de sommes sur lesquelles un impôt a déjà été perçu. Tant que les inves-
+                         tissements sont détenus dans ce compte, les revenus générés (y compris les dividendes étrangers) ne
+                         sont pas imposables. Cependant, on doit s’acquitter des impôts lorsqu’on commence à faire des retraits
+                      dans ce compte. Le REER permet donc de reporter les impôts à plus tard. La limite de contribution
+
+
+
+                                15. BEBEE, G. « The Shrewd Investor : Foreign Dividend Withholding Tax and your TFSA », The Globe and Mail, 4 avril 2013 (www.theglobeandmail.
+                                       com/globe-investor/personal-finance/financial-road-map/foreign-dividend-withholding-tax-and-your-tfsa/article10767173).
+
+
+
+12     CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 13
+du REER est le moindre entre 24 930 $ et 18 % des revenus gagnés plus les montants non utilisés de
+l’année précédente. Tout comme pour le CELI, une contribution trop élevée entraîne d’impor-
+tantes pénalités 16.
+
+18.3.3  Le CELI versus le REER
+Il n’existe pas de réponse simple à savoir laquelle des deux méthodes, entre le CELI et le REER, est la
+meilleure. Les bénéfices de chacune d’elles dépendent du profil de chaque investisseur, ce qui inclut ses
+préférences, son âge de départ à la retraite, l’évolution de ses revenus et du taux marginal d’imposition
+au fil de sa vie, ainsi que d’une multitude d’autres facteurs. De façon générale, le CELI offre plus de
+flexibilité (ce qui peut jouer sur sa rigueur de placement), alors que le REER convient plus à des pré­
+visions de long terme. Le tableau 18.5 compare certaines grandes caractéristiques de ces deux ou­-
+tils d’épargne.
+
+
+ Tableau 18.5   Le CELI versus le REER
+
+ Caractéristiques              CELI                    REER
+  Principe de taxation                Revenus d’investissement            Revenus d’investissement
+                                              libres d’impôts                           libres d’impôts
+ Âge minimal                   18                              Aucun
+ Âge maximal                      Aucun                        71
+  Limite de contribution             10 000 $/année 17                18 % des derniers revenus
+  (en 2015)                                                                  jusqu’à 24 930 $
+  Contributions déductibles d’impôts   Non                                Oui
+  Possibilité de reporter les             Oui                                Oui
+  ­contributions non utilisées
+  Pénalité si contribution excessive    1% par mois                 1% par mois
+  Croissance                             Libre d’impôts                      Impôts différés
+  Retraits imposables               Non                                Oui
+
+18.4  Le risque d’investissement
+Tandis que les autres sections se concentraient sur la maximisation du rendement net et la minimisation
+des coûts d’investissement, cette section porte sur les différents types de risques qui doivent être pris en
+compte dans le processus de choix de portefeuille. Puisqu’un investisseur rationnel cherche à maximiser
+le ratio du rendement net sur le risque, une règle générale s’impose : les investisseurs doivent éviter les
+risques pour lesquels ils ne sont pas rémunérés.
+
+   Comme le transfert de risque sans paiement d’une prime de risque adéquate permet d’engendrer des
+profits, les vendeurs de produits d’investissement tels que les fonds communs de placement ou les certifi-
+cats d’investissement sont incités à ne pas les dévoiler, tel le risque de crédit décrit ci-après. Les investisseurs
+devraient s’informer autant que possible sur les risques potentiels et devraient songer à rester loin des
+investissements qu’ils ne comprennent pas clairement.
+
+18.4.1  Le risque idiosyncratique, spécifique et diversifiable
+Le moyen le plus efficace pour réduire le risque sans toucher négativement le rendement est d’user de
+diversification des titres dans le portefeuille. Selon la théorie de portefeuille, investir dans plusieurs actifs
+en même temps permet d’éliminer le risque idiosyncratique (voir le chapitre 13). Puisque les investis-
+seurs n’ont pas besoin d’assumer le risque idiosyncratique, ils ne peuvent s’attendre à être rémunérés
+dans ce cas.
+
+
+16. Agence du revenu du Canada (www.cra-arc.gc.ca/tx/ndvdls/tpcs/rrsp-reer/rrsps-eng.html).
+17.  Il est possible que cette limite soit réduite à la suite de l’élection du Parti libéral du Canada aux élections fédérales de l’automne 2015.
+
+
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle     13
+
+## Page 14
+                            Le potentiel de réduction du risque au travers de la diversification est substantiel. Entre 1970 et 2012,
+                               les rendements d’actions industrielles nord-américaines avec une capitalisation de marché d’au moins
+                       100 millions de dollars américains ont eu un écart-type annualisé moyen d’environ 50 %. Au cours de cette
+                 même période, l’écart-type annualisé moyen de l’indice du SP500 n’était que de 17,2 %. Bien que le SP500
+                               soit un indice boursier basé sur 500 grandes sociétés, celles-ci ne sont cotées que sur les bourses améri-
+                            caines. La diversification entre les pays et les diverses classes d’actifs permet de réduire davantage le risque
+                              total du portefeuille. La diversification de titres permet de réduire le risque total de plus de deux tiers sans
+                      abandonner un quelconque rendement. Puisque les transactions sont coûteuses, les investisseurs ayant peu
+                        de capital à investir ont tout intérêt à acheter quelques fonds bien diversifiés plutôt qu’une multitude de
+                                 titres individuels.
+
+                  18.4.2  Le risque de crédit
+                        Le risque de crédit est le risque qu’une contrepartie d’un contrat financier ne soit pas en mesure d’effectuer
+                    un paiement qui a été promis et qui est dû. Les obligations d’entreprises exposent les investisseurs au risque
+                       de crédit et versent ainsi une prime aux investisseurs pour compenser. Ainsi, une obligation ayant une
+                         note de crédit inférieure devrait avoir, en moyenne, un plus grand rendement.
+
+                            Bien que les investisseurs soient rémunérés pour assumer le risque de crédit, ceci n’est pas le cas pour
+                          tous les investissements. Par exemple, intéressons-nous aux certificats sur indice offerts par les banques
+                           d’investissement. Le vendeur d’un certificat sur indice promet à l’investisseur de lui payer l’équivalent de
+                             l’indice de référence, par exemple le S&P500. Puisque ces certificats ne nécessitent pas la mise de côté d’un
+                              collatéral, l’investisseur est exposé au risque de crédit de la banque d’investissement. Même si la valeur de
+                             l’indice de référence augmente (le sous-jacent), le certificat peut perdre une grande partie de sa valeur si
+                       son émetteur manque à ses engagements (ou fait défaut) !
+
+                             Par suite de la faillite de Lehman Brothers en 2008, beaucoup d’investisseurs ont perdu leurs écono-
+                          mies, car ils n’avaient pas pris en compte le risque de crédit lié à ce type de produit ou n’en étaient pas
+                           conscients. Certains vendeurs de Lehman Brothers visaient particulièrement les personnes âgées qui ne
+                       comprenaient pas pleinement les risques de ce type d’investissement. Des poursuites ont ensuite été
+                         déclenchées par ces anciens clients 18.17
+
+                            Avant la crise financière, ce type de certificats indiciels était perçu comme un bon instrument de
+                             diversification pour les petits investisseurs. Par la suite, la vente de ce genre de produit a grandement dimi-
+                     nué en faveur des fonds négociés en Bourse (FNB). Tout comme les certificats indiciels, la plupart des FNB
+                          sont des investissements passifs qui reflètent la valeur d’un indice sous-jacent. Cependant, l’émetteur d’un
+                   FNB est obligé d’acheter les titres du fonds. Ainsi, si l’émetteur fait défaut, le lot de titres achetés afin de
+                           suivre l’indice sert de bien donné en garantie, ce qui protège les investisseurs des pertes possibles. Les FNB
+                          relativement simples ne représentent pour ainsi dire pas ou presque pas de risque de crédit ; il s’agit plutôt
+                        d’une très bonne manière de diversifier un portefeuille passif. Le marché des FNB est passé de 772 milliards
+                        de dollars en 2008 à plus de 2 400 milliards de dollars en 2014 19.18
+
+                            Le manque de règles quant aux limites de ces produits a permis l’introduction de FNB synthétiques.
+                        Lorsque des complications surviennent sur les marchés, ces FNB synthétiques peuvent exposer leurs déten-
+                            teurs à un important risque de crédit. Un investisseur voulant acquérir un FNB peut éviter ce risque en
+                           s’assurant que le fonds utilise une grande part de ses liquidités pour acheter des composantes de l’indice
+                            plutôt que des produits dérivés 20.19
+
+
+
+
+
+                                18. « Burned by Lehman Securities : German Bank Admits Giving Wrong Advice to Investors », Spiegel, 28 avril 2009 (www.spiegel.de/
+                                       international/business/burned-by-lehman-securities-german-bank-admits-giving-wrong-advice-to-investors-a-621599.html).
+                                19. 18. STONE, G. et BARADAS, M. « Nefarious Flickering, Quote Burst or ETFs : Are Equities Becoming a Quote-driven Marketplace? », Bloomberg,
+                              18 juin 2014 (www.bloombergtradebook.com/blog/nefarious-flickering-quote-burst-etfs-equities-becoming-quote-driven-market-place).
+                                20. « Exchange-Traded Funds : From Vanilla to Rocky Road », The Economist, 25 février 2012 (www.economist.com/node/21547989).
+
+14     CHAPITRE 18        La finance personnelle                                              Reproduction interdite © TC Média Livres Inc.
+
+## Page 15
+          Résumé et conclusions      Chapitre
+                       Ce chapitre repose sur les concepts présentés tout au long de cet ouvrage afin de développer des principes de
+                          base dans le processus d’investissement personnel. Entre autres, il montre que l’investissement passif offre une
+                           meilleure performance que l’investissement actif, une fois les frais de gestion pris en compte. Il présente des 18         outils tels que le CELI et le REER, qui permettent de réduire le fardeau fiscal des Canadiens ainsi que les risques
+                        pour lesquels ils ne sont pas rémunérés.
+
+                             Toute personne souhaitant effectuer ses premiers pas en investissement personnel peut suivre ces
+                         quelques étapes :
+
+                        1. Ouvrir un compte de courtage en ligne offrant l’option CELI.
+
+                        2. Ne pas investir des montants trop faibles afin de réduire la proportion des coûts de transaction. Un montant
+                              raisonnable par transaction se situe entre 500 $ et 1 000 $.
+
+                        3. Davantage de fonds disponibles permettent de diversifier personnellement son portefeuille. Si vos fonds sont
+                                   limités, investissez seulement dans des fonds diversifiés tel un fonds négocié en Bourse (FNB) sur l’indice
+                        MSCI World.
+
+                        4. Investissez de manière passive dans des FNB simples (non synthétiques) afin de réduire l’exposition
+                         au ­risque de (crédit) contrepartie.
+
+                        5. Prenez en considération les frais de gestion annuels d’un fonds donné.
+
+                        6. Remettez en question tout ce que vous dit votre conseiller financier (si vous en avez un).
+
+                        7. Utilisez votre gros bon sens.
+
+
+
+
+
+Reproduction interdite © TC Média Livres Inc.                                     Chapitre 18        La finance personnelle     15

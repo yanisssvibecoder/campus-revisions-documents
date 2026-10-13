@@ -1,0 +1,130 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Gestion des stocks
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+Pourquoi et combien?
+
+## Diapositive 5
+
+## Diapositive 6
+
+L’analyse ABC
+
+## Diapositive 7
+
+## Diapositive 8
+
+Gestion des stocks : Les coûts en cause
+
+Coût d’acquisition
+
+Coût de pénurie
+
+Coût de stockage (entreposage) 
+
+Coût de commande 
+    (ou de mise en course)  
+
+
+
+
+
+## Diapositive 9
+
+Combien et quand commander
+
+Quand commander?
+
+Combien commander?
+
+Avoir le bon produit au bon moment
+
+Tout en minimisant 
+les coûts
+
+## Diapositive 10
+
+
+
+
+
+Calcul du coût total annuel
+
+
+
+CT : Coût total annuel
+DT : Demande annuelle
+QC : Quantité commandée
+Ce : Coût annuel de stockage unitaire
+Cte : Coût annuel de stockage total
+
+Cc : Coût de commande unitaire
+Ctc : Coût annuel de commande total
+Ca : Coût d’acquisition unitaire
+Cta : Coût annuel d’acquisition
+SS : Stock de sécurité
+
++ DT × Ca 
+
+## Diapositive 11
+
+Graphique des coûts
+
+## Diapositive 12
+
+Quantité économique à commander
+
+Coût unitaire pour passer une commande
+
+Coût de stockage annuel d’une unité
+
+Demande annuelle
+
+Calcul de la QEC
+
+## Diapositive 13
+
+Exercice : Calculs QEC et coût total
+
+Un fabricant de jouets dépense 96 000 $ en morceaux de silicone par année. Les morceaux sont consommés à taux constant pendant les 240 jours de l’année où l’usine est en activité. Le coût annuel de stockage représente 20 % du coût d’acquisition. Le coût de commande est de 24 $. Le coût unitaire d’acquisition est de 3 $.
+
+Déterminez :
+La quantité économique à commander.
+Le coût total annuel de gestion des stocks lié à cette quantité.
+
+## Diapositive 14
+
+Solution
+
+## Diapositive 15
+
+Exercice : Calculs QEC et coût total
+
+Un distributeur de fruits et de légumes utilise 800 cageots par mois à raison de 10 $ l’unité. La gérante a estimé le coût de possession annuel à 35 % du prix d’achat par cageot et les coûts de commande, à 28 $.  Actuellement, elle place une commande par mois.
+
+Déterminez :
+Le coût total annuel de gestion des stocks selon la politique actuelle de gestion des cageots.
+La QEC.
+Les économies annuelles si elle utilisait la QEC? 
+
+## Diapositive 16
+
+Solution
+
+## Diapositive 17
+
+Questions…

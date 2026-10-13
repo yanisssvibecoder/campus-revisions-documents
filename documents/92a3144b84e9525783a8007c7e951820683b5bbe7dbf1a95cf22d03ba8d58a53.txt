@@ -1,0 +1,21 @@
+5-6.3 | Activités/ressources APRÈS la séance
+
+Séances 5 et 6
+Exercices :
+Livre Gestion financière, 5e édition
+Chapitre 12
+(pages 389-392)
+Exercices : 1, 2, 7, 9, 17, 18
+Chapitre 13
+(pages 431-434)
+Exercices : 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 23, 24, 25.
+Livre Gestion financière, 4e édition
+Chapitre 12
+(pages 415-417)
+Exercices : 1, 2, 7, 9, 14, 15
+Chapitre 13
+(pages 458-461)
+Exercices : 1, 2, 3, 4, 5, 6, 7, 8, 9, 19, 11, 12, 13, 14, 15, 16, 17, 19, 23 a) et b), 24, 25, 26.
+NB : Il y a une erreur dans le solutionnaire du
+numéro 26
+. La variance de l'action I devrait être de 0,7425 % (et non 1,3825 %) et l'écart-type devrait être de 8,62 % (et non 11,76 %).

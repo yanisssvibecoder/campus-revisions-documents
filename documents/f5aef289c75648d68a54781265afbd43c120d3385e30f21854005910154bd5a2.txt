@@ -1,0 +1,17 @@
+2 | Description et objectifs de la séance
+
+Séance 2
+Description
+Prévision de la demande
+Les composantes de la demande;
+Les méthodes de prévision qualitatives et quantitatives;
+Les séries chronologiques;
+L'évaluation de la précision des prévisions par le calcul des erreurs (écart et écart quadratique).
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d'expliquer le rôle et les enjeux des prévisions dans l'organisation;
+de distinguer la demande indépendante de la demande dépendante;
+d'identifier et de comprendre les composantes de la demande (saisonnalité, conditions du marché, cycle de vie du produit, composante endogène, composante résiduelle);
+de distinguer les méthodes de prévision qualitatives et quantitatives, et de comprendre comment elles peuvent se compléter;
+de faire des prévisions de demande en utilisant quelques méthodes de base : moyenne mobile, moyenne mobile pondérée et lissage exponentiel simple;
+de comprendre les avantages et les limites de chacune de ces méthodes, et d'évaluer leur degré d'exactitude à l'aide des différentes mesures d'erreurs.

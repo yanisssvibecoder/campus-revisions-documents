@@ -1,0 +1,7 @@
+Remise Travail pratique 1
+
+Le travail est à remettre avant le début de la séance 7
+1 remise par équipe
+OBLIGATOIRE de nommer le fichier :
+Section_TP1_Nom du produit (ex.: F06_TP1_NitroPress)
+Aucun travail ne sera évalué, si ces consignes sont ignorées.

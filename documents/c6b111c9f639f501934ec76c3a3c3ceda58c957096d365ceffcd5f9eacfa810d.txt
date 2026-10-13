@@ -1,0 +1,12 @@
+12 | Description et objectifs de la séance
+
+Une solution complète : un progiciel de gestion intégré et un tableau de bord
+Description
+Cette séance est consacrée à la simulation d'affaires finale ERPsim. Chaque équipe devra gérer sa propre entreprise de sirop d’érable et se mesurer aux autres. Les tableaux de bord développés dans le cadre du travail pratique serviront à appuyer les décisions d’affaires.
+Cette activité permettra de consolider votre compréhension du rôle des technologies de l’information dans la gestion des organisations, notamment à travers un système transactionnel intégré (PGI) et un outil d’aide à la décision (tableau de bord).
+Important!
+Cette dernière séance marque l’aboutissement de votre parcours. C’est l’occasion de mobiliser vos apprentissages pour prendre des décisions éclairées et démontrer votre compréhension des enjeux technologiques en gestion. Faites preuve de rigueur, d’analyse et de stratégie — vous êtes prêts!
+Objectifs de la séance
+Gérer une entreprise fictive à l’aide d’un progiciel de gestion intégré en mobilisant les fonctions SAP vues depuis S7 (MRP, gestion des prix, marketing, reporting) dans un contexte de simulation définitive
+Appuyer ses décisions d’affaires en temps réel à l’aide du tableau de bord développé dans le cadre du travail d’équipe, en l’actualisant entre les rondes pour orienter les décisions suivantes
+Illustrer comment les technologies de l’information soutiennent les processus d’affaires dans une organisation, du pipeline ETL jusqu’à la décision managériale

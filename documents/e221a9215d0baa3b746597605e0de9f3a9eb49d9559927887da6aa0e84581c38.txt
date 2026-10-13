@@ -1,0 +1,183 @@
+## Diapositive 1
+
+Mobiliser les technologies numériques	
+
+TECH 10701
+
+Notes : Photo Martin LESAGE
+
+## Diapositive 2
+
+Pratique pour l’intra
+
+## Diapositive 3
+
+Minicas de préparation pour l’intra
+
+Modernisation du système d'inscription aux cours
+Le Collège Innovations Numériques (CIN) souhaite moderniser son processus d'inscription aux cours pour la session d'automne 2025. Actuellement, les inscriptions se font par formulaire papier, ce qui génère des erreurs de saisie et ralentit le traitement des demandes. La direction a décidé de développer un nouveau système numérique utilisant Airtable comme base de données et Softr pour créer les interfaces utilisateurs.
+Le processus est volontairement simple : un étudiant consulte le catalogue des cours offerts via l’interface Softr, sélectionne les cours qui l’intéressent et soumet sa demande d’inscription en ligne. Le système enregistre automatiquement chaque demande avec la date et l’heure. Un étudiant peut s’inscrire à plusieurs cours, mais chaque demande correspond à un seul cours et un seul étudiant.
+Une fois la demande soumise, le coordonnateur du programme accède à son tableau de bord pour consulter les nouvelles demandes. Il peut alors valider ou refuser chaque demande selon la disponibilité des places et les préalables requis. La majorité des cours ont 60 places. Quelques cours ont des prérequis. L’étudiant reçoit ensuite une confirmation par courriel. Une fois confirmée, la demande devient une inscription officielle.
+Le collège doit s’assurer que le nouveau système respecte la Loi 25 concernant la protection des renseignements personnels. L’équipe responsable du projet doit également mettre en place les pratiques appropriées de cybersécurité et de cyberhygiène pour protéger les données et le système.
+Pour faciliter la planification des sessions futures, les administrateurs ont besoin d’accéder aux statistiques globales d’inscription et de générer des rapports sur la popularité des cours offerts.
+
+
+## Diapositive 4
+
+Séance 1
+
+Si le CIN souhaite mobiliser les technologies numériques pour moderniser leur processus d'inscription aux cours, lequel de ces éléments n'est PAS un avantage?
+a.      Plus d'efficacité
+b.      Plus d'évolutivité
+c.      Plus de productivité 
+d.      Plus de redondance
+Le système d'information destiné à prendre en charge le nouveau processus d'inscription aux cours doit être un ensemble bien défini de tâches élémentaires qui permettent de saisir, stocker, transformer et distribuer des données.
+a.      Vrai       b.     Faux
+
+
+## Diapositive 5
+
+Séance 1 et 2
+
+Pour atteindre leur objectif de modernisation du système d'inscription aux cours, il est judicieux de séparer les données saisies de leur traitement.
+Vrai       b.     Faux
+D'après votre compréhension des processus et du BPMN, qu'est-ce qui déclenche le processus ?
+Un étudiant consulte le catalogue des cours proposés et sélectionne les cours qui l'intéressent
+Le coordinateur du programme accède à son tableau de bord pour consulter les nouvelles candidatures
+Le système enregistre automatiquement chaque inscription avec la date et l'heure
+L'étudiant reçoit un courriel de confirmation
+
+
+
+
+## Diapositive 6
+
+Séance 2
+
+Qui n'est PAS un acteur impliqué dans le processus décrit?
+Étudiant
+Coordonnateur du programme
+Administrateurs
+Enseignant
+Quelles données sont nécessaires pour garantir le bon déroulement du processus ?
+Détails de la commande
+Données d'inventaire
+Statut de la livraison
+Aucune de ces réponses
+
+
+
+
+## Diapositive 7
+
+Séance 2 et 3
+
+La modernisation du processus d'inscription aux cours apporte principalement quel type de valeur ajoutée ?
+Une réelle valeur ajoutée
+Une valeur ajoutée d’affaires
+Aucune valeur ajoutée
+Aucune des réponses ci-dessus
+Quelle combinaison décrit le mieux les publics principaux et la portée de chaque modèle ? 
+Conceptuel : analystes et experts métier, indépendant de tout choix technique / Logique : concepteurs de bases de données et développeurs, dépendant du modèle de données choisi
+Conceptuel : développeurs, dépendant du SGBD / Logique : utilisateurs métier, indépendant de toute technologie
+Conceptuel : Administrateur de BD, spécifique au modèle relationnel / Logique : chefs de projet, indépendant du modèle de données
+Les deux modèles s'adressent au même public et ont le même niveau d'indépendance technologique
+
+## Diapositive 8
+
+Séance 3
+
+En fonction du modèle logique suivant, quelle est la bonne réponse?
+
+
+
+L'attribut matricule dans la table inscription est une clé lointaine 
+L'attribut matricule dans la table inscription fait partie de la clé primaire 
+L'attribut matricule dans la table inscription est une clé primaire 
+A et B
+
+
+## Diapositive 9
+
+Séance 3 et 4
+
+Un changement dans les processus d’affaires de l'organisation aura un impact en priorité sur…
+…le modèle logique, qui devra ensuite être propagé au conceptuel 
+…le modèle conceptuel, qui pourra ensuite nécessiter des ajustements au logique 
+…les deux modèles simultanément et de manière identique 
+…aucun des deux, car les processus métier concernent uniquement le modèle physique
+Quels sont les principaux avantages de maintenir à la fois un modèle conceptuel et un modèle logique ? (Sélectionnez toutes les bonnes réponses)
+Faciliter la communication avec les utilisateurs qui n'ont pas de connaissances techniques 
+Permettre de changer de technologie de base de données sans revoir entièrement la vision métier
+Réduire le temps total de développement en éliminant les étapes intermédiaires
+Améliorer la traçabilité entre les besoins d’affaires et l'implémentation technique
+Garantir que le système sera plus performant qu'avec un seul modèle
+Structurer la démarche de conception en séparant les préoccupations d’affaires et techniques
+
+## Diapositive 10
+
+a) | b)
+
+c) | d)
+
+Séance 4
+
+D'après le cas présenté, lequel des diagrammes de classes ci-dessous représente le mieux la relation entre les entités Étudiant et Cours ? 
+
+## Diapositive 11
+
+Séance 3
+
+Pourquoi cette table n’est pas en 2FN?
+
+
+
+
+
+Certaines cellules sont vides 
+Il y a plusieurs clés primaires 
+Des attributs non-clé dépendent uniquement d’une partie de la clé primaire concaténée
+B et C
+
+
+
+Matricule | Nom | Date naissance | Programme | No cours | Nom cours | Session | Note
+
+12345678 | Novak Sinner | 2004-01-26 | BAA | 10701 | MTN | A2025 | 
+
+12345678 | Novak Sinner | 2004-01-26 | BAA | 10903 | Comptabilité financière | H2025 | A
+
+12345678 | Novak Sinner | 2004-01-26 | BAA | 10200 | Finance | H2025 | B
+
+12345678 | Novak Sinner | 2004-01-26 | BAA | 10407 | Management | A2024 | A
+
+12312345 | Felix Nash | 2000-10-12 | BAA | 10200 | Finance | A2021 | A
+
+12312345 | Felix Nash | 2000-10-12 | BAA | 10407 | Management | A2021 | A
+
+12312345 | Felix Nash | 2000-10-12 | BAA | 10903 | Comptabilité financière | H2022 | 
+
+## Diapositive 12
+
+Séance 4 et 5
+
+Il existe trois valeurs par an qu’une session peut avoir (p. ex. hiver, été, automne). Quel serait le meilleur type à choisir dans Airtable pour l’attribut nommé Session dans la table Inscription ?
+Formule
+Sélection unique
+Texte sur une seule ligne
+Sélection multiple
+Parmi les exemples suivants de notre cas, lequel n’est PAS un renseignement personnel protégé par la Loi 25 ?
+Le nom d’une étudiante
+La date de naissance d’un étudiant
+Le nom d’un cours
+Le fait qu’un étudiant reçoit des accommodements pour des raisons médicales
+
+
+## Diapositive 13
+
+Séance 7
+
+Vrai ou Faux. Dans le cours, nous avons vu que lorsqu’on analyse un processus d’affaires, nous pouvons définir les besoins principaux de chaque utilisateur du système sous forme de Qui, Quoi et Pourquoi. Est-ce que l’affirmation suivante présente un besoin principal de l’étudiant dans notre cas : En tant qu’étudiant, je veux que le système sauvegarde mes demandes d’inscription afin que je puisse les gérer d’une manière efficace.
+Vrai       b.     Faux
+Vrai ou Faux. Dans le cours, nous avons vu que lorsqu’on analyse un processus d’affaires, nous pouvons définir les besoins principaux de chaque utilisateur du système sous forme de Qui, Quoi et Pourquoi. Est-ce que l’affirmation suivante présente un besoin principal du coordonnateur du programme dans notre cas : En tant que coordinateur, je veux que le système m’aide avec la hiérarchisation des étudiants sur la liste d’attente afin de privilégier ceux qui payent des frais de scolarité plus élevés.
+Vrai       b.     Faux

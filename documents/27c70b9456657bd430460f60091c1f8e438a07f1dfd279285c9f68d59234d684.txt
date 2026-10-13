@@ -1,0 +1,20 @@
+9 | Description et objectifs de la séance
+
+Séance 9
+Description
+Gestion de la capacité
+Facteurs déterminants de la capacité;
+Décisions ayant trait à la capacité;
+Élaboration des options de capacité;
+Mesures et détermination de la capacité;
+Le phénomène d'apprentissage.
+Étude du travail
+Démarche;
+Graphiques d'opérations, de cheminement et de déroulement.
+Mesure du travail
+Calcul des temps normalisés et des temps standards.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer la notion de capacité et la différence entre la capacité de conception et la capacité réelle;
+d'identifier les principaux éléments susceptibles d’influencer la capacité d’un système opérationnel (entre autres, le phénomène d’apprentissage, la variété de produits et la taille des lots fabriqués) et d’évaluer leur impact;
+de schématiser un processus simple à l’aide d’un graphique d’opérations et d’un graphique de cheminement.

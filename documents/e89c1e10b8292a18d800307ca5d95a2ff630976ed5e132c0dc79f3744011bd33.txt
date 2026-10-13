@@ -1,0 +1,424 @@
+## Page 1
+Carte Narrative de l’Érablière Boisvert
+
+1.  Pour aider Marcel à visualiser le flux de son entreprise, vous commencez à construire la grille de
+    la carte narrative. Selon la méthodologie de la cartographie narrative, que devriez-vous placer
+    sur l’axe horizontal et sur l’axe                                      vertical ?
+    a)  L’axe horizontal présente les différents personas (Marcel, employés, clients) et l’axe vertical
+      présente les thèmes techniques.
+    b)  L’axe horizontal affiche la séquence linéaire des activités (le flux d’utilisation) et l’axe vertical
+      présente le détail et la priorité des récits.
+    c)  L’axe horizontal liste les tables de la base de données (Airtable) et l’axe vertical liste les écrans
+     de l’interface (Softr).
+    d)  L’axe horizontal représente le passage du temps sur une année complète et l’axe vertical
+       représente les coûts de chaque fonctionnalité.
+
+2.  La première ligne d’une carte narrative est cruciale pour le projet de Marcel. Parmi les
+    propositions suivantes, laquelle représente la meilleure                       (thèmes/activités)
+   pour résoudre les problèmes opérationnels de l’Érablière                                                        « colonne vertébrale »                                                                 Boisvert ?
+    a) Créer la base de données → Configurer l’interface → Publier l’application.
+    b)  Saisir le nom du fournisseur → Enregistrer le prix → Noter le numéro de baril.
+    c)  Gérer l’approvisionnement → Suivre la transformation → Gérer les ventes et paiements.
+    d) Téléphoner aux fournisseurs → Écrire sur des enveloppes → Aller au marché.
+
+3.  Marcel a un besoin urgent :     plus payer deux fois le même           Dans votre carte
+    narrative, vous décomposez ce besoin sous le thème         les ventes et            Selon le                              « Ne                                  fournisseur ».
+    texte sur la décomposition, quelle approche devriez-vous                                                        « Gérer             paiements ».                                                                     éviter ?
+    a) Décomposer le besoin en récits plus petits comme            les factures            et
+                  l’historique de                                                                     « Identifier           impayées »
+    b)  Aligner la décomposition sur les résultats souhaités par Marcel.        « Valider              paiement ».
+    c)  Diviser la fonctionnalité en étapes techniques : 1. Créer le champ       dans Airtable, 2.
+      Créer le bouton dans Softr.                                                                                      « Statut »
+    d)  Utiliser l’approche          avant la            pour couvrir tout le processus de
+      paiement avant d’approfondir les détails techniques.                           « l’étendue         profondeur »
+
+4.  Sur votre carte narrative, vous avez plusieurs récits sous le thème                    Marcel a
+   un budget limité. Comment décidez-vous quels récits placer sur la ligne supérieure de l’axe                                                                   « Approvisionnement ».
+    vertical ?
+    a) En plaçant les récits les plus complexes techniquement pour les régler en premier.
+    b) En plaçant les récits qui plaisent le plus à Amélie, l’analyste.
+    c)  En identifiant les récits essentiels aux personas principaux pour accomplir leurs tâches
+        critiques et générer de la valeur immédiatement.
+    d) En classant les récits par ordre alphabétique pour faciliter la lecture de la grille.
+
+## Page 2
+5.  Pour chaque récit placé sur la carte (ex. :     tant que transformateur, je veux enregistrer la
+   quantité de sirop          vous devez prévoir une phase de              Quel élément                                                 « En
+   devriez-vous lier au récit sur la carte pour valider sa                       produite »),                                    « Confirmation ».                                                              réussite ?
+    a) Une capture d’écran du code de la formule Airtable.
+    b)  Les critères d’acceptation définissant les conditions nécessaires à la validation du récit.
+    c) La liste des fournisseurs de Marcel.
+    d) Le dossier de justification financière (Business Case).
+
+6.  Marcel souhaite un récit pour régler son problème de perte d’information. Laquelle des
+    propositions suivantes respecte le mieux le critère           (Valuable) du modèle INVEST, tout
+   en répondant au besoin identifié dans le                                                             « Valorisé »                                            cas ?
+    a)      tant que Marcel, je veux une base de données Airtable avec trois tables normalisées afin
+     de stocker mes        « En
+    b)      tant que propriétaire, je veux saisir les prix des fournisseurs sur mon cellulaire afin                              prix. »
+       d’éliminer le griffonnage sur papier et ne plus perdre d’opportunités        « En
+    c)      tant que système, je dois enregistrer automatiquement les coordonnées bancaires pour                                                                                d’achat. »
+      que Marcel puisse effectuer ses        « En
+    d)       améliorer l’érablière, Marcel doit avoir une application Softr connectée à Airtable d’ici                                       paiements. »
+        la fin du       « Pour                  mois. »
+7.  Marcel souhaite automatiser le suivi de ses paiements pour éviter de payer deux fois le même
+    fournisseur. Vous rédigez le récit suivant :     tant que Marcel, je veux que le système vérifie si une
+   facture a déjà été payée avant de valider un nouveau           Pour respecter le critère                                                 « En
+   Indépendant du modèle INVEST, quel aspect devez-vous                                                         paiement. »                                                                      privilégier ?
+    a)  S’assurer que ce récit peut être livré et testé sans dépendre obligatoirement de la mise en
+     œuvre complète du module de gestion des inventaires.
+    b)  S’assurer que Marcel peut négocier les modalités de paiement avec ses fournisseurs lors de la
+        livraison.
+    c)  Vérifier que l’effort de développement est estimable par l’équipe en fonction de la complexité
+      des données bancaires.
+    d)  Faire en sorte que le récit soit assez petit pour être terminé en une seule itération.
+
+8.  Pour résoudre le problème des barils qui ne produisent pas tous la même quantité de sirop,
+   Marcel veut un système qui enregistre la pureté de l’eau. S’il y avait un récit     tant que
+   transformateur, je veux saisir le niveau de sucre de chaque       lequel des énoncés suivants                                                                                        « En
+    constitue un critère d’acceptation                                                                                   baril »,                                        valide ?
+    a) Le système doit être plus performant que l’application de notes actuelle de Marcel.
+    b) Le coût de développement de cette fonction de saisie ne doit pas dépasser 500 $.
+    c)  L’utilisateur peut enregistrer un taux de sucre compris entre 1 % et 5 % et le système confirme
+       l’enregistrement.
+    d) La convivialité de l’écran de saisie est notée 8/10 par Marcel lors des tests.
+
+## Page 3
+9.  Marcel a beaucoup de besoins (inventaire, paiements, Loi 25, ventes). L’analyste décide
+   d’attendre juste avant la prochaine itération pour définir les détails techniques du calcul des coûts
+   de production (1 $ à 3 $ par bouteille). Pourquoi cette approche d’élaboration     à         est-
+    elle                                                                                                 « juste  temps »      recommandée ?
+    a) Parce que cela permet de documenter l’ensemble du système de Marcel en une seule fois
+      pour répondre aux besoins de gouvernance.
+    b) Pour éviter de fournir des efforts inutiles sur des fonctionnalités qui pourraient changer ou
+       devenir obsolètes d’ici leur mise en œuvre.
+    c)  Parce que l’élaboration des récits est une activité ponctuelle qui ne doit se produire qu’au
+      début du projet.
+    d) Pour s’assurer que Marcel n’intervienne pas dans les ateliers de planification technique.
+
+
+
+                                                                                              Assurer la
+    Sous-                                                  Gérer les ventes et les
+                  S’approvisionner       Gérer les Inventaires                          gouvernance et la
+  Processus                                                           partenaires
+                                                                                                       sécurité
+
+             Remplacer le griffonnage                              Structurer les             Assurer la conformité
+                                       Obtenir une visibilité en
+ Épopée     manuel par une saisie                                informations clients et     légale et la protection
+                                  temps réel sur les stocks.
+                structurée.                                               fournisseurs.            des données.
+
+                                                                       R3. En tant que
+                                                                       gestionnaire, je veux
+                   R1. En tant que Marcel, je   R2. En tant que                                         R4. En tant que
+                                                                      structurer les données
+             veux saisir les offres des   transformateur, je veux                                 propriétaire, je veux
+                                                            concernant les
+ Récits        fournisseurs (quantité et   consulter un rapport                                sécuriser l’accès aux
+                                                                   partenaires et les
+ utilisateurs    prix) dans un formulaire    d’inventaire automatisé                        données personnelles
+                                                                     transactions conclues
+ (Tâches)     mobile afin de ne plus      afin de savoir exactement                            via un système
+                                                       avec eux dans une base
+             perdre l’information sur   combien de barils d’eau                               d’authentification afin
+                                                    de données normalisée
+             des bouts de papier.       d’érable sont en stock.                        de respecter la Loi 25.
+                                                                          afin de faciliter les suivis
+                                                                        et les paiements.
+
+                                              T2. Utiliser des champs      T3. Appliquer les règles    T4. Documenter les
+ Récits
+                    T1. Créer un formulaire    calculés pour déduire    de normalisation (1FN,     attributs sensibles dans
+ détaillés
+               Airtable pour la saisie de  automatiquement les      2FN, 3FN) pour structurer un dictionnaire de
+ (Étapes
+                l’eau d’érable achetée.    stocks après chaque        les tables sans          données pour la
+ techniques)
+                                          session de transformation. redondance.            gouvernance.
+
+                                                                                                        T8. Paramétrer des filtres
+                T5. Mettre en place une    T6. Générer des alertes de  T7. Utiliser des fonctions
+                                                                        de visibilité dans Softr
+               interface Softr pour       stock bas pour planifier les de recherche (LookUp)
+                                                                                 pour que seules les
+              permettre à Marcel de    prochains achats auprès  pour lier rapidement un
+                                                                                    personnes autorisées
+                   saisir les données sur son  des propriétaires         achat au bon fournisseur
+                                                                                              voient les données
+                 cellulaire en camionnette.  forestiers.                    existant.
+                                                                                              bancaires.
+
+## Page 4
+10. Parmi les choix présentés, lequel représente le mieux l’extrait du cas suivant : Comme les
+    fournisseurs ne répondent pas toujours au téléphone, Marcel doit rappeler chaque fournisseur en
+   moyenne trois fois avant d’obtenir les informations souhaitées ?
+
+    a)
+
+
+
+
+
+    b)
+
+
+
+
+
+    c)
+
+
+
+
+
+                                           …
+    d)
+
+## Page 5
+11.  Parmi les choix présentés, lequel représente le mieux l’extrait du cas suivant : Marcel griffonne ces
+   informations sur des bouts de papier, parfois au dos d’une enveloppe, d’autres fois sur un calepin
+     qu’il traîne dans sa camionnette. Il arrive même qu’il note des détails sur son téléphone dans
+    l’application de notes, sans structure                                            particulière ?
+    a)
+
+
+
+
+
+    b)
+
+
+
+
+
+                                          …
+    c)
+
+## Page 6
+    d)
+
+
+
+
+
+12. Parmi les choix présentés, lequel représente le mieux l’extrait du cas suivant : Marcel laisse un
+   message à chaque client et chacun rappelle et laisse un message en retour précisant combien
+   de bouteilles il serait prêt à acheter durant la semaine et à quel prix ?
+
+    a)
+
+
+
+
+
+                                        …
+    b)
+
+
+
+
+
+    c)
+
+## Page 7
+    d)
+
+
+
+
+
+13. Pour répondre au récit R1 (saisir les offres), Marcel envisage de créer un champ nommé
+   de      dans lequel il écrirait : 5 barils à 40 $. Pourquoi cette structure ne respecte-t-elle pas la                                                                                                        « Détails
+   première forme         l’offre »                  normale ?
+    a) Parce qu’elle ne contient pas de clé primaire composée.
+    b) Parce que l’attribut n’est pas atomique.
+    c)  Parce que le prix unitaire dépend de manière transitive du nom du fournisseur.
+    d) Parce qu’il est impossible de trier les fournisseurs par ordre alphabétique avec ce format.
+
+14. Dans le modèle conceptuel visant à résoudre le récit R1 (saisir les offres), quelle est la multiplicité
+   correcte à établir entre l’entité                 et l’entité                                « FOURNISSEUR »           « OFFRE » ?
+    a)
+   …
+
+
+
+
+    b)
+
+
+
+
+    c)
+
+
+
+
+
+    d) Aucune de ces réponses
+
+## Page 8
+15. Quel est l’extrait du modèle logique permettant de répondre adéquatement au récit R3 pour
+     illustrer les liens entre les clients, leurs demandes et les                                                        ventes ?
+    a)
+
+
+
+
+
+    b)
+
+
+
+
+
+                                             …
+
+    c)
+
+
+
+
+
+    d)
+
+
+
+
+
+16. Marcel veut centraliser les informations des fournisseurs (R3). Il crée une table unique :
+   [noFournisseur, nomFournisseur, telFournisseur, noBanque, nomBanque,…]. L’analyste
+     lui dit que ce n’est pas en troisième forme normale (3FN).
+    a) Parce que le numéro de banque est une clé lointaine qui devrait être une clé primaire.                                                         Pourquoi ?
+    b) Parce qu’il y a une dépendance transitive entre le numéro de banque et son nom.
+    c)  Parce que le téléphone n’est pas un attribut pérenne.
+    d) Parce que la table n’est pas encore en 2FN.
+
+
+17. Pour le récit R2 (inventaire), Marcel doit lier chaque        reçu à un           spécifique. Dans
+    le modèle logique, comment s’assure-t-on que Marcel ne puisse pas enregistrer un baril                                                             « BARIL »          « ACHAT »
+   provenant d’un achat qui n’existe pas dans le                                              système ?    a) En utilisant une clé primaire courte et pérenne.
+    b) En reliant une clé lointaine de la table BARIL à la clé primaire de la table ACHAT.
+    c)  En créant un dictionnaire de données pour définir le type          pour les barils.
+    d) En masquant les données bancaires conformément à la Loi 25.                                                            « Nombre »
+
+## Page 9
+18. Pour identifier ses partenaires d’affaires (R3), Marcel hésite entre utiliser leur numéro de téléphone
+   ou un ID numérique généré par le système. Selon les critères d’une bonne clé primaire, quelle
+   option est              préférable ?
+    a) Le numéro de téléphone, car c’est une information que Marcel connaît déjà par cœur.
+    b)  L’ID numérique, car une clé primaire doit être pérenne (le téléphone peut changer) et sous le
+       contrôle de l’organisation.
+    c)  Le numéro de téléphone, car il identifie sans équivoque un enregistrement en 1FN.
+    d)  L’adresse courriel, car elle permet de contacter le client plus rapidement.
+
+
+19. Marcel veut pouvoir identifier de manière parlante les achats et le fournisseur lié pour éviter de
+   payer deux fois le même achat ou de confondre deux livraisons de barils. Dans Airtable, il
+   configure le champ principal « NAME » de sa table           Quelle stratégie de configuration
+   respecte les meilleures pratiques vues dans le                                                     « ACHATS ».                                                  cours ?    a)  Laisser le champ principal vide pour que le système fonctionne avec les valeurs nulles.
+    b)  Utiliser une formule de concaténation pour lier le numéro de l’achat, le nom du fournisseur et
+        la date, créant ainsi un identifiant unique et concis.
+    c)  Utiliser uniquement le numéro de téléphone du fournisseur comme clé primaire, car c’est une
+      chaîne de caractères courte.
+    d)  Configurer le champ principal en mode            pour pouvoir y griffonner des notes
+     comme il le faisait sur ses enveloppes.                                                « Texte long »
+
+20. Pour le suivi de ses transformations, Marcel doit saisir le niveau de sucre des barils (habituellement
+   entre 1 et 3 degrés Brix). S’il veut s’assurer que personne ne saisit accidentellement du texte (ex. :
+             au lieu d’un chiffre, quelle propriété doit être appliquée à ce champ dans    « Très sucré »)                                                                               Airtable ?
+    a) La taille du champ doit être limitée à 255 caractères.
+    b) Le type de la donnée doit être configuré comme         avec une règle de validation.
+    c)  Le champ doit être une clé lointaine liée à la table des clients.                                                      « numéro »
+    d) Le niveau de confidentialité doit restreindre l’accès à ce champ uniquement à Marcel.
+
+21. Pour répondre au récit R2 (inventaire), Marcel souhaite voir, dans sa table               le prix
+    unitaire exact de l’eau d’érable négocié dans la table         pour ce fournisseur cette                                                                            « ACHATS »,
+   semaine-là. Comment doit-il s’y prendre dans                                                          « OFFRES »                                                     Airtable ?
+    a)    Il doit ajouter un seul champ de type Recherche qui liera chaque enregistrement de la table
+     ACHAT à un seul autre enregistrement de la table OFFRE.
+    b)    Il doit ajouter un champ de type Cumul qui permet de faire la moyenne de tous les prix
+        unitaires offerts par le passé.
+    c)    Il doit filtrer la table pour trouver le prix en tapant le nom du fournisseur.
+    d)    Il doit ajouter deux champs dans la table ACHAT, un premier pour lier chaque achat à l’offre
+      correspondante et un deuxième pour rechercher le prix négocié de l’enregistrement lié.
+
+## Page 10
+22. Marcel veut identifier les fournisseurs problématiques. Il cherche les enregistrements où : (Le
+    fournisseur est                ET (Le paiement est en retard OU la quantité livrée est inférieure à
+    la commande). Selon la logique des filtres, comment Marcel doit-il structurer sa                    « Propriétaire A »)                                                                              requête ?    a)  Utiliser uniquement des opérateurs OU pour maximiser le nombre de résultats affichés.
+    b)  Utiliser un opérateur ET restrictif entre le nom du fournisseur et un groupe de conditions
+      contenant les deux autres critères reliés par un OU.
+    c)  Utiliser une fonction Search() générique, car elle ignore les distinctions entre ET et OU.
+    d) Créer trois filtres séparés sur des tables différentes pour éviter la confusion.
+
+23. Dans le récit R2, Marcel doit payer les coûts de production (1 $ à 3 $ par bouteille) immédiatement.
+      S’il possède une table                  avec les colonnes [Nombre de bouteilles] et
+   [Coût unitaire de transformation], quel type de champ automatisera le montant total à                     « TRANSFORMATION »
+   payer         comptant ?
+    a) Un champ LookUp() synchronisé avec la banque.
+    b) Un champ de type Numérotation automatique.
+    c) Un champ Formule.
+    d) Un champ Lien vers un autre enregistrement sans agrégation.
+
+24. Pour savoir combien de barils sont en stock (R2), Marcel doit soustraire le total des barils
+   transformés du total des barils achetés. Pour y parvenir, la table BARIL contient un champ
+   indiquant le statut de chaque baril :                                             Dans
+    Airtable, comment pourrait-on connaître le nombre de barils disponibles à la transformation dans                                            « En stock », « En transformation », « Transformé », « Vide ».
+    la table          pour l’afficher dans un tableau de           « ACHATS »                                 bord ?
+    a) Une formule de type {Baril} - {Transformé}.
+    b) Un champ de type Cumul (Rollup) avec la fonction SUM(values).
+    c) Un filtre appliqué sur le champ Statut ne conservant que les barils en stock.
+    d) Un menu déroulant affichant tous les statuts.
+
+25. Marcel utilise la barre de recherche de son application pour trouver le fournisseur                            Il
+   tape        Pourquoi le système lui affiche-t-il à la fois        acéricole Leblanc &     et                                                                                             « Leblanc ».
+    l’adresse     avenue          « blanc ».                                       « Ferme                               Fils »
+    a) Parce que la fonction Search() est restrictive et ne cherche que dans les clés primaires.            « 450         Blanche » ?
+    b) Parce que la fonction Search() retourne tous les enregistrements où la chaîne apparaît, peu
+      importe sa position dans le mot ou le champ.
+    c)  Parce que le système utilise une correspondance floue qui confond les noms et les adresses.
+    d) Parce que Marcel a activé par erreur un filtre OU sur toutes les colonnes.
+
+   APRÈS LA SUITE DU CAS
+
+## Page 11
+26. Amélie entreprend de créer une application avec Airtable et Softr pour son oncle Marcel. Une fois
+    l’application déployée, Marcel l’utilise chaque lundi pour saisir les offres des fournisseurs.
+  Comment doit-on qualifier ces deux                                             activités ?    a) La création de l’application est une opération (car elle est planifiée), et la saisie du lundi est un
+       projet (car elle est répétitive).
+    b)  Les deux activités sont des projets, car elles impliquent des ressources humaines limitées.
+    c) La création de l’application est un projet (effort temporaire pour un résultat unique), tandis
+      que la saisie hebdomadaire est un travail opérationnel (continu et répétitif).
+    d) La création de l’application est un projet progressif, tandis que la saisie du lundi est une
+       opération cyclique.
+
+27. Amélie présente quatre options à Marcel (Google Sheets, Airtable, Airtable/Softr, Power Apps).
+   Pour aider Marcel à choisir entre ces alternatives, elle utilise des mesures de coût, de complexité
+    et de conformité à la Loi 25. Comment appelle-t-on techniquement cet ensemble de                                                                                mesures ?    a) Des critères d’acceptation, car ils définissent l’ensemble minimal d’exigences.
+    b) Des critères d’évaluation, car ils permettent de classer des solutions alternatives selon leur
+       valeur pour les parties prenantes.
+    c) Des règles d’affaires, car ils assurent la conformité.
+    d) Des attributs de testabilité, car ils permettent de vérifier si le logiciel est opérationnel.
+
+28. Marcel mentionne qu’il griffonne ses notes sur des enveloppes et qu’il change souvent d’avis selon
+    la météo de la saison des sucres. Si Amélie adopte une approche Agile, laquelle de ces valeurs
+    privilégiera-t-elle pour satisfaire son                                        oncle ?    a)  Suivre rigoureusement un plan établi au début de la saison.
+    b)  L’adaptation au changement plus que le suivi d’un plan.
+    c) Une documentation exhaustive de chaque baril reçu.
+    d) La négociation contractuelle pour fixer les prix des fournisseurs.
+
+29. Pour l’aider à choisir sa solution, Amélie définit le critère suivant :                doit être
+             Pourquoi ce critère est-il mal formulé pour un test                                                                  « L’application   sécurisée. »                                              d’acceptation ?
+    a) Parce qu’il n’est pas rédigé par Marcel lui-même.
+    b) Parce qu’il fait partie d’un dossier de justification et non d’un document technique.
+    c)  Parce qu’il n’est pas          sous une forme     ou
+    d) Parce que la sécurité est un critère d’évaluation et non d’acceptation.                               « testable »                   « vrai    faux ».
+
+30. Dans ses solutions proposées, Amélie met de l’avant la          de rapports de
+   pour la Loi 25. Dans le cadre de l’évaluation de la solution, sous quel attribut de valeur ce critère se                                                        « génération                conformité »
+    classe-t-il le               mieux ?    a) Performance et réactivité.
+    b) Coût tangible.
+    c)  Sécurité.
+    d)  Utilisabilité (convivialité).

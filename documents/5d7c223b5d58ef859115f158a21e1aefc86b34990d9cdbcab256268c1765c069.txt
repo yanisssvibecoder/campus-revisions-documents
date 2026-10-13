@@ -1,0 +1,600 @@
+Corrigé du chapitre 5
+🌙
+Finance · Chapitre 5 · pages 149–151
+La valeur de l'argent
+dans le temps
+Corrigé complet et pas-à-pas des exercices 2 à 20. Pour chacun : la bonne formule, le calcul avec les vrais chiffres, la réponse — et les touches à faire sur ta calculatrice
+BA II Plus
+.
+D'abord, la seule formule à retenir
+tout le chapitre tourne autour d'une seule équation
+VC
+=
+VA
+× (1 +
+r
+)
+t
+Imagine une
+boule de neige
+qui roule : ton argent (VA) grossit un peu chaque année (au rythme r), pendant un certain temps (t), et devient plus gros à la fin (VC).
+VA
+— Valeur Actualisée : la somme
+aujourd'hui
+VC
+— Valeur Capitalisée : la somme
+plus tard
+r
+— le taux d'intérêt par période (ex. 0,10 pour 10 %)
+t
+— le nombre de périodes (souvent des années)
+Selon ce qu'on te demande, tu isoles une des 4 lettres :
+Chercher VC
+Capitaliser
+Faire grossir la boule de neige vers le futur.
+VC = VA × (1 + r)
+t
+Chercher VA
+Actualiser
+Rembobiner : que vaut aujourd'hui une somme future ?
+VA = VC ÷ (1 + r)
+t
+Chercher r
+Le taux
+À quelle vitesse la boule a-t-elle grossi ?
+r = (VC ÷ VA)
+1/t
+− 1
+Chercher t
+La durée
+Combien de temps faut-il attendre ?
+t = ln(VC ÷ VA) ÷ ln(1 + r)
+Sur la BA II Plus
+, ces 4 lettres sont les touches
+PV
+(=VA),
+FV
+(=VC),
+I/Y
+(=r en %),
+N
+(=t). Tu remplis les 3 que tu connais, tu mets
+0
+PMT
+, puis
+CPT
++ la lettre cherchée. ⚠️ L'argent que tu
+places
+se saisit en négatif (touche
++/−
+).
+Notions de base · exercices 2 à 15
+on applique directement une des 4 formules ci-dessus
+2
+Calcul des valeurs capitalisées
+Chercher VC
+On connaît la somme d'aujourd'hui (VA), le taux et la durée. On fait grossir :
+VC = VA × (1 + r)
+t
+.
+Cas
+VA (aujourd'hui)
+t (ans)
+r
+Facteur (1+r)ᵗ
+VC (réponse)
+a)
+2 250 $
+16
+10 %
+4,5950
+10 338,69 $
+b)
+8 752 $
+13
+8 %
+2,7196
+23 802,15 $
+c)
+76 355 $
+4
+17 %
+1,8739
+143 080,66 $
+d)
+183 796 $
+12
+7 %
+2,2522
+413 943,81 $
+Détail du cas a) :
+VC = 2 250 × (1,10)
+^16
+= 2 250 × 4,5950 =
+10 338,69 $
+BA II Plus — cas a)
+2ND
+FV
+·
+16
+N
+·
+10
+I/Y
+·
+2250
++/−
+PV
+·
+0
+PMT
+·
+CPT
+FV
+→
+10 338,69
+3
+Calcul des valeurs actualisées
+Chercher VA
+On connaît la somme future (VC). On rembobine vers aujourd'hui :
+VA = VC ÷ (1 + r)
+t
+.
+Cas
+VC (plus tard)
+t (ans)
+r
+Facteur (1+r)ᵗ
+VA (réponse)
+a)
+15 451 $
+6
+7 %
+1,5007
+10 295,65 $
+b)
+51 557 $
+7
+13 %
+2,3526
+21 914,85 $
+c)
+886 073 $
+23
+14 %
+20,3616
+43 516,90 $
+d)
+550 164 $
+18
+9 %
+4,7171
+116 631,32 $
+Détail du cas a) :
+VA = 15 451 ÷ (1,07)
+^6
+= 15 451 ÷ 1,5007 =
+10 295,65 $
+BA II Plus — cas a)
+2ND
+FV
+·
+6
+N
+·
+7
+I/Y
+·
+15451
+FV
+·
+0
+PMT
+·
+CPT
+PV
+→
+−10 295,65
+Le résultat sort en
+négatif
+(−10 295,65) : c'est normal ! La calculatrice dit « pour recevoir 15 451 $ plus tard, tu dois
+placer
+10 295,65 $ aujourd'hui » (de l'argent qui sort → signe −). La valeur, elle, est bien 10 295,65 $.
+4
+Calcul des taux d'intérêt
+Chercher r
+On connaît le début (VA) et la fin (VC). On cherche la vitesse :
+r = (VC ÷ VA)
+1/t
+− 1
+.
+Cas
+VA
+t (ans)
+VC
+VC ÷ VA
+r (réponse)
+a)
+240 $
+2
+307 $
+1,2792
+13,10 %
+b)
+360 $
+10
+896 $
+2,4889
+9,55 %
+c)
+39 000 $
+15
+174 384 $
+4,4714
+10,50 %
+d)
+38 261 $
+30
+483 500 $
+12,6369
+8,82 %
+Détail du cas a) :
+r = (307 ÷ 240)
+^(1/2)
+− 1 = 1,2792
+^0,5
+− 1 = 1,1310 − 1 =
+0,1310 = 13,10 %
+BA II Plus — cas a)
+2ND
+FV
+·
+2
+N
+·
+240
++/−
+PV
+·
+307
+FV
+·
+0
+PMT
+·
+CPT
+I/Y
+→
+13,10
+Astuce signe : mets la valeur de départ (VA) en
+négatif
+et la valeur d'arrivée (VC) en positif, sinon la calculatrice affiche « Error ».
+5
+Calcul du nombre de périodes
+Chercher t
+On connaît le début, la fin et le taux. On cherche la durée :
+t = ln(VC ÷ VA) ÷ ln(1 + r)
+.
+Cas
+VA
+r
+VC
+VC ÷ VA
+t (réponse)
+a)
+560 $
+9 %
+1 284 $
+2,2929
+9,63 ans
+b)
+810 $
+10 %
+4 341 $
+5,3593
+17,61 ans
+c)
+18 400 $
+17 %
+364 518 $
+19,8108
+19,02 ans
+d)
+21 500 $
+15 %
+173 439 $
+8,0669
+14,94 ans
+Détail du cas a) :
+t = ln(1 284 ÷ 560) ÷ ln(1,09) = ln(2,2929) ÷ ln(1,09) = 0,8300 ÷ 0,0862 =
+9,63 ans
+BA II Plus — cas a)
+2ND
+FV
+·
+9
+I/Y
+·
+560
++/−
+PV
+·
+1284
+FV
+·
+0
+PMT
+·
+CPT
+N
+→
+9,63
+6
+Le taux pour les études de l'enfant
+Chercher r
+Tu as
+50 000 $
+aujourd'hui (VA) et il te faut
+280 000 $
+(VC) dans
+18 ans
+(t). Quel taux annuel ?
+r = (280 000 ÷ 50 000)
+^(1/18)
+− 1 = 5,60
+^0,0556
+− 1 = 1,1004 − 1 =
+0,1004
+Réponse — r
+10,04
+%
+BA II Plus
+2ND
+FV
+·
+18
+N
+·
+50000
++/−
+PV
+·
+280000
+FV
+·
+0
+PMT
+·
+CPT
+I/Y
+7
+Doubler et quadrupler à 7 %
+Chercher t
+Le taux est
+7 %
+. Combien de temps pour
+doubler
+? pour
+quadrupler
+? On prend n'importe quel montant (ex. 1 $ → 2 $, puis 1 $ → 4 $).
+Doubler : t = ln(2) ÷ ln(1,07) = 0,6931 ÷ 0,0677 =
+10,24 ans
+Quadrupler : t = ln(4) ÷ ln(1,07) = 1,3863 ÷ 0,0677 =
+20,49 ans
+(= exactement 2 × le temps pour doubler)
+Doubler
+10,24
+ans
+Quadrupler
+20,49
+ans
+Règle de 72
+(vérif rapide) : 72 ÷ 7 ≈ 10,3 ans pour doubler. Tout concorde ✔
+9
+La maison dans le sud de la France
+Chercher t
+Tu as
+40 000 €
+(VA), la maison coûte
+170 000 €
+(VC), ton compte rapporte
+3,4 %
+. Combien de temps ?
+t = ln(170 000 ÷ 40 000) ÷ ln(1,034) = ln(4,25) ÷ ln(1,034) = 1,4469 ÷ 0,0334 =
+43,28 ans
+Réponse — t
+43,28
+ans
+BA II Plus
+2ND
+FV
+·
+3.4
+I/Y
+·
+40000
++/−
+PV
+·
+170000
+FV
+·
+0
+PMT
+·
+CPT
+N
+Avec un taux aussi faible (3,4 %), il faut
+très longtemps
+… mieux vaut épargner en plus chaque mois (ça, c'est le chapitre 6 !).
+11
+Le gros lot dans 80 ans
+Chercher VA
+On te promet
+1 000 000 $
+(VC) mais seulement dans
+80 ans
+(t), au taux
+9 %
+. Que vaut cette promesse aujourd'hui ?
+VA = 1 000 000 ÷ (1,09)
+^80
+= 1 000 000 ÷ 986,55 =
+1 013,63 $
+Réponse — VA
+1 013,63
+$
+Leçon choc : un million dans 80 ans ne vaut qu'environ
+1 014 $
+aujourd'hui. C'est toute la puissance du temps et des intérêts composés !
+14
+La BD de Superman (1938)
+Chercher VA
+Elle vaut
+485 000 $
+en 2005 (VC), après avoir grimpé de
+25,90 %
+par an depuis 1938. Durée : 2005 − 1938 =
+67 ans
+. Prix en 1938 ?
+VA = 485 000 ÷ (1,2590)
+^67
+= 485 000 ÷ 5 031 806 =
+0,10 $
+Réponse — VA (1938)
+0,10
+$
+Environ
+10 cents
+! Normal : un taux énorme (25,9 %) pendant 67 ans transforme quelques cents en une fortune.
+15
+La sculpture de Degas
+Chercher r
+Achetée
+12 377 500 $
+en 1999 (VA), revendue
+10 311 500 $
+en 2003 (VC). Durée :
+4 ans
+. Taux de rendement ?
+r = (10 311 500 ÷ 12 377 500)
+^(1/4)
+− 1 = 0,8331
+^0,25
+− 1 = 0,9554 − 1 =
+−0,0446
+Réponse — r
+−4,46
+%
+Le taux est
+négatif
+: le propriétaire a
+perdu
+de l'argent (il a revendu moins cher qu'il n'avait payé). Un placement peut très bien avoir un rendement négatif.
+Notions intermédiaires · exercices 19 et 20
+attention aux pièges : ici la durée ne se lit pas telle quelle
+19
+Recevoir 25 000 $, puis les placer
+Chercher VC
+Tu reçois
+25 000 $ dans 2 ans
+. Ensuite tu les places
+6 ans de plus
+à
+7,9 %
+. Combien auras-tu au bout de 8 ans ?
+🎯
+Le piège :
+les 2 premières années, tu ne fais qu'
+attendre
+l'argent — il ne rapporte rien encore. Seules les
+6 années de placement
+comptent pour les intérêts.
+VC = 25 000 × (1,079)
+^6
+= 25 000 × 1,5781 =
+39 451,97 $
+Réponse — VC
+39 451,97
+$
+BA II Plus — mets t = 6, pas 8 !
+2ND
+FV
+·
+6
+N
+·
+7.9
+I/Y
+·
+25000
++/−
+PV
+·
+0
+PMT
+·
+CPT
+FV
+20
+De 10 000 $ à 100 000 $
+Chercher t
+Tu recevras
+10 000 $ dans 2 ans
+(à ton diplôme). Tu les places à
+11 %
+jusqu'à obtenir
+100 000 $
+. Combien de temps
+en tout, à partir d'aujourd'hui
+?
+1) Durée du placement (de 10 000 à 100 000) :
+t = ln(100 000 ÷ 10 000) ÷ ln(1,11) = ln(10) ÷ ln(1,11) = 2,3026 ÷ 0,1044 =
+22,06 ans
+2) + les 2 ans d'attente avant de recevoir l'argent :
+22,06 + 2 =
+24,06 ans
+Placement seul
+22,06
+ans
+Total depuis aujourd'hui
+24,06
+ans
+Le placement prend
+22,06 ans
+. Mais comme tu attends déjà
+2 ans
+avant même de toucher les 10 000 $, l'attente totale « à partir d'aujourd'hui » est de
+≈ 24 ans
+.
+En gros, retiens que…
+👉
+Une seule formule
+gouverne tout :
+VC = VA × (1 + r)ᵗ
+. Tu isoles simplement la lettre qu'on te demande.
+👉
+Capitaliser
+= aller vers le futur (× le facteur).
+Actualiser
+= revenir à aujourd'hui (÷ le facteur).
+👉 Sur la
+BA II Plus
+: remplis 3 cases +
+0
+PMT
+, puis
+CPT
++ la case cherchée. L'argent placé se met en
+négatif
+.
+👉
+Attention aux durées cachées
+(ex. 19 et 20) : ne compte que les années où l'argent
+travaille vraiment
+.
+✏️
+Petit test pour vérifier que t'as compris :
+tu places 3 000 $ à 6 % pendant 10 ans. Quelle formule utilises-tu, et combien obtiens-tu ?
+(Indice : cherche VC → réponse ≈ 5 372,54 $.)
+Corrigé — Chapitre 5 · La valeur de l'argent dans le temps · pages 149–151

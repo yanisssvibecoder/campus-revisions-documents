@@ -1,0 +1,11 @@
+S03 | Description et objectifs de la séance
+
+Séance 3
+ANALYSE DIFFÉRENTIELLE -PRISE DE DÉCISION D’EXPLOITATION
+Objectifs de la séance :
+Identifier les coûts pertinents lors de décisions d’exploitation
+Utiliser l’approche différentielle pour certaines prises de décision d'exploitation à court terme
+Commande spéciale
+Fabriquer ou Acheter
+Abandonner ou Continuer
+Calculer et comprendre le prix de vente minimum lors d’une commande spéciale

@@ -1,0 +1,377 @@
+## Page 1
+                   Petit manuel BA II plus
+
+Le but est de proposer un mode d’utilisation cohérent avec les notes des cours
+30-610-94 et 30-620-92 et plus simple que celui indiqué dans le manuel de la
+calculatrice.
+
+Les passages surlignés en jaune correspondent à ce qui est affiché à l’écran de
+la calculatrice.
+
+Fixer le nombre de décimales.
+
+Pour fixer le nombre de décimales à quatre :
+
+ &| 4 !
+    La calculatrice affichera DEC=    4.0000
+    Pour quitter le menu :  &U
+
+Pour fixer le nombre de décimales à huit :
+
+ &| 8 !
+    La calculatrice affichera DEC=    8.0000
+    Pour quitter le menu :  &U
+
+
+Calcul de la valeur acquise d’un capital (FV).
+
+Quelle sera la valeur dans 2 ans d’un montant de 1000$ placé aujourd’hui dans
+un compte versant un intérêt nominal de 3% capitalisation semestrielle ?
+
+J2 = 3% ⇒ isem = 1.5%       ;     n = 4 semestres      ;    PV = 1000 $
+
+On cherche :
+FV = PV(1+i)n = 1000(1+0,015)4
+
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+    3 6 2 N 1.5000 - (le surlignement indique une réponse de la calculatrice)
+
+    4 ,
+
+   1000S .
+
+ % 0 1,061.3636
+
+
+
+
+                                                                1
+
+## Page 2
+Calcul de la valeur actuelle d’un capital (PV).
+
+Quelle est la valeur actuelle de 1000$ à recevoir dans un an si le taux nominal
+est de 6% capitalisation mensuelle?
+
+J12 = 6% ⇒ imen = 0.5%     ;     n = 12 mois   ;    FV = 1000
+On cherche :     PV = FV(1+i)-n = 1000(1+0,005)-12
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+    6 6 12 N 0.50 -
+
+    12 ,
+
+    1000 S 0
+
+ % .  941.9053
+
+
+Calcul d’un taux équivalent.
+
+Quel est le taux mensuel équivalent à un taux effectif de 6% ?
+
+ieff = 6%. À partir de l’équation (1+ ieff) = (1+ imen)12
+On cherche :        imen = (1+ ieff)1/12 – 1
+
+Voici la séquence des touches :
+
+     1.06 ; 9 1 6 12 : N 1.00486755 – 1 N .00486755
+
+        (Il y a une autre méthode avec v).
+
+Calcul de la valeur acquise d’une annuité.
+
+Quelle sera la valeur acquise, au moment du dernier versement, d’une suite de
+12 versements mensuels de 100$, si le taux effectif est de 6%.
+
+Par le calcul précédent : imen = 0.486755% ; PMT = 100 ; n = 12 versements
+On cherche :     FV=PMTsn┐i = 100 s12┐.486755%
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+    100 S /
+
+    12 ,
+
+    0.486755 -
+
+ % 0 1,232.707033
+
+
+                                                                2
+
+## Page 3
+Calcul de la valeur actuelle d’une annuité.
+
+De quel montant doit-on disposer, un mois avant le premier versement, pour
+recevoir mensuellement 1000$ durant un an, si le montant est placé dans un
+compte au taux nominal de 4% capitalisation semestrielle?
+
+Pour trouver le taux équivalent mensuel :
+J2 = 4% ⇒ isem = 2%   ⇒     imen = (1+ isem)1/6 – 1
+On cherche:     PV=PMT an┐i = 1000 a12┐imen
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+     1.02 ; 9 1 6 6 : N 1.00330589 – 1 N .00330589
+
+  < 100 N . 33058903 -
+
+    1000 S /
+
+    12 ,
+
+ % . 11,746.06988
+
+
+Et si la valeur actuelle est calculée au moment du premier versement?
+
+Il suffit de modifier le résultat trouvé précédemment :
+
+Pour passer en mode début de période :
+
+ & ]       affiche END
+
+ & V       affiche BGN
+
+ !
+ & U   Un petit BGN apparaît dans le coin supérieur droit de
+
+                    l’affichage.
+
+ % . 11,784.9011
+
+On peut vérifier que ce nombre n’est que : 11746.06988 (1+.00330589) !
+
+ATTENTION : la calculatrice demeure en mode début de période!
+
+Pour revenir en mode fin de période :
+
+ & ]       affiche BGN
+
+ & V       affiche END
+
+ !
+ & U
+
+
+                                                                3
+
+## Page 4
+Calcul du nombre de versements.
+
+Quelle sera la durée d’un prêt de 1000$ remboursable par des mensualités de
+100$ versées à la fin de chaque mois, si le taux nominal est de 6% capitalisation
+mensuelle.
+
+J12 = 6% ⇒ imen = 0.5%     ;    PMT = 100    ;    PV = 1000
+
+On cherche « n » tel que : PV   = PMT an┐i
+                     1000 = 100 an┐0.5%
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+    6 6 12 N 0.50 -
+
+    100 S /
+
+    1000 .
+
+ % , 10.2842
+
+
+
+Et si les versements sont effectués au début de chaque mois?
+
+Il suffit de modifier le résultat trouvé précédemment :
+
+Pour passer en mode début de période :
+
+ & ]       affiche END
+
+ & V       affiche BGN
+
+ !
+ & U   Vous remarquerez un petit BGN dans le coin supérieur droit
+
+               de l’affichage.
+
+ % , 10.23179053
+
+
+On peut vérifier que ce nombre peut être obtenu en calculant le nombre de
+versements suivant le premier versement :
+
+On cherche « n » tel que :
+PV=PMT an┐i
+900 = 100 an┐0.5%
+Et n = 9.23179, plus le premier versement, donc 10.23179 versements.
+
+
+
+
+
+                                                                4
+
+## Page 5
+Calcul du taux d’intérêt d’une annuité.
+
+Un prêt de 1000$ doit être remboursé par 10 versements mensuels de 102$
+versés à la fin de chaque mois. Quel est le taux périodique du prêt?
+
+n = 10           ;    PMT = 102    ;    PV = 1000
+
+On cherche « i » tel que : PV   = PMT an┐i
+                     1000 = 102 a10┐i
+
+Voici la séquence des touches :
+
+    Pour effacer les registres : &^
+
+    102 S /
+
+    1000 .
+
+    10 ,
+
+ % - 0.36167778       (0.36167778%)
+
+   On peut conserver cette valeur en mémoire à l’aide de D 1
+
+      (utile pour calculer le taux nominal, le taux effectif ou tout autre taux
+     équivalent par exemple)
+
+
+Quel est le taux nominal capitalisation mensuelle correspondant et quel est le
+taux effectif équivalent?
+
+Taux nominal capitalisation mensuelle : J12 = imen X 12
+
+Voici la séquence des touches
+
+    12 < J 1 N = 4.3401334     (4.3401334%)
+
+
+Taux effectif :     à partir de l’équation (1+ ieff) = (1+ imen)12
+                                     ieff = (1+ imen) 12 – 1
+
+Voici la séquence des touches :
+
+ J 1 0.36167778
+
+  2 0.0036167778
+
+  H 1 N 1.0036167778 ; 12 N 1.04427518 B 1 N 0.04427518
+
+Soit 4.427518%.
+
+
+
+                                                                5
+
+## Page 6
+Calcul de la valeur actuelle d’une suite de flux monétaires inégaux.
+
+On cherche à calculer la valeur actuelle (à la date 0) des flux monétaires annuels
+suivants :
+                1000 $      2000 $     2000 $     1000 $     3000 $
+            .________________._______________._______________.________________._______________.
+        0          1          2          3          4          5
+
+Le taux de rendement (effectif) sur le marché est de 4%.
+
+On cherche :
+PV =  1000(1+0,04)-1 + 2000(1+0,04)-2 + 2000(1+0,04)-3 + 1000(1+0,04)-4 +
+      3000(1+0,04)-5
+
+Voici la séquence des touches :
+Pour effacer les registres : &}
+' 0.00                 montant à la date « 0 »
+
+# C01  1000 !      montant à la date « 1 »
+# F01   1.00            fréquence du montant (laisser à 1)
+
+# C02  2000 !      montant aux dates « 2 » et « 3 »
+# F02     2 ! 2.00  fréquence du montant (changer pour 2)
+
+# C03  1000 !      montant à la date « 4 »
+# F03   1.00            fréquence du montant (laisser à 1)
+
+# C04  3000 !      montant à la date « 5 »
+# F04   1.00            fréquence du montant (laisser à 1)
+
+( I = 0.00  4 ! 4.00
+
+# % 7909.23$
+
+
+
+
+
+                                                                6
+
+## Page 7
+Application : calcul d’une valeur actuelle nette (VAN)
+
+Un investissement de 2000$ rapportera les flux monétaires suivants :
+
+500 $ à la fin de la première année, 1000 $ à la fin de la deuxième année, 400 $
+à la fin de la troisième et 300 $ à la fin de la quatrième.
+
+Si le taux de rendement actuel sur le marché est de 3.75%
+i) Quelle est la valeur actuelle nette de l’investissement?
+ii) Quel est le taux de rendement interne de l’investissement?
+
+i) On cherche: VAN = 500(1+0,0375)-1 + 1000(1+0,0375)-2 + 400(1+0,0375)-3
+               + 300(1+0,0375)-4 - 2000
+
+Voici la séquence des touches :
+
+Pour effacer les données de la feuille de travail : &z
+
+
+' &z 0.00
+2000 S ! CFo= -2,000.00  montant à la date «0 »
+
+# C01   500 !      montant à la date « 1 »
+# F01   1.00 !       fréquence du montant
+
+# C02  1000 !      montant à la date « 2 »
+# F02   1.00 !       fréquence du montant
+
+# C03   400 !      montant à la date « 3»
+# F03   1.00 !       fréquence du montant
+
+# C04   300 !      montant à la date « 4 »
+# F04   1.00 !       fréquence du montant
+
+( I = 0.00  3.75 ! 3.75
+
+# % 28.0422
+
+
+ii) On cherche le taux de rendement interne, c’est à dire le « i » tel que :
+
+2000 = 500(1+i)-1 + 1000(1+i)-2 + 400(1+i)-3 + 300(1+i)-4
+
+Voici la séquence des touches :
+
+) % 4.4113 soit 4.4113%.
+
+
+
+
+                                                                7

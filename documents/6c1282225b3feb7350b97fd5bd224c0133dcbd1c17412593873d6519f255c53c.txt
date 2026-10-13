@@ -1,0 +1,73 @@
+## Diapositive 1
+
+Gestion des commandes
+
+Gestion des stocks
+
+
+
+
+
+
+
+
+
+Gabarit
+
+## Diapositive 2
+
+Recevoir la commande
+
+Préparer la commande
+
+Livrer la commande
+
+Acheter les produits
+
+Gérer les fournisseurs
+
+Gérer l’inventaire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Embaucher personnel
+
+Gérer les horaires
+
+Payer employés
+
+Affecter livreur
+
+Gérer la flotte de véhicules
+
+Affecter véhicule
+
+Gérer le menu
+
+Gérer les recettes
+
+Gérer les activités comptables
+
+Payer les fournisseurs
+
+Facturer les clients

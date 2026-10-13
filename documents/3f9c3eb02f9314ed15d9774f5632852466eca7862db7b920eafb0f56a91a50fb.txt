@@ -1,0 +1,39 @@
+## Page 1
+       GROUPE-AGRO
+
+                   Groupe-Agro est une organisation œuvrant dans l’import-export de produits
+                        agricoles. Elle est spécialisée entre autres dans la distribution de semences
+                       végétales. L’association distribue ses produits uniquement aux agronomes
+                 membres de l’Ordre, car leurs produits sont en très grande majorité des
+                  semences rares qui ne peuvent être produites ou trouvées au Québec en
+                       raison de prérequis environnementaux.
+
+Ainsi, lorsqu’un agronome souhaite passer une commande, il doit contacter par téléphone un des six
+vendeurs de Groupe-Agro. Le vendeur commence par vérifier que l’agronome est autorisé à passer
+une commande. Pour ce faire, il valide que l’agronome est déjà dans le système. S’il n’existe pas dans
+le système,  il vérifie, à partir d’une liste papier fournie mensuellement par l’ordre des agronomes, si
+l’agronome est autorisé. Si l’agronome n’apparaît pas sur cette liste, le représentant l’en informe
+verbalement, ce qui met fin à la transaction. S’il est sur la liste papier,  il saisit dans le système les
+informations sur l’agronome et sur les sites d’entreposage utilisés par celui-ci.
+
+Une fois un nouvel agronome saisi ou pour un agronome déjà présent dans le système, la tâche
+suivante consiste à choisir dans le système le site d’entreposage pour la livraison.
+
+L’activité qui suit consiste à saisir dans le système les produits que l’agronome souhaite commander.
+Pour ce faire, le vendeur échange avec l’agronome, en temps réel, pour connaître les produits
+souhaités.  Il retranscrit tous ces détails dans un gabarit Word, ajoute les taxes et calcule les sommes.
+Une fois complété, il convertit le bon de commande en format PDF et l’envoie à l’agronome par courriel.
+100 % des bons de commande sont signés par l’agronome et retournés dans l’heure suivante. À la
+réception du bon de commande signé, le vendeur confirme l’acceptation de la commande dans le
+système. La commande sera traitée le lendemain matin par un préposé à l’entrepôt.
+
+Chaque matin, un préposé à l’entrepôt génère le bon de livraison et l’imprime, à partir du système. Puis,
+il rassemble et emballe tous les produits de la commande. Ensuite, il place la commande dans le camion
+de la compagnie de livraison associé à la route de livraison de la commande et le service de livraison
+peut alors livrer les produits de la commande à l’agronome. Finalement, le préposé note la fin du
+traitement de la livraison afin que le bon de livraison passe au statut          dans le système. Une
+fois le statut modifié, il imprime et envoie le bon de livraison complété à l’agronome par courriel. Cette                                                                    « complété »
+dernière activité met fin au processus.
+
+Cas original rédigé par Yannick Brière, HEC Montréal (Mai 2017, révision novembre 2018 par Yannick Brière et Benoit
+Sicotte, révision juin 2021 par Yannick Brière, Kevin Da-Silveira et Marie-Claude Trudel). ©Tous droits réservé

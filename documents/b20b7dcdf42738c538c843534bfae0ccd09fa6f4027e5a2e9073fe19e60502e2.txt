@@ -1,0 +1,22 @@
+11.1 | Activités/ressources avant la séance
+
+Séance 11
+Important!
+Giroux, Hélène (2019).
+La gestion des opérations et de la logistique
+, 2e ed., Éditions JFD
+ISBN: 9782897990671
+Chapitre 10
+Capsule 1 : La capacité opérationnelle
+La variation naturelle et les tolérances.
+Calcul et interprétation de Cp.
+Capsule 2 : Le principe des cartes de contrôle
+Importance de ne pas agir si les variations sont normales.
+Causes communes et causes spéciales.
+Principe des cartes de contrôle.
+Capsule 3 : Préparer les cartes de contrôle
+Collecte des données et calcul des limites de contrôle.
+Capsule 4 : Utiliser les cartes de contrôle
+On utilise la carte préparée dans la capsule précédente.
+Ajout de points et décisions à prendre.
+Limite de contrôle vs tolérances.

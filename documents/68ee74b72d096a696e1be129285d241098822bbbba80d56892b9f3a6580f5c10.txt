@@ -1,0 +1,366 @@
+## Diapositive 1
+
+1
+
+10200Finance
+
+
+
+
+
+
+
+
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+Séance 4 
+
+Évaluation des actions
+
+## Diapositive 2
+
+Qu'avons-nous vu dans la séance 4 ?
+
+2
+
+Capsule 1 : Caractéristiques des actions ordinaires et privilégiées
+
+Capsule 2 & 3 : Évaluation des actions
+
+
+Lecture : Chapitre 8
+ZC / Matériel pédagogique / « Importance de chaque section »
+
+« Le marché boursier regorge d'individus qui connaissent le prix de tout, mais la valeur de rien. » 
+– Philip Fisher
+
+## Diapositive 3
+
+Lire une cote d’action ordinaire
+
+3
+
+https://finance.yahoo.com/
+
+Non soumis à examen
+
+## Diapositive 4
+
+
+
+Évaluation des actions
+
+4
+
+Calcul du prix :
+Le prix d'un titre correspond à la somme de tous les flux monétaires futurs actualisés
+Pour les actions : flux monétaires = dividendes.
+
+Quelles sont les variables à estimer ?
+Taux de rendement requis (par l'individu ou le marché)
+Dividendes futurs... à l'infini !
+
+Problème :
+Nous ne connaissons pas les dividendes qui seront versés à l'infini !
+Comment faire alors ? Nous émettons des hypothèses. Trois scénarios possibles :
+1 : Dividendes constants
+2 : Taux de croissance constant des dividendes.
+3 : Dividendes avec deux (ou plusieurs) phases de croissance.
+
+
+## Diapositive 5
+
+
+
+2 - Taux de croissance constant des dividendes
+
+5
+
+
+
+
+
+
+
+𝑟𝑚  est le taux de rendement du marché
+
+𝑟  est le taux de rendement d’un individu
+
+## Diapositive 6
+
+Exemple : action ordinaire et annuité croissante
+
+6
+
+Les actions d'une société ont versé ce matin un dividende annuel de 1 $. Les analystes estiment que ce dividende devrait augmenter à un taux annuel effectif de 10 % au cours des trois prochaines années. La croissance devrait ensuite se stabiliser à un taux annuel effectif de 5 % pour tout l'avenir prévisible. Le marché exige un taux annuel effectif de 14 %.
+
+Quel est le cours de l'action aujourd'hui ? 
+Remarque : Phase 1  annuité croissante !
+
+📌 N'incluez jamais le « dividende versé aujourd’hui ou ce matin » dans la valeur actuelle calculée aujourd'hui. Ce dividende appartient à l'investisseur précédent. Si vous êtes un acheteur, le vendeur conservera ce dividende avant de vous vendre l'action. Par conséquent, le dividende versé aujourd'hui ne doit pas être inclus dans le calcul du prix. 
+
+## Diapositive 7
+
+
+
+ Cas particulier : annuité croissante
+
+7
+
+Définition
+Nombre fini de flux monétaires croissants 
+Formule :
+
+
+Remarque
+Le calcul de la valeur actualisée d'une annuité donne la valeur au moment du dernier flux monétaire.
+Le calcul de la valeur actualisée (PV) d'une annuité donne la valeur à une période antérieure au premier flux monétaire.
+
+Graphique :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+r
+
+PMT1
+
+t = nombre de paiements pour 
+      l’annuité
+g = taux de croissance par période
+
+PMT2
+
+PMT3
+
+PMTt+1
+
+PMTt
+
+
+
+
+
+
+
+PMTt+2
+
+
+
+PMTt+3
+
+
+
+0
+
+1
+
+2
+
+3
+
+t+1
+
+t
+
+t+2
+
+t+3
+
+Annuité croissante : de 0 à t
+
+## Diapositive 8
+
+Exemple 2
+
+8
+
+Calculez le prix des actions suivantes :
+L'action C verse des dividendes trimestriels de 0,22 $. Le taux exigé par les actionnaires est de 9 % annuel effectif. 
+
+
+
+
+L'action D a versé un dividende de 0,67 $ ce matin. Le prochain dividende sera versé dans un an. Les dividendes annuels devraient augmenter à un taux constant de 6 % effectif annuel. Le taux exigé par les actionnaires est de 13 % effectif annuel.
+
+
+
+
+
+## Diapositive 9
+
+Exemple 3
+
+9
+
+Nous sommes au 15 juin 2010. La société SFB a versé les dividendes suivants au cours des derniers trimestres :
+
+
+
+
+
+
+Il est prévu que la société augmente son dividende de 5 % lors du prochain versement trimestriel par rapport au versement du 15 mai 2010.
+
+
+En raison d'un manque de liquidités, SFB a l'intention de ne verser aucun dividende au cours des deux trimestres suivants (après le trimestre de croissance de 5 %). Après deux trimestres sans dividende, SFB recommencera à verser un dividende trimestriel de 3,75 $. 
+À partir de ce moment, la société prévoit d'augmenter son dividende de manière constante à un taux trimestriel de 2,6844 % jusqu'à l'infini.
+
+Sachant que les actionnaires de SFB exigent un rendement effectif annuel de 20 %, quel est le cours de l'action au 15 juin 2010 ?
+
+Date de paiement | Dividende ($)
+
+15 février 2010 | 3
+
+15 mai 2010 | 3
+
+## Diapositive 10
+
+Actions ordinaires et finance durable© Marie-Hélène Allard
+
+Certains investisseurs souhaitent investir dans des entreprises qui respectent les principes ESG.
+
+Plusieurs raisons peuvent expliquer cela :
+Alignement avec les valeurs personnelles des investisseurs
+Les entreprises ont accès à davantage de capitaux (pacte d'investissement responsable)
+Les entreprises ont accès à de nouvelles opportunités d'investissement (projets verts, etc.)
+Les entreprises limitent les risques (climatiques, réputationnels, etc.)
+Les entreprises sont moins touchées par certaines réglementations : taxes pour les pollueurs, achat de crédits carbone, etc.
+
+
+
+
+
+
+
+
+Plus de détails ? Chronique financière de la séance n° 1
+
+## Diapositive 11
+
+Les actions
+
+Notation ESG :
+Mesure l'exposition aux risques environnementaux, sociaux et de gouvernance et la manière dont l'entreprise gère ces risques.
+Comment les notations ESG sont-elles attribuées ? Qu'est-ce qu'une notation ESG ?
+Exemples : voir page suivante
+
+
+
+
+
+
+## Diapositive 12
+
+Agences de notation ESG
+
+Notations ESG de Sustainalytics (Morningstar)
+Notations ESG de Bloomberg
+Scores CDP (anciennement Carbon Disclosure Project)
+Notations ESG FTSE Russell
+ISS (International Shareholder Services) Notations et classements ESG
+Notation ESG MSCI (Morgan Stanley Capital International)
+Scores ESG Refinitiv
+Notations ESG S&P Global
+Données de recherche ESG de Thomson Reuters
+Indice Dow Jones Sustainability (DJSI)
+Moody's ESG 
+EcoVadis
+...
+
+## Diapositive 13
+
+Ce qu'il faut savoir
+
+Les scores ESG varient d'une agence à l'autre.
+
+Pourquoi ?
+Les facteurs ESG ne sont pas évalués à l'aide des mêmes indicateurs.
+Exemple : satisfaction des employés : taux de rotation du personnel vs nombre de plaintes
+
+Le poids de chaque facteur ESG n'est pas le même dans tous les indices.
+
+Toutes les informations sur les pratiques ESG ne sont pas publiques (divulgation volontaire). Les agences doivent « interpréter » les informations.
+
+
+
+Lien intéressant : 
+AMF - Investissement responsable et durable
+
+## Diapositive 14
+
+Actions privilégiées - Définition et caractéristiques
+
+Définition : 
+Titres financiers présentant les caractéristiques suivantes :
+
+Caractéristiques :
+Échéance illimitée
+Pas de droit de vote
+Dividendes fixes (trimestriels ou annuels)  les dividendes non versés sont reportés
+Titre senior aux actions ordinaires et subordonné à la dette
+
+En quoi diffèrent-ils des actions ordinaires ?
+
+Qui sont les véritables propriétaires de la société ?
+
+Un titre beaucoup moins courant sur les marchés.
+
+
+14
+
+## Diapositive 15
+
+Évaluation
+
+
+
+
+
+15
+
+## Diapositive 16
+
+Annexe : Action privilégiée vs action ordinaire
+
+ | Action privilégiée | Action ordinaire
+
+Dividende | Dividende privilégié | Dividende ordinaire
+
+Flux monétaires | Fixe | Variable (incertain)
+
+Propriétaire de la société | Non | Oui
+
+Accès aux bénéfices | Non | Oui
+
+Droits de vote | Non | Oui
+
+Rémunération | Dividendes uniquement | Dividendes + bénéfices non distribués
+
+Priorité en cas de faillite | Avant les actionnaires ordinaires | -
+
+Risque | + | ++
+
+Populairité | Faible, peu courant | Nombreuses entreprises
+
+Durée de vie | Illimitée | Illimitée

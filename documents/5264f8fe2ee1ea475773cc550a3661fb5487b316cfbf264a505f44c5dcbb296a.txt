@@ -1,0 +1,20 @@
+Prévision de la demande – Aquanova Québec (15 points)
+Acteur émergent dans l’industrie du traitement de l’eau, Aquanova Québec fabrique et distribue des produits chimiques utilisés dans les stations de traitement municipales et chez des clients industriels. L’entreprise commercialise notamment le coagulant polymère AQ-77, utilisé pour améliorer la clarification et réduire la turbidité. En 2025, Aquanova Québec a déclaré un chiffre d’affaires de 1,2 milliard de dollars, exerçant ses activités dans plus de 25 pays et employant environ 2 400 personnes.
+Aquanova Québec revoit présentement ses pratiques en matière d’inventaire et de prévision de la demande et vous demande de l’aider à améliorer la précision de ses prévisions tout en lui fournissant des indications sur le niveau d’agrégation optimal pour la prévision de la demande. À cet effet, on a extrait de sa base de données les ventes mensuelles du coagulant polymère AQ-77 des neuf dernières années (2017 à 2025). Ces données sont disponibles en format Excel.
+Note : Données fictives.
+Question 1 (2 points)
+Présentez deux graphiques différents vous permettant d’analyser les composantes de la demande de ce produit. Votre premier graphique devra présenter une ligne différente par année et votre second graphique devra présenter l’ensemble des données sur une seule ligne.
+Question 2 (2 points)
+Analysez l’ensemble des composantes de la demande vues en classe, qu’elles soient présentes ou non.
+Question 3 (6 points)
+À l’aide des données nécessaires, établissez les prévisions mensuelles de ventes du produit pour l’année 2025, en testant chacune des méthodes suivantes :
+Moyenne mobile, k = 6;
+Moyenne mobile pondérée, k = 4, 10 % – 20 % – 30 % – 40 %;
+Lissage exponentiel simple, α = 0,25;
+Lissage exponentiel simple, α = 0,75.
+Note : Les modèles de lissage doivent être initialisés à partir des plus anciennes données disponibles. Présentez vos résultats sous forme de tableau.
+Question 4 (3 points)
+Effectuez les calculs des écarts moyens et des écarts quadratiques moyens pour chacune des méthodes, pour l’année 2025. En analysant l’ensemble des résultats d’écart, quelles sont les conclusions que vous pouvez en tirer?
+Question 5 (2 points)
+Les conclusions tirées à la question 4 vous semblent-elles logiques, compte tenu de l’analyse de la demande faite à la question 2? Justifiez votre réponse en faisant un lien entre les paramètres de la méthode choisie et l’analyse de la demande. (Maximum ¼ page)
+Note : Vous devez présenter l’ensemble de vos réponses dans le fichier Excel qui vous est fourni.

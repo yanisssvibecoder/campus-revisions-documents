@@ -1,0 +1,11 @@
+8-9.4  | FAQ
+
+Séances 8 et 9
+Q : Dans un problème, il faut calculer le coût d’opportunité de la vente de l’immeuble : Pourquoi multiplier par 0.5 ?
+R : Ce calcul représente le gain en capital sur l'immeuble lors de la vente. Comme les gains en capitaux sont à demi-imposable, la somme sera l'impôt à verser au gouvernement. Il peut donc y avoir un gain en capital sur les actifs amortissables.
+Pour les actifs non-amortissable, la revente occasionne un gain (ou une perte) en capital, toujours imposable (déductible) à 50%).
+Q : Lors du calcul de la VAEI (amortissement linéaire), il faut inscrire l’amortissement annuel, mais puisque l’équipement a une valeur résiduelle plus élevée, pourquoi le calcul ne tient-il pas compte de l'écart entre la valeur comptable et valeur marchande à la vente ?
+R : On prévoit à l'avance une certaine valeur résiduelle. Mais indépendamment de ce que l'on peut personnellement prévoir, les règles d'amortissement comptable sont immuables. Nous devrons les appliquer comme telles. Il y aurait récupération d'amortissement (ou perte finale) à la fin puisque la valeur comptable ne serait pas égale à la valeur de revente, mais nous ne couvrons pas cette notion dans le cours d'introduction. Ton intuition est donc bonne, mais nous devrons couvrir cet aspect dans le cours de gestion financière (pour les intéressés).
+Q : Lorsque que je calcule le TRI avec ma calculatrice financière, j'obtiens toujours une seule réponse. Je sais que si les flux monétaires d'un projet ne sont pas conventionnels, je devrais trouver plus d'un TRI, mais comment trouver par exemple mon deuxième TRI avec ma calculatrice ? Est-ce possible ?
+R : La calculatrice converge (par essai-erreur) vers le TRI le plus proche de son taux de départ (valeur dans la ligne "i" de la touche NPV). Il faudrait varier cette valeur pour converger vers les autres s'il y en a d'autres.
+Pour le présent cours, vous n'êtes pas tenu de calculer le TRI, mais vous devez être en mesure d'établir l'équation. L'utilisation de la calculatrice est toutefois très simple et présente une certaine valeur pédagogique.

@@ -1,0 +1,22 @@
+9.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+
+Séance 9
+Travail préparatoire
+Important!
+Cette séance et les toutes les prochaines séances utiliseront Tableau Desktop.  Tableau Desktop et Tableau Prep ont été installés à la séance 7.  Si vous ne l'avez pas fait, les instructions sont à la page suivante du plan de cours :
+7.2.1 | Activités et ressources supplémentaires PENDANT la séance (contenu de l'enseignant)
+Si vous n'étiez pas présent à la séance 7, vous devez avoir Tableau Desktop fonctionnel au début de  la séance 9.  La vérification ne se fera qu'en classe, aucun point ne sera accordé pour une preuve par communication écrite.   Pour Tableau Prep, l'activité liée à cette application a été réalisée à la séance 7.  Donc si vous étiez absent, vous n'avez pas le point de participation pour cette application.
+Visionner les trois (3) capsules vidéos retrouvées ici
+S9a
+Lien vers la base de données Groupe-Agro
+à copier dans vos fichiers locaux pour poursuivre les vidéos
+Fichiers .csv pour poursuivre
+Agronome.csv
+Produit.csv
+Site.csv
+SiteAgronome.csv
+Commande.csv
+DetailCommande.csv
+S9b
+S9c
+2. Compléter le quiz formatif pour évaluer votre apprentissage (accessible via l'onglet Travaux).

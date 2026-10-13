@@ -1,0 +1,325 @@
+## Diapositive 1
+
+Chapitre 10: L’évaluation de projet
+
+Principes de base de l’évaluation de projet
+
+## Diapositive 2
+
+Plan de présentation
+
+	
+Principe fondamental
+Le critère de décision ultime: la VAN
+Les flux monétaires pertinents
+La considération fiscale
+Le calcul d’une VAN
+
+
+
+
+## Diapositive 3
+
+Principe fondamentalSéparation des décisions d’investissement et de financement
+
+Décisions à long terme
+
+Investissement
+Porte sur les actifs
+Choix d’actifs à valeur ajoutée
+Décisions sur une base d’actif individuel
+Détermine les besoins de financement
+Financement
+Porte sur les passifs / CP
+Cible de financement à LT
+Décision sur l’ensemble de l’entreprise
+Doit être à hauteur des besoins de financement
+
+
+
+Impact sur le bilan
+
+Actifs
+
+
+Passifs
+
+
+Capitaux
+propres
+
+## Diapositive 4
+
+Le critère de décision
+
+Notre critère de décision ultime : la VAN
+
+Flux monétaires : entrées et sorties réelles d’argent.
+Il faut donc actualiser tous les flux monétaires pertinents au projet.
+
+	Quels sont-ils???
+		On procède par analyse marginale…
+
+
+
+## Diapositive 5
+
+## Diapositive 6
+
+Chapitre 10: L’évaluation de projet
+
+L’analyse marginal & les FMs pertinents
+
+## Diapositive 7
+
+Les flux monétaires pertinents
+
+Ce sont les flux monétaires qui changent selon que l’on entreprenne ou non le projet.
+
+	1) Les coûts irrécupérables
+Coûts que l’on doit payer, qu’on entreprenne ou non le projet
+Ex.: une étude de marché
+Est-ce un coût pour notre projet???
+	Non, elle devra être payée quand même!
+Conclusion :
+
+
+
+## Diapositive 8
+
+Les flux monétaires pertinents
+
+Ce sont les flux monétaires qui changent selon que l’on entreprenne ou non le projet.
+
+	1) Les coûts irrécupérables
+Coûts que l’on doit payer, qu’on entreprenne ou non le projet
+Ex.: une étude de marché
+Est-ce un coût pour notre projet???
+	Non, elle devra être payée quand même!
+Conclusion: FM non pertinent
+
+
+
+## Diapositive 9
+
+Les flux monétaires pertinents
+
+	2) Les coûts d’opportunité (de renonciation)
+Coûts qui vient du fait que l’on utilise un actif pour le projet
+Ex.: terrain appartenant à la compagnie
+	Coût au projet? 
+
+## Diapositive 10
+
+Les flux monétaires pertinents
+
+	2) Les coûts d’opportunité (de renonciation)
+Coûts qui vient du fait que l’on utilise un actif pour le projet
+Ex.: terrain appartenant à la compagnie
+	Coût au projet? Oui, on y renonce!
+
+## Diapositive 11
+
+Les flux monétaires pertinents
+
+	2) Les coûts d’opportunité (de renonciation)
+Coûts qui vient du fait que l’on utilise un actif pour le projet
+Ex.: terrain appartenant à la compagnie
+	Coût au projet? Oui, on y renonce!
+Ex.: locaux que l’on louait auparavant
+	Coût? 
+
+## Diapositive 12
+
+Les flux monétaires pertinents
+
+	2) Les coûts d’opportunité (de renonciation)
+Coûts qui vient du fait que l’on utilise un actif pour le projet
+Ex.: terrain appartenant à la compagnie
+	Coût au projet? Oui, on y renonce!
+Ex.: locaux que l’on louait auparavant
+	Coût? Oui, on perd l’opportunité de louer!
+
+## Diapositive 13
+
+Les flux monétaires pertinents
+
+	2) Les coûts d’opportunité (de renonciation)
+Coûts qui vient du fait que l’on utilise un actif pour le projet
+Ex.: terrain appartenant à la cie
+	Coût au projet? Oui, on y renonce!
+Ex.: locaux que l’on louait auparavant
+	Coût? Oui, on perd l’opportunité de louer!
+Conclusion: FM pertinents
+
+## Diapositive 14
+
+Les flux monétaires pertinents
+
+	3) Les FMs différentiels
+On remplace une machine :
+
+
+
+
+
+
+Facteur de coût | Frais avec l’ancienne machine | Frais avec la nouvelle machine | FM différentiel (pertinent)
+
+Salaire des employés | 5 000 $ | 3 000 $ | +2 000 $
+
+Frais d’entretien | 300 $ | 800 $ | 
+
+## Diapositive 15
+
+Les flux monétaires pertinents
+
+	3) Les FMs différentiels
+On remplace une machine :
+
+
+
+
+
+
+Facteur de coût | Frais avec l’ancienne machine | Frais avec la nouvelle machine | FM différentiel (pertinent)
+
+Salaire des employés | 5 000 $ | 3 000 $ | +2 000 $
+
+Frais d’entretien | 300 $ | 800 $ | -500 $
+
+## Diapositive 16
+
+Les flux monétaires pertinents
+
+	3) Les FMs différentiels
+On remplace une machine:
+
+
+
+Entreprendre ou non le projet change les entrées et sorties d’argents (FMs)
+
+Conclusion: FMs pertinent
+
+Facteur de coût | Frais avec l’ancienne machine | Frais avec la nouvelle machine | FM différentiel (pertinent)
+
+Salaire des employés | 5 000 $ | 3 000 $ | +2 000 $
+
+Frais d’entretien | 300 $ | 800 $ | -500 $
+
+## Diapositive 17
+
+Les flux monétaires pertinents
+
+	4) Les besoins en fonds de roulement
+Il arrive que l’augmentation des activités nécessite de financer le fonds de roulement. 
+Par exemple, pour un projet de 5 ans qui nécessite de provisionner de 50 000 $ les activités courantes:
+
+
+
+
+	 Notez : On récupère la somme à la fin du projet.
+Conclusion: FMs pertinents
+
+## Diapositive 18
+
+## Diapositive 19
+
+Chapitre 10: L’évaluation de projet
+
+Autres FMs courants à l’étude d’un projet
+
+## Diapositive 20
+
+Revenus/dépenses après impôt
+
+Principe de base: les revenus et dépenses sont imposables/déductibles d’impôt.
+	Exemple:	Revenus prévus: 1 000 $
+			Dépenses prévues: 700 $	(Tc = 20 %)
+	
+FMs pertinents
+	Revenus après î: 1000 (1-0,2) =+800 $
+	Dépenses après î: 700 (1-0,2) =-560 $	       	= +240 $
+			OU ENCORE
+	Profits après î: (1000-700) (1-0,2)	  		= +240 $
+
+## Diapositive 21
+
+Impact fiscal de l’amortissement
+
+Économies d’impôt dues à l’ACC (dégressif)
+
+L’impact fiscal pour les biens amortissables doit être considéré.
+L’achat d’une machine : amortissement fiscal.
+La charge d’amortissement n’est pas une dépense réelle (pas un FM) donc non pertinent.
+Mais, cette charge réduit les dépenses d’impôts, évite des charges d’impôts donc pertinent.
+
+## Diapositive 22
+
+Impact fiscal de l’amortissement
+
+Exemple de VAÉÎACC
+	
+L’achat d’une machine 10 000 $ (cat. 30 %)
+Charge d’amortissement de 3 000 $ (1ère année)
+Sans l’achat de la machine
+		Supposons un bén. imposable = 8 000 $
+		La charge d’impôt sera donc (Tc = 20 %) 	= 1 600 $
+Avec l’achat de la nouvelle machine
+		Le bénéfice imposable réduira 	  = 5 000 $
+		Maintenant, l’impôt à payer (Tc = 20 %)		= 1 000 $
+								 +600 $	
+Donc, on évite de payer de l’impôt grâce à l’ACC!!!
+
+## Diapositive 23
+
+Impact fiscal de l’amortissement
+
+Plus simplement, on peut calculer les ÉÎ dues à l’ACC :
+	ÉÎ = Charge d’amort * taux d’impôt
+           3 000 $         *    20 %       = 	+600 $
+
+Mais comme la catégorie est dégressive, on doit actualiser tous les ÉÎ jusqu’à l’infini (perpétuité).
+
+	VAÉÎ = 
+
+## Diapositive 24
+
+Impact fiscal de l’amortissement
+
+Mais à la revente, on perd des ÉÎ (VAPEI):
+
+
+Il faut donc les soustraire:
+	VAÉÎACC=
+
+	De notre exemple, on revend l’actif dans 5 ans pour 2 000 $:
+
+	VAÉÎACC=
+
+	
+	VAÉÎACC=         1 505 $        -    162 $ 		= 1 343 $
+
+
+## Diapositive 25
+
+Impact fiscal de l’amortissement
+
+Exemple d’amortissement linéaire
+
+
+
+Comme les économies d’impôt sont constantes pendant la vie utile :
+	
+
+	Par exemple, un actif de 5M$ amortissable linéairement sur 8 ans:
+	
+
+	
+
+
+## Diapositive 26
+
+La considération fiscale: résumé
+
+## Diapositive 27

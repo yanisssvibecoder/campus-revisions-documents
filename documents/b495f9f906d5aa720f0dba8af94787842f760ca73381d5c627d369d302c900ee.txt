@@ -1,0 +1,53 @@
+Une entreprise dont les frais généraux de fabrication s’élèvent à 9 000 000 $ assemble deux produits, P et Q, pour lesquels elle a recueilli les données suivantes:
+Voici 3 hypothèses de travail indépendantes les unes des autres :
+Hypothèse 1:	Les frais généraux de fabrication sont imputés selon le coût de la main-d’œuvre directe.
+Hypothèse 2:	Les frais généraux de fabrication sont imputés selon le nombre total d’unités assemblées.
+Hypothèse 3:	Les frais généraux de fabrication sont imputés selon nombre de composants.
+Travail pratique : 
+Calculez le taux d’imputation des frais généraux de fabrication selon chacune des hypothèses.
+Calculez le montant total des frais généraux de fabrication imputés à chacun des produits P et Q, selon chacune des hypothèses.
+Solution :
+Calculez le taux d’imputation des frais généraux de fabrication selon chacune des hypothèses.
+Calculez le montant total des frais généraux de fabrication imputés à chacun des produits P et Q, selon chacune des hypothèses.
+Hypothèse 1 :  
+Taux d’imputation = FGF / Total des coûts de MOD
+Taux d’imputation = 9 000 000 $ / 25 000 000 $ = 0,36 $ pour chaque 1 $ de MOD
+Produit P : 50 $ /unité x 100 000 unités =            5 000 000 $
+Produit Q : 100 $/ unité x 200 000 unités =       20 000 000 $
+Coût total de MOD =                                              25 000 000 $
+Total des FGF imputés = Taux imputation x coûts de MOD par produit
+FGF imputés au Produit P : 0,36 $/ $ de MOD x 5 000 000 $ de MOD = 	1 800 000 $
+FGF imputés au Produit Q : 0,36 $/ $ de MOD x 20 000 000 $ de MOD = 	7 200 000 $
+Total des FGF imputés aux produits =					9 000 000 $ 
+Hypothèse 2 :
+Taux d’imputation = FGF / Volume total des unités assemblées
+Taux d’imputation = 9 000 000 $ / 300 000 unités = 30 $ pour chaque unité assemblée
+Produit P : 100 000 unités assemblées
+Produit Q : 200 000 unités assemblées
+Total des unités assemblées = 300 000 unités
+Total des FGF imputés = Taux imputation x volume d’unités par produit
+FGF imputés au Produit P : 30 $ x 100 000 u. = 	             3 000 000 $
+FGF imputés au Produit Q : 30 $ x 200 000 u. = 	             6 000 000 $
+Total des FGF imputés aux produits =			9 000 000 $ 
+Hypothèse 3 :
+Taux d’imputation = FGF / Volume total des composants
+Taux d’imputation = 9 000 000 $ / 800 000 composants = 11,25 $ par composant
+Selon la nomenclature des produits P et Q :
+Produit P : 2 composants par unité (1A et 1B) x 100 000 unités = 200 000 composants
+Produit Q : 3 composants (2B et 1A) par unité x 200 000 unités = 600 000 composants
+Total des composants assemblés = 				           800 000 composants
+Total des FGF imputés = Taux imputation x total des composants par produit
+FGF imputés au Produit P : 11,25 $/composant x 200 000 composants =	  2 250 000 $
+FGF imputés au Produit Q : 11,25 $/composant x 600 000 composants =	  6 750 000 $  
+Total des FGF imputés aux produits =					  9 000 000 $ 
+Le tableau qui suit résume la répartition des 9 000 000 $ de frais généraux de fabrication selon les différentes hypothèses :
+Note : Nous remarquons que le total des FGF imputés (9 000 000 $) est le même peu importe la base d’imputation choisie. Ce qui diffère, c’est la répartition des FGF entre les 2 produits. Cet écart au niveau des coûts répartis peut amener des impacts sur la gestion des coûts, le calcul de la rentabilité, l’établissement du prix de vente, la prise de décision, etc. 
+ |  | Produit P |  | Produit Q
+Coût de la main-d’œuvre directe par unité  |  | 50 $ |  | 100 $
+Nombre d’unités assemblées |  | 100 000 |  | 200 000
+Nombre de composants par unité |  | 1 de type A |  | 2 de type B
+ |  | 1 de type B |  | 1 de type C
+ | Produit P | Produit Q | Total
+H1 : selon le coût de la MOD | 1 800 000 $ | 7 200 000 $ | 9 000 000 $
+H2 : selon le nombre d’unités  | 3 000 000 $ | 6 000 000 $ | 9 000 000 $
+H3 : selon le nombre de composants | 2 250 000 $ | 6 750 000 $ | 9 000 000 $

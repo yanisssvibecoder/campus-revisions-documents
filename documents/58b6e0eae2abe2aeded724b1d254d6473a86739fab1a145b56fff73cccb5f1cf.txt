@@ -1,0 +1,106 @@
+## xl/worksheets/sheet1.xml
+A1: Article | B1: Délai (semaine) | C1: Stock en main | D1: Taille de lot | E1: Niveau 
+## xl/worksheets/sheet2.xml
+A1: Nom de l'article | B1: Délai | C1: En stock | D1: Taille de lot
+A4: Semaine | B4: 1 | C4: 2 | D4: 3 | E4: 4 | F4: 5 | G4: 6 | H4: 7 | I4: 8 | J4: 9 | K4: 10 | L4: 11 | M4: 12
+A5: Lancement planifié
+## xl/worksheets/sheet3.xml
+A1: Nom de l'article | B1: Délai | C1: En stock | D1: Taille de lot
+A4: Semaine | B4: 1 | C4: 2 | D4: 3 | E4: 4 | F4: 5 | G4: 6 | H4: 7 | I4: 8 | J4: 9 | K4: 10 | L4: 11 | M4: 12
+A5: Besoin brut
+A8: TOTAL
+A9: Stock projeté
+A10: Besoin net
+A11: Réception planifiée
+A12: Lancement planifié
+A15: Nom de l'article | B15: Délai | C15: En stock | D15: Taille de lot
+A18: Semaine | B18: 1 | C18: 2 | D18: 3 | E18: 4 | F18: 5 | G18: 6 | H18: 7 | I18: 8 | J18: 9 | K18: 10 | L18: 11 | M18: 12
+A19: Besoin brut
+A22: TOTAL
+A23: Stock projeté
+A24: Besoin net
+A25: Réception planifiée
+A26: Lancement planifié
+A29: Nom de l'article | B29: Délai | C29: En stock | D29: Taille de lot
+A32: Semaine | B32: 1 | C32: 2 | D32: 3 | E32: 4 | F32: 5 | G32: 6 | H32: 7 | I32: 8 | J32: 9 | K32: 10 | L32: 11 | M32: 12
+A33: Besoin brut
+A36: TOTAL
+A37: Stock projeté
+A38: Besoin net
+A39: Réception planifiée
+A40: Lancement planifié
+## xl/worksheets/sheet4.xml
+A1: Nom de l'article | B1: Délai | C1: En stock | D1: Taille de lot
+A4: Semaine | B4: 1 | C4: 2 | D4: 3 | E4: 4 | F4: 5 | G4: 6 | H4: 7 | I4: 8 | J4: 9 | K4: 10 | L4: 11 | M4: 12
+A5: Besoin brut
+A8: TOTAL
+A9: Stock projeté
+A10: Besoin net
+A11: Réception planifiée
+A12: Lancement planifié
+A15: Nom de l'article | B15: Délai | C15: En stock | D15: Taille de lot
+A18: Semaine | B18: 1 | C18: 2 | D18: 3 | E18: 4 | F18: 5 | G18: 6 | H18: 7 | I18: 8 | J18: 9 | K18: 10 | L18: 11 | M18: 12
+A19: Besoin brut
+A22: TOTAL
+A23: Stock projeté
+A24: Besoin net
+A25: Réception planifiée
+A26: Lancement planifié
+A29: Nom de l'article | B29: Délai | C29: En stock | D29: Taille de lot
+A32: Semaine | B32: 1 | C32: 2 | D32: 3 | E32: 4 | F32: 5 | G32: 6 | H32: 7 | I32: 8 | J32: 9 | K32: 10 | L32: 11 | M32: 12
+A33: Besoin brut
+A36: TOTAL
+A37: Stock projeté
+A38: Besoin net
+A39: Réception planifiée
+A40: Lancement planifié
+## xl/worksheets/sheet5.xml
+A1: Nom de l'article | B1: Délai | C1: En stock | D1: Taille de lot
+A4: Semaine | B4: 1 | C4: 2 | D4: 3 | E4: 4 | F4: 5 | G4: 6 | H4: 7 | I4: 8 | J4: 9 | K4: 10 | L4: 11 | M4: 12
+A5: Besoin brut
+A8: TOTAL
+A9: Stock projeté
+A10: Besoin net
+A11: Réception planifiée
+A12: Lancement planifié
+A15: Nom de l'article | B15: Délai | C15: En stock | D15: Taille de lot
+A18: Semaine | B18: 1 | C18: 2 | D18: 3 | E18: 4 | F18: 5 | G18: 6 | H18: 7 | I18: 8 | J18: 9 | K18: 10 | L18: 11 | M18: 12
+A19: Besoin brut
+A22: TOTAL
+A23: Stock projeté
+A24: Besoin net
+A25: Réception planifiée
+A26: Lancement planifié
+A29: Nom de l'article | B29: Délai | C29: En stock | D29: Taille de lot
+A32: Semaine | B32: 1 | C32: 2 | D32: 3 | E32: 4 | F32: 5 | G32: 6 | H32: 7 | I32: 8 | J32: 9 | K32: 10 | L32: 11 | M32: 12
+A33: Besoin brut
+A36: TOTAL
+A37: Stock projeté
+A38: Besoin net
+A39: Réception planifiée
+A40: Lancement planifié
+## xl/worksheets/sheet6.xml
+A1: Nom de l'article | B1: Délai | C1: En stock | D1: Taille de lot
+A4: Semaine | B4: 1 | C4: 2 | D4: 3 | E4: 4 | F4: 5 | G4: 6 | H4: 7 | I4: 8 | J4: 9 | K4: 10 | L4: 11 | M4: 12
+A5: Besoin brut
+A8: TOTAL
+A9: Stock projeté
+A10: Besoin net
+A11: Réception planifiée
+A12: Lancement planifié
+A15: Nom de l'article | B15: Délai | C15: En stock | D15: Taille de lot
+A18: Semaine | B18: 1 | C18: 2 | D18: 3 | E18: 4 | F18: 5 | G18: 6 | H18: 7 | I18: 8 | J18: 9 | K18: 10 | L18: 11 | M18: 12
+A19: Besoin brut
+A22: TOTAL
+A23: Stock projeté
+A24: Besoin net
+A25: Réception planifiée
+A26: Lancement planifié
+A29: Nom de l'article | B29: Délai | C29: En stock | D29: Taille de lot
+A32: Semaine | B32: 1 | C32: 2 | D32: 3 | E32: 4 | F32: 5 | G32: 6 | H32: 7 | I32: 8 | J32: 9 | K32: 10 | L32: 11 | M32: 12
+A33: Besoin brut
+A36: TOTAL
+A37: Stock projeté
+A38: Besoin net
+A39: Réception planifiée
+A40: Lancement planifié

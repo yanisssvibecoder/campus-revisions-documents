@@ -1,0 +1,1072 @@
+## Page 1
+Mobiliser les
+technologies numériques
+TECH 10701
+
+
+Développé par
+Marie -Claude Trudel
+
+## Page 2
+1 – À la base d’une transformation numérique réussie            : une stratégie et une architecture
+
+
+
+2 – Au cœur des systèmes d’information       : des processus d’affaires
+
+
+
+3 – La matière première des systèmes d’information : des données
+
+
+
+4 – Des données aux interfaces : structurer, saisir, gouverner
+
+
+
+5 – L’utilisation des systèmes d’information : des requêtes simples et des enjeux de cybersécurité
+
+
+
+6 - Au cœur des systèmes d’information : des algorithmes et de l’intelligence artificielle
+
+
+
+7 - Pour passer du concept au système matérialisé : des projets structurés
+
+
+
+              8 - Des processus standardisés et des données intégrées : des progiciels de gestion intégrés
+
+
+
+              9 – La matière première des systèmes d’information : toujours plus de données
+
+
+
+              10 – L’utilisation des systèmes d’information : des requêtes complexes à l’aide de tableaux de bord
+
+
+
+              11- À l’avant scène des systèmes d’information : une expérience utilisateur réfléchie
+
+
+
+              12 – Une solution complète : un tableau de bord pour soutenir l’utilisation d’un progiciel de gestion intégré
+
+## Page 3
+     Séance 4
+
+     Des données aux interfaces : structurer,
+
+       saisir, gouverner
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 4
+           ▪Construire un modèle conceptuel en identifiant les entités
+             pertinentes et les règles d'affaires d'une organisation
+
+           ▪Expliquer comment les règles d'affaires du modèle conceptuel se
+             traduisent en contraintes de saisie dans une interface
+
+          ▪Évaluer la convivialité d'un formulaire de saisie selon les meilleures                                                                                                   4
+             pratiques en UX
+
+
+Mobiliser les technologies numériques
+
+## Page 5
+Processus d’affaires en contexte
+
+
+
+    Stratégie                            Mission         Vision        Objectifs
+
+
+
+
+
+    Processus d’affaires
+
+
+
+
+
+   Système d’information
+
+
+
+
+
+    Infrastructure                                                  Matériel                    Logiciels               Données            Télécommunication
+
+## Page 6
+      Structure des séances 1 à 7
+
+▪À la séance 1 on a vu:
+
+    ▪Principe 2 : Ne pas perdre
+
+     de vue la stratégie
+
+## Page 7
+      Structure des séances 2 à 7
+
+▪À la séance 1 on a vu:
+
+    ▪Principe 2 : Ne pas perdre
+
+     de vue la stratégie
+
+    ▪Principe 3 : Séparer les
+
+     données des traitements
+
+## Page 8
+      Structure des séances 1 à 7
+
+▪À S1 on a vu:
+
+    ▪Principe 2 : Ne pas perdre
+
+     de vue la stratégie
+
+    ▪Principe 3 : Séparer les
+
+      données des traitements
+
+▪On constate que les
+
+  processus d’affaires
+
+  soutiennent les activités de
+
+  l’entreprise (stratégie)
+
+## Page 9
+      Structure des séances 1 à 7
+
+▪À S1 on a vu:
+    ▪Principe 2 : Ne pas perdre de
+
+      vue la stratégie
+    ▪Principe 3 : Séparer les
+
+      données des traitements
+▪On constate que les
+
+  processus d’affaires
+
+  soutiennent les activités de
+
+  l’entreprise (stratégie)…
+▪…et que le système
+
+  d’information contient les
+
+  données pour réaliser le
+
+  processus d’affaires
+
+## Page 10
+      Structure des séances 1 à 7
+
+▪S2 : On analyse le processus
+
+  d’affaires afin d’avoir un
+
+  système d’information adapté
+
+ à un processus performant
+                                            Modélisation  - cartographie (BPMN)
+  qui répond aux objectifs de
+                                           Analyse de la valeur ajoutée
+  l’entreprise
+                                            Amélioration de processus
+
+## Page 11
+      Structure des séances 1 à 7
+
+
+▪S2 : On analyse le processus d’affaires
+
+   afin d’avoir un système d’information
+
+  adapté à un processus performant qui
+
+  répond aux objectifs de l’entreprise
+
+▪S3 et S4 : On identifie les
+
+  données pour soutenir le
+
+  processus d’affaires
+
+                                                     Normalisation
+
+                                             Modèle conceptuel
+
+                                             Modèle logique (DSBD)
+
+                                                      Création de tables dans une application de BD (Airtable)
+
+## Page 12
+      Structure des séances 1 à 7
+
+
+▪S2 : On analyse le processus d’affaires
+
+   afin d’avoir un système d’information
+
+  adapté à un processus performant qui
+
+  répond aux objectifs de l’entreprise
+
+▪S3 et S4 : On identifie les données pour
+
+  soutenir le processus d’affaires
+
+▪S4 : Interface utilisateur
+
+
+
+                                                             Interface : Les meilleures pratiques
+
+                                                        Formulaire Airtable  – Démontrer la non  -convivialité
+
+                                                               Softr – pour avoir des formulaires avec un UX adéquat
+
+                                                               Softr - Menu de navigation
+
+## Page 13
+Plan de la séance
+
+
+ Retours           Assimilation       Application       Synthèse
+
+## Page 14
+  Retour sur la séance 3
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 15
+      Normalisation    – Exercices supplémentaires
+
+
+
+
+
+▪Rappel, vous avez plusieurs exercices pour pratiquer la normalisation
+
+▪Assurez -vous de maîtriser ces notions rapidement afin de ne pas prendre de
+
+  retard et afin de bien comprendre les liens avec les prochaines séances
+
+## Page 16
+  Retour sur le parcours
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 17
+     Retour sur le parcours
+
+
+
+
+
+▪Qu’est -ce que le diagramme de structure de base de données, aussi appelé
+
+ modèle logique?
+
+▪À quoi sert il?
+
+## Page 18
+                                 du parcours  Assimilation
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 19
+     Approches de conception d’une BD
+
+▪Deux approches permettent de concevoir la structure d’une base de données
+
+
+
+
+
+                                                                          Modélisation conceptuelle
+
+                                                            De l’abstrait au (un peu plus)
+
+                                                                                      concret
+
+
+
+
+
+               Normalisation
+
+       De concret au (un peu plus)
+
+                      abstrait
+
+## Page 20
+    Un peu de pratique
+
+
+
+▪Dans l’exemple de notre pizzeria, nous avons travaillé la
+
+  normalisation la semaine dernière, nous allons maintenant
+
+  démarrer de l’autre côté et réfléchissant…
+
+   ▪…aux données nécessaires pour que le processus se déroule bien, et
+
+   ▪…aux données que la pizzeria devrait conserver
+
+▪Pouvez -vous dégager les principales entités d’affaires concernées par ces
+
+  éléments, à la lumière des règles d’affaires retrouvées sur la diapo suivante?
+
+
+   ▪Rappel: regrouper les éléments autour d’idées générales, d’abstractions que
+
+      l'on considère comme faisant partie de la réalité à l’étude.
+
+## Page 21
+       Liste des besoins de la pizzeria
+
+
+No besoin         Énoncé du besoin
+
+                 En tant que caissier, je veux savoir les informations du client (livraison) pour livrer la
+1
+               commande au bon endroit
+
+                 En tant que caissier, je veux connaître les articles souhaités et la quantité de chacun afin de
+2
+                    préparer la commande souhaitée.
+
+                 En tant que caissier, je veux connaître le montant de la commande pour la présenter au
+3
+                        client afin qu’il sache combien payer
+
+                 En tant que cuisinier, Je veux connaître les articles commandés et la quantité afin de
+4
+                    préparer la bonne commande
+
+5                En tant que cuisinier, je veux avoir les recettes pour préparer adéquatement chaque article.
+
+
+6                En tant que livreur, je veux savoir où livrer la commande afin que le bon client la reçoive.
+
+                 En tant que livreur, je veux connaître le montant de la commande afin de faire payer le bon
+7
+                  montant
+
+8                En tant que livreur, je veux confirmer le paiement afin de remettre la commande au client
+
+## Page 22
+Listons les éléments de données
+
+
+
+
+
+                                                                 Articles
+    Client
+
+
+
+
+
+                                   Ingrédients
+
+
+       Commande
+
+## Page 23
+     Phase 1  – Diagramme de classes       (5 min)
+
+
+
+▪À la lumière de ces entités d’affaires, quelles seraient les classes retrouvées dans
+
+  le schéma?
+
+▪Comment associer ces classes entre elles et quels verbes d’action choisir pour les
+
+ nommer?
+
+▪Quelles sont les cardinalités maximales qui devraient se trouver de chaque côté
+
+ de l’association?
+
+
+   ▪Rappel: ces cardinalités ne peuvent prendre que les valeurs 0, 1 ou   ∞∞
+
+## Page 24
+                                                                (5 min)     Phase 2 —Soumission à l'IA
+
+
+▪Chaque équipe soumet l'énoncé des besoins d'affaires de la pizzeria
+
+ à un assistant IA de son choix, avec cette consigne précise :
+
+
+             « À partir des besoins suivants, dessine un diagramme de classes UML. »
+
+▪Puis une deuxième requête, un peu différente         :
+
+
+  « À partir des besoins suivants, génère un diagramme de classes UML en texte (liste des classes,
+
+                                     attributs, associations et cardinalités). »
+
+▪Et une troisième requête, délibérément moins précise :
+
+
+                      « Génère le modèle de données pour une pizzeria. »
+
+## Page 25
+                                                                                   (10 min)     Phase 3 —Analyse comparative guidée
+
+▪Les équipes comparent les quatre diagrammes (le leur + les trois IA) en
+
+ répondant à ces questions :
+
+    ▪L'IA a -t-elle identifié les mêmes entités que vous? Lesquelles manquent ou sont superflues?
+   ▪Comment l'IA a  -t-elle traité la relation plusieurs  -à-plusieurs entre Commande et Article? A     -t-
+
+       elle créé une classe associative (   DetailCommande   )? Pourquoi est -ce important?
+   ▪Les cardinalités proposées par l'IA sont     -elles cohérentes avec les besoins énoncés? Y a        -t-il des
+
+      cas où elles sont techniquement valides mais pédagogiquement incorrectes pour          ce
+
+     problème?
+    ▪L’IA est -elle bonne pour dessiner des diagrammes de classe ou est        -elle meilleure pour les
+
+      expliquer?
+   ▪La dernière requête (moins précise) a     -t-elle produit un meilleur ou un moins bon résultat?
+
+      Qu'est -ce que ça révèle sur le rôle du prompt?
+
+## Page 26
+                                                                                        (5 min)     Phase 4  – Mise en commun en plénière
+
+
+
+▪Y a -t-il une décision de modélisation pour laquelle l'IA a
+
+ systématiquement eu tort? Pourquoi pensez     -vous que c'est difficile
+
+ pour elle?
+
+▪Dans un contexte professionnel, à quel moment utiliseriez     -vous l'IA
+
+ pour cette tâche, et à quel moment feriez    -vous confiance à votre
+
+ propre jugement?
+
+## Page 27
+Exercice interactif : Modèle conceptuel
+
+## Page 28
+       Liste des besoins de la pizzeria
+
+
+No besoin         Énoncé du besoin
+
+                 En tant que caissier, je veux savoir les informations du client (livraison) pour livrer la
+1
+               commande au bon endroit
+
+                 En tant que caissier, je veux connaître les articles souhaités et la quantité de chacun afin de
+2
+                    préparer la commande souhaitée.
+
+                 En tant que caissier, je veux connaître le montant de la commande pour la présenter au
+3
+                        client afin qu’il sache combien payer
+
+                 En tant que cuisinier, Je veux connaître les articles commandés et la quantité afin de
+4
+                    préparer la bonne commande
+
+5                En tant que cuisinier, je veux avoir les recettes pour préparer adéquatement chaque article.
+
+
+6                En tant que livreur, je veux savoir où livrer la commande afin que le bon client la reçoive.
+
+                 En tant que livreur, je veux connaître le montant de la commande afin de faire payer le bon
+7
+                  montant
+
+8                En tant que livreur, je veux confirmer le paiement afin de remettre la commande au client
+
+## Page 29
+Modèle conceptuel      (diagramme de classes)
+
+## Page 30
+Modèle conceptuel      (diagramme de classes)
+
+
+
+
+
+                                Souvenons -nous qu’ une relation de
+
+                                      plusieurs à plusieurs     dans un
+
+                              modèle conceptuel (diagramme de
+
+                                        classe) ne peut pas être
+
+                                  directement implémentée dans
+
+                              une base de données        , il faut ajouter
+
+                              une classe associative
+
+## Page 31
+Modèle conceptuel      (diagramme de classes)
+
+## Page 32
+     Modèle logique partiel (sans ingrédient)
+
+▪Cette classe associative donne lieu à deux relations de un à plusieurs dans le
+
+ modèle logique
+
+## Page 33
+Modèle conceptuel      (diagramme de classes)
+
+
+
+
+
+                              Comment pourrait  -on appeler la
+
+                                           classe associative     créée entre
+
+                                              Article et Ingrédient?
+
+## Page 34
+Modèle conceptuel      (diagramme de classes)
+
+## Page 35
+Relier la table Ingrédient au modèle logique
+
+## Page 36
+    Un peu de pratique
+
+
+▪Dans leur plus simple expression, les données auxquelles
+
+  nous avons réfléchi la semaine dernière et cette semaine
+
+  sont conservées sous forme de tableaux (ou tables)
+
+▪Chaque tableau équivaut à une seule entité
+
+   ▪Chaque colonne correspond à une caractéristique de cette entité, un attribut
+
+   ▪Chaque ligne correspond à une occurrence de cette entité, un enregistrement
+
+▪Il y aura autant de tableaux qu’il y a d’entités dans le modèle
+
+▪Créons ensemble une base de données pour notre pizzeria en débutant par la
+
+  table Client
+
+## Page 37
+     Modèles logiques à comparer
+
+▪À gauche, le modèle logique partiel auquel nous étions arrivés avec la
+
+  normalisation de la commande, à droite celui issu du modèle conceptuel, quels
+
+  sont les meilleurs choix?
+
+## Page 38
+      Et si le client venait à déménager?
+
+▪Une clé primaire est  immuable      , c’est -à -dire qu’une fois attribuée à un
+
+  enregistrement, on ne peut pas la modifier.
+▪Avec la structure actuelle, si le client déménage, on devra refaire un nouvel
+
+  enregistrement pour la nouvelle adresse.
+▪Si jamais nous avions déjà la nouvelle adresse dans notre base de données
+
+  (attribuée à un autre/ancien client) nous devrons modifier le numéro de
+
+  téléphone pour placer celui du nouveau client qui vient d’aménager.
+▪Si on veut analyser nos données sur le long terme, l’information intéressante sur
+
+  les commandes (ex. articles préférés/fréquemment achetés) mêleront les
+
+  préférences des deux clients ayant habité à la même adresse, ce qui n’est pas ce
+
+ que l’on souhaite car ça ne nous aide pas à mieux connaître nos clients.
+
+## Page 39
+    Comment devrait     -on modifier le modèle?
+
+▪Avec le modèle initial, nous aurions en quelque sorte perdu l’intégrité référentielle
+
+  car après la modification, le retour sur nos pas entre la clé lointaine et la clé
+
+  primaire ne mênerait plus aux bonnes informations.
+▪Comment remédier à cette situation?
+
+## Page 40
+Modification de la table Client
+
+
+
+
+
+    Cette modification est déjà ajoutée à la base de données modèle que vous
+
+                       utiliserez pour construire votre application             Softr
+
+## Page 41
+  Nouvelle matière
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 42
+        Architecture informatique
+
+
+▪Ce schéma présente une architecture informatique en 3 couches (ou 3
+
+  niveaux).
+
+ Où dans cette architecture les règles d'affaires sont             -elles visibles pour l'utilisateur?
+
+
+
+                                                                      Couche
+                                        Interface #1          Interface #2           Interface #3
+                                                                              présentation
+        Front -end
+
+       Back -end                                                                      Couche
+                           Serveur d’application
+                                                                                   application
+
+
+
+                         Système de gestion de base de données
+                                                                      Couche
+                                                                      données
+                         Base de données
+
+## Page 43
+«L’interface utilisateur      est le point d’interaction et
+
+de communication humain   -machine dans un
+
+appareil, une application ou un site Web. Cela peut
+
+inclure des écrans d’affichage, des claviers, une
+
+souris, des éléments visuels et audio, des polices de
+
+caractère, des icônes, des boutons, des animations et
+
+des sons.»                                              Michal Malewicz,  UI Designer Guru
+
+## Page 44
+     Conception d’interface      – Meilleures pratiques
+
+
+
+1.  Lignes et grilles
+
+    ▪https://yumans.design/grilles   -et-design -dinterface
+
+2.  Couleurs et  teintes
+
+    ▪https://yumans.design/couleurs    -et-design -interface
+
+3.  Contrastes
+
+    ▪https://accessibility.ecampusontario.ca/fr/accessibilite/bonnes        -pratiques/couleurs/
+
+4.  Hiérarchisation  de l’information
+
+    ▪https://jujotte.fr/blog/la  -hierarchie -de -linformation -dans -lui
+
+5.  Typographie
+
+    ▪https://yumans.design/typographie     -et-design -dinterface
+
+## Page 45
+Qu’est -ce que le UX?
+
+## Page 46
+     HEC Montréal, un leader en UX
+
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        UneLe contenuimage contenantgénéré parPolice,l’IA peutGraphique,être incorrect.capture d’écran, texte
+Laboratoire spécialisé dans l’évaluation de
+
+l’expérience utilisateur (UX) en contexte de
+
+technologies d’affaires
+
+▪Utilisation d’outils issus des neurosciences afin de développer une compréhension riche
+
+  de l’expérience réellement vécue par des utilisateurs:
+
+    ▪Consommateurs, employés ou citoyens en interaction avec la technologie
+
+▪Ces collaborations industrielles créent également des opportunités de formation
+
+  inégalées aux étudiants de la     maîtrise en expérience utilisateur (UX)   de HEC Montréal,
+
+  qui réalisent leur mémoire au sein de ces partenariats.
+
+▪Deux chaires de recherche :    La Chaire en expérience utilisateur     et la Chaire de
+
+  commerce électronique RBC Groupe Financier.
+
+## Page 47
+  Application
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 48
+     Base de données     Airtable
+
+
+
+▪Cette base de données est une base de données       Airtable qui correspond aux
+
+  tables de la pizzéria, nous allons utiliser celle     -ci pour construire nos interfaces
+
+  avec  Softr
+
+▪Cliquer sur le lien suivant et sauvegarder la base de données dans         Airtable  :
+
+    ▪https://airtable.com/app2wbdp4ftamowX1/shrOwtNSw9vmJ5Psi
+
+▪Cette base de données doit être utilisée pour démarrer votre application dans
+
+  Softr
+
+## Page 49
+      Softr – Développons l’interface utilisateur
+
+
+À partir de la base de données     Airtable fournie :
+
+▪Paramétriser le menu d’ouverture
+
+▪Créer un formulaire pour la saisie d’un Client
+
+    ▪Configurer l’ajout d’un client
+
+    ▪Permettre de modifier un client
+
+   ▪Ne pas permettre de supprimer
+
+   ▪Vous devez aussi modifier tous les champs du formulaire afin de les avoir dans le contexte de
+
+      notre pizzéria (à partir du menu Action dans      Softr )
+
+    ▪Assurez -vous de fermer le formulaire après une saisie ou une modification.
+
+▪Créer le formulaire pour Article avec les mêmes consignes
+
+## Page 50
+Création d’une nouvelle application
+
+## Page 51
+Paramétrisation de la BD et de la table
+
+## Page 52
+Suppression du bloc du bas
+
+## Page 53
+Paramétrisation du menu d’ouverture
+
+
+
+
+
+Le numéro de  Features   qui est souligné correspond à l’élément
+
+dans la fenêtre sélectionnée. Paramétrons alors le troisième
+
+élément pour qu’il corresponde au    Client   plutôt qu’à Category   ,
+
+qui est un marque  -place lié à rien actuellement.
+
+## Page 54
+   Paramétrisation du menu d’ouverture
+
+
+
+
+
+▪Sélectionner le troisième élément   Features
+
+▪Remplacer le titre par   Client
+
+▪Ajouter une image représentative d’un client en cliquant ici
+
+▪Changer le titre du lien Read more pour    Créer
+
+## Page 55
+   Paramétrisation du menu d’ouverture
+
+
+
+
+
+▪Éventuellement, nous voudrons aller paramétrer l’action réalisée
+
+  lorsque nous cliquerons sur Créer    -> mais pour le moment, le formulaire
+
+  de création d’un Client n’existe pas, il faut d’abord aller le concevoir
+
+## Page 56
+    Renommer la page d’ouverture
+
+
+▪Lorsqu’on arrive dans la section Pages de Softr, on
+
+  s’aperçoit que la page sur laquelle nous travaillons
+
+  s’appelle en fait Client, même si c’est le menu
+
+  d’ouverture
+
+▪C’est que Client était la première table utilisée par
+
+  l’application (en ordre alphabétique)
+
+▪Pour modifier ce nom, il faut cliquer sur l’engrenage
+
+  qui apparaît à la droite lorsqu’on survole, puis sur
+
+  General pour renommer la page Menu
+
+▪Ne pas oublier de sauvegarder
+
+## Page 57
+      Créer le formulaire d’ajout d’un client
+
+▪Nous pouvons maintenant créer une nouvelle page Client en cliquant sur le + de
+
+  la section Pages
+
+
+
+
+
+▪Nous souhaitons que l’interface contrôle la table Client à l’aide d’un        formulaire
+
+  centré   , saurez -vous comment faire?
+
+## Page 58
+      Créer le formulaire d’ajout d’un client
+
+▪On voit que le formulaire a bel et bien été créé mais que       Softr a ajouté un grand
+
+ nombre de champs génériques qui ne nous serviront pas
+
+▪Prenons toutefois un moment pour évaluer la structure du formulaire en lien avec
+
+  les bonnes pratiques UX
+
+▪Ajoutons une deuxième section dans l’onglet     Steps (Add section) et dans cette
+
+  dernière, débutons par une ligne de division (Add       field /Display/ Divider ) puis
+
+  ajoutons tour à tour des champs pour inscrire l’adresse, la rue transversale et le
+
+ numéro de téléphone du nouveau client (Add       field /Input/…)
+
+▪Nous pouvons maintenant aller supprimer complètement la Section 1 à l’aide de
+
+  la corbeille qui apparaît lorsqu’on clique sur l’ellipse (survoler à droite de Section 1)
+
+## Page 59
+      Créer le formulaire d’ajout d’un client
+
+▪En faisant cela, nous avons toutefois effacé toute l’entête, nous devons la refaire
+
+▪Saurez -vous arriver à ce résultat?
+
+## Page 60
+      Créer le formulaire d’ajout d’un client
+
+
+
+
+▪Nous remarquons que c’est dans l’interface et non dans
+
+  Airtable que nous pouvons marquer les champs comme
+
+  obligatoire et que nous pouvons ajouter des règles de
+
+  validation supplémentaires
+
+▪Maintenant que notre page client est prête, nous pouvons
+
+  aller la lier au menu d’ouverture
+
+## Page 61
+Créer le formulaire d’ajout d’un client
+
+## Page 62
+      Prévisualisation et test du formulaire Client
+
+
+
+▪Actuellement, après la saisie d’un nouveau client, l’interface revient à la fiche de
+
+  saisie vide et attend une nouvelle entrée, il faudra éventuellement aller ajouter un
+
+  bouton de retour au menu d’ouverture
+
+▪Pour le moment, retournons en mode édition et reprenons les mêmes étapes pour
+
+  créer un formulaire d’ajout d’article
+
+▪Si on sélectionne la page existante, on voit que l’interface n’est pas un formulaire
+
+ de saisie, il faut supprimer à l’aide de la corbeille dans le haut du bloc et choisir le
+
+  format adéquat dans le menu de droite en cliquant sur le + noir
+
+## Page 63
+  Synthèse
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 64
+    Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités                                                                                     localisations                              événements         stratégiques et des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affaires            règles d’affaires
+
+
+Niveau                                         Processus            Localisations  des                            Événements                            Entités d’affaires                                                        Unités d’affaires                                Objectifs  d’affaires
+                                                             d’affaires                  unités                                             d’affairesconceptuel
+
+
+                                                      Application/
+Niveau                                                                                                 Événements                           Entité de données           système           Fonctions nodales      Rôles et interfaces                                      Critères
+logique                                         d’information                                                       système
+
+
+Niveau                Ligne (dans une         Algorithmes           Localisation  des                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmés             système stechnique
+
+## Page 65
+      La suite du cours d’aujourd’hui dans la spécialisation
+
+
+
+
+▪TECH 20709      Poser un diagnostic et élaborer des solutions numériques
+
+▪TECH 20700      Construire des entrepôts de données et concevoir des tableaux
+
+                de bord efficaces
+
+▪TECH 20712      Créer et exploiter des bases de données
+
+▪TECH 20703      Concevoir et évaluer les interfaces en considérant l’expérience
+
+                      utilisateur
+
+## Page 66
+     Le cours d’aujourd’hui dans les évaluations
+
+
+
+
+▪Votre compréhension des notions à la base des modèles conceptuels et logiques
+
+  sera évaluée dans l’examen intra et dans votre travail d’équipe #1
+
+▪Les manipulations similaires à ce qui a été fait aujourd’hui devront être réalisées
+
+  sur Softr pour votre travail d’équipe #1
+
+## Page 67
+Les métiers impliqués dans le cours d’aujourd’hui
+
+## Page 68
+      Les autres spécialisations dans le cours d’aujourd’hui
+
+
+
+
+
+▪Marketing
+
+▪Gestion des opérations et de la logistique
+
+▪Comptabilité
+
+## Page 69
+    À faire pour la semaine prochaine
+
+
+
+
+
+▪Visionner les capsules vidéo du parcours d’apprentissage de la séance 5
+
+   ▪54 minutes environ, mais vous devez faire des manipulations, prévoir le double !
+
+▪Continuer votre travail d’équipe #1

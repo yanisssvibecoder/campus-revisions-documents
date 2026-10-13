@@ -1,0 +1,92 @@
+Exercice de révision séance 7 (10904) : Pizza-Pizza et l’imputation
+Saveurs Authentiques est une entreprise réputée pour ses produits gastronomiques de haute qualité. Elle est spécialisée dans la production de produits alimentaires tels que la salade, le pain et la pizza. Le défi actuel de Saveurs Authentiques est de calculer le coût de fabrication de chaque produit pour analyser les marges brutes par produit. Pour ce faire, nous devons d’abord comprendre comment les coûts sont actuellement répartis. L’entreprise a récemment réalisé une analyse détaillée de son processus de fabrication et a identifié deux centres de coûts principaux.
+L’assemblage est la première étape du processus de production de la salade, du pain et de la pizza. L’assemblage consiste à préparer les ingrédients présents dans chaque produit pour ensuite les assembler afin de former le produit final. Pour une salade, la préparation signifie mélanger les légumes dans un grand bol. Pour le pain et la pizza, la préparation implique de rouler la pâte et d’ajouter les garnitures. Après la préparation, chaque produit est inspecté pour s’assurer qu’il réponde aux normes de qualité de l’entreprise. Cela implique de vérifier la taille et le poids du produit, ainsi que de s’assurer qu’il n’y ait pas de défauts visibles. Dans le cas de Saveurs Authentiques, les frais généraux de fabrication associés à l’étape d’assemblage sont de 70 400 $. Selon l’information produite par le contrôleur, cela inclut les coûts de l’ensemble des équipements utilisés lors de cette étape et le salaire de la main-d’œuvre indirecte.
+La congélation est la seconde étape essentielle dans le processus de production du pain et de la pizza seulement, puisque ce sont les deux seuls produits vendus congelés. Les produits sont congelés à une température très basse pour préserver leur qualité et leur fraîcheur. Cette étape ralentit la croissance des micro-organismes et des enzymes qui peuvent causer la détérioration des aliments.  Le nombre d’heures machine total est de 45 200 h pour produire les 227 000 unités de pain et de pizza. Le pain nécessite un temps de congélation de 15 minutes, tandis que la pizza requiert seulement 6 minutes pour être congelée. Une fois congelés, les produits sont ensuite emballés pour protéger contre les brûlures de congélation et la contamination croisée. Le total des frais généraux de fabrication associé à cette étape est de 316 400 $. Ces coûts comprennent l’amortissement de la machine de congélation, les coûts de l’énergie nécessaire pour maintenir les températures de congélation, le salaire des superviseurs et d’autres frais généraux de fabrication.
+De plus, des informations sur le volume de production, le coût des matières premières, le coût de la main-d’œuvre ont été collectées et synthétisées dans le tableau suivant.
+Selon les données disponibles, les coûts de fabrication sont répartis comme suit :
+Dans les bureaux lumineux de Saveurs Authentiques, une réunion cruciale se tient dans la salle de conférence. La direction, composée de Mme. Lefèvre, la directrice financière, et M. Dubois, le contrôleur de gestion, est réunie pour discuter des dernières analyses présentées par l’équipe comptable.
+Mme. Lefèvre : « Comme vous le savez, notre objectif principal est d’optimiser la rentabilité de chaque produit. Les données actuelles montrent que notre méthode de répartition des frais généraux ne reflète pas précisément l’utilisation réelle des ressources. Cela nous empêche de voir clairement où les coûts peuvent être réduits sans compromettre la qualité. »
+M. Dubois : « Exactement, Mme. Lefèvre. C’est pourquoi j’ai proposé une nouvelle méthode de calcul qui attribue les frais généraux en fonction de l’utilisation des ressources par produit. Cette approche nous donnera une image plus fidèle de la rentabilité et mettra en lumière les produits les plus et les moins rentables. »
+La réunion se termine sur une note positive, avec la direction de Saveurs Authentiques s’accordant sur la nécessité d’une méthode de répartition des coûts plus précise. M. Dubois se voit confier la tâche de finaliser le tableau pour la présentation, marquant ainsi le début d’une ère d’optimisation des coûts et d’amélioration de la rentabilité pour l’entreprise.
+TRAVAIL À FAIRE :
+Selon vous, quelle base d’imputation a été utilisée pour répartir les frais généraux de fabrication aux produits ? Justifiez votre réponse. 
+Pourquoi Mme Lefèvre mentionne que la méthode actuelle de répartition des FGF ne reflète pas précisément l’utilisation réelle des ressources ? 
+Aidez M. Dubois à préparer un tableau détaillé qui permet de calculer le coût de fabrication de chaque produit selon la nouvelle méthode de répartition des FGF mentionnée dans la discussion. Présentez clairement vos calculs. 
+Que pouvez-vous conclure sur la rentabilité des produits selon la nouvelle méthode de répartition des frais généraux de fabrication ?
+(prenez soin d’indiquer les impacts / effets de la nouvelle méthode de répartition des frais généraux de fabrication sur la prise de décision). 
+Piste de solution…
+ Selon vous, quelle base d’imputation a été utilisée pour répartir les frais généraux de fabrication aux produits ? Justifiez votre réponse. 
+Pourquoi Mme Lefèvre mentionne que la méthode actuelle de répartition des FGF ne reflète pas précisément l’utilisation réelle des ressources ?
+                				vs                    
+c) Aidez M. Dubois à préparer un tableau détaillé qui illustre la nouvelle méthode de répartition des FGF mentionnée dans la discussion. 
+Étape 1 : Définir la base d’imputation à utiliser pour chaque centre de coûts
+Centre 1 : 
+Centre 2 : 
+Étape 2 : Calculez les taux d’imputation pour chaque centre de coûts
+Pour trouver le total de la base d’imputation
+Centre 1: 
+Centre 2: 
+Étape 3 : Répartir les FGF de chaque centre de coûts entre les produits 
+                 (calcul du coût unitaire des FGF)
+Étape 4 : Calculez le coût de fabrication unitaire des produits (Faire le tableau)
+Que pouvez-vous conclure sur la rentabilité des produits selon la nouvelle méthode de répartition des frais généraux de fabrication ?
+(prenez soin d’indiquer les impacts / effets de la nouvelle méthode de répartition des frais généraux de fabrication sur la prise de décision). 
+Comparaison des marges brutes par produit
+ | Salade | Pain
+congelé | Pizza congelée | Total
+Volume de vente | 100 000 | 150 000 | 77 000 | 327 000 unités
+Prix de vente | 6,00 $ | 11,00 $ | 15,00 $ | 3 405 000 $
+MP | 3,00 $ | 3,50 $ | 8,00 $ | 1 441 000 $
+MOD 
+(taux horaire 20 $/h) | 1,00 $ | 3,00 $ | 2,00 $ | 704 000 $
+FGF | 1,18 $  | 1,18 $  | 1,18 $  | 386 800 $
+Coût de fabrication | 5,18 $ | 7,68 $ | 11,18 $ | 
+Marge brute unitaire | 0,82 $ | 3,32 $ | 3,82 $ | 873 200 $
+Marge brute % | 13,60 % | 30,18 % | 25,40 % | 
+Rappel des critères pour choisir une base d’imputation : 
+
+Est-ce que les produits consomment les charges de la même façon ? (Même niveau de complexité, processus de fabrication similaires – fait à la main vs fait par une machine). Analyser le processus de production.
+
+Est-ce que toutes les bases sont communes aux produits ? Pourquoi est-ce important de respecter ce critère ? Réponse: s'assurer d'une répartition représentative de la consommation des ressources par les produits. 
+
+Quel processus de fabrication déclenche le plus de charges ? Analyser la liste des FGF (ex: amortissement de la machinerie, maintenance de la machinerie, salaire des superviseurs) et se demander : quelle proportion des FGF est déclenché par l’utilisation de la machinerie et quelle proportion en lien avec l’utilisation d’employés?  
+
+ | Salade | Pain
+congelé | Pizza congelée | Total
+Volume de vente | 100 000 | 150 000 | 77 000 | 327 000 unités
+MOD 
+(taux horaire 20 $/h)
+
+Heures de MOD
+
+
+ | 1,00 $ | 3,00 $ | 2,00 $ | 704 000 $
+Heures machine
+
+
+
+
+ |  |  |  | 
+ | Centre 1 | Centre 2 | Total coût unitaire des FGF
+Salade | 
+
+ |  | 
+Pain | 
+
+ |  | 
+Pizza | 
+
+ |  | 
+ | Salade | Pain
+congelé | Pizza congelée | Total
+Prix de vente | 6,00 $ | 11,00 $ | 15,00 $ | 3 405 000 $
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+Marge brute  |  |  |  | 
+Marge brute %  |  |  |  | 
+ | Salade | Pain congelé | Pizza congelée
+1 seul taux d’imputation | 13,60 % | 30,18 % | 25,40 %
+Méthode de répartition à plusieurs centres | 31,7 % | 22,3 % | 27,3 %

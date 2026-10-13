@@ -1,0 +1,193 @@
+Prise de décision – Analyse Coût-Volume-Résultat
+La société ABX effectue des contrats de déneigement l’hiver. L’hiver dernier (20X1), il a neigé souvent, les équipes de déneigeurs ont donc été beaucoup plus occupées que durant l’hiver précédent (20X0).  En raison de ces conditions météorologiques, la société a connu une perte d’exploitation en 20X1. 
+Les coûts moyens engagés à l’hiver 20X1 sont présentés ci-dessous. Durant cette période, les déneigeuses ont procédé à 35 sorties pour déneiger les entrées des 150 clients de la société.
+En plus de vous fournir les informations ci-dessus, la société ABX vous informe que ses coûts et ses tarifs ne seront pas modifiés pour l’hiver 20X2 et qu’elle gardera la même clientèle. ABX estime ses ventes totales à 94 500 $ en 20X2.
+La société ABX souhaite avoir un résultat d’exploitation minimum de 30 000 $ à l’hiver 20X2. Considérant les données du tableau ci-dessus, combien de sorties maximums devra-t-elle effectuer pour atteindre son objectif, sachant qu’elle aura le même nombre de clients qu’en 20X1?
+SOLUTION :
+Pour analyser l’effet de la structure de coût sur la rentabilité potentielle de l’entreprise, il est important de bien comprendre le comportement des coûts, c’est-à-dire de distinguer les coûts fixes des coûts variables. Par nature, les coûts fixes restent inchangés, quel que soit le niveau d’activité – c’est-à-dire le nombre de sorties pour déneiger. La particularité de cette question réside dans le fait que les ventes sont fixées d’avance puisque les clients achètent leurs contrats de déneigement avant la saison hivernale. Si les ventes n’avaient pas été fixées, nous aurions utilisé la marge sur les coûts variables pour identifier le volume d’activités (le nombre de sorties) qui permet de couvrir les coûts fixes. Comme les ventes sont fixées ici, seulement les coûts variables (ce sont ces coûts qui augmentent en fonction du nombre de sorties de déneigement) vont varier en fonction du volume. Nous utiliserons donc l’équation du résultat (Ventes – (coûts variables unitaire x volume) – coûts fixes = Résultat d’exploitation) pour résoudre ce problème.
+CALCULS :
+Ventes estimées : 94 500 $
+(-) Coûts variables par sortie x nombre de sorties = (525 $ + 825 $ +100 $) x volume = 1 450 $ x volume
+(-)  Coûts fixes (475 $ amortissement +125 $ frais fixes d’administration) x 35 sorties = 21 000 $
+= Résultat d’exploitation :  30 000 $
+94 500 $ – 21 000 $ – 30 000 $ = 1 450 $ x volume
+Volume = 30 sorties
+Réponse : La société ABX devra effectuer au maximum 30 sorties de déneigement pendant la saison 20X2 si elle veut atteindre un résultat d’exploitation minimum (résultat cible) de 30 000 $. 
+Prise de décision – commande spéciale
+La Société Fabrique Tout (FT) a reçu une commande d’un important client qui désire acheter 30 000 unités de son produit vedette. Étant donné qu’elle est limitée dans sa capacité de production, elle devra renoncer à la fabrication d’un de ses produits réguliers pour accepter cette commande. Toutefois, si elle accepte la commande spéciale du client, FT bénéficiera d’une économie évaluée à 100 000 $ sur les achats de matières premières, soit 25 000 $ relatifs aux achats nécessaires à la commande spéciale et 75 000 $ relatifs aux achats effectués pour les commandes régulières. 
+Les données liées à cette commande ont déjà été colligées et vous sont présentées dans le tableau ci-dessous.
+Le coût variable unitaire inclut l’économie sur les achats de matières premières nécessaires pour la commande spéciale. 
+Le coût de renonciation associé aux commandes régulières est estimé à 45 000 $.
+Déterminer le prix de vente minimum que devra exiger FT pour ce produit 
+SOLUTION :
+ÉTAPE 1 : Analyse de l’information fournie dans le tableau. Identifier les coûts pertinents. 
+Note : Le calcul des marges permet de déterminer si la commande spéciale sera acceptée ou non, mais n'est pas pertinent pour déterminer le prix de vente minimum. Les informations pertinentes concernent les coûts (coûts variables et coûts fixes directs), les économies réalisées sur les matières premières et le coût de renonciation éventuel de la commande spéciale.
+Le prix de vente minimum sera de (prix unitaire):
+Afin de ne pas faire de pertes, le prix minimum que l’entreprise FT devrait avoir en tête lors de ses négociations commerciales avec son client pour la commande spéciale de 30 000 unités de son produit vedette est de 40 $ l’unité. À ce prix, l’entreprise dégage 0$ de profit (résultat d’exploitation).  Il s’agit d’un prix plancher, qui ne prend pas en compte les enjeux importants en matière de gestion des ressources humaines, gestion des opérations, finance, et marketing (les aspects qualitatifs de la prise de décision). 
+Fabriquer ou sous-traiter
+AKAMI est une entreprise spécialisée dans la confection de sushis à base de saumon. À l’heure actuelle, les chefs préparent les sushis (nigiri) avec des morceaux de saumon qui ont été préparés par des équipes dédiées à la découpe de poisson. Akio, le propriétaire d’Akami, estime consacrer 20 % de son temps à superviser les employés qui coupent le poisson, veillant à ce que chaque découpe respecte des standards élevés de qualité et 5% aux employés qui préparent les sushis. Le restant de son temps est dédié à la gestion de son entreprise. La pièce où le saumon est préparé occupe 50 % de la superficie de l’édifice, 5 % est pour la préparation des sushis tandis que le reste du bâtiment est occupé par le service des ventes et de l’administration.
+Un fournisseur lui a récemment proposé de lui vendre les morceaux de saumon coupés, livrés et prêts à être utilisés pour faire les sushis. Akio s’interroge : devrait-il continuer à acheter les filets de saumon et les préparer, ou sous-traiter la préparation du saumon ?
+Voici des informations relatives à son activité :
+Autres informations :
+Avec un kilogramme de saumon, il est possible de préparer 40 morceaux de sushi nigiris.
+Akio achète en moyenne 10 000 kg de saumon par mois.
+Le prix proposé par le fournisseur pour 40 morceaux de saumon pour nigiri est de 24 $
+Avec le temps disponible, au lieu de couper du poisson, les employés pourraient préparer de petites boules de coco chinoises qui rapporteraient un gain (ventes – coûts) de10 020 $ par mois.
+Travail à faire :
+Réaliser une analyse quantitative (a) et qualitative (b) pour aider Akio dans la prise de décision suivante :  acheter ou fabriquer les morceaux de saumon pour nigiris.  
+SOLUTION :
+Il est nécessaire de mener une analyse différentielle (analyse quantitative- (a)) entre fabriquer en interne ou acheter au fournisseur. 
+Analyse du tableau
+Une prise en compte exhaustive et une compréhension approfondie du comportement des coûts lors d’une variation de volume sont essentielles pour réaliser correctement l’analyse différentielle.
+Une première erreur pourrait être de comparer seulement les coûts variables de la fabrication en interne de   227 500 $ avec le prix d’achat auprès du fournisseur de 240 000 $ (coût variable également), laissant croire que l’offre du fournisseur externe est moins économique que nos coûts actuels. Actuellement, le coût de transformation en interne des filets de saumon en morceaux pour la production de sushi s’élève à 241 550 $ (227 500 $ de coûts variables + 14 050 $ de coûts fixes). Une analyse trop rapide de la situation pourrait suggérer que l’offre du fournisseur à 240 000 $ est avantageuse. Or, cette analyse omet que le loyer et le salaire d’Aiko constituent des coûts fixes communs qui ne disparaissent pas avec l’achat en externe. En revanche, les autres frais fixes de transformation du saumon n’existent que si l’on fabrique en interne – il s’agit donc de coûts fixes spécifiques et disparaîtraient si on achète au fournisseur.
+Dernière possibilité d’erreur : omettre les coûts de renonciation (10 020 $) associés à l’activité de préparation des boules de coco que les salariés ne peuvent pas réaliser en interne, car ils sont présentement occupés par la découpe du poisson. 
+Voici une autre explication de l’analyse différentielle à mener. Dans le cas l’analyse différentielle consiste à identifier l’effet qu’aurait la décision d’acheter les morceaux de saumon auprès du fournisseur sur le résultat de l’entreprise.
+Coûts variables : si AKAMi choisit d’acheter plutôt que de fabriquer, le volume de saumon à transformer passerait de 10 000 kg par mois à zéro, entraînant une économie de 100 % de ce coût variable, comme on peut le voir dans l’analyse différentielle. 
+Mais qu’en est-il des coûts fixes? Dans ce cas-ci, il faut déterminer si les coûts fixes sont communs ou spécifiques à l’activité de fabriquer. Le loyer et le salaire d’Akio sont des coûts fixes communs étant donné que ces coûts fixes continueront d’être engagés dans les deux situations. Par conséquent, ils n’influencent pas le résultat d’exploitation et sont donc non pertinents pour cette décision. L’analyse différentielle vise à identifier seulement les coûts affectant le résultat d’exploitation de l’entreprise. Les autres frais fixes de transformation sont dans ce cas-ci spécifiques à la transformation du saumon et représentent donc une économie dans l’analyse différentielle. 
+Le coût de renonciation est le dernier coût à considérer. Si le gestionnaire décide de cesser la transformation du saumon, des ressources seront libérées (main-d’œuvre et espace dans le bâtiment) pour réaliser une autre activité (boules de coco) qui pourrait rapporter un profit additionnel. En continuant de fabriquer, l’entreprise renonce à un gain potentiel, ce qui constitue un coût de renonciation à inclure dans l’analyse. Si elle décide d’acheter les morceaux de saumon, elle aura un gain additionnel de 10 020 $ lié à la vente des boules de coco. C’est pourquoi ce montant est en positif, dans cette analyse différentielle. 
+En conclusion, en tenant compte de tous les coûts pertinents, la décision d’acheter les morceaux de saumon préparés conduit à une diminution du résultat d’exploitation de 17 160 $ par an. D’un point de vue quantitatif, il est recommandé de refuser la proposition du fournisseur. 
+Toute prise de décision doit également tenir compte d’une analyse qualitative, incluant des facteurs non financiers qui peuvent avoir un impact autant positif ou négatif (représentent un risque) sur l’entreprise. 
+Selon vous, quel est l’élément le plus important à considérer selon le contexte et la prise de décision ? 
+En plus des considérations financières, il est impératif de prendre en compte la qualité du saumon   , qui représente l’élément qualitatif (analyse qualitative- (b)) le plus important dans notre décision de sous-traiter la production. La qualité influence directement la perception de la marque AKAMI et la fidélité de notre clientèle. Une baisse de qualité due à la sous-traitance pourrait entraîner une érosion de notre base de clients et nuire à notre réputation à long terme.
+Il est donc essentiel d’évaluer la capacité du fournisseur à maintenir les standards de qualité élevés auxquels nos clients sont habitués. Si la sous-traitance entraîne une qualité inférieure, les économies réalisées sur le plan financier pourraient être rapidement annulées par les pertes en termes de satisfaction client et de ventes futures.
+Par conséquent, en plus de la diminution du résultat advenant l’acceptation de la proposition du fournisseur, le risque potentiel quant à la qualité du saumon et ses impacts, font en sorte que nous recommandons de conserver la transformation du saumon à l’interne. 
+Continuer ou Abandonner & (Analyses de marges)
+Les boutiques Halmart proposent trois gammes de produits : les cerfs-volants, les manches à vent et les drapeaux. Les résultats du quatrième trimestre sont présentés ci-dessous :
+Sachant que la demande des autres produits n’est pas affectée par un changement dans les autres gammes de produits, qu’adviendra-t-il du résultat d’exploitation du 4e trimestre si les boutiques Halmart abandonnent la gamme de produits « Cerfs-volants » ? 
+Effectuez une analyse différentielle pour calculer l’effet sur le résultat d’exploitation de l’entreprise si les boutiques Halmart abandonnent la gamme de produits « Cerfs-volants » ?
+Quel type de marge doit être utilisée pour prendre cette décision ? (S04- Analyse et les marges)
+SOLUTION :
+Analyse différentielle : Effet de l’abandon de la gamme de produit Cerfs-Volants sur le résultat d’exploitation de l’entreprise
+Présentation de solution alternative : 
+Conclusion : Le résultat d’exploitation passe de 90 000 $ à 30 000 $, soit une diminution de 60 000 $.
+Interprétation de l’analyse quantitative :
+L’analyse différentielle indique l’effet sur le résultat d’exploitation total dans le cas où l’entreprise abandonne la fabrication des cerfs-volants qu’elle évalue non rentable. Si la production était abandonnée, le résultat diminuerait de 60 000 $. Ceci s’explique par le fait que le produit Cerfs-Volants contribue à payer les coûts communs de 210 000 $, qui ne sont pas diminués par l’arrêt de la production du produit Cerfs-Volants.
+D’un point de vue quantitatif, l’entreprise devrait continuer à fabriquer les cerfs-volants si elle ne veut pas que son résultat global passe de 90 000 $ à 30 000 $ (soit une diminution de 60 000 $ dû à l’arrêt de la production du produit Cerfs-Volants). 
+Évidemment, les facteurs qualitatifs doivent toujours être considérés pour prendre une décision éclairée.
+Question b) 
+C’est la marge sur coûts spécifiques qui nous renseigne sur la rentabilité de ce produit. Il est important de noter que la fabrication des cerfs-volants génère des coûts spécifiques que l’entreprise parvient à couvrir. Toutefois, la perte de 10 000 $ est due à l’allocation des coûts fixes communs entre les différents produits. Si l’on supprimait l’activité Cerfs-Volants, ces coûts fixes communs de 210 000$ seraient répartis sur les autres produits, mais le total resterait identique.
+Prise de décision Fabriquer ou Acheter
+Johnson Motors a fabriqué 500 engrenages faisant partie de ses moteurs et a engagé les coûts totaux suivants : 
+Un fournisseur a offert d’approvisionner Johnson Motors en engrenages, au prix de 200 $ chacun. Les frais généraux de fabrication fixes incluent principalement l’amortissement des équipements servant à fabriquer les engrenages, et ne seraient pas réduits si les engrenages étaient achetés du fournisseur externe. Si les engrenages étaient achetés du fournisseur externe, Johnson pourrait utiliser cet équipement pour fabriquer un autre produit, qui pourrait générer une marge sur coûts variables totale estimée à 3 000 $.
+TRAVAIL À FAIRE :
+Selon vous, quelle décision devrait prendre l’entreprise quant à la sous-traitance possible des engrenages.
+À vous de trouver la démarche qui vous permettra de prendre la meilleure décision 
+SOLUTION : 
+Le résultat d’exploitation augmenterait de 2 000 $ si les engrenages étaient achetés du fournisseur externe.
+Bien que les coûts variables passeraient de 99 000 $ à 100 000 $, la marge sur coûts variables supplémentaires de 3 000 $ (générés avec la capacité utilisée pour fabriquer l’autre produit) ferait en sorte que d’un point de vue quantitatif, il pourrait être avantageux d’avoir recours au fournisseur externe (100 000 $ vs 102 000 $)
+NOTE : Il est à noter que dans ce cas, les frais généraux de fabrication fixes représentent des coûts non pertinents. Par conséquent, il n’est pas nécessaire de le considérer dans le calcul pour une analyse différentielle. Comme l’équipement sera utilisé pour un autre produit, ce coût n’est pas un coût spécifique et ne disparaîtra pas si les engrenages sont achetés du fournisseur externe. 
+Naturellement, les facteurs qualitatifs devront également être pris en compte dans la décision. Notamment, la qualité des engrenages offerts par le fournisseur externe, les délais de livraison, etc.
+TYPE DE COÛTS | MONTANT
+(par sortie)
+Essence | 525 $
+Main-d’œuvre directe | 825 $
+Autres frais variables | 100 $
+Amortissement – équipements | 475 $
+Frais d’administration fixes | 125 $
+Nombre d’unités | 30 000 unités
+Nombre d’heures de main-d’œuvre directe | 15 000 hmod
+Heures de main-d’œuvre directe par unité | 0,50 hmod
+Prix de vente unitaire | 50,00 $
+Coût variable unitaire | 40,50 $
+MCV unitaire | 9,50 $
+MCV par h/mod | 19,00 $
+MCV totale | 285 000 $
+FGF fixes spécifiques | 15 000 $
+Marge sur coûts spécifiques | 270 000 $
+Nombre d’unités | 30 000 unités | Volume de la commande spéciale. Cette information sera utilisée pour convertir un coût total en coût unitaire ou vice versa.
+Nombre d’heures de main-d’œuvre directe | 15 000 hmod | Non pertinent pour cet exercice car le coût DL est inclus dans le coût variable par unité.
+Heures de main-d’œuvre directe par unité | 0,50 hmod | Non pertinent
+Prix de vente unitaire | 50,00 $ | Non pertinent : car nous souhaitons calculer le prix de vente minimum
+Coût variable unitaire | 40,50 $ | Pertinent
+MCV unitaire | 9,50 $ | Non pertinent
+MCV par h/mod | 19,00 $ | Non pertinent
+MCV totale | 285 000 $ | Non pertinent
+FGF fixes spécifiques | 15 000 $ | Pertinent
+Marge sur coûts spécifiques | 270 000 $ | Non pertinent
+Coût variable unitaire de la commande spéciale​ | 40,50 $​
+(+) Coûts fixes spécifiques ​ | 15 000 $ / 30 000 unités = 0,50 $
+(+) Coût de renonciation si manque de capacité 
+(doit-on renoncer à des unités des ventes régulières?)​ | 45 000 $​ / 30 000 unités = 1,50 $
+
+(-) Coûts économisés * (économies d’échelle)​
+Coût de matières premières économisées sur les achats pour les commandes des clients réguliers.  | (75 000 $ / 30 000 unités) $​ = (2,50 $)
+Total des coûts de la commande spéciale​ = prix de vente minimum | 40,00 $ par unité
+Coût d’achat d’un kilogramme de saumon  | 14 $ / kg
+Minutes de MOD nécessaires pour préparer 1 kg de saumon | 15 minutes / kg
+Taux horaire de la MOD  | 20 $ / hmod
+Loyer (mensuel)  | 20 000 $
+Salaire d’Akio (mensuel)  | 15 000 $
+Autres frais fixes de transformation du saumon (annuel)  | 12 600 $ 
+Fournitures de bureau (mensuel)  | 500 $
+Frais de publicité (mensuel)  | 3 000 $
+Taux d’imputation des FGF variables (par minute de MOD)  | 0,25 $ / min-MOD
+Prix de vente unitaire d’un nigiri au saumon  | 2,00 $
+Autres coûts variables (boulettes de riz et salaires des employés) | 0,20 $
+​ | Alternative A​
+Fabriquer​ | Alternative B​
+Acheter​ | Analyse différentielle​
+Impact sur le résultat mensuel si achat des morceaux de saumon: ​
+Augmentation ou (diminution)​
+Matières premières​
+14 $ x 10 000 kg | 140 000 $​ | ​- | ​140 000 $
+Salaires des chefs
+0,25 h x 20 $ = 5,00 $ x 10 000 kg | 50 000 $ | ​- | ​50 000 $
+FGF variables​
+0,25 $ x 15 min = 3,75 $ x 10 000 kg | 37 500 $​ | ​- | ​37 500 $
+Achat du fournisseur | ​- | ​240 000 $ | ​(240 000 $)
+24 $ x 10 000 kg      | ​ | ​ | ​
+FGF fixes​ (mensuels)
+  Loyer 50 % x 20 000 $
+  Salaire Akio 20 % x 15 000 $
+  Autres frais fixes de transformation du saumon | 
+10 000 $
+3 000 $
+1 050 $
+ | ​
+10 000 $
+3 000 $
+0 $ | ​
+0 $
+0 $
+1 050 $
+Coût de renonciation | 10 020 $ | - | 10 020 $
+Coût total ​mensuel |  ​251 570 $ | ​253 000 $ | ​(1 430) $ par mois
+(17 160) par année
+ | Cerfs-volants | Manche à vent | Drapeaux | Total
+Unités vendues | 10 000 | 20 000 | 20 000 | 50 000
+Ventes | 220 000 $ | 400 000 $ | 230 000 $ | 850 000 $
+Coûts variables | 150 000 $ | 220 000 $ | 120 000 $ | 490 000 $
+Coûts fixes spécifiques | 10 000 $ | 30 000 $ | 20 000 $ | 60 000 $
+Coûts communs | 70 000 $ | 70 000 $ | 70 000 $ | 210 000 $
+Résultat d’exploitation | (10 000 $) | 80 000 $ | 20 000 $ | 90 000 $
+Ventes | (220 000)    Perte des ventes
+Coûts variables  | 150 000      Économie des coûts variables
+Marge sur coûts variables | (70 000) $   Perte de la marge sur coûts variables
+Coûts fixes spécifiques | 10 000        Économie des coûts fixes spécifiques
+Marge sur coûts spécifiques | (60 000) $   Perte de la marge sur coûts spécifiques
+Coûts communs | 0
+Résultat différentiel | (60 000) $
+ | Cerfs-volants | Manche à vent | Drapeaux | Total
+Unités vendues | --- | 20 000 | 20 000 | 40 000
+Ventes | --- | 400 000 $ | 230 000 $ | 630 000 $
+Coûts variables | --- | 220 000 $ | 120 000 $ | 340 000 $
+Coûts fixes spécifiques | --- | 30 000 $ | 20 000 $ | 50 000 $
+Coûts communs | --- | 105 000 $ | 105 000 $ | 210 000 $
+Résultat d’exploitation | --- | 45 000 $ | (15 000 $) | 30 000 $
+Matières premières | 50 000 $
+Main-d’œuvre directe | 19 000 $
+Frais généraux de fabrication variables | 30 000 $
+Frais généraux de fabrication fixes | 20 000 $
+ | 119 000 $
+ | Fabriquer | Acheter | 
+Différentiel  
+(Impact si achat)
+Matières premières | 50 000 $ | 0 $ |  50 000 $
+Main-d’œuvre directe | 19 000 $ | 0 $ |  19 000 $
+Frais généraux de fabrication variables | 30 000 $ | 0 $ | 30 000 $
+Prix d’achat | ______$ | 100 000 $ | (100 000 $)
+Sous- total (avant coût de renonciation et coûts fixes spécifiques) | 99 000 $ | 100 000 $ | 1 000 $
+Coût de renonciation | 3 000 $ | ______$ | 3 000 $
+Coût total avant coûts spécifiques | 102 000 $ | 100 000 $ | 2 000 $
+Frais généraux de fabrication fixes | 20 000 $ | 20 000 $ | 0 $
+Coût total | 122 000 $ | 120 000 $ | 2 000 $

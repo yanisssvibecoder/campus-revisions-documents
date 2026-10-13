@@ -1,0 +1,7 @@
+Chapitre 2 - Prévision de la demande
+Problème non résolu
+Boulangerie Matins Dorés, page 82
+Représentez graphiquement les ventes quotidiennes de beignes des quatre dernières semaines. 
+Les trois graphiques suivants sont acceptés :
+Commentez l’allure de la demande de beignes chez Matins Dorés.
+On remarque que d'une semaine à l'autre, les ventes sont relativement stables. Les ventes sont plus fortes en début de semaine et ralentissent vers la fin. Les ventes du samedi sont plus fortes puisqu'elles englobent les ventes du dimanche. 

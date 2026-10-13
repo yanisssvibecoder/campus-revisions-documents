@@ -1,0 +1,186 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Prévision de la demande
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle : Prévision
+
+## Diapositive 4
+
+Deux types de demande
+
+DEMANDE INDÉPENDANTE
+
+Produits finis vendus aux clients ou consommés à l’interne
+À prévoir pour planifier les opérations et gérer les stocks
+
+DEMANDE DÉPENDANTE
+
+Matières premières et composants entrant dans la fabrication de produits finis
+Calculée à partir de la demande des produits finis
+
+
+
+## Diapositive 5
+
+Les méthodes qualitatives les plus connues :
+Les enquêtes auprès des consommateurs;
+L’opinion des cadres ou les panels d'experts;
+La méthode Delphi;
+Les analogies historiques.
+Utilisation :
+Nouveaux produits;
+Données historiques non fiables;
+Pour valider un modèle quantitatif.
+
+
+
+Méthodes qualitatives 
+
+## Diapositive 6
+
+Les méthodes quantitatives sont basées sur des données historiques ou sur des associations entre des variables de l'environnement.
+
+Séries chronologiques :
+Ventes réalisées au cours des dernières années
+Méthodes causales :
+Indices boursiers et économiques
+Achats de produits complémentaires
+Etc.
+
+
+Méthodes quantitatives 
+
+## Diapositive 7
+
+Démarche de prévision
+
+Horizon considéré, précision requise, moyens disponibles, etc.
+
+Graphiques, statistiques, composantes de la demande, etc.
+
+## Diapositive 8
+
+Les composantes de la demande
+
+Composantes principales
+
+Autres facteurs influençant la demande
+
+Les conditions du marché (PESTEL)
+Les facteurs endogènes (décisions internes) :
+rabais
+promotions et publicité
+tarification variable
+lancement de nouveaux produits
+etc…
+
+## Diapositive 9
+
+Prévisions naïves
+Exemple : la demande de août 2026 a été de 3 000 unités alors la prévision de août 2027 sera de 3 000 unités.
+Moyennes mobiles (k périodes)  
+
+Moyennes mobiles pondérées
+
+Lissage exponentiel simple (α)
+
+
+
+
+Pt+1 = α Dt + (1 – α) Pt
+
+Séries chronologiques
+
+Pt+1 = Pt + α (Dt – Pt)  
+
+## Diapositive 10
+
+Moyenne mobile
+
+En utilisant une moyenne mobile de 3 mois (K = 3), calculons la prévision pour le mois suivant :
+
+## Diapositive 11
+
+Moyenne mobile
+
+En utilisant une moyenne mobile de 3 mois (K = 3), calculons la prévision pour le mois suivant :
+
+123
+
+
+
+Les ventes enregistrées au 
+mois d’avril sont de 123 unités
+
+## Diapositive 12
+
+Moyenne mobile
+
+On peut aussi faire une prévision pour le mois de mai en poursuivant le processus :
+
+124
+
+
+
+Les ventes enregistrées au 
+mois de mai sont de 124 unités
+
+## Diapositive 13
+
+Moyenne mobile
+
+On peut aussi faire une prévision pour le mois de juin en poursuivant encore le processus :
+
+127
+
+
+
+Les ventes enregistrées au 
+mois de juin sont de 127 unités
+
+Notes : On peut ici parler de petit k vs grand k
+
+## Diapositive 14
+
+Moyenne mobile pondérée
+
+En utilisant une moyenne mobile pondérée de 3 mois (K = 3), avec les pondérations 10 % - 30 % - 60 %, calculons la prévision pour les mois suivants :
+
+## Diapositive 15
+
+Lissage exponentiel
+
+En utilisant un lissage exponentiel avec un alpha = 0,3 calculons la prévision pour les mois suivants :
+
+## Diapositive 16
+
+Erreur individuelle : 
+
+Écart moyen :
+
+
+Écart quadratique moyen :
+
+(Est-ce que la méthode est précise?)
+
+(Est-ce que la méthode est biaisée?)
+
+Les mesures d’erreur
+
+## Diapositive 17
+
+Les mesures d’erreur – exemple simple 
+
+## Diapositive 18
+
+Questions…

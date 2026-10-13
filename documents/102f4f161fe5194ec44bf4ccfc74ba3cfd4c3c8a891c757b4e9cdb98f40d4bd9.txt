@@ -1,0 +1,721 @@
+## Diapositive 1
+
+1
+
+10200Finance
+
+
+
+
+
+
+
+© Mélanie Harris 2025
+
+Séance 1 
+
+Introduction à la finance d'entreprise
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+## Diapositive 2
+
+Les bases du cours
+
+2
+
+## Diapositive 3
+
+Ce cours peut être intellectuellement exigeant.
+
+3
+
+Source : Évaluation de l'enseignement, MH, H2022
+
+D'après les évaluations précédentes, environ 82 % des étudiants consacrent plus de 4 heures par semaine à ce cours.
+
+## Diapositive 4
+
+Comment réussir ce cours ? 
+
+4
+
+       Lire le manuel 
+Consultez la rubrique « Importance de chaque section du livre » sur Zonecours\ Matériel pédagogique
+📌 Regarder les capsules vidéos (clips)
+📌 Assister aux cours
+📌 Faites des exercices pratiques chaque semaine (Voir la diapositive 
+       suivante pour plus de details)
+📌 Visez la compréhension
+Ne vous contentez pas de mémoriser. Essayez de comprendre le « pourquoi » des formules.
+Demandez à l’auxiliaire. Les horaires seront disponibles sous Zonecours / Coordonnées.
+N'hésitez pas à m'envoyer un courriel si vous avez des questions, en précisant votre classe (10200)
+
+## Diapositive 5
+
+
+
+📌 Où trouver les exercices ?
+
+Dans le manuel – à la fin de chaque séance de cours, vous trouverez une liste d'exercices à résoudre.
+
+Dans les cahier d'exercices – Modules – Préparation aux examens
+Tutoriels – Modules – Travaux pratiques
+Exercices solutionnés – Modules – Séance de cours – Activités/Ressources après la séance
+
+
+
+
+
+
+
+
+
+C'est en forgeant qu'on devient forgeron ;-) 
+
+5
+
+## Diapositive 6
+
+Le meilleur de la finance X / ballados ? Pourquoi pas !
+
+6
+
+Pourquoi les podcasts ?
+✅ Restez informé : découvrez les dernières tendances financières.
+✅ Apprenez auprès d'experts : des professionnels du secteur partagent leurs      
+                                                                   connaissances du terrain.
+✅ Facile à consommer : écoutez pendant vos trajets ou lorsque vous vous détendez. 
+
+Podcasts recommandés :
+Les favoris canadiens :
+« The Wealthy Barber Podcast » (David Chilton)
+Des conseils simples et concrets sur les finances personnelles.
+« The Canadian Investor »
+Aperçu des tendances en matière d'investissement et des marchés au Canada.
+« Moolala : Money Made Simple » (Bruce Sellery)
+Conseils pratiques pour économiser de l'argent et stratégies budgétaires.
+
+
+
+## Diapositive 7
+
+Le meilleur de la finance X / ballados ? Pourquoi pas !
+
+7
+
+Ballados suggérés :
+Options en français :
+« Zone Économie » (Gérald Fillion)
+Couvre l'actualité économique canadienne et mondiale (Radio-Canada).
+« Finance 360 »
+L'investissement et la planification financière expliqués en français.
+
+Perles internationales :
+« Planet Money » (NPR)
+Histoires divertissantes sur le fonctionnement de l'argent.
+« How to Money »
+Conseils pratiques pour gérer ses finances personnelles.
+
+
+
+
+## Diapositive 8
+
+Le meilleur de la finance X / ballados ? Pourquoi pas !
+
+8
+
+Intermédiaire à avancé X et livres :
+Ray Dalio’s : (Livre : Principles) Leçons de l’un des plus grands investisseurs du monde.
+Nassim Taleb (Livre : Fooled by Randomness) : Comprendre le risque et l’incertitude.
+Morgan Housel (Livre : Psychology of money) : Perspectives sur la finance comportementale.
+Michael Mauboussin. Plusieurs livres dont The Success Equation: Untangling Skill and Luck in Business, Sports, and Investing.
+
+
+
+🔗 https://www.bloomberg.com/account/newsletters 
+
+Intermédiaire à avancé : John Authers & Matt Levine 
+« Money Stuff » de Matt Levine (Bloomberg) :
+« Points of Return » de John Authers (Bloomberg) :
+
+## Diapositive 9
+
+Aperçu du cours - Ce cours couvre les bases de la finance : de la valeur de l’argent dans le temps jusqu’aux décisions stratégiques d’investissement et de financement. 
+
+9
+
+Introduction à la finance 
+Poser les fondations : comprendre ce qu’est la finance et la valeur du temps.
+Introduction (cours 1),  Mathématiques financières (cours 1-2)
+
+📈 Investissements 
+     Apprendre à évaluer actions et obligations, et relier risque et rendement.
+    Obligations (cours 3), Actions (cours 4), Modèles risque/rendement (classe 5-6-7)
+
+💰 Finances personnelles 
+     Appliquer la finance au quotidien : épargne, retraite et planification.
+    Finances personnelles (classe 12)
+
+🏢 Finance d'entreprise 
+      Découvrir comment les entreprises prennent leurs grandes décisions financières.
+     Évaluation de projets (classe 8-9), CMPC (classe 10), Structure de capital (classe 11)
+
+
+
+
+## Diapositive 10
+
+Qu'avez-vous vu dans la séance 1 ?
+
+10
+
+Qu'est-ce que la finance ? Qu'est-ce que la finance d'entreprise ?
+Les types de décisions en matière de gestion financière
+L'objectif du directeur financier
+La relation d'agence dans la gestion financière
+Marchés des capitaux
+Différentes formes d'organisation des entreprises
+
+	Lectures : Chapitre 1 
+
+
+
+
+Natasha Munson est une auteure et conférencière motivatrice américaine, connue pour ses ouvrages et citations inspirantes sur la vie, les finances personnelles et le développement personnel.
+
+## Diapositive 11
+
+Qu'est-ce que la finance ?
+
+11
+
+Qu'est-ce que la finance ?
+Définition :La finance consiste à gérer l'argent : le gagner, l'économiser, le dépenser et l'investir judicieusement.
+
+Objectif
+Aider les particuliers et les entreprises à prendre de bonnes décisions financières.
+Garantir qu'il y ait suffisamment d'argent aujourd'hui et à l'avenir.
+
+Exemples
+Épargner pour acheter un nouveau téléphone.
+Décider d'acheter ou de louer une maison.
+
+
+
+
+
+https://corporatefinanceinstitute.com/resources/wealth-management/finance-industry-overview/ 
+
+## Diapositive 12
+
+Pourquoi la finance ? Quels sont les quatre principaux domaines de la finance ?
+
+12
+
+Les investissements
+En quoi cela consiste : décider où placer son argent pour le faire fructifier, par exemple en achetant des actions, des obligations ou d'autres actifs.
+Emplois : gestionnaire de portefeuille, analyste financier, courtier en valeurs mobilières, conseiller financier.
+Exemple : gérer un fonds commun de placement ou conseiller quelqu'un sur l'opportunité d'investir dans les actions Tesla.
+Profil recherché : personne analytique, à l’aise avec les chiffres et les modèles, curieuse des marchés, capable de gérer le stress et de prendre des décisions rapides. 
+
+Finance corporative
+Qu'est-ce que c'est ? Aider les entreprises à prendre des décisions financières, comme établir un budget, investir et financer des projets.
+Emplois : directeur financier, analyste financier, trésorier, analyste budgétaire.
+Exemple : une entreprise qui doit décider d'ouvrir une nouvelle succursale ou d'acheter de nouveaux équipements.
+Profil recherché : esprit stratégique, compétences en communication et en leadership, bonne compréhension des opérations de l’entreprise, rigueur dans la gestion de l’information financière.
+
+## Diapositive 13
+
+Pourquoi la finance ? Quels sont les quatre principaux domaines de la finance ?
+
+13
+
+Finance institutionnelle
+Qu'est-ce que c'est ? Gérer l'argent des banques, des compagnies d'assurance ou d'autres institutions.
+Emplois : gestionnaire de crédit, gestionnaire de compte, agent de crédit, analyste des risques.
+Exemple : une banque qui décide du montant à prêter à des petites entreprises.
+Profil recherché : sens des responsabilités, capacité à évaluer et gérer le risque, intérêt pour la réglementation financière, approche méthodique et orientée vers la sécurité des capitaux.
+
+Finance personnelle
+Qu'est-ce que c'est : aider les particuliers à gérer leur argent pour leur vie quotidienne et leurs objectifs futurs.
+Emplois : planificateur financier, banquier privé, conseiller fiscal, gestionnaire de patrimoine.
+Exemple : créer un plan de retraite ou aider quelqu'un à économiser pour acheter sa première maison.
+Profil recherché : empathie et écoute, pédagogie pour vulgariser des concepts complexes, fiabilité, orientation client et capacité à bâtir une relation de confiance.
+
+## Diapositive 14
+
+Finance durable © Marie-Hélène Allard, adapté par MH 2024
+
+Outre les quatre domaines de la finance présentés dans la diapositive précédente, il existe d'autres types de finance, notamment :
+La finance comportementale – traite de l'impact social et psychologique des décisions humaines sur les investissements. L'effet des êtres humains sur les décisions d'investissement comprend les biais, les erreurs de cognition, la logique, la peur et la cupidité. 
+Finance durable…. La finance n’est pas qu’une question de rendement !
+
+Qu'est-ce que la finance durable ?
+Définition : 
+La finance durable est une manière de gérer l'argent qui tient compte de l'impact à long terme sur la société et l'environnement. Elle intègre les principes environnementaux, sociaux et de gouvernance (ESG) dans la prise de décision financière.
+
+14
+
+## Diapositive 15
+
+Principes ESG
+
+15
+
+« Tesla améliore la diversité au sein de son conseil d'administration. »
+
+« Initiatives de Starbucks en matière de diversité et d'inclusion ».
+
+« L'engagement d'Apple en faveur d'une énergie 100 % renouvelable. »
+
+## Diapositive 16
+
+Différentes définitions
+
+16
+
+## Diapositive 17
+
+Source : Investissement socialement responsable : https://www.oecd.org/
+Traduction libre
+
+Une large gamme d'investissements responsables
+
+17
+
+## Diapositive 18
+
+Quelle est l'importance de la finance durable pour les entreprises et les investisseurs ?
+
+Vue d'ensemble : les 17 objectifs de développement durable des Nations unies
+Ces objectifs guident les efforts mondiaux en faveur du développement durable et couvrent des domaines tels que l'action pour le climat, les énergies propres et la réduction des inégalités.https://www.un.org/en/exhibits/page/sdgs-17-goals-transform-world  
+
+Investissement responsable :
+Site web :  À propos des PRI | Page web des PRI | PRI (unpri.org)
+Les PRI sont une initiative mondiale de premier plan en matière d'investissement responsable.
+Les entreprises qui signent le Pacte pour l'investissement responsable exigeront des sociétés qu'elles financent qu'elles respectent les principes ESG. 
+Exemples : CDPQhttps://www.cdpq.com/en/news/pressreleases/caisse-introduces-updated-policy-responsible-investment?utm_source=chatgpt.com 
+
+
+18
+
+💡 La transition climatique représente une opportunité d'investissement historique.  — Larry Fink
+
+## Diapositive 19
+
+Croissance du nombre de signataires du pacte pour l'investissement responsable
+
+Source : https://www.unpri.org/about-us/about-the-pri
+
+19
+
+Selon vous, comment cette croissance affecte-t-elle les marchés financiers mondiaux et le comportement des entreprises ? 
+
+## Diapositive 20
+
+Les limites de la finance durable
+
+20
+
+➡️ Larry Fink : Président-directeur général de BlackRock, le plus grand gestionnaire d’actifs au monde, souvent décrit comme l’une des voix les plus influentes de la finance mondiale.
+
+## Diapositive 21
+
+Cher PDG,
+[En janvier dernier, j'ai écrit que le risque climatique constituait un risque pour les investissements. J'ai alors déclaré que lorsque les marchés commenceraient à intégrer le risque climatique dans la valeur des titres, cela déclencherait une réallocation fondamentale des capitaux. Puis la pandémie s'est installée et, en mars, l'opinion générale était que la crise détournerait l'attention du climat. Mais c'est exactement le contraire qui s'est produit, et la réallocation des capitaux s'est accélérée encore plus vite que je ne l'avais prévu. [...] 
+
+Nous savons que le risque climatique est un risque d'investissement. Mais nous pensons également que la transition climatique représente une opportunité d'investissement historique. [...]
+
+Aucune entreprise ne sera épargnée par la transition vers une économie neutre en carbone, c'est-à-dire une économie qui, d'ici 2050, n'émettra pas plus de dioxyde de carbone qu'elle n'en absorbe dans l'atmosphère, seuil scientifiquement établi pour maintenir le réchauffement climatique bien en dessous de 2 °C. À mesure que la transition s'accélère, les entreprises qui disposent d'une stratégie à long terme bien articulée et d'un plan clair pour passer à une économie à zéro émission nette se démarqueront auprès de leurs parties prenantes (clients, décideurs politiques, employés et actionnaires) en inspirant confiance dans leur capacité à faire face à cette transformation mondiale [...].
+
+Lettre de Larry Fink aux chefs d'entreprise en 2021
+
+21
+
+## Diapositive 22
+
+Larry Fink, en 2023
+
+22
+
+26 juin (Reuters) – Larry Fink, patron de BlackRock (BLK.N), à l’avant-garde de l’adoption par le monde des affaires des normes environnementales, sociales et de gouvernance d’entreprise (ESG), a cessé d’utiliser ce terme, affirmant qu’il était devenu trop politisé.
+
+Mais le plus grand gestionnaire d’actifs au monde n’a pas changé sa position sur les enjeux ESG, a déclaré Fink au Aspen Ideas Festival dimanche.
+
+L’ESG, un terme générique qui englobe un éventail de pratiques commerciales éthiquement responsables – allant de la réduction des émissions de carbone à la lutte contre la discrimination sur le lieu de travail – est devenu politiquement polarisant dans certaines régions du monde occidental, en particulier aux États-Unis.
+
+## Diapositive 23
+
+Quelques liens intéressants :
+
+Finance durable (vidéo)
+
+Finance durable (vidéo, en FR)
+
+Finance Montréal et la finance durable : Finance durable | Finance Montréal (finance-montreal.com)
+
+Facteurs ESG : Que sont les facteurs ESG ? | BDC.ca
+
+
+
+23
+
+## Diapositive 24
+
+
+Chronique financière : 
+ESG!
+
+
+24
+
+Non évalué à l’examen
+
+## Diapositive 25
+
+
+
+Trois objectifs équivalents de la gestion financière (ou du gestionnaire financier) :
+Maximiser la richesse des actionnaires
+Maximiser le cours de l'action
+Maximiser la valeur de l'entreprise
+
+🔎 Cela signifie-t-il que nous devons tout faire pour maximiser la richesse 
+       des propriétaires ? Non !
+
+🔎 La rémunération des dirigeants et l'indépendance du conseil  
+      d'administration sont d'excellents moyens de réduire les coûts liés aux 
+      problèmes d'agence. Voir lectures dans le manuel.
+
+Objectifs de la gestion financière
+
+25
+
+## Diapositive 26
+
+Qu'avons-nous vu dans la séance 2 ?
+
+Clip 1 : Définitions de base et évaluation d'un flux monétaire unique
+Clip 2 : Annuité
+Clip 3 : Perpetuité et rente croissante
+Clip 4 : Cotation des taux d'intérêt
+
+
+       Lecture manuel : chapitres 5 et 6
+
+26
+
+Célèbre investisseur surnommé « l’oracle d’Omaha », reconnu pour sa stratégie à long terme et sa simplicité dans la gestion financière.
+
+## Diapositive 27
+
+Séance 2 CLIP 1 : Définitions de base et évaluation d'un flux monétaire unique
+
+27
+
+Le concept de valeur
+Définitions de base
+Intérêt simple et intérêt composé
+Évaluation à flux de trésorerie unique
+
+
+## Diapositive 28
+
+Le concept de valeur
+
+28
+
+La valeur temporelle de l'argent... Le principe de l'intérêt ! 
+Si quelqu'un vous demande : « Que préférez-vous : 1 000 $ maintenant ou            1 000 $ dans deux ans ? ».
+
+
+
+
+Les 3 composantes du taux d'intérêt :
+Prime de temps : compensation pour l'attente
+Prime d'inflation : compensation pour la montée dans les prix
+Prime de risque : incertitude, variabilité du rendement
+
+👉 Un dollar gagné aujourd'hui vaut plus qu'un dollar gagné demain !
+
+## Diapositive 29
+
+Qu'est-ce que le risque ?
+
+29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 30
+
+Exemple : préférence pour 1 000 $ maintenant ou 1 000 $ plus tard ?
+
+30
+
+Dans l'exemple précédent, il est clair que nous choisirions tous 1 000 $ aujourd'hui.
+
+MAIS
+
+Que se passe-t-il si le choix est entre 1 000 $ aujourd'hui et  1 500 $ dans deux ans ?
+Le choix est moins évident…..
+Il faut les comparer au même moment !
+
+
+
+
+
+
+## Diapositive 31
+
+
+
+Le concept de valeur
+
+31
+
+Pour choisir, nous avons besoin des mathématiques financières !
+Des formules qui nous permettent de transférer des montants d'argent entre différentes périodes
+
+
+POURQUOI ??
+Deux montants ne peuvent être additionnés, soustraits ou comparés que s'ils se rapportent au même moment.
+
+
+
+
+
+## Diapositive 32
+
+Principes fondamentaux
+
+32
+
+COMMENT ?? 
+
+Avec deux opérations :
+
+Capitalisation : faire fructifier son argent – avancer dans le temps !
+
+Actualisation : réduire la valeur de l'argent - remonter dans le temps !
+
+
+
+
+
+## Diapositive 33
+
+Comment dessiner et lire une ligne du temps ?
+
+33
+
+## Diapositive 34
+
+Principes fondamentaux : Les intérêts
+
+Intérêt simple : 
+Gagnez des intérêts chaque période sur le capital uniquement
+
+Intérêt composé : 
+Gagnez des intérêts chaque période sur le capital et les intérêts réinvestis
+
+Vous investissez aujourd'hui 100 $ dans un compte d'épargne qui rapporte 10 % d'intérêt par an.
+
+Quelle sera la valeur future de ce compte dans deux ans ?
+Intérêt simple
+Intérêt composé
+
+
+
+
+
+Dans notre cours, nous nous concentrons exclusivement sur les intérêts composés.
+
+## Diapositive 35
+
+Le pouvoir de la capitalisation
+
+35
+
+🔴 Voir fichier     
+       Excel sur ZC
+
+## Diapositive 36
+
+Évaluation flux monétaire unique
+
+36
+
+Valeur future et valeur actuelle : formules générales
+
+VF = VA (1 + r)t 			
+VF = valeur future
+PV = valeur actuelle
+r = taux d'intérêt périodique, exprimé sous forme décimale
+T = nombre de périodes
+
+VA = VF (1 + r)-t = VF / (1 + r)t
+
+
+
+Capitalisation L'argent fructifie !
+
+Actualisation L'argent rapetisse !
+
+
+
+
+
+## Diapositive 37
+
+
+
+
+
+
+
+
+
+Calculatrice financière – (1/2)
+
+37
+
+Avant de commencer à résoudre un problème...
+
+⚠️ Tracez une ligne du temps  
+
+Identifiez et indiquez les variables clés 
+
+Utilisez une calculatrice financière pour résoudre les problèmes
+
+🔗 https://www.youtube.com/watch?v=tqBKXTNzbgA ou sur ZC
+
+
+BAII+ :     Format (2nd  . )       4        ENTER
+
+
+
+Toujours utiliser quatre décimales pour les taux d'intérêt :
+
+## Diapositive 38
+
+
+
+
+
+Calculatrice financière – (2/2)
+
+38
+
+Texas Instruments BA-II Plus
+
+Effacez les registres (CLR TVM) avant chaque problème :   2ND    FV
+FV = valeur future
+PV = valeur actuelle
+I/Y = taux d'intérêt périodique  r
+L'intérêt est saisi en pourcentage, et non en décimal
+N = nombre de périodes
+Les autres calculatrices ont un format similaire
+
+IMPORTANT – Convention sur les signes : le calculateur considère les entrées de trésorerie comme des nombres positifs et les sorties de trésorerie comme des nombres négatifs.  Veillez à bien respecter cette convention, sinon vous obtiendrez une erreur lorsque vous calculerez r ou t 
+
+
+            ASTUCE pour la convention sur les signes : toujours mettre PV en négatif. La réponse obtenue peut 
+           être négative, mais ce n'est pas grave. Il suffit d'ignorer le signe négatif lorsque vous écrivez la réponse.
+
+## Diapositive 39
+
+Exemple 1 
+
+39
+
+Vous pensez pouvoir vendre une œuvre d'art dans 5 ans au prix de 3 200 $. 
+
+Votre taux de rendement annuel requis est de 6 %.
+
+Questions:
+Quelle est la valeur actuelle de cette œuvre d'art ?
+En supposant que vous puissiez l'acheter aujourd'hui pour 2 000 $, est-ce une bonne idée de l'acheter ?
+Si vous l'achetez aujourd'hui pour 2 000 $, quel sera le rendement annuel de votre investissement si vous le vendez pour 3 200 $ dans 5 ans ? 
+
+
+
+## Diapositive 40
+
+Exemple 2
+
+40
+
+Vous souhaitez acheter une nouvelle voiture dans exactement 4 ans. 
+Cette voiture vous coûtera 35 000 $. 
+
+Question:
+Combien d'argent devez-vous mettre sur votre compte bancaire aujourd'hui pour pouvoir acheter la voiture souhaitée dans 4 ans ? 
+
+Il convient de noter que votre compte bancaire vous rapporte un taux de 4 % par an. 
+
+## Diapositive 41
+
+Exemple 3
+
+41
+
+À un taux d'intérêt de 10 %, combien de temps faut-il pour qu'une certaine somme d'argent double de valeur ?
+
+
+
+
+Quel taux d'intérêt faut-il pour doubler la valeur d'une somme donnée en 10 ans ?
+
+## Diapositive 42
+
+Exemple 4
+
+42
+
+
+Un tableau de Picasso, intitulé Nu à la planche du sculpteur, a été vendu pour 106,5 millions de dollars en 2010, un record absolu à l'époque (record battu en novembre 2017), par la célèbre maison de vente aux enchères Christie's.
+
+En 1950, ce même tableau avait été vendu pour seulement 17 000 dollars.
+
+Question:
+En supposant que la personne qui l'a acheté en 1950 soit la même que celle qui l'a vendu en 2010, quel rendement annuel a-t-elle obtenu pour cet investissement ?
+
+
+## Diapositive 43
+
+
+
+Points clés à retenir 🎯
+
+43
+
+Capitalisation :
+« Valeur future (VF) : augmentation de la valeur actuelle d'une somme d'argent dans le futur.»
+
+Actualisation :
+« Valeur actuelle (VA) : valeur actuelle de l'argent futur. »
+
+👉 Un dollar gagné aujourd'hui vaut plus qu'un dollar gagné demain, car vous pouvez l'investir et gagner de l'argent.
+
+👉 Un dollar certain vaut plus qu'un dollar incertain.
+
+	Faire les lectures et vidéos pour la séance 2. Ayez votre calculatrice financière pour la séance 2! 
+
+

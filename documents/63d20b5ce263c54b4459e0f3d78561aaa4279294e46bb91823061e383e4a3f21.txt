@@ -1,0 +1,52 @@
+Une petite entreprise, L’Étoile ltée, fabrique un seul produit. 
+Elle produit et vend 15 000 unités par mois.
+Voici son état des résultats mensuel, présenté selon la méthode des coûts variables :
+La direction étudie un projet visant à robotiser un atelier. La mise en place de ce nouvel équipement porterait les coûts fixes à 675 000 $ par mois. Par ailleurs, l'acquisition de cette machinerie permettrait de réduire de 50 % le coût variable unitaire, le ramenant à 15 $ l'unité.
+TRAVAIL PRATIQUE :
+Quel effet ce projet a-t-il sur le point mort ?
+Quel est le seuil d’indifférence ?
+Quel effet ce projet a-t-il sur la marge de sécurité de l’entreprise lorsque 15 000 unités sont produites et vendues par mois ?
+Exercice - Énoncé et Solution X(GC).X (suite)
+SOLUTION
+Le projet d’automatisation entraînera une modification de la structure des coûts de l’entreprise. L’augmentation des coûts fixes, attribuable principalement à l’amortissement des nouveaux équipements, devrait être compensée par une réduction des coûts variables découlant d’une meilleure efficacité des processus. 
+Dans ce contexte, le volume d'activité (15 000 unités produites et vendues) est une donnée importante pour l'analyse et la prise de décision.
+Effet sur le point mort
+Réponse : L’entreprise devrait vendre 1 023 unités additionnelles pour atteindre son seuil de rentabilité et commencer à générer un bénéfice d’exploitation.
+Seuil d’indifférence
+On cherche le volume auquel les deux structures procurent le même résultat d’exploitation.
+40X − 450 000 = 55X − 675 000
+225 000 = 15X
+X = 15 000 unités
+L’entreprise produit et vend 15 000 unités par mois. Le projet n’a pas d’impact sur le résultat d’exploitation. D’un point de vue quantitatif elle n’a pas davantage à investir. 
+Si la demande prévue dépasse 15 000 unités, l’investissement dans l’automatisation deviendra plus avantageux, puisqu’il permettra de générer une marge sur coûts variables de 55 $ par unité, comparativement à 40 $ dans la situation actuelle.
+Effet sur la marge de sécurité
+La marge de sécurité reculerait de 1 023 unités, soit exactement la hausse du point mort. 
+Plus la marge de sécurité (%) est élevée, moins le projet est risqué. À l’inverse, une faible marge de sécurité expose l’entreprise à un risque plus important de ne pas couvrir ses coûts fixes. 
+Ventes (15 000 unités × 70 $) | 1 050 000 $
+Coûts variables (15 000 unités × 30 $) | (450 000)
+Marge sur coûts variables | 600 000
+Coûts fixes | (450 000)
+Résultat d’exploitation | 150 000 $
+ | Statu quo | Avec la robotisation
+Prix de vente unitaire | 70 $ | 70 $
+Coût variable unitaire | 30 $ | 15 $
+MCV unitaire | 40 $ | 55 $
+Coûts fixes mensuels | 450 000 $ | 675 000 $
+ | Statu quo | Avec la robotisation
+Point mort = 
+Coûts fixes ÷ MCV unitaire
+ | 450 000 $ ÷ 40 $ = 11 250 unités
+ | 675 000 $ ÷ 55 $ = 12 273 unités
+ | Statu quo | Avec la robotisation
+Prix de vente unitaire | 70 $ x 15 000 u. =  1 050 000 $ | 70 $ x 15 000 u. =  1 050 000 $
+Coût variable unitaire | 30 $ x 15 000 u. = 
+450 000 $ | 15 $ x 15 000 u. =
+225 000 $
+MCV unitaire | 40 $ x 15 000 u. = 600 000 $ | 55$ x 15 000 u. =
+825 000 $
+Coûts fixes mensuels | 450 000 $ | 675 000 $
+Résultat d’exploitation | 150 000 $ | 150 000 $
+ | Statu quo | Avec la robotisation
+Point mort | 11 250 unités | 12 273 unités
+Marge de sécurité (unités) | 3 750 unités | 2 727 unités
+Marge de sécurité (%) | 25 % | 18,2 %

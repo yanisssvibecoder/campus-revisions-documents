@@ -1,0 +1,82 @@
+Cercle Délices inc. exploite une petite boulangerie dans le Mile End, à Montréal. L'entreprise vend un seul produit : le sac de six bagels au sésame, cuits au four à bois. Elle loue son local et son four à l'heure auprès d'une coopérative alimentaire du quartier.
+Les ventes prévues pour le prochain exercice s'élèvent à 500 000 $, au prix de 5 $ le sac. Voici les coûts prévus pour la même période :
+TRAVAIL PRATIQUE : 
+Pour chacun des coûts ci-dessus, indiquez :
+(i)  s'il s'agit d'un coût variable, fixe ou mixte ;
+(ii) s'il s'agit de matières premières (MP), de main-d'œuvre directe (MOD), de frais généraux de fabrication (FGF) ou de frais de vente et d'administration (FVA).
+Calculez le volume de vente prévu (en unités) pour atteindre des ventes en dollars de 500 000 $.
+À l'aide de vos réponses aux questions 1 et 2, complétez le tableau des prévisions.
+N.B : Votre tableau doit donner un résultat d'exploitation prévu de 75 000 $. Si ce n'est pas le cas, revoyez vos calculs avant de passer à la question 4.
+Déterminez laquelle des situations suivantes augmenterait davantage le résultat d'exploitation prévu. Chiffrez l'impact de chacune, puis classez-les de la plus avantageuse à la moins avantageuse.
+a)   Le prix de vente augmente de 0,50 $ - le volume n’est pas affecté
+b)   L'ensemble des frais variables unitaires diminue de 10 % - (le volume d’activité se situe à l’intérieur du segment significatif)
+c)   Le volume de vente augmente de 10 000 sacs
+d)   Les frais fixes diminuent de 5 000 $ (le volume d’activité se situe à l’intérieur du segment significatif)
+SOLUTION
+Classification
+Volume (en unités)
+500 000 $ / 5 $ = 100 000 sacs
+ Tableau des prévisions
+Les quatre mises en situations (impact sur le résultat d’exploitation)
+Le prix de vente augmente de 0,50 $
+Les frais variables unitaires diminuent de 10 %
+Le volume augmente de 10 000 unités
+Les frais fixes diminuent de 5 000 $
+Réponse : la mise en situation a) permet la plus grande augmentation du résultat d’exploitation.
+Coût prévu | Montant
+Farine biologique, sésame, miel, levure et sel | 1,75 $ par sac
+Sacs de papier kraft et étiquettes | 0,25 $ par sac
+Salaires des rouleurs de bagels 
+(payés selon la production) | 0,90 $ par sac
+Location du four et du local à la coopérative | 24 500 $ par année
+Électricité | 7 500 $ par année (éclairage et chauffage), plus 0,225 $ par sac (force motrice du pétrin et du four)
+Salaire du superviseur de production 
+(poste à temps partiel) | 12 000 $ par année
+Commissions versées aux vendeurs | 0,50 $ par sac
+Frais de livraison aux détaillants | 0,125 $ par sac
+Honoraires du comptable et publicité | 6 000 $ par année
+ | Total | Unitaire
+Ventes | 500 000 $ | 5,00 $
+Frais variables de fabrication (MP, MOD, FGF variables) |  | 
+Frais variables de vente (commission vendeurs) |  | 
+Total des frais variables |  | 
+Frais fixes totaux (FGF fixes + FVA fixes) |  | 
+Total des coûts fixes et variables |  | 
+Résultat d'exploitation |  | 
+Coûts | Variabilité | Catégorie | Explications
+Farine, sésame, miel, levure, sel | Variable | MP | 
+Sacs de papier kraft et étiquettes | Variable | MP | L'emballage fait partie intégrante du produit vendu et est considéré comme de la matière première
+Salaires des rouleurs | Variable | MOD | La main-d'œuvre directe, c'est-à-dire les employés qui transforment la matière première en produit fini, est généralement considérée comme un coût variable, puisqu'elle varie en fonction du niveau de production (= d’unité vendues).
+Location du four et du local | Fixe | FGF | 
+Électricité | Mixte | FGF | 7 500 $ fixes (éclairage, chauffage) + 0,225 $/sac variables (force motrice)
+Salaire du superviseur | Fixe | FGF | Le salaire du superviseur est un coût de main d’œuvre indirecte. On le classe donc dans les frais généraux de fabrication puisqu’il supervise la MOD. 
+Commissions aux vendeurs | Variable | FVA | 
+Frais de livraison | Variable | FVA | Coût lié à la vente d’un produit. 
+Honoraires du comptable et publicité | Fixe | FVA | 
+ | Total | Unitaire
+Ventes | 500 000 $ | 5,000 $
+Frais variables de fabrication (MP, MOD, FGF)
+1,75 + 0,25 + 0,90 + 0,225 = 3,125 $ x 100 000 u. | 312 500 | 3,125
+Frais variables de vente  | 62 500 | 0,625
+Total des frais variables | 375 000 | 3,750
+Frais fixes totaux (FGF + FVA)
+24 500 + 7 500 + 12 000 + 6 000 | 50 000 | 0,500
+Total des charges | 425 000 | 
+Résultat d'exploitation | 75 000 $ | 
+Ventes | 0,50 x 100 000 = 50 000 $ + 500 000           550 000 $ | Augmentation de 50 000 $
+Coûts variables  |         375 000 $ | Aucun changement
+Coûts fixes | 50 000 $ | Aucun changement
+Résultat d’exploitation | 125 000 $ | Augmentation de 50 000 $
+Ventes | 500 000 $ | Aucun changement
+Coûts variables  | 375 000 $ - 37 500 $ = 337 500 $
+3,75 × 10% = 0,375 $/sac. X 100 000 unités = 37 500 $ | Diminution de 37 500 $
+Coûts fixes | 50 000 $ | Aucun changement
+Résultat d’exploitation | 112 500 $ | Augmentation de 37 500 $
+Ventes | 5,00$ x 110 000                       550 000 $ | Augmentation de 50 000 $
+Coûts variables  | 3,75$ x 110 000                        412 500 $ | Augmentation de 37 500 $
+Coûts fixes | 50 000 $ | Aucun changement
+Résultat d’exploitation | 87 500 $ | Augmentation de 12 500 $
+Ventes |                                              500 000 $ | Aucun changement
+Coûts variables  |                                     375 000 $ | Aucun changement
+Coûts fixes | 50 000 – 5 000                       45 000 $ | Diminution de 5 000 $
+Résultat d’exploitation | 80 000 $ | Augmentation de 5 000 $

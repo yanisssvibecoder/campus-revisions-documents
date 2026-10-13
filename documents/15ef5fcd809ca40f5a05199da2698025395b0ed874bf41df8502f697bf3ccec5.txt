@@ -1,0 +1,506 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+L’organisation du travail
+
+© 2024 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+TN = TOM  FA/100
+
+TS = TN  (1 + Maj)
+Maj : majorations exprimées en %
+
+
+Temps observés moyens (TOM)
+
+Facteur d’allure (FA)
+
+Temps  normalisé (TN)  
+	    (ou temps de base)
+
+Majorations (Maj)
+
+Temps standard (TS)
+
+
+
+
+
+
+
+
+
+3. Chronométrage : Calcul des TN et TS
+
+## Diapositive 5
+
+De la mesure du travail au calcul de capacité 
+
+## Diapositive 6
+
+Temps de cycle
+
+    Temps de cycle   =        Temps standard                                   
+
+
+
+Nombre de postes travaillant en parallèle
+
+
+
+Temps qui s’écoule entre la fin de la fabrication de deux unités consécutives. 
+
+## Diapositive 7
+
+Nombre d’unités qui peuvent être produites par heure. La cadence est la réciproque du temps de cycle.
+
+  
+
+
+
+
+
+
+Exemple :
+Temps de cycle = 15 minutes
+Cadence  = 4 unités/heure
+
+
+
+
+
+
+
+Cadence d’un poste de travail
+
+## Diapositive 8
+
+Processus séquentiel vs en parallèle
+
+Processus séquentiel
+Processus dans lequel le travail est divisé et où chaque employé réalise seulement une partie du processus.   
+
+
+
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+Processus en parallèle
+Processus dans lequel chacun des employés réalise l’ensemble des tâches indépendamment les uns des autres.
+  
+
+
+
+
+
+
+## Diapositive 9
+
+Goulot d’étranglement
+
+## Diapositive 10
+
+Agir sur le goulot d’étranglement
+
+## Diapositive 11
+
+Agir sur le goulot d’étranglement
+
+## Diapositive 12
+
+Agir sur le goulot d’étranglement
+
+1
+
+2
+
+3
+
+4
+
+5
+
+
+
+
+
+
+
+
+
+
+
+Où est le goulot ?
+
+## Diapositive 13
+
+Cadence d’un processus
+
+Nombre d’unités produites durant une période de base (ex. 1 heure) par le processus.
+Comment calculer la cadence d’un processus?
+Processus séquentiel : La cadence du processus est égale à la cadence du goulot d’étranglement.
+
+Processus parallèle : La cadence du processus est égale à la somme des cadences de chaque poste de travail du processus.
+Méthodologie de calcul :
+Somme des temps standards de chaque poste de travail;
+Cadence unitaire = 60 min. / somme des temps standards;
+Cadence total = Nb. d’employés X Cadence unitaire.
+
+## Diapositive 14
+
+ExempleCadence d’un processus
+
+Un processus est compose de 5 étapes avec les temps standard suivants :
+17 min
+18 min
+15 min
+16 min
+17 min
+Calculez la cadence :
+d’un processus séquentiel où chaque employé est assigné à une seule tâche.
+d’un processus parallèle  où chaque employé réalise l’ensemble des tâches.
+
+RÉPONSE
+
+Processus séquentiel
+
+
+
+
+Processus parallèle
+
+## Diapositive 15
+
+Taux d’utilisation d’un poste de travail (avec ajustement au goulot)
+
+Processus séquentiel :
+
+
+Taux d’utilisation d’un poste
+
+=
+
+Cadence de l’étape goulot
+
+Cadence de cette étape
+
+
+
+
+
+Taux d’utilisation d’un poste
+
+=
+
+Temps de cycle de l’étape
+
+Temps de  cycle de l’étape goulot
+
+
+
+
+
+## Diapositive 16
+
+Taux d’utilisation (avec ou sans ajustement)
+
+## Diapositive 17
+
+Exemple d’un processus parallèle
+
+ExerciceTaux d’utilisation (avec ou sans ajustement)
+
+1
+
+2
+
+3
+
+4
+
+5
+
+15
+
+10
+
+9
+
+9
+
+10
+
+Taux d’utilisation sans ajustement au goulot :
+
+
+
+
+
+
+
+
+
+
+
+Taux d’utilisation avec ajustement au goulot :
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 18
+
+A
+
+D
+
+ T.S.                          T.S.                     T.S.                      T.S.
+2 min                        9 min                  5 min                   1 min
+
+Exemple d’un processus séquentiel
+
+ExerciceProcessus séquentiel
+
+* Taux d’utilisation avec ajustement au goulot
+
+## Diapositive 19
+
+A
+
+B
+
+C
+
+D
+
+
+
+A
+
+B
+
+C
+
+D
+
+
+
+A
+
+B
+
+C
+
+D
+
+
+
+A
+
+B
+
+C
+
+D
+
+
+
+A
+
+B
+
+C
+
+D
+
+
+
+A
+
+B
+
+C
+
+D
+
+
+
+Exemple d’un processus parallèle
+
+ExerciceQuelle est la cadence en parallèle?
+
+## Diapositive 20
+
+Taux d’utilisation d’un employé
+
+Dans le cas d’un employé qui effectue une tâche pendant laquelle il y a du temps machine, c’est la proportion du temps travaillé par l’employé par rapport au temps standard total de la tâche.
+	
+
+	       (Temps standard total – Temps machine)
+			Temps standard total
+
+
+
+
+
+## Diapositive 21
+
+Liste des			Temps observés	
+opérations 	  	 	moyen (en min)		FA	TN	TS
+
+1. Préparation des matières 		  8			100	8	9,2
+2. Coupage				  3			105	3,15	3,62
+3. Perçage 				  1			95	0,95	1,09
+4. Sablage et nettoyage		  5			90	4,5	5,18
+5. Peinture/ pattes 			  4			100	4	4,6
+6. Vernis/ siège 			  3			85	2,55	2,93
+7. Séchage automatisé			  7			100	7	8,05
+8. Assemblage				  6			100	6	6,9
+9. Finition/inspection			  2			100	2	2,3
+10. Emballage				  5			95	4,75	5,46
+
+Maj = 15 %
+
+Exemple
+
+Total     49,33
+
+ExerciceQuel sera le taux d’utilisation de l’employé?
+
+## Diapositive 22
+
+Amélioration des processus
+
+Un goulot d'étranglement, ça se déplace...
+
+Il n'est pas nécessairement avantageux de pousser les étapes non - goulot à produire à pleine capacité.
+
+Pour améliorer l'utilisation des ressources, on cherchera à équilibrer les capacités des différentes étapes, bien qu'il soit très difficile d'y parvenir entièrement.
+
+## Diapositive 23
+
+Exemple d’un processus séquentiel
+
+ExerciceAugmenter la cadence?
+
+Notes : Dans le cas où on ne peut embaucher, ajouter des ressources ou transformer le processus en parallèle, que pourrais-t-on faire pour augmenter la cadence du processus?
+
+Voir diapositive suivante
+
+
+## Diapositive 24
+
+A
+
+D
+
+ T.S.                          T.S.                     T.S.                      T.S.
+2 min                        9 min                  5 min                   1 min
+
+La cadence de la chaîne sera limitée par l’étape 2 = 23 unités / hr
+
+
+
+0,5 ressource
+
+SolutionÉquilibrage
+
+
+
+* Taux d’utilisation avec ajustement au goulot
+
+## Diapositive 25
+
+Amélioration des processus
+
+Autres pistes d’amélioration :
+Élimination du gaspillage
+Diminution des temps standards
+Réduction des temps de mise en route (SMED)
+
+Majo statt Senf and licensed under the Creative Commons Attribution-Share Alike 4.0 International license
+
+## Diapositive 26
+
+La mise en conserve des tomates
+Page 388
+Fichier Excel disponible sur ZoneCours
+
+Exercice en classe
+
+ExerciceOrganisation du travail
+
+## Diapositive 27
+
+Questions…

@@ -1,0 +1,478 @@
+## Diapositive 1
+
+Mobiliser lestechnologies numériques	
+
+TECH 10701
+
+Développé parMarie-Claude Trudel
+
+Notes : Photo Martin LESAGE
+
+## Diapositive 2
+
+## Diapositive 3
+
+La matière première des systèmes d’information : des données 
+
+Séance 3
+
+## Diapositive 4
+
+Identifier les données nécessaires à un processus d'affaires à partir d'artefacts existants
+Appliquer les trois premières formes normales à un jeu de données pour éliminer les redondances et les dépendances incorrectes
+Construire un DSBD à partir d'entités normalisées en respectant l'intégrité référentielle
+
+
+## Diapositive 5
+
+Retours
+
+Assimilation		
+
+Application
+
+Synthèse
+
+Plan de la séance
+
+## Diapositive 6
+
+
+
+Retour sur la séance 2
+
+## Diapositive 7
+
+Jeu Jeopardy sur les notions BPMN
+
+Un outil ludique pour valider la compréhension de BPMN
+Basé sur un jeu télévisé, on inverse la logique des questions traditionnelles
+Le participant voit la solution et doit répondre par une question
+Ex.: Il jappe  =  Qu’est-ce qu’un chien ?
+Si vous hésitez sur une des cases, vous savez que vous devez réviser ces notions
+N’oubliez pas, la modélisation BPMN sera évaluée dans le TP1 et à l’examen Intra
+
+## Diapositive 8
+
+Récapitulatif de la séance 2
+
+Qu’est-ce qu’un processus d’affaires?
+Quels sont les trois types de valeur que peuvent prendre une activité/tâche dans un processus d’affaires?
+
+
+
+## Diapositive 9
+
+Amélie est prête. Presque.
+
+Ce qu’elle a…
+
+Le processus de Marcel modélisé en BPMN ✓ 
+Les activités sans valeur ajoutée identifiées ✓ 
+La liste des besoins rédigée ✓ 
+Un compte Airtable gratuit ✓
+
+
+Comment organiser les données de Marcel pour qu'elles soient utiles, fiables et interrogeables?
+
+Avant d'ouvrir Airtable, il faut comprendre comment structurer les données! 
+
+## Diapositive 10
+
+Données mal structurées : à qui la faute?
+
+Le rapport impossible – Une directrice marketing demande…
+« Combien de clients ont acheté deux fois ou plus au cours des six derniers mois? »  Elle reçoit comme réponse de l'équipe TI : « On ne peut pas sortir ça. » 
+Ce n'est pas un problème de logiciel. Le champ date d'achat a été fusionné avec la description de la commande au moment de la conception. La structure des données a rendu la question impossible.
+La migration qui dure 
+Changement de CRM. Migration prévue : six semaines. Migration réelle : huit mois. Coût supplémentaire : 180 000 $. Cause : doublons, champs mixtes, valeurs incohérentes dans l'ancien système. Quelqu'un a construit sans normaliser. Le gestionnaire qui a approuvé ce système il y a cinq ans n'avait pas posé les bonnes questions.
+Les deux chiffres
+Finance dit 2,3 M. Ventes dit 2,7 M. pour le même trimestre. L'écart vient d'un champ « type de vente » défini différemment dans deux tables. Une décision de structure prise en 2021 génère encore des réunions aujourd’hui pour expliquer les écarts.
+
+Ces problèmes n'arrivent pas parce que les gestionnaires ne comprennent pas la technologie. Ils arrivent parce que personne n'a posé les bonnes questions au moment de construire.
+
+## Diapositive 11
+
+La force de la normalisation	
+
+La normalisation est un outil puissant qui aide à voir clair dans les données qui sont déjà traitées par l’organisation, souvent sans structure évidente autre que leur assemblage sur des artefacts papier, rapports ou formulaires
+En prenant un à un ces artefacts et en les normalisant jusqu’à la 3FN, on est en mesure de créer, pas à pas, un modèle qui pourra être implémenté dans une base de données relationnelle, c’est ce qu’on appelle le modèle logique
+Puisqu’elle débute par des éléments existants, la normalisation est aussi extrêmement utile pour effectuer l’ingénierie inversée des systèmes d’information actuels pour lesquels les modèles logiques officiels (DSBD) ne sont pas disponibles (ce qui est très souvent le cas)
+
+## Diapositive 12
+
+Approches de conception d’une BD
+
+Ainsi lorsque l’on normalise, on passe d’artefacts concrets pour obtenir un schéma de données plus abstraite, qui donnera éventuellement lieu à une base de données
+
+
+
+Normalisation
+Du concret au (un peu plus) abstrait
+
+## Diapositive 13
+
+
+
+Assimilation du parcours
+
+## Diapositive 14
+
+Un peu de pratique
+
+Est-ce que certains d’entre vous avez déjà travaillé à la prise de commandes dans une pizzeria? Est-ce que certains d’entre vous avez déjà commandé une ou plusieurspizzas par téléphone?
+Selon vous, qu’est-ce qui est pris en note par le commis lors d’une prise de commande de ce type?
+Comment normaliser ces éléments?
+
+
+## Diapositive 15
+
+Un exemple de commande
+
+Quelles sont les informations retrouvées sur cette commande?
+Adresse 
+Numéro de téléphone
+Date
+Rue transversale
+Articles commandés
+Mode de paiement
+Total à payer
+No commande
+
+## Diapositive 16
+
+Normaliser : Les formes normales
+
+Analysons les données à partir de cette commande
+
+## Diapositive 17
+
+Normaliser à la première forme normale
+
+Une entité est en première forme normale (1FN ) si elle contient au moins une clé et si tous ses attributs sont atomiques.
+
+## Diapositive 18
+
+Normalisation des éléments pris en note
+
+Quelles sont les clés candidates?
+
+
+
+
+
+
+
+ÉLÉMENTS PRIS EN NOTE |  |  |  |  |  |  | 
+
+No commande | Adresse | Rue transversale | No téléphone | Articles commandés | Mode paiement | Date et Heure | Prix
+
+1 | 123 rue A | Ave Quatre | 555-111-2222 | 1 Pizza L toute garnie
+1 Frites L
+2 Coca-cola | Comptant | 2024-09-06  17h40 | 41,40
+
+2 | 234 Ave D | Rue Trois | 555-222-3333 | 1 Pizza XL hawaïenne
+Extra ananas
+2 Frites L
+3 Mountain Dew
+2 Dr Pepper | Visa | 2024-09-06  17h53 | 67,90
+
+3 | 345 croissant W | Ave Quatre | 555-333-4444 | 1 Pizza  P margherita
+1 Frites sauce | Comptant | 2024-09-06  17h58 | 21,90
+
+## Diapositive 19
+
+Normaliser à la 1FN
+
+Est-ce que l’entité respecte la première forme normale – 1FN?
+
+
+
+
+
+
+## Diapositive 20
+
+Normaliser à la 1FN
+
+Comment faire pour que l’entité respecte la 1FN?
+
+
+
+
+
+
+
+
+
+## Diapositive 21
+
+Normaliser à la deuxième forme normale
+
+Une entité est en deuxième forme normale (2FN ) si elle est en 1FN ET si tout attribut ne faisant pas partie de la clé dépendde la clé dans son intégrité.
+
+## Diapositive 22
+
+Notions | Dépendance fonctionnelle (DF)
+
+
+Y est fonctionnellement dépendant de X si pour une valeur de X, il n’existe qu’une seule valeur de Y
+
+X
+
+Y
+
+Numéro du client
+
+Nom du client
+
+## Diapositive 23
+
+Est-ce que l’entité respecte la deuxième forme normale – 2FN?
+
+
+
+
+
+
+
+
+
+
+Normaliser à la 2FN
+
+## Diapositive 24
+
+Normaliser à la 2FN
+
+Comment faire pour que l’entité respecte la 2FN?
+
+
+
+
+
+
+
+
+## Diapositive 25
+
+Normaliser à la 2FN
+
+## Diapositive 26
+
+Normaliser à la troisième forme normale
+
+Une entité est en troisième forme normale (3FN ) si elle est en 2FN ET si tout attribut n'appartenant pas à la clé dépend directement de cette clé plutôt que d’un autre attribut de l’entité.
+
+## Diapositive 27
+
+Est-ce que les entités respectent la troisième forme normale – 3FN?
+
+
+
+
+
+
+
+
+
+
+
+Normaliser à la 3FN
+
+## Diapositive 28
+
+Normaliser à la 3FN
+
+Comment faire pour que les entités respectent la troisième forme normale – 3FN?
+
+
+
+
+
+
+
+
+
+
+## Diapositive 29
+
+Normaliser à la 3FN
+
+Comment faire pour que les entités respectent la troisième forme normale – 3FN?
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 30
+
+Entités issues de la normalisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 31
+
+Lien entre les différentes entités
+
+## Diapositive 32
+
+Un peu de pratique
+
+À l’aide des entités issues du travail de normalisation, dessinez un modèle logique qui respecte l’intégrité référentielle
+
+
+
+## Diapositive 33
+
+Modélisation logique
+
+## Diapositive 34
+
+Application
+
+## Diapositive 35
+
+De la normalisation à l'outil
+
+Vous venez de normaliser les données d'une commande de pizzeria — de l'artefact papier aux entités structurées. Résultat : des tables distinctes, des clés bien définies, aucune dépendance incorrecte.
+Ces entités ne sont pas abstraites. Elles correspondent exactement aux tables d'une base de données relationnelle. Airtable les implémente en no-code — sans écrire une ligne de code.
+Aujourd'hui : créer la table Client, une des tables « parents » de votre modèle normalisé.
+
+## Diapositive 36
+
+Airtable : Rappel création de table	
+
+Rappel de la création d’une table dans Airtable
+Créer la table
+Enlever les attributs générés automatiquement (il y en a souvent 3 ou plus)
+Enlever les enregistrements créés automatiquement (il y en a habituellement 3)
+Utiliser les menus pour ajouter les attributs
+Tester l’ajout d’enregistrement après avoir créé la table
+
+
+
+## Diapositive 37
+
+Créez la table Client dans Airtable
+
+Ouvrir Airtable → créer une nouvelle base 
+Nommer la base Pizzeria 
+Renommer la table par défaut Client 
+Créer les champs issus de votre normalisation : 
+Adresse — Texte sur une seule ligne
+Rue transversale – Texte sur une seule ligne
+Téléphone — Numéro de téléphone
+
+## Diapositive 38
+
+Création de la table Client dans Airtable
+
+## Diapositive 39
+
+Synthèse
+
+## Diapositive 40
+
+La séance 2 dans la vision d’ensemble
+
+
+
+ | DonnéesQuoi? | Fonctions
+Comment? | Lieux
+Où? | Personnes
+Qui? | TempsQuand? | Motivations
+Pourquoi?
+
+Niveau contextuel | Liste des entités d’affaires | Liste des processus d’affaires | Liste des localisations géographiques | Liste des unités d’affaires | Liste des événements d’affaires | Liste des objectifs stratégiques et des règles d’affaires
+
+Niveau conceptuel | Entités d’affaires | Processus d’affaires​ | Localisations des unités​ | Unités d’affaires​ | Événements d’affaires | Objectifs d’affaires​
+
+Niveau logique | Entité de données | Application/système d’information | Fonctions nodales​ | Rôles et interfaces​ | Événements système​ | Critères​
+
+Niveau technique | Ligne (dans une table)​ | Algorithmes programmés | Localisation des système​s | Utilisateurs​ | Exécutions | Conditions​
+
+## Diapositive 41
+
+Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+ | DonnéesQuoi? | Fonctions
+Comment? | Lieux
+Où? | Personnes
+Qui? | TempsQuand? | Motivations
+Pourquoi?
+
+Niveau contextuel | Liste des entités d’affaires | Liste des processus d’affaires | Liste des localisations géographiques | Liste des unités d’affaires | Liste des événements d’affaires | Liste des objectifs stratégiques et des règles d’affaires
+
+Niveau conceptuel | Entités d’affaires | Processus d’affaires​ | Localisations des unités​ | Unités d’affaires​ | Événements d’affaires | Objectifs d’affaires​
+
+Niveau logique | Entité de données | Application/système d’information | Fonctions nodales​ | Rôles et interfaces​ | Événements système​ | Critères​
+
+Niveau technique | Ligne (dans une table)​ | Algorithmes programmés | Localisation des système​s | Utilisateurs​ | Exécutions | Conditions​
+
+## Diapositive 42
+
+La suite du cours d’aujourd’hui dans la spécialisation
+
+TECH 20709  	Poser un diagnostic et élaborer des solutions numériques
+TECH 20700 	Construire des entrepôts de données et concevoir des tableaux 	de bord efficaces
+TECH 20712 	Créer et exploiter des bases de données
+
+
+
+## Diapositive 43
+
+Les métiers impliqués dans le cours d’aujourd’hui
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 44
+
+Les autres spécialisations dans le cours d’aujourd’hui
+
+Marketing
+Gestion des opérations et de la logistique
+Comptabilité
+
+
+
+
+## Diapositive 45
+
+À faire pour la semaine prochaine
+
+Visionner les capsules vidéo du parcours d’apprentissage de la séance 4
+Environ 37 minutes
+Si ce n’est pas déjà fait, ouvrir1 un compte Airtable gratuit à l’adresse https://www.airtable.com/ 
+Ouvrir1 un compte Softr gratuit à l’adresse https://www.softr.io/
+
+1 Nous vérifierons l’accès aux solutions lors de la séance 4, 
+apportez vos ordinateurs

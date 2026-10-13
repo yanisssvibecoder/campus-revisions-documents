@@ -1,0 +1,15 @@
+4.4  | FAQ
+
+Séance 4
+FAQ
+Q : Afin de trouver le prix d'une action, peut-on prendre les FMDAO (flux monétaires disponibles aux actionnaires ordinaires) au lieu de la méthode de Gordon pour lui donner un prix ?
+R : Cette méthode sera abordée dans le cours de Placements. Il est préférable d'utiliser les FMDAOs, mais l'information et parfois difficile à trouver ou déduire. Le cours s'en tiendra aux dividendes et sa croissance pour la compréhension du concept de base d'actualisation des revenus disponibles aux actionnaires.
+Q : En regardant la solution de certains exercices, j'ai constaté qu'il y avait une formule équivalente au modèle de croissance des dividendes à 2 périodes.
+R : En effet, cette formule est une annuité (et non perpétuité) avec croissance constante. Il nous est toutefois possible de solutionner ce même problème avec nos formules habituelles. Il suffit d’actualiser les premiers dividendes en montants simples (qui remplacent la formule d'annuité à croissance constante) pour ensuite appliquer le modèle de Gordon (perpétuité à croissance constante) comme à l’habitude, ce qui correspond exactement au deuxième facteur de la solution proposée.
+Vous pouvez tout de même utiliser l'annuité à croissance constate. Si vous comprenez bien les bases des mathématiques financières, elle est relativement simple à utiliser. Son utilisation est expliquée en détails à la prochaine séance.
+Q : Ma question est par rapport au mot "prochain" dans la formulation de certaines questions. Dans une question, j'ai compris que les dividendes commencent à être versés au temps t=1. Est-ce donc toujours le cas, lorsque cette formulation de phrase est employée, que cela signifie que les dividendes commencent à être versés au temps t=1 et non au temps t=0 ?
+R : Ce type tournure de phrase est souvent utilisée dans le cours afin d'éliminer tout type de confusion possible dans l'interprétation du "timing" des FM sur le schéma temporel.
+Les dividendes, coupons ou autres FM peuvent être versés à des périodes très variées, mais le plus courant pour les problèmes simples est de se situer à une date de versement périodique (ex : coupons semestriels, div. annuels, div. trimestriels, etc.).
+Dans ce type de situation, la question est de savoir si on inclut ou non le dividende à t=0 (nous sommes à une date de versement). Il peut y avoir plusieurs formulations, mais si on spécifie que « le dividende vient tout juste d’être versé » ou encore « le prochain dividende sera versé dans exactement une période », c’est que le dividende a t=0 ne doit pas être inclus. Sur votre schéma temporel, le premier dividende sera à t=1.
+Lorsque la formulation spécifie d’inclure le dividende à t=0, votre schéma temporel doit aussi l’inclure. Pour la solution mathématique, on peut faire la même démarche que le paragraphe précédent (ignorer le dividende à t=0) et l’ajouter à notre réponse (puisque tous les autres FMs seront alors à t=0).
+Finalement, les situations plus complexes sont lorsque nous nous situons entre 2 dates de versement. Si c’est le cas, il faut corriger pour la fraction de période. Le livre ainsi qu’une capsule vidéo couvre ce type de situation.

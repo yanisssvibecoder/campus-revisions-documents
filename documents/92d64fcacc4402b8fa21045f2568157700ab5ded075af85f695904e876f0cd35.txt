@@ -1,0 +1,76 @@
+## xl/worksheets/sheet1.xml
+A1: Ce gabarit générique est utilisé pour l'ensemble des problèmes de planification globale de production.
+A2: Utilisez ce gabarit selon les informations fournies dans l'énoncé du problème.
+A4: Liste des coûts | I4: Liste des contraintes
+A6: Salaire régulier | D6: par employé par période | I6: Variation de main d'œuvre
+A7: Temps supplémentaire | D7: par employé par période | I7: Temps supplémentaire
+A8: Stockage | D8: par UE par période | I8: Temps mort
+A9: Pénuries reportées | D9: par UE par période | I9: Capacité d'entreposage | M9: UE
+A10: Embauche | D10: par employé embauché | I10: Pénurie | M10: UE
+A11: Mise à pied | D11: par employé licencié | I11: Nombre minimum d'employés | M11: employés
+I12: Nombre maximum d'employés | M12: employés
+A14: Autres données du problème | I14: Autres contraintes
+A16: Production par employé | D16: UE par période
+A17: Nombre initial d'employés | D17: employés
+A18: Stock initial | D18: UE
+A19: Stock final | D19: UE
+C22: Période
+B23: UE | C23: 1 | D23: 2 | E23: 3 | F23: 4 | G23: 5 | H23: 6 | I23: 7 | J23: 8 | K23: 9 | L23: 10 | M23: 11 | N23: 12
+A24: Produit 1
+A25: Produit 2
+A26: Produit 3
+A27: Demande prévue (en UE)
+## xl/worksheets/sheet2.xml
+A1: Plan global de production
+C2: Période
+B3: Initial | C3: 1 | D3: 2 | E3: 3 | F3: 4 | G3: 5 | H3: 6 | I3: 7 | J3: 8 | K3: 9 | L3: 10 | M3: 11 | N3: 12
+A4: Demande (en UE) | C4: 0 [formule : 'Données du problème'!C27] | D4: 0 [formule : 'Données du problème'!D27] | E4: 0 [formule : 'Données du problème'!E27] | F4: 0 [formule : 'Données du problème'!F27] | G4: 0 [formule : 'Données du problème'!G27] | H4: 0 [formule : 'Données du problème'!H27] | I4: 0 [formule : 'Données du problème'!I27] | J4: 0 [formule : 'Données du problème'!J27] | K4: 0 [formule : 'Données du problème'!K27] | L4: 0 [formule : 'Données du problème'!L27] | M4: 0 [formule : 'Données du problème'!M27] | N4: 0 [formule : 'Données du problème'!N27]
+A5: Production (en UE)
+A6: Stock (en UE) | B6: 0 [formule : 'Données du problème'!C18]
+A7: Nombre d'employés | B7: 0 [formule : 'Données du problème'!C17]
+A8: Embauches (en nombre d'employés)
+A9: Mises à pied (en nombre d'employés)
+A10: Temps supplémentaire (en nombre d'employés)
+A11: Temps mort (en nombres d'employés)
+A13: Nombre d'employés nécessaires
+A14: Variation main d'œuvre (embauche)
+A15: Variation main d'œuvre (mise à pied)
+A16: Utilisation temps supplémentaire
+A17: Utilisation temps mort
+A19: Tableau des coûts associés
+C20: Période
+C21: 1 | D21: 2 | E21: 3 | F21: 4 | G21: 5 | H21: 6 | I21: 7 | J21: 8 | K21: 9 | L21: 10 | M21: 11 | N21: 12 | O21: Total
+A22: Stockage
+A23: Pénurie
+A24: Embauche
+A25: Mise à pied
+A26: Salaire - heures régulières
+A27: Salaire - heures supplémentaires
+A28: Total
+## xl/worksheets/sheet3.xml
+A1: Plan global de production
+C2: Période
+B3: Initial | C3: 1 | D3: 2 | E3: 3 | F3: 4 | G3: 5 | H3: 6 | I3: 7 | J3: 8 | K3: 9 | L3: 10 | M3: 11 | N3: 12
+A4: Demande (en UE) | C4: 0 [formule : 'Données du problème'!C27] | D4: 0 [formule : 'Données du problème'!D27] | E4: 0 [formule : 'Données du problème'!E27] | F4: 0 [formule : 'Données du problème'!F27] | G4: 0 [formule : 'Données du problème'!G27] | H4: 0 [formule : 'Données du problème'!H27] | I4: 0 [formule : 'Données du problème'!I27] | J4: 0 [formule : 'Données du problème'!J27] | K4: 0 [formule : 'Données du problème'!K27] | L4: 0 [formule : 'Données du problème'!L27] | M4: 0 [formule : 'Données du problème'!M27] | N4: 0 [formule : 'Données du problème'!N27]
+A5: Production (en UE)
+A6: Stock (en UE) | B6: 0 [formule : 'Données du problème'!C18]
+A7: Nombre d'employés | B7: 0 [formule : 'Données du problème'!C17]
+A8: Embauches (en nombre d'employés)
+A9: Mises à pied (en nombre d'employés)
+A10: Temps supplémentaire (en nombre d'employés)
+A11: Temps mort (en nombres d'employés)
+A13: Nombre d'employés nécessaires
+A14: Variation main d'œuvre (embauche)
+A15: Variation main d'œuvre (mise à pied)
+A16: Utilisation temps supplémentaire
+A17: Utilisation temps mort
+A19: Tableau des coûts associés
+C20: Période
+C21: 1 | D21: 2 | E21: 3 | F21: 4 | G21: 5 | H21: 6 | I21: 7 | J21: 8 | K21: 9 | L21: 10 | M21: 11 | N21: 12 | O21: Total
+A22: Stockage
+A23: Pénurie
+A24: Embauche
+A25: Mise à pied
+A26: Salaire - heures régulières
+A27: Salaire - heures supplémentaires
+A28: Total

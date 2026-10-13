@@ -1,0 +1,1688 @@
+Plan de révision — Quiz 1 Comptabilité de gestion (vendredi 9 oct.)
+🎯 Plan de révision — Quiz 1 de Comptabilité de gestion
+COMP10904 — Comptabilité de gestion · Séances 1 à 6 + TP1 · Prépare-toi comme si tu n'avais jamais vu la matière. Tout est ici.
+📅
+Vendredi 9 octobre, 8h30
+— séance 7, en classe
+✅
+QCM
+individuel, écrit sur papier
+🤖
+IA générative INTERDITE
+⚖️
+2 quiz = 10 %
+de la note finale
+💚 Le QCM est
+plus gentil que les examens
+(note officielle du plan de cours)
+⏰ Plan jour par jour
+📚 Banque d'exercices
+🔧 1. Notions de coûts
+📊 2. Analyse CVR
+⚖️ 3. Analyse différentielle
+🏭 4. Marges & production
+🧮 5. Imputation FGF
+📈 6. Performance
+✍️ 7. TP1 & questions type
+📋 8. Formules à connaître
+🎯 9. Stratégie & erreurs
+0 % complété
+🚀 Départ : ce que tu dois savoir sur ce quiz
+L'essentiel en 5 points
+(source : plan de cours officiel + ZoneCours Canvas) :
+Quand :
+vendredi 9 octobre 2026, 8h30
+, pendant la séance 7 (à confirmer dans HEC en ligne).
+Arrive en avance
+— le quiz se passe en classe, sur papier.
+Format :
+QCM individuel, écrit
+.
+IA générative interdite.
+Note officielle du cours : « le type de question au quiz n'est pas représentatif du niveau de difficulté des examens » — autrement dit,
+le QCM est plus gentil que l'intra
+. Une occasion en or de ramasser des points.
+Portée :
+tout ce qui précède la matière de la séance 7 =
+séances 1 à 6 + TP1
+(notions de coûts, CVR, analyse différentielle, marges/plan de production, imputation, performance).
+Pondération :
+les
+2 quiz = 10 %
+(quiz 2 à la séance 12). Grille complète : Exercices formatifs 10 % · Quiz 10 % ·
+Examens 80 %
+(intra le 20 oct.).
+Pas de feuille de formules annoncée pour le quiz
+→
+mémorise les formules
+(module 8). Les calculs en QCM restent simples : c'est la reconnaissance du concept et le bon réflexe qui comptent.
+⚠️ Ton meilleur entraînement QCM :
+les
+Révisions formatives S01 à S06
+sur Canvas (Questionnaires → TESTS & QUIZ). Elles valent 1 point chacune (10 % au total), se reprennent
+à volonté jusqu'au 20 octobre
+, et sont
+exactement dans le format du quiz
+. Fais-les et refais-les — c'est la seule banque de QCM officielle du cours.
+Comment utiliser ce plan (on a 10 jours)
+Tu ne révises pas tout aujourd'hui : suis le
+plan jour par jour
+— un module de cours par jour + ses exercices, ~2-3h par jour, avec des pauses. Chaque bloc a une échéance.
+Coche les tâches au fur et à mesure : ta progression est
+sauvegardée automatiquement
+dans le navigateur (localStorage).
+Les
+boutons « Révéler »
+cachent les réponses des mini-exercices : essaie vraiment AVANT de cliquer.
+Les
+quiz QCM
+en fin de module (38 questions au total) te disent si tu as compris. Refais-les à froid les jours suivants.
+Chaque exemple chiffré est
+tiré de tes notes de cours et exercices officiels
+(Cercle Délices, le party, Étoile ltée, Nordet, Mme Bolduc, Électroflux, FLYREST, PizzaNord, Véliko, Vélos Devini…) : ce sont exactement les chiffres qui peuvent tomber au quiz.
+🧭 La carte du cours en une phrase :
+S01 tu apprends à
+classer les coûts
+· S02 tu analyse comment le
+volume
+fait varier le résultat (CVR) · S03-S04 tu prends des
+décisions
+(commande spéciale, fabriquer/acheter, abandonner, prioriser) · S05 tu calcule le
+coût et la marge brute par produit
+(imputation) · S06 tu mesure la
+performance
+(RCI, RNR, tableau de bord). Six séances, une seule histoire :
+produire la bonne info pour décider
+.
+⏰ Plan de révision sur 10 jours — mardi 29 sept. → vendredi 9 oct.
+Le bloc
+surligné en orange
+est celui en cours selon la date et l'heure de ton ordinateur. Les blocs passés deviennent pâles.
+Chaque jour = ~2-3h réparties en blocs
+, jamais de marathon : c'est la répétition espacée qui ancre, pas la douleur. Si tu sautes un jour, le plan « rattrapage » du mardi 6 et du mercredi 7 octobre est ta marge de sécurité.
+⚡ LE PROTOCOLE POUR CHAQUE EXERCICE :
+1)
+lis l'énoncé (lien direct dans la
+banque d'exercices
+) →
+2)
+tente le calcul
+sans regarder la solution
+(10-12 min max) →
+3)
+ouvre la solution, compare ligne par ligne, comprends l'écart, coche l'exercice. Le but n'est pas de tout réussir du premier coup : c'est de
+toucher chaque type de problème avec correction immédiate
+.
+Heure
+Jour
+Contenu & échéance
+19h30 – 22h00
+MAR 29 sept.
+(aujourd'hui)
+Lancement + Module 1 (S01)
+: lis ce plan en entier (10 min), puis le
+module 1 — notions de coûts
+au complet (classifications, exemple GoPUR, l'avion, Cercle Délices). Termine par les 6 QCM du module.
+Échéance : ce soir 22h00.
+22h00 – 22h20
+MAR 29 sept.
+Formatif Canvas « Révision S01 »
+(Questionnaires → TESTS & QUIZ) — même format que le quiz. Reprenable à volonté : refais-le 100 %.
+10h00 – 12h30
+MER 30 sept.
+Exercices S01
+:
+Cercle Délices (11A.6 supp)
+au complet (classification + tableau + les 4 mises en situation) + exercice du livre
+2A.1
+(i+ en ligne).
+Échéance : 12h30.
+19h30 – 22h00
+MER 30 sept.
+Module 2 (S02) — théorie CVR complète
+:
+marge sur coûts variables, point mort, marge de sécurité, résultat cible/potentiel, seuil d'indifférence, MCV pondérée
++ l'exemple du party pas à pas + les 6 QCM.
+C'est le cœur du quiz — ne le bâcle pas.
+Échéance : 22h00.
+19h30 – 22h00
+JEU 1er oct.
+Exercices S02
+:
+Étoile ltée (point mort, seuil d'indifférence, marge de sécurité)
+→
+Nordet (multi-produits, MCV pondérée)
+→
+Jean et Jeannette (état des résultats en coûts complets)
++ livre
+11A.4
++ formatif
+Révision S02
+.
+Échéance : 22h00.
+Matin 8h30
+VEN 2 oct.
+🎓 SÉANCE 6 EN CLASSE
+(performance : RCI, RNR, tableau de bord) — la matière du quiz s'arrête aujourd'hui. Profite du cours : pose tes questions au prof, c'est la dernière séance avant le quiz.
+20h00 – 21h00
+VEN 2 oct.
+Soirée légère (1h max)
+: relis tes notes de la séance 6, puis parcours le
+module 6 du plan
+pendant que c'est frais. Formatif
+Révision S06
+dès qu'il est ouvert sur Canvas.
+10h00 – 12h30
+SAM 3 oct.
+Module 3 (S03) — coûts pertinents & commande spéciale
+:
+pertinents/évitables/irrécupérables, prix minimum, Mme Bolduc, PommeD'or
++ 6 QCM. Pause, puis
+fabriquer ou acheter
++
+abandonner ou continuer
+(ferme Deschamps).
+Échéance : 12h30.
+15h00 – 17h00
+SAM 3 oct.
+Exercices S03
+:
+Mme Bolduc
+(refais-le seul) →
+Ubois 12B.3 (fait en classe — le refaire est ton meilleur test)
+→
+Prises de décisions (multi-mises en situation)
+→
+Soleil Brûlant 12B.1 (énoncé+solution)
++ livre
+12A.2
++ formatif
+Révision S03
+.
+10h00 – 12h30
+DIM 4 oct.
+Module 4 (S04) — marges & plan de production
+:
+marge sur coûts spécifiques, marge par facteur contraignant, plan optimal
+(Électroflux pas à pas, FLYREST) + 6 QCM.
+Échéance : 12h30.
+15h00 – 16h30
+DIM 4 oct.
+Exercices S04
+:
+Révision facteur contraignant (facile — commence par lui)
+→
+FLYREST 10CG.1
+→
+Pub du plateau 10B.1
+(question 1 + question 2 avec la contrainte d'embouteillage) + livre
+10B.3
++ formatif
+Révision S04
+.
+19h30 – 22h00
+LUN 5 oct.
+Module 5 (S05) — imputation des FGF
+:
+centres de coûts, taux d'imputation, coût de fabrication unitaire, marge brute par produit
+(PizzaNord pas à pas, Société du Mérite, Guerlain) + 6 QCM.
+Échéance : 22h00.
+22h00 – 22h30
+LUN 5 oct.
+Exercices S05
+:
+4CG.1 (taux — niveau facile, fais-le d'abord)
++
+Pratique taux (xlsx)
+. Les gros (
+4CG.2
+,
+TOC
+) : demain.
+19h30 – 21h00
+MAR 6 oct.
+Fin des exercices S05
+:
+4CG.2 Société du Mérite (solution par étapes)
+→
+TOC
++
+gabarit Excel de solution
+. Formatif
+Révision S05
+.
+Échéance : 21h00.
+21h00 – 22h00
+MAR 6 oct.
+Cas Véliko (S06)
+:
+solution trouée
+à compléter à la main, puis valide avec la
+solution complète
++ livres
+17A.2 et 17B.8
+. (Partie B = après la séance 12 : ignore-la.)
+19h30 – 22h00
+MER 7 oct.
+🔴 TP1 au complet + grande boucle blanche
+:
+module 7 (Vélos Devini + Autobus Bégin, méthode + réponses vérifiées)
+, puis refais les fichiers TP1
+sans les solutions
+. Ensuite :
+reprends les 6 formatifs Canvas S01-S06 d'affilée
+et note chaque question ratée → va relire le module correspondant.
+C'est ta répétition générale.
+20h00 – 21h30
+JEU 8 oct.
+(veille — LÉGER)
+Veille douce — 1h30 MAXIMUM, pas plus.
+①
+Feuille de formules
+lue deux fois en entier. ② Les 38 QCM du plan refaits en éclair (ceux ratés ces derniers jours en priorité). ③
+Module 9 — les erreurs fatales
++ checklist. ④ Tout prêt pour demain : carte étudiante, crayons, montre.
+Au lit tôt : 8h de sommeil.
+7h15 – 8h15
+VEN 9 oct.
+🎯 JOUR J
+Matin du quiz
+: ① 7h15 — réveil, déjeuner normal, eau. ② 7h45 — relis UNIQUEMENT la
+feuille de formules
++ les
+erreurs fatales
+(rien de nouveau). ③ 8h00 — depart.
+Arrive 8h15 : le quiz commence à 8h30.
+Respire : le QCM est plus gentil que les examens, et tu as 10 jours de travail dans les jambes.
+🔁 Si tu sautes un jour :
+le mercredi 7 octobre est ton filet de sécurité — tout ce qui n'est pas coché s'y récupère. Priorité en cas de retard :
+M2 (CVR) > M3 (différentielle) > M5 (imputation) > M4 > M1 > M6
+— les trois premiers sont les plus « calculables » et donc les plus bankables en QCM.
+📚 Banque d'exercices complète — tout ce qui existe pour ce quiz, cliquable
+Chaque ligne = un exercice officiel de la zone cours.
+Clique pour ouvrir le fichier (tout est déjà dans ton dossier
+Comptabilité de gestion\ZoneCours
+). Les exercices du livre (i+) sont en ligne uniquement. Coche au fur et à mesure — la barre du haut suit ta progression.
+📖
+Règle d'or :
+la mention
+« solution incluse »
+signifie que la solution est DANS le fichier (ou dans le gabarit Excel). Protocole : tente 10-12 min seul → solution → comprends l'écart → coche.
+Séance 1 — Notions de coûts
+Théorie :
+📘 Notes de cours S01 (PPT)
+·
+📘 Cheminement du cours
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S01
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+(reprise à volonté jusqu'au 20 oct)
+QCM officiel — 1 pt
+Cercle Délices (11A.6 supp)
+📄 énoncé+solution
+Classification + résultat d'exploitation
+2A.1
+Livre i+ en ligne (code d'accès)
+Terminologie des coûts
+Séance 2 — Analyse coût-volume-résultat (CVR)
+Théorie :
+📘 Notes de cours S02 (PPT)
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S02
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+QCM officiel — 1 pt
+CVR(CG).1 — L'Étoile ltée
+📄 énoncé+solution
+Robotisation : point mort, seuil d'indifférence, marge de sécurité
+CVR(CG).3 — Nordet
+📄 énoncé+solution
+Multi-produits : MCV pondérée, résultat potentiel
+Jean et Jeannette (11B.3 supp)
+📄 énoncé-solution
+État des résultats en coûts complets vs coûts variables
+11A.4
+Livre i+ en ligne
+CVR
+Séance 3 — Analyse différentielle (décisions d'exploitation)
+Théorie :
+📘 Notes de cours S03 (PPT)
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S03
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+QCM officiel — 1 pt
+Ubois (12B.3)
+📄 énoncé (fait en classe)
+Commande spéciale : CV de la commande, paliers de CF, capacité
+Mme Bolduc
+📄 énoncé+solution
+Commande spéciale (service, niveau facile) + coût de renonciation
+Exercices prises de décisions
+📄 document
+Multi-mises en situation (toutes les décisions S03)
+Soleil Brûlant (12B.1 supp)
+📄 énoncé+solution
+Commande spéciale
+12A.2
+Livre i+ en ligne
+Analyse différentielle
+Séance 4 — Marges et plan de production
+Théorie :
+📘 Notes de cours S04 (PPT)
+· capsule vidéo YuJa sur la zone cours
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S04
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+QCM officiel — 1 pt
+Pub du plateau (10B.1)
+📄 énoncé (utilisé en classe)
+Analyse de marges + contrainte d'embouteillage
+Révision facteur contraignant
+📄 énoncé+solution
+Plan de production (niveau facile — parfait pour commencer)
+FLYREST (10CG.1)
+📄 énoncé-solution
+Plan optimal + augmentation de capacité
+10B.3
+Livre i+ en ligne
+Marges
+Séance 5 — Imputation des FGF et marge brute par produit
+Théorie :
+📘 Notes de cours S05 (PPT)
+· pas d'exercice du livre pour cette séance
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S05
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+QCM officiel — 1 pt
+4CG.1 — taux d'imputation
+📄 énoncé+solution
+3 hypothèses de base d'imputation (niveau facile)
+Pratique calcul taux d'imputation
+📊 xlsx
+Drill de calcul de taux
+4CG.2 — Société du Mérite
+📄 solution par étapes
+Choix de la base d'imputation + marge brute par produit
+Exercice TOC (imputation)
+📄 énoncé
++
+📊 gabarit Excel solution
+Application complète + capsules énoncé/solution commentées (zone cours)
+Séance 6 — Mesure et évaluation de la performance
+Théorie :
+📘 Notes de cours S06 (PPT)
+Fait
+Exercice
+Fichier / lien
+Thème
+Révision S06
+formatif
+Canvas → Questionnaires →
+TESTS & QUIZ
+QCM officiel — 1 pt
+Cas Véliko — énoncé
+📄 énoncé
+RCI, choix de projets, primes, tableau de bord (partie A pour le quiz; partie B après la séance 12)
+Cas Véliko — solution trouée
+📄 à compléter
+Cas Véliko — solution
+📄 solution complète
+17A.2 · 17B.8
+Livre i+ en ligne
+RCI / RNR
+TP1 (fait le mardi 22 sept. — les exercices étaient à faire AVANT la séance)
+Fait
+Exercice
+Fichier
+Thème
+Vélos Devini (11 SupC.4)
+📄 énoncé (+démarche de solution)
+CVR complet : point mort, marge de sécurité, seuil d'indifférence
+Autobus Bégin (12 SupC.3)
+📄 énoncé (+solution)
+Commande spéciale + facteur contraignant multi-produits
+Fichier bonus
+: « (0) _10904_concordance termes.docx » (annonce du 1
+er
+sept. sur Canvas) — concordance des termes FR-EN utile si tu lis le manuel dans une des deux langues.
+🔧 Module 1 — Séance 1 : La comptabilité de gestion et les notions de coûts
+Pourquoi ce module existe :
+toute la compabilité de gestion (S02-S06) repose sur une seule habileté :
+savoir classer un coût
+. Variable ou fixe? Fabrication ou vente/admin? Direct ou indirect? Réponds à ces trois questions et le reste du cours devient mécanique.
+1.1 Comptabilité financière vs comptabilité de gestion (question théorique classique)
+Comptabilité
+financière
+Comptabilité de
+gestion
+(ton cours)
+Destinée à
+Tiers externes (investisseurs, banques, impôts)
+Gestionnaires
+internes
+Règles
+Réglementée (IFRS/NCECF)
+Flexible, sur mesure
+Données
+Financières,
+historiques
+, entité entière, exercice
+Financières ET non financières,
+prévisionnelles
+, analytiques, cycle de vie
+But
+Informations fidèles et fiables
+Informations
+utiles et pertinentes à la prise de décision
+1.2 Le coût et l'objet de coût
+Définitions du cours :
+un
+coût
+= « la valeur totale des ressources engagées pour obtenir l'
+objet de coût
+». Un
+objet de coût
+= ce dont on veut mesurer le coût
+pour répondre à un besoin donné / prendre une décision
+: un produit (Train à haute vitesse de Bombardier), un modèle (Learjet 45), un département (RH, ventes), une division (Aérospatiale), un segment géographique, un client, un service…
+Types d'entreprises
+(repérables au bilan) :
+commerciale
+(achète pour revendre — un seul stock),
+manufacturière
+(fabrique —
+trois stocks
+: matières premières, produits en cours, produits finis),
+de service
+(aucun stock de produits). Question piège parfaite en QCM : l'entreprise avec « stocks de MP + produits en cours + produits finis » est manufacturière.
+1.3 La classification manufacturière — où chaque coût va-t-il?
+Catégorie
+Définition simple
+Exemples du cours
+MP
+— matières premières
+Matériaux/pièces qui deviennent le produit
+Pommes et bouteilles (jus GoPUR); farine et emballage (bagels —
+l'emballage fait partie du produit → MP!
+)
+MOD
+— main-d'œuvre directe
+Employés qui
+transforment
+la MP en produit fini
+Rouleurs de bagels; employés sur la chaîne de production
+FGF
+— frais généraux de fabrication
+Tout le reste des coûts de l'
+usine
+(indirects)
+Amortissement machinerie, entretien/réparation, loyer portion usine,
+salaire des superviseurs
+, électricité usine, fournitures
+FVA
+— frais de vente et d'administration
+Coûts hors usine
+Commissions des vendeurs, publicité, salaire du comptable, livraison
+Coût de fabrication = MP + MOD + FGF
+Les FVA ne sont JAMAIS dans le coût de fabrication (règle d'or en QCM)
+🚨 Les trois pièges de classement :
+① le
+superviseur de production
+n'est pas de la MOD — c'est de la main-d'œuvre
+indirecte
+→
+FGF
+(fixe). ② l'
+emballage
+intégré au produit =
+MP
+, pas frais de vente. ③ les
+commissions et la livraison
+=
+FVA variables
+, jamais des coûts de fabrication.
+1.4 La variabilité : fixes, variables, mixtes (cœur de tout le cours)
+GoPUR (jus de pomme) — l'exemple des notes de cours : classer chaque coût
+Coût
+4 000 unités
+8 000 unités
+Verdict
+Pommes
+10 000 $
+20 000 $
+Variable
+(double avec le volume)
+Salaire des superviseurs
+5 500 $
+5 500 $
+Fixe
+(ne bouge pas)
+Électricité (éclairage + force motrice)
+3 000 $
+5 000 $
+Mixte
+(monte, mais pas du double)
+Coût
+total
+Coût
+unitaire
+Coûts variables
+Varie
+proportionnellement
+au volume
+CONSTANT
+(10 000/4 000 = 20 000/8 000 = 2,50 $)
+Coûts fixes
+CONSTANT
+(dans le segment significatif)
+Varie
+inversement au volume (se dilue)
+L'avion des notes de cours — 100 passagers → 200 passagers (coûts fixes 50 000 $, CV 30 $/passager)
+Coût total à 100 : 50 000 + 30×100 =
+53 000 $
+→ coût moyen 530 $.
+À 200 : 50 000 + 30×200 =
+56 000 $
+→ coût moyen
+280 $
+.
+→
+CF total : 50 000 → 50 000 (inchangé)
+·
+CF unitaire : 500 → 250 (divisé par 2)
+·
+CV unitaire : 30 → 30 (inchangé)
+· CV total : 3 000 → 6 000.
+À retenir :
+quand le volume double, le coût MOYEN baisse uniquement parce que le coût fixe unitaire se dilue. Le coût variable unitaire, lui, ne change pas.
+ABC inc. (notes S01) — CV 1 $/u, CF 7,5 M$/an. Coût total et moyen à 15 M u, puis à 18 M u?
+À 15 M u : 7 500 000 + 1×15 000 000 = 22 500 000 $ → moyen =
+1,50 $
+.
+À 18 M u : 7 500 000 + 18 000 000 = 25 500 000 $ → moyen = 25,5 M ÷ 18 M =
+≈ 1,42 $
+.
+👁 Révéler l'explication
+Le coût moyen diminue parce que les 7,5 M$ de coûts fixes se répartissent sur plus d'unités (0,50 $/u → 0,4167 $/u). Le coût variable unitaire reste 1 $. C'est le principe de
+dilution des coûts fixes
+.
+Y = a + bX
+Y = coût total · a = coûts fixes · b = coût variable unitaire · X = volume — valable à l'intérieur du SEGMENT SIGNIFICATIF (la zone de volume plausible)
+Coûts mixtes
+: une partie fixe + une partie variable (ex. vendeur = base + commission; électricité = éclairage fixe + force motrice variable). Pour les séparer, le cours mentionne deux modèles : la
+méthode des points extrêmes
+(les 2 observations limites) et la
+régression linéaire simple
+(plus précise, utilise toutes les observations).
+Coût total vs coût moyen vs coût marginal
+: total = tout; moyen = total ÷ unités;
+marginal = coût de la DERNIÈRE unité
+(ex. des notes : stable à 50 $ pour les unités 5 001-5 004, puis bondit à 10 050 $ à l'unité 5 005 — nouveau palier de coûts fixes).
+1.5 Direct vs indirect (rappel S01, approfondi en S05)
+Coût direct
+: affecté
+sans ambiguïté
+à un objet de coût (ex. l'acier d'une voiture, la MOD sur la chaîne).
+Coût indirect
+: consommé par
+plusieurs
+objets de coût — il faut poser une
+hypothèse de répartition
+(ex. loyer de l'usine, superviseur, amortissement des machines). Les FGF sont indirects.
+Attention : direct ≠ variable! Une machine dédiée à un seul produit = coût fixe
+spécifique
+mais
+direct
+pour ce produit.
+Quiz éclair — Module 1
+1. Dans une boulangerie industrielle, le salaire du superviseur de production est…
+de la MOD (main-d'œuvre directe)
+des FVA (vente/administration)
+des FGF fixes
+2. (GoPUR) L'électricité coûte 3 000 $ pour 4 000 unités et 5 000 $ pour 8 000 unités. Ce coût est…
+mixte
+variable
+fixe
+3. (L'avion, 100 → 200 passagers) Quelle grandeur est divisée par deux quand le nombre de passagers double?
+Le coût fixe unitaire
+Le coût fixe total
+Le coût variable unitaire
+4. (Exemple des notes S03) 4 000 unités vendues 20 $; coûts totaux 56 000 $ dont 16 000 $ fixes. Vendre 1 000 unités de plus à 11 $ est…
+non rentable : 11 $ < coût moyen de 14 $
+rentable : le coût variable unitaire n'est que 10 $
+impossible à évaluer avec ces données
+5. (Cercle Délices) Les sacs de papier kraft et étiquettes dans lesquels les bagels sont vendus sont classés…
+frais de vente variables (FVA)
+FGF variables
+matières premières (MP)
+6. La comptabilité de gestion se distingue de la comptabilité financière parce qu'elle est…
+prévisionnelle et utile à la prise de décision interne
+réglementée et historique
+destinée uniquement aux tiers externes
+📊 Module 2 — Séance 2 : L'analyse coût-volume-résultat (CVR)
+L'idée en une phrase :
+l'analyse CVR mesure
+l'effet des variations de coûts, de volume et de prix sur le résultat d'exploitation
+. Elle repose entièrement sur la classification fixes/variables de la S01. C'est LA matière la plus calculable du quiz.
+2.1 L'équation du résultat (le socle de tout)
+Résultat d'exploitation = (MCV unitaire × Volume) − Coûts fixes totaux = MCV totale − Coûts fixes
+Ventes − (coûts variables + coûts fixes) · les coûts fixes ne changent JAMAIS avec le volume (dans le segment significatif)
+L'exemple des notes de cours (1 produit) : PV 500 $; CVu = MP 185 + MOD 75 + FGF var 15 + FV var 25 = 300 $; CF = FGF fixes 60 000 + FVA fixes 160 000 = 220 000 $; volume 1 600 unités.
+MCV unitaire = 500 − 300 =
+200 $
+(taux = 200/500 =
+40 %
+).
+Ventes = 1 600 × 500 = 800 000 $ · MCV totale = 1 600 × 200 = 320 000 $ · Résultat = 320 000 − 220 000 =
+100 000 $
+.
+Vérification par l'équation : 500V = 300V + 220 000 + 0 → 200V = 220 000 → même base que le point mort.
+⚠️ Les hypothèses de l'analyse CVR
+(question théorique probable) : tous les coûts classables fixes OU variables · le volume reste
+dans le segment significatif
+·
+les stocks restent constants
+(tout ce qui est produit est vendu) · le
+mix de ventes demeure constant
+· le changement d'activité est le seul facteur qui affecte les coûts.
+2.2 Le point mort (seuil de rentabilité) — en unités et en dollars
+Point mort (unités) = Coûts fixes ÷ MCV unitaire   ·   Point mort ($) = Coûts fixes ÷ MCV %
+MCV % = MCV unitaire ÷ prix de vente · Le point mort est le volume où le résultat = 0 $ (ni profit, ni perte)
+Le party des notes de cours (option 1) : billet 25 $, combo 20 $/personne, salle 400 $.
+MCV unitaire = 25 − 20 =
+5 $
+· Point mort = 400 ÷ 5 =
+80 billets
+.
+Option 2 (salle 1 000 $, combo 15 $) : MCV 10 $ → PM = 1 000 ÷ 10 =
+100 billets
+.
+Point mort en dollars — exemple des notes : CF 220 000 $, MCV % = 40 % → PM = 220 000 ÷ 0,40 = 550 000 $.
+Vérif : en unités, PM = 220 000 ÷ 200 = 1 100 unités × 500 $ = 550 000 $. Les deux chemins donnent la même réponse.
+2.3 Le résultat cible et le résultat potentiel
+Unités pour un résultat cible = (Coûts fixes + Résultat cible) ÷ MCV unitaire
+Résultat potentiel = (MCV unitaire × volume à PLEINE capacité) − coûts fixes : le résultat MAXIMUM espéré
+Le party : ① profit de 200 $ souhaité → (400 + 200) ÷ 5 = 120 billets. ② 150 personnes (max) → résultat = 150×5 − 400 = 350 $ (option 1) ou 150×10 − 1 000 = 500 $ (option 2).
+👁 Révéler la lecture
+Le « résultat potentiel » se calcule TOUJOURS à pleine capacité (150 personnes max ici). Si le résultat cible est exprimé
+après impôts
+, remonte d'abord à l'avant-impôt : cible avant impôt = cible après impôt ÷ (1 − taux d'imposition).
+2.4 La marge de sécurité
+Marge de sécurité = Ventes prévues (ou réelles) − Point mort
+En unités, en dollars, ou en % (MS ÷ ventes) : c'est la baisse de ventes que l'entreprise peut absorber sans perte
+Le party : 100 billets prévus, PM à 80 → MS = 20 billets (20 %). Option 2 : PM à 100 → MS = 0 billet : zéro marge d'erreur.
+👁 Révéler la lecture stratégique
+Plus la marge de sécurité (%) est élevée, moins le projet est risqué. Option 1 = plus sûr (MS 20 %), option 2 = plus payant au-delà de 120 personnes. C'est exactement le genre d'interprétation demandée en QCM.
+2.5 Le seuil d'indifférence (comparer deux structures de coûts)
+(MCV₁×V) − CF₁ = (MCV₂×V) − CF₂  ⇒  V* = (CF₁ − CF₂) ÷ (MCV₂ − MCV₁)
+Le volume où deux propositions donnent le MÊME résultat. Avant V* → la structure aux CF plus bas gagne; après V* → celle à la MCV plus élevée gagne.
+Le party : V* = (1 000 − 400) ÷ (10 − 5) = 600 ÷ 5 = 120 billets.
+À 120 billets : option 1 = 120×5 − 400 = 200 $; option 2 = 120×10 − 1 000 = 200 $. Identiques ✓.
+À 121 billets : option 2 gagne (210 $ vs 205 $ — chaque billet de plus rapporte 10 $ au lieu de 5 $).
+À 100 billets : option 1 gagne (100 $ vs 0 $).
+L'Étoile ltée (exercice officiel S02, chiffres vérifiés) : PV 70 $; statu quo MCV 40 $, CF 450 000 $; robotisation MCV 55 $ (CV divisés par 2 : 30 → 15), CF 675 000 $.
+PM statu quo = 450 000 ÷ 40 =
+11 250 u
+· PM robotisé = 675 000 ÷ 55 =
+≈ 12 273 u
+(le PM se dégrade de 1 023 u).
+Seuil d'indifférence : 40V − 450 000 = 55V − 675 000 → 225 000 = 15V →
+V* = 15 000 u
+.
+Or l'entreprise vend exactement 15 000 u → les deux options donnent 150 000 $ de résultat →
+indifférent quantitativement
+.
+Marge de sécurité à 15 000 u : 3 750 u (
+25 %
+) vs 2 727 u (
+18,2 %
+) → la robotisation réduit la marge de sécurité = plus risqué.
+2.6 Multi-produits : la MCV pondérée
+MCV pondérée = MCV totale de tous les produits ÷ Volume total
+NE PAS confondre avec la moyenne arithmétique (MCV₁+MCV₂+MCV₃)÷3 — la pondération tient compte de l'importance relative de chaque produit
+Tartes/gâteaux/biscuits (notes de cours) : volumes 1 000 / 600 / 2 000; MCV 3 $ / 20 $ / 1,50 $; CF = 3 500 FGF + 2 000 FVA = 5 500 $.
+MCV totale = 3 000 + 12 000 + 3 000 = 18 000 $ pour 3 600 unités →
+MCV pondérée = 5,00 $
+(PAS la moyenne (3+20+1,5)/3 = 8,17 $!).
+Point mort = 5 500 ÷ 5,00 =
+1 100 unités
+(au mix constant).
+👁 Révéler le piège du mix
+Ce calcul suppose que le
+mix de vente demeure constant
+(hypothèse CVR). Si le mix change, la MCV pondérée change, et le point mort avec elle.
+Nordet (exercice officiel, chiffres vérifiés) : drapeaux 4 $×30 000 + casquettes 9 $×20 000 + capuchons 25 $×15 000 + maillots 52,50 $×10 000 = MCV totale 1 200 000 $; CF 900 000 $; capacité 100 000 u; résultat 300 000 $.
+MCV pondérée = 1 200 000 ÷ 75 000 =
+16,00 $
+· PM = 900 000 ÷ 16 =
+56 250 unités
+· MS = 75 000 − 56 250 =
+18 750 u (25 %)
+.
+Résultat potentiel = 16 × 100 000 − 900 000 =
+700 000 $
+.
+Astuce de la solution officielle : MCV totale = Résultat + CF = 300 000 + 900 000 = 1 200 000 $ (l'équation du résultat à l'envers!).
+2.7 Les 3 décisions CVR types (questions des notes)
+Rabais sur le PV de 10 %
+(PV 800 $, CVu 300 $, CF 300 000) : MCV passe de 500 $ à 0,90×800 − 300 = 420 $ → PM passe de 600 u (480 000 $) à 300 000 ÷ 420 ≈ 715 u (≈ 514 300 $) →
+le point mort se dégrade
+(il faut vendre ~19 % d'unités en plus pour simplement ne rien perdre).
+Hausse du coût des MP
+(CVu 300 → 320 $, PV 800 $ inchangé, ventes 1 300 u) : MCV 500 → 480 $ → nouveau PM = 300 000 ÷ 480 = 625 u. Résultat actuel = 1 300×500 − 300 000 = 350 000 $; nouveau résultat = 1 300×480 − 300 000 = 324 000 $. Pour maintenir 350 000 $ : (300 000 + 350 000) ÷ 480 =
+1 354,2 → ≈ 1 355 unités
+(≈ 55 unités additionnelles).
+Investissement machine
+(nouvelle machine : CF +125 000 $, économie MOD 50 $/u) : c'est un seuil d'indifférence déguisé — 125 000 ÷ 50 =
+2 500 unités
+: au-delà de 2 500 u, la machine gagne. Si la demande prévue est de 3 000 u > 2 500 →
+acheter la machine
+.
+Quiz éclair — Module 2
+1. (XYZ, notes de cours) Tables à 50 $; MP 6 $; MOD 8 $; FGF var 1 $; frais de vente totaux 112 500 $ (40 % variables) pour 15 000 unités. MCV unitaire?
+32 $
+35 $
+29 $
+2. (Party option 1 : billet 25 $, combo 20 $, salle 400 $) Point mort?
+80 billets
+100 billets
+16 billets
+3. CF 220 000 $; PV 500 $; CVu 300 $. Point mort en dollars de ventes?
+440 000 $
+1 100 $
+550 000 $
+4. (Party option 1) Combien de billets pour dégager exactement 200 $ de profit?
+48 billets
+120 billets
+140 billets
+5. (Party) Seuil d'indifférence entre les deux salles, et choix si 150 personnes viennent?
+100 billets → option 1
+120 billets → option 1 même à 150 personnes
+120 billets → option 2 (résultat 500 $ vs 350 $)
+6. (Tartes/gâteaux/biscuits) La MCV pondérée est de…
+5,00 $
+8,17 $
+3,00 $
+⚖️ Module 3 — Séance 3 : L'analyse différentielle et les coûts pertinents
+L'idée en une phrase :
+pour décider (accepter une commande, fabriquer ou acheter, abandonner un produit), on ne compare PAS tout : on ne regarde que ce qui
+change
+entre les options. « Différentiel » = la différence entre deux propositions.
+3.1 Coûts pertinents vs non pertinents (la base de TOUT)
+Définition
+Exemples
+PERTINENTS
+Coûts
+futurs
+qui
+diffèrent
+d'une proposition à l'autre
+CV de la commande,
+coûts fixes spécifiques
+ajoutés,
+coût de renonciation
+NON pertinents
+Identiques quelle que soit l'alternative → on les ignore
+Coûts irrécupérables (sunk)
+,
+coûts fixes communs
+🚨 Le coût irrécupérable (sunk cost) — l'erreur fatale #1 du quiz :
+décision passée, irrévocable,
+JAMAIS pertinente
+. Exemple des notes : 600 000 $ d'études déjà engagées sur un projet; terminer coûte 900 000 $ de plus et rapporte 1 300 000 $. On compare 1 300 000 vs 900 000 →
++400 000 $ → on termine
+, peu importe le million déjà dépensé. (Exemples types : stock désuet, immobilisation qu'on remplace, R&D déjà encourue.)
+Coûts fixes spécifiques vs communs :
+spécifique
+= associé à UN objet de coût, il
+disparaît si l'objet disparaît
+(ex. amortissement de l'équipement utilisé uniquement pour le produit Z, équipement d'hiver de la ferme Deschamps) → PERTINENT.
+Commun
+= partagé par plusieurs objets (amortissement du bâtiment, taxes, chauffage, salaire du directeur d'usine) → reste même si on arrête un produit → NON pertinent.
+Le coût de renonciation (opportunity cost) :
+le
+manque à gagner
+de la meilleure option à laquelle on renonce.
+Toujours pertinent
+. Pas de déboursé, aucune transaction — mais il se calcule comme un vrai coût (ex. : la machine qui peut faire le produit A ou B; choisir A = renoncer à la marge de B).
+3.2 La commande spéciale — la recette en 4 étapes
+La recette officielle :
+①
+Analyse de capacité
+(peut-on produire les unités additionnelles?) → ②
+MCV de la commande
+(PV offert − CV
+de la commande
+, qui peuvent différer des commandes régulières) → ③ soustraire
+coûts fixes spécifiques
+et
+coût de renonciation
+→ ④
+résultat différentiel
+= impact sur le résultat (+ on accepte, − on refuse) + arguments qualitatifs.
+Résultat différentiel = MCV totale de la commande − Coûts fixes spécifiques − Coût de renonciation
+Prix de vente MINIMUM = (CV de la commande + CF spécifiques + coût de renonciation) ÷ unités de la commande — le prix qui donne un impact de 0 $
+PommeD'or (retour S03/S04 des notes) : 200 000 ours/an à 45 $; CV 12 $; un grossiste veut 8 000 ours à 20 $, frais de livraison supplémentaires 1,25 $/ours; capacité disponible.
+MCV de la commande = (20 − 12 − 1,25) × 8 000 = 6,75 × 8 000 =
++54 000 $ → accepter
+.
+👁 Révéler pourquoi c'est un piège
+Le prix (20 $) est bien inférieur au prix courant (45 $) et même au « coût total » (12 + 9 = 21 $) — mais les 9 $ de coûts fixes sont déjà payés (communs) : seuls les CV (12 + 1,25) comptent.
+Ne JAMAIS utiliser le coût complet unitaire pour juger une commande spéciale.
+Mme Bolduc — Hôtel Dominic (exercice officiel, chiffres vérifiés) : 100 chambres, 80 % d'occupation habituelle, PV 100 $/jour, entretien 35 $/jour louée. Gosselin offre 25 chambres à 80 $/jour.
+① Capacité :
+80 + 25 = 105 > 100 →
+déficit de 5 chambres
+→ il faudra refuser 5 clients réguliers (coût de renonciation!).
+② MCV congrès :
+(80 − 35) × 25 = 45 × 25 = 1 125 $.
+③ Renonciation :
+5 × (100 − 35) = 5 × 65 =
+325 $
+.
+④ Résultat différentiel = 1 125 − 325 = +800 $ → accepter
+(puis peser les facteurs qualitatifs : clients réguliers déçus, qualité du service, futur congrès…).
+Ubois (12B.3, fait en classe) — les 3 subtilités de l'énoncé à retenir :
+① Le
+rabais de 4 $ sur le matériel de recouvrement
+ne s'applique QU'AUX unités de la commande → CVu recouvrement = 16 − 4 = 12 $.
+② La
+commission de 10 % ne s'applique pas
+à la commande spéciale → frais de vente variables = 0 $.
+CVu de la commande = bois 15 + rembourrure 3 + recouvrement 12 + MOD 36 + FGF var 5 =
+71 $
+(vs 75 $ + commission pour les régulières).
+③ Les
+paliers de coûts fixes
+: 24 000 u produites + 9 000 u commandées = 33 000 u > 30 000 → CF passent de 840 000 $ à 1 080 000 $ (palier suivant) → +240 000 $ de CF
+spécifiques
+déclenchés par la commande. Ça change tout le calcul du prix minimum!
+3.3 Fabriquer ou acheter (sous-traiter)
+ABC pédales (notes de cours, chiffres vérifiés) : fabriquer 50 000 pédales coûte MP 125 000 + MOD 62 500 + FGF var 87 500 + FGF fixes (dont 25 000 spécifiques à la machine des pédales, 150 000 communs) = 450 000 $ (9 $/u). Le fournisseur offre 7,75 $/u.
+Coûts pertinents de FABRIQUER
+= 125 000 + 62 500 + 87 500 + 25 000 (spécifiques) =
+300 000 $
+— les 150 000 $ communs sont payés de toute façon.
+Coût pertinent d'ACHETER
+= 7,75 × 50 000 =
+387 500 $
+.
+Sans autre opportunité : fabriquer économise
+87 500 $
+.
+Avec le produit L900
+(si on achète, la capacité libérée rapporte +100 000 $ de résultat) : fabriquer coûte 300 000 + 100 000 (renonciation, car la machine est occupée) =
+400 000 $
+vs acheter 387 500 $ →
+acheter
+, économie nette de
+12 500 $
+. La solution officielle aboutit au même 12 500 $.
+👁 Révéler la morale
+Le coût de renonciation se place du côté de l'option qui
+occupe la ressource
+(fabriquer). Dès qu'une capacité libérée a de la valeur, la décision peut basculer. Facteurs qualitatifs ensuite : qualité du fournisseur, délais de livraison, dépendance…
+3.4 Continuer ou abandonner un produit
+Marge sur coûts spécifiques = MCV totale − Coûts fixes spécifiques
+Si elle est POSITIVE, le produit contribue à payer les coûts fixes communs → on le GARDE, même s'il montre une « perte » à l'état des résultats complets
+Ferme Deschamps (notes S03/S04, chiffres vérifiés) : l'hiver affiche une perte de 31 000 $. Ventes hiver 130 000; CV 105 000; équipement hiver (spécifique) 12 000; bâtiment 20 000 et tracteurs 24 000 = communs été/hiver.
+MCV hiver = 130 000 − 105 000 = 25 000 $ − CF spécifiques 12 000 =
+marge sur coûts spécifiques +13 000 $
+→
+continuer le déneigement
+. Abandonner l'hiver ferait perdre 13 000 $ de couverture des coûts communs.
+Produit X (notes) : ventes 32 000; CV 24 000; CF totales 12 000 (dont 3 900 spécifiques) → perte affichée 4 000 $. Faut-il l'abandonner?
+👁 Révéler l'analyse
+MCV = 8 000 $; CF spécifiques = 3 900 $ → marge sur coûts spécifiques =
++4 100 $
+. Si on abandonne : on perd 8 000 $ de MCV mais on n'économise que 3 900 $ → le résultat global chute de 4 100 $ (19 000 → 14 900).
+On garde le produit X
+— sa « perte » vient des coûts fixes communs qu'on lui a arbitrairement répartis.
+⚠️ Facteurs qualitatifs (toujours demandés)
+: effet sur les employés restants, lien du produit avec les ventes d'autres produits, possibilité de récupérer les ventes perdues, qualité, fournisseurs, trésorerie, image… Une bonne réponse en cite 2-3 LIÉS AU CAS, pas une liste générique.
+Quiz éclair — Module 3
+1. Projet : 600 000 $ déjà dépensés en études; 900 000 $ pour terminer; revenus prévus 1 300 000 $. On…
+termine : gain différentiel de 400 000 $
+abandonne : 1 300 000 < 600 000 + 900 000
+est indifférent
+2. (PommeD'or) Résultat différentiel de la commande de 8 000 ours à 20 $ (CV 12 $, livraison 1,25 $, capacité disponible)?
+−8 000 $ (prix < coût total unitaire de 21 $)
++160 000 $
++54 000 $
+3. (Mme Bolduc) Le coût de renonciation vaut…
+325 $ (5 × 65 $)
+225 $ (5 × 45 $)
+0 $ (l'hôtel a assez de chambres)
+4. (ABC pédales) AVEC la possibilité de produire le L900 (+100 000 $ de résultat si la capacité est libérée), que fait-on?
+Fabriquer : économie de 87 500 $
+Acheter : économie nette de 12 500 $
+Acheter : économie de 112 000 $
+5. (Ferme Deschamps) Faut-il abandonner le déneigement l'hiver?
+Non : marge sur coûts spécifiques de +13 000 $
+Oui : l'hiver perd 31 000 $
+Oui : les coûts fixes de l'hiver sont évitables en totalité
+6. Dans une commande spéciale, quel élément n'entre JAMAIS dans le calcul du résultat différentiel?
+Les coûts fixes spécifiques déclenchés par la commande
+Le coût de renonciation sur les ventes régulières
+La quote-part des coûts fixes communs de l'usine
+🏭 Module 4 — Séance 4 : Marges et plan de production optimal
+L'idée en une phrase :
+quand une ressource est
+limitée
+(heures de MOD, heures-machines, capacité), on ne peut pas tout produire — il faut
+prioriser les produits qui rapportent le plus PAR UNITÉ DE RESSOURCE LIMITÉE
+, pas ceux qui ont la plus grosse marge unitaire.
+4.1 La marge sur coûts spécifiques (rappel structurant)
+Marge sur coûts spécifiques = MCV totale − Coûts fixes spécifiques
+Elle mesure la contribution d'un objet de coût à la couverture des coûts fixes COMMUNS et au résultat. (Dans le manuel, on l'appelle « marge nette ».)
+La colonne vertébrale du cours (à mémoriser) :
+Ventes − CV =
+MCV
+; MCV − coûts fixes SPÉCIFIQUES =
+marge sur coûts spécifiques
+; − coûts fixes COMMUNS = résultat d'exploitation. Et
+coûts directs = coûts variables + coûts fixes spécifiques
+.
+4.2 Le facteur contraignant et la marge par facteur
+MCV par facteur de production = MCV unitaire ÷ nombre d'unités du facteur requises par produit
+Facteur contraignant = la ressource limitée (heures de MOD, heures-machines, kg de MP…). On PRIORISE le produit à la plus grande MCV par unité de facteur.
+Électroflux (notes de cours, chiffres vérifiés) : néons (MCV 150 $, 2 h MOD/boîte, demande 41 000) et ampoules (MCV 120 $, 1 h MOD/boîte, demande 164 000). 240 000 h MOD disponibles; besoin total = 41 000×2 + 164 000×1 = 246 000 h → manque 6 000 h.
+MCV par heure : néons 150 ÷ 2 =
+75 $/h
+· ampoules 120 ÷ 1 =
+120 $/h
+→
+prioriser les ampoules
+.
+Le piège du contrôleur :
+il propose de couper les ampoules (MCV unitaire 120 $ < 150 $) —
+FAUX
+: par heure, les ampoules rapportent 120 $ vs 75 $.
+Plan optimal :
+ampoules au max (164 000 boîtes = 164 000 h) → reste 240 000 − 164 000 = 76 000 h → néons = 76 000 ÷ 2 =
+38 000 boîtes
+(3 000 boîtes de néons sacrifiées = exactement les 6 000 h manquantes ÷ 2 h).
+Révision facteur contraignant (exercice officiel « niveau facile », chiffres vérifiés) : X (MCV 8 $, 1 h), Y (MCV 18 $, 3 h), Z (MCV 14 $, 2 h); demandes 6 000 / 5 200 / 5 000; MOD limitée à 30 000 h.
+MCV/heure : X =
+8 $
+· Y =
+6 $
+· Z =
+7 $
+→ ordre
+X (1
+er
+) → Z (2
+e
+) → Y (3
+e
+)
+— même si Y a la plus grosse MCV unitaire!
+Besoin total : 6 000 + 15 600 + 10 000 = 31 600 h > 30 000 h → déficit 1 600 h.
+Plan optimal : X 6 000 u (6 000 h) + Z 5 000 u (10 000 h) → reste 14 000 h pour Y = 14 000 ÷ 3 =
+4 666 unités de Y
+.
+FLYREST (exercice officiel, chiffres vérifiés) : TIR (PV 100, CV 78, MCV 22 $, 1,0 hm/u, demande 50 000) et BAH (PV 70, CV 56,50, MCV 13,50 $, 0,5 hm/u, demande 150 000). Capacité 100 000 hm.
+Besoin : 50 000 + 75 000 = 125 000 hm > 100 000 → manque 25 000 hm.
+MCV/hm : TIR 22 ÷ 1,0 =
+22 $/hm
+· BAH 13,50 ÷ 0,5 =
+27 $/hm
+→
+BAH prioritaire
+(pourtant TIR a le résultat unitaire ET la MCV les plus élevés!).
+Plan optimal :
+BAH 150 000 u
+(75 000 hm) +
+TIR 25 000 u
+(25 000 hm restantes).
+Bonus (question b) : louer un équipement (+300 000 $ CF, +25 000 hm, MOD −2 $/h sur ces unités) → MCV additionnelle 25 000×22 = 550 000 + économie MOD 50 000 − 300 000 =
++300 000 $ → rentable
+.
+🚨 La règle des 3 étapes (toujours la même) :
+①
+Analyse de capacité
+: besoin (demande × facteur/u) vs disponible → déficit? ②
+MCV par unité de facteur
+pour classer les produits ③
+Plan optimal
+: produire au max les priorités, le produit le moins rentable/heure absorbe la coupe. Si AUCUN facteur n'est limité → produire au maximum de la DEMANDE de chaque produit.
+4.3 Multi-produits + renonciation (lien S03-S04)
+Quand une commande spéciale dépasse la capacité
+avec plusieurs produits
+, on renonce d'abord aux produits à la
+plus petite MCV par facteur contraignant
+(ou à la plus faible marge sur coûts spécifiques). C'est exactement la logique de l'Autobus Bégin (TP1,
+module 7
+) : la pénurie de MOD
+spécialisée
+force à choisir entre Touriste, Deluxe et Voyageur.
+Quiz éclair — Module 4
+1. (Électroflux) Quel produit prioriser quand la MOD manque?
+Les néons (MCV unitaire 150 $)
+Les ampoules (120 $ par heure de MOD)
+Les deux à parts égales
+2. (Électroflux) Plan de production optimal?
+41 000 néons + 158 000 ampoules
+38 000 néons + 152 000 ampoules
+38 000 néons + 164 000 ampoules
+3. (FLYREST) Quel modèle prioriser?
+BAH (27 $/hm)
+TIR (MCV unitaire 22 $)
+TIR (résultat unitaire 6,00 $)
+4. (FLYREST) Plan optimal?
+50 000 TIR + 75 000 BAH
+150 000 BAH + 25 000 TIR
+50 000 TIR + 150 000 BAH (il suffit d'embaucher)
+5. (Révision facteur contraignant) Ordre de priorité de production?
+Y → Z → X
+X → Y → Z
+X → Z → Y
+6. La marge sur coûts spécifiques se calcule…
+Ventes − coûts variables − coûts fixes totaux
+MCV totale − coûts fixes spécifiques
+MCV unitaire ÷ heures de MOD
+🧮 Module 5 — Séance 5 : Imputation des FGF et marge brute par produit
+Le problème à résoudre :
+MP et MOD se rajoutent facilement à un produit (coûts
+directs
+). Mais les
+FGF
+(loyer, amortissement, superviseur…) sont
+indirects
+— partagés par tous les produits. Comment répartir 10 000 $ de FGF entre des pâtes fraîches et des pizzas? Réponse :
+l'imputation
+, à l'aide d'un taux et d'une base.
+5.1 Les 4 étapes officielles
+Étape 1 :
+choisir une
+base d'imputation
+commune aux produits (unités, heures de MOD, heures-machines, coût de MOD, nombre de composants…) ·
+Étape 2 :
+calculer le
+taux d'imputation
+·
+Étape 3 :
+répartir les FGF aux produits (taux × volume de base par unité) ·
+Étape 4 :
+coût de fabrication unitaire = MP + MOD + FGF imputés.
+Taux d'imputation = FGF totaux (du centre de coûts) ÷ Volume total de la base d'imputation (du centre)
+FGF imputés par unité = taux × quantité de base requise par unité (ex. taux $/hmod × 0,15 hmod/u)
+Coût de fabrication unitaire = MP + MOD + FGF imputés   ·   Marge brute = Prix de vente − Coût de fabrication
+JAMAIS de frais de vente/administration dans la marge brute — ils sont après
+5.2 Un produit d'abord (simple) : PizzaNord 1 produit
+PizzaNord (notes de cours) : 5 000 pâtes à 6,00 $. MP = farine 0,70 + levure 0,20 + emballage 0,30 = 1,20 $ · MOD = 0,05 h × 20 $/h = 1,00 $ · FGF variables 0,40 + 0,20 = 0,60 $ · FGF fixes = amortissement 2 500 + superviseur 2 000 + loyer usine 1 500 = 6 000 $.
+FGF fixes imputés = 6 000 ÷ 5 000 u =
+1,20 $/u
+→ FGF totaux unitaires = 0,60 + 1,20 = 1,80 $.
+Coût de fabrication = 1,20 + 1,00 + 1,80 = 4,00 $
+→
+marge brute = 6,00 − 4,00 = 2,00 $
+.
+(La commission 5 % = 0,30 $ et la livraison 0,30 $ sont des FVA : hors du coût de fabrication. La marge sur coûts variables serait 6,00 − 1,20 − 1,00 − 0,60 − 0,60 = 2,60 $.)
+5.3 L'imputation par centres de coûts : PizzaNord 3 produits (l'exemple ROI de la séance)
+Centre de coûts
+= un lieu physique où se déroulent des activités (usine, atelier, département…). Chaque produit qui
+passe
+par un centre doit absorber sa juste part des coûts du centre →
+un taux d'imputation PAR centre
+, avec la base qui a du sens pour ce centre.
+PizzaNord 3 produits (chiffres officiels vérifiés) — 3 ateliers : A1 Préparation (manuel, 4 700 $, base heures-MOD), A2 Fabrication (automatisé, 4 125 $, base heures-machines), A3 Emballage (1 175 $, base unités). Volumes : pâtes 4 000 u (200 hmod), margarita 3 000 u (450 hmod, 750 hm), toute-garnie 3 000 u (525 hmod, 900 hm).
+Taux :
+A1 = 4 700 ÷ (200+450+525 = 1 175 hmod) =
+4,00 $/hmod
+· A2 = 4 125 ÷ (750+900 = 1 650 hm) =
+2,50 $/hm
+· A3 = 1 175 ÷ 10 000 u =
+0,1175 $/u
+.
+FGF imputés/unité :
+pâtes = 4×0,05 + 0 + 0,1175 =
+0,3175 $
+· margarita = 4×0,15 + 2,50×0,25 + 0,1175 =
+1,3425 $
+· toute-garnie = 4×0,175 + 2,50×0,30 + 0,1175 =
+1,5675 $
+.
+Marges brutes :
+pâtes = 6,00 − (1,50+1,00+0,3175) =
+3,18 $
+· margarita = 12,00 − 8,3425 =
+3,66 $
+· toute-garnie = 14,00 − 10,0675 =
+3,93 $
+.
+Leçon officielle :
+répartis « selon les unités », les pâtes montraient 2,50 $ de marge brute; par centres, 3,18 $ — les pâtes ne passent PAS par la machine à pizza (A2) : elles absorbaient une part injuste de FGF.
+Plusieurs centres = répartition plus juste quand les processus diffèrent.
+5.4 Choisir la base : les critères (question théorique probable)
+Base commune
+à tous les produits du centre (indispensable).
+Un seul produit
+, ou plusieurs produits qui consomment les ressources de façon
+similaire
+→ base =
+nombre d'unités
+.
+Produits qui consomment différemment
+(gâteaux vs biscuits : cuisson différente) → heures-machines, heures de MOD… selon le
+déclencheur de coûts
+.
+Processus automatisé
+→ heures-machines (l'amortissement/entretien des machines suit leur utilisation);
+processus manuel
+→ heures de MOD.
+Analyser la
+liste des FGF
+: qu'est-ce qui déclenche le plus de charges?
+4CG.1 (exercice officiel, chiffres vérifiés) : 9 000 000 $ de FGF; produit P (100 000 u, MOD 50 $/u, 2 composants) et Q (200 000 u, MOD 100 $/u, 3 composants). Trois bases testées :
+Selon le coût de MOD : 9 M ÷ (5 M + 20 M) =
+0,36 $ par 1 $ de MOD
+→ P : 1,8 M$ · Q : 7,2 M$.
+Selon les unités : 9 M ÷ 300 000 u =
+30 $/u
+→ P : 3 M$ · Q : 6 M$.
+Selon les composants : 9 M ÷ (200 000 + 600 000) =
+11,25 $/composant
+→ P : 2,25 M$ · Q : 6,75 M$.
+Leçon officielle : le TOTAL imputé (9 M$) est toujours le même — seule la RÉPARTITION entre produits change
+, et avec elle les coûts, les marges, les prix… et les décisions.
+Société du Mérite / 4CG.2 (chiffres officiels vérifiés) : FGF = 1 232 000 $ (dont 144 000 $ = 80 % des assurances/taxes/entretien du bâtiment à l'usine; les 20 % bureaux sont exclus). Standard : 0,2 hm/u, 0,25 hmod/u; De luxe : 0,4 hm/u, 2,2 hmod/u.
+Base heures-machines : 1 232 000 ÷ (24 000 + 20 000 = 44 000 hm) =
+28,00 $/hm
+→ FGF Standard 5,60 $, De luxe 11,20 $ → coût de fabrication 18,10 $ vs 55,75 $ →
+marge brute 3,90 $ (17,7 %) vs 14,25 $ (20,4 %)
+.
+Base heures-MOD : 1 232 000 ÷ (30 000 + 110 000 = 140 000 h) =
+8,80 $/hmod
+→ FGF 2,20 $ vs 19,36 $ → marges brutes
+7,30 $ (33,2 %) vs 6,09 $ (8,7 %)
+.
+Même entreprise, mêmes ventes (6 140 000 $), même marge brute TOTALE (1 180 500 $) — mais le portrait par produit est complètement inversé!
+La base recommandée : la majorité des FGF sont déclenchés par la MOD → heures de MOD.
+Guerlain / produit Abeille (notes de cours, chiffres vérifiés) : FGF totaux 2 275 000 $. Avec UN taux (base hmod, 11 375 h) : taux = 200 $/hmod → Abeille (2,5 h) absorbe 500 $ → marge brute 3 000 − 100 − 150 − 500 =
+2 250 $ (75 %)
+. Avec DEUX centres (A1 automatisé 1 950 000 $ ÷ 1 300 hm = 1 500 $/hm — Abeille n'y passe pas; A2 manuel 325 000 $ ÷ 6 500 hmod = 50 $/h × 2,5 h = 125 $) → marge brute
+2 625 $ (≈ 88 %)
+. La méthode traditionnelle unique
+surchargeait
+le produit fait main.
+5.5 Les limites de la méthode traditionnelle (théorie)
+Plus la
+proportion de charges indirectes est importante
+, plus le risque de
+biais
+est grand (ex. des notes : FGF = 85 % des coûts → la répartition TOUT déforme).
+Une
+base unique
+quand les produits consomment différemment → coûts biaisés → mauvaises décisions (prix de vente, rentabilité, abandon erroné d'un produit).
+Le coût complet (avec FGF imputés) sert à la
+rentabilité par produit
+(marge brute) et à l'
+évaluation des stocks
+— PAS aux décisions court terme (S02-S04 utilisent la MCV).
+Frais de vente et d'administration :
+interdits
+dans l'évaluation des stocks; on peut les imputer pour un coût de revient complet à des fins de gestion.
+Le taux d'imputation utilise des FGF
+budgétés
+et une base
+budgétée
+; si le volume réel diffère du budgété, il y a sous/sur-imputation (surtout développé à la S08 — sache juste reconnaître le terme).
+Quiz éclair — Module 5
+1. (PizzaNord) Le taux d'imputation de l'atelier 1 Préparation (4 700 $, base hmod; total 1 175 hmod)?
+2,35 $/hmod
+4,00 $/hmod
+0,1175 $/hmod
+2. (4CG.1) Taux d'imputation selon le nombre d'unités assemblées?
+11,25 $/unité
+45 $/unité
+30 $/unité
+3. (4CG.1) Quand on passe d'une base d'imputation à l'autre, qu'est-ce qui change?
+Seule la répartition des FGF entre produits change
+Le total des FGF imputés change
+Les coûts directs (MP, MOD) changent aussi
+4. (PizzaNord 3 produits) Marge brute unitaire des pâtes fraîches avec l'imputation par centres?
+2,50 $
+3,18 $
+4,00 $
+5. Pour un centre de coûts dont le processus est entièrement AUTOMATISÉ, la base d'imputation la plus logique est…
+les heures-machines
+les heures de main-d'œuvre directe
+le nombre de composants
+6. Le coût de fabrication unitaire comprend…
+MP + MOD + FGF + frais de vente variables
+Coûts variables seulement
+MP + MOD + FGF imputés
+📈 Module 6 — Séance 6 : Mesure et évaluation de la performance
+L'idée en une phrase :
+une fois les décisions prises, il faut
+mesurer
+si les gestionnaires et les unités performent — avec des indicateurs financiers (RCI, RNR) ET non financiers (tableau de bord), et en distinguant la performance
+du dirigeant
+de celle de
+l'organisation
+.
+6.1 La performance est multidimensionnelle
+La performance n'est pas que financière : respect de l'environnement, capacité à innover, satisfaction de la clientèle…
+Indicateurs financiers
+(coûts, revenus, rentabilité — ex. analyse des écarts, RCI) : renseignent sur la performance
+PASSÉE
+.
+Indicateurs non financiers
+(taux de satisfaction clientèle, % de capacité utilisée, taux de rétention…) : éclairent la performance
+FUTURE
+. Question de quiz ultra-classique.
+Pourquoi mesurer? Faire connaître la stratégie et coordonner · décider et améliorer (allouer aux entités à potentiel) ·
+inciter
+les employés (rémunérer la performance) ·
+contrôler
+(comparer les entités).
+6.2 Décentralisation et centres de responsabilité
+Décentralisation
+= déléguer un degré d'autonomie décisionnelle à des subdivisions (centres de responsabilité).
+Avantages :
+décisions plus rapides, meilleure réponse aux besoins locaux, motivation des cadres.
+Désavantages :
+dédoublement de tâches, perte d'économies d'échelle,
+perte de contrôle
+(plus risqué), absence de coordination, objectifs des directeurs ≠ objectifs de l'entreprise.
+Centre de…
+Le gestionnaire contrôle
+Objectif
+Exemple du cours
+coûts
+Les coûts seulement
+Contrôler les coûts
+Département de production ou de service
+revenus
+Les revenus seulement
+Maximiser les revenus
+Département des ventes
+profit
+Revenus ET coûts
+Maximiser les profits
+Département des bijoux de la Baie d'Hudson
+investissement
+Revenus + coûts +
+investissements
+Maximiser profits ET rendement des investissements
+Lignes de produits de General Mills
+6.3 Le RCI — rendement sur capital investi ⭐
+RCI = Résultat d'exploitation ÷ Capital investi
+Définitions DU COURS 10904 : résultat net = résultat d'EXPLOITATION (avant impôts et frais financiers) · capital investi = ACTIF UTILISÉ (actifs générant des revenus). Ne mélange pas avec ventes÷actif ou résultat net après impôt!
+Division beauté de B&G (notes de cours, chiffres vérifiés) : ventes 2 000 000 $; MCV 45 % = 900 000 $; CF spécifiques 300 000 $ → résultat d'exploitation 600 000 $; capital investi 5 000 000 $.
+RCI = 600 000 ÷ 5 000 000 =
+12 %
+— le gestionnaire génère 12 ¢ de résultat par dollar d'actif utilisé.
+Trois leviers pour améliorer le RCI :
+①
+accroître les revenus
+(ex. nouvelle campagne) ②
+réduire les coûts/dépenses
+③
+réduire le capital investi
+(actif utilisé). —
+Avantages du RCI :
+données accessibles, tient compte des investissements (pas juste le résultat), permet de comparer des placements.
+Inconvénient clé :
+ignore le
+taux de rendement minimal requis
+(coût du capital) → c'est pour ça qu'existe le RNR.
+6.4 Le RNR — résultat net résiduel ⭐
+RNR = Résultat net (d'exploitation) − (Taux de rendement minimal requis × Capital investi)
+Le RNR est un MONTANT EN $ (pas un %). Positif = l'entité dépasse le résultat exigé (profit au-delà des « intérêts fictifs »).
+Exemple des notes : résultat 1 600 000 $, capital investi 8 000 000 $, coût du capital 12 % → RNR = 1 600 000 − (12 % × 8 000 000) = 1 600 000 − 960 000 =
++640 000 $
+.
+RCI vs RNR devant un projet (notes, chiffres vérifiés) : Division A — résultat 360 000 $, capital 3 000 000 $ → RCI 12 %, RNR = 360 000 − 10 %×3 000 000 = 60 000 $. Projet : investir 1 000 000 $ au rendement de 11 % (coût du capital 10 %).
+Avec le projet :
+résultat 360 000 + 110 000 = 470 000 $; capital 4 000 000 $.
+RCI = 470 000 ÷ 4 000 000 =
+11,75 % < 12 %
+→ un gestionnaire jugé sur le RCI
+refuse
+le projet (son ratio baisse).
+RNR = 470 000 − 400 000 =
+70 000 $ > 60 000 $
+→ jugé sur le RNR, il
+accepte
+.
+Morale du cours :
+le RCI pousse à rejeter des projets rentables pour l'entreprise (rendement 11 % > coût du capital 10 %) dès qu'ils diluent le ratio. Le RNR, lui, accepte tout projet au-dessus du taux minimal.
+6.5 Les limites du RCI/RNR + dirigeants vs organisation
+Mesures
+historiques
+, perspective
+court terme
+, n'expliquent pas les causes de la performance.
+Dépendent souvent de
+décisions antérieures
+hors du contrôle du responsable actuel.
+Peuvent pousser à des comportements nuisibles à long terme :
+couper la recherche, l'entretien, ne pas investir
+dans les immobilisations.
+Principe de contrôlabilité :
+évalue un gestionnaire seulement sur ce qu'il
+contrôle
+(ex. Véliko : les divisions sont des centres de PROFIT, mais le RCI les juge sur des INVESTISSEMENTS qu'elles ne contrôlent pas → incohérence, comportements dysfonctionnels).
+Performance des dirigeants ≠ performance organisationnelle :
+Véliko — pour l'entreprise, le projet « pâtes feuilletées » (+675 000 $ global) bat les « chaussons » (+350 000 $); mais pour le directeur de la viennoiserie, les chaussons (+350 000 $ pour SA division, RCI 9,50 % → 10,67 %, prime déclenchée) battent les pâtes (+25 000 $, RCI 9,58 %, pas de prime).
+La mesure de performance doit aligner les intérêts.
+Véliko en chiffres (solution officielle vérifiée) : RCI viennoiserie = 2 850 000 ÷ 30 000 000 = 9,50 %. Pâtes : +25 000 $ → RCI 9,583 % (< 10 % → prime 0 $). Chaussons : +350 000 $ → RCI 10,666 % (> 10 % → prime 5 000 $). Résultat global : tartes/pâtes 675 000 $ vs chaussons 350 000 $.
+6.6 Le tableau de bord de gestion équilibré (Kaplan et Norton)
+Définition :
+« un ensemble organisé et synthétique d'indicateurs financiers et non financiers qui reflètent les objectifs d'une organisation » — il traduit la stratégie en indicateurs et sert de système de pilotage. Il est
+contingent
+à l'organisation (mission, vision, stratégie, culture).
+Dimension
+Exemples d'objectifs → indicateurs (notes de cours)
+Financière
+Améliorer le rendement →
+RCI, RNR
+· accroître les revenus → variation du chiffre d'affaires · rentabilité par produit/marché/client
+Client
+Satisfaction → % clients satisfaits, nombre de plaintes, livraisons dans les délais · fidélisation → achats par client · parts de marché
+Processus internes
+Contrôler les coûts → standards MP/MOD · productivité → standards h-MOD/h-M par produit · qualité → taux de rejet · ressources → % capacité utilisée · stocks → rotation
+Innovation et apprentissage
+Nouveaux produits → nombre de lancements, ventes des nouveaux produits · compétences → formations suivies · systèmes d'information
+Le trio à connaître :
+OBJECTIF
+(ce qu'on veut sur une dimension) →
+INDICATEUR
+(quantitatif, mesurable, formule précise) →
+CIBLE
+(valeur chiffrée cohérente). Ex. des Biscuiteries de Montmagny : Financière / développer ses parts de marché / RCI / 20 %. On peut intégrer l'environnement : 5
+e
+dimension dédiée, indicateurs intégrés aux 4 dimensions, ou tableau de bord parallèle.
+Quiz éclair — Module 6
+1. (B&G) Résultat d'exploitation 600 000 $; capital investi 5 000 000 $. RCI?
+30 %
+83 %
+12 %
+2. Résultat 1 600 000 $; capital 8 000 000 $; coût du capital 12 %. RNR?
+20 %
+1 920 000 $
+640 000 $
+3. (Division A) Projet : +1 M$ de capital, rendement 11 %, coût du capital 10 %. Effet sur RCI et RNR?
+RCI baisse (12 % → 11,75 %), RNR augmente (60 k$ → 70 k$)
+RCI augmente et RNR augmente
+RCI baisse et RNR baisse
+4. Une entité quasi autonome responsable des revenus, des coûts ET des investissements est…
+un centre de profit
+un centre d'investissement
+un centre de revenus
+5. Selon le cours, les indicateurs financiers informent sur la performance… et les non financiers sur…
+future / passée
+passée / future
+présente / présente
+6. Les 4 dimensions du tableau de bord équilibré sont…
+financière, fournisseurs, employés, environnement
+revenus, coûts, profits, investissements
+financière, client, processus internes, innovation et apprentissage
+✍️ Module 7 — TP1 et questions type : la méthode complète
+Le TP1 condense tout le quiz :
+Vélos Devini = CVR complet
+(S02),
+Autobus Bégin = commande spéciale + facteur contraignant
+(S03-S04). Voici la démarche et les chiffres clés —
+tous recalculés et vérifiés
+. Fais l'exercice d'abord, compare ensuite.
+7.1 Vélos Devini (11 SupC.4) — analyse CVR
+Les données à extraire toi-même (c'est ÇA l'exercice) :
+20X1 : ventes 20 000 000 $ à 500 $/vélo →
+40 000 vélos
+. CVu 20X1 : aluminium 4 kg × 2,50 $ = 10 $ · carbone 0,5 kg × 150 $ = 75 $ · autres pièces 106 $ · MOD = 25 $/h × 7 h/jour ÷ 5 vélos =
+35 $
+· FGF variables = 3 200 000 × 30 % ÷ 40 000 =
+24 $
+· commission 5 % × 500 = 25 $.
+① MCV 20X1
+MCV = 500 − (10 + 75 + 106 + 35 + 24 + 25) = 500 − 275 =
+225 $/vélo
+· MCV totale = 40 000 × 225 = 9 000 000 $.
+Coûts fixes 20X2 (pour la suite) : FGF fixes 2 240 000 (70 % de 3 200 000) + superviseur 65 000 + publicité 650 000 (500 000 + 150 000) + administration 2 148 000 =
+5 103 000 $
+.
+② Point mort 20X2 (PV 450 $; aluminium 16 $; MOD 35 × 1,04 = 36,40 $; commission 22,50 $)
+CVu 20X2 = 16 + 75 + 106 + 36,40 + 24 + 22,50 = 279,90 $ → MCV = 450 − 279,90 =
+170,10 $
+.
+PM = 5 103 000 ÷ 170,10 =
+30 000 vélos
+=
+13 500 000 $
+de ventes (30 000 × 450).
+👁 Révéler les deux erreurs classiques
+① Oublier que la commission (5 %) suit le NOUVEAU prix (450 × 5 % = 22,50 $, pas 25 $). ② Oublier la hausse de salaire de 4 % sur la MOD (35 × 1,04 = 36,40 $) ou la hausse de l'aluminium (4 $/kg × 4 kg = 16 $).
+③ Marge de sécurité 20X2 : ventes prévues = 40 000 × 1,15 = 46 000 vélos
+MS = 46 000 − 30 000 =
+16 000 vélos
+= 16 000 × 450 =
+7 200 000 $
+(≈ 34,8 % des ventes prévues).
+⑤ Seuil d'indifférence — fournisseur chinois (aluminium 2,85 $ + transport 0,50 $ = 3,35 $/kg → 13,40 $/vélo; CF +60 000 + 52 000 = 5 215 000 $)
+MCV option chinois = 450 − (13,40 + 75 + 106 + 36,40 + 24 + 22,50) = 450 − 277,30 =
+172,70 $
+.
+Seuil = (5 215 000 − 5 103 000) ÷ (172,70 − 170,10) = 112 000 ÷ 2,60 =
+≈ 43 077 vélos
+.
+Ventes prévues 46 000 > 43 077 →
+quantitativement, le fournisseur chinois gagne
+… mais le président tient aux fournisseurs locaux → arguments qualitatifs (approvisionnement local, réputation, risque de transport) à peser.
+7.2 Autobus Bégin (12 SupC.3) — commande spéciale + contrainte
+① Le refus de la commande de 2 Deluxe à 560 000 $ — le président a-t-il eu raison?
+Le « coût total de 574 700 $ » inclut des
+quote-parts de coûts fixes communs
+(1 567 000 ÷ 32 × 2 = 97 937,50 $ + 348 200 ÷ 32 × 2 = 21 762,50 $) et des commissions — mais la commission de 5 % S'APPLIQUE à la commande (31 000 $), et les CF communes sont payées de toute façon.
+Analyse pertinente (2 bus) :
+ventes 620 000 − MP 220 000 − MOD 145 000 − FGF var 62 000 − commissions 31 000 =
+MCV = +162 000 $
+.
+→
+Le refus a coûté environ 162 000 $ de résultat.
+Le −14 700 $ du président mélangeait coûts communs et coûts pertinents.
+② Le lancement du Voyageur — la méthode (à compléter avec la solution trouée)
+Contrainte :
+27 750 heures de MOD
+spécialisées
+en 20X2. Besoin : Touriste 20 × 600 = 12 000 h + Deluxe 10 × 1 500 = 15 000 h = 27 000 h →
+seulement 750 h libres
+, or le Voyageur exige 5 × 1 050 = 5 250 h →
+il faut sacrifier des Deluxe
+.
+Classement par heure spécialisée :
+Touriste MCV 1 497 000 ÷ 20 = 74 850 $/u ÷ 600 h =
+124,75 $/h (1
+er
+)
+· Deluxe 972 000 ÷ 12 = 81 000 $/u ÷ 1 500 h =
+54,00 $/h (2
+e
+)
+→ on garde tous les Touriste, on rogne les Deluxe.
+MCV du Voyageur à construire :
+PV 225 000 − MP 73 000 − MOD (1 050 × 35 + 450 × 20 = 45 750) − FGF var (FGF var dépendent des heures : 620 000 ÷ 50 000 h = 12,40 $/hmod × 1 500 h = 18 600) − commission 11 250 (5 % × 225 000) = CVu 148 600 →
+MCV ≈ 76 400 $/bus
+.
+Termine avec la
+solution trouée
+puis la
+solution du fichier TP1
+: compare combien de Deluxe sacrifier (chaque Deluxe perdu = 81 000 $ de MCV) et tranche.
+👁 Révéler le réflexe à retenir
+Avec plusieurs produits et une ressource partagée, la décision se prend en
+MCV par heure du facteur contraignant
+: chaque heure donnée au Voyageur (≈ 72,76 $/h spécialisée : 76 400 ÷ 1 050) est prise au Deluxe (54 $/h) et non au Touriste (124,75 $/h). Le lancement est rentable SI les heures viennent des Deluxe.
+7.3 Questions type QCM (entraînement final)
+1. (Devini) Le point mort 20X2 est de…
+22 680 vélos
+30 000 vélos
+33 000 vélos
+2. (Bégin) Refuser la commande de 2 Deluxe a eu quel effet sur le résultat 20X1?
+−162 000 $ (une MCV perdue)
++14 700 $ (une perte évitée)
+0 $ (l'entreprise n'a rien perdu)
+📋 Module 8 — Toutes les formules à connaître (aucune feuille fournie au quiz)
+Le cours n'a annoncé AUCUNE feuille de formules pour le quiz
+(contrairement à la finance). Prépare-toi au pire :
+tout mémoriser
+. Bonne nouvelle : en QCM, tu dois surtout
+reconnaître
+la bonne formule et faire des calculs simples — cette table suffit.
+Formule
+Usage
+Le piège à éviter
+Coût total = CF + (CVu × volume)
+· Y = a + bX
+Toute la S01
+Valable seulement dans le segment significatif
+Coût moyen = coût total ÷ unités
+S01
+Il contient du coût fixe : ne JAMAIS l'utiliser pour décider
+Résultat = (MCVu × volume) − CF
+Équation du résultat (S02)
+Les CF ne changent pas avec le volume
+MCVu = PV − CVu
+· MCV% = MCVu ÷ PV
+S02
+CVu inclut les frais de vente variables
+PM unités = CF ÷ MCVu
+·
+PM $ = CF ÷ MCV%
+Point mort (S02)
+PM$ = PM unités × PV — les deux doivent concorder
+Unités cibles = (CF + résultat cible) ÷ MCVu
+Résultat cible (S02)
+Cible après impôt → diviser par (1 − t) AVANT
+Résultat potentiel = MCVu × capacité max − CF
+S02
+Toujours à PLEINE capacité
+MS = ventes − PM
+(unités, $, %)
+Marge de sécurité (S02)
+% = MS ÷ ventes (pas ÷ PM)
+Seuil d'indifférence : (CF₁ − CF₂) ÷ (MCVu₂ − MCVu₁)
+2 structures de coûts (S02)
+Le prix doit être le même; sinon utiliser l'équation complète
+MCV pondérée = Σ MCV totales ÷ Σ volumes
+Multi-produits (S02)
+PAS la moyenne arithmétique des MCV
+Prix minimum = (CV + CF spéc. + renonciation) ÷ unités commandées
+Commande spéciale (S03)
+CV DE LA commande (rabais, commissions exclus?)
+Résultat différentiel = MCV commande − CF spéc. − renonciation
+Commande spéciale (S03)
+Renonciation = unités sacrifiées × MCVu RÉGULIÈRE
+Marge sur coûts spécifiques = MCV totale − CF spécifiques
+Abandonner/continuer (S03-S04)
+Positive = on garde (il aide à payer les communs)
+MCV par facteur = MCVu ÷ unités du facteur requises par unité
+Ressource limitée (S04)
+Classer par facteur, PAS par MCV unitaire
+Taux d'imputation = FGF du centre ÷ volume de la base
+Imputation (S05)
+Un taux PAR centre de coûts
+Coût fabrication = MP + MOD + FGF imputés
+·
+Marge brute = PV − coût fabrication
+S05
+Jamais de FVA dans le coût de fabrication
+RCI = résultat d'exploitation ÷ capital investi
+S06
+Résultat AVANT impôts; capital = actif utilisé
+RNR = résultat d'exploitation − (taux minimal × capital investi)
+S06
+Montant en $ (le RCI est un %)
+⚠️ À savoir PAR CŒUR en plus des formules (théorie QCM) :
+les définitions fixes/variables/mixtes (unitaire vs total!) · MP/MOD/FGF/FVA avec exemples · direct/indirect · objet de coût · segment significatif · coûts pertinents/évitables/irrécupérables/spécifiques/communs/renonciation · les hypothèses CVR · les 4 centres de responsabilité avec exemples · les 4 dimensions du tableau de bord + objectif/indicateur/cible · financier = passé, non financier = futur.
+🎯 Module 9 — Stratégie QCM + les erreurs fatales
+9.1 Les 10 erreurs fatales (chacune est une question-piège probable)
+Confondre coût fixe total et coût fixe unitaire.
+Total = constant; unitaire = varie avec le volume (se dilue). Question la plus rentable du quiz : réponds-la à 100 %, toujours.
+Inclure des coûts irrécupérables (sunk) dans une décision.
+Le passé ne compte JAMAIS : 600 000 $ déjà dépensés = hors analyse.
+Inclure les coûts fixes communs dans une commande spéciale.
+Seuls comptent : CV de la commande + CF SPÉCIFIQUES déclenchées + coût de renonciation.
+Utiliser le coût complet/moyen pour décider.
+Le directeur de PommeD'or et le président de Bégin se trompent tous les deux avec le coût complet — la MCV est l'outil des décisions court terme.
+Oublier le coût de renonciation quand la capacité manque.
+Dès que besoin > capacité : unités régulières sacrifiées × leur MCV (Bolduc : 5 × 65 $).
+Confondre MCV et marge brute.
+MCV = PV − TOUS les CV (fabrication + vente) · Marge brute = PV − coût de FABRICATION (MP+MOD+FGF, incluant des coûts fixes imputés).
+Classer par MCV unitaire au lieu de MCV par facteur contraignant.
+Le contrôleur d'Électroflux tombe dans le piège; FLYREST le piége aussi (TIR 22 $/u perd contre BAH 27 $/hm).
+MCV pondérée ≠ moyenne arithmétique.
+Pondérer par les VOLUMES (5,00 $, pas 8,17 $).
+RCI : mauvais numérateur/dénominateur.
+Numérateur = résultat d'EXPLOITATION (avant impôts, pas les ventes); dénominateur = CAPITAL INVESTI (actif utilisé). Et RNR = un montant en $.
+Mettre des FVA dans le coût de fabrication.
+Coût de fabrication = MP + MOD + FGF. Point final.
+9.2 Ta routine face à chaque question (45-60 secondes)
+1.
+Lis la question EN ENTIER; identifie le TYPE (définition? calcul? classement? interprétation?).
+2.
+Question de calcul → écris la formule sur ton brouillon AVANT de regarder les options (évite de te faire piéger par des réponses « plausibles »).
+3.
+Élimine les options absurdes (mauvaise unité, mauvais sens, chiffre impossible). Entre deux restantes → choisis celle qui respecte la théorie du cours.
+4.
+Vérification éclair : unités cohérentes? CF total constant? sunk cost exclu? total FGF imputé = FGF totaux?
+5.
+Bloqué plus de 90 secondes → marque, passe à la suivante, reviens à la fin. Un QCM se joue sur le volume de bonnes réponses, pas sur l'héroïsme.
+9.3 La banque probable de questions théoriques
+Comptabilité financière vs de gestion · les 3 types d'entreprises (les 3 stocks!) · MP/MOD/FGF/FVA et exemples · variable/fixe/mixte, unitaire vs total · segment significatif · coûts mixtes (points extrêmes vs régression) · direct/indirect · objet de coût · hypothèses CVR · interprétation PM/MS/seuil d'indifférence · coûts pertinents/évitables/irrécupérables/spécifiques/communs/renonciation · facteurs qualitatifs · centres de coûts · bases d'imputation et critères de choix · limites de la méthode traditionnelle · décentralisation (av./désav.) · 4 centres de responsabilité · RCI (avantages/limites) · RNR · tableau de bord (4 dimensions, objectif/indicateur/cible) · dirigeants vs organisation · comportements dysfonctionnels et éthique.
+9.4 Checklist de la veille (jeudi 8 oct., soir)
+Les 38 QCM de ce plan refaits sans erreur (sinon relis le module concerné)
+Les 6 Révisions formatives Canvas repassées à 100 % chacune
+Feuille de formules (module 8) lue deux fois en entier
+Les 10 erreurs fatales relues — je sais les repérer en une seconde
+Carte étudiante, crayons (2), montre — tout prêt sur la table
+Réveil réglé — au lit tôt, 8 h de sommeil (la mémoire se consolide en dormant)
+9.5 Checklist du matin (vendredi 9 oct.)
+7h15 : réveil, déjeuner normal, eau — pas de révision avant 7h45
+7h45-8h05 : UNIQUEMENT la feuille de formules + les 10 erreurs fatales. Rien de nouveau.
+8h00 : départ.
+Arrivée 8h15
+— le quiz commence à 8h30, individuel, sur papier, IA interdite.
+Pendant le quiz : formule au brouillon AVANT les options · élimination · gestion du temps · revoir les questions marquées. Respire : le QCM est plus gentil que les examens.
+9.6 Tes fichiers (tout est déjà sur ton ordinateur)
+Dossier
+Comptabilité de gestion\ZoneCours
+: les 28 fichiers officiels (7 PPT, 13 DOCX, 2 XLSX, 6 DOC) — tous accessibles depuis la
+banque d'exercices
+.
+Canvas → Questionnaires : les Révisions formatives S01-S06, reprises à volonté
+jusqu'au 20 octobre
+— ta banque de QCM officielle (et 10 % de la note!).
+Livre i+ (Boisvert & Hugue 2019, ERPI — code d'accès) : exercices 2A.1, 11A.4, 12A.2, 10B.3, 17A.2, 17B.8.
+Rappel de l'échéancier :
+quiz 1 le ven. 9 oct.
+· intra le 20 oct. (40 %) · quiz 2 à la séance 12 (lundi 30 nov.) · final 40 %.
+Généré automatiquement le mardi 29 sept. 2026 à partir de TOUTE ta zone cours (Canvas 10413, COMP10904 A2026 section F21) — plan de cours officiel, notes PPT S01-S06, 13 exercices, 2 gabarits Excel, TP1 et annonces.
+Tous les exemples chiffrés proviennent des documents officiels du cours et ont été recalculés. Bonne révision — vendredi 8h30, tu arrives en avance, tu écris ta formule, tu coches. 💪

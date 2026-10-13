@@ -1,0 +1,12 @@
+Préparation à l'examen FINAL
+
+Important !
+10200 - Cahier de problèmes solutionnés - Final - MAJ Decembre 2024.pdf
+Il s'agit d'exercices sélectionnés à partir d'anciens examens. Ils sont regroupés par thème.
+10200 - Feuille de formules - Final _MAJ 2025_.pdf
+Pour plus de détails, consultez la section "
+Informations officielles
+".
+FAQ
+Q : J'ai une question concernant l'examen final. Je me demandais si l'examen était récapitulatif, si oui quelle est la portion de matière vue avant l'intra qui sera à l'examen final?
+R : L'examen final est récapitulatif du fait que certaines notions de la premières parties doivent être comprises afin de pouvoir répondre à des questions portant sur les notions de la deuxième partie. Par exemple, on doit savoir calculer le taux de rendement à l'échéance d'une obligation pour calculer le coût du capital de la dette du CMPC et on doit pouvoir actualiser les flux monétaires lors du calcul d'un VAN.

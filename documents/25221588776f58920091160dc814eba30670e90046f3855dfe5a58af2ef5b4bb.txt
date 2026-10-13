@@ -1,0 +1,97 @@
+## Page 1
+2-200-96                      Finance                         Hiver 2012
+
+       Travail pratique #1 – Mathématiques financières
+
+
+
+Exercice #1
+
+Un jeune couple de professionnels diplômés des HEC (Sandy et Danny)
+envisage l’achat d’une première maison. Ayant tous les deux certaines
+notions de base en finance, ils entreprennent d’évaluer la valeur maximale
+qu’ils pourront attribuer à la maison de leurs rêves.
+
+Afin de minimiser les intérêts payés, ils feront des paiements d’hypothèque
+la même journée que le versement de leur salaire. Même si le salaire de
+Sandy est versé à toutes les semaines et celui de Danny à toutes les deux
+semaines, ils pourront retenir une partie de leurs salaires respectifs afin de
+payer leur hypothèque : leur institution financière Rydell High offre une
+grande souplesse. D’ailleurs, le taux est déjà négocié.  Ils pourront profiter
+d’un taux de 7% nominal à capitalisation semestrielle (supposé un total
+d’exactement 52 semaines dans l’année).
+
+Après une étude détaillée de leurs besoins, le jeune couple en vient à la
+conclusion que Sandy pourra faire des paiements hebdomadaires de 150$
+et que Danny pourra dégager un montant de 250$ à toutes les deux
+semaines. Aussi, ils prévoient une échéance 20 ans pour leur hypothèque
+et aucune mise de fonds ne sera avancée.
+
+Considérant que des paiements de fin de période (1er paiement de Sandy
+dans une semaine et 1er paiement de Danny dans deux semaines), quelle
+sera la valeur de l’emprunt?
+
+Après révision de leur budget, Sandy et Danny décident de profiter de la
+nouvelle « hypothèque perpétuelle » de Rydell High,  c’est-à-dire  qu’ils
+verseront ces paiements à l’infini.  Toujours au même taux et sans aucune
+mise de fonds, quelle serait la nouvelle valeur de l’emprunt?
+
+
+2-200-96 H12 – Travail pratique #1                                     Page 1 sur 3
+
+## Page 2
+Exercice #2
+
+Votre meilleur ami Sami a récemment gagné à une loterie. Cette loterie lui
+donne droit à différentes séquences de flux monétaires. La loterie vient à
+échéance dans 20 ans. Voici le détail des flux monétaires qu’il recevra.
+
+• Un montant de 75 $ par semaine, dont le premier versement est dans 1
+  semaine et dont le dernier versement est dans 20 ans.
+
+• Une somme de 10 000 $ immédiatement.
+
+• Un montant de 1 000 $ versé en début de chaque année et ce, pendant
+   les 20 ans de  la durée de  la  loterie. Le  premier versement  est
+   aujourd’hui.
+
+Combien vaut cette loterie pour votre ami s’il exige un rendement effectif
+de 10% ?
+
+
+
+
+
+2-200-96 H12 – Travail pratique #1                                     Page 2 sur 3
+
+## Page 3
+Exercice #3
+
+Votre ami Sami a son œil sur un coquet petit bungalow de Longueuil.  Il
+désire avoir l’argent de la loterie rapidement afin de pouvoir mettre une
+importante mise de fonds sur la maison. Ainsi,  il ne veut pas attendre 20
+ans pour avoir reçu tous les flux monétaires auxquels il a droit.
+
+Il vient donc vous rencontrer afin de discuter de la possibilité de vous
+vendre sa loterie, c’est-à-dire que vous receviez tous les flux monétaires
+liés à la loterie, incluant ceux versés aujourd’hui.  Il vous propose deux
+plans de paiement pour la loterie :
+
+Plan A : Vous  lui donneriez un montant de 20 000 $ aujourd’hui et un
+         montant de 12 000 $ par année, versé en fin d’année pendant 5
+          ans.
+
+Plan B : Vous  lui donneriez 30 000 $ dans 1 an. En  plus, vous  lui
+          verseriez 6 000 $ par semestre pendant 3 ans (au  total 6
+         paiements),  dont   le  premier  versement   serait  en  date
+           d’aujourd’hui.
+
+Vous exigez un taux de rendement  effectif de 10 % pour ce type de
+placement.  Serait-il avantageux pour vous d’acheter la loterie à votre ami?
+Si oui, quel plan sera le plus avantageux pour vous, le plan A ou le plan B?
+
+
+
+
+
+2-200-96 H12 – Travail pratique #1                                     Page 3 sur 3

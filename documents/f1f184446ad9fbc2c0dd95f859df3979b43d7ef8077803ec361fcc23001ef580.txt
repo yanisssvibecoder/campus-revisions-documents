@@ -1,0 +1,58 @@
+## xl/worksheets/sheet1.xml
+A1: Question 1 – Solution
+B3: Fournisseur 1 | C3: Fournisseur 2 | D3: Fournisseur 2
+B4: Nouveau-Brunswick | C4: Québec | D4: Québec
+B5: Q = 500 | C5: Q = 240 | D5: Q = 320
+A6: Demande totale | B6: 4000 | C6: 4000 | D6: 4000
+A7: Coût unitaire de commande externe | B7: 280 | C7: 145 | D7: 145
+A8: Coût unitaire de commande interne | B8: 28 | C8: 28 | D8: 28
+A9: Coût unitaire d'acquisition | B9: 82 | C9: 82 | D9: 82
+A10: Coût unitaire d'entreposage | B10: 14.76 [formule : 0.18*B9] | C10: 14.76 [formule : 0.18*C9] | D10: 14.76 [formule : None]
+A11: Écart type quotidien | B11: 4 | C11: 4 | D11: 4
+A12: Délai (en jour ouvrable) | B12: 8 | C12: 12 | D12: 12
+A13: Z (pour un niveau de service de 97 %) | B13: 1.88 | C13: 1.88 | D13: 1.88
+A14: QEC | B14: 409 [formule : ROUND(SQRT((2*B6*(B7+B8))/B10),0)] | C14: 306 [formule : ROUND(SQRT((2*C6*(C7+C8))/C10),0)] | D14: 306 [formule : None]
+A15: Quantité commandée | B15: 500 | C15: 240 | D15: 320
+A16: SS | B16: 22 [formule : ROUNDUP(B13*B11*SQRT(B12),0)] | C16: 27 [formule : ROUNDUP(C13*C11*SQRT(C12),0)] | D16: 27 [formule : None]
+A17: Coût total d'entreposage | B17: 3690 [formule : B15/2*B10] | C17: 1771.2 [formule : C15/2*C10] | D17: 2361.6 [formule : D15/2*D10]
+A18: Coût total d'entreposage SS | B18: 324.71999999999997 [formule : B16*B10] | C18: 398.52 [formule : C16*C10] | D18: 398.52 [formule : None]
+A19: Coût total de commande | B19: 2464 [formule : B6/B15*(B7+B8)] | C19: 2883.3333333333335 [formule : C6/C15*(C7+C8)] | D19: 2162.5 [formule : D6/D15*(D7+D8)]
+A20: Coût total | B20: 6478.7199999999993 [formule : SUM(B17:B19)] | C20: 5053.0533333333333 [formule : SUM(C17:C19)] | D20: 4922.62 [formule : None]
+A23: Interprétation / recommandation
+A24: • Le fournisseur du Québec avec un lot de 320 unités est l’option la plus économique : coût total annuel ≈ 4 922,62 $, contre 6 478,72 $ pour le fournisseur du Nouveau-Brunswick et 5 053,05 $ pour un lot de 240 unités.
+A25: • Recommandation : retenir le nouveau fournisseur du Québec, car il minimise le coût total annuel et l’énoncé mentionne aussi un niveau de service et de qualité supérieur.
+A26: • Avantage du fournisseur actuel (Nouveau-Brunswick) : délai de livraison plus court (8 jours), donc moins de stock de sécurité requis pour un même niveau de service.
+A27: • Inconvénient du fournisseur actuel : coût de commande plus élevé, donc coût total plus élevé. Quantité minimale à commander, donc stock moyen plus élevé.
+A28: • Avantage du fournisseur du Québec : coût de commande plus faible et proximité géographique / approvisionnement local.
+A29: • Inconvénient du fournisseur du Québec : délai de livraison plus long (12 jours) et contrainte de lot de 80 unités.
+A31: Hypothèses retenues
+A32: •  Z pris à 1.88 pour un niveau de service de 97 %.
+A33: •  Pour le fournisseur 1, la quantité minimale de 500 a été considérée.
+A34: •  Pour le fournisseur 2, le lot imposé est de 80 unités; on compare les multiples voisins du QEC ≈ 306, soit 240 et 320.
+A35: •  Les coûts d'entreposage du stock de sécurité sont calculés à partir du stock de sécurité arrondi à l’unité supérieure, afin d'assurer le niveau de service souhaité de 97 %.
+## xl/worksheets/sheet2.xml
+A1: Question 2 – Solution
+A3: a) Intervalle optimal de commande
+A4: Demande totale | B4: 4000
+A5: QEC | B5: 306 [formule : 'Question 1'!C14]
+A6: u | B6: 16 [formule : B4/250]
+A7: i optimal (en jours) | B7: 19 [formule : ROUND(B5/B6,0)]
+A10: b) Coût total annuel
+A11: Coût unitaire de commande externe | B11: 145
+A12: Coût unitaire de commande interne | B12: 28
+A13: Coût unitaire d'acquisition | B13: 82
+A14: Coût unitaire d'entreposage | B14: 14.76 [formule : 0.18*B13]
+A15: Écart type quotidien | B15: 4
+A16: Délai (en jour ouvrable) | B16: 12
+A17: Z | B17: 1.88
+A18: Nombre annuel de commande | B18: 13.157894736842104 [formule : 250/B7]
+A19: Quantité moyenne commandée | B19: 304 [formule : B4/B18]
+A20: SS | B20: 42 [formule : ROUNDUP(B17*B15*SQRT(B7+B16),0)]
+A21: Coût total d'entreposage | B21: 2243.52 [formule : B19/2*B14]
+A22: Coût total d'entreposage SS | B22: 619.91999999999996 [formule : B20*B14]
+A23: Coût total de commande | B23: 2276.3157894736842 [formule : B4/B19*(B11+B12)]
+A24: Coût total | B24: 5139.7557894736838 [formule : SUM(B21:B23)]
+A27: Réponse qualitative
+A28: • Intervalle recommandé : 19 jours ouvrables.
+A29: • Coût total annuel estimé : 5 139,76 $. Ce coût est plus élevé que celui calculé à la question précédente, puisque le stock de sécurité doit être plus élevé pour une période de risque plus longue (délai total de 19 + 12 jours).
+A30: • Un avantage du modèle de réapprovisionnement périodique est la simplicité de gestion : les commandes sont passées à intervalles réguliers, ce qui facilite la planification et la coordination des approvisionnements.

@@ -1,0 +1,67 @@
+Gestion des stocks
+Solutionnaire
+Sport Racket-Plus, page 121
+Question 1.1
+Dans la situation actuelle, quel est le coût total annuel lié à la passation des commandes et au stockage des boîtes de basses de tennis?
+Trouver le coût unitaire d’entreposage  
+QEC = √ (2 X DT X Cc / Ce)
+400 = √ (2 X (20 X 300) X 20 / Ce)
+160 000 = 240 000 / Ce
+Ce = 1,50 $
+Trouver le SS
+150 = (20 x 7) + SS
+SS = 10 unités
+CT = Cte + Ctc 
+CT = QC/2 X Ce + SS X Ce + DT/QC X Cc + DT X Ca
+CT = 400/2 X 1,50 $ + 10 X 1,50 $ + 6 000/400 X 20 $ 
+CT = 300 $ + 15 $ + 300 $ 
+CT = 615 $ 
+Question 1.2
+Quel est le niveau de service actuellement offert par le magasin pour les boîtes de balles de tennis? 
+SS = Z x √d x σ
+10 = Z x √7 x 5  
+10 = 13,23 Z
+Z = 10 / 13,23 = 0,756
+Niveau de service = 77,5 %
+Question 1.3
+Que pourrait-on faire pour atteindre le niveau de service désiré? Vous devez faire deux propositions différentes. Bien justifier vos réponses par les calculs appropriés. 
+Pour augmenter le niveau de service à 98 %, on peut augmenter le stock de sécurité à :
+SS = 2,055 X 5 X √7
+SS = 27,18 ≈ 27 unités (ou le point de commande à 167)
+Pour augmenter le niveau de service à 98 %, on peut aussi demander au fournisseur de réduire son délai de livraison à :
+SS = Z X σu X √d
+10  =  2,055 X 5 X √d
+√d = 10 / (2,055 X 5) = 0,973
+d =  0,95 jour
+Donc, en réduisant le délai à 1 jour, on pourrait augmenter le niveau de service sans toutefois augmenter le stock de sécurité.
+Question 1.4
+Pour se simplifier la vie, le propriétaire du magasin souhaite effectuer ses commandes à tous les deux lundis, soit aux 12 jours ouvrables. Combien de boîtes de 12 balles doit-on alors conserver en stock de sécurité pour atteindre le niveau de service désiré? 
+Les balles de squash sont gérées dans un système de réapprovisionnement périodique, alors le SS se calcule de la façon suivante :
+SS = Z X σu X √ (i + d)
+SS = 1,88 X 3 X √ (12 + 3)
+SS = 21,84 ≈ 22 boîtes  
+Question 1.5
+Cet intervalle de 12 jours vous semble-t-il optimal? Sinon, quel est l’intervalle de temps optimal entre deux commandes de balles de squash et, si l’on modifie cet intervalle, quel sera l’impact sur le coût total et le niveau de stock de sécurité?
+QEC = racine (2 X DT X Cc / Ce)
+QEC = racine (2 X (10 X 300) X 21 / (30 % X 30))
+QEC = racine (126 000 / 9)
+QEC = 118,32 soit 118 boîtes 
+I = QEC / u
+I = 118 / 10 = 11,8 ≈ 12 jours ouvrables 
+	Oui, l’intervalle de 12 jours semble ici optimal. 
+Le coût total est donc de :
+Qc moyenne = 3 000 / 25 = 120
+CT = (120/2 + 22) x 9 $ + 25 x 21
+CT =    540 $ + 198 $    +  525 $
+CT = 1 263 $
+Question 1.6
+Compte tenu du coût total calculé en 1.5, combien l’entreprise Sport Racket-Plus économiserait-elle si elle adoptait le modèle du point de commande pour les balles de squash? Présentez vos calculs. 
+Dans le système à point de commande, on commande la QEC :
+QEC = 118
+On doit recalculer le SS, puisque la formule est différente de celle utilisée en 1.4
+SS = 1,88 x 3 x √3 = 9,8  ≈ 10
+CT = (118/2 X 9 $) + (10 x 9 $) + (3 000 / 118 X 21 $)
+      =      531 $       +     90 $    +         533,89 $   = 1 154,89 $
+Économie : 1 263 $ - 1 154,89 $ = 108,11 $
+La quantité moyenne et l’intervalle actuel sont assez près de la QEC, donc peu d’économie.
+Les économies sont principalement dues à la baisse du niveau de stock de sécurité. 

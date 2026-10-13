@@ -1,0 +1,838 @@
+## Diapositive 1
+
+Comptabilité de gestion(10904) – Séance 1Séance en classe
+
+Département de sciences comptables
+Année universitaire 2026 – 2027
+
+## Diapositive 2
+
+PLAN DE LA SÉANCE 1
+
+2
+
+Présentation du cours
+
+Les notions de coûts
+
+Période de questions
+
+La comptabilité de Management & Les notions de coûts 
+
+
+(c) 10904 / S01
+
+## Diapositive 3
+
+Présentation du cours
+
+Présentation de votre enseignant
+Présentation du plan de cours
+Autres informations utiles pour le cours
+
+3
+
+(c) 10904 / S01
+
+## Diapositive 4
+
+Collaborateurs
+
+Plusieurs enseignants ont participé à la création des présentations de Comptabilité de gestion au fil des années:
+Élodie Allain
+Marie-Claude Brouillette
+Réal Jacques
+Caroline Lambert
+Loëcha Philion
+François Richer
+Eduardo Schiehll
+Sophie Tessier
+
+4
+
+(c) 10904 / S01
+
+## Diapositive 5
+
+Vue globale du cours (séances 1 à 7)
+
+(c) 10904 / S01
+
+5
+
+PRÉPARATION, PRÉSENTATION ET ANALYSE DE L’INFORMATION
+
+TP1
+
+TP2
+
+Séance 4 : Les marges 
+
+## Diapositive 6
+
+Vue globale du cours (séances 8 à 12)
+
+(c) 10904 / S01
+
+6
+
+PRÉPARATION, PRÉSENTATION ET ANALYSE DE L’INFORMATION
+
+TP3
+
+TP4
+
+## Diapositive 7
+
+Ressources 
+
+Vos ressources pour interagir
+
+
+
+Votre enseignant
+
+Les stagiaires d’enseignement
+(voir adresse courriel unique dans le plan de cours)
+
+L'équipe des SCE
+Services à la communauté étudiant
+
+Centre aide Français
+(https://www.hec.ca/cfla/francais/)  
+
+Centre aide en Mathématique
+(https://www.hec.ca/cams/) 
+
+Agents de conseil 
+
+Comité étudiant 
+
+
+7
+
+(c) 10904 / S01
+
+## Diapositive 8
+
+
+
+Les évaluations
+
+
+
+Examens (papier) : 80 %
+
+Intra: 40 %
+Final: 40 %
+
+Quiz (en classe) : 10 %
+
+Activités diverses : 10 %
+
+
+Détails dans le plan de cours - ZoneCours 
+
+8
+
+(c) 10904 / S01
+
+## Diapositive 9
+
+
+
+Les règles de vie en classe
+
+
+
+(c) 10904 / S01
+
+## Diapositive 10
+
+10
+
+À quoi sert la comptabilité de management ? 
+
+
+(Version étudiant)
+
+(c) 10904 / S01
+
+## Diapositive 11
+
+À qui s’adresse la comptabilité de management ?
+
+
+(Version étudiant)
+
+11
+
+(c) 10904 / S01
+
+## Diapositive 12
+
+Comptabilité financière
+
+
+Destinée aux tiers (externe)
+Réglementée (IFRS ou NCECF)        (cadre à respecter)
+Données financières
+Données historiques
+Porte sur l’entité 
+Porte sur un exercice financier
+Informations fidèles et fiables
+
+Comptabilité de gestion
+
+
+Gestionnaires (interne)
+Flexible – sur mesure
+Financières et non-financières (qualitative)
+Prévisionnelle
+Analytique
+Porte sur le cycle de vie de l’activité
+Informations utiles et pertinentes
+(à la prise de décision)
+
+Éléments distinctifs de la comptabilité financière et de la comptabilité de gestion
+
+12
+
+
+
+(c) 10904 / S01
+
+## Diapositive 13
+
+Utilisation de la comptabilité de management
+
+La comptabilité de management 
+est présente partout où il y a de la gestion
+
+
+
+13
+
+(c) 10904 / S01
+
+## Diapositive 14
+
+L’éthique en comptabilité de gestion
+
+Pour quelle(s) raison(s) la comptabilité de gestion peut-elle créer des enjeux d’éthique?  
+
+14
+
+(c) 10904 / S01
+
+## Diapositive 15
+
+Parmi les décisions suivantes, lesquelles posent un problème d’ordre éthique ?
+
+À l'approche de la fin d’un exercice dont les bénéfices sont inférieurs aux prévisions, suggérer qu’une campagne publicitaire onéreuse soit reportée jusqu’à l’exercice suivant.
+Accepter une boîte de chocolats reçue en cadeau d’un fournisseur régulier et la partager avec tous les employés de la société.
+À la demande d’un cadre, inscrire à l’actif les coûts de développement d’un nouveau produit, plutôt que de les passer en charges, lorsque la probabilité de succès dudit produit sur le marché est faible.
+À la demande du directeur de division, appuyer une proposition sur les projections les plus favorables, passant sous silence les projections potentiellement défavorables
+Signaler au contrôleur le cas d’un cadre hiérarchique soupçonné de fournir des données de fabrication inexactes dans le but d’augmenter sa prime de fin d’année.
+
+
+15
+
+Source : Ordre des CMA – Examen d’admission 
+
+(c) 10904 / S01
+
+## Diapositive 16
+
+La comptabilité de management et quelques notions de coûts clés
+
+16
+
+Définir et comprendre quelques notions de coûts clés 
+liés à l’analyse des coûts et à la prise de décision
+
+
+(c) 10904 / S01
+
+## Diapositive 17
+
+Diriger 
+(S02-S05) Effectuer des analyses pour la prise décision
+L’analyse coût-volume-résultat 
+L’analyse différentielle  
+Analyse de marges
+
+(S06) Mesurer la performance 
+Indicateurs financiers
+Tableau de bord de gestion
+
+
+Planifier
+(S09) Planifier la performance
+Budgets d’exploitation et État des résultats prévisionnels
+(S10) Planifier la viabilité financière
+Budget de caisse et gestion de la trésorerie 
+
+Contrôler
+(S08) Contrôler la performance des entreprises manufacturière
+État des résultats réels 
+État du coût de fabrication
+(S11) Contrôler l’atteinte des objectifs budgétaire 
+L’analyse des écarts
+
+S01
+
+S01: Les différents termes
+L’analyse des coûts puis de la rentabilité
+Variables et fixes
+Coût de fabrication et frais d’exploitation
+
+Résultat d’exploitation
+
+La comptabilité de gestion
+
+17
+
+17
+
+(c) 10904 / S01
+
+## Diapositive 18
+
+Objectifs de la séance
+
+Calculer le résultat d'exploitation d’une entreprise
+Distinguer les coûts de fabrication des frais de vente et d’administration
+Identifier et classer les coûts de fabrication en matières premières directes, main-d'œuvre directe et frais généraux de fabrication.
+Classer les coûts comme étant variables ou fixes
+Comprendre la notion de segment significatif
+Différencier les coûts directs et les coûts indirects
+
+
+
+18
+
+(c) 10904 / S01
+
+## Diapositive 19
+
+Résultat d’exploitation
+
+Comment calculer le résultat d’exploitation d’une entreprise ?
+
+(c) 10904 / S01
+
+19
+
+## Diapositive 20
+
+Définition - Coût
+
+Qu’est-ce qu’un coût ?
+La valeur totale des ressources engagées pour obtenir l’objet de coût. 
+
+20
+
+(c) 10904 / S01
+
+## Diapositive 21
+
+Définition - Objet de coût
+
+Un objet  de coût :
+Objet dont on veut mesurer le coût :
+pour répondre à un besoin donné
+pour prendre une décision
+
+
+Exemples pour Bombardier:
+Produit fabriqué (Train à haute vitesse)
+Modèle (Learjet 45, Q400, …)
+Département (RH, R&D, Ventes,…)
+Division (Aérospatiale, Transport)
+Segment géographique (USA, Europe, …)
+
+21
+
+Autres exemples
+Service rendu, programme, activité, client satisfait, etc.
+
+(c) 10904 / S01
+
+## Diapositive 22
+
+Types d’entreprises…
+
+  Entreprise	 commerciale
+« Entreprise qui a pour objet essentiel la commercialisation de produits sur le marché. »
+(Thésaurus de l’activité gouvernementale – gouvernement du Québec)
+Ex : Librairie Renaud-Bray
+
+Entreprise manufacturière
+« Entreprise dans laquelle sont groupés et coordonnés les facteurs de production qui concourent à la réalisation d'une fabrication ou de transformation prescrite. » 
+(Thésaurus de l’activité gouvernementale – gouvernement du Québec)
+Ex : Cascades
+
+
+22
+
+Entreprise de service
+« Entreprise appartenant au secteur tertiaire et dont l'activité principale est la prestation de services plutôt que la fabrication de biens ou le commerce. »
+(Thésaurus de l’activité gouvernementale – gouvernement du Québec)
+Ex : Deloitte
+
+(c) 10904 / S01
+
+## Diapositive 23
+
+Identifiez le type d’entreprise
+
+Voici la section de l'actif courant (court terme) de l'État de la situation financière de trois entreprises. 
+Identifiez le type d’entreprise : laquelle est une entreprise de services, une entreprise commerciale, une entreprise manufacturière?
+
+23
+
+             Entreprise - ABC |              Entreprise - XYZ |                     Entreprise - AAB
+
+Trésorerie …………………   2 500 $
+Comptes clients ………..   5 500 $
+Stocks ……………………….   8 000 $
+Frais payés d’avance …       300 $
+Total de l’actif CT………. 16 300 $ | Trésorerie …………………. 5 000 $
+Comptes clients ………… 7 000 $
+Frais payés d’avance ….    500 $
+Total de l’actif CT……… 12 500 $
+ | Trésorerie …………………………………   2 000 $
+Comptes clients ………………………..   3 000 $
+Stocks de matières premières……   8 000 $
+Stocks de produits en cours ………      500 $
+Stocks de produits finis …………….    3 000 $
+Total de l’actif CT……………………….  16 500 $
+
+
+
+(c) 10904 / S01
+
+## Diapositive 24
+
+La classification des coûts dans une entreprise manufacturière
+
+Dans une entreprise manufacturière, on catégorise les coûts (ressources) de cette façon: 
+Matières premières (MP) : ex. pommes, bouteille de plastique, etc.
+Main-d’œuvre directe (MOD) : ex. salaire des employés travaillant sur la chaîne de production
+Frais généraux de fabrication (FGF) : ex. Amortissement de la machinerie; entretien et réparation de la machinerie, maintenance sur le bâtiment de l’usine, salaires des superviseurs, fournitures d’usine, etc.
+
+Frais généraux de vente et d’administration (FGVA ou FVA) : ex. commissions des vendeurs (FVvariable), salaire du comptable, publicité, etc.
+
+24
+
+(c) 10904 / S01
+
+
+
+Coût de fabrication
+
+## Diapositive 25
+
+Coûts liés au volume d’activité(la variabilité des coûts)
+
+Les coûts fixes
+
+Les coûts variables
+
+Les coûts mixtes
+
+
+25
+
+(c) 10904 / S01
+
+## Diapositive 26
+
+Classez les coûts comme étant variables, fixes ou mixtes
+
+Le tableau suivant indique des coûts de fabrication mensuels de l'entreprise GoPUR, une entreprise qui fabrique des jus de pomme, pour deux niveaux de production. 
+Indiquez si les coûts sont variables, fixes ou mixtes. 
+
+
+26
+
+Coûts  | 4 000 unités | 8 000 unités
+
+Pommes | 10 000 $ | 20 000 $
+
+Salaire des superviseurs de la production | 5 500 $ | 5 500 $
+
+Électricité (incluant force motrice) | 3 000 $ | 5 000 $
+
+(c) 10904 / S01
+
+## Diapositive 27
+
+Les coûts variables par palier
+
+Explications
+
+Coût variable = Coût proportionnel au volume d’activité
+
+
+Segment significatif
+
+Hypothèse valable tant que le volume atteint se situe à l’intérieur d’une zone établie: le segment significatif
+
+Courbe
+
+27
+
+
+
+segment
+significatif
+
+
+
+
+
+
+
+
+
+Coûts
+
+Volume d’activité
+
+x1
+
+x2
+
+y1
+
+y2
+
+y3
+
+(c) 10904 / S01
+
+## Diapositive 28
+
+Les coûts fixes par palier
+
+Explications
+
+Coût fixe = coût qui est insensible à la variation du volume
+
+
+Segment significatif
+
+La notion de coûts fixes se conçoit à l’intérieur d’une zone établie: le segment significatif
+
+Courbe
+
+28
+
+
+
+(c) 10904 / S01
+
+## Diapositive 29
+
+Le coût total 
+
+Explications
+
+Coût total = Courbe
+À l’intérieur d’un segment significatif, la courbe ressemble à une droite
+Coût total = Coûts fixes + Coûts variables
+
+Segment significatif 
+
+Zone où les volumes d’activités sont les plus susceptibles d’être observés au cours d’un exercice 
+
+Courbe
+
+29
+
+
+
+
+
+segment
+significatif
+
+
+
+
+
+
+
+
+
+Coût total
+
+Volume d’activité
+
+(c) 10904 / S01
+
+## Diapositive 30
+
+Le coût total (à l’intérieur d’un segment significatif)
+
+30
+
+Y = coût total
+a = coûts fixes
+b = coûts variables
+x = volume d’activité
+
+(c) 10904 / S01
+
+## Diapositive 31
+
+Les notions fondamentales – Définitions
+
+Coût total
+Somme des coûts de toutes les ressources consommées par un objet de coût
+Exemples: projet, département, activités, produit, service, etc.
+Coût moyen
+Coût total d’un ensemble divisé par le nombre d’unités que comprend cet ensemble
+Coût marginal
+Coût des ressources consommées par la dernière unité produite
+
+31
+
+Nb 
+d’unités | Coût |  | 
+
+ | Total ($) | Moyen ($) | Marginal ($)
+
+5 000 | 800 000  | 160 | 50
+
+5 001 | 800 050 | 159,98 | 50
+
+5 002 | 800 100 | 159,96 | 50
+
+5 003 | 800 150 | 159,93 | 50
+
+5 004 | 800 200 | 159,91 | 50
+
+5 005 | 810 250 | 161,89 | 10 050
+
+(c) 10904 / S01
+
+## Diapositive 32
+
+Illustration – Comportement des coûts (à l’intérieur d’un segment significatif) (1) 
+
+Compte tenu de l’information ci-dessous, de combien augmentera le résultat d’exploitation si 100 passagers supplémentaires prennent l’avion?  
+(on suppose que le prix de vente est constant) 
+
+32
+
+Analyse de profitabilité pour 100 passagers |  | 
+
+ | unitaire | total
+
+Prix du billet  | 730 $ | 73 000 $
+
+Coût moyen  | 530 $ | 53 000 $
+
+Choix de réponses: 
+20 000 $
+73 000 $
+93 000 $
+Nous ne disposons pas de  l’information nécessaire pour répondre à cette question.
+
+(c) 10904 / S01
+
+## Diapositive 33
+
+Illustration – Comportement des coûts (à l’intérieur d’un segment significatif) (2) 
+
+Compte tenu de l’information ci-dessous, de combien augmentera le résultat d’exploitation si 100 passagers supplémentaires prennent l’avion?  
+(on suppose que le prix de vente est constant) 
+
+33
+
+Choix de réponses: 
+40 000 $
+70 000 $
+90 000 $
+Nous ne disposons pas de  l’information nécessaire pour répondre à cette question.
+
+Analyse de profitabilité pour 100 passagers |  | 
+
+ | unitaire | total
+
+Prix du billet  | 730 $ | 73 000 $
+
+Coûts fixes | 500 $ | 50 000 $
+
+Coûts variables | 30 $ | 3 000 $
+
+(c) 10904 / S01
+
+## Diapositive 34
+
+La variabilité des coûts à l’intérieur d’un segment significatif - Illustration - Les coûts par passager dans mon avion…
+
+34
+
+Actuellement il y a 100 passagers dans l’avion. Si le nombre de passagers augmente à 200. 
+53 000 $ (y) = 50 000 $ (a) + (30 $(100 passagers)) (bx)
+
+
+
+
+
+ | 100 passagers | 200 passagers
+
+Quel est le coût fixe total ? 
+ |  | 
+
+Quel est le coût fixe unitaire?
+
+ |  | 
+
+Quel est le coût variable unitaire ? |  | 
+
+Quel est le coût variable total ?
+
+ |  | 
+
+(c) 10904 / S01
+
+## Diapositive 35
+
+Coûts variables
+
+Coût variable total varie selon le volume d’activité
+Coût variable unitaire est constant 
+
+
+Coûts fixes
+
+Coût fixe total est constant 
+Coût fixe unitaire varie selon le volume
+
+
+La variabilité des coûts à l’intérieur d’un segment significatif -  Sommaire
+
+35
+
+(c) 10904 / S01
+
+## Diapositive 36
+
+Les coûts mixtes (1/2) 
+
+Des postes de charges peuvent être constitués à la fois de charges fixes et de charges variables, on parle alors de coûts mixtes.
+Exemple (1): salaire d’un vendeur = salaire de base (portion fixe) + commission (portion variable)
+Exemple (2): Électricité = Éclairage et chauffage (portion fixe) + Force motrice (portion variable)
+Pour pouvoir mener certaines analyses (cf. séances 2, 3 et 4), on va devoir séparer les coûts fixes des coûts variables. 
+À noter : dès lors que l’on connaît des coûts totaux pour différents niveaux d’activité, on peut chercher à séparer les coûts fixes des coûts variables.
+
+
+36
+
+(c) 10904 / S01
+
+## Diapositive 37
+
+Les coûts mixtes (2/2)
+
+Il existe deux modèles d’analyse qui permettent de séparer la composante fixe de la composante variable des coûts mixtes pour aider à la prise de décision. 
+Ces deux modèles renvoient à l’utilisation de l’équation d’une droite : 
+     Y (coût total)  = a (coût fixe) + bx (coût variable unitaire x volume) 
+
+La méthode des points extrêmes : cette méthode retient les 2 observations limites relatives aux volumes d’activités extrêmes. Elle est pertinente si les volumes utilisés dans les calculs sont représentatifs.
+
+La régression linéaire simple est un modèle d’analyse plus précis, car elle considère toutes les observations.
+
+37
+
+(c) 10904 / S01
+
+## Diapositive 38
+
+Questions de révision
+
+
+
+38
+
+(c) 10904 / S01
+
+## Diapositive 39
+
+Classez les coûts (variables ou fixes) 
+
+Exemple : pour une entreprise de service (Hôtel)
+Salaire du directeur -  20 000 $ par mois
+Électricité et chauffage - 2 300 $ par mois
+Amortissement du bâtiment - 5 000 $ par mois 
+Services d'entretien ménager - 25 $ par chambre louée
+Coûts divers (ex: articles de bain) - 5 $ par chambre louée
+
+39
+
+(c) 10904 / S01
+
+## Diapositive 40
+
+Classez les coûts (variables, fixes ou mixtes)(MP, MOD, FGF, FVA) 
+
+Exemple : pour une entreprise manufacturière qui fabrique du jus de pomme
+Pommes
+Bouteilles de plastique
+Amortissement de la machinerie
+Commissions des vendeurs
+Salaire du comptable
+Salaire des employés sur la chaîne de production
+Entretien et réparation de la machinerie
+Maintenance sur le bâtiment de l’usine
+
+40
+
+(c) 10904 / S01
+
+## Diapositive 41
+
+Calculez le coût total et le coût moyen
+
+ABC inc. dépense 1 $ en coûts variables pour chaque unité produite. Les coûts fixes totaux s'élèvent à 7,5 millions de dollars par an. L'usine, qui fonctionne actuellement à seulement 75 % de sa capacité, a produit 15 millions d'unités cette année. La direction prévoit produire à 90 % de sa capacité , soit 18 millions d'unités l'année prochaine. La direction ne prévoit aucun changement dans ses coûts variables unitaires et aucun changement dans ses coûts fixes totaux.
+ 
+Calculez le coût total actuel (15 millions d’unités) et le coût moyen.
+Calculez le coût total prévu (18 millions d’unités) et le coût moyen.
+Expliquez pourquoi le coût moyen a diminué. 
+
+41
+
+(c) 10904 / S01
+
+## Diapositive 42
+
+Conclusion – Séance 1
+
+42
+
+Comprendre différents types de coûts
+
+POUR…
+Calculer le coût d’un objet de coût
+Analyser la variation des coûts en fonction du volume d’activité.
+
+QUOI ?
+Les notions fondamentales
+La classification des coûts dans l’entreprise manufacturière
+Les coûts liés au volume d’activité
+Les coûts directs et indirects
+
+(c) 10904 / S01
+
+## Diapositive 43
+
+QUESTIONS…
+
+43
+
+(c) 10904 / S01

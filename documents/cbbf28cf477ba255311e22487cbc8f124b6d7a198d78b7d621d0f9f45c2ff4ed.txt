@@ -1,0 +1,19 @@
+6 | Description et objectifs de la séance
+
+Séance 6
+Description
+Planification détaillée (PDP)
+Principales différences entre le plan global de production et le plan directeur de production (PDP);
+Description et objectifs de la planification détaillée;
+Élaboration du plan directeur de production (PDP) :
+Les intrants;
+Démarche pour l'élaboration;
+Planification sommaire des capacités;
+Différentes techniques de lotissement;
+Le calcul du stock disponible à la vente.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer ce qu’est la planification détaillée des opérations et sa place dans l’ensemble du processus de planification;
+d’établir un plan directeur de production (PDP) qui réponde le mieux possible aux prévisions de demande tout en respectant les limites de capacité;
+de calculer les stocks projetés et les stocks disponibles à la vente et d’expliquer la différence entre ces deux notions;
+d’utiliser le plan directeur pour transmettre au Service des ventes les informations relatives à la disponibilité des produits.

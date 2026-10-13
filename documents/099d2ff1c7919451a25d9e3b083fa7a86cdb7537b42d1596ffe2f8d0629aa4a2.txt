@@ -1,0 +1,13 @@
+Voici le tableau de bord développé par le directeur général d’Empathie Conseil. 
+Empathie Conseil est une firme-conseil alliant stratégies d’affaires et stratégies humaines. Sa mission est formulée ainsi « accompagner les organisations à faire émerger une culture porteuse et engageante qui stimule la performance ». Empathie Conseil offre des services d'évaluation personnalisés des cadres et des solutions d'évaluation des talents en ligne. L’entreprise aide ainsi les talents et les leaders d'organisations pan-canadiennes et internationales à accélérer leur développement professionnel.  
+ La performance et la rémunération des gestionnaires d’Empathie Conseil seront basées sur l’atteinte de cibles liées aux indicateurs de performance répertoriés dans le tableau de bord. 
+Tableau de bord d’Empathie Conseil 
+TRAVAIL À FAIRE :	
+Choisissez deux dimensions et identifiez-y les faiblesses (incohérences) au niveau des objectifs, indicateurs et cibles. 
+Prenez soin d’expliquer pourquoi vous considérez que ce sont des faiblesses (incohérences) et formuler une recommandation au directeur pour améliorer chacune des faiblesses identifiées. 
+Assurez-vous de justifier vos éléments de réponses.
+Dimensions | Objectifs | Indicateurs | Cible
+Financière  | Développer les compétences de ses employés  | RCI  | 20 %
+Client  | Satisfaire les clients  | Satisfaction des clients  | 25 %
+Processus internes  | Améliorer le processus de production  | % de diminution du coût des licences des logiciels par rapport à l’année précédente  | 50 %
+Innovation et apprentissage  | Nombre de lancements de nouvelles formations  | % d’augmentation de la part de marché des nouvelles formations par rapport à l’année précédente  | 5%

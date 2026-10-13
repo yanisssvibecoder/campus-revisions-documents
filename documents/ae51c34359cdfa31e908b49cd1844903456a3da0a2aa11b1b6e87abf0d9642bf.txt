@@ -1,0 +1,861 @@
+## Diapositive 1
+
+1
+
+10200Finance
+
+
+
+
+
+
+
+© Mélanie Harris 2025
+
+Séances 5 &  6 
+
+Risque, rendement et MÉDAF
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+## Diapositive 2
+
+Qu'avons-nous vu dans la classe 5 ?
+
+2
+
+Capsule 1 : Définition du risque total
+Capsule 2 : Effet de diversification
+Capsule 3 : Risque et portefeuille
+Capsule 4 : MÉDAF
+
+
+
+
+
+Lectures : Chapitres 12 et 13
+ZC / Modules/ Informations générales / Matériel pédagogique « Importance de chaque section »
+
+Mark Zuckerberg est le cofondateur et PDG de Meta (anciennement Facebook), qu’il a lancé en 2004 à Harvard.Il est aujourd’hui l’un des entrepreneurs technologiques les plus influents au monde.
+
+## Diapositive 3
+
+Contexte
+
+3
+
+Nous allons maintenant travailler dans un cadre d'incertitude...
+Les FMs futurs ne sont pas connus avec certitude... 
+Incertitude = risque
+📌 Taux de rendement requis doit refléter le risque de l’actif sous-jacent
+
+Qu'est-ce que le risque ?
+👉 Incertitude et variabilité ! 
+
+
+
+
+
+
+
+## Diapositive 4
+
+Contexte
+
+4
+
+
+Par conséquent...
+
+Un titre ou un projet est risqué lorsque nous ne connaissons pas avec certitude les flux monétaires qu'il générera...
+Peut être plus élevé que prévu
+Peut être inférieur aux prévisions
+
+
+
+
+
+
+
+
+Taux de rendement requis = taux d'actualisation = taux sans risque + prime de risque
+Plus le risque est élevé, plus le taux de rendement requis est élevé
+
+## Diapositive 5
+
+Contexte
+
+5
+
+Un taux de rendement requis comporte trois éléments :
+
+					              
+
+
+
+Prime de risque
+
+
+
+Prime d'inflation
+
+
+
+Prime de risque
+
+ 
+Rendement 
+
+
+
+Taux sans risque = rf 
+rf = risk free rate
+
+
+
+
+
+Prime de risque = ??
+🔴 Comment la déterminer ?? 
+C'est l'objectif de ce cours !
+
+## Diapositive 6
+
+Compromis entre risque et rendement : que pouvons-nous apprendre de l'histoire des marchés financiers ?
+
+6
+
+Type de titre | Rendement annuel moyen 
+(1957-2017)
+
+Actions ordinaires canadiennes | 10,15
+
+Bons du Trésor | 5,62
+
+Obligations à long terme | 8,37
+
+Actions de petites capitalisations |  12,43
+
+Inflation | 3,70
+
+Actif | Rendement maximal | Rendement minimum
+
+Actions canadiennes | 35,49 | -33,00
+
+Bons du Trésor | 15,27 | 2,24
+
+Obligations à long terme | 26,34 | -7,39
+
+Actions de petites capitalisations | 52,26 | -46,6
+
+🔎 Plus le risque est élevé, plus le taux de rendement requis est élevé.
+
+## Diapositive 7
+
+Compromis entre risque et rendement
+
+7
+
+Principe n° 2 : plus le gain potentiel est élevé, plus le risque est important
+Plus le titre est risqué, plus le rendement attendu est élevé ET plus la probabilité que le rendement réalisé soit différent du rendement attendu est grande
+
+
+
+
+
+
+Taux sans risque
+
+
+Prime de risque
+
+
+Rendement attendu d'un actif
+
+
+
+
+
+
+
+Quel est alors l'impact sur le prix de cet actif ?
+
+Nous pouvons tirer deux enseignements essentiels de l'histoire des marchés financiers...
+
+Principe n° 1 : les actifs risqués génèrent une prime de risque
+Plus le titre est risqué, plus la prime de risque est élevée, plus le rendement attendu est élevé
+
+## Diapositive 8
+
+Nous disons qu'un investisseur type est averse au risque... Qu'est-ce qu'un investisseur averse au risque ?
+
+8
+
+L'aversion au risque désigne le comportement d'un individu face à l'incertitude. Que choisirez-vous ?  Tenter votre chance ou un résultat garanti ?
+
+🎲Option 1 : résultat garanti de 100 $
+💰Option 2 : parier pour gagner soit 200 $, soit 0 $ ?
+
+## Diapositive 9
+
+Comment calculer le rendement et le risque ?
+
+9
+
+
+3 situations différentes
+Données historiques et observées (connues)
+Données futures projetées (inconnues)
+Portefeuille
+
+
+
+
+
+## Diapositive 10
+
+
+
+A - Données historiques et observées (connues)
+
+10
+
+## Diapositive 11
+
+Graphiquement, la variance se présente comme suit...
+
+11
+
+
+
+## Diapositive 12
+
+Mesures statistiques
+
+Donc, + la variance est grande, + le risque total est grand, + les rendements auront tendance à différer du rendement moyen. 
+👉 On dit que les rendements sont « volatiles »
+
+On peut calculer l’écart-type ou la variance avec:
+Les données antérieures / données passées et observées
+Les données futures prévues
+
+    Pourquoi utiliser l’écart-type ?
+
+
+12
+
+## Diapositive 13
+
+
+
+B - Données futures projetées (inconnues)
+
+13
+
+## Diapositive 14
+
+C - Portefeuille
+
+14
+
+Les investisseurs ont tendance à posséder plus d'une action, obligation ou autre titre ! Ils possèdent un portefeuille d'actifs...
+
+Par conséquent, un portefeuille est un ensemble d'actifs... 
+
+Comment calcule-t-on le rendement et le risque d'un portefeuille d'actifs?
+
+
+
+## Diapositive 15
+
+
+
+
+
+Rendement du portefeuille
+
+15
+
+## Diapositive 16
+
+Risque lié au portefeuille
+
+16
+
+## Diapositive 17
+
+Risque lié au portefeuille
+
+17
+
+Pourquoi et comment ? 
+
+📌L’effet de diversification!
+
+Graphiquement, la diversification ressemble à ceci…
+
+## Diapositive 18
+
+Exemple : effet de diversification
+
+18
+
+Vous devez constituer un portefeuille composé de deux titres. Vous avez le choix entre trois actifs :
+
+
+
+
+
+
+
+
+Que se passe-t-il si vous combinez :
+A et B ?
+A et C ?
+Effet d'amplification ou effet de compensation ?
+
+Titre | Émetteur | En période de récession :
+
+Action A | Détaillant de produits de loisirs | Le cours de l'action baisse
+
+
+Action B | Concessionnaire automobile de luxe | Le cours de l'action baisse
+
+
+Action C | Agence de recouvrement | Le cours de l'action augmente
+
+## Diapositive 19
+
+
+
+Risque de portefeuille
+
+19
+
+
+
+
+
+## Diapositive 20
+
+
+
+
+
+Comment calculer le risque d'un portefeuille ?
+
+20
+
+
+
+Contribution individuelle de chacun des titres au risque du portefeuille
+
+
+
+Effet de diversification entre les titres
+ (coef. de corrélation se cache dans la covariance)
+
+
+
+
+
+## Diapositive 21
+
+Calculer le rendement et le risque selon les différents contextes
+
+21
+
+
+Exemple 1 : avec des données observées
+Exemple 2 : avec des données prévisionnelles
+Exemple 3 : portefeuille d'actifs 
+
+
+
+
+
+## Diapositive 22
+
+Exemple 1 : Calcul du risque/rendement à partir de données historiques
+
+22
+
+Nous sommes en 2015. La société Z Corp a réalisé les rendements suivants au cours des 5 dernières années.
+
+
+
+
+
+
+
+
+
+
+Quel est le rendement annuel moyen de Z Corp au cours des 5 dernières années ?
+Quelle est l'écart type annuel de Z Corp ?
+
+
+
+
+Années  | Z Corp %
+
+2010 | 18
+
+2011 | 6
+
+2012 | -9
+
+2013 | 13
+
+2014 | 7
+
+## Diapositive 23
+
+Exemple 2 : Calcul du risque/rendement à partir de données prévisionnelles
+
+23
+
+Voici un tableau présentant les rendements attendus pour les actions A et B, en fonction de la situation économique :
+
+
+
+
+
+
+Questions :
+Quel est le rendement attendu de A ? Et de B ?
+Quelle est l'écart type de A ? Et de B ?
+
+Scénarios | Probabilité % | Action A | Action B
+
+Expansion | 30 | 12 | 25
+
+Normal | 60 | 6 | 4
+
+Récession | 10 | 1 | -8
+
+## Diapositive 24
+
+Exemple 3 : Calcul du risque/rendement d'un portefeuille
+
+24
+
+Même exemple…
+
+
+
+
+
+
+
+Informations supplémentaires :
+Coefficient de corrélation entre A et B = 0,9946
+
+Un portefeuille se compose de 60 % d'actions A et de 40 % d'actions B.
+Quel est le rendement attendu de ce portefeuille ?
+Quelle est la variance de ce portefeuille ?
+
+
+
+Scénarios | Probabilité % | Action A % | Action B
+%
+
+Expansion | 30 | 12 | 25
+
+Normal | 60 | 6 | 4
+
+Récession | 10 | 1 | -8
+
+## Diapositive 25
+
+Le MÉDAF
+
+25
+
+
+
+
+
+## Diapositive 26
+
+Risque et MÉDAF
+
+26
+
+Rappelez-vous comment décomposer le rendement requis en ses différentes composantes… 
+...rendement requis = taux sans risque + prime de risque 
+L'objectif que nous nous sommes fixé précédemment était de déterminer la prime de risque...
+
+Voici le MÉDAF...
+Modèle d'évaluation des actifs financiers (MÉDAF)
+➡️ Un modèle qui permet de déterminer le taux de rendement requis pour un titre ou un projet en fonction de son risque
+➡️ Le modèle détermine explicitement la prime de risque
+En réalité... Ce modèle est principalement utilisé pour les actions...
+
+
+
+
+## Diapositive 27
+
+Lorsque le nombre de titres dans un portefeuille augmente, le risque du portefeuille diminue...
+
+27
+
+2 observations clés
+
+    Répartir un investissement sur plusieurs actifs élimine une partie du risque... 
+= Risque spécifique
+
+   Un niveau minimum de risque ne peut être éliminé simplement par la diversification
+= Risque de marché 
+
+Relation entre la taille du portefeuille et le risque du portefeuille
+
+
+1
+
+2
+
+1
+
+2
+
+➡️ La diversification réduit le risque, mais seulement jusqu'à un certain point
+
+➡️ Certains risques peuvent être diversifiés, d'autres non...
+
+## Diapositive 28
+
+Le risque spécifique peut être diversifié, mais pas le risque systématique...
+
+28
+
+Par conséquent, selon le MEDAF, il existe deux types de risques :
+Risque spécifique
+Risque systématique 
+
+Risque spécifique :
+Risque ou facteurs affectant uniquement certaines entreprises et/ou certains secteurs
+Risque diversifiable  risque non pertinent
+Synonymes : risque non systématique, risque diversifiable, risque idiosyncratique
+Ex : grève, stock légal, recherche et développement…
+
+Risque systématique :
+Risque affectant toutes les entreprises de l'économie, mais pas nécessairement avec la même intensité 
+Risque non diversifiable  risque pertinent
+Synonymes : risque de marché, risque non diversifiable
+Exemple : inflation, récession, guerre, changement de gouvernement, COVID-19…
+
+
+1
+
+2
+
+
+
+
+
+## Diapositive 29
+
+Exemple
+
+Dites si les éléments suivants relèvent du risque systématique ou du risque spécifique:
+Le risque que le dollar canadien s’apprécie fortement.
+Le risque pour l’industrie du cinéma québécois que les subventions liées à la culture deviennent illégales, en raison d’ententes internationales conclues avec l’OMC. 
+Le risque que le PIB canadien augmente plus rapidement que prévu au cours de la prochaine année.
+Le risque que les membres de la haute direction de Fidelity perdent la vie dans un écrasement d’avion.
+Le risque que les taux d’intérêt varient beaucoup prochainement.
+Le risque que les dirigeants d’une grande firme gonflent les profits déclarés dans le but que l’action s’apprécie. 
+Le risque que la productivité du secteur du textile chute dû à la concurrence étrangère.
+
+29
+
+## Diapositive 30
+
+
+
+Selon le MÉDAF, un seul risque doit être pris en compte. Le risque systématique ou le risque spécifique ?
+Lequel ? Pourquoi ? 
+
+Le principe de diversification :
+Les investisseurs sont averses au risque  ils détiennent des portefeuilles de titres bien diversifiés 
+Le risque spécifique est alors éliminé si un investisseur détient un portefeuille diversifié 
+Cependant, le risque systématique ne peut être éliminé en augmentant le nombre de titres dans un portefeuille... c'est donc le seul risque pertinent.
+
+Les investisseurs doivent être récompensés pour le risque
+Seul le risque systématique est récompensé
+👉 La prime de risque ne devrait alors tenir compte que du risque systématique.
+
+La prime de risque ne devrait alors tenir compte que du risque systématique...
+
+30
+
+
+
+## Diapositive 31
+
+🔴 Mesure du risque systématique : le bêta
+
+Le coefficient bêta nous indique le niveau de risque systématique d'un actif particulier
+
+Le bêta moyen est fixé à 1 
+Si β > 1 : risque systématique élevé
+Si β < 1 : risque systématique faible
+Si β = 0 : pas de risque systématique
+
+
+
+Comment mesurer le risque systématique ? Avec le bêta !
+
+31
+
+Nous savons que tous les titres réagissent au risque de marché...
+
+... mais tous les titres ne réagissent pas de la même manière... Exemples
+
+Nous avons donc besoin d'une mesure pour quantifier la manière dont le rendement d'un actif réagit aux variations du risque de marché
+
+
+## Diapositive 32
+
+Et la version bêta en pratique... ?
+
+32
+
+Jetons un œil à Yahoo Finance... !
+
+## Diapositive 33
+
+Exemple : risque total ou risque systématique ?
+
+33
+
+Considérez les informations suivantes :
+
+   		        Écart type              Bêta
+Titre C        20 %                  1,25
+Titre K        30 %                  0,95
+
+Quel titre présente le risque total le plus élevé ?
+Quel titre présente le risque systématique le plus élevé ?
+Quel titre devrait avoir le rendement attendu le plus élevé ?
+
+## Diapositive 34
+
+
+
+
+
+Formule MÉDAF
+
+34
+
+MÉDAF : Modèle d'évaluation des actifs financiers
+
+Formule MÉDAF :
+rendement requis = taux sans risque + prime de risque
+rendement requis pour le titre i = E(Ri ) = Rf + β i [E(Rm ) - Rf ]
+
+Définitions :
+Rf = taux sans risque
+β i = Mesure le risque systématique de l'actif i
+E(Rm) = Rendement attendu du portefeuille de marché
+E(Rm) – Rf  = Prime de risque du marché
+β i [E(Rm) - Rf ] = Prime de risque de l'actif i
+	
+
+Les actifs dont le bêta est élevé présentent un risque systématique plus important, des primes de risque plus élevées et des rendements attendus plus élevés.
+
+
+
+
+
+## Diapositive 35
+
+
+
+
+
+MÉDAF
+
+35
+
+    La relation entre le rendement d'un actif et la prime de risque est linéaire et s'appelle la ligne du marché des titres.
+
+
+
+
+
+
+
+
+
+
+
+Rf
+
+E (RM )
+
+E (R)
+
+bêtai
+
+
+
+## Diapositive 36
+
+
+
+MÉDAF
+
+36
+
+## Diapositive 37
+
+
+
+
+
+À retenir 🎯
+
+
+Le β du marché est toujours égal à 1
+
+β des bons du Trésor est toujours égal à 0
+
+Le portefeuille de marché a un β = 1 
+
+Bêta du portefeuille = somme pondérée des bêtas individuels 
+
+
+
+
+37
+
+
+
+## Diapositive 38
+
+Exemple : Bêta du portefeuille
+
+38
+
+Reprenons l'exemple précédent avec les quatre titres suivants
+
+   Titre        Poids    Bêta
+ABC            0,133        3,69
+DEF            0,2           0,64
+GHI            0,267       1,64
+JKL            0,4            1,79
+
+Quel est le bêta du portefeuille ?
+Bêta pf = 0,133 (3,69) + 0,2 (0,64) + 0,267 (1,64) + 0,4 (1,79) = 1,773
+
+Quel titre présente le risque systématique le plus élevé ?
+Quel titre présente le risque systématique le plus faible ?
+Le risque systématique du portefeuille est-il supérieur ou inférieur à celui du marché ?
+
+## Diapositive 39
+
+Exemple - MÉDAF
+
+Considérons les bêtas de chacun des actifs indiqués précédemment. Si le taux sans risque est de 4,5 % et la prime de risque du marché de 8,5 %, quel est le rendement attendu pour chacun ?
+
+Titre | Bêta | Rendement attendu
+
+ABC | 3,6 | 4,5 + 3,69(8,5) = 35,865 %
+
+DEF | 0,64 | 4,5 + 0,64(8,5) = 9,940 %
+
+GHI | 1,64 | 4,5 + 1,64(8,5) = 18,440 %
+
+JKL | 1,79 | 4,5 + 1,79 (8,5) = 19,715 %
+
+39
+
+## Diapositive 40
+
+Points clés à retenir
+
+40
+
+👉 Plus le bêta est élevé, plus le risque systématique est élevé et plus le 
+       rendement attendu est élevé.
+Le risque spécifique peut être diversifié
+
+👉 Le bêta de l’actif sans risque (rf) est = 0.
+
+👉 Le portefeuille de marché a un bêta = 1
+
+👉 Le bêta d’un portefeuille de titres est la somme pondérée des bêtas 
+       individuels.
+
+👉 Bêta risque systématique. Variance risque total.
+
+
+
+
+
+## Diapositive 41
+
+À retenir 🎯
+
+41
+
+
+
+
+
+
+
+## Diapositive 42
+
+Exemple 1
+
+42
+
+À partir des informations suivantes sur les actions X et Y et sur le marché, calculez la prime de risque du marché et le taux sans risque.
+
+
+
+## Diapositive 43
+
+Exemple 2
+
+43
+
+Vous disposez d'une somme d'argent que vous souhaitez investir dans des titres A et B. Voici quelques informations :
+Écart type de A = 0,25
+Écart type de B = 0,40
+Écart type du marché (M) = 0,20
+Coefficient de corrélation A, M = 0,70
+Coefficient de corrélation B, M = 0,65
+Prime de risque du marché = 7 %
+Taux sans risque = 4 %
+
+Questions
+Quel est le rendement attendu des titres A et B ?
+Si le rendement attendu de votre portefeuille est de 12 %, dans quelles proportions avez-vous investi dans les actions A et B ?
+Quel est le bêta du portefeuille ?
+Quelle est la variance de ce portefeuille si le coefficient de corrélation entre A et B est de 55 % ?
+
+
+
+## Diapositive 44
+
+C'est en forgeant qu'on devient forgeron !!!
+
+Manuel. Voir séances 5 & 6 sur ZC.
+
+
+Exercices dans le cahier de travaux de mi-semestre. Voir ZC / Modules / Préparation aux examens INTRA 
+
+
+
+44
+
+Solutions aux exercices des éditions 4 et 5 sur ZC

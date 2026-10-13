@@ -1,0 +1,393 @@
+EXAMEN INTRA 
+Question 1 (24 points) 
+Avant de répondre aux questions suivantes, consultez l’information prise sur le site web de Agropur.
+Propriété de 3024 producteurs laitiers qui ont uni leurs forces pour transformer et mettre en marché le lait de grande qualité qu’ils produisent.
+C’est avec ce lait que nous créons une vaste gamme de produits laitiers et de marques fortes que nos clients et consommateurs aiment.
+Quand vous choisissez un produit Agropur, vous contribuez à bâtir un meilleur monde. Vous choisissez un produit naturel répondant aux plus hauts standards de qualité. Vous choisissez un produit qui fait une différence dans les communautés rurales partout en Amérique du Nord. Un produit bon pour vous et bon pour la collectivité.
+Nous sommes fiers de notre modèle d’affaires unique, basé sur la solidarité, la démocratie et la mise en commun des ressources. C’est un formidable véhicule de prise en charge et de partage de la richesse.
+Chaque année, nous retournons à nos membres une ristourne en fonction de leur production de lait annuelle et des excédents de la Coopérative. Cette ristourne contribue à la création de valeur dans les communautés. Nos membres le disent : « Comme les autres, nous sommes une entreprise, mais nous ne sommes pas une entreprise comme les autres… ».
+Première coopérative de transformation laitière en Amérique du Nord, Agropur est aujourd’hui l’un des plus grands transformateurs laitiers au monde. Alors que la compétition est vive dans l’industrie laitière mondiale, nous entendons demeurer un joueur significatif et nous démarquer par nos valeurs.
+Être une coopérative, c’est participer à bâtir un monde plus juste et équitable. Plus nous serons nombreux à partager les mêmes valeurs, plus nous contribuerons à bâtir un monde meilleur.
+1.1	Nommez les deux attributs stratégiques principaux de cette entreprise. Justifiez brièvement chacune de vos réponses. (4 points)
+Attribut 1 : 
+1.2	Donnez un exemple de chacun des éléments du système opérationnel d’Agropur pour la production d’un litre de lait au chocolat. Soyez spécifique et concret dans vos réponses. (5 points)
+Intrants : ____________________________________________________________________
+Transformation : ______________________________________________________________
+Extrants : ___________________________________________________________________
+Ressource : _________________________________________________________________
+Rétroaction : ______________________________________________________________	
+1.3	Nommez et expliquez brièvement un élément de l’environnement politique/légal, un élément de l’environnement économique et un élément de l’environnement social pouvant influencer la demande pour cette entreprise. (9 points)
+Environnement politique / légal :
+Environnement social :
+1.4	La gestion des opérations nécessite plusieurs niveaux de décisions. Donnez un exemple relié à la GOL de décision stratégique, un exemple relié à la GOL de décision tactique et un exemple relié à la GOL de décision opérationnelle qui devront être prises par cette entreprise au cours des prochaines années, des prochains mois ou encore des prochains jours. (6 points)
+  Décision stratégique : 
+Question 2 (16 points)
+Grande Récolte, une entreprise du Québec produisant du cidre de glace et du cidre tranquille depuis 1994, a vu ses ventes augmenter considérablement depuis les huit dernières années. L’entreprise a généré des profits qui lui ont permis d’investir dans un nouveau produit : le cidre mousseux. Grande Récolte distribuera prochainement ses produits en supermarché, en plus de ses points de ventes actuels.
+2.1	Répondez aux questions suivantes :
+Les dirigeants de Grande Récolte devraient-ils utiliser des méthodes de prévisions qualitatives ou quantitatives pour prévoir les ventes du cidre mousseux? Justifiez bien votre réponse. (2 points)
+Proposez une méthode de prévision pour ce produit. (1 point)
+2.2	L’entreprise désire prévoir, pour les six prochains mois, la quantité de cidre de glace qu’elle devra produire pour répondre à la demande. Elle désire également bien contrôler ses stocks de bouteilles vides utilisées pour ce produit en particulier. Indiquez si des prévisions sont nécessaires pour chacun de ces éléments et expliquez pourquoi. (4 points)
+2.3	Un des analystes travaillant chez Grande Récolte a un urgent besoin des prévisions des ventes du cidre tranquille pour les prochains mois. Il décide de tester, dans un premier temps, des méthodes quantitatives basées sur les ventes de l’an dernier. Voici les résultats qu’il a obtenus pour deux de ces méthodes : 
+Trouvez les trois données demandées dans le tableau ci-dessus. Justifiez vos réponses à l’aide d’un calcul approprié. (6 points)
+A)
+C)
+Que nous indique l’écart moyen de chacune des méthodes? (2 points)
+Quelle est la raison principale qui explique ce résultat? (1 point)
+Question 3 (11 points) 
+3.1	Juan Camilo est responsable de la gestion des stocks chez Angela inc., assembleur de micro-ordinateurs pour le marché local. Il revoit présentement le tableau ci-dessous, contenant l’information de certains produits de son inventaire. 
+Selon la méthode de la classification ABC vue en classe, répartissez les items ci-dessus dans chacune des classes ci-dessous. (3 points)
+Quel système de gestion des stocks recommanderiez-vous pour les items de la classe A? Justifiez bien votre réponse. (2 points)
+3.2	Le produit Ventilateur (du tableau de la page 6) a une demande annuelle relativement stable de 30 000 unités avec un écart type de 72 unités par semaine. L’entreprise doit débourser 25 $ à chaque fois qu’elle place une commande. Le délai de livraison est d’une semaine. On estime le coût annuel d’entreposage de cet item à 9 % du coût d’acquisition unitaire. On compte 52 semaines dans une année chez Angela inc. On voudrait utiliser le réapprovisionnement périodique pour cet item. 
+Si l’objectif est de minimiser le coût total, à quelle fréquence (en semaines, à une décimale près) devrait-on placer les commandes? (3 points)
+Selon l’intervalle de commande calculé en a), quel niveau de stock de sécurité devrait-on conserver pour cet item si on désire maintenir un risque de pénurie de 3 %? (3 points)
+Question 4 (14 points)
+Un magasin d’électronique vend des téléviseurs 50 pouces. Les ventes mensuelles moyennes s’élèvent à 6 unités avec un écart-type de 1,5 unité par mois. On commande les téléviseurs une fois par mois (chaque mois compte exactement 20 jours ouvrables) au coût d’acquisition de 725 $ l’unité. Le fournisseur est en mesure de livrer les téléviseurs en 10 jours ouvrables. Le coût unitaire d’entreposage annuel s’élève à 12 % du coût d’acquisition et on doit débourser 85 $ pour chaque commande placée. On désire offrir un niveau de service de 93 % pour ces appareils. Ce matin, on doit placer une commande; on compte 5 téléviseurs en stock. 
+Combien de téléviseurs seront commandés aujourd’hui? (3 points)
+Quel est le coût total annuel de gestion des stocks (coût d’entreposage et coût de commande) des téléviseurs 50 pouces? (4 points)
+Combien l’entreprise sauverait-elle annuellement si elle optait pour un système à point de commande? (7 points)
+Question 5 (14 points)
+Pour chacune des questions suivantes, identifiez clairement votre réponse en encerclant la lettre choisie. Il n’y a pas de pénalité pour les mauvaises réponses.
+5.1	Pour une entreprise faisant face à une demande saisonnière, une stratégie synchrone s’applique habituellement : (2 points)
+Dans un contexte où la main-d’œuvre n’a pas besoin d’être hautement qualifiée
+Dans un contexte où la qualification et la formation de la main-d’œuvre sont essentielles
+Lorsque les coûts des équipements sont très élevés
+Les énoncés a) et c) seulement
+Les énoncés b) et c) seulement
+Aucune de ces réponses
+5.2	La stratégie de nivellement comporte les inconvénients suivants : (2 points)
+Elle peut engendrer des coûts de stockage importants
+Elle peut engendrer des coûts de pénurie
+La main d’œuvre est instable
+Elle est moins flexible
+Les énoncés a), b) et d) seulement
+Toutes ces réponses
+5.3	Lorsque la demande fluctue constamment, il est important d’agir au niveau de la capacité du système de production. Parmi les énoncés suivants, lequel ne permet pas d’augmenter ou de diminuer la capacité de production? (2 points)
+Heures supplémentaires
+Temps mort
+Ajout d’une équipe de travail
+Variation de l’espace de stockage
+Toutes ces réponses
+Aucune de ces réponses
+5.4	Dans une stratégie de nivellement, le stock accumulé en prévision d’une augmentation de la demande future représente : (1 point)
+Un stock tampon
+Un stock d’anticipation
+Un stock de sécurité
+Un stock cyclique
+Toutes ces réponses
+Aucune de ces réponses
+Les questions 5.5, 5.6 et 5.7 se rapportent au plan de la page 11 : 
+Politiques et contraintes :
+Stock final désiré : 46 unités équivalentes
+Stock initial : 30 unités équivalentes
+Production mensuelle par employé : 10 unités équivalentes
+Capacité maximale de stockage : 46 unités équivalentes
+Effectif actuel : 23 employés
+Variation mensuelle de l’effectif permise : 10 %
+Heures supplémentaires permises : 10 % des heures régulières chaque mois
+Pénuries non acceptées.
+5.5	La stratégie de production utilisée dans le plan de la page précédente est une : (1 point)
+Stratégie de nivellement
+Stratégie hybride 
+Stratégie synchrone
+Aucune de ces réponses
+5.6	Dans le plan de la page précédente : (3 points)
+Toutes les contraintes sont respectées
+Seules les contraintes de stockage et de pénurie ne sont pas respectées
+Seule la contrainte de variation de l’effectif n’est pas respectée
+Seule la contrainte de temps supplémentaire n’est pas respectée
+Aucune contrainte n’est respectée
+5.7	En utilisant les données du plan de la page précédente, déterminez pour combien de mois il serait économiquement préférable de garder un employé non productif plutôt que de le mettre à pied pour le réembaucher plus tard. Considérez que les coûts d’embauche et de mise à pied sont égaux. (3 points)
+Au plus 1 mois
+Au plus 2 mois
+Au plus 3 mois
+Il est toujours préférable de garder un employé non productif
+Il est toujours préférable de mettre à pied pour réembaucher par la suite
+Question 6 (21 points)
+Chez Scooby inc., on fabrique des sous-composants utilisés dans différents équipements de télécommunications. 
+6.1	Le modèle Doo99 est produit dans un atelier qui lui est dédié. Madame Velma, directrice de la planification, a développé le plan de production préliminaire ci-dessous pour le début de l’année prochaine. 
+Complétez les informations manquantes dans la grille ci-dessus, soit, la taille de lot, le délai de fabrication et le stock de début. (3 points)
+6.2	Les modèles Doo32 et Doo44 sont fabriqués sur la même chaîne de production dont la capacité est de 300 unités équivalentes par semaine. Madame Velma a déjà préparé le plan de production préliminaire du début de l’an prochain que vous retrouverez ci-dessous. Complétez la planification sommaire des capacités. 
+Planification sommaire des capacités
+Une fois les plans préliminaires terminés, madame Velma s’assure que l’ensemble des contraintes sont respectées. On désire minimiser les stocks tout en évitant les pénuries. À la lumière de ces nouvelles informations, complétez le plan final qui respectera les contraintes de l’entreprise. (Note : Vous devez utiliser les grilles de PDP qui vous sont fournies ci-dessous). (7 points)
+Grille de PDP
+Planification sommaire des capacités
+L’entreprise fabrique aussi le produit Doo24 qui est assemblé à partir de différents modules dans une autre section de l’usine. Pour les six premières semaines de la prochaine année, on a établi les besoins suivants :
+La nomenclature du Doo24 ainsi que le fichier maître des stocks sont présentés ci-dessous.
+Nomenclature du composant Doo24
+Fichier maître des stocks
+Dans cette nomenclature, identifiez le(s) article(s) dont la demande est dépendante.  (2 points)
+Quelle est l’horizon minimum de planification du composant Doo24?   (2 points) 
+6.5	En fonction des paramètres de planification qui vous ont été indiqués ainsi que des informations sur les PDP et la nomenclature du produit, complétez la planification des besoins matières pour le produit Fr. Utilisez toutes les grilles nécessaires à cette fin. (7 points)
+Grilles de planification des besoins matières
+
+
+
+Attribut 2 :
+
+
+
+
+
+
+Environnement économique :
+
+
+
+
+
+
+
+
+
+
+
+Décision tactique :
+
+
+
+
+Décision opérationnelle : 
+
+
+
+
+
+
+
+
+
+
+
+Éléments | Prévisions
+Oui / Non | Raison
+Élément 1 : bouteilles vides
+
+ |  | 
+Élément 2 : bouteilles de cidre de glace prêtes à la vente
+ |  | 
+Mois | Demande | Moyenne mobile (k = 4) | Moyenne mobile (k = 4) | Lissage exponentiel
+(α = C ?) | Lissage exponentiel
+(α = C ?)
+Mois | Demande | Prévision | Écart | Prévision | Écart
+Janvier | 7 080 |   |   | 7 080 |  
+Février | 6 900 |   |   | 7 080 |  
+Mars | A ? |   |   | 7 008 |  
+Avril | B ? |   |   | 6 891 | 
+Mai | 7 021 | 6 821 | 200 | 6 769 | 252
+Juin | 7 888 | 6 806 | 1 082 | 6 870 | 1 018
+Juillet | 8 332 | 7 053 | 1 279 | 7 277 | 1 055
+Août | 8 225 | 7 457 | 768 | 7 699 | 526
+Septembre | 9 440 | 7 867 | 1 573 | 7 909 | 1 531
+Octobre | 9 555 | 8 471 | 1 084 | 8 522 | 1 033
+Novembre | 9 570 | 8 888 | 682 | 8 935 | 635
+Décembre | 10 111 | 9 198 | 913 | 9 189 | 922
+Écart
+moyen | Écart
+moyen |   | 948 |  | 871
+
+
+
+
+B)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Produit | Coût unitaire | Quantité
+annuelle
+(unités) | Valeur 
+annuelle
+($) | %
+Microprocesseur | 300 $ | 25 000 | 7 500 000 $ | 61,22 %
+Carte maîtresse |   90 $ | 25 000 | 2 250 000 $ | 18,37 %
+Boîtier |   40 $ | 25 000 | 1 000 000 $ |   8,16 %
+Ventilateur |   30 $ | 30 000 |    900 000 $ |   7,35 %
+Carte mémoire |   10 $ | 40 000 |    400 000 $ |   3,27 %
+Souris |     5 $ | 40 000 |    200 000 $ |   1,63 %
+A | B | C
+ |  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Initial | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Final
+Demande |   | 233 | 235 | 235 | 242 | 250 | 252 | 260 | 264 | 274 | 277 | 283 | 287 |  
+Production |   | 203 | 235 | 235 | 250 | 250 | 250 | 260 | 260 | 290 | 290 | 290 | 295 |  
+Stocks | 30 | 0 | 0 | 0 | 8 | 8 | 6 | ? | ? | ? | ? | ? | ? | 
+Employés | 23 | 23 | 23 | 23 | 25 | 25 | 25 | 26 | 26 | 29 | 29 | 29 | 29 |  
+Embauches |   | 0 | 0 | 0 | 2 | 0 | 0 | 1 | 0 | 3 | 0 | 0 | 0 |  
+Mises à pied |   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+Suppléments |   | 0 | 0,5 | 0,5 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0,5 |  
+Temps morts |  | 2,7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Coûts – stockage | Coûts – stockage | 0 | 0 | 0 | 800 | 800 | 600 | 600 | 200 | 1 800 | 3 100 | 3 800 | 4 600 | 16 300
+Coûts – pénurie | Coûts – pénurie | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Coûts – embauche | Coûts – embauche | 0 | 0 | 0 | 5 000 | 0 |   | 2 500 | 0 | 7 500 | 0 | 0 | 0 | 15 000
+Coûts – mise à pied | Coûts – mise à pied | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Coûts – heures régulières | Coûts – heures régulières | 46 000 | 46 000 | 46 000 | 50 000 | 50 000 | 50 000 | 52 000 | 52 000 | 58 000 | 58 000 | 58 000 | 58 000 | 624 000
+Coûts – heures suppl. |  | 0 | 1 500 | 1 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 500 | 4 500
+Total |   | 46 000 | 47 500 | 47 500 | 55 800 | 50 800 | 50 600 | 55 100 | 52 200 | 67 300 | 61 100 | 61 800 | 64 100 | 659 800
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo99 |  |  |  |  |  |  | 1 | 1
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions | 150 | 180 | 180 | 210 | 210 | 240 | 240 | 270
+Commandes acceptées | 172 | 165 | 165 | 200 | 200 | 225 | 225 | 290
+Stock disponible projeté | 242 | 62 | 62 | 52 | 52 | 12 | 12 | 0
+Réceptions planifiées |  |  |  | 200 | 200 | 200 | 200 | 278
+Lancements planifiés | 200 | 200 | 200 | 278 | 278 |  |  | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo32 | X 25 | X 25 | 1 | 1 | 42 | 42 | 3 | 3
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions | 36 | 40 | 40 | 60 | 60 | 70 | 70 | 90
+Commandes acceptées | 38 | 24 | 24 | 52 | 52 | 78 | 78 | 105
+Stock disponible projeté | 4 | 14 | 14 | 4 | 4 | 1 | 1 | 21
+Réceptions planifiées |  | 50 | 50 | 50 | 50 | 75 | 75 | 125
+Lancements planifiés | 50 | 50 | 50 | 75 | 75 | 125 | 125 | 
+  |   |   |   |   |   |   |   |   |  
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo44 | X 20 | X 20 | 0 | 0 | 26 | 26 | 2 | 2
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions | 10 | 14 | 14 | 16 | 16 | 24 | 24 | 30
+Commandes acceptées | 9 | 16 | 16 | 16 | 16 | 22 | 22 | 36
+Stock disponible projeté | 16 | 0 | 0 | 4 | 4 | 0 | 0 | 4
+Réceptions planifiées |  |  |  | 20 | 20 | 20 | 20 | 40
+Lancements planifiés |  |  |  | 20 | 20 | 20 | 20 | 40
+  |   |   |   |   |   |   |   |   |   |  
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 |  |  |  |  | 
+Capacité requise pour le Doo44 |  |  |  |  | 
+Total
+ |  |  |  |  | 
+Capacité disponible
+ |  |  |  |  | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo32 | X25 | X25 | 1 | 1 | 42 | 42 | 3 | 3
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 36 | 40 | 40 | 60 | 60 | 70 | 70 | 90
+Commandes acceptées
+ | 38 | 24 | 24 | 52 | 52 | 78 | 78 | 105
+Stock projeté
+ |  |  |  |  |  |  |  | 
+Stock disponible à la vente |  |  |  |  |  |  |  | 
+Réceptions planifiées
+ |  |  |  |  |  |  |  | 
+Lancements planifiés
+ |  |  |  |  |  |  |  | 
+  |   |   |   |   |   |   |   |   |  
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo44 | X 20 | X 20 | 0 | 0 | 26 | 26 | 2 | 2
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 10 | 14 | 14 | 16 | 16 | 24 | 24 | 30
+Commandes acceptées
+ | 9 | 16 | 16 | 16 | 16 | 22 | 22 | 36
+Stock projeté
+ |  |  |  |  |  |  |  | 
+Stock disponible à la vente |  |  |  |  |  |  |  | 
+Réceptions planifiées
+ |  |  |  |  |  |  |  | 
+Lancements planifiés
+ |  |  |  |  |  |  |  | 
+  |   |   |   |   |   |   |   |   |   |  
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 |  |  |  |  | 
+Capacité requise pour le Doo44 |  |  |  |  | 
+Total
+ |  |  |  |  | 
+Capacité disponible
+ |  |  |  |  | 
+Semaine | 1 | 2 | 3 | 4 | 5 | 6
+Réceptions planifiées |  |  | 20 | 40 | 160 | 200
+Lancements planifiés |  | 20 | 40 | 160 | 200 | 
+Article | Quantité en stock | Taille de lot | Délai
+(en semaines)
+Tu | 120 | X 125 | 1
+Fr | 1 000 | 3 semaines | 2
+Qp | 150 | Min. 300 | 1
+Mo | 100 | X 800 | 3
+Sp | 150 | Min. 50 | 2
+Ig | 0 | L X L | 2
+
+
+
+
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaine | 1 | 2 | 3 | 4 | 5 | 6
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  | 
+Besoin net |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  | 
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaine | 1 | 2 | 3 | 4 | 5 | 6
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  | 
+Besoin net |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  | 
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaines | 1 | 2 | 3 | 4 | 5 | 6
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  | 
+Besoin net |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  | 

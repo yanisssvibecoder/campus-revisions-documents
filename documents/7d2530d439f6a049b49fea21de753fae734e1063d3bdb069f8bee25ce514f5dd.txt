@@ -1,0 +1,6 @@
+noType	descriptionType
+1	Entr�es
+2	Plats principaux
+3	� c�t�s
+4	Breuvages
+5	Desserts

@@ -1,0 +1,16 @@
+3 | Description et objectifs de la séance
+
+Séance 3
+Description
+Gestion des stocks
+Le rôle des stocks et les types de stock;
+Classification ABC;
+La méthode du lot économique (QEC).
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’identifier les différents types de stocks et de connaître leur rôle;
+d’appliquer le principe de la loi de Pareto pour effectuer la classification ABC des articles stockés selon leur valeur et leur consommation annuelle;
+d’expliquer les enjeux liés aux pénuries et de réaliser l’arbitrage entre les risques de pénurie et les conséquences de conserver les articles en main (possession); de montrer comment cet arbitrage est relié au concept de niveau de service;
+d’expliquer les enjeux liés à la conservation de stocks élevés et à la passation fréquente de commandes; de réaliser l’arbitrage commande‐stock et de calculer une quantité économique à commander (QEC) simple. De retracer les hypothèses sous‐jacentes au modèle de base du lot économique et de démontrer comment la faible sensibilité du modèle permet son application même en situation de relative incertitude;
+d’analyser l’impact financier et stratégique des différentes décisions de gestion des stocks et de calculer le coût total annuel de différentes options;
+d’amorcer une démarche de réduction des stocks en identifiant les causes possibles des surplus de stocks.

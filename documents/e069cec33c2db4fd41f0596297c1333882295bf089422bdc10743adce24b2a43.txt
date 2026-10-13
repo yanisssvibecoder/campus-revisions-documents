@@ -1,0 +1,30 @@
+8 | Description et objectifs de la séance
+
+Séance 8
+Description
+Conception des produits
+Facteurs d'évolution des produits et des services;
+La conception des produits et des services;
+Types de produits : Produits standards et produits sur spécifications;
+La conception modulaire et la différenciation retardée.
+Conception des processus
+Types de flux : discontinu, semi-continu et continu;
+Type de processus : atelier, masse par lot, masse en continu et process (traitement);
+Un type de processus : La personnalisation de masse.
+Aménagement
+Notions de base;
+Les principaux types d'aménagement :
+Aménagement linéaire;
+Aménagement fonctionnel;
+Aménagement stationnaire;
+Aménagement cellulaire.
+L'aménagement dans les services.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer et d’analyser les enjeux stratégiques qui sont présents lors du choix des produits (biens et services), de même que les variables qui influencent leur évolution;
+de présenter les effets de la standardisation, de la réduction du nombre de pièces et de la conception modulaire sur l’efficacité et l’efficience des opérations;
+de tenir compte des enjeux éthiques et environnementaux lors du développement des produits;
+de décrire les différents types de flux et de processus, et de les reconnaître dans une situation réelle;
+de décrire les différents types d’aménagement, et de les reconnaître dans une situation réelle;
+d’analyser une organisation et de déterminer le degré d’adéquation entre les attributs stratégiques poursuivis, les caractéristiques des produits, le processus choisi et le type d’aménagement utilisé;
+de décrire et d’analyser les enjeux relatifs à l’aménagement dans une situation donnée, ainsi que les contraintes en présence et les arbitrages à réaliser.

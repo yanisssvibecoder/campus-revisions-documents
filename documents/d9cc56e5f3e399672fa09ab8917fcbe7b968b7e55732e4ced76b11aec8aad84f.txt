@@ -1,0 +1,12 @@
+10 | Description et objectifs de la séance
+
+L’utilisation des systèmes d’information : des requêtes complexes à l’aide de tableaux de bord
+Description
+L'intelligence d'affaires consiste à transformer les données brutes de l'organisation en informations utiles pour prendre de meilleures décisions, comme analyser les tendances de ventes, identifier les clients les plus rentables ou comprendre pourquoi certains produits fonctionnent mieux que d'autres. Elle permet de gérer et d'analyser des quantités de données massives -  les volumes énormes de données provenant des médias sociaux, des transactions en ligne et d'autres sources numériques - qu'il serait impossible de traiter manuellement ou avec les requêtes traditionnelles.
+Ces analyses sont possibles grâce à l'utilisation de modèles dimensionnels qui séparent les données en faits mesurables (comme les ventes ou les coûts) et en dimensions les décrivant (comme le temps, les produits ou les régions) pour permettre le calcul d'indicateurs fiables et pertinents. Ces indicateurs sont ensuite présentés dans des tableaux de bord interactifs qui permettent aux gestionnaires de visualiser rapidement les tendances, de comparer les performances et d'identifier les opportunités d'amélioration d'un simple coup d'œil.
+Important!
+Tableau Prep et Tableau Software sont deux solutions distinctes du même fournisseur. Contrairement aux autres solutions travaillées dans le cours cette session, vous devez télécharger les versions bureau de ces logiciels et les installer sur votre ordinateur avant de faire le parcours d'apprentissage.
+Objectifs de la séance
+Construire des indicateurs avancés sur Tableau Desktop en mobilisant paramètres, lignes de référence et indicateurs conditionnels
+Appliquer la tétralogie Objectifs–Indicateurs–Cibles–Alertes (OICA) pour concevoir des indicateurs de gestion pertinents, mesurables et actionnables
+Distinguer les trois types de tableau de bord (stratégique, tactique, opérationnel) et en expliquer les principes de conception efficace

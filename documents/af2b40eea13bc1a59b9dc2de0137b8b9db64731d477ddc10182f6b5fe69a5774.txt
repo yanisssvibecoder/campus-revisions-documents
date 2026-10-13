@@ -1,0 +1,65 @@
+Sérigraphie Nordet inc. est un atelier de Rosemont spécialisé dans l’impression et la broderie d’articles promotionnels. La Coupe du monde de soccer, présentée en Amérique du Nord à l’été 2026, lui a permis de connaître la meilleure année de son histoire. L’entreprise vend quatre types d’articles auprès de détaillants et de clubs sportifs du Québec.
+La fabrication de chaque article comporte plusieurs étapes : la préparation des visuels, la mise en production, l’impression ou la broderie, et l’emballage. Bien que ces activités mobilisent différentes ressources, toutes les commandes doivent obligatoirement passer par la machine d’emballage. Comme chaque article n’a pas la même forme, le temps d’emballage varie d’un article à l’autre, ce qui influence directement le rythme de production de l’atelier. Compte tenu de la combinaison de ventes actuelle, la capacité annuelle de l’atelier correspond à 100 000 unités.
+Le tableau ci-dessous présente les données du dernier exercice :
+Les coûts fixes annuels s’élèvent à 900 000 $. Le résultat d’exploitation du dernier exercice a été de 300 000 $.
+TRAVAIL PRATIQUE :
+Calculez la marge sur coûts variables totale de Nordet inc.
+Calculez le point mort de l’atelier en unités.
+Calculez la marge de sécurité en unité de Nordet inc., en unité et en pourcentage
+Calculez le résultat potentiel de l’atelier.
+Nordet envisage d’automatiser une partie de ses activités. Le temps d’emballage par unité resterait inchangé. En revanche, l’atelier économiserait 6,25 $ par unité en solvants et en main-d’œuvre de préparation. Le système entraînerait des coûts fixes annuels additionnels de 435 000 $ (amortissement, entretien et licences).
+Est-ce que Nordet devrait investir dans l’automatisation de ses activités ? Répondez de deux façons : par le calcul du seuil d’indifférence, puis par la comparaison des résultats d’exploitation.
+SOLUTION
+La marge sur coûts variables totale
+Une autre option selon l’information disponible dans le cas : 
+Utiliser l’équation du résultat pour trouver la MCV totale
+(Ventes – coûts variables) – coûts fixes = Résultat d’exploitation
+MCV totale – coûts fixes = Résultat d’exploitation
+MCV totale – 900 000 $ = 300 000 $
+MCV totale = 1 200 000 $
+Le point mort (en unités)
+Point mort = Coûts fixes ÷ MCV pondérée par unité
+Calcul de la MCV pondérée
+MCV pondérée par unité = MCV totale ÷ quantité totale = 1 200 000 $ ÷ 75 000 unités = 16,00 $ 
+Point mort = Coûts fixes ÷ MCV pondérée par unité 
+      = 900 000 $ ÷ 16,00 $ = 56 250 unités
+La marge de sécurité
+Marge de sécurité = ventes réelles − point mort
+En unités : 75 000 – 55 250 = 18 750 unités
+En pourcentage : 18 500 ÷ 74 000 = 25 %
+L’atelier pourrait donc perdre le quart de son volume de ventes avant de subir une perte.
+Le résultat potentiel
+Le résultat potentiel se calcule au volume maximal que l’atelier peut atteindre, soit à pleine capacité : 100 000 unités
+Résultat potentiel = (100 000 unités × 16,00 $) − 900 000 $ = 1 600 000 $ − 900 000 $ = 700 000 $
+Faut-il investir dans l’automatisation ?
+L’économie de 6,25 $ des coûts variables fait augmenter la marge sur coûts variables pondérée. 
+Calcul du seuil d’indifférence
+On cherche le volume, en unités, où les deux options donnent le même résultat d’exploitation.
+16,00 $ x volume − 900 000 $ = 22,25$  x volume − 1 335 000$
+435 000 = 6,25 x volume
+Volume = 69 600 unités
+Analyse des résultats d’exploitation
+Si l’entreprise vend 69 600 unités, elle est indifférente entre le statu quo et l’investissement, puisque les deux options génèrent le même résultat d’exploitation. Toutefois, pour maximiser son résultat d’exploitation, elle choisira d’investir dans le système. En effet, comme la demande prévue est de 75 000 unités, chaque unité vendue au-delà du seuil de 69 600 unités procurera une marge sur coût variable (MCV) unitaire de 22,25 $ plutôt que de 16,00 $. Cette hausse de la MCV unitaire permettra à l’entreprise de générer un bénéfice supplémentaire et d’améliorer sa rentabilité.
+Recommandation
+Investir.
+Articles | Prix de vente unitaire | Coûts variables unitaires | Quantités vendues
+Drapeau | 12 $ | 8 $ | 30 000 un.
+Casquette | 25 $ | 16 $ | 20 000 un.
+Chandail à capuchon | 60 $ | 35 $ | 15 000 un.
+Maillot personnalisé | 130 $ | 77,50 $ | 10 000 un.
+Articles | Prix | CV | MCV unitaire | Volume | MCV 
+Drapeau | 12 $ | 8 $ | 4 $ | 30 000  | 120 000 $
+Casquette | 25 $ | 16 $ | 9 $ | 20 000 | 180 000 $
+Chandail à capuchon | 60 $ | 35 $ | 25 $ | 15 000 | 375 000 $
+Maillot personnalisé | 130 $ | 77,50 | 52,50$ | 10 000 | 525 000 $
+Total |  |  |  | 75 000 | 1 200 000 $
+ | Statu quo | Avec le système
+MCV pondérée par unité | 16,00 $ | 22,25 $
+Coûts fixes annuels | 900 000 $ | 1 335 000 $
+Point mort (unités) | 56 250 | 60 000
+Marge de sécurité à 75 000 unités | 25 % | 20 %
+Volume | Statu quo | Avec le système | Écart
+56 250 (point mort actuel) | 0 $ | (83 437,50) $ | (83 437,50) $
+69 600 (seuil d’indifférence) | 213 600 $ | 213 600 $ | 0 $
+75 000 (dernier exercice) | 300 000 $ | 333 750 $ | 33 750 $
+100 000 (pleine capacité) | 700 000 $ | 890 000 $ | 190 000 $

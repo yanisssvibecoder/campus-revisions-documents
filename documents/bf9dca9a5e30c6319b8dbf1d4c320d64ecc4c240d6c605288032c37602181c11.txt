@@ -1,0 +1,13 @@
+5 | Description et objectifs de la séance
+
+L'utilisation des systèmes d'information : des requêtes simples et des enjeux de cybersécurité
+Description
+Les fonctions de recherche permettent aux utilisateurs de retrouver rapidement des informations spécifiques dans de grandes quantités de données, en offrant différentes méthodes de filtrage et de tri qui s'adaptent aux besoins variés des utilisateurs. Lors de la saisie, ces fonctions facilitent le travail en permettant de sélectionner des valeurs existantes plutôt que de les retaper, ce qui évite les erreurs de frappe et assure la cohérence des données.
+Ces outils sont essentiels pour la productivité, car ils réduisent le temps nécessaire pour accéder à l'information pertinente et pour saisir de nouvelles données, tout en maintenant la qualité et la standardisation des informations stockées dans le système.
+Ces fonctions qui facilitent l'accès aux données peuvent cependant représenter des vulnérabilités importantes si elles ne sont pas protégées par des mesures de cybersécurité appropriées, car elles constituent des portes d'entrée privilégiées pour les attaquants qui cherchent à accéder à des informations sensibles ou à compromettre l'intégrité du système.
+Important!
+Envie de vraiment maîtriser les concepts des séances 4 et 5 ? Mettez la main à la pâte et lancez-vous ! La pratique est la clé. N’ayez pas peur d’explorer le système et d’apprendre en pratiquant. Chaque erreur est une occasion de progresser !
+Objectifs de la séance
+Implémenter un modèle logique dans Airtable en créant les tables, les liens et les champs calculés
+Construire une application Softr reliée à Airtable pour saisir et consulter des données
+Expliquer les enjeux légaux et de sécurité liés aux données personnelles collectées dans le système qu'on vient de construire

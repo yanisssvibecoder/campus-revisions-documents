@@ -1,0 +1,14 @@
+10.1 | Activités/ressources avant la séance
+
+Séance 10
+Important!
+Giroux, Hélène (2019).
+La gestion des opérations et de la logistique
+, 2e ed., Éditions JFD
+ISBN: 9782897990671
+Chapitre 9
+Section 9.5
+Capsule 1 : Identifier le goulot d'étranglement
+Principe du goulot. Observation d’une simulation.
+Mauvaise et bonne identification du goulot.
+Cadence d’un processus multi-étapes (les tâches étant réalisées de façon séquentielle).

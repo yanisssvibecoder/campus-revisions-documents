@@ -1,0 +1,141 @@
+## xl/worksheets/sheet1.xml
+A1: Année | B1: Mois | C1: Demande | D1: Moyenne mobile | F1: Moyenne mobile pondérée | G1: Lissage exponentiel simple
+D2: 3 mois | E2: 6 mois | F2: 20 % - 30 % - 50 % | G2: 0.1 | H2: 0.4 | I2: 0.8
+A3: Année 2024 | B3: Janvier | C3: 859
+B4: Février | C4: 750
+B5: Mars | C5: 713
+B6: Avril | C6: 863
+B7: Mai | C7: 894
+B8: Juin | C8: 854
+B9: Juillet | C9: 882
+B10: Août | C10: 860
+B11: Septembre | C11: 703
+B12: Octobre | C12: 860
+B13: Novembre | C13: 701
+B14: Décembre | C14: 911
+A15: Année 2025 | B15: Janvier | C15: 759
+B16: Février | C16: 792
+B17: Mars | C17: 876
+B18: Avril | C18: 953
+B19: Mai | C19: 817
+B20: Juin | C20: 757
+B21: Juillet | C21: 806
+B22: Août | C22: 915
+B23: Septembre | C23: 875
+B24: Octobre | C24: 951
+B25: Novembre | C25: 884
+B26: Décembre | C26: 703
+D28: Vérifie tes calculs! [formule : Vérification!B3] | E28: Vérifie tes calculs! [formule : Vérification!B4] | F28: Vérifie tes calculs! [formule : Vérification!B5] | G28: Vérifie tes calculs! [formule : Vérification!B6] | H28: Vérifie tes calculs! [formule : Vérification!B7] | I28: Vérifie tes calculs! [formule : Vérification!B8]
+D29: ATTENTION! Les calculs de prévision effectués dans cette feuille sont non arrondis
+## xl/worksheets/sheet2.xml
+A1: Année | B1: Mois | C1: Demande | D1: Moyenne mobile | F1: Moyenne mobile pondérée | G1: Lissage exponentiel simple
+D2: 3 mois | E2: 6 mois | F2: 20 % - 30 % - 50 % | G2: 0.1 | H2: 0.4 | I2: 0.8
+A3: Année 2024 | B3: Janvier | C3: 859
+B4: Février | C4: 750
+B5: Mars | C5: 713
+B6: Avril | C6: 863
+B7: Mai | C7: 894
+B8: Juin | C8: 854
+B9: Juillet | C9: 882
+B10: Août | C10: 860
+B11: Septembre | C11: 703
+B12: Octobre | C12: 860
+B13: Novembre | C13: 701
+B14: Décembre | C14: 911
+A15: Année 2025 | B15: Janvier | C15: 759
+B16: Février | C16: 792
+B17: Mars | C17: 876
+B18: Avril | C18: 953
+B19: Mai | C19: 817
+B20: Juin | C20: 757
+B21: Juillet | C21: 806
+B22: Août | C22: 915
+B23: Septembre | C23: 875
+B24: Octobre | C24: 951
+B25: Novembre | C25: 884
+B26: Décembre | C26: 703
+D28: Vérifie tes calculs! [formule : Vérification!D3] | E28: Vérifie tes calculs! [formule : Vérification!D4] | F28: Vérifie tes calculs! [formule : Vérification!D5] | G28: Vérifie tes calculs! [formule : Vérification!D6] | H28: Vérifie tes calculs! [formule : Vérification!D7] | I28: Vérifie tes calculs! [formule : Vérification!D8]
+D29: ATTENTION! Les calculs de prévision effectués dans cette feuille sont arrondis
+## xl/worksheets/sheet3.xml
+A1: Année | B1: Mois | C1: Demande | D1: Moyenne mobile | F1: Moyenne mobile pondérée | G1: Lissage exponentiel simple
+D2: 3 mois | E2: 6 mois | F2: 20 % - 30 % - 50 % | G2: 0.1 | H2: 0.4 | I2: 0.8
+A3: Année 2024 | B3: Janvier | C3: 859
+B4: Février | C4: 750
+B5: Mars | C5: 713
+B6: Avril | C6: 863
+B7: Mai | C7: 894
+B8: Juin | C8: 854
+B9: Juillet | C9: 882
+B10: Août | C10: 860
+B11: Septembre | C11: 703
+B12: Octobre | C12: 860
+B13: Novembre | C13: 701
+B14: Décembre | C14: 911
+A15: Année 2025 | B15: Janvier | C15: 759
+B16: Février | C16: 792
+B17: Mars | C17: 876
+B18: Avril | C18: 953
+B19: Mai | C19: 817
+B20: Juin | C20: 757
+B21: Juillet | C21: 806
+B22: Août | C22: 915
+B23: Septembre | C23: 875
+B24: Octobre | C24: 951
+B25: Novembre | C25: 884
+B26: Décembre | C26: 703
+C27: EM | D27: #DIV/0! [formule : AVERAGE(D15:D26)] | E27: #DIV/0! [formule : AVERAGE(E15:E26)] | F27: #DIV/0! [formule : None] | G27: #DIV/0! [formule : None] | H27: #DIV/0! [formule : None] | I27: #DIV/0! [formule : None]
+D29: #DIV/0! [formule : Vérification!B12] | E29: #DIV/0! [formule : Vérification!B13] | F29: #DIV/0! [formule : Vérification!B14] | G29: #DIV/0! [formule : Vérification!B15] | H29: #DIV/0! [formule : Vérification!B16] | I29: #DIV/0! [formule : Vérification!B17]
+A30: Comment interpréter l'écart moyen?
+B32: Pourcentage
+## xl/worksheets/sheet4.xml
+A1: Année | B1: Mois | C1: Demande | D1: Moyenne mobile | F1: Moyenne mobile pondérée | G1: Lissage exponentiel simple
+D2: 3 mois | E2: 6 mois | F2: 20 % - 30 % - 50 % | G2: 0.1 | H2: 0.4 | I2: 0.8
+A3: Année 2024 | B3: Janvier | C3: 859
+B4: Février | C4: 750
+B5: Mars | C5: 713
+B6: Avril | C6: 863
+B7: Mai | C7: 894
+B8: Juin | C8: 854
+B9: Juillet | C9: 882
+B10: Août | C10: 860
+B11: Septembre | C11: 703
+B12: Octobre | C12: 860
+B13: Novembre | C13: 701
+B14: Décembre | C14: 911
+A15: Année 2025 | B15: Janvier | C15: 759
+B16: Février | C16: 792
+B17: Mars | C17: 876
+B18: Avril | C18: 953
+B19: Mai | C19: 817
+B20: Juin | C20: 757
+B21: Juillet | C21: 806
+B22: Août | C22: 915
+B23: Septembre | C23: 875
+B24: Octobre | C24: 951
+B25: Novembre | C25: 884
+B26: Décembre | C26: 703
+C27: EQM | D27: #DIV/0! [formule : AVERAGE(D15:D26)] | E27: #DIV/0! [formule : AVERAGE(E15:E26)] | F27: #DIV/0! [formule : None] | G27: #DIV/0! [formule : None] | H27: #DIV/0! [formule : None] | I27: #DIV/0! [formule : None]
+D29: #DIV/0! [formule : Vérification!B21] | E29: #DIV/0! [formule : Vérification!B22] | F29: #DIV/0! [formule : Vérification!B23] | G29: #DIV/0! [formule : Vérification!B24] | H29: #DIV/0! [formule : Vérification!B25] | I29: #DIV/0! [formule : Vérification!B26]
+## xl/worksheets/sheet5.xml
+A1: Vérification des calculs de prévision pour décembre 2017
+B2: Non arrondie | D2: Arrondie
+A3: Moyenne mobile k=3 | B3: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!D26-903.333333333333)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D3: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!D26=903,"Parfait!","Vérifie tes calculs!")]
+A4: Moyenne mobile k=6 | B4: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!E26-864.666666666667)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D4: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!E26=865,"Parfait!","Vérifie tes calculs!")]
+A5: Moyenne mobile pondérée | B5: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!F26-902.3)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D5: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!F26=902,"Parfait!","Vérifie tes calculs!")]
+A6: Lissage exponentiel alpha = 0,1 | B6: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!G26-854.172447700116)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D6: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!G26=854,"Parfait!","Vérifie tes calculs!")]
+A7: Lissage exponentiel alpha = 0,4 | B7: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!H26-892.063662475872)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D7: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!H26=892,"Parfait!","Vérifie tes calculs!")]
+A8: Lissage exponentiel alpha = 0,8 | B8: Vérifie tes calculs! [formule : IF(ABS('Prévision - Non arrondie'!I26-894.495259655389)<0.0000001,"Parfait!","Vérifie tes calculs!")] | D8: Vérifie tes calculs! [formule : IF('Prévision - Arrondie'!I26=894,"Parfait!","Vérifie tes calculs!")]
+A10: Vérification des calculs d'erreur cumulative moyenne
+A12: Moyenne mobile k=3 | B12: #DIV/0! [formule : IF(ABS('Écart moyen'!D27--4.58333333333333)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A13: Moyenne mobile k=6 | B13: #DIV/0! [formule : IF(ABS('Écart moyen'!E27-7.83333333333333)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A14: Moyenne mobile pondérée | B14: #DIV/0! [formule : IF(ABS('Écart moyen'!F27--8.25)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A15: Lissage exponentiel alpha = 0,1 | B15: #DIV/0! [formule : IF(ABS('Écart moyen'!G27-5.666666666667)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A16: Lissage exponentiel alpha = 0,4 | B16: #DIV/0! [formule : IF(ABS('Écart moyen'!H27--2.5)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A17: Lissage exponentiel alpha = 0,8 | B17: #DIV/0! [formule : IF(ABS('Écart moyen'!I27--13.75)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A19: Vérification des calculs d'erreur quadratique moyenne
+A21: Moyenne mobile k=3 | B21: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!D27-9478.41666666667)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A22: Moyenne mobile k=6 | B22: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!E27-6918.83333333333)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A23: Moyenne mobile pondérée | B23: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!F27-9056.91666666667)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A24: Lissage exponentiel alpha = 0,1 | B24: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!G27-6512)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A25: Lissage exponentiel alpha = 0,4 | B25: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!H27-7910)<0.0000001,"Parfait!","Vérifie tes calculs!")]
+A26: Lissage exponentiel alpha = 0,8 | B26: #DIV/0! [formule : IF(ABS('Écart quadratique moyen'!I27-9098.91666666667)<0.0000001,"Parfait!","Vérifie tes calculs!")]

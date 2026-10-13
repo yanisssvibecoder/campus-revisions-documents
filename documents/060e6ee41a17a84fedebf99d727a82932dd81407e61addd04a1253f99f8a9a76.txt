@@ -1,0 +1,13 @@
+5-6.4  | FAQ
+
+Séances 5 et 6
+Q : J'ai fait les questions dans le chapitre 13 et l'une d'entre elles me posent problème. En contexte de portefeuille, je ne comprends pas comment faire pour résoudre les proportions du titre X et du titre Y.
+R : Pour un portefeuille à 2 titres, lorsque l'on cherche les proportions à investir dans chacun des 2 titres, on sait que l'un dépend de l'autre, nous n'aurons donc qu'un seul inconnu. Par exemple, si il y a 20% d'un titre, c'est qu'il y a 80% de l'autre. Donc, pour résoudre l'équation, on pose X comme proportion du premier titre et on sait qu'on aura (1-X) pour le deuxième. Il ne reste ensuite qu'à isoler X.
+Q : Dans le chapitre 13, pour certains problèmes, il manque 2 informations (inconnus).
+R : Il arrive que des solutions proposées impliquent de résoudre une solution à deux équations - deux inconnues. Une fois que les deux équations ont été posées (par exemple, rendement du portefeuille et bêta du portefeuille, tous deux calculées à l'aide d'une moyenne pondérée), il ne suffit que de les résoudre (système d'équations). Vous pouvez isoler une variable dans une équation pour la remplacer dans l'autre ou encore utiliser les méthodes matricielles tel que la méthode de Cramer.
+Q : À la question 19 du chapitre 13, ma réponse était à l'inverse de la solution proposée.
+R : La présentation des taux peut porter à confusion (l'annotation E(R) pour le taux exigé selon le MEDAF).
+Dans l'énoncé, "le rendement espéré" du titre Y est le rendement anticipé par les marchés (15,3%). Le taux trouvé du MEDAF (14,34%) est le taux que l'on devrait exiger en fonction du risque. Ainsi, le titre Y devrait rapporter plus que ce qu'on exige, on devrait donc acheter le titre (il est sous-évalué).
+Alors que "le rendement espéré" du titre Z est le rendement anticipé par les marchés (9,3%). Le taux trouvé du MEDAF (10,26%) est le taux que l'on devrait exiger en fonction du risque. Ainsi, le titre Y devrait rapporter moins que ce qu'on exige, on ne devrait donc pas acheter le titre (il est sur-évalué).
+Q : Est-ce que les bons du Trésor sont équivalents au taux sans risque ?
+R : Oui, nous considérons que les titres financiers émis par le gouvernement sont des titres sans risk de défaut. Dans le contexte du MEDAF, le rendement de ces bons du Trésor est le taux sans risque.

@@ -1,0 +1,11 @@
+1 | Description et objectifs de la séance
+
+À la base d’une transformation numérique réussie : une stratégie et une architecture
+Description
+Il arrive très rarement de nos jours que les processus réalisés par les travailleurs ne soient pas soutenus par une ou plusieurs applications, une ou plusieurs technologies numériques. Celles-ci ne sont pas toujours adéquates ou bien utilisées, mais elles sont là et il est de plus en plus inconcevable de fonctionner sans elles, comme il est de plus en plus inconcevable de se passer de notre téléphone mobile (et surtout de leurs applications) au quotidien. C’est cette prise de conscience qui est l’essence de la première séance.
+Important!
+N'oubliez pas d'apporter votre curiosité et votre bonne humeur, elles seront utiles pour cette première séance où le sujet du cours sera démystifié!
+Objectifs de la séance
+Expliquer pourquoi les décisions en technologies de l'information relèvent des gestionnaires, pas uniquement des spécialistes TI
+Distinguer les systèmes d'information de l'informatique et appliquer les quatre principes qui guident leur mobilisation
+Décrire les obstacles à la prise de décision rencontrés lors de l'exécution d'un processus d'affaires manuel.

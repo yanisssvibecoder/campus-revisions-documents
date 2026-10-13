@@ -1,0 +1,854 @@
+## Page 1
+Mobiliser les
+technologies numériques
+TECH 10701
+
+
+Développé par
+Marie -Claude Trudel
+
+## Page 2
+1 – À la base d’une transformation numérique réussie            : une stratégie et une architecture
+
+
+
+2 – Au cœur des systèmes d’information       : des processus d’affaires
+
+
+
+3 – La matière première des systèmes d’information : des données
+
+
+
+4 – L’utilisation des systèmes d’information      : des interfaces et des droits
+
+
+
+5 – L’utilisation des systèmes d’information : des requêtes simples et des enjeux de cybersécurité
+
+
+
+6 - Au cœur des systèmes d’information : des algorithmes et de l’intelligence artificielle
+
+
+
+7 - Pour passer du concept au système matérialisé          : des projets structurés
+
+
+
+              8 - Des processus standardisés et des données intégrées : des progiciels de gestion intégrés
+
+
+
+              9 – La matière première des systèmes d’information : toujours plus de données
+
+
+
+              10 – L’utilisation des systèmes d’information : des requêtes complexes à l’aide de tableaux de bord
+
+
+
+              11- À l’avant scène des systèmes d’information : une expérience utilisateur réfléchie
+
+
+
+             12 – Une solution complète : un tableau de bord pour soutenir l’utilisation d’un progiciel de gestion intégré
+
+## Page 3
+     Séance 3
+
+     La matière première des systèmes
+
+     d’information : des données
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 4
+           ▪Identifier les données nécessaires à un processus d'affaires à partir
+
+               d'artefacts existants
+
+          ▪Appliquer les trois premières formes normales à un jeu de données
+
+            pour éliminer les redondances et les dépendances incorrectes
+
+          ▪Construire un DSBD à partir d'entités normalisées en respectant
+                                                                                                   3
+                 l'intégrité référentielle
+
+
+Mobiliser les technologies numériques
+
+## Page 5
+Plan de la séance
+
+
+ Retours           Assimilation       Application       Synthèse
+
+## Page 6
+  Retour sur la séance 2
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 7
+      Jeu Jeopardy sur les notions BPMN
+
+
+
+
+▪Un outil ludique pour valider la compréhension de BPMN
+
+▪Basé sur un jeu télévisé, on inverse la logique des questions traditionnelles
+
+   ▪Le participant voit la solution et doit répondre par une question
+
+    ▪Ex.: Il jappe = Qu’est -ce qu’un chien ?
+
+▪Si vous hésitez sur une des cases, vous savez que vous devez réviser ces notions
+
+▪N’oubliez pas, la modélisation BPMN sera évaluée dans le TP1 et à l’examen Intra
+
+## Page 8
+      Récapitulatif de la séance 2
+
+
+
+
+
+▪Qu’est -ce qu’un processus d’affaires?
+
+▪Quels sont les trois types de valeur que peuvent prendre une activité/tâche dans
+
+ un processus d’affaires?
+
+## Page 9
+     Amélie est prête. Presque.
+
+
+Ce qu’elle a…
+
+
+▪Le processus de Marcel modélisé en
+                                     Comment organiser les
+ BPMN ✓
+                                          données de Marcel pour
+▪Les activités sans valeur ajoutée
+  identifiées ✓                                        qu'elles soient utiles,
+▪La liste des besoins rédigée  ✓
+                                                      fiables et interrogeables?
+▪Un compte  Airtable  gratuit ✓
+
+               Avant d'ouvrir     Airtable    , il faut comprendre
+
+                  comment structurer les données!
+
+## Page 10
+     Données mal structurées : à qui la faute?
+
+
+▪Le rapport impossible   – Une directrice marketing demande…
+                                                                                    Ces problèmes
+   ▪« Combien de clients ont acheté deux fois ou plus au cours des six derniers mois? »
+                                                                                                  n'arrivent pas         Elle reçoit comme réponse de l'équipe TI : « On ne peut pas sortir ça. »
+      ▪Ce n'est pas un problème de logiciel. Le champ      date d'achat  a été fusionné avec la          parce que les
+               description de la commande    au moment de la conception. La structure des données a
+                                                                                             gestionnaires ne
+            rendu la question impossible.
+                                                                              comprennent pas▪La migration qui dure
+                                                                                                            la technologie. Ils    ▪Changement de CRM. Migration prévue : six semaines. Migration réelle : huit mois.
+
+       Coût supplémentaire : 180 000 $. Cause : doublons, champs mixtes, valeurs                   arrivent parce que
+       incohérentes dans l'ancien système. Quelqu'un a construit sans normaliser. Le                                                                                  personne n'a posé
+        gestionnaire qui a approuvé ce système il y a cinq ans n'avait pas posé les
+                                                                                                        les bonnes
+      bonnes questions.
+                                                                                         questions au▪Les deux chiffres
+                                                                   moment de    ▪Finance dit 2,3 M. Ventes dit 2,7 M. pour le même trimestre. L'écart vient d'un
+
+      champ « type de vente  » défini différemment dans deux tables.   Une décision de        construire.
+        structure prise en 2021 génère encore des réunions aujourd’hui pour expliquer les écarts.
+
+## Page 11
+      La force de la normalisation
+
+▪La normalisation est un outil puissant qui aide à voir clair dans les données qui
+
+  sont déjà traitées   par l’organisation, souvent sans structure évidente autre que
+
+  leur assemblage sur des artefacts papier, rapports ou formulaires
+
+▪En prenant un à un ces artefacts et en les normalisant jusqu’à la 3FN, on est en
+
+ mesure de  créer, pas à pas,    un modèle qui pourra être implémenté dans une
+
+  base de données relationnelle, c’est ce qu’on appelle le      modèle logique
+
+▪Puisqu’elle débute par des éléments existants, la normalisation est aussi
+
+ extrêmement utile pour effectuer l’    ingénierie inversée des systèmes
+
+  d’information actuels      pour lesquels les modèles logiques officiels (DSBD) ne
+
+  sont pas disponibles (ce qui est très souvent le cas)
+
+## Page 12
+     Approches de conception d’une BD
+
+▪Ainsi lorsque l’on normalise, on passe d’artefacts concrets pour obtenir un
+
+ schéma de données plus abstraite, qui donnera éventuellement lieu à une base
+
+ de données
+
+
+
+
+
+                                         Normalisation
+
+                            Du concret au (un peu plus)
+
+                                                    abstrait
+
+## Page 13
+                             du parcours  Assimilation
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 14
+    Un peu de pratique
+
+
+
+▪Est-ce que certains d’entre vous avez déjà travaillé à
+
+  la prise de commandes dans une pizzeria? Est      -ce que
+
+  certains d’entre vous avez déjà commandé une ou plusieurs
+
+  pizzas par téléphone?
+
+▪Selon vous, qu’est  -ce qui est pris en note par le commis lors d’une prise de
+
+ commande de ce type?
+
+▪Comment normaliser ces éléments?
+
+## Page 15
+    Un exemple de commande
+
+
+
+▪Quelles sont les informations retrouvées
+
+  sur cette commande?
+
+   ▪Adresse
+
+   ▪Numéro de téléphone
+
+   ▪Date
+
+   ▪Rue transversale
+
+    ▪Articles commandés
+
+   ▪Mode de paiement
+
+    ▪Total à payer
+
+   ▪No commande
+
+## Page 16
+Normaliser : Les formes normales
+
+
+
+
+
+Analysons les données à partir de cette commande
+
+## Page 17
+  Normaliser à la première forme normale
+
+
+
+
+Une entité est en première forme normale (1FN ) si elle
+ contient au moins une clé et si tous ses attributs sont
+                    atomiques.
+
+## Page 18
+      Normalisation des éléments pris en note
+
+▪Quelles sont les clés candidates?
+
+
+
+ ÉLÉMENTS PRIS EN NOTE
+
+ No commande     Adresse        Rue transversale    No téléphone     Articles commandés    Mode paiement    Date et Heure     Prix
+
+ 1                  123 rue A         Ave Quatre         555 -111-2222     1 Pizza L toute garnie       Comptant           2024 -09 -06      41,40
+                                                                             1 Frites L                                      17h40
+                                                                             2 Coca -cola
+
+ 2                  234 Ave D        Rue Trois          555 -222-3333    1 Pizza XL hawaïenne         Visa                2024 -09 -06      67,90
+                                                                                              Extra ananas                                   17h53
+                                                                             2 Frites L
+                                                                             3 Mountain Dew
+                                                                             2 Dr Pepper
+
+ 3                  345 croissant W   Ave Quatre         555 -333 -4444   1 Pizza P margherita        Comptant           2024 -09 -06      21,90
+                                                                             1 Frites sauce                                  17h58
+
+## Page 19
+      Normalisation des éléments pris en note
+
+▪Quelles sont les clés candidates?
+
+
+
+ ÉLÉMENTS PRIS EN NOTE
+
+ No commande     Adresse        Rue transversale    No téléphone     Articles commandés    Mode paiement    Date et Heure     Prix
+
+ 1                  123 rue A         Ave Quatre         555 -111-2222     1 Pizza L toute garnie       Comptant           2024 -09 -06      41,40
+                                                                             1 Frites L                                      17h40
+                                                                             2 Coca -cola
+
+ 2                  234 Ave D        Rue Trois          555 -222-3333    1 Pizza XL hawaïenne         Visa                2024 -09 -06      67,90
+                                                                                              Extra ananas                                   17h53
+                                                                             2 Frites L
+                                                                             3 Mountain Dew
+                                                                             2 Dr Pepper
+
+ 3                  345 croissant W   Ave Quatre         555 -333 -4444   1 Pizza P margherita        Comptant           2024 -09 -06      21,90
+                                                                             1 Frites sauce                                  17h58
+
+    ▪Il y a 5 clés candidates: No commande; Adresse; No téléphone; Date et Heure; Prix
+
+    ▪Laquelle devrions  -nous choisir comme clé primaire pour débuter l’exercice?
+
+## Page 20
+      Normaliser à la 1FN
+
+▪La clé doit être soulignée
+
+▪Est-ce que l’entité respecte la première forme normale     – 1FN?
+
+
+ ÉLÉMENTS PRIS EN NOTE
+
+ No commande     Adresse        Rue transversale    No téléphone     Articles commandés    Mode paiement    Date et Heure     Prix
+
+ 1                  123 rue A         Ave Quatre         555 -111-2222     1 Pizza L toute garnie       Comptant           2024 -09 -06      41,40
+                                                                             1 Frites L                                      17h40
+                                                                             2 Coca -cola
+
+ 2                  234 Ave D        Rue Trois          555 -222-3333    1 Pizza XL hawaïenne         Visa                2024 -09 -06      67,90
+                                                                                              Extra ananas                                   17h53
+                                                                             2 Frites L
+                                                                             3 Mountain Dew
+                                                                             2 Dr Pepper
+
+ 3                  345 croissant W   Ave Quatre         555 -333 -4444   1 Pizza P margherita        Comptant           2024 -09 -06      21,90
+                                                                             1 Frites sauce                                  17h58
+
+## Page 21
+      Normaliser à la 1FN
+
+▪Est-ce que l’entité respecte la première forme normale     – 1FN?
+
+
+
+ ÉLÉMENTS PRIS EN NOTE
+
+ No commande     Adresse        Rue transversale    No téléphone     Articles commandés    Mode paiement    Date et Heure     Prix
+
+ 1                  123 rue A         Ave Quatre         555 -111-2222     1 Pizza L toute garnie       Comptant           2024 -09 -06      41,40
+                                                                             1 Frites L                                      17h40
+                                                                             2 Coca -cola
+
+ 2                  234 Ave D        Rue Trois          555 -222-3333    1 Pizza XL hawaïenne         Visa                2024 -09 -06      67,90
+                                                                                              Extra ananas                                   17h53
+                                                                             2 Frites L
+                                                                             3 Mountain Dew
+                                                                             2 Dr Pepper
+
+ 3                  345 croissant W   Ave Quatre         555 -333 -4444   1 Pizza P margherita        Comptant           2024 -09 -06      21,90
+                                                                             1 Frites sauce                                  17h58
+
+   ▪Non car le champ   Articles commandés       n’est pas atomique, il contient plusieurs valeurs
+
+   ▪De plus, le champ  Date et Heure   peut être considéré comme multivalué et peut être divisé
+
+  ➔ Comment faire pour que l’entité respecte la 1FN?
+
+## Page 22
+      Normaliser à la 1FN
+
+▪Comment faire pour que l’entité respecte la 1FN?
+
+ ÉLÉMENTS PRIS EN NOTE
+
+
+ No commande     Adresse          Rue transversale    No téléphone     Articles commandés     Qte   Mode paiement     Date           Heure    Prix
+
+
+  1                123 rue A         Ave Quatre         555 -111-2222      Pizza L toute garnie        1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222       Frites L                  1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222     Coca -cola               2     Comptant          2024 -09 -06   17h40    41,40
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Pizza XL hawaïenne        1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Extra ananas             1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333     Frites L                  2      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Mountain Dew            3      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Dr Pepper                2      Visa              2024 -09 -06   17h53    67,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444    Pizza P margherita        1     Comptant          2024 -09 -06   17h58    21,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444     Frites sauce              1     Comptant          2024 -09 -06   17h58    21,90
+
+   ▪On doit fractionner l’attribut non atomique sur des lignes et des colonnes différentes et          intégrer un ou
+       plusieurs de ces attributs dans la clé    pour retrouver l’unicité
+
+## Page 23
+  Normaliser à la deuxième forme normale
+
+
+
+Une entité est en deuxième forme normale (2FN ) si elle
+                       est en 1FN
+ET si tout attribut ne faisant pas partie de la clé dépend
+           de la clé dans son intégrité.
+
+## Page 24
+      Notions | Dépendance fonctionnelle (DF)
+
+
+
+▪Y est fonctionnellement dépendant de X si pour une valeur de X, il n’existe qu’une
+
+  seule valeur de Y
+
+
+
+                                      X                 Y
+
+
+
+
+                    Numéro du client                   Nom du client
+
+## Page 25
+      Normaliser à la 2FN
+
+▪Est-ce que l’entité respecte la deuxième forme normale      – 2FN?
+
+ ÉLÉMENTS PRIS EN NOTE
+
+
+ No commande     Adresse          Rue transversale    No téléphone     Articles commandés     Qte   Mode paiement     Date           Heure    Prix
+
+
+  1                123 rue A         Ave Quatre         555 -111-2222      Pizza L toute garnie        1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222       Frites L                  1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222     Coca -cola               2     Comptant          2024 -09 -06   17h40    41,40
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Pizza XL hawaïenne        1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Extra ananas             1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333     Frites L                  2      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Mountain Dew            3      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Dr Pepper                2      Visa              2024 -09 -06   17h53    67,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444    Pizza P margherita        1     Comptant          2024 -09 -06   17h58    21,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444     Frites sauce              1     Comptant          2024 -09 -06   17h58    21,90
+
+   ▪Non car seul l’attribut  Quantité   est réellement déterminé par le numéro de commande et l’article commandé
+    ▪Les autres attributs n’ont rien à voir avec l’article commandé
+
+## Page 26
+      Normaliser à la 2FN
+
+▪Comment faire pour que l’entité respecte la 2FN?
+
+ ÉLÉMENTS PRIS EN NOTE
+
+
+ No commande     Adresse          Rue transversale    No téléphone     Articles commandés     Qte   Mode paiement     Date           Heure    Prix
+
+
+  1                123 rue A         Ave Quatre         555 -111-2222      Pizza L toute garnie        1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222       Frites L                  1     Comptant          2024 -09 -06   17h40    41,40
+
+  1                123 rue A         Ave Quatre         555 -111-2222     Coca -cola               2     Comptant          2024 -09 -06   17h40    41,40
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Pizza XL hawaïenne        1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Extra ananas             1      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333     Frites L                  2      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Mountain Dew            3      Visa              2024 -09 -06   17h53    67,90
+
+  2                234 Ave D        Rue Trois           555 -222-3333    Dr Pepper                2      Visa              2024 -09 -06   17h53    67,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444    Pizza P margherita        1     Comptant          2024 -09 -06   17h58    21,90
+
+  3                345 croissant W   Ave Quatre         555 -333 -4444     Frites sauce              1     Comptant          2024 -09 -06   17h58    21,90
+
+   ▪On doit décomposer l’entité actuelle en deux entités distinctes
+
+## Page 27
+Normaliser à la 2FN
+
+## Page 28
+  Normaliser à la troisième forme normale
+
+
+Une entité est en troisième forme normale (3FN ) si elle
+                       est en 2FN
+  ET si tout attribut n'appartenant pas à la clé dépend
+ directement de cette clé plutôt que d’un autre attribut
+                  de l’entité.
+
+## Page 29
+      Normaliser à la 3FN
+
+▪Est-ce que les entités respectent la troisième forme normale     – 3FN?
+
+
+
+
+
+▪Non, car plusieurs attributs de l’entité en jaune ne dépendent pas de la clé
+
+## Page 30
+      Normaliser à la 3FN
+
+▪Comment faire pour que les entités respectent la troisième forme normale       – 3FN?
+
+
+
+
+
+   ▪On doit décomposer davantage l’entité de droite et en extraire tout ce qui a rapport à l’adresse, qui est
+
+       susceptible de se répéter au fil du temps     (quand on y pense bien, c’est même ce que l’on souhaite!)
+
+## Page 31
+      Normaliser à la 3FN
+
+▪Comment faire pour que les entités respectent la troisième forme normale       – 3FN?
+
+
+
+
+
+   ▪Quel est le problème lié à cette entité maintenant?
+
+## Page 32
+Entités issues de la normalisation
+
+
+ ▪Peut -on avoir deux ensembles nommés commande?
+
+## Page 33
+Lien entre les différentes entités
+
+
+
+
+
+               ▪Le fait d’avoir conservé
+
+                         l’attribut clé à chaque
+
+                   décomposition nous
+
+                  permet de lier les entités
+
+                    entre elles
+
+## Page 34
+    Un peu de pratique
+
+
+
+
+
+▪À l’aide des entités issues du travail de normalisation,
+
+  dessinez un modèle logique qui respecte l’intégrité référentielle
+
+## Page 35
+  Modélisation logique
+
+
+
+
+
+Il y a combien de clés primaires dans la table « Détail commande » ?
+
+## Page 36
+   Modélisation logique
+
+
+Il y a combien de clés primaires dans la table « Détail commande » ?
+
+Une seule!
+
+C’est la combinaison des deux attributs qui permet d’identifier la quantité d’un produit
+dans une commande ; une table n’a toujours qu’une clé primaire, les clés concaténées
+doivent être perçues comme des attributs collés entre eux et immuables pour cette table.
+
+
+                                                                                 L’ « Intégrité référentielle » signifie qu’une
+                                                                 clé étrangère dans une table ne peut
+                                                           référencer que des valeurs qui existent dans
+                                                                      la table d’origine. Si on efface un client de la
+                                                             table Client, toutes les commandes qui lui
+                                                             étaient liées deviennent orphelines. Cette
+                                                            contrainte est ce qui fait qu’une base de
+                                                  données reste cohérente dans le temps.
+
+## Page 37
+  Application
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 38
+     De la normalisation à l'outil
+
+
+
+▪Vous venez de normaliser les données d'une commande de pizzeria    —de
+
+  l'artefact papier aux entités structurées. Résultat : des tables distinctes, des clés
+
+  bien définies, aucune dépendance incorrecte.
+
+▪Ces entités ne sont pas abstraites. Elles correspondent exactement aux tables
+
+  d'une base de données relationnelle.     Airtable  les implémente en no  -code —sans
+
+  écrire une ligne de code.
+
+▪Aujourd'hui : créer la table Client, une des tables « parents » de votre modèle
+
+  normalisé.
+
+## Page 39
+      Airtable     : Rappel création de table
+
+
+
+
+▪Rappel de la création d’une table dans      Airtable
+
+   ▪Créer la table
+
+    ▪Enlever les attributs générés automatiquement (il y en a souvent 3 ou plus)
+
+    ▪Enlever les enregistrements créés automatiquement (il y en a habituellement 3)
+
+▪Utiliser les menus pour ajouter les attributs
+
+▪Tester l’ajout d’enregistrement après avoir créé la table
+
+## Page 40
+      Créez la table Client dans        Airtable
+
+
+
+▪Ouvrir Airtable → créer une nouvelle base
+
+▪Nommer la base Pizzeria
+
+▪Renommer la table par défaut Client
+
+▪Créer les champs issus de votre normalisation :
+
+    ▪NoClient —Number (clé primaire)
+
+   ▪Prénom —Single line text
+
+   ▪Nom —Single line text
+
+   ▪Téléphone —Phone number
+
+   ▪Adresse —Single line text
+
+## Page 41
+Création de la table Client dans Airtable
+
+## Page 42
+  Synthèse
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 43
+    La séance 2 dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités         On comprend les grandes                                                                                     localisations                              événements         stratégiques et des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affairescomposantes règlesde l’entreprise,d’affaires
+                                                                                    en lien avec la stratégie
+
+Niveau                                         Processus            Localisations  des                            Événements                            Entités d’affaires                                                        Unités d’affaires                                Objectifs  d’affaires
+                                                             d’affaires                  unités                                             d’affairesconceptuel                                                                     On détaille les besoins de
+                                                                                           notreprocessus, on perd de vue le
+                                                      Application/                                          niveau global (contexte), mais onNiveau                                                                                                 Événements
+                           Entité de données           système           Fonctions nodales      Rôles et interfaces     comprendsystème  en détail notreCritèresprojetlogique                                         d’information
+                                                                                                         (concept)
+
+Niveau                Ligne (dans une         Algorithmes           Localisation  des                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmés             système stechnique
+
+## Page 44
+    Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités                                                                                     localisations                              événementsOn a une idée stratégiquesdes donnéeset des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affairesglobales pour l’organisation:règles d’affaires
+                                                                                                                  clients, menu, commandes,
+                                                                                                        fournisseurs, employés,
+Niveau                                         Processus            Localisations  des                            Événements                            Entités d’affaires                                                             d’affaires     On a lesunitésdonnées pourUnitésnotred’affaires     équipements,d’affaires     immobilisations,Objectifs  d’affairesetc.conceptuel
+                                                 système d’information qui
+                                                       soutiendra les clients, les
+                                                      Application/    commandes et les détails des             ÉvénementsNiveau                           Entité de données           système           Fonctions nodales      Rôles et interfaces                                      Critères
+                                                 commandes                         systèmelogique                                         d’information
+
+
+Niveau                Ligne (dans une         AlgorithmesCes tables serontLocalisationsaisiedes dans un                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmésoutil technique systèmeappelés Airtabletechnique
+
+## Page 45
+    Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités                                                                                     localisations                              événements         stratégiques et des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affaires            règles d’affaires
+
+                                                                          Le DSBD de notre système
+Niveau                                         Processus            Localisations  des         présente les donnéesÉvénementspour
+                            Entités d’affaires   S2   d’affaires                  unités          soutenirUnités d’affairesnotre processusd’affairesd’affaires  Objectifs  d’affairesconceptuel
+
+
+                                                      Application/
+Niveau                                                                                                 Événements                           Entité de données           système           Fonctions nodales      Rôles et interfaces                                      Critères
+logique                                         d’information                                                       système
+
+
+Niveau                Ligne (dans une         Algorithmes           Localisation  des                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmés             système stechnique
+
+## Page 46
+      La suite du cours d’aujourd’hui dans la spécialisation
+
+
+
+
+
+▪TECH 20709    Poser un diagnostic et élaborer des solutions numériques
+
+▪TECH 20700     Construire des entrepôts de données et concevoir des tableaux
+
+               de bord efficaces
+
+▪TECH 20712     Créer et exploiter des bases de données
+
+## Page 47
+Les métiers impliqués dans le cours d’aujourd’hui
+
+## Page 48
+      Les autres spécialisations dans le cours d’aujourd’hui
+
+
+
+
+
+▪Marketing
+
+▪Gestion des opérations et de la logistique
+
+▪Comptabilité
+
+## Page 49
+    À faire pour la semaine prochaine
+
+
+
+
+▪Visionner les capsules vidéo du parcours d’apprentissage de la séance 4
+
+    ▪Environ 37 minutes
+
+▪Si ce n’est pas déjà fait, ouvrir    1 un compte  Airtable  gratuit à l’adresse
+
+  https://www.airtable.com/
+
+▪Ouvrir 1 un compte  Softr gratuit à l’adresse   https://www.softr.io/
+
+
+                     1 Nous vérifierons l’accès aux solutions lors de la séance 4,
+
+                                 apportez vos ordinateurs

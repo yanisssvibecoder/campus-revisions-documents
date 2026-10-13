@@ -1,0 +1,30 @@
+Plan directeur de production – Hydra Flask (15 points)
+Hydra Flask fabrique et distribue des gourdes et bouteilles d'eau de différentes tailles et ouvertures ainsi que des bouteilles et pichets pour le sport ou la randonnée. Ses produits sont disponibles en plusieurs formats. Une des lignes de production fabrique les gourdes de formats 16 oz, 32 oz et 64 oz. 
+À l’aide des informations suivantes, on doit préparer le PDP des huit prochaines semaines. 
+Gourde de 16 oz
+Gourde de 32 oz
+Gourde de 64 oz
+Afin de préparer le PDP, le directeur doit respecter la contrainte de capacité de 1 350 unités équivalentes par semaine.
+On dispose aussi de l’information suivante : 
+Les gourdes de 16 oz sont fabriquées rapidement et donc, le lancement et la réception ont lieu la même semaine. Pour les gourdes de 32 et 64 oz, le délai est d’une semaine. La capacité est utilisée au cours de la période du lancement planifié.
+La politique de l’entreprise est d’éviter les pénuries à tout prix.
+Question 1 (10 points)
+Utilisez le fichier Excel (A26 – Gabarit PDP – Hydra Flask.xlsx) pour élaborer un plan directeur de production (PDP) pour les trois types de gourdes pour les semaines 1 à 8. Présentez vos plans préliminaires et vos plans finaux. 
+Question 2 (2 points)
+Un important client voudrait passer une commande de gourdes de 64 oz à la fin de la semaine 7. Combien de gourdes de 64 oz pourrait-on lui promettre à la fin de la semaine 7 sans modifier les lancements et réceptions planifiés? Justifiez brièvement votre réponse.
+Question 3 (3 points)
+On voudrait utiliser toute la capacité disponible des semaines 1 à 7 pour produire des gourdes Hydra Flask supplémentaires. Combien de gourdes pourrait-on fabriquer, de quels types et à quelles semaines afin de maximiser l’utilisation de la capacité tout en respectant les contraintes opérationnelles? 
+Veuillez entrer vos réponses dans l’onglet prévu à cette fin dans le fichier Excel. Vous ne devez soumettre que votre fichier Excel dûment complété. 
+Semaine | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8
+Prévisions | 500 | 500 | 500 | 400 | 300 | 400 | 400 | 400
+Commandes acceptées | 450 | 450 | 550 | 500 | 500 | 300 | 300 | 300
+Semaine | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8
+Prévisions | 300 | 500 | 500 | 550 | 500 | 550 | 500 | 550
+Commandes acceptées | 300 | 500 | 400 | 500 | 650 | 620 | 600 | 650
+Semaine | S1 | S2 | S3 | S4 | S5 | S6 | S7 | S8
+Prévisions | 150 | 200 | 240 | 260 | 190 | 250 | 250 | 210
+Commandes acceptées | 150 | 200 | 300 | 250 | 150 | 200 | 190 | 150
+Produit | Unités équivalentes | Stock de début | Taille de lot
+Gourde de 16 oz | 0,5 | 400 | X 150
+Gourde de 32 oz | 1 | 500 | X 100
+Gourde de 64 oz | 2 | 200 | X 300

@@ -1,0 +1,67 @@
+## xl/worksheets/sheet1.xml
+A1: Exercice D-Roll, livre, page 78
+A3: Calcul des prévisions
+A4: Mois | B4: Ventes  réalisées | C4: Ventes prévues
+C5: Mobile | D5: Mobile | E5: Pondérée | F5: Lissage* | G5: Lissage*
+C6: k = 3 | D6: k = 4 | E6: k = 4 | F6: 0.2 | G6: 0.5
+A7: 12 | B7: 16980
+A8: 13 | B8: 17280
+A9: 14 | B9: 17030
+A10: 15 | B10: 17230 | F10: 17043 | G10: 17088
+A11: 16 | B11: 16950 | C11: 17180 [formule : ROUND(AVERAGE(B8:B10),0)] | D11: 17130 [formule : ROUND(AVERAGE(B7:B10),0)] | E11: 17163 [formule : ROUND(0.5*B10+0.25*B9+0.15*B8+0.1*B7,0)] | F11: 17080 [formule : ROUND(F$6*$B10+(1-F$6)*F10,0)] | G11: 17159 [formule : ROUND(G$6*$B10+(1-G$6)*G10,0)]
+A12: 17 | B12: 16540 | C12: 17070 [formule : ROUND(AVERAGE(B9:B11),0)] | D12: 17123 [formule : ROUND(AVERAGE(B8:B11),0)] | E12: 17065 [formule : ROUND(0.5*B11+0.25*B10+0.15*B9+0.1*B8,0)] | F12: 17054 [formule : ROUND(F$6*$B11+(1-F$6)*F11,0)] | G12: 17055 [formule : ROUND(G$6*$B11+(1-G$6)*G11,0)]
+A13: 18 | B13: 16750 | C13: 16907 [formule : None] | D13: 16938 [formule : None] | E13: 16795 [formule : None] | F13: 16951 [formule : None] | G13: 16798 [formule : None]
+A14: 19 | B14: 17020 | C14: 16747 [formule : None] | D14: 16868 [formule : None] | E14: 16776 [formule : None] | F14: 16911 [formule : None] | G14: 16774 [formule : None]
+A15: 20 | B15: 16740 | C15: 16770 [formule : None] | D15: 16815 [formule : None] | E15: 16874 [formule : None] | F15: 16933 [formule : None] | G15: 16897 [formule : None]
+A16: 21 | B16: 16420 | C16: 16837 [formule : None] | D16: 16763 [formule : None] | E16: 16792 [formule : None] | F16: 16894 [formule : None] | G16: 16819 [formule : None]
+A17: 22 | B17: 16650 | C17: 16727 [formule : None] | D17: 16733 [formule : None] | E17: 16623 [formule : None] | F17: 16799 [formule : None] | G17: 16620 [formule : None]
+A18: 23 | B18: 16450 | C18: 16603 [formule : None] | D18: 16708 [formule : None] | E18: 16643 [formule : None] | F18: 16769 [formule : None] | G18: 16635 [formule : None]
+A19: 24 | B19: 16230 | C19: 16507 [formule : None] | D19: 16565 [formule : None] | E19: 16525 [formule : None] | F19: 16705 [formule : None] | G19: 16543 [formule : None]
+A20: 25 | B20: 16360 | C20: 16443 [formule : None] | D20: 16438 [formule : None] | E20: 16367 [formule : None] | F20: 16610 [formule : None] | G20: 16387 [formule : None]
+A21: 26 | B21: 16400 | C21: 16347 [formule : None] | D21: 16423 [formule : None] | E21: 16370 [formule : None] | F21: 16560 [formule : None] | G21: 16374 [formule : None]
+A22: 27 | B22: 16320 | C22: 16330 [formule : None] | D22: 16360 [formule : None] | E22: 16370 [formule : None] | F22: 16528 [formule : None] | G22: 16387 [formule : None]
+A23: * Ces données proviennent de l'exemple de la page 68.
+C24: =arrondi(moyenne(B8:B10);0)
+D25: =arrondi(moyenne(B7:B10);0)
+E26: 50-25-15-10
+F27: =arrondi(F$6*$B10+(1-F$6)*F10;0)
+## xl/worksheets/sheet2.xml
+A1: Exercice D-Roll, livre, page 78
+A3: Calcul de l'erreur quadratique moyenne
+A4: Mois | B4: Ventes  réalisées | C4: Erreur quadratique
+C5: Mobile | D5: Mobile | E5: Pondérée | F5: Lissage | G5: Lissage
+C6: k = 3 | D6: k = 4 | E6: k = 4 | F6: 0.2 | G6: α = 0,5
+A7: 16 | B7: 16950 | C7: -230 [formule : ($B7-[1]Prévisions!C11)] | D7: -180 [formule : ($B7-[1]Prévisions!D11)] | E7: -213 [formule : ($B7-[1]Prévisions!E11)] | F7: -130 [formule : ($B7-[1]Prévisions!F11)] | G7: -209 [formule : ($B7-[1]Prévisions!G11)]
+A8: 17 | B8: 16540 | C8: -530 [formule : ($B8-[1]Prévisions!C12)] | D8: -583 [formule : ($B8-[1]Prévisions!D12)] | E8: -525 [formule : ($B8-[1]Prévisions!E12)] | F8: -514 [formule : ($B8-[1]Prévisions!F12)] | G8: -515 [formule : ($B8-[1]Prévisions!G12)]
+A9: 18 | B9: 16750 | C9: -157 [formule : ($B9-[1]Prévisions!C13)] | D9: -188 [formule : ($B9-[1]Prévisions!D13)] | E9: -45 [formule : ($B9-[1]Prévisions!E13)] | F9: -201 [formule : ($B9-[1]Prévisions!F13)] | G9: -48 [formule : ($B9-[1]Prévisions!G13)]
+A10: 19 | B10: 17020 | C10: 273 [formule : ($B10-[1]Prévisions!C14)] | D10: 152 [formule : ($B10-[1]Prévisions!D14)] | E10: 244 [formule : ($B10-[1]Prévisions!E14)] | F10: 109 [formule : ($B10-[1]Prévisions!F14)] | G10: 246 [formule : ($B10-[1]Prévisions!G14)]
+A11: 20 | B11: 16740 | C11: -30 [formule : ($B11-[1]Prévisions!C15)] | D11: -75 [formule : ($B11-[1]Prévisions!D15)] | E11: -134 [formule : ($B11-[1]Prévisions!E15)] | F11: -193 [formule : ($B11-[1]Prévisions!F15)] | G11: -157 [formule : ($B11-[1]Prévisions!G15)]
+A12: 21 | B12: 16420 | C12: -417 [formule : ($B12-[1]Prévisions!C16)] | D12: -343 [formule : ($B12-[1]Prévisions!D16)] | E12: -372 [formule : ($B12-[1]Prévisions!E16)] | F12: -474 [formule : ($B12-[1]Prévisions!F16)] | G12: -399 [formule : ($B12-[1]Prévisions!G16)]
+A13: 22 | B13: 16650 | C13: -77 [formule : ($B13-[1]Prévisions!C17)] | D13: -83 [formule : ($B13-[1]Prévisions!D17)] | E13: 27 [formule : ($B13-[1]Prévisions!E17)] | F13: -149 [formule : ($B13-[1]Prévisions!F17)] | G13: 30 [formule : ($B13-[1]Prévisions!G17)]
+A14: 23 | B14: 16450 | C14: -153 [formule : ($B14-[1]Prévisions!C18)] | D14: -258 [formule : ($B14-[1]Prévisions!D18)] | E14: -193 [formule : ($B14-[1]Prévisions!E18)] | F14: -319 [formule : ($B14-[1]Prévisions!F18)] | G14: -185 [formule : ($B14-[1]Prévisions!G18)]
+A15: 24 | B15: 16230 | C15: -277 [formule : ($B15-[1]Prévisions!C19)] | D15: -335 [formule : ($B15-[1]Prévisions!D19)] | E15: -295 [formule : ($B15-[1]Prévisions!E19)] | F15: -475 [formule : ($B15-[1]Prévisions!F19)] | G15: -313 [formule : ($B15-[1]Prévisions!G19)]
+A16: 25 | B16: 16360 | C16: -83 [formule : ($B16-[1]Prévisions!C20)] | D16: -78 [formule : ($B16-[1]Prévisions!D20)] | E16: -7 [formule : ($B16-[1]Prévisions!E20)] | F16: -250 [formule : ($B16-[1]Prévisions!F20)] | G16: -27 [formule : ($B16-[1]Prévisions!G20)]
+A17: 26 | B17: 16400 | C17: 53 [formule : ($B17-[1]Prévisions!C21)] | D17: -23 [formule : ($B17-[1]Prévisions!D21)] | E17: 30 [formule : ($B17-[1]Prévisions!E21)] | F17: -160 [formule : ($B17-[1]Prévisions!F21)] | G17: 26 [formule : ($B17-[1]Prévisions!G21)]
+A18: 27 | B18: 16320 | C18: -10 [formule : ($B18-[1]Prévisions!C22)] | D18: -40 [formule : ($B18-[1]Prévisions!D22)] | E18: -50 [formule : ($B18-[1]Prévisions!E22)] | F18: -208 [formule : ($B18-[1]Prévisions!F22)] | G18: -67 [formule : ($B18-[1]Prévisions!G22)]
+B19: Moyenne | C19: -136.5 [formule : AVERAGE(C7:C18)] | D19: -169.5 [formule : AVERAGE(D7:D18)] | E19: -127.75 [formule : None] | F19: -247 [formule : None] | G19: -134.83333333333334 [formule : None]
+A22: La majorité des erreurs sont négatives… La prévision sur-estime la demande.
+## xl/worksheets/sheet3.xml
+A1: Exercice D-Roll, livre, page 78
+A3: Calcul de l'erreur quadratique moyenne
+A4: Mois | B4: Ventes  réalisées | C4: Erreur quadratique
+C5: Mobile | D5: Mobile | E5: Pondérée | F5: Lissage | G5: Lissage
+C6: k = 3 | D6: k = 4 | E6: k = 4 | F6: 0.2 | G6: α = 0,5
+A7: 16 | B7: 16950 | C7: 52900 [formule : ($B7-Prévisions!C11)^2] | D7: 32400 [formule : ($B7-Prévisions!D11)^2] | E7: 45369 [formule : ($B7-Prévisions!E11)^2] | F7: 16900 [formule : ($B7-Prévisions!F11)^2] | G7: 43681 [formule : ($B7-Prévisions!G11)^2]
+A8: 17 | B8: 16540 | C8: 280900 [formule : ($B8-Prévisions!C12)^2] | D8: 339889 [formule : ($B8-Prévisions!D12)^2] | E8: 275625 [formule : ($B8-Prévisions!E12)^2] | F8: 264196 [formule : ($B8-Prévisions!F12)^2] | G8: 265225 [formule : ($B8-Prévisions!G12)^2]
+A9: 18 | B9: 16750 | C9: 24649 [formule : ($B9-Prévisions!C13)^2] | D9: 35344 [formule : ($B9-Prévisions!D13)^2] | E9: 2025 [formule : ($B9-Prévisions!E13)^2] | F9: 40401 [formule : ($B9-Prévisions!F13)^2] | G9: 2304 [formule : ($B9-Prévisions!G13)^2]
+A10: 19 | B10: 17020 | C10: 74529 [formule : ($B10-Prévisions!C14)^2] | D10: 23104 [formule : ($B10-Prévisions!D14)^2] | E10: 59536 [formule : ($B10-Prévisions!E14)^2] | F10: 11881 [formule : ($B10-Prévisions!F14)^2] | G10: 60516 [formule : ($B10-Prévisions!G14)^2]
+A11: 20 | B11: 16740 | C11: 900 [formule : ($B11-Prévisions!C15)^2] | D11: 5625 [formule : ($B11-Prévisions!D15)^2] | E11: 17956 [formule : ($B11-Prévisions!E15)^2] | F11: 37249 [formule : ($B11-Prévisions!F15)^2] | G11: 24649 [formule : ($B11-Prévisions!G15)^2]
+A12: 21 | B12: 16420 | C12: 173889 [formule : ($B12-Prévisions!C16)^2] | D12: 117649 [formule : ($B12-Prévisions!D16)^2] | E12: 138384 [formule : ($B12-Prévisions!E16)^2] | F12: 224676 [formule : ($B12-Prévisions!F16)^2] | G12: 159201 [formule : ($B12-Prévisions!G16)^2]
+A13: 22 | B13: 16650 | C13: 5929 [formule : ($B13-Prévisions!C17)^2] | D13: 6889 [formule : ($B13-Prévisions!D17)^2] | E13: 729 [formule : ($B13-Prévisions!E17)^2] | F13: 22201 [formule : ($B13-Prévisions!F17)^2] | G13: 900 [formule : ($B13-Prévisions!G17)^2]
+A14: 23 | B14: 16450 | C14: 23409 [formule : ($B14-Prévisions!C18)^2] | D14: 66564 [formule : ($B14-Prévisions!D18)^2] | E14: 37249 [formule : ($B14-Prévisions!E18)^2] | F14: 101761 [formule : ($B14-Prévisions!F18)^2] | G14: 34225 [formule : ($B14-Prévisions!G18)^2]
+A15: 24 | B15: 16230 | C15: 76729 [formule : ($B15-Prévisions!C19)^2] | D15: 112225 [formule : ($B15-Prévisions!D19)^2] | E15: 87025 [formule : ($B15-Prévisions!E19)^2] | F15: 225625 [formule : ($B15-Prévisions!F19)^2] | G15: 97969 [formule : ($B15-Prévisions!G19)^2]
+A16: 25 | B16: 16360 | C16: 6889 [formule : ($B16-Prévisions!C20)^2] | D16: 6084 [formule : ($B16-Prévisions!D20)^2] | E16: 49 [formule : ($B16-Prévisions!E20)^2] | F16: 62500 [formule : ($B16-Prévisions!F20)^2] | G16: 729 [formule : ($B16-Prévisions!G20)^2]
+A17: 26 | B17: 16400 | C17: 2809 [formule : ($B17-Prévisions!C21)^2] | D17: 529 [formule : ($B17-Prévisions!D21)^2] | E17: 900 [formule : ($B17-Prévisions!E21)^2] | F17: 25600 [formule : ($B17-Prévisions!F21)^2] | G17: 676 [formule : ($B17-Prévisions!G21)^2]
+A18: 27 | B18: 16320 | C18: 100 [formule : ($B18-Prévisions!C22)^2] | D18: 1600 [formule : ($B18-Prévisions!D22)^2] | E18: 2500 [formule : ($B18-Prévisions!E22)^2] | F18: 43264 [formule : ($B18-Prévisions!F22)^2] | G18: 4489 [formule : ($B18-Prévisions!G22)^2]
+B19: Moyenne | C19: 60302.666666666664 [formule : AVERAGE(C7:C18)] | D19: 62325.166666666664 [formule : AVERAGE(D7:D18)] | E19: 55612.25 [formule : None] | F19: 89687.833333333328 [formule : None] | G19: 57880.333333333336 [formule : None]
+A21: =($B7-Prévisions!C11)^2

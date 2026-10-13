@@ -1,0 +1,399 @@
+<title>Corrigé du chapitre 5</title>
+<meta name="description" content="Corrigé pas-à-pas des exercices du chapitre 5 — la valeur de l'argent dans le temps.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,500;0,600;0,700;1,500&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#eaefec; --card:#fbfdfc; --card2:#f1f5f3;
+  --ink:#16211d; --muted:#5a6b64; --faint:#7c8b84;
+  --line:#d6ded9; --line2:#e6ece9;
+  --teal:#0b7c72; --teal-bright:#0d9488; --teal-soft:#d7ece8;
+  --gold:#9a6f12; --gold-soft:#f3e6c6;
+  --lcd1:#b9c4a8; --lcd2:#a7b493; --lcd-ink:#14241a; --lcd-lab:#3c4d38;
+  --keycap:#3a3f47; --keycap2:#4c525d; --keytxt:#f3f4f2; --keygold:#e8b04b;
+  --neg:#b23b3b;
+  --shadow:0 14px 40px -22px rgba(12,40,34,.55);
+  --disp:"Spectral",Georgia,"Times New Roman",serif;
+  --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"IBM Plex Mono","SFMono-Regular",Consolas,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#111815; --card:#18211d; --card2:#1e2823;
+    --ink:#e7efeb; --muted:#9fb1a9; --faint:#83978f;
+    --line:#2a3630; --line2:#232e29;
+    --teal:#5bd0c2; --teal-bright:#2dd4bf; --teal-soft:#153029;
+    --gold:#e2ad55; --gold-soft:#3a2f16;
+    --neg:#e8807f;
+    --shadow:0 16px 44px -20px rgba(0,0,0,.7);
+  }
+}
+[data-theme="dark"]{
+  --paper:#111815; --card:#18211d; --card2:#1e2823;
+  --ink:#e7efeb; --muted:#9fb1a9; --faint:#83978f;
+  --line:#2a3630; --line2:#232e29;
+  --teal:#5bd0c2; --teal-bright:#2dd4bf; --teal-soft:#153029;
+  --gold:#e2ad55; --gold-soft:#3a2f16;
+  --neg:#e8807f;
+  --shadow:0 16px 44px -20px rgba(0,0,0,.7);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);
+  line-height:1.62;font-size:16.5px;-webkit-font-smoothing:antialiased;padding-bottom:70px}
+.wrap{max-width:820px;margin:0 auto;padding:0 20px}
+
+/* ---- Bouton thème ---- */
+.tbtn{position:fixed;top:14px;right:14px;z-index:20;width:38px;height:38px;border-radius:11px;
+  border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;font-size:16px;
+  box-shadow:var(--shadow)}
+.tbtn:hover{border-color:var(--teal)}
+
+/* ---- En-tête ---- */
+header{padding:58px 0 26px;border-bottom:1px solid var(--line)}
+.eyebrow{font-family:var(--mono);font-size:.74rem;letter-spacing:.22em;text-transform:uppercase;
+  color:var(--teal);font-weight:600;margin:0 0 14px}
+h1{font-family:var(--disp);font-weight:700;font-size:clamp(2rem,6vw,3.1rem);line-height:1.06;
+  margin:0;letter-spacing:-.01em;text-wrap:balance}
+h1 em{font-style:italic;color:var(--teal)}
+.sub{color:var(--muted);margin:16px 0 0;max-width:60ch;font-size:1.02rem}
+
+/* ---- Sections ---- */
+section{padding:34px 0;border-bottom:1px solid var(--line2)}
+h2{font-family:var(--disp);font-weight:600;font-size:1.55rem;margin:0 0 4px;letter-spacing:-.01em}
+.h2note{color:var(--faint);font-size:.9rem;margin:0 0 20px;font-family:var(--mono)}
+
+/* ---- Encadré intro / boîte à outils ---- */
+.intro{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px 24px 8px;
+  box-shadow:var(--shadow)}
+.masterf{font-family:var(--mono);font-size:1.35rem;font-weight:500;text-align:center;color:var(--ink);
+  background:var(--card2);border:1px dashed var(--line);border-radius:12px;padding:18px 10px;margin:6px 0 18px}
+.masterf b{color:var(--teal);font-weight:600}
+.legend{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px 22px;margin:0 0 14px;padding:0;list-style:none}
+.legend li{font-size:.92rem;color:var(--muted)}
+.legend b{font-family:var(--mono);color:var(--ink);font-weight:600}
+.tools{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:14px;margin:14px 0 22px}
+.tool{background:var(--card2);border:1px solid var(--line);border-radius:14px;padding:15px 16px}
+.tool .t-tag{font-family:var(--mono);font-size:.72rem;font-weight:600;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--teal)}
+.tool h4{font-family:var(--disp);font-size:1.08rem;margin:3px 0 5px;font-weight:600}
+.tool p{margin:0 0 8px;font-size:.86rem;color:var(--muted)}
+.tool .f{font-family:var(--mono);font-size:.92rem;color:var(--ink);background:var(--card);
+  border:1px solid var(--line);border-radius:8px;padding:7px 9px;display:block}
+
+/* ---- Carte exercice ---- */
+.ex{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px 22px;margin:16px 0;
+  box-shadow:var(--shadow)}
+.ex-head{display:flex;align-items:center;gap:12px;margin:0 0 8px;flex-wrap:wrap}
+.num{font-family:var(--disp);font-weight:700;font-size:1.5rem;color:var(--teal);line-height:1;min-width:2.1ch}
+.ex-title{font-family:var(--disp);font-weight:600;font-size:1.16rem;margin:0;flex:1 1 auto}
+.chip{font-family:var(--mono);font-size:.68rem;font-weight:600;letter-spacing:.06em;text-transform:uppercase;
+  padding:4px 9px;border-radius:999px;background:var(--teal-soft);color:var(--teal);white-space:nowrap}
+.chip.gold{background:var(--gold-soft);color:var(--gold)}
+.enonce{color:var(--muted);font-size:.94rem;margin:2px 0 14px}
+.enonce b{color:var(--ink);font-weight:600}
+
+.step{font-family:var(--mono);font-size:.9rem;line-height:1.95;background:var(--card2);
+  border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin:10px 0;overflow-x:auto}
+.step .c{color:var(--teal);font-weight:600}
+.step .g{color:var(--faint)}
+
+/* ---- Écran LCD = réponse ---- */
+.lcd{display:flex;align-items:baseline;gap:12px;justify-content:flex-end;
+  background:linear-gradient(180deg,var(--lcd1),var(--lcd2));border:2px solid #1b1d22;border-radius:9px;
+  padding:9px 15px;margin:12px 0 4px;box-shadow:inset 0 2px 5px rgba(0,0,0,.3)}
+.lcd .lab{font-family:var(--mono);font-size:.66rem;font-weight:600;letter-spacing:.14em;color:var(--lcd-lab);
+  text-transform:uppercase;margin-right:auto}
+.lcd .val{font-family:var(--mono);font-weight:600;font-size:1.5rem;color:var(--lcd-ink);
+  font-variant-numeric:tabular-nums;text-shadow:0 1px 0 rgba(255,255,255,.18)}
+.lcd .val.neg{color:#5a2020}
+.lcd .u{font-size:.8rem;color:var(--lcd-lab)}
+
+/* ---- Recette de touches ---- */
+.keys{font-family:var(--mono);font-size:.82rem;line-height:2.2;color:var(--muted);margin:12px 0 2px}
+.keys .lbl{display:block;font-size:.7rem;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:6px}
+kbd{font-family:var(--mono);font-size:.78rem;font-weight:600;background:linear-gradient(180deg,var(--keycap2),var(--keycap));
+  color:var(--keytxt);border-radius:6px;padding:3px 8px;border:1px solid rgba(0,0,0,.25);
+  box-shadow:0 1.5px 0 rgba(0,0,0,.4);white-space:nowrap;display:inline-block;margin:1px 0}
+kbd.gold{background:linear-gradient(180deg,#f0c266,var(--keygold));color:#3a2a05;border-color:#9c7420}
+.keys .sep{color:var(--line);margin:0 3px}
+
+/* ---- Tableau des cas ---- */
+.tbl{width:100%;border-collapse:collapse;font-size:.9rem;margin:10px 0;font-variant-numeric:tabular-nums}
+.tbl th,.tbl td{padding:9px 10px;text-align:right;border-bottom:1px solid var(--line2)}
+.tbl th:first-child,.tbl td:first-child{text-align:left;font-family:var(--mono);color:var(--faint);font-weight:500}
+.tbl thead th{font-family:var(--mono);font-size:.72rem;letter-spacing:.04em;text-transform:uppercase;
+  color:var(--muted);font-weight:600;border-bottom:1.5px solid var(--line)}
+.tbl td.ans{font-family:var(--mono);font-weight:600;color:var(--teal);background:var(--teal-soft)}
+.tbl td.ans.neg{color:var(--neg)}
+[data-theme="dark"] .tbl td.ans, :root:not([data-theme="light"]) .tbl td.ans{color:var(--teal-bright)}
+
+.note{font-size:.86rem;color:var(--muted);margin:12px 0 0;padding:10px 14px;border-left:3px solid var(--gold);
+  background:var(--gold-soft);border-radius:0 8px 8px 0}
+.note b{color:var(--ink)}
+.resume{background:var(--teal-soft);border:1px solid var(--teal);border-radius:14px;padding:18px 22px;margin-top:8px}
+.resume h3{font-family:var(--disp);margin:0 0 8px;font-size:1.15rem;color:var(--teal)}
+.resume p{margin:6px 0;font-size:.94rem}
+footer{color:var(--faint);font-size:.82rem;text-align:center;padding:30px 0 0}
+@media(max-width:560px){
+  body{font-size:16px}
+  .ex,.intro{padding:17px 16px}
+  .lcd .val{font-size:1.25rem}
+}
+</style>
+
+<button class="tbtn" id="tbtn" title="Clair / sombre" aria-label="Changer de thème">🌙</button>
+
+<div class="wrap">
+<header>
+  <p class="eyebrow">Finance · Chapitre 5 · pages 149–151</p>
+  <h1>La valeur de l'argent <em>dans le temps</em></h1>
+  <p class="sub">Corrigé complet et pas-à-pas des exercices 2 à 20. Pour chacun : la bonne formule, le calcul avec les vrais chiffres, la réponse — et les touches à faire sur ta calculatrice <b>BA&nbsp;II&nbsp;Plus</b>.</p>
+</header>
+
+<!-- ============ BOÎTE À OUTILS ============ -->
+<section>
+  <h2>D'abord, la seule formule à retenir</h2>
+  <p class="h2note">tout le chapitre tourne autour d'une seule équation</p>
+  <div class="intro">
+    <div class="masterf"><b>VC</b> = <b>VA</b> × (1 + <b>r</b>)<sup>t</sup></div>
+    <p style="margin:0 0 8px;font-size:.95rem;color:var(--muted)">Imagine une <b style="color:var(--ink)">boule de neige</b> qui roule : ton argent (VA) grossit un peu chaque année (au rythme r), pendant un certain temps (t), et devient plus gros à la fin (VC).</p>
+    <ul class="legend">
+      <li><b>VA</b> — Valeur Actualisée : la somme <em>aujourd'hui</em></li>
+      <li><b>VC</b> — Valeur Capitalisée : la somme <em>plus tard</em></li>
+      <li><b>r</b> — le taux d'intérêt par période (ex. 0,10 pour 10&nbsp;%)</li>
+      <li><b>t</b> — le nombre de périodes (souvent des années)</li>
+    </ul>
+    <p style="margin:0 0 6px;font-weight:600">Selon ce qu'on te demande, tu isoles une des 4 lettres :</p>
+    <div class="tools">
+      <div class="tool">
+        <span class="t-tag">Chercher VC</span>
+        <h4>Capitaliser</h4>
+        <p>Faire grossir la boule de neige vers le futur.</p>
+        <span class="f">VC = VA × (1 + r)<sup>t</sup></span>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Chercher VA</span>
+        <h4>Actualiser</h4>
+        <p>Rembobiner : que vaut aujourd'hui une somme future ?</p>
+        <span class="f">VA = VC ÷ (1 + r)<sup>t</sup></span>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Chercher r</span>
+        <h4>Le taux</h4>
+        <p>À quelle vitesse la boule a-t-elle grossi ?</p>
+        <span class="f">r = (VC ÷ VA)<sup>1/t</sup> − 1</span>
+      </div>
+      <div class="tool">
+        <span class="t-tag">Chercher t</span>
+        <h4>La durée</h4>
+        <p>Combien de temps faut-il attendre ?</p>
+        <span class="f">t = ln(VC ÷ VA) ÷ ln(1 + r)</span>
+      </div>
+    </div>
+    <p class="note" style="border-color:var(--teal);background:var(--teal-soft)"><b>Sur la BA II Plus</b>, ces 4 lettres sont les touches <kbd>PV</kbd> (=VA), <kbd>FV</kbd> (=VC), <kbd>I/Y</kbd> (=r en %), <kbd>N</kbd> (=t). Tu remplis les 3 que tu connais, tu mets <kbd>0</kbd> <kbd>PMT</kbd>, puis <kbd>CPT</kbd> + la lettre cherchée. ⚠️ L'argent que tu <b>places</b> se saisit en négatif (touche <kbd>+/−</kbd>).</p>
+  </div>
+</section>
+
+<!-- ============ EX 2 ============ -->
+<section>
+  <h2>Notions de base · exercices 2 à 15</h2>
+  <p class="h2note">on applique directement une des 4 formules ci-dessus</p>
+
+  <div class="ex">
+    <div class="ex-head"><span class="num">2</span><h3 class="ex-title">Calcul des valeurs capitalisées</h3><span class="chip">Chercher VC</span></div>
+    <p class="enonce">On connaît la somme d'aujourd'hui (VA), le taux et la durée. On fait grossir : <b>VC = VA × (1 + r)<sup>t</sup></b>.</p>
+    <table class="tbl">
+      <thead><tr><th>Cas</th><th>VA (aujourd'hui)</th><th>t (ans)</th><th>r</th><th>Facteur (1+r)ᵗ</th><th>VC (réponse)</th></tr></thead>
+      <tbody>
+        <tr><td>a)</td><td>2 250 $</td><td>16</td><td>10 %</td><td>4,5950</td><td class="ans">10 338,69 $</td></tr>
+        <tr><td>b)</td><td>8 752 $</td><td>13</td><td>8 %</td><td>2,7196</td><td class="ans">23 802,15 $</td></tr>
+        <tr><td>c)</td><td>76 355 $</td><td>4</td><td>17 %</td><td>1,8739</td><td class="ans">143 080,66 $</td></tr>
+        <tr><td>d)</td><td>183 796 $</td><td>12</td><td>7 %</td><td>2,2522</td><td class="ans">413 943,81 $</td></tr>
+      </tbody>
+    </table>
+    <div class="step"><span class="g">Détail du cas a) :</span> VC = 2 250 × (1,10)<span class="g">^16</span> = 2 250 × 4,5950 = <span class="c">10 338,69 $</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — cas a)</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>16</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>10</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>2250</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>FV</kbd> → <b>10 338,69</b>
+    </div>
+  </div>
+
+  <!-- EX 3 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">3</span><h3 class="ex-title">Calcul des valeurs actualisées</h3><span class="chip">Chercher VA</span></div>
+    <p class="enonce">On connaît la somme future (VC). On rembobine vers aujourd'hui : <b>VA = VC ÷ (1 + r)<sup>t</sup></b>.</p>
+    <table class="tbl">
+      <thead><tr><th>Cas</th><th>VC (plus tard)</th><th>t (ans)</th><th>r</th><th>Facteur (1+r)ᵗ</th><th>VA (réponse)</th></tr></thead>
+      <tbody>
+        <tr><td>a)</td><td>15 451 $</td><td>6</td><td>7 %</td><td>1,5007</td><td class="ans">10 295,65 $</td></tr>
+        <tr><td>b)</td><td>51 557 $</td><td>7</td><td>13 %</td><td>2,3526</td><td class="ans">21 914,85 $</td></tr>
+        <tr><td>c)</td><td>886 073 $</td><td>23</td><td>14 %</td><td>20,3616</td><td class="ans">43 516,90 $</td></tr>
+        <tr><td>d)</td><td>550 164 $</td><td>18</td><td>9 %</td><td>4,7171</td><td class="ans">116 631,32 $</td></tr>
+      </tbody>
+    </table>
+    <div class="step"><span class="g">Détail du cas a) :</span> VA = 15 451 ÷ (1,07)<span class="g">^6</span> = 15 451 ÷ 1,5007 = <span class="c">10 295,65 $</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — cas a)</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>6</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>7</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>15451</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>PV</kbd> → <b>−10 295,65</b>
+    </div>
+    <p class="note">Le résultat sort en <b>négatif</b> (−10 295,65) : c'est normal ! La calculatrice dit « pour recevoir 15 451 $ plus tard, tu dois <b>placer</b> 10 295,65 $ aujourd'hui » (de l'argent qui sort → signe −). La valeur, elle, est bien 10 295,65 $.</p>
+  </div>
+
+  <!-- EX 4 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">4</span><h3 class="ex-title">Calcul des taux d'intérêt</h3><span class="chip gold">Chercher r</span></div>
+    <p class="enonce">On connaît le début (VA) et la fin (VC). On cherche la vitesse : <b>r = (VC ÷ VA)<sup>1/t</sup> − 1</b>.</p>
+    <table class="tbl">
+      <thead><tr><th>Cas</th><th>VA</th><th>t (ans)</th><th>VC</th><th>VC ÷ VA</th><th>r (réponse)</th></tr></thead>
+      <tbody>
+        <tr><td>a)</td><td>240 $</td><td>2</td><td>307 $</td><td>1,2792</td><td class="ans">13,10 %</td></tr>
+        <tr><td>b)</td><td>360 $</td><td>10</td><td>896 $</td><td>2,4889</td><td class="ans">9,55 %</td></tr>
+        <tr><td>c)</td><td>39 000 $</td><td>15</td><td>174 384 $</td><td>4,4714</td><td class="ans">10,50 %</td></tr>
+        <tr><td>d)</td><td>38 261 $</td><td>30</td><td>483 500 $</td><td>12,6369</td><td class="ans">8,82 %</td></tr>
+      </tbody>
+    </table>
+    <div class="step"><span class="g">Détail du cas a) :</span> r = (307 ÷ 240)<span class="g">^(1/2)</span> − 1 = 1,2792<span class="g">^0,5</span> − 1 = 1,1310 − 1 = <span class="c">0,1310 = 13,10 %</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — cas a)</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>2</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>240</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>307</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>I/Y</kbd> → <b>13,10</b>
+    </div>
+    <p class="note">Astuce signe : mets la valeur de départ (VA) en <b>négatif</b> et la valeur d'arrivée (VC) en positif, sinon la calculatrice affiche « Error ».</p>
+  </div>
+
+  <!-- EX 5 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">5</span><h3 class="ex-title">Calcul du nombre de périodes</h3><span class="chip gold">Chercher t</span></div>
+    <p class="enonce">On connaît le début, la fin et le taux. On cherche la durée : <b>t = ln(VC ÷ VA) ÷ ln(1 + r)</b>.</p>
+    <table class="tbl">
+      <thead><tr><th>Cas</th><th>VA</th><th>r</th><th>VC</th><th>VC ÷ VA</th><th>t (réponse)</th></tr></thead>
+      <tbody>
+        <tr><td>a)</td><td>560 $</td><td>9 %</td><td>1 284 $</td><td>2,2929</td><td class="ans">9,63 ans</td></tr>
+        <tr><td>b)</td><td>810 $</td><td>10 %</td><td>4 341 $</td><td>5,3593</td><td class="ans">17,61 ans</td></tr>
+        <tr><td>c)</td><td>18 400 $</td><td>17 %</td><td>364 518 $</td><td>19,8108</td><td class="ans">19,02 ans</td></tr>
+        <tr><td>d)</td><td>21 500 $</td><td>15 %</td><td>173 439 $</td><td>8,0669</td><td class="ans">14,94 ans</td></tr>
+      </tbody>
+    </table>
+    <div class="step"><span class="g">Détail du cas a) :</span> t = ln(1 284 ÷ 560) ÷ ln(1,09) = ln(2,2929) ÷ ln(1,09) = 0,8300 ÷ 0,0862 = <span class="c">9,63 ans</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — cas a)</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>9</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>560</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>1284</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>N</kbd> → <b>9,63</b>
+    </div>
+  </div>
+
+  <!-- EX 6 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">6</span><h3 class="ex-title">Le taux pour les études de l'enfant</h3><span class="chip gold">Chercher r</span></div>
+    <p class="enonce">Tu as <b>50 000 $</b> aujourd'hui (VA) et il te faut <b>280 000 $</b> (VC) dans <b>18 ans</b> (t). Quel taux annuel ?</p>
+    <div class="step">r = (280 000 ÷ 50 000)<span class="g">^(1/18)</span> − 1 = 5,60<span class="g">^0,0556</span> − 1 = 1,1004 − 1 = <span class="c">0,1004</span></div>
+    <div class="lcd"><span class="lab">Réponse — r</span><span class="val">10,04</span><span class="u">%</span></div>
+    <div class="keys"><span class="lbl">BA II Plus</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>18</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>50000</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>280000</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>I/Y</kbd>
+    </div>
+  </div>
+
+  <!-- EX 7 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">7</span><h3 class="ex-title">Doubler et quadrupler à 7 %</h3><span class="chip gold">Chercher t</span></div>
+    <p class="enonce">Le taux est <b>7 %</b>. Combien de temps pour <b>doubler</b> ? pour <b>quadrupler</b> ? On prend n'importe quel montant (ex. 1 $ → 2 $, puis 1 $ → 4 $).</p>
+    <div class="step">Doubler : t = ln(2) ÷ ln(1,07) = 0,6931 ÷ 0,0677 = <span class="c">10,24 ans</span><br>
+      Quadrupler : t = ln(4) ÷ ln(1,07) = 1,3863 ÷ 0,0677 = <span class="c">20,49 ans</span> <span class="g">(= exactement 2 × le temps pour doubler)</span></div>
+    <div class="lcd"><span class="lab">Doubler</span><span class="val">10,24</span><span class="u">ans</span></div>
+    <div class="lcd"><span class="lab">Quadrupler</span><span class="val">20,49</span><span class="u">ans</span></div>
+    <p class="note"><b>Règle de 72</b> (vérif rapide) : 72 ÷ 7 ≈ 10,3 ans pour doubler. Tout concorde ✔</p>
+  </div>
+
+  <!-- EX 9 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">9</span><h3 class="ex-title">La maison dans le sud de la France</h3><span class="chip gold">Chercher t</span></div>
+    <p class="enonce">Tu as <b>40 000 €</b> (VA), la maison coûte <b>170 000 €</b> (VC), ton compte rapporte <b>3,4 %</b>. Combien de temps ?</p>
+    <div class="step">t = ln(170 000 ÷ 40 000) ÷ ln(1,034) = ln(4,25) ÷ ln(1,034) = 1,4469 ÷ 0,0334 = <span class="c">43,28 ans</span></div>
+    <div class="lcd"><span class="lab">Réponse — t</span><span class="val">43,28</span><span class="u">ans</span></div>
+    <div class="keys"><span class="lbl">BA II Plus</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>3.4</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>40000</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>170000</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>N</kbd>
+    </div>
+    <p class="note">Avec un taux aussi faible (3,4 %), il faut <b>très longtemps</b>… mieux vaut épargner en plus chaque mois (ça, c'est le chapitre 6 !).</p>
+  </div>
+
+  <!-- EX 11 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">11</span><h3 class="ex-title">Le gros lot dans 80 ans</h3><span class="chip">Chercher VA</span></div>
+    <p class="enonce">On te promet <b>1 000 000 $</b> (VC) mais seulement dans <b>80 ans</b> (t), au taux <b>9 %</b>. Que vaut cette promesse aujourd'hui ?</p>
+    <div class="step">VA = 1 000 000 ÷ (1,09)<span class="g">^80</span> = 1 000 000 ÷ 986,55 = <span class="c">1 013,63 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — VA</span><span class="val">1 013,63</span><span class="u">$</span></div>
+    <p class="note">Leçon choc : un million dans 80 ans ne vaut qu'environ <b>1 014 $</b> aujourd'hui. C'est toute la puissance du temps et des intérêts composés !</p>
+  </div>
+
+  <!-- EX 14 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">14</span><h3 class="ex-title">La BD de Superman (1938)</h3><span class="chip">Chercher VA</span></div>
+    <p class="enonce">Elle vaut <b>485 000 $</b> en 2005 (VC), après avoir grimpé de <b>25,90 %</b> par an depuis 1938. Durée : 2005 − 1938 = <b>67 ans</b>. Prix en 1938 ?</p>
+    <div class="step">VA = 485 000 ÷ (1,2590)<span class="g">^67</span> = 485 000 ÷ 5 031 806 = <span class="c">0,10 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — VA (1938)</span><span class="val">0,10</span><span class="u">$</span></div>
+    <p class="note">Environ <b>10 cents</b> ! Normal : un taux énorme (25,9 %) pendant 67 ans transforme quelques cents en une fortune.</p>
+  </div>
+
+  <!-- EX 15 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">15</span><h3 class="ex-title">La sculpture de Degas</h3><span class="chip gold">Chercher r</span></div>
+    <p class="enonce">Achetée <b>12 377 500 $</b> en 1999 (VA), revendue <b>10 311 500 $</b> en 2003 (VC). Durée : <b>4 ans</b>. Taux de rendement ?</p>
+    <div class="step">r = (10 311 500 ÷ 12 377 500)<span class="g">^(1/4)</span> − 1 = 0,8331<span class="g">^0,25</span> − 1 = 0,9554 − 1 = <span class="c">−0,0446</span></div>
+    <div class="lcd"><span class="lab">Réponse — r</span><span class="val neg">−4,46</span><span class="u">%</span></div>
+    <p class="note">Le taux est <b>négatif</b> : le propriétaire a <b>perdu</b> de l'argent (il a revendu moins cher qu'il n'avait payé). Un placement peut très bien avoir un rendement négatif.</p>
+  </div>
+</section>
+
+<!-- ============ NOTIONS INTERMÉDIAIRES ============ -->
+<section>
+  <h2>Notions intermédiaires · exercices 19 et 20</h2>
+  <p class="h2note">attention aux pièges : ici la durée ne se lit pas telle quelle</p>
+
+  <!-- EX 19 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">19</span><h3 class="ex-title">Recevoir 25 000 $, puis les placer</h3><span class="chip">Chercher VC</span></div>
+    <p class="enonce">Tu reçois <b>25 000 $ dans 2 ans</b>. Ensuite tu les places <b>6 ans de plus</b> à <b>7,9 %</b>. Combien auras-tu au bout de 8 ans ?</p>
+    <p class="enonce" style="margin-top:-6px">🎯 <b>Le piège :</b> les 2 premières années, tu ne fais qu'<b>attendre</b> l'argent — il ne rapporte rien encore. Seules les <b>6 années de placement</b> comptent pour les intérêts.</p>
+    <div class="step">VC = 25 000 × (1,079)<span class="g">^6</span> = 25 000 × 1,5781 = <span class="c">39 451,97 $</span></div>
+    <div class="lcd"><span class="lab">Réponse — VC</span><span class="val">39 451,97</span><span class="u">$</span></div>
+    <div class="keys"><span class="lbl">BA II Plus — mets t = 6, pas 8 !</span>
+      <kbd class="gold">2ND</kbd> <kbd>FV</kbd> <span class="sep">·</span> <kbd>6</kbd> <kbd>N</kbd> <span class="sep">·</span> <kbd>7.9</kbd> <kbd>I/Y</kbd> <span class="sep">·</span> <kbd>25000</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> <span class="sep">·</span> <kbd>0</kbd> <kbd>PMT</kbd> <span class="sep">·</span> <kbd>CPT</kbd> <kbd>FV</kbd>
+    </div>
+  </div>
+
+  <!-- EX 20 -->
+  <div class="ex">
+    <div class="ex-head"><span class="num">20</span><h3 class="ex-title">De 10 000 $ à 100 000 $</h3><span class="chip gold">Chercher t</span></div>
+    <p class="enonce">Tu recevras <b>10 000 $ dans 2 ans</b> (à ton diplôme). Tu les places à <b>11 %</b> jusqu'à obtenir <b>100 000 $</b>. Combien de temps <b>en tout, à partir d'aujourd'hui</b> ?</p>
+    <div class="step"><span class="g">1) Durée du placement (de 10 000 à 100 000) :</span><br>
+      t = ln(100 000 ÷ 10 000) ÷ ln(1,11) = ln(10) ÷ ln(1,11) = 2,3026 ÷ 0,1044 = <span class="c">22,06 ans</span><br>
+      <span class="g">2) + les 2 ans d'attente avant de recevoir l'argent :</span><br>
+      22,06 + 2 = <span class="c">24,06 ans</span></div>
+    <div class="lcd"><span class="lab">Placement seul</span><span class="val">22,06</span><span class="u">ans</span></div>
+    <div class="lcd"><span class="lab">Total depuis aujourd'hui</span><span class="val">24,06</span><span class="u">ans</span></div>
+    <p class="note">Le placement prend <b>22,06 ans</b>. Mais comme tu attends déjà <b>2 ans</b> avant même de toucher les 10 000 $, l'attente totale « à partir d'aujourd'hui » est de <b>≈ 24 ans</b>.</p>
+  </div>
+</section>
+
+<!-- ============ RÉSUMÉ ============ -->
+<section style="border-bottom:none">
+  <div class="resume">
+    <h3>En gros, retiens que…</h3>
+    <p>👉 <b>Une seule formule</b> gouverne tout : <b>VC = VA × (1 + r)ᵗ</b>. Tu isoles simplement la lettre qu'on te demande.</p>
+    <p>👉 <b>Capitaliser</b> = aller vers le futur (× le facteur). <b>Actualiser</b> = revenir à aujourd'hui (÷ le facteur).</p>
+    <p>👉 Sur la <b>BA II Plus</b> : remplis 3 cases + <kbd>0</kbd> <kbd>PMT</kbd>, puis <kbd>CPT</kbd> + la case cherchée. L'argent placé se met en <b>négatif</b>.</p>
+    <p>👉 <b>Attention aux durées cachées</b> (ex. 19 et 20) : ne compte que les années où l'argent <em>travaille vraiment</em>.</p>
+  </div>
+  <p style="margin-top:18px;font-size:.92rem;color:var(--muted)">✏️ <b>Petit test pour vérifier que t'as compris :</b> tu places 3 000 $ à 6 % pendant 10 ans. Quelle formule utilises-tu, et combien obtiens-tu ? <span class="g" style="color:var(--faint)">(Indice : cherche VC → réponse ≈ 5 372,54 $.)</span></p>
+</section>
+
+<footer>Corrigé — Chapitre 5 · La valeur de l'argent dans le temps · pages 149–151</footer>
+</div>
+
+<script>
+(function(){
+  var root=document.documentElement, btn=document.getElementById('tbtn'), K='ch5-theme';
+  function sysDark(){return window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches;}
+  function cur(){var a=root.getAttribute('data-theme');return a?a:(sysDark()?'dark':'light');}
+  function apply(t){root.setAttribute('data-theme',t);btn.textContent=(t==='dark'?'☀️':'🌙');try{localStorage.setItem(K,t);}catch(e){}}
+  try{var s=localStorage.getItem(K);if(s)root.setAttribute('data-theme',s);}catch(e){}
+  btn.textContent=(cur()==='dark'?'☀️':'🌙');
+  btn.addEventListener('click',function(){apply(cur()==='dark'?'light':'dark');});
+})();
+</script>

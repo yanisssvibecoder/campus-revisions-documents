@@ -1,0 +1,207 @@
+Question 1  (20 points) 
+Nommez les deux attributs stratégiques principaux du club de golf Royal Montréal. Justifiez brièvement chacune de vos réponses. (4 points) 
+Qualité : Club privé, appellation Royal
+Variété : Plusieurs autres services sont offerts : 45 trous de golf, dont un 9 trous, restaurant, BBQ, piscine, etc.
+Volume : Deux parcours de 18 trous pour accueillir plusieurs golfeurs par jour.
+Donnez un exemple concret de chacun des éléments du système opérationnel d’une partie de golf au Royal Montréal. (4 points)
+La gestion des opérations nécessite plusieurs niveaux de décisions. Donnez un exemple de décision stratégique, un exemple de décision tactique et un exemple de décision opérationnelle qui devront être prises par le club de golf Royal Montréal au cours des prochaines années, des prochains mois ou encore des prochains jours. (6 points)
+Décision stratégique : Réaménagement ou agrandissement du chalet, ajout d’un parcours, planification d’un évènement majeur. 
+Décision tactique : Date d’ouverture et de fermeture du terrain. Réservation pour les groupes / soirées / mariages. Choix des fournisseurs pour le matériel.
+Décision opérationnelle : Entretenir le terrain au quotidien. Gérer les départs.
+Il s’agit d’exemples de réponses. D’autres réponses du genre pourraient être acceptées.
+1.4	Dans l’industrie du golf, les prévisions doivent être faites plusieurs mois à l’avance. Analysez deux variables de l’environnement externe PESTEL en mentionnant de quelle manière chacune de ces variables pourraient avoir un impact sur la demande. Vous devez choisir deux lettres différentes de PESTEL, et celles-ci doivent être clairement identifiées dans votre réponse. (4 points)
+Politique et légal : taxes foncières, réglementation sur l’utilisation des pesticides
+Économique : action des concurrents sur le prix d’entrée, cycle économique 
+Social : tendance à jouer au golf ou non
+Technologique : technologie disponible pour l’entretien du terrain
+Écologique : le climat influence beaucoup la demande (bel été vs été pluvieux)
+Il s’agit d’exemples de réponses. D’autres réponses du genre pourraient être acceptées.
+1.5 	Nommez une caractéristique propre aux entreprises de service qui font que la gestion d’un club de golf est particulièrement complexe. Expliquez ce qui la rend complexe. (2 points)
+Impossibilité de stocker le service : Exemple s’il y a de pluie aujourd’hui, alors ces parties de golf ne pourront pas s’ajouter aux départs prévus pour la journée de demain.
+Service offert en direct : S’il y a un orage, alors les joueurs doivent revenir rapidement au chalet
+Intangibilité : Il est difficile de contrôler la qualité du service. On est tributaire de la perception des clients.
+Participation du client ou hétérogénéité des intrants : Il est difficile de déterminer le temps de jeu, puisqu’il dépend énormément du niveau des joueurs sur le terrain. Les indications de navigation d’un trou à l’autre doivent être claires.
+Question 2  (15 points) 
+2.1	Le graphique ci-dessous présente les ventes de canettes de bière d’une brasserie canadienne pour les trois dernières années.  
+Analysez les composantes de la demande de ce produit. Vous devez analyser chacune des composantes possibles, qu’elle soit présente ou non. (4 points)
+Variations aléatoires : Oui, les courbes ne sont pas exactement les mêmes d’année en année.
+Saisonnalité : Oui, les courbes ont une allure prévisible et répétitive. Ce schéma se reproduit à chaque année.
+Tendance : Aucune tendance sur les données, ni à la hausse, ni à la baisse au fil des années.
+Cycle : Nous n’avons pas assez de données pour détecter un cycle. 
+2.2 	Différents calculs sont effectués pour choisir la meilleure méthode de prévision de la demande. Une fois les calculs effectués, plusieurs conclusions peuvent être tirées.
+Lorsque l’on conclut qu’une méthode est biaisée, que conclut-on précisément? (2 points)
+Si on conclut qu’une méthode est biaisée, on conclut qu’elle « se trompe » souvent de la même manière. Soit la méthode surestime la demande, soit la méthode sous-estime la demande.
+Quel est la mesure permettant de conclure qu’une méthode est biaisée ou non?  (1 point)
+L’écart moyen
+Peut-on conclure que la méthode la moins biaisée sera aussi la moins précise? Justifiez brièvement votre réponse. (2 points)
+Il n’existe aucun lien entre l’écart moyen (qui mesure le biais) et l’écart quadratique moyen (qui mesure la précision), alors non cette conclusion serait erronée. De plus, il est impossible de conclure que la méthode la moins biaisée sera la plus précise.
+2.3 	Le tableau suivant présente les ventes des douze dernières périodes d’un produit X.
+Quelle serait la prévision de la demande, de la période 4, en utilisant la méthode de la moyenne mobile pondérée K = 3, 15 % - 25 % - 60 %? Présentez votre calcul. (2 points)
+Prévision = 15 % X 9 150 + 25 % X 11 935 + 60 % X 13 032 = 12 175,45 = 12 175 ou 12 176
+Quelle serait la prévision de la demande, de la période 4, en utilisant la méthode de lissage exponentiel avec α = 0,7? Présentez tous vos calculs. Note : la prévision de la période 1 est égale à la demande de la période 1. (3 points)
+Prévision période 1 = 9 150
+Prévision période 2 = 9 150
+Prévision période 3 = 0,7 X 11 935 + 0,3 X 9 150 = 11 099,5
+Prévision période 4 = 0,7 X 13 032 + 0,3 X 11 099,5= 12 452,25 = 12 452 ou 12 453
+En classe, nous avons présenté quelques méthodes qualitatives de prévision dont l’analogie historique. Donnez un exemple concret de l’utilisation de cette méthode. (1 point)
+On utilise les données d’un produit similaire qu’on a déjà lancé pour prévoir les ventes d’un nouveau produit. Par exemple, on utilise les données de ventes disponibles sur le graphique de la question 2.1 pour prévoir les ventes d’une nouvelle bière en cannette. 
+Question 3  (22 points) 
+Vous avez probablement remarqué que six cases des tableaux précédents sont vides. À l’aide de l’information fournie, remplissez toutes les cases, laissées vides, des tableaux précédents. Présentez vos calculs si nécessaire. (9 points)
+Note : Considérez que chaque mois contient 4 semaines.
+A06 – niveau de service
+SS = Z*σ*√(i+d)
+8    = Z*4*√(1+1) où Z = 1,41 soit un niveau de service de 92 %
+A06 – Quantité à commander
+Qc = µ(i+d) + SS – Sa où µ = 720/12 mois = 60
+Qc = 60(1+1) + 8 -60 = 68
+B41 – Demande annuelle
+Qc = µ(i+d) + SS – Sa 
+31 = µ(1+0,5) + 13 – 102 où µ = 80 unités par mois
+Demande annuelle = 80 x 12 = 960
+C27 – Stock actuelle
+Qc = µ(i+d) + SS – Sa où µ = 1 200/12 = 100
+11 = 100(1+0,5) + 16 – Sa 
+Sa = 155
+D12 – Stock de sécurité
+SS = Z*σ*√(i+d)
+SS = 2,33 *12 * √(1+0,25)
+SS = 31,26 donc 31 ou 32
+D12 – Niveau cible
+Niveau cible = µ X (i+d) où µ = 2 400 / 12 = 200
+Niveau cible = 200 X (1,25) = 250
+Pour l’article A06, le coût unitaire de commande est de 26 $, le coût unitaire d’entreposage annuel est de 10 % du coût d’acquisition, le coût d’acquisition unitaire est de 100 $. 
+a)	Quel est le coût total annuel de gestion des stocks? Présentez tous vos calculs. (4 points)
+QC = quantité moyenne commandée = 720 / 12 = 60
+Cte = 60/2 X  10 % X 100 $  +  8 X  10 % X 100 $  =  300 $ + 80 $  =  380 $
+Ctc = 12 X  26 $  =  312 $
+CT = 380 $ + 312 $  =  692 $
+b)	Pour ce même article, l’intervalle de commande actuel est-il optimal? Présentez vos calculs. (3 points)
+I opt.  = QEC / u  =  √ (2 X 720  X 26 $ / 10 $)  / 61  =  61 unités /  60 unités/mois = 1 mois
+On peut conclure que l’intervalle utilisé actuellement est l’intervalle optimal.
+Puisque le produit D12 est un des produits les plus importants du magasin, le propriétaire s’interroge sur les économies potentielles découlant d’une gestion des stocks différente. Si le coût unitaire d’acquisition est de 200 $, que le coût unitaire de commande est de 100 $ et que le coût unitaire d’entreposage annuel est de 15 % du coût d’acquisition, quelles seraient les économies potentielles découlant de la mise en place d’un système de gestion des stocks à point de commande (intervalle variable, quantité fixe)? Considérez que le coût actuel de gestion des stocks du D12 est de 5 000 $ (cette valeur est fictive, ne cherchez pas à la calculer). (6 points)
+QEC  =  √ (2 X  2 400 X 100 $ / 30 $)  =  126,49 = 126
+SS = 2,33  X  12  X  √ (0,25)  =  13,98 = 14
+Cte  =  126 / 2  X  30 $  +  14  X  30 $  =  1 890 $  +  420 $  =  2 310 $	
+Ctc =  2 400 / 126  X  100 $  = 1 904,76 $	
+CT  = 2 310 $  +  1 904,76 $  =  4 214,76 $
+Économie = 5 000 $ - 4 214,76 $ = 785,24 $
+Question 4	(16 points) 
+4.1	DJI souhaite augmenter temporairement sa capacité de production pour une période de trois mois. D’un point de vue économique, l’entreprise devrait-elle embaucher les employés nécessaires à cette augmentation temporaire de la capacité pour les mettre à pied ensuite ou devrait-elle plutôt combler cette hausse de capacité par l’utilisation du temps supplémentaire? Justifiez votre réponse à l’aide de calculs appropriés. (4 points)
+Embauche + Mise à pied   :   3 000 $  +  3 X  4 000 $  +  3 200 $  =  18 200 $
+Temps supplémentaire   :    3 X  6 000 $  =  18 000 $
+Pour une période de 3 mois, il est préférable d’utiliser le TS.
+4.2	Si l’entreprise souhaite mettre en place une stratégie de nivellement (plan C), quelle serait alors la production mensuelle en unité équivalente? Présentez vos calculs. (2 points)
+(Demande annuelle + Stock de fin – Stock de début) / 12
+(215 000   +   5 000    -  1 000)  /  12  =     18 250
+4.3	La directrice des ressources humaines vient de consulter le plan A et elle vous indique que ce plan ne respecte pas les règles de variation de main d’œuvre. Après réflexion, vous constatez qu’elle a raison. Présentez deux raisons différentes permettant de conclure que ce plan de respecte pas la contrainte de variation de main d’œuvre. (2 points)
+Variation de MO : Non respectée !  7 mouvements, alors que maximum 6 
+ET variation de 28,57 % en mai.
+4.4	La ligne de temps morts m’a pas été remplie. Indiquez le nombre d’employés que l’on retrouverait en temps morts à chacune des périodes. Si ce nombre est de 0, laissez la case vide. (3 points)
+20 à la période 3 (besoin de 120 employés)
+40 à la période 4 (besoin de 100 employés)
+10 à la période 11 (besoin de 160 employés)
+4.5	Certaines informations sont manquantes pour la période 10 du plan B. Complétez le plan B présenté ci-dessus. Plus précisément, faites les calculs de stock, d’employés, d’embauche, de mise à pied, de supplément et de temps mort. Présentez vos résultats directement dans le plan B. (4 points) 
+Stock projeté : (-1 000 + 20 000 – 18 000)
+Nombre d’employés : Au mois 11, il y a 160 employés à la suite d’une mise à pied de 30. Ce qui signifie qu’il y avait 190 employés au mois 10. 
+4.6	Si on souhaite se débarrasser des pénuries présentes aux mois d’août et de septembre, combien d’unités supplémentaires devront être fabriquées et durant quel mois? (1 point) 
+1 000 unités en août. Attention, il s’agit de la même pénurie de 1 000 unités, qui se poursuit sur 2 mois consécutifs.
+Question 5  (21 points) 
+5.1	Vous trouverez ci-dessous, le plan préliminaire développé par le planificateur-adjoint. Vous devez compléter la planification sommaire des capacités. (2 points)
+Planification sommaire des capacités (unités équivalentes)
+5.2	Quels devraient être les changements à apporter aux plans préliminaires pour respecter les contraintes de l’entreprise de la façon la plus économique possible? Formulez vos recommandations sous forme de phrases, soyez très précis dans vos réponses. (3 points)
+Puisqu’on dépasse de 240 la capacité à la seconde semaine de novembre, on doit produire à l’avance ces unités.
+On déplacera un lot de 60 unités (90 unités équivalentes) du produit Defender+ de la période Nov. 2 vers la période Nov. 1 et un lot de 150 unités (150 unités équivalentes) du produit Defender Or de la période Nov. 2 vers la période Oct. 4.
+D’autres réponses sont possibles mais elles ne sont pas les plus économiques. 
+Pour une autre ligne de production, les plans finaux suivants ont été développés.
+5.3	Complétez les lignes de stock projeté et de stock disponible à la vente du produit DJI GOGGLES 1. (3 points)
+5.4	Un client commercial important souhaite obtenir 20 unités du produit DJI GOGGLES 2 pour la première semaine du mois de novembre (Nov. 1). Sans modifier les plans finaux ci-dessus, l’entreprise peut-elle accepter cette nouvelle commande? Justifiez votre réponse. (2 points)
+Oui, puisqu’il y a 21 unités de disponible depuis la semaine précédente. 
+5.5	Effectuez la PBM permettant de déterminer les besoins en Pièce A. Utilisez toutes les grilles nécessaires. (7 points)
+* Attention de ne pas faire 4 X Module interne, il y a 2 Pièce A par module interne. 
+5.6	Considérant que le délai d’assemblage du Defender PRO est d’une semaine, quel est l’horizon minimum de planification pour ce produit? (2 points)
+6 semaines, deux branches dont les délais totaux sont de 6 semaines. 
+(Defender PRO + module externe + Pièce B) 
+et (Defender PRO + module externe + module interne + Pièce C). 
+5.7	En supposant que vous débutez pour la première fois la planification de la production du Defender PRO et que les stocks pour toutes les composantes sont de zéro, quelle est la première composante ou quelles sont les premières composantes à fabriquer ou à commander? (2 points)
+La pièce B et le sous ensemble C, soit les deux branches les plus longues. 
+Question 6  (6 points)
+Complétez la colonne de gauche en indiquant si chacun des énoncés ci-dessous est vrai (V) ou faux (F)
+Intrant : golfeur souhaitant profiter d’une belle journée d’été
+Processus de transformation : partie de golf
+Extrant : golfeur satisfait de sa journée
+Ressource : employé du casse-croute ou équipe et équipement d’entretien du terrain
+Code de produit | Demande annuelle | Écart type mensuel | Stock actuel | Délai du fournisseur
+A06 | 720 | 4 | 60 | 1 mois
+B41 | 960 | 6 | 102 | 2 semaines
+C27 | 1 200 | 6 | 155 | 2 semaines
+D12 | 2 400 | 12 | 187 | 1 semaine
+  |   |   |   |  
+  |   |   |   |  
+Code de produit | Niveau de service | Stock de sécurité | Niveau cible | Quantité à commander
+A06 | 92 % | 8 | 120 | 68
+B41 | 95 % | 13 | 120 | 31
+C27 | 98 % | 16 | 150 | 11
+D12 | 99 % | 32 | 250 | 95
+Stock projeté | 1 000
+Nombre d’employés | 190
+Embauche | 0
+Mise à pied | 10
+Supplément | 10
+Temps mort | 0
+Semaine | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 3 | Nov. 4
+Capacité requise pour 
+Defender+ | 450 | 360 | 540 | 450 |  | 
+Capacité requise pour 
+Defender PRO | 1 000 | 1 200 | 1 400 | 1 200 |  | 
+Capacité requise pour
+Defender Or | 300 | 150 | 300 | 300 |  | 
+Total
+ | 1 750 | 1 710 | 2 240 | 1 950 |  | 
+Capacité disponible
+ | 250 | 90 | (240) | 50 |  | 
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+DJI GOGGLES 1 | X 200 | X 200 | 1 | 1 | 125 | 125 | 1
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100
+Commandes acceptées | Commandes acceptées | 86 | 86 | 115 | 115 | 93 | 93 | 100 | 89
+Stock projeté | Stock projeté | 25 | 25 | 110 | 110 | 10 | 10 | 110 | 10
+Stock disponible à la vente | Stock disponible à la vente | 39  /  31 | 39  /  31 | -8  /  0 | -8  /  0 |  |  | 11 | 
+Réceptions planifiées | Réceptions planifiées |  |  | 200 | 200 |  |  | 200 | 
+Lancements planifiés | Lancements planifiés | 200 | 200 |  |  | 200 | 200 |  | 
+Article | Taille de lot | Délai | En stock
+Mod. Int. | Min. 1 000 | 1 | 2 100
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+1 X Defender PRO |  |  | 500 | 600 | 700 | 600 | 
+2 X Module externe |  | 1 000 | 1 000 | 1 400 | 1 200 |  | 
+ |  |  |  |  |  |  | 
+Besoin brut total |  | 1 000 | 1 500 | 2 000 | 1 900 | 600 | 
+Stock disp. projeté | 2 100 | 1 100 | 600 | 0 | 0 | 400 | 
+Besoin net |  |  | 400 | 1 400 | 1 900 | 600 | 
+Réception planifiée |  |  | 1 000 | 1 400 | 1 900 | 1 000 | 
+Lancement planifié |  | 1 000 | 1 400 | 1 900 | 1 000 |  | 
+Article | Taille de lot | Délai | En stock
+Pièce A | 2 semaines | 2 | 5 000
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+4 X Defender PRO |  |  | 2 000 | 2 400 | 2 800 | 2 400 | 
+2 X Module interne |  | 2 000 | 2 800 | 3 800 | 2 000 |  | 
+ |  |  |  |  |  |  | 
+Besoin brut total |  | 2 000 | 4 800 | 6 200 | 4 800 | 2 400 | 
+Stock disp. projeté | 5 000 | 3 000 | 6 200 | 0 | 2 400 | 0 | 
+Besoin net |  |  | 1 800 |  | 4 800 |  | 
+Réception planifiée |  |  | 8 000 |  | 7 200 |  | 
+Lancement planifié | 8 000 |  | 7 200 |  |  |  | 
+6.1 | Pour un salon de coiffure, les shampoings représentent une ressource.
+
+C’est plutôt un bien en support au service.  | F
+6.2 | Les méthodes de prévision qui répondent rapidement à des changements de la demande ont un grand α pour le lissage exponentiel et un petit nombre de périodes (k) pour les moyennes mobiles.  | V
+6.3 | Lorsque plusieurs articles sont commandés d’un même fournisseur, il est préférable d’utilise le modèle du point de commande puisqu’il garantit un coût total annuel inférieur. 
+Ce modèle, comparé au RP, tend à multiplier le nombre de commandes. Il est préférable de choisir un intervalle de commande où on pourra commander tous les produits qui proviennent du même fournisseur. | F
+6.4 | Une hausse soudaine des coûts de livraison qu’un fournisseur facture à une entreprise fera diminuer la QEC des articles qu’il nous livre.
+
+C’est plutôt l’inverse. On voudra commander plus souvent.  | F
+6.5 | Une stratégie de production synchrone est préférable lorsque les coûts d’entreposage sont très élevés. | V
+6.6 | 
+
+Selon le tableau ci-dessus, on peut conclure que la composante 33 fera partie de la classe A.
+
+Le tri et la classification doivent se faire sur la base de la valeur annuelle en ($) et nom en unité.  | F

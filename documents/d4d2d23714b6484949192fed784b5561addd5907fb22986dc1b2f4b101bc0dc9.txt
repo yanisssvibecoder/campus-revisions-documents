@@ -1,0 +1,609 @@
+## Diapositive 1
+
+Mobiliser lestechnologies numériques 	
+
+TECH 10701
+
+Développé parMarie-Claude Trudel
+
+Notes : Photo Martin LESAGE
+
+## Diapositive 2
+
+## Diapositive 3
+
+L’utilisation des systèmes d’information : des requêtes simples et des enjeux de cybersécurité
+
+Séance 5
+
+## Diapositive 4
+
+Implémenter un modèle logique dans Airtable en créant les tables, les liens et les champs calculés
+Construire une application Softr reliée à Airtable pour saisir et consulter des données
+Expliquer les enjeux légaux et de sécurité liés aux données personnelles collectées dans le système qu’on vient de construire
+
+## Diapositive 5
+
+Retours
+
+ 
+
+Assimilation		
+
+Application
+
+Synthèse
+
+Plan de la séance
+
+## Diapositive 6
+
+Retour sur la séance 4
+
+## Diapositive 7
+
+Une commande provient d’un seul client
+La livraison requiert un numéro de téléphone
+Le type de paiement est prédéfini (3 valeurs)
+Le numéro de client est unique et immuable
+
+Champ client: obligatoire, sélection dans une liste
+Téléphone: champ obligatoire, format validé
+Liste déroulante fermée: comptant, débit, crédit
+Généré automatiquement, champ non modifiable
+
+Des règles d'affaires aux contraintes de l'interface
+
+Le formulaire n'est pas une décoration — c'est là que les règles s'appliquent.
+
+## Diapositive 8
+
+Retour sur le parcours
+
+## Diapositive 9
+
+Retour sur les concepts du parcours
+
+Quelles sont les quatre principales fonctions de recherche dans les applications?
+Quelle fonction de recherche doit-on utiliser dans Airtable pour choisir la valeur d’une clé lointaine selon les valeurs saisies dans la clé primaire d’une autre liste?
+Quelle fonction de recherche doit-on utiliser dans Softr pour choisir la valeur d’une clé lointaine selon les valeurs saisies dans la clé primaire d’une autre liste?
+Quelle est la différence entre ET et OU dans les filtres?
+
+
+
+## Diapositive 10
+
+
+
+
+
+
+
+Assimilation du parcours
+
+## Diapositive 11
+
+Liste des besoins de la pizzeria
+
+
+
+
+No besoin | Énoncé du besoin
+
+1 | En tant que responsable de la prise des commandes, je veux pouvoir m’assurer que chaque commande est attribuée à un client qui est déjà dans le système pour savoir où livrer
+
+2 | En tant que responsable de la prise des commandes, je veux pouvoir sélectionner directement les articles d’un menu pour les ajouter à une commande afin d’être plus efficace
+
+3 | En tant que responsable de la prise des commandes, je veux que les montants à charger pour chaque article choisi sur une commande se calculent automatiquement pour éviter les erreurs
+
+4 | En tant que responsable de la prise des commandes, je veux que la somme des articles choisis sur une commande se fasse automatiquement pour éviter les erreurs
+
+5 | En tant que responsable de la prise des commandes, je veux que le montant de TPS soit ajouté automatiquement au sous-total de la commande pour éviter les erreurs
+
+6 | En tant que responsable de la prise des commandes, je veux que le montant de TVQ soit ajouté automatiquement au sous-total de la commande pour éviter les erreurs
+
+7 | En tant que responsable de la prise des commandes, je veux que le grand total se calcule automatiquement pour éviter les erreurs et être plus efficace
+
+## Diapositive 12
+
+Création de la base de données sur Airtable
+
+Pour poursuivre l’exercice de la pizzeria, visitez le lien suivant et copiez la base dans votre environnement local, cela vous permettra de poursuivre avec la même structure et les mêmes données  
+https://airtable.com/appM3YZr8rsRxS2B9/shrCUlSidNgoEpO2r 
+
+
+
+
+## Diapositive 13
+
+Création d’une commande
+
+Démonstration de la création de la table commande
+Vous pouvez reproduire les manipulations présentées
+Si vous avez des difficultés, arrêtez de faire les manipulations et suivez la démonstration
+
+
+Durée : 15 minutes
+
+## Diapositive 14
+
+Implémentation du premier besoin
+
+Selon les notions vues dans les vidéos, comment pouvons-nous répondre au premier besoin de la liste?
+
+
+
+
+
+
+No besoin | Énoncé du besoin
+
+1 | En tant que responsable de la prise des commandes, je veux pouvoir m’assurer que chaque commande est attribuée à un client qui est déjà dans le système pour savoir où livrer
+
+## Diapositive 15
+
+Dictionnaire de données
+
+ 
+
+## Diapositive 16
+
+Création de la table
+
+Saurez-vous arriver à un résultat similaire à celui-ci?
+
+## Diapositive 17
+
+Création de la table Commande
+
+
+
+## Diapositive 18
+
+Création de la table
+
+De quel type est le champ Client ?
+
+## Diapositive 19
+
+Relation réciproque créée
+
+
+Après voir lié la table Commande correctement, lorsqu’on retourne sur la table Client, on s’aperçoit qu’elle a maintenant un nouvel attribut de Type «Lier à une autre entrée» qui s’est automatiquement lié à la table Commande
+
+## Diapositive 20
+
+Relation réciproque créée
+
+Pour s’assurer que la relation implémentée soit celle illustrée dans notre diagramme logique, que doit-on faire maintenant?
+
+
+
+## Diapositive 21
+
+Relation réciproque côté Client
+
+Un client (précis) peut passer plusieurs commandes au fil du temps
+
+
+
+## Diapositive 22
+
+Relation réciproque côté Commande
+
+Une commande (précise) ne peut être liée qu’à un seul client
+
+
+
+## Diapositive 23
+
+Création du champ Name
+
+Explication du champ Name
+Dans la base de données, présenter le champ Name pour le client qui a été configuré
+Présenter la formule
+Créer le champ Name pour Commande (numéro commande + date)
+Le format de la date est inadéquat
+Interroger l’IA pour avoir la solution. La formule finale est : 
+CONCATENATE({No Commande}," - ",DATETIME_FORMAT({Date Commande}, 'YYYY/MM/DD')," - ", DATETIME_FORMAT(SET_TIMEZONE({Date Commande},'america/toronto'), 'HH:mm'))
+En démonstration durée :  25 minutes
+
+## Diapositive 24
+
+Création de la table detailCommande et recette
+
+En reproduisant les manipulations démontrées pour la table Commande, créez maintenant la table detailCommande
+
+Durée : 10 minutes
+
+
+
+## Diapositive 25
+
+Implémentation du deuxième besoin
+
+Selon les notions vues dans les vidéos, comment pouvons-nous répondre au deuxième besoin énoncé dans la liste précédente?
+
+
+
+
+
+
+No besoin | Énoncé du besoin
+
+2 | En tant que responsable de la prise des commandes, je veux pouvoir sélectionner directement les articles d’un menu pour les ajouter à une commande afin d’être plus efficace
+
+## Diapositive 26
+
+Dictionnaire de données : Article
+
+ 
+
+Nom | Définition | Type | Taille | Statut
+
+noArticle | Numéro de l’article | Nombre entier | 4 | Clé primaire
+
+nomArticle | Nom de l’article | Chaîne de caractères | 50 | Obligatoire
+
+prixArticle | Prix de vente unitaire de l’article | Nombre décimal | 5 | Obligatoire
+
+formatArticle | Taille de l’article | Chaîne de caractères | 50 | Facultatif
+
+typeArticle | Catégorie d’article dans le menu | Alphanumérique | 50 | Obligatoire
+
+Nom | Valeurs acceptées | Règle de validation | Règle de calcul | Exemple
+
+noArticle |  | Entre 1 et 9 999 |  | 36
+
+nomArticle |  | Alphanumérique |  | Pizza L Toute garnie
+
+prixArticle |  | 000,00$ |  | 23,99$
+
+formatArticle |  | Alphanumérique |  | 355 ml
+
+typeArticle | Plat principal; À côté; Extra; Dessert; Breuvage |  |  | Plat principal
+
+… 
+
+… 
+
+## Diapositive 27
+
+Clé primaire table Article
+
+Avant de procéder, c’est le moment idéal de réfléchir à la clé primaire de l’entité Article. Dans notre modèle logique issu de la normalisation, la clé primaire de la table Article était le nomArticle puisque nous n’avions aucune référence aux numéros. Dans le modèle issu du modèle conceptuel, nous avions mis noArticle et c’est ce qui devrait être conservé pour assurer l’intégrité référentielle.
+
+
+## Diapositive 28
+
+Création de la table Article
+
+Ici aussi, c’est l’utilisation d’un champ de type Sélection unique qui permet l’opérationnalisation des valeurs acceptées retrouvées dans le dictionnaire de données
+
+
+
+
+
+## Diapositive 29
+
+Peut-on directement relier les tables Article et Commande?
+
+
+Création de la table DetailCommande
+
+
+
+## Diapositive 30
+
+Dictionnaire de données
+
+ 
+
+## Diapositive 31
+
+Création de la table
+
+
+Saurez-vous arriver à ce résultat?
+
+## Diapositive 32
+
+Création de la table
+
+
+
+## Diapositive 33
+
+Implémentation du troisième besoin
+
+Selon les notions vues dans les vidéos, comment pouvons-nous répondre au troisième besoin énoncé dans la liste précédente?
+
+
+
+
+
+
+No besoin | Énoncé du besoin
+
+3 | En tant que responsable de la prise des commandes, je veux que les montants à charger pour chaque article choisi sur une commande se calculent automatiquement pour éviter les erreurs
+
+## Diapositive 34
+
+Retour sur les concepts avant la séance
+
+TotalLigne
+[prixUnitaire]
+
+## Diapositive 35
+
+Création de la table
+
+## Diapositive 36
+
+Précision sur les champs virtuels
+
+Les champs supplémentaires Recherche utilisés dans les formules, les champs de type Formule et les champs de type Cumul n’apparaissent pas dans le modèle logique, ce sont des champs «virtuels»
+En effet, ces attributs ne sont pas stockés (ils ne prennent pas d’espace de stockage), ils sont recalculés (ou recherchés à partir du lien) chaque fois que nous affichons la table en question
+
+
+
+## Diapositive 37
+
+Implémentation des autres besoins
+
+À l’aide des notions vues dans les vidéos, pouvez-vous répondre aux autres besoins listés précédemment pour la pizzeria?
+
+
+## Diapositive 38
+
+Implémentation des autres besoins
+
+SousTotal, TPS, TVQ, GrandTotal
+
+## Diapositive 39
+
+Implémentation des autres besoins
+
+## Diapositive 40
+
+Trois niveaux d’identification dans les systèmes 
+
+L’identifiant relationnel créé explicitement dans chaque table. Il est immuable, non significatif et généré par le système; c’est lui qui sert de référence stable dans les liens entre tables.
+
+Le champ principal de chaque table Airtable. Il étiquette l’enregistrement pour l’humain et pilote les listes déroulantes dans Softr et autre logiciel tiers. Il n’est pas nécessairement unique.
+
+L’identifiant interne généré automatiquement par Airtable pour chaque enregistrement (format recX14). Il ne change jamais, même si tous les autres champs sont modifiés et il est utilisé par les automatisations et les intégrations techniques.
+
+ Clé primaire
+
+Champ Name
+
+ Clé machine
+
+## Diapositive 41
+
+Nouvelle matière
+
+## Diapositive 42
+
+Loi 25 — Données personnelles
+
+Consentement éclairé
+Obtenir l’accord explicite avant de collecter des données personnelles via Softr
+
+Droit à l’oubli
+Supprimer les données d’un client de votre Airtable sur demande
+
+Notification des incidents
+Signaler toute brèche à la Commission d’accès à l’information dans les délais
+
+Responsable désigné
+Une personne dans l’organisation est imputable de la conformité
+
+Votre formulaire Softr collecte nom, adresse, téléphone, vous êtes donc assujetti dès maintenant!
+
+Comme les informations concernant vos clients conservés dans Airtable sont des données personnelles selon la Loi 25, voici ce que ça change :
+
+
+## Diapositive 43
+
+Pourquoi ça vous concerne — en tant que gestionnaire
+
+25 M$
+ou 4% du CA
+
+Sanctions réelles pour non-conformité
+Toute brèche non déclarée ou traitement illégal expose directement la direction
+
+Obligatoire
+dans tout projet TN
+
+Exigence dans tout projet de transformation numérique
+Aucun déploiement Airtable-Softr ne peut ignorer la conformité légale
+
+Différenciant
+sur le marché
+
+Compétence différenciante sur le marché du travail
+Maîtriser la conformité numérique distingue le gestionnaire averti
+
+## Diapositive 44
+
+La triade CIA dans cet écosystème
+
+Intégrité
+
+Données valides à l’entrée
+
+Vos formulaires Softr valident les données avant qu’elles entrent dans Airtable
+
+Confidentialité
+
+Qui accède à quoi?
+
+Rôles et permissions dans Softr déterminent qui voit quelles données clients
+
+Disponibilité
+
+Accès en tout temps
+
+Airtable est dans le cloud — mais une erreur de manipulation peut effacer une table entière
+
+## Diapositive 45
+
+Gestion du risque
+
+Les spécialistes en TI peuvent interagir avec les experts en cybersécurité et avec le business. Ils assurent les bonnes pratiques pour le business et peuvent présenter les enjeux d’affaires aux gens techniques.
+À la base. La cybersécurité, c’est de la gestion de risque.
+On a des menaces
+Des vulnérabilités
+Et des actifs
+Un risque est une menace qui exploite une vulnérabilité pour atteindre un actif
+
+## Diapositive 46
+
+Gestion du risque
+
+Un risque est une menace qui exploite une vulnérabilité pour atteindre un actif
+Pour identifier les risques, on imagine des scénarios qui combinent, une menace, une vulnérabilité et un actif
+On évalue chaque scénario selon la probabilité qu’il se produise et l’impact des dommages potentiels
+On tente de se protéger pour les scénarios avec un score supérieur à la tolérance au risque
+Pour se protéger, on peut tenter de diminuer les vulnérabilités et de minimiser les chances de menaces par la prévention, l’identification, la surveillance, etc.
+
+## Diapositive 47
+
+Gestion des accès à l’aide de Softr
+
+Imaginons que nous poursuivions notre application et que nous concevions une page pour ajouter des articles au menu, est-ce que tous les employés utilisant l’application devraient pouvoir ajouter un article au menu de notre pizzeria?
+Certainement pas! Il faut donc attribuer des rôles à chaque utilisateur et attribuer les accès aux pages en fonction de ces rôles.
+Dans Softr, avec une licence Pro ou plus, nous pouvons même restreindre les accès au niveau des blocs et même des champs en fonction des groupes d’utilisateurs (rôles).
+
+## Diapositive 48
+
+Cyberhygiène – Bonne pratiques à adopter
+
+Globalement, au quotidien
+Utiliser un antivirus et un anti-maliciel à jour
+Naviguer sur le web et depuis les liens de courriels de façon sécuritaire
+
+Dans l’utilisation de Airtable et Softr, notamment
+Utiliser et gérer nos mots de passe de façon appropriée
+Sauvegarder régulièrement les données importantes
+Limiter les accès et privilèges aux seuls besoins nécessaires
+
+
+## Diapositive 49
+
+Application
+
+## Diapositive 50
+
+Discussion en classe sur les enjeux de cybersécurité
+
+Utiliser l’IA pour comprendre ces situations : 
+Groupe 1 : Que s’est-il passé il y a quelques jours à la CCQ, la commission de la construction du Québec?
+Groupe 2 : Existe-t-il de fausses attaques pour lesquelles des pirates tentent d’extorquer des organisations?
+Groupe 2 : Qu’est-ce que la fraude du président?
+Est-ce que Juste pour Rire a eu une fraude du président?
+Groupes 1 et 3 : Quel est le lien entre la cyberattaque et la vente forcée de Groupe Colabor?
+Groupe 3 : Est-ce que des cyberattaques provoquent la fermeture d’entreprises?
+
+## Diapositive 51
+
+Enjeux
+
+Une menace réelle pour toutes les organisations
+Peu avoir des impacts très importants
+On doit faire preuve de cyberhygiène et de cyberrésilience
+On est tous responsables de nos actions et des actions de notre organisation
+
+
+
+
+## Diapositive 52
+
+Restriction des accès aux pages sur Softr
+
+
+
+
+
+
+
+## Diapositive 53
+
+Synthèse
+
+## Diapositive 54
+
+Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+ | DonnéesQuoi? | Fonctions
+Comment? | Lieux
+Où? | Personnes
+Qui? | TempsQuand? | Motivations
+Pourquoi?
+
+Niveau contextuel | Liste des entités d’affaires | Liste des processus d’affaires | Liste des localisations géographiques | Liste des unités d’affaires | Liste des événements d’affaires | Liste des objectifs stratégiques et des règles d’affaires
+
+Niveau conceptuel | Entités d’affaires | Processus d’affaires​ | Localisations des unités​ | Unités d’affaires​ | Événements d’affaires | Objectifs d’affaires​
+
+Niveau logique | Entité de données | Application/système d’information | Fonctions nodales​ | Rôles et interfaces​ | Événements système​ | Critères​
+
+Niveau technique | Ligne (dans une table)​ | Algorithmes programmés | Localisation des système​s | Utilisateurs​ | Exécutions | Conditions​
+
+## Diapositive 55
+
+La suite du cours d’aujourd’hui dans la spécialisation
+
+TECH 20709  	Poser un diagnostic et élaborer des solutions numériques
+TECH 20712 	Créer et exploiter des bases de données
+TECH 20701	Protéger son organisation à l’ère du numérique	
+
+
+## Diapositive 56
+
+Le cours d’aujourd’hui dans les évaluations
+
+Les notions portant sur les fonctions de recherches et leurs utilités seront évaluées à l’examen intra et utilisées dans votre travail d’équipe #1
+Les notions portant sur la loi 25, la cybersécurité et la cyberhygiène seront évaluées à l’examen intra
+Les manipulations sur Airtable et Softr seront utilisées dans votre travail d’équipe #1
+
+
+
+## Diapositive 57
+
+Les métiers impliqués dans le cours d’aujourd’hui
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 58
+
+Les autres spécialisations dans le cours d’aujourd’hui
+
+Marketing
+Gestion des opérations et de la logistique
+Comptabilité
+
+
+
+
+## Diapositive 59
+
+À faire pour la semaine prochaine
+
+Visionner les capsules vidéo du parcours  d’apprentissage de la séance 6
+Avancer votre travail d’équipe #1
+

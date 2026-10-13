@@ -1,0 +1,171 @@
+## Page 1
+             TECH 10701 – Mobiliser les technologies numériques
+                  Travail d’équipe #1 – Correction sur 100, pondération de 15
+
+       À NOUS DE CONSTRUIRE
+
+ Contexte
+
+ Chaque automne, les personnes étudiantes de première année du baccalauréat en
+ administration des affaires (BAA) de HEC Montréal plongent dans leur première session avec
+ énergie : plusieurs cours à découvrir, des équipes à former, des projets à lancer, et une envie
+ sincère de bien faire.
+
+ Ce n’est pas qu’elles manquent de ressources. Le portail de l’université affiche les notes,
+ l’agenda déborde d’échéances, et les groupes de travail fourmillent de messages. Il existe
+ beaucoup d’outils, mais chacun fait ses choses dans son coin, sans parler aux autres.
+
+ Le problème, c’est que tout ça existe partout et nulle part à la fois.
+
+      besoin de savoir où j’en suis et ce qu’il me reste à faire. Si je pouvais consulter ma
+ progression d’un coup d’œil, je pourrais mieux décider où mettre mon« J’ai                                                                  énergie. » Yasmine, 21 ans, est en deuxième année. Organisée et ambitieuse, elle jongle entre quatre
+ cours et un emploi à temps partiel. Elle n’a aucune difficulté avec le          elle veut savoir,
+ en tout temps, si elle avance dans la bonne direction. Elle cherche un endroit où voir d’un                                                                                      travail ;
+ coup d’œil ce qu’elle a accompli, ce qui reste à faire, et si sa trajectoire de session est bonne.
+
+     travaux d’équipe fonctionnent mieux quand on peut voir clairement qui a contribué à
+ quoi. Ce que je voudrais, c’est un outil simple pour reconnaître les efforts réels sans que ça« Les
+ tourne au règlement de                     comptes. » Zack, 22 ans, est finissant. Il a travaillé dans toutes sortes d’équipes, des très efficaces et des
+ plus inégales. Ce qu’il a appris : la collaboration fonctionne mieux quand la contribution de
+ chacun est visible. Pas pour pointer du doigt, mais pour reconnaître les efforts à leur juste
+ valeur. Il aimerait un outil simple qui rende cette transparence possible, naturellement.
+
+             fois qu’une note rentre, je recalcule tout à la main pour voir si mon objectif est
+ encore atteignable. J’aimerais entrer mes données une seule fois et laisser l’outil faire le« Chaque
+ reste. » Aleks, 20 ans, est en première année et raisonne en chiffres : pondérations, objectifs,
+ scénarios. Quand une note rentre, son premier réflexe est de vérifier si sa cible de fin de
+ session est encore réaliste. Ce qu’il voudrait, c’est simple : entrer ses évaluations et sa note
+ cible une seule fois, et laisser l’outil calculer ce qu’il reste à obtenir. En temps réel.
+
+
+
+ TECH 10701 – Travail d’équipe #1            Automne 2026                                                  p. 1
+
+## Page 2
+ Une idée qui germe
+
+ C’est lors d’une réunion de l’ATI, l’Association de Transformation et d’Innovation étudiante,
+ que l’idée a été soulevée pour la première fois, lors d’une discussion animée après les
+ examens de mi-session.
+
+      devrait construire quelque chose pour nous. On vit le problème chaque session. Et pour
+ la première fois, on sait comment le« On                                     régler. » L’idée a fait son chemin. Après quelques échanges, un consensus s’est formé autour d’une
+ ambition claire : créer une application simple, pensée par des personnes étudiantes pour
+ des personnes étudiantes, qui aiderait à naviguer la session avec clarté. Pas un portail
+ institutionnel de plus. Quelque chose d’agréable à utiliser. Quelque chose de réellement utile.
+
+ C’est là que vous entrez en scène. L’ATI vous confie le mandat de donner forme à cette idée :
+ la définir, la concevoir, la construire.
+
+
+
+ Le mandat
+
+ L’ATI vous demande de donner forme à cette idée. Pour ce faire vous devez réaliser une
+ application qui permettra à une personne étudiante de connaître sa progression après
+ chaque évaluation pour chacun de ses cours. L’application devra également permettre de
+ suivre la collaboration de chaque équipier.ère dans les travaux d’équipe auxquels cette
+ personne participe.
+
+ Les critères pour la correction sont dans le tableau ci-dessous. Vous pouvez opter pour le
+ niveau de complexité lié à chaque critère, la valeur présentée est alors la note maximale.
+ Donc,  si pour le modèle conceptuel, vous optez pour le niveau intermédiaire, la note
+ maximale sera de 16 points si la correction confirme une maîtrise complète de ce niveau.
+
+ Votre livrable principal est une application fonctionnelle construite sur Softr et Airtable, avec
+ les récits et le modèle conceptuel en                                    « complément ».
+
+
+
+
+
+ TECH 10701 – Travail d’équipe #1            Automne 2026                                                  p. 2
+
+## Page 3
+Grille d’évaluation : 100 points
+
+ Composante           Niveau de base         Niveau intermédiaire          Niveau avancé
+
+  Récits utilisateurs     15 pts                20 pts                    25 pts
+                    Format correct (en tant     Niveau de base + Critères     Niveau intermédiaire +
+                     que/je veux/afin de). Au     d’acceptation pour chaque   Traçabilité directe entre
+                    moins cinq récits couvrant    récit.                    chaque récit et les
+                           les trois personas.                                            fonctionnalités construites
+                                                                    dans l’application.
+
+ Modèle                12 pts                          16 pts                 20 pts
+ conceptuel         Les trois entités données    Niveau de base + Au moins   Modèle          toutes les
+                  avec attributs et relations   une entité supplémentaire     relations correctement                                                                                          complet ;
+                          définies.                       identifiée et justifiée (ex.                 prise en charge du
+                                                  Note, Équipe ou Objectif).      calcul de scénarios.                                                                                                  définies ;
+
+ Application Softr +   24 pts                    32 pts                 40 pts
+ Airtable          BD Airtable cohérente      Niveau de base +            Niveau intermédiaire + Vues
+                  avec le        vues de    Formulaires de saisie          conditionnelles ou formules
+                       consultation                             modèle ;                         navigation       Airtable pour le calcul de
+                        fonctionnelles dans Softr.            au moins deux    scénarios de notes.                                                         fonctionnels ;
+                                                types de vues.                                                    cohérente ;
+
+ Automatisation     Option A : Rappel de        Option B : Notification de     Option C : Alerte
+                     remise : 9 pts                 contribution : 12 pts                                                                 : 15 pts                                                                                                             « Objectif                                                                         compromis »
+
+
+Vos livrables
+
+1.   Récits utilisateurs
+Votre équipe devra d’abord aller à la rencontre des personnes qui utiliseraient cet outil :
+recueillez des besoins auprès d’au moins deux personnes qui ne font pas partie de votre
+équipe, en vous appuyant sur les profils de Yasmine, Zack et Aleks comme point de départ.
+Ce que vous découvrirez dépassera peut-être ce que le cas vous dit déjà.
+
+Rédigez les récits utilisateurs qui décrivent ce que votre application doit permettre de faire.
+Chaque récit doit suivre la structure vue en cours : en tant que [rôle], je veux [fonctionnalité],
+afin de [bénéfice]. Vos récits doivent être ancrés dans les besoins que vous aurez collectés
+auprès d’utilisateurs réels.
+
+
+
+
+
+TECH 10701 – Travail d’équipe #1            Automne 2026                                                  p. 3
+
+## Page 4
+2.  Modèle conceptuel
+Concevez le modèle de données de votre application. Pour vous orienter, l’ATI a identifié
+trois entités lors de ses discussions initiales :
+
+                COURS |  ÉVALUATION |  CONTRIBUTION
+
+Votre modèle devra les inclure, les compléter si nécessaire et définir les relations entre elles.
+Le modèle que vous implémenterez dans  Airtable  doit  être un modèle  logique
+correspondant à votre modèle conceptuel. Ce modèle doit respecter l’intégrité référentielle,
+vous n’avez pas à présenter votre modèle logique (uniquement le schéma de votre modèle
+conceptuel).
+
+
+3.  Application Softr + Airtable
+Construisez votre application. Elle doit être fonctionnelle : les données doivent pouvoir être
+saisies et consultées. Votre base Airtable doit refléter votre modèle conceptuel.
+
+
+
+4.  Automatisation
+Ajoutez une automatisation à votre application. Choisissez parmi les trois options ci-dessous.
+Le nombre de points disponibles varie selon votre choix. Ces options ne peuvent pas être
+combinées et le pointage n’est pas cumulatif.
+
+Option A : Rappel de remise (9 points) : envoyer automatiquement un courriel 48 heures
+avant la date d’une évaluation.
+Option B : Notification de contribution (12 points) : lorsqu’une personne enregistre une
+contribution dans l’équipe, notifier les autres membres par courriel.
+Option C : Alerte                             (15 points) : lorsque la note requise pour atteindre
+l’objectif de fin de session dépasse 100 %, mettre à jour automatiquement un champ de                   « Objectif compromis »
+statut dans Airtable.
+
+Le reste vous              appartient !
+
+
+
+
+
+TECH 10701 – Travail d’équipe #1            Automne 2026                                                  p. 4

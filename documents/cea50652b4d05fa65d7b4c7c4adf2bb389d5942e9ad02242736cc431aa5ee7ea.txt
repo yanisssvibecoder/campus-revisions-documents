@@ -1,0 +1,109 @@
+## Diapositive 1
+
+CMPC – Exemple 2 – Ernesto
+
+Fait référence au document Word ‘Exercice – Ernesto Inc’ sur ZoneCours, séance 10.
+
+Solution:
+
+1) À partir des informations que vous détenez, déterminez le coût moyen pondéré du capital (CMPC) de l’entreprise Ernesto inc.
+
+1
+
+## Diapositive 2
+
+CMPC – Exemple 2 - Ernesto
+
+2
+
+Actions ordinaires:
+
+
+
+## Diapositive 3
+
+CMPC – Exemple 2 - Ernesto
+
+3
+
+Valeur au marché= 300 000 * 17,50 =  5 250 000$
+R = 12 %
+
+
+2) Comptes fournisseurs:
+Nous n’incluons pas les comptes fournisseurs dans le calcul du CMPC puisque c’est considéré du financement à court-terme. 
+
+
+## Diapositive 4
+
+CMPC – Exemple 2 - Ernesto
+
+4
+
+3) Obligations particulières:
+
+
+
+
+
+
+	TRE = 7 % / 2 = 3.5 %
+
+
+## Diapositive 5
+
+CMPC – Exemple 2 - Ernesto
+
+5
+
+## Diapositive 6
+
+CMPC – Exemple 2 - Ernesto
+
+6
+
+
+Valeur au marché = 1,000 * 946,31 = 946 310$
+Coût = ( (1+3,5 %)^2 – 1) * (1-30%) = 4,99 %
+
+
+## Diapositive 7
+
+CMPC – Exemple 2 - Ernesto
+
+7
+
+4) Obligations conventionnelles
+
+
+
+
+	TRE (semestriel) = 2.64 %
+
+Valeur marchande = 500 * 982 = 491 000$
+Coût = ( (1+2,64%)^2 – 1) * (1-30%) = 3.74 %
+
+
+## Diapositive 8
+
+CMPC – Exemple 2 - Ernesto
+
+8
+
+5) CMPC:
+
+
+
+## Diapositive 9
+
+CMPC – Exemple 2 - Ernesto
+
+9
+
+2 ) Déterminez, selon les critères de la direction de l’entreprise, si elle devrait ou non entreprendre le projet.
+
+Rendement requis pour ce projet = CMPC + 3 % = 10.40 % + 3 % = 13.40 %
+
+TRI = 16.5 %
+
+Puisque le TRI est supérieur au rendement requis, on devrait entreprendre le projet.

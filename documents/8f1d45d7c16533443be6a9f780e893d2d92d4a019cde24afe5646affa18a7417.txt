@@ -1,0 +1,250 @@
+EXAMEN FINAL 
+Question 1 (15 points)
+L’équipe de conception de l’entreprise Techno Bar est réunie afin de discuter du lancement de leur nouveau produit, le Caméléon, et de la stratégie à adopter pour sa mise en production. Vous trouverez ci-dessous des extraits de leur conversation, concernant la pièce XR-99, composante essentielle au produit fini Caméléon et la gamme de produits à venir. Commentez chacun des énoncés en vous basant sur l’ensemble des connaissances acquises au cours du trimestre. 
+« Le Caméléon est le premier d’une série de produits similaires. Pour ces derniers, nous devrions considérer une stratégie de production nivelée étant donné le haut niveau de qualification requis pour la main-d’œuvre ». 
+« Les boîtes qui serviront à emballer le Caméléon sont commandées selon le modèle du point de commande. Il semble que les coûts unitaires de commande aient été sous-estimés. Il faudra donc revoir à la hausse la quantité économique à commander ».
+« Il faudrait se dépêcher à développer une méthode de prévision pour la composante XR-99. Les prévisions faites pour le Caméléon nous donnent une petite idée des besoins mais on doit aussi faire des prévisions pour les composantes ».
+« Cette composante devrait être commandée en « Lot pour Lot ». C’est la meilleure façon de s’assurer de limiter les coûts de commande et les coûts d’entreposage, étant donné que la pièce sera utilisée de façon régulière ».
+« Le fournisseur que nous considérons pour cette pièce est certifié ISO 9000. Ce critère a été déterminant puisqu’il nous assure une qualité supérieure, ce qui est essentiel pour nous ».
+Question 2 (22 points)
+2.1	Présentez un exemple concret d’entreprise de services pour chacun des processus ci-dessous. Bien justifier votre réponse à l’aide des variables pertinentes. (6 points)
+ Atelier :
+2.2	Monsieur Gagnon, le PDG de la société RAM (Roule-Avec-Moi), est un visionnaire qui travaille à ce que son entreprise devienne le chef de file au Canada dans la fabrication de poussettes pour bébé. Au cours des dernières années, RAM a connu une croissance exceptionnelle grâce à la qualité et à la variété de ses produits. Les clients peuvent choisir différents modèles de poussette. La gamme de produits contient les variations suivantes : nombre de roues, type de châssis, couleur de landau, de nacelle et de coquille (banc d’auto), etc. L’usine de production est séparée en cinq sections. Chaque section peut réaliser l’assemblage d’un modèle complet de poussette. Ces poussettes sont ensuite acheminées aux détaillants. 
+Quel est le type d’aménagement mis en place à l’usine de RAM? Cet aménagement vous semble-t-il approprié? Bien justifier votre réponse. (4 points)
+2.3	Voici un exemple de flux de deux types de produits, parmi plusieurs, fabriqués par l’entreprise Doal. Tous les produits sont fabriqués selon les spécifications des clients. Le plan ci-dessous montre les différentes étapes de production pour ces deux types de produit. 
+a)	Quel est le type d’aménagement présenté sur le dessin? (2 points)
+b)	Quel type de processus est utilisé pour la fabrication des produits Doal? Justifiez brièvement votre réponse. (2 points)
+c)	Proposez un autre type d’aménagement approprié à ce contexte de production et faites le dessin. (4 points)
+Type d’aménagement proposé : 
+d)	Nommez et expliquez brièvement un avantage et un inconvénient de l’aménagement proposé ci-dessus. (4 points)
+  Avantage :
+Question 3 (30 points)
+Pharmixa produit des seringues de solution saline pour les hôpitaux. Les seringues vides sont reçues d’un sous-traitant. Elles doivent être nettoyées puis stérilisées à l’aide de vapeur d’eau saturée sous pression dans un four appelé autoclave. Les germes sont détruits grâce à la combinaison de chaleur et d’humidité. L’entreprise possède un seul autoclave qui peut contenir un maximum de 70 seringues. Les seringues sont ensuite remplies manuellement de solution saline dans une chambre stérile. La stérilité du contenu est préservée à l’aide d’un protecteur d’embout et d’un bouchon. Le procédé de production comporte 7 étapes.  
+L’entreprise connait présentement une forte croissance et a quelques difficultés à livrer ses commandes à temps. La directrice des opérations voudrait savoir quelle est l’étape du processus qui retarde la réalisation des commandes. Elle a donc mandaté un superviseur des opérations pour faire une étude de temps et mouvements relatifs au processus actuel de production.
+Le tableau suivant présente les données compilées et les informations recueillies lors du chronométrage des temps de chaque tâche. Les temps observés sont en minutes et en centièmes de minutes. 
+Il est à noter que les majorations applicables sont de 10 % pour l’étape automatisée et de 20 % pour les autres étapes. Une journée de travail compte huit heures et l’usine est en opération 250 jours par année. 
+3.1	Quelle est l’étape du processus qui retarde la réalisation des commandes? Utilisez l’espace ci-dessous pour démontrer vos calculs et complétez le tableau de la page précédente. (8 points)
+3.2	Un collègue du superviseur passe par son bureau et voit les résultats de l’étude de temps et mouvements. Il fait alors la recommandation suivante : « Nous devrions remplacer l’employé affecté à l’étape 5 puisqu’il est plus lent que la moyenne. » Que pensez-vous de cette proposition? Justifiez bien votre réponse. (2 points)
+3.3	Quelle est la capacité annuelle du processus de fabrication? Justifiez bien votre réponse en présentant vos calculs. (2 points)
+3.4	La capacité calculée en 3.3 correspond-elle à la capacité de conception, la capacité réelle ou la production réelle? Justifiez bien votre réponse. (2 points)
+3.5	Pour un autre type de produit médical, on utilise un processus en 6 étapes. Lors d’une récente réunion, les employés se sont plaints de la monotonie de leur tâche. La direction songe donc à créer des cellules de travail où chaque employé réaliserait l’ensemble des tâches. Le tableau ci-dessous comporte les données relatives au processus.
+Quelle est la cadence du processus actuel? Présentez l’ensemble de vos calculs. (3 points)
+Quelle sera la nouvelle cadence de ce processus si on adopte l’aménagement de type cellulaire tel que proposé (1 employé par cellule)? Présentez l’ensemble de vos calculs. (3 points)
+3.6	Nommez et expliquez brièvement un avantage et deux inconvénients de l’organisation du travail proposée en 3.5 b). (6 points)
+  Avantage :
+3.7	L’équipement utilisé dans l’usine exige une maintenance préventive mensuelle. 
+L’équipe en place depuis huit mois a mis 8,6 heures à compléter la maintenance lors du 2e mois de travail et 8,2 heures lors de la maintenance du 4e mois. Combien de temps devra-t-on prévoir pour la maintenance du 16e mois si l’équipe reste la même? Justifiez votre réponse à l’aide d’un calcul approprié. (2 points)
+Nommez et expliquez brièvement deux actions que pourrait prendre la direction de l’entreprise pour faciliter l’apprentissage de ses équipes de maintenance. (2 points)
+  Action 1 :
+Question 4 (21 points)
+Métal Précision est une entreprise montréalaise spécialisée dans la fabrication d’affiches métalliques. Elle réalise actuellement une importante commande de disques métalliques circulaires pour la Société de transport de Montréal (STM). La STM les utilisera durant les prochaines années comme affiches d’arrêt d’autobus lors de l’implantation de nouvelles lignes d’autobus, pour remplacer les affiches détériorées, etc.
+Selon le contrat avec la STM, les affiches doivent mesurer 250 mm de diamètre. En outre, le contrat spécifie que les unités mesurant moins de 235 mm et celles mesurant plus de 265 mm sont refusées. D’ailleurs, les refus par la STM ont augmenté au cours des dernières semaines, de telle sorte qu’on a décidé de suivre ce processus de plus près. À cette fin, on a prélevé aléatoirement des échantillons lors de la production. Les données ont été comptabilisées et les cartes de contrôles ont été tracées. Vous pouvez les consulter à la page suivante.
+4.1	À partir des données disponibles, déterminez la taille des échantillons utilisés pour tracer ces cartes de contrôles. Justifiez votre réponse à l’aide d’un calcul approprié. (3 points)
+4.2	Le directeur de la qualité affirme que le processus était hors contrôle lors de la prise de ces données. Comment en est-il arrivé à cette conclusion? Justifiez votre réponse en analysant l’ensemble des variables pertinentes. (6 points)
+4.3	Expliquez sommairement en quoi consistent les différents coûts de qualité et de non-qualité pour Métal Précision et donnez un exemple pour chacun d’eux dans le contexte du contrat de la STM. (4 points)
+Coûts de qualité :
+4.4	Le directeur de l’approvisionnement renégocie actuellement le contrat d’approvisionnement de lames pour les machines de découpe. Afin d’assurer la précision des coupes, les lames doivent avoir une largeur de 19 mm afin de rester bien fixées dans la machine. On peut accepter une variation de ± 0,3 mm. Deux fournisseurs lui ont fait parvenir l’information suivante sur leur processus respectif de fabrication de lames. 
+Le directeur prétend que le fournisseur A répondra mieux à ses besoins étant donné que son processus offre une plus petite variabilité. Êtes-vous d’accord avec lui? Justifiez votre réponse à l’aide d’un calcul approprié. (5 points)
+Le fournisseur B possède une certification ISO 9000 alors que le fournisseur A ne la possède pas. Cette information aura-t-elle un impact sur la décision à prendre? Bien justifier votre réponse. (3 points)
+Question 5 (12 points)
+Déterminez si chacun des énoncés suivants est vrai ou faux en encerclant la réponse appropriée. Justifiez brièvement votre réponse. 
+5.1	Dans une chaîne logistique intégrée, les produits ayant une demande indépendante sont les produits finis de chacun des maillons de la chaîne.
+VRAI								FAUX
+5.2	Pour une entreprise de service, telle une épicerie, le critère de localisation le plus important est la proximité des fournisseurs.
+VRAI								FAUX
+5.3	Dans le modèle à réapprovisionnement périodique, lorsqu’on réduit l’intervalle de temps entre deux commandes, alors on réduit le stock de sécurité et donc on réduit aussi le niveau de service. 
+VRAI								FAUX
+5.4	Lors de l’élaboration d’un plan détaillée de production (PDP), on doit développer une grille pour chaque produit ayant une demande indépendante.
+VRAI								FAUX
+5.5	Pour éviter d’introduire des biais, il est préférable de ne pas tenir compte du jugement humain dans l’élaboration des prévisions.
+VRAI								FAUX
+5.6	Le manque de capacité est une des raisons qui poussent les entreprises à sous-traiter.
+VRAI								FAUX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Masse par lot :
+
+
+
+
+Traitement (process) :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inconvénient :
+
+
+
+Étape | Description de l'opération | Unité de référence | TOM | Facteur d’allure | Nombre d’employés
+1 | Nettoyage des seringues | Par seringue | 0,50 | 10 %
+plus rapide | 3
+2 | Préparation pour stérilisation | Pour un lot de 70 seringues | 7,00 | 100 | 1
+3 | Stérilisation des seringues (automatisée) | Pour un lot de 70 seringues | 7,00 | 100 | -
+4 | Remplissage des seringues avec la solution et pose de l’embout et du bouchon | Par seringue | 1,20 | 105 | 6
+5 | Etiquetage des seringues | Par seringue | 0,30 | 10 %
+plus lent | 1,2
+6 | Inspection visuelle | Par seringue, une seringue contrôlée sur 10 | 0,50 | 120 | 0,8
+7 | Emballage | Par boîte de 12 seringues | 1,30 | 90 | 1
+Étape | TS par seringue | Temps de cycle | Cadence     (en seringues à l’heure)
+1 |  |  | 
+2 |  |  | 
+3 |  |  | 
+4 |  |  | 
+5 |  |  | 
+6 |  |  | 
+7 |  |  | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Étape | TS par unité
+(en min) | Nombre d’employés
+1 | 1,20 | 1
+2 | 3,42 | 3
+3 | 0,72 | 0,5
+4 | 1,48 | 1
+5 | 0,81 | 0,5
+6 | 4,60 | 4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Inconvénient 1 : 
+
+
+
+
+Inconvénient 2 :
+
+
+
+
+
+
+
+
+
+
+
+Action 2 : 
+
+
+
+
+
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+
+Exemple :
+
+
+
+Coûts de non-qualité :
+
+
+Exemple :
+
+Fournisseur | A | B
+Moyenne des moyennes | 19,00 | 19,00
+Moyenne des étendues | 0,140 | 0,192
+Taille de l'échantillon | 6 | 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

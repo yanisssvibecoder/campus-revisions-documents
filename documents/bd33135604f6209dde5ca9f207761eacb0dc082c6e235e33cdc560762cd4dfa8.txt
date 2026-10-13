@@ -1,0 +1,338 @@
+Présentation du cours
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Présentation du cours
+Description
+
+Ce cours vise à développer la capacité des étudiantes et étudiants à mobiliser le plein potentiel des technologies numériques à l'aide de différentes méthodes et techniques.
+
+Plus spécifiquement, à la fin de ce cours, les étudiantes ou les étudiants seront conscients de la place prépondérante occupée par les technologies numériques, y compris l'intelligence artificielle et d'autres technologies émergentes, et ce, dans toutes les sphères de l'organisation. Elles ou ils sauront reconnaître les solutions numériques les plus pertinentes pour répondre à des problèmes d'affaires communs auxquels doivent faire face les différentes fonctions de l'entreprise : ressources humaines, logistiques, marketing, finance, développement durable, etc. Elles ou ils pourront créer des solutions simples à l'aide d'outils sans code ou avec peu de code (environnements « no-code » ou « low-code »), solutions qu'elles ou qu'ils sauront structurer dans un projet. Pour les solutions les plus complexes demandant du plein code (environnement pro-code), elles ou ils pourront les traduire dans un dossier de justification.
+
+
+
+Themes
+
+Processus d'affaires et systèmes d'information
+Structure de données dans les systèmes
+Requêtes simples sur jeux de données
+Requêtes complexes à l'aide de tableaux de bord
+Cybersécurité
+Besoins d'affaires
+Progiciels de gestion intégrés
+Commerce électronique
+Expérience utilisateur
+Intelligence artificielle et technologies émergentes
+Développement et outils « no-code/low-code »
+Gestion de projets TI
+
+Sommaire des évaluations
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Sommaire des évaluations
+Important
+Mon principal devoir : être présent en classe
+
+Selon le règlement de l'École, la présence de l'étudiant en classe (ou aux activités du cours) est présumée. Ainsi, l'enseignant n'est pas tenu de fournir de l'aide ou d'adapter le cours ou son évaluation en raison d'une absence.
+
+L'intégrité intellectuelle: tout le monde y gagne!
+
+Les évaluations et les travaux remis dans le cadre de ce cours doivent respecter le Règlement sur l’intégrité intellectuelle étudiante et ne contenir aucune idée ou encore aucun matériel plagié, en tout ou en partie, qu’il soit publié ou non. Les sources d'information externes doivent être correctement mentionnées et citées. Il est important de prendre connaissance des modalités et des consignes spécifiques à chaque évaluation.
+
+De plus, dans le cadre d’un travail d'équipe, tous les membres sont présumés solidairement responsables s'il y a infraction au règlement pédagogique. Par ailleurs, toute évaluation peut faire l'objet d'une analyse par un logiciel de détection de similitudes et les personnes étudiantes pourraient être tenues d'expliquer le processus de réalisation de leurs livrables.
+
+L’intelligence artificielle générative (IAG)
+
+Les personnes étudiantes doivent prendre connaissance des consignes spécifiques à chaque évaluation prévue pour le cours afin de valider la permission ou l’interdiction d’utiliser l’IAG.
+
+Lorsque son utilisation est permise, il revient aux personnes étudiantes de s’assurer de respecter les règles applicables, notamment en matière de citation et de mention des sources. Une utilisation de l’IAG qui ne respecte pas les règles applicables constitue une infraction pédagogique.
+
+Lorsque son utilisation est interdite, le fait d’utiliser l’IAG constitue aussi une infraction pédagogique.
+
+Toute infraction pédagogique est susceptible d’engendrer des procédures et des sanctions prévues au Règlement sur l’intégrité intellectuelle étudiante.
+
+Chaque personne étudiante est responsable de s’informer et d’adopter de bonnes pratiques liées à l’intégrité intellectuelle. Pour en savoir plus, consultez les ressources suivantes:
+
+L’intégrité intellectuelle à HEC Montréal;
+Les façons d'éviter le plagiat;
+La façon de citer ses sources.
+
+Les examens : à vérifier avant le jour J!
+
+La validité de sa carte d’étudiant. En savoir plus...
+L'horaire et la salle de l'examen (dans HEC en ligne)
+La documentation autorisée à l'examen (dans mon site ZoneCours)
+La conformité de ma calculatrice. En savoir plus...
+1 - Participation (5 %)
+Lieu : En présentiel
+Mode de remise : Numérique
+Mode de travail : Individuel
+IA générative : Interdite
+2 - Travail (15 %)
+Mode de remise : Numérique
+Modalité : Écrit
+Mode de travail : En équipe
+IA générative : Permise
+3 - Autre (5 %)
+Lieu : En présentiel
+Modalité : Oral
+Mode de travail : Individuel
+IA générative : Interdite
+4 - Examen intra (30 %)
+Date : voir HEC en ligne
+Durée : 3 heures
+Documentation permise : 1 feuilles de notes 8,5x11 recto verso; écrite à la main
+Lieu : En présentiel
+Mode de remise : Papier
+IA générative : Interdite
+5 - Travail (20 %)
+Mode de remise : Numérique
+Modalité : Écrit
+Mode de travail : En équipe
+IA générative : Permise
+6 - Examen final (25 %)
+Date : voir HEC en ligne
+Durée : 3 heures
+Documentation permise : 1 feuilles de notes 8,5x11 recto verso; écrite à la main
+Lieu : En présentiel
+Mode de remise : Papier
+IA générative : Interdite
+
+1 - Participation
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Participation (5%)
+Détails
+Lieu : En présentiel
+Mode de remise : Numérique
+Mode de travail : Individuel
+IA générative : Interdite
+
+2 - Travail
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Travail (15%)
+Détails
+Mode de remise : Numérique
+Modalité : Écrit
+Mode de travail : En équipe
+IA générative : Permise
+
+3 - Autre
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Autre (5%)
+Détails
+Lieu : En présentiel
+Modalité : Oral
+Mode de travail : Individuel
+IA générative : Interdite
+
+4 - Examen intra
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Examen intra (30%)
+Détails
+Date : voir HEC en ligne
+Durée : 3 heures
+Documentation permise : 1 feuilles de notes 8,5x11 recto verso; écrite à la main
+Lieu : En présentiel
+Mode de remise : Papier
+IA générative : Interdite
+
+5 - Travail
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Travail (20%)
+Détails
+Mode de remise : Numérique
+Modalité : Écrit
+Mode de travail : En équipe
+IA générative : Permise
+
+6 - Examen final
+Mobiliser les technologies numériques (A2026 - F21)
+Dernière publication : 10 sept. 2026 09:37
+ PDF
+Informations officielles
+	
+Présentation du cours
+	
+Coordonnées
+	
+Modalité d'enseignement
+	
+Sommaire des évaluations
+	
+1 - Participation
+	
+2 - Travail
+	
+3 - Autre
+	
+4 - Examen intra
+	
+5 - Travail
+	
+6 - Examen final
+Examen final (25%)
+Détails
+Date : voir HEC en ligne
+Durée : 3 heures
+Documentation permise : 1 feuilles de notes 8,5x11 recto verso; écrite à la main
+Lieu : En présentiel
+Mode de remise : Papier
+IA générative : Interdite

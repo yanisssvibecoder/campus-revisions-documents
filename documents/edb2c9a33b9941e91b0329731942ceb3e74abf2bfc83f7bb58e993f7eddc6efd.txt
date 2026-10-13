@@ -1,0 +1,928 @@
+## Page 1
+Mobiliser les
+technologies numériques
+TECH 10701
+
+
+Développé par
+Marie -Claude Trudel
+
+## Page 2
+1 – À la base d’une transformation numérique réussie            : une stratégie et une architecture
+
+
+
+2 – Au cœur des systèmes d’information       : des processus d’affaires
+
+
+
+3 – La matière première des systèmes d’information : des données
+
+
+
+4 – Des données aux interfaces : structurer, saisir, gouverner
+
+
+
+5 – L’utilisation des systèmes d’information : des requêtes simples et des enjeux de cybersécurité
+
+
+
+6 - Au cœur des systèmes d’information : des algorithmes et de l’intelligence artificielle
+
+
+
+7 - Pour passer du concept au système matérialisé          : des projets structurés
+
+
+
+              8 - Des processus standardisés et des données intégrées : des progiciels de gestion intégrés
+
+
+
+              9 – La matière première des systèmes d’information : toujours plus de données
+
+
+
+              10 – L’utilisation des systèmes d’information : des requêtes complexes à l’aide de tableaux de bord
+
+
+
+              11- À l’avant scène des systèmes d’information : une expérience utilisateur réfléchie
+
+
+
+              12 – Une solution complète : un tableau de bord pour soutenir l’utilisation d’un progiciel de gestion intégré
+
+## Page 3
+     Séance 5
+
+       L’utilisation des systèmes d’information : des
+
+      requêtes simples et des enjeux de cybersécurité
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 4
+           ▪Implémenter un modèle logique dans     Airtable en créant les
+
+                  tables, les liens et les champs calculés
+
+            ▪Construire une application    Softr reliée à Airtable pour saisir et
+
+                consulter des données
+
+            ▪Expliquer les enjeux légaux et de sécurité liés aux données                                                                                                   5
+                personnelles collectées dans le    système qu’on  vient de
+
+                 construire
+
+Mobiliser les technologies numériques
+
+## Page 5
+Plan de la séance
+
+
+ Retours           Assimilation       Application       Synthèse
+
+## Page 6
+  Retour sur la séance 4
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 7
+ Des règles d'affaires aux contraintes de l'interface
+
+
+Le formulaire n'est pas une décoration    —c'est là que les règles s'appliquent.
+
+
+▪Une commande provient d’un        ▪Champ client: obligatoire,
+  seul client                                 sélection dans une liste
+
+▪La livraison requiert un numéro        ▪Téléphone: champ obligatoire,
+  de téléphone                          format validé
+
+▪Le type de paiement est                ▪Liste déroulante fermée:
+  prédéfini (3 valeurs)                    comptant, débit, crédit
+
+▪Le numéro de client est unique        ▪Généré automatiquement,
+  et immuable                      champ non modifiable
+
+## Page 8
+  Retour sur le parcours
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 9
+     Retour sur les concepts du parcours
+
+
+
+1.  Quelles sont les quatre principales fonctions de recherche dans les
+
+    applications?
+
+2.  Quelle fonction de recherche doit    -on utiliser dans  Airtable pour choisir la valeur
+
+   d’une clé lointaine selon les valeurs saisies dans la clé primaire d’une autre liste?
+
+3.  Quelle fonction de recherche doit    -on utiliser dans  Softr pour choisir la valeur
+
+   d’une clé lointaine selon les valeurs saisies dans la clé primaire d’une autre liste?
+
+4.  Quelle est la différence entre ET    et OU dans les filtres?
+
+## Page 10
+                                 du parcours  Assimilation
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 11
+       Liste des besoins de la pizzeria
+
+
+No besoin         Énoncé du besoin
+
+                 En tant que responsable de la prise des commandes, je veux pouvoir m’assurer que chaque
+1
+               commande est attribuée à un client qui est déjà dans le système pour savoir où livrer
+
+                 En tant que responsable de la prise des commandes, je veux pouvoir sélectionner
+2                  directement les articles d’un menu pour les ajouter à une commande afin d’être plus
+                      efficace
+
+                 En tant que responsable de la prise des commandes, je veux que les montants à charger
+3                 pour chaque article choisi sur une commande se calculent automatiquement pour éviter les
+                     erreurs
+
+                 En tant que responsable de la prise des commandes, je veux que la somme des articles
+4
+                       choisis sur une commande se fasse automatiquement pour éviter les erreurs
+
+                 En tant que responsable de la prise des commandes, je veux que le montant de TPS soit
+5
+                    ajouté automatiquement au sous    -total de la commande pour éviter les erreurs
+
+                 En tant que responsable de la prise des commandes, je veux que le montant de TVQ soit
+6
+                    ajouté automatiquement au sous    -total de la commande pour éviter les erreurs
+
+                 En tant que responsable de la prise des commandes, je veux que le grand total se calcule
+7
+                  automatiquement pour éviter les erreurs et être plus efficace
+
+## Page 12
+      Création de la base de données sur Airtable
+
+▪Pour poursuivre l’exercice de la pizzeria, visitez le lien suivant et copiez la base
+
+  dans votre environnement local, cela vous permettra de poursuivre avec la
+
+ même structure et les mêmes données
+
+    ▪https://airtable.com/appM3YZr8rsRxS2B9/shrCUlSidNgoEpO2r
+
+## Page 13
+      Création d’une commande
+
+
+
+
+
+▪Démonstration de la création de la table commande
+
+▪Vous pouvez reproduire les manipulations présentées
+
+   ▪Si vous avez des difficultés, arrêtez de faire les manipulations et suivez la démonstration
+
+
+
+
+▪Durée : 15 minutes
+
+## Page 14
+     Implémentation du premier besoin
+
+▪Selon les notions vues dans les vidéos, comment pouvons      -nous répondre au
+
+  premier besoin de la liste?
+
+
+      No besoin       Énoncé du besoin
+
+                      En tant que responsable de la prise des commandes, je veux pouvoir m’assurer
+       1              que chaque commande est attribuée à un client qui est déjà dans le système
+                       pour savoir où livrer
+
+
+▪En reliant la table Commande à la table Client
+
+   ▪Créer d’abord une table Commande dans Airtable
+
+    ▪Lier la table Commande à la table Client existante
+
+## Page 15
+     Dictionnaire de données : Commande
+
+
+
+
+ Nom                   Définition                                 Type                          Taille          Statut
+
+ noCommande       Numéro de la commande                  Nombre entier           6              Clé primaire
+
+ dateCommande       Date de la commande                        Date                   10             Obligatoire
+ heureCommande     Heure de la commande                      Heure                  5              Obligatoire   …
+
+ noClient           Numéro du client qui passe la commande       Nombre entier           6              Clé lointaine
+
+ modePaiement      Mode de paiement de la transaction            Chaîne de caractères      50             Obligatoire
+
+
+
+
+     Nom                       Valeurs acceptées            Règle de validation                 Règle de calcul          Exemple
+
+     noCommande                                            Entre 1 et 999 999                                      356
+
+      dateCommande                                          Entre 2000  -01-01 et 9999 -12-31                        202
+…  heureCommande                                         Entre 00:00 et 23:59                                        17:46
+
+       noClient                                                 Entre 1 et 999 999                                      61
+
+      modePaiement            Comptant; Débit; Crédit                                                           Comptant
+
+## Page 16
+      Création de la table Commande
+
+▪Saurez -vous arriver à un résultat similaire à celui     -ci?
+
+
+
+
+
+ De quels types sont les champs   HorodatageCommande       et ModePaiement    ?
+
+## Page 17
+      Création de la table Commande
+
+▪De quel type est le champ HorodatageCommande?
+
+▪Et le champ ModePaiement?
+
+## Page 18
+      Création de la table Commande
+
+▪De quel type est le champ    Client  ?
+
+## Page 19
+      Relation réciproque créée
+
+
+
+▪Après voir lié la table Commande correctement, lorsqu’on retourne sur la table
+
+  Client, on s’aperçoit qu’elle a maintenant un nouvel attribut de Type «Lier à une
+
+  autre entrée» qui s’est automatiquement lié à la table Commande
+
+## Page 20
+      Relation réciproque créée
+
+▪Pour s’assurer que la relation implémentée soit celle illustrée dans notre
+
+ diagramme logique, que doit   -on faire maintenant?
+
+
+▪Il faut ajuster le critère «Autoriser l’établissement
+
+  d’un lien vers plusieurs entrées»
+
+    ▪Il doit être coché du côté de la table Client
+
+    ▪Il ne doit pas être coché du côté de Commande
+
+
+▪Pourquoi?
+
+## Page 21
+      Relation réciproque côté Client
+
+▪Un client (précis) peut passer plusieurs
+
+ commandes au fil du temps
+
+## Page 22
+      Relation réciproque côté Commande
+
+▪Une commande (précise) ne peut être liée
+
+  qu’à un seul client
+
+## Page 23
+      Création du champ Name
+
+
+▪Explication du champ Name
+
+▪Dans la base de données, présenter      le champ Name pour le client qui a été configuré
+
+    ▪Présenter la formule
+
+▪Créer le champ Name pour Commande (numéro commande + date)
+
+   ▪Le format de la date est inadéquat
+
+▪Interroger l’IA pour avoir la solution. La formule      finale est  :
+
+     ▪CONCATENATE({No Commande}," - ",
+
+      DATETIME_FORMAT({Date Commande}, 'YYYY/MM/DD')," - ",
+
+      DATETIME_FORMAT(SET_TIMEZONE({Date Commande},
+
+      'america/toronto'), 'HH:mm'))          Modifier les noms entre { } pour
+                                                                                   qu’ils correspondent aux attributs
+▪En démonstration durée : 25 minutes                       de votre table Commande
+
+## Page 24
+      Création de la table     detailCommande      et recette
+
+
+
+
+
+▪En reproduisant les manipulations démontrées pour la table Commande, créez
+
+  maintenant la table  detailCommande
+
+
+▪Durée  : 10 minutes
+
+## Page 25
+     Implémentation du deuxième besoin
+
+▪Selon les notions vues dans les vidéos, comment pouvons      -nous répondre au
+
+ deuxième besoin énoncé dans la liste précédente?
+
+
+      No besoin       Énoncé du besoin
+
+                      En tant que responsable de la prise des commandes, je veux pouvoir
+       2                 sélectionner directement les articles d’un menu pour les ajouter à une
+                   commande afin d’être plus efficace
+
+
+▪En créant une table Article et en trouvant comment la lier à la Commande
+
+   ▪Créer d’abord une table Article dans Airtable
+
+    ▪Revenir au modèle logique pour comprendre comment lier les deux entités entre elles
+
+## Page 26
+     Dictionnaire de données : Article
+
+
+
+ Nom        Définition                   Type                  Taille            Statut
+
+ noArticle      Numéro de l’article                 Nombre entier          4                     Clé primaire
+
+ nomArticle    Nom de l’article                        Chaîne de caractères      50                    Obligatoire
+  prixArticle       Prix de vente unitaire de l’article        Nombre décimal         5                      Obligatoire     …
+
+ formatArticle    Taille de l’article                       Chaîne de caractères      50                      Facultatif
+
+ typeArticle      Catégorie d’article dans le menu         Alphanumérique         50                    Obligatoire
+
+
+     Nom        Valeurs acceptées       Règle de validation      Règle de calcul      Exemple
+
+         noArticle                                       Entre 1 et 9 999                                    36
+
+        nomArticle                                 Alphanumérique                                            Pizza L Toute garnie
+…     prixArticle                                   000,00$                                              23,99$
+
+         formatArticle                               Alphanumérique                                   355 ml
+
+                            Plat principal; À côté; Extra;
+         typeArticle                                                                                                         Plat principal
+                          Dessert; Breuvage
+
+## Page 27
+      Clé primaire table Article
+
+▪Avant de procéder, c’est le moment idéal de réfléchir à la clé primaire de l’entité
+
+  Article. Dans notre modèle logique issu de la normalisation, la clé primaire de la
+
+  table Article était le  nomArticle  puisque nous n’avions aucune référence aux
+
+  numéros. Dans le modèle issu du modèle conceptuel, nous avions       mis noArticle et
+
+  c’est ce qui devrait être conservé pour assurer l’intégrité référentielle.
+
+## Page 28
+      Création de la table Article
+
+
+
+▪Ici aussi, c’est l’utilisation d’un champ de type
+
+  Sélection unique     qui permet
+
+  l’opérationnalisation des valeurs acceptées
+
+  retrouvées dans le dictionnaire de données
+
+## Page 29
+      Création de la table     DetailCommande
+
+
+▪Peut -on directement relier les tables Article et Commande?
+
+   ▪Non, il faut d’abord créer une table
+
+     Detail_Commande qui, elle, sera liée
+
+      aux deux autres tables
+
+   ▪Nous devons faire cela, car la relation
+
+        initiale dans le modèle conceptuel était
+
+     de plusieurs à plusieurs et que nous ne
+
+     pouvons pas  implémenter une telle
+
+       relation dans une base de données
+
+       relationnelle
+
+## Page 30
+ Dictionnaire de données : DetailCommande
+
+
+
+Nom           Définition                          Type                      Taille   Statut
+
+noCommande     Numéro de la commande                    Nombre entier              6          Clé lointaine
+
+noArticle         Numéro de l’article commandé                Nombre entier              6          Clé lointaine
+
+qteCommandee     Quantité d’article commandé                  Nombre entier              3          Obligatoire
+
+
+
+
+
+Nom           Valeurs acceptées      Règle de validation     Règle de calcul      Exemple
+
+noCommande                                     Entre 1 et 999 999                                   000244
+
+noArticle                                          Entre 1 et 999 999                                   9
+
+qteCommandee                                   Entre 1 et 999                                      2
+
+## Page 31
+      Création de la table     DetailCommande
+
+
+
+▪Saurez -vous arriver à ce résultat?
+
+## Page 32
+      Création de la table DetailCommande
+
+▪La table DetailCommande   est une table liée à Commande d’un côté, et à Article
+
+ de l’autre, d’où les deux clés lointaines dans le dictionnaire des données qui
+
+  formeront, ensemble, la clé primaire concaténée.
+
+## Page 33
+     Implémentation du troisième besoin
+
+▪Selon les notions vues dans les vidéos, comment pouvons      -nous répondre au
+
+  troisième besoin énoncé dans la liste précédente?
+
+
+      No besoin       Énoncé du besoin
+
+                      En tant que responsable de la prise des commandes, je veux que les montants
+       3               à charger pour chaque article choisi sur une commande se calculent
+                       automatiquement pour éviter les erreurs
+
+
+▪En utilisant un champ dans la table    DétailCommande  où le calcul se fera
+
+## Page 34
+Retour sur les concepts avant la séance
+
+
+
+
+
+                                                               Pour calculer le
+
+                                                                        TotalLigne      , il faut
+
+                                                                   d’abord aller
+
+                                                     TotalLigne         récupérer le champ
+                                                                         [prixUnitaire]
+                                                                           prixUnitaire   de la
+
+                                                                         table Article
+
+## Page 35
+Création de la table     DetailCommande
+
+## Page 36
+      Précision sur les champs virtuels
+
+
+
+▪Les champs supplémentaires    Recherche    utilisés dans les formules, les champs de
+
+  type Formule   et les champs de type   Cumul   n’apparaissent pas dans le modèle
+
+  logique, ce sont des champs «virtuels»
+
+▪En effet, ces attributs ne sont pas stockés (ils ne prennent pas d’espace de
+
+  stockage), ils sont recalculés (ou recherchés à partir du lien) chaque fois que nous
+
+  affichons la table en question
+
+## Page 37
+     Implémentation des autres besoins
+
+▪À l’aide des notions vues dans les vidéos, pouvez     -vous répondre aux autres
+
+  besoins listés précédemment pour la pizzeria?
+
+## Page 38
+Implémentation des autres besoins
+
+
+
+
+
+                SousTotal,   TPS, TVQ, GrandTotal
+
+
+
+       Le SousTotal   est
+
+      une agrégation
+
+       d’un champ
+
+       provenant d’une
+
+        table liée
+
+## Page 39
+Implémentation des autres besoins
+
+## Page 40
+      Trois niveaux d’identification dans les systèmes
+
+
+   Clé primaire          Champ Name               Clé machine
+
+                                                                            L’identifiant interne généré
+  L’identifiant relationnel           Le champ principal de
+                                                            automatiquement par
+ créé explicitement dans          chaque table   Airtable  . Il
+                                                                          Airtable pour chaque
+   chaque table. Il est            étiquette l’enregistrement                                                                      enregistrement
+immuable, non significatif        pour l’humain et pilote les            (format recX 14). Il ne
+
+                                                            change jamais, même siet généré par le système;              listes déroulantes dans
+                                                                   tous les autres champs    c’est lui qui sert de            Softr et autre logiciel tiers. Il
+                                                                 sont modifiés et il est utilisé
+référence stable dans les           n’est pas nécessairement
+                                                                par les automatisations et
+     liens entre tables.                      unique.
+                                                                             les intégrations techniques.
+
+## Page 41
+  Nouvelle matière
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 42
+     Loi 25 —Données personnelles
+
+
+Comme les informations concernant vos clients conservés dans         Airtable sont des données
+
+personnelles selon la Loi   25, voici ce que  ça change    :
+
+
+  Consentement éclairé                       Droit à l’oubli
+
+   Obtenir l’accord explicite avant de collecter                Supprimer les données d’un client de votre
+
+   des données personnelles via Softr                            Airtable sur demande
+
+
+
+  Notification des incidents                  Responsable désigné
+
+   Signaler toute brèche à la Commission d’accès            Une personne dans l’organisation est
+
+  à l’information dans les délais                             imputable de la conformité
+
+
+   Votre formulaire Softr collecte nom, adresse, téléphone,      vous êtes donc assujetti dès maintenant!
+
+## Page 43
+    Pourquoi ça vous concerne    —en tant que gestionnaire
+
+
+                    Sanctions réelles pour non      -conformité
+ 25 M$         Toute brèche non déclarée ou traitement illégal expose directement
+      ou 4% du CA
+                               la direction
+
+
+                    Exigence dans tout projet de transformation numérique
+ Obligatoire
+                     Aucun déploiement Airtable    -Softr ne peut ignorer la conformité   dans tout projet TN
+
+                           légale
+
+
+
+                 Compétence différenciante sur le marché du travailDifférenciant
+       sur le marché
+                          Maîtriser la conformité numérique distingue le gestionnaire averti
+
+## Page 44
+   La triade CIA dans cet écosystème
+
+
+
+
+
+   Disponibilité                 Intégrité             Confidentialité
+
+
+Accès en tout temps             Données valides à l’entrée        Qui accède à quoi?
+
+Airtable est dans le cloud          Vos formulaires Softr               Rôles et permissions dans
+—mais une erreur de                valident les données                 Softr déterminent qui voit
+manipulation peut effacer          avant qu’elles entrent               quelles données clients
+une table entière                 dans Airtable
+
+## Page 45
+      Gestion du risque
+
+▪Les spécialistes  en TI peuvent interagir avec les experts en
+
+  cybersécurité et avec le business. Ils assurent les bonnes pratiques
+
+ pour le business et peuvent présenter les enjeux d’affaires aux gens
+
+ techniques.
+▪À la base. La cybersécurité, c’est de la gestion de risque.
+  ▪On a des menaces
+   ▪Des vulnérabilités
+   ▪Et des actifs
+  ▪Un risque est une menace   qui exploite une  vulnérabilité    pour atteindre un
+
+      actif
+
+## Page 46
+      Gestion du risque
+
+▪Un risque est une menace   qui exploite une  vulnérabilité    pour atteindre un
+
+  actif
+
+▪Pour identifier les risques, on imagine des scénarios qui combinent, une      menace    ,
+
+ une vulnérabilité     et un actif
+
+▪On évalue chaque scénario selon la probabilité qu’il se produise et l’impact des
+
+ dommages potentiels
+
+▪On tente de se protéger pour les scénarios avec un score supérieur à la tolérance
+
+ au risque
+
+▪Pour se protéger, on peut tenter de diminuer les      vulnérabilités     et de minimiser
+
+  les chances de  menaces   par la prévention    , l’identification  , la surveillance   , etc.
+
+## Page 47
+      Gestion des accès à l’aide de Softr
+
+
+
+▪Imaginons que nous poursuivions notre application et que nous concevions une
+
+  page pour ajouter des articles au menu, est     -ce que tous les employés utilisant
+
+  l’application devraient pouvoir ajouter un article au menu de notre pizzeria?
+
+    ▪Certainement pas! Il faut donc attribuer des rôles à chaque utilisateur et attribuer les accès
+
+      aux pages en fonction de ces rôles.
+
+▪Dans Softr , avec une licence Pro ou plus, nous pouvons même restreindre les
+
+  accès au niveau des blocs et même des champs en fonction des groupes
+
+  d’utilisateurs (rôles).
+
+## Page 48
+     Cyberhygiène    – Bonne pratiques à adopter
+
+
+
+Globalement, au quotidien
+
+▪Utiliser un antivirus et un anti  -maliciel à jour
+
+▪Naviguer sur le web et depuis les liens de courriels de façon sécuritaire
+
+
+
+Dans l’utilisation de  Airtable  et Softr , notamment
+
+▪Utiliser et gérer nos mots de passe de façon appropriée
+
+▪Sauvegarder régulièrement les données importantes
+
+▪Limiter les accès et privilèges aux seuls besoins nécessaires
+
+## Page 49
+  Application
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 50
+      Discussion en classe sur les enjeux de cybersécurité
+
+
+▪Utiliser l’IA pour comprendre   ces situations   :
+
+   ▪Groupe  1: Que s’est -il passé il y a quelques jours
+
+     à la CCQ, la commission de la construction du Québec?
+
+   ▪Groupe 2 : Existe -t-il de fausses attaques pour lesquelles des pirates tentent
+
+      d’extorquer des organisations?
+
+   ▪Groupe 2 : Qu’est -ce que la fraude du président?
+
+        ▪Est-ce que Juste pour Rire a eu une fraude    du président?
+
+   ▪Groupes  1 et 3: Quel est le lien entre la cyberattaque et la vente forcée de      Groupe
+
+     Colabor?
+
+   ▪Groupe 3 : Est-ce que des cyberattaques provoquent la      fermeture d’entreprises?
+
+## Page 51
+      Enjeux
+
+
+
+
+▪Une menace réelle pour toutes les organisations
+
+▪Peu avoir des impacts très importants
+
+▪On doit faire preuve de cyberhygiène et de cyberrésilience
+
+▪On est tous responsables de nos actions et des actions de      notre organisation
+
+## Page 52
+Restriction des accès aux pages sur Softr
+
+## Page 53
+  Synthèse
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Page 54
+    Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+
+               Données       Fonctions         Lieux       Personnes      Temps      Motivations
+                 Quoi?     Comment?        Où?           Qui?       Quand?       Pourquoi?
+
+
+                                                                                          Liste des                                             Liste des             Liste des objectifs
+Niveau                   Liste des entités        Liste des processus                                     Liste des unités                                                                                     localisations                              événements         stratégiques et des
+                                 d’affaires                 d’affaires                                            d’affaires
+contextuel                                                       géographiques                                         d’affaires            règles d’affaires
+
+
+Niveau                                         Processus            Localisations  des                            Événements                            Entités d’affaires                                                        Unités d’affaires                                Objectifs  d’affaires
+                                                             d’affaires                  unités                                             d’affairesconceptuel
+
+
+                                                      Application/
+Niveau                                                                                                 Événements                           Entité de données           système           Fonctions nodales      Rôles et interfaces                                      Critères
+logique                                         d’information                                                       système
+
+
+Niveau                Ligne (dans une         Algorithmes           Localisation  des                                                                                                                 Utilisateurs            Exécutions              Conditions
+                                  table)            programmés             système stechnique
+
+## Page 55
+      La suite du cours d’aujourd’hui dans la spécialisation
+
+
+
+
+
+▪TECH 20709      Poser un diagnostic et élaborer des solutions numériques
+
+▪TECH 20712      Créer et exploiter des bases de données
+
+▪TECH 20701      Protéger son organisation à l’ère du numérique
+
+## Page 56
+     Le cours d’aujourd’hui dans les évaluations
+
+
+
+▪Les notions portant sur les fonctions de recherches et leurs utilités seront évaluées
+
+  à l’examen intra et utilisées dans votre travail d’équipe #1
+
+▪Les notions portant sur la loi   25, la cybersécurité et la   cyberhygiène   seront
+
+  évaluées à l’examen intra
+
+▪Les manipulations sur   Airtable  et Softr seront utilisées dans votre travail d’équipe
+
+ #1
+
+## Page 57
+Les métiers impliqués dans le cours d’aujourd’hui
+
+## Page 58
+      Les autres spécialisations dans le cours d’aujourd’hui
+
+
+
+
+
+▪Marketing
+
+▪Gestion des opérations et de la logistique
+
+▪Comptabilité
+
+## Page 59
+    À faire pour la semaine prochaine
+
+
+
+
+
+▪Visionner les capsules vidéo du parcours d’apprentissage de la séance 6
+
+▪Avancer votre travail d’équipe #1

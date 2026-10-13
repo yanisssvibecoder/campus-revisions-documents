@@ -1,0 +1,130 @@
+## xl/worksheets/sheet1.xml
+A1: Atelier  | G1: Exercice utilisé pour le cours: 
+A2: Travail à faire - Étudiants | G2: Comptabilité de gestion
+A3: Imputation- Centres de coûts
+E5: Centres de coûts | N5: Processus de fabrication
+E6: Atelier mécanisé | G6: Atelier de finition | I6: TOTAL | M6: Centre de coût 1: | O6: ATELIER MÉCANISÉ
+C7: FGF Variables | M7: Remplissage | Q7: Emballage
+C8: Maintenance (pièces, huile) | E8: 40000 | G8: 0 | I8: 40000 [formule : E8+G8] | M8: Robe noire | Q8: Robe noire
+C9: Électricité | E9: 15000 | G9: 5000 | I9: 20000 [formule : E9+G9] | M9: Fall Flower
+C10: Outillage pour la finition  | E10: 0 | G10: 105000 | I10: 105000 [formule : None]
+C11: (colle, outillages,rubans, etc.) | E11: 55000 [formule : SUM(E8:E10)] | G11: 110000 [formule : SUM(G8:G10)] | I11: 165000 [formule : None] | M11: Centre de coût 2: | O11: ATELIER DE FINITION
+C12: FGF fixes | M12: Remplissage | Q12: Finition
+C13: Loyer | E13: 232000 | G13: 144000 | I13: 376000 [formule : None] | Q13: Fall Flower
+C14: Amortissement- machine de remplissage | E14: 1500100 | G14: 0 | I14: 1500100 [formule : None] | M14: Abeille | Q14: Abeille
+C15: MOI - Salaire maintenance | E15: 265000 | G15: 0 | I15: 265000 [formule : None]
+C16: MOI - Salaire superviseur | E16: 100000 | G16: 140000 | I16: 240000 [formule : None]
+C17: Assurances et taxes | E17: 48000 | G17: 6000 | I17: 54000 [formule : None]
+C18: Total FGF fixes | E18: 2145100 [formule : SUM(E13:E17)] | G18: 290000 [formule : SUM(G13:G17)] | I18: 2435100 [formule : None]
+C20: Total FGF | E20: 2200100 [formule : E11+E18] | G20: 400000 [formule : G11+G18] | I20: 2600100 [formule : I11+I18]
+C21: Base d'imputation | E21: Heures machine | G21: Heures de MOD
+A23: Plusieurs centres coûts
+A24: Travail à faire : Calculez le taux d'imputation par centre de coûts et imputez les FGF à chaque produit.      Ne pas arrondir ! Faire les calculs directement dans le chiffrier Excel.
+C26: Voici des données supplémentaires concernant la production du dernier exercice:
+C27: Produits | E27: Robe noire | G27: Fall Flower | I27: Abeille
+C28: Nombre d'unité à produire | E28: 400000 [formule : Divers!H2] | G28: 15000 [formule : Divers!I2] | I28: 50 [formule : Divers!J2]
+C29: Heures-machine - Atelier mécanisé | E29: 3.0000000000000001E-3 [formule : 'Révision 1 taux'!E34] | G29: 1E-3 [formule : 'Révision 1 taux'!G34] | I29: 0 [formule : Divers!J23]
+C30: Heures MOD -Atelier mécanisé | E30: 0.01 [formule : Divers!H4] | G30: 0.01 | I30: -
+C31: Heures MOD -Atelier finition | E31: - | G31: 0.25 | I31: 2.5
+C34: Total | E34: Robe noire [formule : E27] | G34: Fall Flower [formule : G27] | I34: Abeille [formule : I27] | K34: TOTAL | M34: Indice: pensez au processus de fabrication. 
+C35: Heures-machine - Atelier Mécanisé | K35: 0 [formule : SUM(E35:I35)]
+C36: Heures de MOD- Atelier finition | K36: 0 [formule : SUM(E36:I36)] | M36: Est-ce que le produit passe par ce centre de coûts?
+C38: Centre de coûts | E38: Atelier mécanisé [formule : E6] | G38: Atelier de finition [formule : G6]
+C40: Total FGF par centre de coûts | E40: 2200100 [formule : E20] | G40: 400000 [formule : G20]
+C41: Base d'imputation | E41: Heures machine [formule : E21] | G41: Heures de MOD [formule : G21]
+C42: Total de la base d'imputation
+C44: Taux d'imputation
+E46:  [formule : Divers!E10] | G46:  [formule : Divers!E11]
+C48: Frais généraux de fabrication- Centre | E48: Robe noire [formule : E34] | G48: Fall Flower [formule : G34] | I48: Abeille [formule : I34]
+C49: Atelier mécanisé [formule : E38]
+C50: Atelier de finition [formule : G38]
+C51: TOTAL des FGF unitaires
+E53:  [formule : Divers!E12] | G53:  [formule : Divers!E13] | I53:  [formule : Divers!E14]
+C55: Produits | E55: Robe noire [formule : E48] | G55: Fall Flower [formule : G48] | I55: Abeille [formule : I48]
+C57: Matières premières | E57: 5 [formule : 'Révision 1 taux'!E43] | K57: Indice ! Les coûts de MP et de MOD ne changent pas. 
+C58: Main d'œuvre directe | E58: 0.3 [formule : 'Révision 1 taux'!E44]
+C59: Frais généraux de fabrication unitaire | K59: La méthode d'imputation impacte seulement le calcul des FGF
+C60: Coût de fabrication unitaire | E60: 5.3 [formule : SUM(E57:E59)] | K60: Comparer les coûts de fabrication d'une méthode à l'autre. (1 centre vs plusieurs centres)
+E62:  [formule : Divers!E15] | G62:  [formule : Divers!E16] | I62:  [formule : Divers!E17]
+## xl/worksheets/sheet2.xml
+B1: Atelier  | H1: Exercice utilisé pour le cours: 
+B2: Travail à faire - Étudiants | H2: Comptabilité de gestion
+B3: Imputation- Centres de coûts
+A6: Un seul centre de coûts
+A7: Objectif du calcul: Répartir le montant FGF total aux différents produits.
+A8: Travail à faire: Calculez le taux d'imputation et imputer les FGF sachant que les frais généraux de fabrication totaux sont de :
+Faire les calculs dans le fichier Excel, ne pas arrondir. | K8: 2600100 [formule : Divers!K11]
+A10: Scénario 1 : Calculer les coûts de fabrication unitaire en utilisant le nombre d'unités fabriqués comme base d'imputation 
+A12: Base d'imputation : nombre d'unités fabriquées | E12: Robe noire [formule : E55] | G12: Fall Flower [formule : G55] | I12: Abeille [formule : I55]
+C13: Nombre d'unités fabriqués | E13: 400000 [formule : Divers!H2] | G13: 15000 [formule : Divers!I2] | I13: 50 [formule : Divers!J2]
+A15: Calcul du taux d'imputation | C15:     FGF totaux     | F15: = | I15: Taux d'imputation  
+par unité
+C16: Nombre d'unités fabriqués
+C19: Produits | E19: Robe noire [formule : E12] | G19: Fall Flower [formule : G63] | I19: Abeille [formule : I63]
+C21: Matières premières | E21: 5 [formule : E65] | G21: 20 [formule : G65] | I21: 100 [formule : I65]
+C22: Main d'œuvre directe | E22: 0.3 [formule : E66] | G22: 15.3 [formule : G66] | I22: 150 [formule : I66]
+C23: Frais généraux de fabrication | G23: 6.26 | I23: 6.26 | K23: As-tu remarqué? On a alloué le même montant à chacun des produits. 
+C24: Coût de fabrication unitaire | E24: 5.3 [formule : SUM(E21:E23)] | I24: 256.26 [formule : SUM(I21:I23)]
+E26:  [formule : Divers!E20] | G26:  [formule : Divers!E21]
+A28: Scénario 2 : Calculer les coûts de fabrication unitaire en utilisant les heures-machines comme base d'imputation 
+A30: Base d'imputation : Heures machine
+C31: Produits | E31: Robe noire | G31: Fall Flower | I31: Abeille | K31: TOTAL
+C33: Nombre d'unité à produire | E33: 400000 | G33: 15000 | I33: 50 | K33: 415050 [formule : E33+G33+I33]
+C34: Heures machine par unité | E34: 3.0000000000000001E-3 | G34: 1E-3 | I34: 0 | K34: n/a
+C35: Heures machine totale | M35:  [formule : Divers!E2] | N35: Surveillez les cases vertes pour des points de contrôle.
+B37: Calcul du taux d'imputation | G37: Taux d'imputation par heure machine
+C38:     FGF totaux     | F38: = | I38:  [formule : Divers!E3]
+C39: Heures-machine totales
+C41: Produits | E41: Robe noire [formule : E31] | G41: Fall Flower [formule : G31] | I41: Abeille [formule : I31]
+C43: Matières premières | E43: 5 | G43: 20 | I43: 100
+C44: Main d'œuvre directe | E44: 0.3 [formule : E56*30] | G44: 15.3 [formule : 0.01*30+0.25*60] | I44: 150 [formule : I56*60]
+C45: Frais généraux de fabrication | I45: 0 | K45: Utiliser le taux d'imputation pour calculer le coût unitaire des FGF
+C46: Coût de fabrication unitaire | E46: 5.3 [formule : SUM(E43:E45)] | G46: 35.299999999999997 [formule : SUM(G43:G45)]
+E48:  [formule : Divers!E4] | G48:  [formule : Divers!E5] | I48:  [formule : Divers!E6]
+A53: Scénario 3 : Calculer les coûts de fabrication unitaire en utilisant les heures de MOD comme base d'imputation 
+A55: Base d'imputation : Heures de MOD | E55: Robe noire [formule : E31] | G55: Fall Flower [formule : G31] | I55: Abeille [formule : I31]
+C56: Heures de main d'œuvre directe par unité | E56: 0.01 | G56: 0.26 | I56: 2.5
+C57: Heures de main d'œuvre directe totale | E57: 4000 [formule : E56*E33] | G57: 3900 [formule : G56*G33] | I57: 125 [formule : I56*I33]
+A59: Calcul du taux d'imputation | C59:     FGF totaux     | F59: = | I59: Taux d'imputation  
+par heure de mod
+C60: Heures MOD totale
+C63: Produits | E63: Robe noire [formule : E41] | G63: Fall Flower [formule : G41] | I63: Abeille [formule : I41]
+C65: Matières premières | E65: 5 [formule : E43] | G65: 20 [formule : G43] | I65: 100 [formule : I43]
+C66: Main d'œuvre directe | E66: 0.3 [formule : E44] | G66: 15.3 [formule : G44] | I66: 150 [formule : I44]
+C67: Frais généraux de fabrication | G67: 84.240000000000009 [formule : Divers!I17]
+C68: Coût de fabrication unitaire | E68: 5.3 [formule : SUM(E65:E67)] | I68: 250 [formule : SUM(I65:I67)]
+E70:  [formule : Divers!E7] | G70:  [formule : Divers!E8] | I70:  [formule : Divers!E9]
+A76: Question de réflexion : Pourquoi est-ce que le coût de fabrication est différent dans chaque scénario?
+## xl/worksheets/sheet3.xml
+A1: Réponse des étudiants | B1: Bonne réponse | C1: Marge de tolérance | D1: Binaire | E1: Message | H1: Robe noire [formule : 'Révision 1 taux'!E31] | I1: Fall Flower [formule : 'Révision 1 taux'!G31] | J1: Abeille [formule : 'Révision 1 taux'!I31] | K1: Total
+A2: 0 [formule : 'Révision 1 taux'!K35] | B2: 1215 [formule : K6] | C2: 0.01 | D2: 0 [formule : IF(ISNUMBER(A2),IF(ABS(A2-B2)<=C2,1,0),0)] | E2:  [formule : IF(D2=1,"Bon calcul, continue !","")] | G2: Unités | H2: 400000 [formule : 'Révision 1 taux'!E33] | I2: 15000 [formule : 'Révision 1 taux'!G33] | J2: 50 [formule : 'Révision 1 taux'!I33] | K2: 415050 [formule : SUM(H2:J2)]
+A3: 0 [formule : 'Révision 1 taux'!G38] | B3: 2140 [formule : K13] | C3: 0.01 | D3: 0 [formule : None] | E3:  [formule : IF(D3=1,"Bravo!","")] | G3: Heures machine | H3: 3.0000000000000001E-3 [formule : 'Révision 1 taux'!E34] | I3: 1E-3 [formule : 'Révision 1 taux'!G34] | J3: 0 [formule : 'Révision 1 taux'!I34]
+A4: 0 [formule : 'Révision 1 taux'!E45] | B4: 6.42 [formule : H11] | C4: 0.01 | D4: 0 [formule : None] | E4:  [formule : IF(D4=1,"WOW !","")] | G4: Heures de MOD | H4: 0.01 [formule : 'Révision 1 taux'!E56] | I4: 0.26 [formule : 'Révision 1 taux'!G56] | J4: 2.5 [formule : 'Révision 1 taux'!I56]
+A5: 0 [formule : 'Révision 1 taux'!G45] | B5: 2.14 [formule : I11] | C5: 0.01 | D5: 0 [formule : None] | E5:  [formule : IF(D5=1,"Incroyable !","")]
+A6: 0 [formule : 'Révision 1 taux'!I46] | B6: 250 [formule : J12] | C6: 0.01 | D6: 0 [formule : None] | E6:  [formule : IF(D6=1,"Super !","")] | G6: Heures machine total | H6: 1200 [formule : H2*H3] | I6: 15 [formule : I2*I3] | J6: 0 [formule : None] | K6: 1215 [formule : SUM(H6:J6)]
+A7: 0 [formule : 'Révision 1 taux'!E67] | B7: 3.24 [formule : H17] | C7: 0.01 | D7: 0 [formule : None] | E7:  [formule : IF(D7=1,"Génial!","")] | G7: Heures MOD total | H7: 4000 [formule : H4*H2] | I7: 3900 [formule : I4*I2] | J7: 125 [formule : J4*J2] | K7: 8025 [formule : SUM(H7:J7)]
+A8: 0 [formule : 'Révision 1 taux'!G68] | B8: 119.54 [formule : I18] | C8: 0.01 | D8: 0 [formule : None] | E8:  [formule : IF(D8=1,"Fabuleux!","")] | G8: Coût fabrication (base heures-machine)
+A9: 0 [formule : 'Révision 1 taux'!I67] | B9: 810 [formule : J17] | C9: 0.01 | D9: 0 [formule : None] | E9:  [formule : IF(D9=1,"C'est bon!","")] | G9: MP | H9: 5 [formule : 'Révision 1 taux'!E43] | I9: 20 [formule : 'Révision 1 taux'!G43] | J9: 100 [formule : 'Révision 1 taux'!I43] | K9: 2305000 [formule : (H9*H$2)+(I9*I$2)+(J9*J$2)]
+A10: 0 [formule : 'Activité '!E44] | B10: 1810.7818930041153 [formule : K32] | C10: 0.01 | D10: 0 [formule : IF(ISNUMBER(A10),IF(ABS(A10-B10)<=C10,1,0),0)] | E10:  [formule : IF(D10=1,"Épatant","")] | G10: MOD | H10: 0.3 [formule : 'Révision 1 taux'!E44] | I10: 15.3 [formule : 'Révision 1 taux'!G44] | J10: 150 [formule : 'Révision 1 taux'!I44] | K10: 357000 [formule : None]
+A11: 0 [formule : 'Activité '!G44] | B11: 103.2258064516129 [formule : K33] | C11: 0.01 | D11: 0 [formule : IF(ISNUMBER(A11),IF(ABS(A11-B11)<=C11,1,0),0)] | E11:  [formule : IF(D11=1,"Bon travail!","")] | G11: FGF (HM) | H11: 6.42 [formule : $K$13*H3] | I11: 2.14 [formule : $K$13*I3] | J11: 0 [formule : $K$13*J3] | K11: 2600100
+A12: 0 [formule : 'Activité '!E51] | B12: 5.4323456790123457 [formule : H29] | C12: 0.01 | D12: 0 [formule : None] | E12:  [formule : IF(D12=1,"Excellent!","")] | G12: Coût total | H12: 11.719999999999999 [formule : SUM(H9:H11)] | I12: 37.44 [formule : SUM(I9:I11)] | J12: 250 [formule : None] | K12: 5262100 [formule : (H12*H$2)+(I12*I$2)+(J12*J$2)]
+A13: 0 [formule : 'Activité '!G51] | B13: 27.61723350590734 [formule : (I29+I30)] | C13: 0.01 | D13: 0 [formule : None] | E13:  [formule : IF(D13=1,"Juste Parfait!","")] | G13: Taux imputation machine | K13: 2140 [formule : K11/K6]
+A14: 0 [formule : 'Activité '!I51] | B14: 258.06451612903226 [formule : J30] | C14: 0.01 | D14: 0 [formule : None] | E14:  [formule : IF(D14=1,"Bravo !","")] | G14: Coût fabrication (base heures-MOD)
+A15: 0 [formule : 'Activité '!E59] | B15: 5.4323456790123457 [formule : H29] | C15: 0.01 | D15: 0 [formule : IF(ISNUMBER(A15),IF(ABS(A15-B15)<=C15,1,0),0)] | E15:  [formule : IF(D15=1,"C'est bon !","")] | G15: MP | H15: 5 [formule : H9] | I15: 20 [formule : None] | J15: 100 [formule : None] | K15: 2305000 [formule : (H15*H$2)+(I15*I$2)+(J15*J$2)]
+A16: 0 [formule : 'Activité '!G60] | B16: 62.917233505907333 [formule : I31] | C16: 0.01 | D16: 0 [formule : None] | E16:  [formule : IF(D16=1,"Bravo !","")] | G16: MOD | H16: 0.3 [formule : None] | I16: 15.3 [formule : None] | J16: 150 [formule : None] | K16: 357000 [formule : None]
+A17: 0 [formule : 'Activité '!I60] | B17: 508.06451612903226 [formule : J31] | C17: 0.01 | D17: 0 [formule : None] | E17:  [formule : IF(D17=1,"Presque terminé !","")] | G17: FGF(MOD) | H17: 3.24 [formule : $K$19*H4] | I17: 84.240000000000009 [formule : $K$19*I4] | J17: 810 [formule : $K$19*J4] | K17: 2600100 [formule : K11]
+A18: 0 [formule : 'Révision 1 taux'!E23] | B18: 0 [formule : 'Révision 1 taux'!G15] | C18: 0.01 | D18: 1 [formule : None] | E18: Très bien [formule : IF(D18=1,"Très bien","")] | G18: Coût total | H18: 8.5399999999999991 [formule : SUM(H15:H17)] | I18: 119.54 [formule : SUM(I15:I17)] | J18: 1060 [formule : None]
+A19: 0 [formule : 'Révision 1 taux'!G24] | B19: 41.559999999999995 [formule : 'Révision 1 taux'!G21+'Révision 1 taux'!G22+'Révision 1 taux'!G23] | C19: 0.01 | D19: 0 [formule : None] | E19:  [formule : IF(D19=1,"Presque terminé !","")] | G19: Taux imputation MOD | K19: 324 [formule : K11/K7]
+A20: 0 [formule : 'Révision 1 taux'!E23] | B20: 6.2645464401879289 [formule : K11/K2] | C20: 0.01 | D20: 0 [formule : None] | E20:  [formule : IF(D20=1,"Ca y est !","")]
+A21: 0 [formule : 'Révision 1 taux'!G24] | B21: 41.559999999999995 [formule : 'Révision 1 taux'!G21+'Révision 1 taux'!G22+'Révision 1 taux'!G23] | C21: 0.01 | D21: 0 [formule : None] | E21:  [formule : IF(D21=1,"Bon calcul","")] | H21: Robe noire [formule : H1] | I21: Fall Flower [formule : I1] | J21: Abeille [formule : None]
+G22: Plusieurs centres | K22: TOTAL
+G23: Centre 1: H-M | H23: 3.0000000000000001E-3 [formule : H3] | I23: 1E-3 [formule : I3] | J23: 0 [formule : J3] | K23: 1215 [formule : (H23*H2)+(I2*I23)]
+G24: Centre 2 : HMOD | H24: 0 | I24: 0.25 | J24: 2.5 | K24: 3875 [formule : (I24*I2)+(J2*J24)]
+G26: Coût de fabrication unitaire
+G27: MP | H27: 5 [formule : H9] | I27: 20 [formule : None] | J27: 100 [formule : None]
+G28: MOD | H28: 0.3 [formule : None] | I28: 15.3 [formule : None] | J28: 150 [formule : None]
+G29: FGF C1 | H29: 5.4323456790123457 [formule : H23*K32] | I29: 1.8107818930041153 [formule : I23*K32] | J29: 0
+G30: FGF C2 | H30: 0 | I30: 25.806451612903224 [formule : I24*K33] | J30: 258.06451612903226 [formule : J24*K33]
+H31: 10.732345679012345 [formule : H27+H28+H29+H30] | I31: 62.917233505907333 [formule : I27+I28+I29+I30] | J31: 508.06451612903226 [formule : J27+J28+J29+J30]
+G32: Taux imputation C1 | K32: 1810.7818930041153 [formule : 'Activité '!E20/Divers!K23]
+G33: Taux imputation C2 | K33: 103.2258064516129 [formule : 'Activité '!G20/Divers!K24]

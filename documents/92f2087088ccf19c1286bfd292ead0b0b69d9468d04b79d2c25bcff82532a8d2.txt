@@ -1,0 +1,5 @@
+TP 3 - Évaluation de projets
+
+TP 3 - Évaluation de projets.pdf
+TP 3 - Évaluation de projets (Solution)
+NB: Dans ce TP, on applique l'ancienne formule de la VAEIACC, soit (C*d*t /(r+d))*((1+1,5r)/(1+r)). Maintenant, la formule de la VAEIACC est uniquement C*d*t/(r+d).

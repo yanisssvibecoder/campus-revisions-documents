@@ -1,0 +1,3 @@
+noArticle	nomArticle	prixArticle	tailleArticle	noType
+1	Pizza toute garnie	12	Petite	2
+2	Soda au gingembre en cannette	2		4

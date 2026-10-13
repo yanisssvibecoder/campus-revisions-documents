@@ -1,0 +1,411 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+La gestion de la capacité et l’organisation du travail
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+
+
+Personnes
+nombre/ apprentissage
+
+Ressources
+Matières et machines
+Qualité, quantité
+
+Processus
+parallèle/séquentiel
+
+La gestion de la capacité
+
+Gestion de la capacité
+
+## Diapositive 4
+
+
+
+
+
+
+
+Capacité conception
+
+Capacité réelle
+
+Production réelle
+
+Distinction entre trois mesures :
+
+Deux ratios utilisés :
+
+
+
+
+
+Écart = Arrêts et changements prévus et contrôlés (ex: repas, mise en route)
+
+Écart = Arrêts et changements imprévus et incontrôlables (ex: bris, absentéisme)
+
+Autres notions utiles
+
+## Diapositive 5
+
+Facteurs déterminants de la capacité
+
+Le temps de réalisation
+Nombre de ressources (humaines et équipements)
+Arrêts ou ralentissements possibles
+Nombre d’heures travaillées
+Gamme de produits et taille des lots fabriqués
+Processus de transformation
+Phénomène d’apprentissage
+
+
+
+
+## Diapositive 6
+
+Facteurs déterminants de la capacité
+
+6) Processus de transformation :
+Des problèmes peuvent survenir s’il existe un écart entre la capacité des machines ou les exigences des tâches.
+Un système est en équilibre lorsque l’extrant de chaque étape fournit exactement le volume d’intrants requis par l’opération suivante, faute de quoi se crée un goulot d’étranglement. 
+La capacité du goulot fixe la capacité réelle totale.
+
+Mouler
+10 min.
+
+Couper
+10 min.
+
+Peinturer
+20 min.
+
+Assembler
+15 min.
+
+Quel est le goulot d’étranglement dans l’exemple ci-dessous?
+
+3/hre
+
+6/hre
+
+6/hre
+
+
+
+3/hre
+
+
+
+## Diapositive 7
+
+Facteurs déterminants de la capacité
+
+7) Phénomène d’apprentissage :
+
+Généralement, la capacité d’un système s’accroît dans le temps, car l’être humain apprend constamment et améliore sa productivité.
+
+Apprentissage autonome : Par la pratique sur une longue période. Dépend de chaque individu (habiletés, expérience, motivation)
+
+Apprentissage induit : Effet conscient des gestionnaires pour l’amélioration continue (formation, mentorat, outils, méthodes)
+
+
+
+
+
+
+
+## Diapositive 8
+
+Le phénomène d’apprentissage : Le principe
+
+« À chaque doublement du volume de production d’un produit, le temps de main-d’œuvre requis pour la dernière unité diminue d’un taux constant »
+
+## Diapositive 9
+
+
+
+
+
+
+
+Temps requis / unité
+
+Nombre d’unités produites
+
+1
+
+2
+
+4
+
+8
+
+100
+
+80
+
+64
+
+51.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coefficient d’apprentissage de 80 %
+
+
+
+
+
+
+
+
+
+
+
+double     double        double
+
+Y1                       = 100
+
+Y2 = 80 % X 100 =   80
+Y3                        =  70,21
+Y4 = 80 % X 80   =   64
+Y5                        =  59,56
+
+Y 1 à 5                 = 373,8
+
+
+
+
+
+Le phénomène d’apprentissage : La courbe d’apprentissage
+
+## Diapositive 10
+
+La courbe d’apprentissage
+
+
+
+10
+
+## Diapositive 11
+
+La courbe d’apprentissage
+
+25/06/26
+
+
+
+11
+
+
+Nombre
+d’unités produites | Coefficients d’apprentissage  | 
+
+ | 90 % | 75 %
+
+ | Temps d’exécution | Temps d’exécution
+
+1 | 10 000 | 10 000
+
+2 | 10 000 x 0,9 = 9 000 | 10 000 x 0,75 = 7 500
+
+4 | 9 000 x 0,9 = 8 100 | 7 500 x 0,75 = 5 625
+
+8 | 8 100 x 0,9 = 7 290 | 5 625 x 0,75 = 4 219
+
+16 | 7 290 x 0,9 = 6 561 | 4 219 x 0,75 = 3 164
+
+32 | 6 561 x 0,9 = 5 905 | 3 164 x 0,75 = 2 373
+
+## Diapositive 12
+
+Exemple
+
+Deux équipes de maintenance font donc régulièrement le tour de l’équipement afin d’assurer son bon fonctionnement. 
+ 
+L’équipe A a mis 8,5 heures à compléter son 1er cycle de maintenance et 6,14 heures pour compléter son 4e cycle. Pour sa part, l’équipe B a mis 7,2 heures à compléter son 3e cycle et 6,48 heures pour compléter son 6e cycle. 
+
+Déterminez :
+Laquelle des deux équipes apprend le plus vite? Justifiez votre réponse à l’aide d’un calcul approprié.
+Nommez deux actions concrètes que pourrait prendre la direction pour faciliter l’apprentissage de ses équipes de maintenance. 
+
+
+## Diapositive 13
+
+Solution
+
+## Diapositive 14
+
+Carte conceptuelle
+
+## Diapositive 15
+
+Objectif : Éliminer toute opération inutile et développer la méthode la plus rapide, la plus efficace et la plus sécuritaire dans l’exécution de cette tâche en vue d’élever la productivité :
+Éliminer les mouvements superflus;
+Combiner des activités;
+Réduire la fatigue;
+Améliorer la disposition des lieux de travail;
+Améliorer la conception des outils et du matériel.
+
+Principe : 
+Accroître la productivité, non pas en travaillant plus, mais en faisant mieux travailler!
+
+L’organisation du travail
+
+## Diapositive 16
+
+L’organisation du travail
+
+## Diapositive 17
+
+Ensemble des techniques qui sont utilisées pour l’examen du travail effectué par l’humain, quel qu’en soit le contexte, et impliquant l’analyse de tous les facteurs affectant l’efficacité et l’efficience de la situation étudiée, afin d’obtenir une amélioration.
+
+Frederick W. Taylor
+The Principles of Scientific Management (1919, p. 21)
+
+Frank and Lillian Gilbreth
+
+« Le plus grand gaspillage au monde provient de mouvements inutiles et inefficaces »
+
+Étude du travail
+
+## Diapositive 18
+
+EfficienceAtteindre les objectifs de la manière la plus économique. Bien faire les choses
+
+Efficacité
+Capacité d’atteindre les objectifs de manière continue. Faire les bonnes choses 
+
+Efficience vs. Efficacité
+
+## Diapositive 19
+
+Graphique d’opérations
+
+Les symboles proposés par l’American Society 
+of Mechanical Engineers :
+
+## Diapositive 20
+
+Graphique de déroulement et de cheminement
+
+## Diapositive 21
+
+Planifier la production;
+Déterminer les coûts standards;
+Déterminer le prix de revient;
+Mesurer la performance d’une ressource ou d’un groupe de ressources;
+Déterminer la capacité de production;
+Équilibrer les tâches.
+
+
+Mesure du travail
+
+Déterminer les temps requis pour traiter les unités de production à chacune des étapes du processus afin d’être en mesure de :
+
+## Diapositive 22
+
+Mesure du travail : Comment mesurer le travail?
+
+## Diapositive 23
+
+1. Méthode des temps prédéterminés
+
+Permet la reconstitution des temps nécessaires aux mouvements à analyser à l’aide de tables.
+Permet de déterminer le temps nécessaire à une opération sans avoir à faire des observations.
+Permet de concevoir des méthodes de travail pour un travail qui n’a jamais été fait et d’estimer avec précision le temps requis pour l’exécuter. 
+
+25/06/26
+
+
+
+23
+
+Table REACH (atteindre)
+
+Développée dans les années 1940 par le “Methods Engineering Council”.
+
+
+## Diapositive 24
+
+2. Méthode des observations instantanées
+
+Méthode par échantillonnage qui consiste à observer le travail à des instants répartis au hasard dans le temps et à analyser la proportion des observations correspondant à chacune des activités étudiées. 
+Permet de déduire la fréquence ou la durée de chacune des activités par rapport à la fréquence ou durée totale de l’ensemble.
+Exemple : page 357
+
+## Diapositive 25
+
+TN = TOM  FA/100
+
+TS = TN  (1 + Maj)
+Maj : majorations exprimées en %
+
+
+Temps observés moyens (TOM)
+
+Facteur d’allure (FA)
+
+Temps  normalisé (TN)  
+	    (ou temps de base)
+
+Majorations (Maj)
+
+Temps standard (TS)
+
+
+
+
+
+
+
+
+
+3. Chronométrage : Calcul des TN et TS
+
+## Diapositive 26
+
+ExempleFraisage  d’une pièce
+
+25/06/26
+
+
+
+26
+
+26
+
+Exemple du livre, page 383
+
+Temps standard total :
+4,47 minutes
+
+## Diapositive 27
+
+ExempleL’embossage du saucisson
+
+## Diapositive 28
+
+Questions…

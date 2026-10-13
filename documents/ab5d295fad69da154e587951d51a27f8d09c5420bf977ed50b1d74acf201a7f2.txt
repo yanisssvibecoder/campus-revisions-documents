@@ -1,0 +1,25 @@
+10.3 | Activités/ressources APRÈS la séance
+
+Séance 10
+Exercices :
+Livre Gestion financière, 5e édition
+Chapitre 14 (pages 464-468)
+:
+Exercices: 1, 2, 5, 6, 7, 9, 10, 14, 15, 16, 17, 21, 23, 24
+Attention, nous travaillaons de façon effectif et non nominale. Ainsi, pour les obligations, on doit utiliser le RAE effectif ((1+RAE semestriel)^2 - 1) dans le calcul du CMPC.
+Les frais d'émission ne sont pas matière à examen
+. Vous n'avez pas à faire ces exercices.
+Livre Gestion financière, 4e édition
+Chapitre 14 (pages 492-495)
+:
+Exercices: 1, 2, 4, 5, 6, 7, 9, 10, 11, 14, 15, 16, 17, 20, 22, 23
+Erreurs dans le solutionnaire:
+Exercices 14.6 et 14.7: Dans la solution, ils calculent le coût de la dette de façon nominale (RAE semestriel x 2). Notez que dans notre cours, nous calculons le CMPC de façon effective et non nominale. Il faudrait donc faire (1+RAE semestriel)^2 - 1.
+Exercice 14.14 b) : La bonne réponse est 12,20 % et non 15,18 %.
+Les frais d'émission ne sont pas matière à examen
+. Vous n'avez pas à faire ces exercices.
+Autres exercices :
+Exercice Cap Genius.pdf
+Solution Cap Genius
+Exercice - Ernesto inc.docx
+Exercice Ernesto - solution.pptx

@@ -1,0 +1,81 @@
+Solution – PDP – Rollem, page 219
+Question 1
+Planification sommaire des capacités (en unités équivalentes)
+Plans finaux
+Planification sommaire des capacités (en unités équivalentes)
+2)	Le service des ventes vous avise qu’une commande de 600 unités du Tout-Terrain prévue pour la semaine 5 vient d’être annulée. Quel sera l’impact de cette annulation sur le stock projeté ainsi que sur le stock disponible à la vente?
+Il n’y aura aucun changement au stock projeté puisqu’à la période 5, on utilisera les prévisions dans notre calcul. Il y aura 600 unités de plus disponibles à la période 5 (on passe de 200 à 800 unités disponibles à la vente). 
+Période | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+Produit |  | 4 000 |  | 2 000 | 2 000 | 2 000 |  | 
+Urbain (2 u.é.) |  | 4 000 |  | 2 000 | 2 000 | 2 000 |  | 
+Produit | 1 500 |  | 1 500 | 1 500 |  | 1 500 | 1 500 | 
+Citadin (1,5 u.é.) | 1 500 |  | 1 500 | 1 500 |  | 1 500 | 1 500 | 
+Produit |  |  | 3 000 | 3 000 |  | 6 000 | 3 000 | 
+Tout-Terrain (1,5 u.é.) |  |  | 3 000 | 3 000 |  | 6 000 | 3 000 | 
+Total
+ | 1 500
++ 3 500 | 4 000
++ 1 000 | 4 500
++ 500 | 6 500
+(1 500) | 2 000
++ 4 000 | 9 500
+(3 500) | 4 500
++ 1 500 | 
+Produit | Taille de lot | Taille de lot | Stock | Stock | Stock | Délai | Délai | U.É. | U.É. | U.É.
+Urbain | X 1 000 | X 1 000 | 3 000 | 3 000 | 3 000 | 2 | 2 | 2 | 2 | 2
+Période | Période | 1 | 1 | 2 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 8
+Prévisions | Prévisions | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800 | 800
+Commandes acceptées | Commandes acceptées | 1 400 | 1 400 | 800 | 600 | 600 | 1 200 | 1 200 | 600 | 200 | 200 | 800 | 600
+Stock projeté | Stock projeté | 1 600 | 1 600 | 800 | 0 | 0 | 800 | 800 | 0 | 200 | 200 | 1 400 | 600
+Stock disponible à la vente | Stock disponible à la vente | 200 | 200 |  |  |  | 200 | 200 |  | 800 | 800 | 600 | 
+Réceptions planifiées | Réceptions planifiées |  |  |  |  |  | 2 000 | 2 000 |  | 1 000 | 1 000 | 2 000 | 
+Lancements planifiés | Lancements planifiés |  |  | 2 000 |  |  | 1 000 | 1 000 | 2 000 |  |  |  | 
+Produit | Taille de lot | Taille de lot | Stock | Stock | Stock | Délai | Délai | U.É. | U.É. | U.É.
+Citadin | X 1 000 | X 1 000 | 1 000 | 1 000 | 1 000 | 1 | 1 | 1,5 | 1,5 | 1,5
+Période | Période | 1 | 1 | 2 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 8
+Prévisions | Prévisions | 600 | 600 | 600 | 600 | 600 | 600 | 600 | 600 | 600 | 600 | 600 | 600
+Commandes acceptées | Commandes acceptées | 400 | 400 | 200 | 600 | 600 | 800 | 800 | 700 | 400 | 400 | 800 | 400
+Stock projeté | Stock projeté | 400 | 400 | 1 800 | 1 200 | 1 200 | 1 400 | 1 400 | 700 | 1 100 | 1 100 | 300 | 700
+Stock disponible à la vente | Stock disponible à la vente | 600 | 600 | 500
+1 200 |  |  | 0
+500 | 0
+500 |  | 0
+200 | 0
+200 |  | 600
+Réceptions planifiées | Réceptions planifiées |  |  | 2 000 |  |  | 1 000 | 1 000 |  | 1 000 | 1 000 |  | 1 000
+Lancements planifiés | Lancements planifiés | 2 000 | 2 000 |  | 1 000 | 1 000 |  |  | 1 000 |  |  | 1 000 | 
+Produit | Taille de lot | Taille de lot | Stock | Stock | Stock | Délai | Délai | U.É. | U.É. | U.É.
+Tout-Terrain | X 2 000 | X 2 000 | 4 000 | 4 000 | 4 000 | 1 | 1 | 1,5 | 1,5 | 1,5
+Période | Période | 1 | 1 | 2 | 3 | 3 | 4 | 4 | 5 | 6 | 6 | 7 | 8
+Prévisions | Prévisions | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000
+Commandes acceptées | Commandes acceptées | 2 000 | 2 000 | 1 000 | 800 | 800 | 2 000 | 2 000 | 1 000 | 800 | 800 | 3 000 | 2 000
+Stock projeté | Stock projeté | 2 000 | 2 000 | 1 000 | 0 | 0 | 0 | 0 | 1 000 | 0 | 0 | 1 000 | 1 000
+Stock disponible à la vente | Stock disponible à la vente | 200 | 200 |  |  |  | 0 | 0 | 200 |  |  | 1 000 | 0
+Réceptions planifiées | Réceptions planifiées |  |  |  |  |  | 2 000 | 2 000 | 2 000 |  |  | 4 000 | 2 000
+Lancements planifiés | Lancements planifiés |  |  |  | 2 000 | 2 000 | 2 000 | 2 000 |  | 4 000 | 4 000 | 2 000 | 
+Période | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+Produit |  | 4 000 |  | 2 000 | 4 000 |  |  | 
+Urbain (2 u.é.) |  | 4 000 |  | 2 000 | 4 000 |  |  | 
+Produit | 3 000 |  | 1 500 |  | 1 500 |  | 1 500 | 
+Citadin (1,5 u.é. | 3 000 |  | 1 500 |  | 1 500 |  | 1 500 | 
+Produit |  |  | 3 000 | 3 000 |  | 6 000 | 3 000 | 
+Tout-Terrain (1,5 u.é.) |  |  | 3 000 | 3 000 |  | 6 000 | 3 000 | 
+Total
+ | 3 000 | 4 000 | 4 500 | 5 000 | 5 500 | 6 000 | 4 500 | 
+Produit | Produit | Taille de lot | Taille de lot | Stock | Stock | Stock | Délai | Délai
+Tout-Terrain | Tout-Terrain | X 2 000 | X 2 000 | 4 000 | 4 000 | 4 000 | 1 | 1
+Période | Période | 1 | 1 | 2 | 2 | 3 | 4 | 4 | 5 | 5 | 6 | 7 | 8
+Prévision
+ | Prévision
+ | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000 | 1 000
+Commandes acceptées | Commandes acceptées | 2 000 | 2 000 | 1 000 | 1 000 | 800 | 2 000 | 2 000 | 400 | 400 | 800 | 3 000 | 2 000
+Stock projeté
+ | Stock projeté
+ | 2 000 | 2 000 | 1 000 | 1 000 | 0 | 0 | 0 | 1 000 | 1 000 | 0 | 1 000 | 1 000
+Stock disponible à la vente | Stock disponible à la vente | 200 | 200 |  |  |  | 0 | 0 | 800 | 800 |  | 1 000 | 0
+Réception planifiée
+ | Réception planifiée
+ |  |  |  |  |  | 2 000 | 2 000 | 2 000 | 2 000 |  | 4 000 | 2 000
+Lancement planifiée
+ | Lancement planifiée
+ |  |  |  |  | 2 000 | 2 000 | 2 000 |  |  | 4 000 | 2 000 | 

@@ -1,0 +1,27 @@
+10.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+
+Séance 10
+Travail préparatoire
+Important!
+Cette semaine, vous devez télécharger les solutions Tableau Prep et Tableau Software (voir le module 8.3).
+Une fois les solutions installées, vous pourrez utiliser ce code pour obtenir un essai prolongé qui durera jusqu'à la fin de la session:
+Au besoin, réviser les trois (3) capsules sur la création des dimensions et de la table de faits que vous aviez à la préparation de la séance précédente.  Si vous maîtriser ces notions, passez au point 2 du parcours d'apprentissage.
+S9a
+Lien vers la base de données Groupe-Agro
+à copier dans vos fichiers locaux pour poursuivre les vidéos
+Fichiers .csv pour poursuivre
+Agronome.csv
+Produit.csv
+Site.csv
+SiteAgronome.csv
+Commande.csv
+DetailCommande.csv
+S9b
+S9c
+2. Visionner
+les trois (3) capsules sur Tableau Desktop
+S10a
+DIM_Vendeur.txt
+S10b
+S10c
+2. Compléter ou réviser le quiz formatif de la séance 9 pour évaluer votre apprentissage (accessible via l'onglet Travaux).

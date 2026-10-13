@@ -1,0 +1,92 @@
+Énoncé
+Prise de décision d'exploitation - le cas de la commande spéciale
+Un distributeur local a récemment proposé à un fabricant de meubles, Ubois, une commande spéciale de 9 000 chaises. Le prix offert par le distributeur est de 110 $ la chaise, soit une baisse de 40 $ par rapport au prix de vente courant exigé par le fabricant. 
+De plus, le responsable des achats a négocié un rabais de 4,00 $ sur le prix du matériel de recouvrement pour les unités de la commande spéciale.
+Les frais de vente et d'administration variables sont constitués exclusivement d'une commission aux vendeurs de 10 % sur les ventes. Cette commission de 10 % ne s'appliquerait pas à la commande spéciale.
+Le comptable a colligé certaines informations sur les chaises qui sont actuellement produites.
+Le niveau actuel de ventes et de production est de 24 000 chaises par année. L'entreprise a la capacité, avec ses installations actuelles, de produire jusqu'à 30 000 chaises par année. Notons également que l'acceptation de la commande ferait passer l'entreprise à un palier supérieur au niveau des coûts fixes.
+Coûts fixes (Frais généraux de fabrication et frais d'administration)
+Mise en contexte A : Acceptation de la commande avec coût de renonciation
+Travail à faire : 
+Selon vous, est-ce que l’entreprise devrait accepter la commande spéciale ? 
+Étape 1 : Analyse des coûts pertinents
+Coûts variables de la commande
+Coûts fixes spécifiques à la commande spéciale
+Coûts de renonciation (voir analyse de capacité) 
+Étape 2 : Effectuez l'analyse de capacité pour déterminer si l’entreprise a la capacité de produire les unités de la commande spéciale. Dans le cas où l’entreprise n’a pas la capacité de produire toutes les unités de la commande spéciale, l’entreprise devra renoncer à des unités régulières (calcul du coût de renonciation). 
+Voici des questions pour votre réflexion :
+Combien d’unités l’entreprise peut-elle produire au total ? 
+Combien d’unités l’entreprise produit-elle actuellement (client régulier) ? 
+Si elle accepte la commande de 9 000 unités, aura-t-elle la capacité de produire toutes les unités ?
+Analyse de capacité : 
+Étape 3 : Calculez le résultat différentiel (résultat d’exploitation de la commande spéciale)
+Questions à se poser lors de notre analyse : 
+Est-ce que le prix de vente permet de couvrir les coûts variables ? (À noter :  Le prix de vente de la commande spéciale est souvent inférieur au prix de vente régulier. Les coûts variables de la commande spéciale peuvent être différents de ceux des commandes régulières.)
+Faut-il renoncer à des unités que l'on aurait vendues à nos clients réguliers ? (À calculer uniquement en cas de manque de capacité).
+La fabrication des unités de la commande spéciale déclenche-t-elle des coûts fixes spécifiques ? (À noter : il ne faut pas inclure les coûts communs dans l'analyse.)
+Résultat différentiel :
+Étape 4 : Arguments qualitatifs et recommandation (voir annexe 1)
+Contexte B : Acceptation de la commande avec augmentation de la capacité de production. 
+Les dirigeants de Ubois hésitent à accepter cette commande spéciale, car elle augmenterait le niveau de production au-delà de la capacité maximale de production. À l'heure actuelle, la convention collective des employés assignés à la fabrication des chaises permet aux 30 employés de l'entreprise de travailler un maximum de 40 heures par semaine au taux horaire habituel. L'entreprise est ouverte 50 semaines par année. L'excédent du temps normal doit être rémunéré en heures supplémentaires à un taux équivalent à 125 % du taux régulier.
+Le comptable de l'entreprise s'inquiète du fait que les ouvriers employés à la fabrication seront rémunérés en heures supplémentaires si la capacité maximale de production est dépassée. Il conseille de refuser la commande, car il juge qu'elle ne sera pas rentable à moins d'augmenter le prix de vente.
+Travail à faire :
+Êtes vous en accord avec le comptable de l’entreprise, effectuez une analyse différentielle pour déterminer l’impact sur le résultat de l’entreprise si elle accepte la commande spéciale en payant du temps supplémentaire. 
+Étape 1 : Effectuez l'analyse de capacité pour déterminer si l’entreprise a la capacité de produire la commande spéciale. Dans le cas où l’entreprise n’a pas la capacité de produire toutes les unités de la commande spéciale, l’entreprise devra augmenter sa capacité de production en payant du temps supplémentaire.
+Analyse en heures de MOD : 
+Étape 2 : Calculez le résultat différentiel (résultat d’exploitation de la commande spéciale)
+Résultat différentiel :  84 000 $
+Étape 3 : Arguments qualitatifs (voir annexe 1)
+Annexe 1
+La comptabilité de management – 10904
+Coût de fabrication variables | Prix | Quantité | Coût unitaire — commande régulière | Coût unitaire — commande spéciale
+Bois (MP) | - | - | 15,00 $ | 
+Rembourrure (MP) | 6,00 $ /kg | 0,50 kg | 6,00 $ x 0,5 kg = 
+3,00 $ | 
+Matériel de recouvrement (MP) | 24,00 $/m | 2/3 mètres | 24,00 $ x 2/3 m = 
+16,00 $ | 
+Main-d'œuvre directe (MOD) | 18,00 $/h | 2 heures | 18,00 $ x 2 h = 
+36,00 $ | 
+Frais généraux de fabrication variables | - | - | 5,00 $ | 
+Nombre de chaises fabriquées | Coûts fixes totaux
+de 0 à 15 000 | 600 000 $
+de 15 001 à 30 000
+ | 840 000 $
+de 30 001 à 50 000
+ | 1 080 000 $
+1 | Capacité totale (maximale)  | 
+3 | Capacité actuellement utilisée | 
+4 | Capacité requise pour la commande spéciale | 
+5 | Besoin total | 3 + 4
+6 | Déficit ou excédent de capacité | 1 - 5
+Alternative A :
+Refuser la commande spéciale | Alternative B : Accepter la commande spéciale
+0 $ | Calculez la MCV totale de la commande spéciale
+
+Coûts fixes spécifiques
+
+Coût de renonciation
+
+Résultat d'exploitation de la commande : 
+1 | Capacité totale (maximale)  | 
+2 | Capacité actuellement utilisée | 
+3 | Capacité disponible | 1 - 2
+4 | Capacité requise pour la commande spéciale | 
+5 | Déficit ou excédent de capacité | 4 - 3
+Alternative A :
+Refuser la commande spéciale | Alternative B : Accepter la commande spéciale et payer du temps supplémentaire
+0 $ | Calculez la MCV totale de la commande spéciale (9 000 unités)
+
+Coûts fixes spécifiques
+
+Résultat d'exploitation de la commande : 
+INTERNE | EXTERNE
+Employés actuels : 
+Les heures supplémentaires requises auront-elles un impact sur la productivité ou le niveau de fatigue des employés actuels ? | Client actuel : 
+Les clients réguliers pourraient-ils être insatisfaits s'ils apprenaient que ce nouveau client obtient un prix inférieur au leur ?
+Financier : 
+L'entreprise a-t-elle les liquidités nécessaires pour absorber l'accroissement du fonds de roulement lié à la commande ? Le recours à une marge de crédit compromettrait-il le respect des ratios exigés par les prêteurs ? | Fournisseurs : 
+Les fournisseurs ont-ils la capacité de nous approvisionner en matières premières supplémentaires pour honorer cette commande ?
+Nouveau client : 
+Quel est le risque de non-recouvrement des comptes clients associé à ce nouveau client ? | 
+Contrôle qualité : 
+L'augmentation du volume de production pourrait-elle affecter la qualité de fabrication ? | 

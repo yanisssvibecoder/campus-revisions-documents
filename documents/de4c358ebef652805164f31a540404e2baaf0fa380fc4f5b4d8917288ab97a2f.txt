@@ -1,0 +1,1205 @@
+## Page 1
+            Cahier de problèmes solutionnés – Intra
+
+Auteurs : Marie-Hélène Allard, Jean-Philippe Tarte et Lorraine Sauriol
+          Service de l’enseignement de la finance, HEC Montréal.
+
+Sujet – Mathématiques financières                                Problème #1
+
+Vous avez gagné une loterie qui vous donnera les flux monétaires suivants :
+
+• 6 versements mensuels de 500 $ dont le premier a lieu aujourd’hui.
+• 3 versements annuels de 10 000 $ dont le premier a lieu dans 4 mois.
+
+Vous exigez un taux de rendement effectif de 3 % pour cette loterie.
+
+Vous songez à vendre votre billet gagnant à votre ami qui hériterait alors de tous les flux
+monétaires liés à la loterie.
+
+Question :
+
+a) À quel prix minimum accepteriez-vous de vendre votre billet de loterie gagnant?
+
+Vous avez finalement vendu votre billet de loterie à votre ami pour un prix de 30 000 $.
+Vous considérez investir votre 30 000 $ dans compte bancaire plutôt particulier. Ce
+compte comporte les caractéristiques suivantes :
+
+•  Afin de fidéliser ses clients, la banque offre des taux d’intérêt croissants. Ainsi, les trois
+   premières années, le taux d’intérêt offert est de 2 % effectif. Ce taux augmente à 3 %
+   effectif pour l’année suivante et à 4 % effectif par la suite et pour tout l’avenir
+   prévisible.
+
+• Pour vous prévaloir de ces taux, vous ne pourrez retirer plus de 1 000 $ sur la durée de
+   votre placement.
+
+Vous choisissez d’investir votre 30 000 $ aujourd’hui dans ce compte pour une durée de
+5 ans et de retirer 1 000 $ dans 4 ans.
+
+Question :
+
+b) Combien d’argent aurez-vous dans ce compte dans 5 ans?
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 1 sur 33
+
+## Page 2
+Sujet – Mathématiques financières                        Problème #1 - Solution
+
+
+a) Prix minimum de revente du billet de loterie gagnant:
+
+   r mensuel = (1 + 0,03)1/12 – 1 = 0,002466
+
+
+                           1 –  1 +
+  VAA début = 500$ ×               ×   +         = 2 981,61$                                 0,002466                                    (    0,002466)-6                         ቂ                ቃ   (1  0,002466)
+                         1 –   +                            8
+                                                                 12  VAA = 10 000$ ×            ×   +       = 28 849,04$                                 0,03                              (1  0,03)-3                       ቂ            ቃ   (1  0,03)
+   Prix minimum = 2 981,61$ + 28 849,04$ = 31 830,65$
+
+
+b) Montant dans le compte après 5 ans:
+
+  VF =    000$ × (1 + 0,02)3 ×   +         - 1      ×   +     = 33 062,98$       ൣ30                  (1  0,03)    000$൧  (1  0,04)
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 2 sur 33
+
+## Page 3
+Sujet – Mathématiques financières                                Problème #2
+
+Il y a exactement deux ans, vous achetiez une maison dans le quartier Ahuntsic. Vous avez
+payé au comptant 25 % du prix de la maison et financé le reste par un emprunt
+hypothécaire d’une échéance 20 ans et portant un taux d’intérêt de 6 % nominal,
+capitalisation semestrielle. Hier, vous avez reçu votre relevé qui indique que le solde à
+rembourser sur votre emprunt est de 184 250 $.
+
+Questions :
+
+a) Quel est le versement hypothécaire mensuel ?
+
+Pour les questions b) et c), supposez que vous ayez trouvé en a) un versement mensuel
+de 1 500 $.
+
+b) Quel était le prix d’achat de votre maison il y a deux ans?
+
+Après avoir fait votre budget mensuel, vous réalisez que vous avez un montant mensuel
+de 500 $ à investir, dont le premier versement pourrait être investi dans un mois. Vous
+désirez utiliser cet argent pour augmenter votre versement hypothécaire mensuel. Cette
+dernière option vous permettrait de rembourser plus rapidement votre emprunt.
+
+c) Si vous utilisez le 500 $ pour augmenter votre versement mensuel, dans combien de
+  temps aurez-vous remboursé votre hypothèque?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 3 sur 33
+
+## Page 4
+Sujet – Mathématiques financières                        Problème #2 - Solution
+
+
+a) Montant du versement mensuel:
+
+                                     2
+                        0,06 12
+   r mensuel équivalent =   +        – 1 = 0,004939                      2                 ൬1      ൰
+
+                    –   +
+  184 250$ = PMT ×
+                         0,004939                       (1  0,004939)-216                    ቈ1                      ቉
+  PMT mensuel = 1389,34 $
+
+
+b) Prix de la maison :
+
+                       –   +
+   Solde initial = 1 500$ ×
+                            0,004939                           (1  0,004939)-240                        ቈ1                      ቉
+   Solde initial = 210 610,70 $
+
+   Solde initial = 75% x Prix de la maison
+
+   Prix de la maison = 210 610,70$ / 75 % = 280 814,27 $
+
+
+c) Nouvelle échéance :
+
+                             –   +
+  184 250$ =   500$ +      ×
+                                  0,004939                                 (1  0,004939)-t             (1       500$)  ቈ1                    ቉
+    t = 123,2 mois = 10,26 ans.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 4 sur 33
+
+## Page 5
+Sujet – Mathématiques financières                                Problème #3
+
+Dès votre jeune âge, vous démontrez un vif esprit entrepreneurial. Vous avez rapidement
+compris la valeur de l’argent dans le temps et donc l’intérêt de faire fructifier l’argent de
+poche que vos parents vous donnent hebdomadairement. Voici les montants d’allocation
+qu’ils vous verseront:
+
+• 5 $ par semaine entre l’âge de 10 ans et de 12 ans
+• 10 $ par semaine entre l’âge de 12 ans et de 15 ans
+• 20 $ par semaine entre l’âge de 15 ans et de 17 ans.
+
+Vos allocations sont versées à la fin de la semaine. Ainsi, vous recevez votre première
+allocation de 5 $ une semaine après votre 10e anniversaire et votre dernier paiement
+d’allocation le jour de votre 17ie anniversaire, date de début de votre premier emploi.
+
+Questions :
+
+a) Pendant  les  deux  premières  années,  vous  déposez  toutes  vos  allocations
+  hebdomadaires dans un compte d’épargne. À la fin de ces deux années, avec les
+  sommes accumulées, vous vous payez l’unité de jeu révolutionnaire de l’époque : le
+  Nintendo 64!  Il vous en a coûté la totalité de l’argent accumulé, soit 535 $ taxes
+   incluses. Quel a été le rendement effectif de votre compte épargne?
+
+b) Les  trois  années  suivantes,  vous  investissez  la  totalité  de  vos  allocations
+  hebdomadaires dans un compte épargne-placement générant un rendement de 5,2 %
+   nominal, capitalisation hebdomadaire. Vous utilisez cet argent uniquement pour deux
+   dépenses. À votre 13e anniversaire, vous vous achetez un manteau de cuir très
+  tendance au coût de 175 $ taxes incluses. À votre 15e anniversaire, vous retirez
+   l’ensemble de vos économies pour partir en voyage à l’aventure avec quelques amis.
+  De combien d’argent disposez-vous pour ce voyage?
+
+c) L’année de vos quinze ans (entre votre 15e et 16e anniversaire), vous mettez
+  soigneusement de côté toutes vos allocations dans un compte épargne-placement
+   portant un taux de 5,356 %, nominal, capitalisation hebdomadaire. L’année de vos 16
+   ans (entre votre 16e et 17e anniversaire), vous ne mettez pas d’argent de côté puisque
+  vous dépensez votre 20 $ d’allocation à toutes les semaines. Ce montant n’est
+   toutefois pas suffisant pour vos nombreuses sorties entre amis. Vous décidez donc de
+   retirer, à chaque semaine, le montant des intérêts versés à votre compte, sans
+   toutefois toucher au capital accumulé. Combien d’argent de poche disposez-vous à
+  chaque semaine pendant l’année de vos 16 ans?
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 5 sur 33
+
+## Page 6
+Sujet – Mathématiques financières                        Problème #3 - Solution
+
+
+a) Rendement effectif du compte d’épargne
+
+                    +                      - 1
+  VF = 535$ = 5$ ×
+                               rhebdomadaire                   ቈ(1   rhebdomadaire)104   ቉
+   r hebdomadaire = 0,0005497
+
+   r  effectif = (1 + 0,0005497)52 – 1 = 0,02899
+
+
+
+b) Montant disponible pour le voyage
+
+   r hebdomadaire = 0,052 / 52 = 0,001
+
+
+                +              - 1
+  VF =     ×                             -      ×   +         = 1 493,18$
+                    0,001               (1  0,001)156       ൥10$   ቈ                  ቉൩  [175$  (1  0,001)104]
+
+c) Argent de poche disponible par semaine
+
+   r hebdomadaire = 0,05356 / 52 = 0,001030
+
+                      +                  - 1
+  VF après 1 an = 20$ ×                   = 1 067,79$                         0,001030                     (1  0,001030)52                        ቈ                     ቉
+   Intérêt hebdomadaire = 1067,79$ x 0,001030 = 1,10$
+
+   Argent de poche disponible par semaine = 20$ + 1,10$ = 21,10$
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 6 sur 33
+
+## Page 7
+Sujet – Mathématiques financières                                Problème #4
+
+Vous êtes l’heureux gagnant du concours « Salaire à vie » organisé par la société Loto-
+Plus. Ainsi, vous recevrez 5 000 $ à la fin de chaque mois durant les 25 prochaines années.
+Vous exigez un taux de rendement de 8 % nominal, capitalisation trimestrielle.
+
+Questions :
+
+a) Quel est le taux mensuel équivalent à votre taux exigé?
+
+b) Au lieu de vous verser un salaire mensuel de 5 000 $ durant les 25 prochaines années,
+   Loto-Plus vous propose de vous verser un montant de 600 000 $ immédiatement ainsi
+   qu’un montant de 50 000 $ dans 25 ans. Acceptez-vous cette proposition?
+
+c) Votre conseiller financier vous offre d’investir votre salaire mensuel de loterie dans un
+  compte portant un taux d’intérêt de 6 % nominal, capitalisation semestrielle. Quelle
+   serait la valeur finale du compte dans 25 ans?
+
+d) Vous avez comme projet d’acheter un chalet dans 10 ans dont le coût serait de
+  180 000 $. Votre conseiller financier vous propose d’investir une partie de votre salaire
+  mensuel de loterie le 1er de chaque mois dans un compte offrant un intérêt de 4%
+   effectif. Le premier versement dans ce compte se ferait aujourd’hui à partir de vos
+  économies personnelles alors que les suivants proviendraient d’une partie de votre
+   salaire mensuel de loterie. Quel devrait être le montant à investir dans ce compte?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 7 sur 33
+
+## Page 8
+Sujet – Mathématiques financières                        Problème #4 -Solution
+
+a) Taux mensuel équivalent :
+                                   4
+                       0,08 12
+   r mensuel équivalent=   +        – 1 = 0,006623                     4                ൬1      ൰
+b) Valeur actuelle de la loterie :
+
+                 –   +
+  VA = 5 000$ ×                     = 650 746,63$
+                     0,006623                   (1  0,006623)-300                ቈ1                      ቉
+   Valeur actuelle de la proposition :
+
+                           50 000$
+  VA = 600 000$ +                300 = 606 901,05$                             (1 + 0,006623)
+
+  Recommandation : Garder le salaire de loterie mensuel de 5 000$ pendant 25 ans
+   puisque sa VA = 650 746,63$ est supérieure à la VA de la proposition.
+
+c) Taux mensuel équivalent :
+                                    2
+                        0,06 12
+   r mensuel équivalent =   +        – 1 = 0,004939                      2                 ൬1      ൰   Valeur du compte dans 25 ans :
+
+                 +                   - 1
+  VF = 5 000$ ×                    = 3 426 200,34$
+                    0,004939               (1  0,004939)300                  ቈ                      ቉
+d) Taux mensuel équivalent :
+                                    1
+                       0,04 12
+   r mensuel équivalent =   +        – 1 = 0,003274                      1                 ൬1      ൰  Montant mensuel à investir dans le compte :
+
+                             +                   - 1
+  VF début = 180 000$ = PMT ×                    ×   +                                 0,003274                             (1  0,003274)120  PMT = 1 223$                ቈ                      ቉  (1  0,003274)
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 8 sur 33
+
+## Page 9
+Sujet - Obligations                                              Problème #1
+
+Nous sommes le 1er mars 2009. Vous étudiez les obligations des sociétés A et B.
+
+     Titre      Taux de     Échéance      Dates des    Rendement     Cote
+              coupon                   coupons         à
+                                                           l’échéance
+                                                   1er mars, Obligation A    7 %      1er mars 2012                                105,11                                                   1er septembre
+                                                   1er mai, Obligation B     4 %      1er mai 2014                 5%                                                   1er novembre
+
+
+Questions :
+
+a) Quel est le rendement nominal à l’échéance de l’obligation A
+
+b) Quelle est le prix de l’obligation B?
+
+Le 1er mars 2009, vous achetez des obligations de la société A que vous conserverez
+jusqu’au 1er septembre 2011, date à laquelle vous les revendrez. Pendant la période de
+détention, vous investirez vos coupons dans un compte de banque portant intérêt au taux
+de 3 % nominal, capitalisation semestrielle. Au moment de la vente de vos obligations,
+vous désirez avoir accumulé 10 000 $, ce qui inclura les coupons avec intérêts accumulés
+dans votre compte bancaire et le prix de revente des obligations. Supposez que le
+rendement à l’échéance sera constant jusqu’à l’échéance.
+
+c) Combien d’obligations devrez-vous acheter aujourd’hui pour atteindre cet objectif?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 9 sur 33
+
+## Page 10
+Sujet - Obligations                                      Problème #1 - Solution
+
+
+a) Rendement nominal à l’échéance de l’obligation A :
+
+                      –    +                    1 000$
+  1 051,10$ = 35$ ×                       +
+                                    RAEsemestriel           +                          (1    RAEsemestriel)-6                      ቈ1                        ቉  RAE semestriel = 0,0257                         (1    RAEsemestriel)6
+
+  RAE nominal = 0,0257 x 2 = 0,0514
+
+
+b) Prix de l’obligation B :
+
+
+                –   +             1 000$                   4
+   Prix =     ×                 +             × (1 + 0,025)  6 = 968,24$
+                     0,025          +                                                                    ൗ                   (1  0,025)-11        ቈ20$  ቈ1                 ቉                                   (1  0,025)11቉
+
+c) Nombre d’obligations A:
+
+                                         35 $ + 1 000$
+   Prix de revente des obligations =         = 1 009,07$                                                   (1 + 0,0257)
+
+  Taux d’intérêt semestriel du compte de banque = 0,03 / 2 = 0,015
+
+                                                                (1 + 0,015)5- 1
+  10 000$ =    ×         +    × 35$ ×                                                              0,015          (NB  1009,07$)  ቀNB          ቂ           ቃቁ  10 000$ = 1 189,40$ NB
+
+  NB = Nombre d’obligations à acheter = 8,41 donc 9 obligations.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 10 sur 33
+
+## Page 11
+Sujet - Obligations                                              Problème #2
+
+Les obligations de l’entreprise ZZ comportent les caractéristiques suivantes :
+
+• Versement de coupons semestriel.
+• Taux de coupon de 5 %.
+•  Prix actuel de 900 $.
+•  Valeur nominale de 1 000 $.
+• Échéance dans exactement 7 ans.
+
+Question :
+
+a) Quel est le rendement à l’échéance de cette obligation?
+
+Pour les questions suivantes, supposez que vous ayez trouvé en a) un rendement à
+l’échéance de 8 %.
+
+Les dirigeants de l’entreprise ZZ ont réalisé, qu’à maturité de l’obligation, ils ne pourront
+pas payer la valeur nominale aux investisseurs. Évidemment, ceci serait perçu de façon
+très négative par les investisseurs. Afin de compenser ces derniers pour l’élimination de
+la valeur nominale, ils envisagent deux solutions :
+
+•  Solution A : Augmenter le taux de coupon.
+•  Solution B : Doubler l’échéance restante de l’obligation, en continuant de verser des
+  coupons à chaque semestre. À la fin de la nouvelle échéance,  ils verseraient un
+  montant forfaitaire. Le taux de coupon demeurerait le même.
+
+Supposez que le taux de rendement à l’échéance ne changera pas malgré l’élimination de
+la valeur nominale.
+
+Questions :
+
+b) Si la solution A est adoptée, quelle devrait être le nouveau taux de coupon afin que les
+   investisseurs soient indifférents entre le statu quo (les caractéristiques initiales de
+   l’obligation) et la solution A?
+
+c) Si la solution B est adoptée, quel devrait être le montant forfaitaire à verser à la fin de
+   la nouvelle échéance afin que les investisseurs soient indifférents entre le statu quo
+   (les caractéristiques initiales de l’obligation) et la solution B?
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 11 sur 33
+
+## Page 12
+Sujet - Obligations                                      Problème #2 - Solution
+
+
+a) Rendement à l’échéance :
+
+
+                     1 -   +                       1 000$
+   900$ = 25$ ×                                  RAEsemestriel            +                         (1    RAEsemestriel)-14                                                 (1  RAEsemestriel)14                   ቂ              ቃ+
+  RAE semestriel = 0,034102
+  RAE nominal = 0,068204
+
+
+b) Nouveau taux de coupon :
+
+
+                                    1 -   +
+   900$ = Nouveau coupon ×                                               0,04                                           (1  0,04)-14                                   ቂ             ቃ
+  Nouveau coupon = 85,2021$
+
+
+                                     85,2021$ × 2
+   Taux du nouveau coupon=        = 0,1704                                     1 000$
+
+
+c) Montant forfaitaire :
+
+
+                     1 -    +            MF
+   900$ = 25$ ×             +                              0,04            +                           (1   0,04)-28                                           (1  0,04)-28                    ቂ             ቃ
+  MF = Montant forfaitaire = 1 449,64 $
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 12 sur 33
+
+## Page 13
+Sujet - Obligations                                              Problème #3
+
+Nous sommes le 1er mai 2011.  Le docteur Moutarde vous demande conseille sur le
+financement de son projet d’agrandissement de sa clinique au coût de 325 000 $.  Il
+envisage d’émettre des obligations à ses riches amis qui fréquentent le même club de golf
+privé que lui. Il hésite entre deux types d’obligations à émettre :
+
+Obligation A :
+
+•  Valeur nominale de 1 000 $.
+• Coupons semestriels versés les 1er mai et 1er novembre de chaque année. Le premier
+  coupon sera versé dans 6 mois exactement. Les coupons du 1er mai seront de 60 $ par
+   obligation alors que les coupons du 1er novembre seront de 100 $ par obligation.
+
+Obligation B :
+
+•  Valeur nominale de 1 000 $.
+• Coupons semestriels versés les 1er mai et 1er novembre de chaque année. Le prochain
+  coupon sera versé dans 6 mois. Le taux de coupon sera de 4 % nominal, capitalisation
+   semestrielle pour les 5 prochaines années. On ne versera aucun coupon dans 5 ans et
+  demi et dans 6 ans. Par la suite, l’entreprise recommencera à verser des coupons
+   semestriels, mais avec un taux de coupon de 7 % nominal, capitalisation semestrielle.
+
+Pour les deux obligations, l’échéance sera de 8 ans. Le docteur Moutarde estime que ses
+amis devraient exiger un taux de 6,5 % nominal, capitalisation semestrielle pour ces deux
+obligations.
+
+Questions :
+
+a) Si le docteur Moutarde choisit l’obligation A, combien d’obligations devra-t-il émettre
+  pour financer son projet ?
+
+b) Laquelle des deux obligations présente la plus grande sensibilité aux variations de taux
+   d’intérêts ?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 13 sur 33
+
+## Page 14
+Sujet - Obligations                                      Problème #3 - Solution
+
+
+a) Nombre d’obligations A à émettre :
+
+  RAE semestriel = 0,065 / 2 = 0,0325
+  RAE effectif = (1 + 0,0325)2 - 1 = 0,066056
+
+               –   +                    –   +
+   Prix = 60$ ×                  + 40$ ×                   ×   +
+                   0,0325                   0,066056                  (1  0,0325)-16             (1  0,066056)-8            1ቈ1000$              ቉         ቈ1                    ቉  (1  0,0325)        +              = 1 589,35$
+            +          (1  0,0325)16                                 325 000$
+ Nombre d'obligations à émettre =                  = 204,49 donc 205 obligations
+                             1 589,35$/obligation
+
+
+b) Les deux obligations ont la même échéance mais des taux de coupons différents.
+   L’obligation B présente la plus grande sensibilité aux variations des taux d’intérêts
+   puisque ses taux de coupons (4% et 7 %) sont inférieurs à ceux de l’obligation A (12 %
+   et 20 %) pour une même valeur nominale.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 14 sur 33
+
+## Page 15
+Sujet - Obligations                                              Problème #4
+
+Nous sommes le 1er novembre 2011. Les dirigeants de l’entreprise ZZC veulent lancer un
+nouveau produit sur le marché. Pour financer le lancement du produit,  ils désirent
+émettre des obligations dont les caractéristiques dépendraient du succès commercial du
+nouveau produit.  Ainsi,  si  le produit se vendait bien, les obligataires recevraient
+davantage de flux monétaires. Par contre, s’il se vendait mal, le montant des coupons
+serait réduit.
+
+Voici les caractéristiques de base de l’obligation :
+
+• Coupons semestriels de 30 $ versés le 1er mai et le 1er novembre de chaque année.
+• Échéance de 10 ans.
+•  Valeur nominale de 1 000 $.
+
+Voici les caractéristiques de l’obligation en fonction du succès du produit :
+
+Succès moyen :
+
+•  Les obligations auraient les caractéristiques de base.
+
+Succès élevé :
+
+•  L’entreprise doublerait le montant des coupons versés le 1er mai 2013, le 1er mai 2015,
+   le 1er mai 2017 et le 1er mai 2019. Tous les autres coupons seraient de 30 $.
+•  L’échéance serait allongée de 2 ans par rapport aux caractéristiques de base.
+•  La valeur nominale ne changerait pas.
+
+Succès faible :
+
+• Aucun coupon ne serait versé au cours des trois premières années. Par la suite, les
+  coupons semestriels de 30 $ recommenceraient à être versés.
+•  L’échéance serait de 10 ans.
+•  La valeur nominale ne changerait pas.
+
+On estime que  le rendement à l’échéance des obligations est de 7 % nominal,
+capitalisation semestrielle et ce, peu importe le succès commercial du produit et donc,
+peu importe les caractéristiques de l’obligation.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 15 sur 33
+
+## Page 16
+Questions :
+
+a)  Selon les caractéristiques de base, quel est le taux de coupon de l’obligation?
+
+b) Quel serait le prix actuel des obligations si les investisseurs anticipaient un succès
+   commercial moyen?
+
+c)  Quel serait le prix actuel des obligations si les investisseurs anticipaient un succès
+   commercial faible?
+
+d) Quel serait le prix actuel des obligations si les investisseurs anticipaient un succès
+   commercial élevé?
+
+e)  Si le succès commercial s’avérait élevé, l’obligation se négocierait à prime, à escompte
+   ou au pair?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 16 sur 33
+
+## Page 17
+Sujet - Obligations                                      Problème #4 - Solution
+
+
+
+                        30$ × 2 semestres
+a) Taux de coupon =             = 0,06                             1 000$
+
+                    1 - (1 + 0,035)-20        1 000$
+b) Prix = 30$ ×              +             20 = 928,94$                           0,035            (1 + 0,035)                  ൤             ൨
+                    1 - (1 + 0,035)-14                           1 000$
+c) Prix =     ×             × (1 +        +             20 = 769,08$                           0,035                                    (1 + 0,035)        ൤30$    ൤             ൨        0,035)-6൨
+                   1 –   +                30$          30$
+d) Prix = 30$ ×             +         +         +                           0,035            + 0,035        +                        (1  0,035)-24
+       30$          30$         1 000$                                         (1 = 1 008,80$)3   (1   0,035)7          +  ቂ      +    ቃ      +            +            (1 + 0,035)24    (1  0,035)11   (1  0,035)15
+  Ou
+
+   (1 + 0,035)4 = (1 + r 2 ans) 1
+
+   r 2 ans = 0,147523
+
+
+                     1 - (1 + 0,035)-24
+   Prix =     ×              +     ×                            0,035    1 - (1 + 0,147523)-4ቈ30$    ൤            ൨቉   ൤30$1 000$                ×   +        +         = 1 008,80$         0,147523                                 (1 + 0,035)24   ൤               ൨  (1  0,035)1൨
+e) L’obligation se négocierait à prime puisque son prix est supérieur à la valeur nominale.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 17 sur 33
+
+## Page 18
+Sujet - Actions                                                 Problème #1
+
+L’entreprise OMABA retient votre attention puisque son dirigeant vient de remporter le
+prix de l’entrepreneur de l’année. Son action ordinaire se vend présentement à un prix
+de 12 $ et ne verse pas de dividende. Selon votre analyse du risque, un taux de 14 %
+effectif serait requis sur ce titre. Vous avez identifié deux groupes d’analystes financiers
+qui ne semblent pas s’entendre sur les prévisions.
+
+•  Les analystes du premier groupe, les optimistes, croient que le premier dividende
+   devrait être versé dans exactement 1 an et serait de 0,75 $. Ceci représenterait le
+   premier de quatre dividendes semestriels constants de 0,75 $. Par la suite, le dividende
+   semestriel augmenterait de 3 % par semestre pour tout l’avenir prévisible.
+
+•  Les analystes du deuxième groupe, les pessimistes, croient plutôt que l’entreprise
+   versera 3 dividendes annuels constants de 1 $ dont le premier dividende sera versé
+  dans 5 ans. Par la suite, le dividende annuel augmentera de 5 % par année, et ce, pour
+   tout l’avenir prévisible.
+
+Questions :
+
+a) Si vous êtes en accord avec les prévisions des optimistes, quelle valeur accordez-vous
+  à l’action de OMABA aujourd’hui? Devriez-vous l’acheter?
+
+b) Si vous êtes en accord avec les prévisions des pessimistes, quelle valeur accordez-vous
+  à l’action de OMABA aujourd’hui? Devriez-vous l’acheter?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 18 sur 33
+
+## Page 19
+Sujet - Actions                                         Problème #1 - Solution
+
+a) Valeur de l’action selon les optimistes :
+
+                                 1
+                                 2   r semestriel =   +          - 1 = 0,067708            (1  0,14)   1 - (1 + 0,067708)-4            1
+   Valeur =       ×               ×                                0,067708            +
+        0,75$ × (1 + 0,03)                                                     (1        0,067708 - 0,03ቄ0,75$    ቂ                ቃ   ቂ                                                  0,067708)1ቃቅ+                 17,15$       +     (1  ቊ     0,067708)5ቋ=   La valeur de l’action (17,15$) > Prix de l’action (12$), vous devriez acheter l’action.
+
+
+b) Valeur de l’action selon les pessimistes :
+
+                                                              1$ × (1 + 0,05)
+                  1$          1$         1$            0,14 – 0,05   Valeur =        +       +       +           = 6,04$                  (1 + 0,14)5     (1 + 0,14)6    (1 +0,14)7      (1 + 0,14)7                                   ቊ       ቋ
+   La valeur de l’action (6,04$) < Prix de l’action (12$), vous ne devriez pas acheter
+   l’action.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 19 sur 33
+
+## Page 20
+Sujet - Actions                                                 Problème #2
+
+Mme Rose songe à acheter 500 actions ordinaires de l’entreprise de son petit-fils, pour
+un montant total de 7 500 $. Elle se souvient que chaque action ordinaire versera un
+dividende annuel de 2 $ dans exactement 5 ans et que ce dividende augmentera ensuite
+à un taux effectif annuel de 6 % pour tout l’avenir prévisible. Elle sait aussi que l’action
+ordinaire versera, en plus, un dividende semestriel constant pour les quatre prochaines
+années, dont le premier sera versé dans exactement un semestre. Elle a toutefois oublié
+le montant de ce dividende semestriel constant. Elle vous informe qu’elle exige un taux
+de rendement de 14 % nominal, capitalisation semestrielle pour ces actions.
+
+Questions :
+
+a) Quel devrait être le montant minimal du dividende semestriel constant pour que cet
+   investissement soit intéressant pour Mme Rose ?
+
+Finalement, Mme Rose se souvient que le dividende semestriel constant est de 0,40 $ par
+action. Elle décide d’acheter les 500 actions. Par contre, elle n’aime pas le fait de recevoir
+des dividendes semestriels pendant 4 ans. Elle aimerait beaucoup mieux recevoir des
+dividendes mensuels pendant 4 ans puisque qu’elle a contracté une hypothèque
+remboursable par versement mensuels. Ainsi, elle utiliserait les dividendes mensuels
+reçus pour ses 500 actions afin de payer une partie de ses versements hypothécaires. Elle
+veut donc tenter d’influencer son  petit-fils pour  qu’il transforme  les dividendes
+semestriels constants de 0,40 $ en dividendes mensuels constants équivalents.
+
+b) Pour Mme Rose, quel dividende mensuel constant serait équivalent à un dividende
+    semestriel constant de 0,40 $ ?
+
+Son hypothèque vient à échéance dans exactement 4 ans et a un solde actuel de 34 200 $.
+L’échéance initiale (lors de la signature du prêt) était 10 ans et Mme Rose avait signé pour
+un terme également de 10 ans, avec un taux d’intérêt de 4,5 % nominal, capitalisation
+semestrielle.
+
+c)  Supposez que vous ayez trouvé en b) un dividende mensuel de 0,20 $ par action. Quel
+   pourcentage du versement mensuel hypothécaire serait comblé par les dividendes
+   mensuels reçus pour l’ensemble des actions achetées par Mme Rose ?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 20 sur 33
+
+## Page 21
+Sujet - Actions                                         Problème #2 - Solution
+
+
+a) Dividende semestriel:
+                                        2$
+                     –   +           0,1449 - 0,06  15$ = Dividende ×               +
+                           0,07           +                         (1  0,07)-8                      ቈ1               ቉                                       (1  0,1449)4
+  Ou
+                                                 2$
+                      –   +                         0,1449 - 0,06  15$ =          ×               +                           0,07          +             (1+ + 0,06)                         (1  0,07)-8        2$         Dividende   ቈ1               ቉          +                                       (1  0,1449)5   (1  0,1449)5
+  où
+                            7 500$
+   Prix d'une action ordinaire =           = 15$ par action ordinaire
+                          500 actions
+
+                 0,14 2
+   r effectif =    +       – 1 = 0,1449                2           ൬1      ൰
+   Dividende semestriel = 0,216 $
+
+
+b) Dividende mensuel équivalent:
+
+                              1 -   +                         1 –   +
+   Dividende mensuel ×               = 0,40$ ×                                     0,01134                            0,07                                    (1  0,01134)-48                    (1  0,07)-8                            ቂ                ቃ             ቂ             ቃ  où
+                                    2
+                        0,14 12
+   r mensuel équivalent =   +        – 1 = 0,01134                      2                 ൬1      ൰
+   Dividende mensuel = 0,0648 $
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 21 sur 33
+
+## Page 22
+c) Pourcentage du versement hypothécaire:
+
+                                      2
+                       0,045 12
+   r mensuel équivalent =   +         – 1 = 0,003715                       2                 ൬1       ൰
+                                        -   +
+  34 200$ = PMTmensuel ×                             0,003715                            (1  0,003715)-48                         ቈ1                    ቉
+  PMT mensuel = 779,23 $
+
+                                                           0,20$ × 500 actions
+   Pourcentage du versement hypothécaire =             = 12,83%                                                              779,23$
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 22 sur 33
+
+## Page 23
+Sujet - Actions                                                 Problème #3
+
+Nous sommes  le  1er novembre 2011.  L’entreprise AVA a deux types  d’actions
+présentement sur les marchés : des actions privilégiées et des actions ordinaires. Voici le
+détail de ces deux types d’actions :
+
+•  Les actions privilégiées versent des dividendes semestriels de 0,34 $. Le dernier
+   dividende a été versé il y a exactement un mois, soit le 1er octobre 2011.
+
+•  Les actions ordinaires de l’entreprise ne verseront pas de dividende pendant 2 ans.
+   Après 2 ans, elles verseront des dividendes trimestriels qui augmenteront à un taux
+   effectif annuel de 5 % jusqu’à l’infini. Le premier dividende sera versé le 1er février 2014
+   (soit dans 2 ans et 3 mois) et sera de 0,45 $.
+
+•  Les investisseurs exigent un taux de 11 % effectif annuel pour les actions privilégiées
+   et un taux de 13 % nominal, capitalisation trimestrielle pour les actions ordinaires. Ces
+   taux resteront les mêmes pour tout l’avenir prévisible.
+
+Questions :
+
+a) Quel est le prix actuel des actions privilégiées de l’entreprise?
+
+b) Quel est le prix actuel des actions ordinaires de l’entreprise?
+
+c) Pourquoi le taux exigé par les investisseurs pour les actions ordinaires est-il plus élevé
+  que celui exigé pour les actions privilégiées?
+
+Vous désirez acheter 100 actions privilégiées de l’entreprise AVA aujourd’hui et les
+revendre dans exactement 3 ans, soit le 1er novembre 2014. Tous les dividendes reçus
+pendant ces 3 ans seront placés dans un compte bancaire portant intérêt à 4 % nominal,
+capitalisation semestrielle. Dans exactement 3 ans, vous prendrez tout l’argent accumulé
+dans le compte bancaire et l’argent provenant de la vente des actions privilégiées pour
+acheter des actions ordinaires de l’entreprise AVA.
+
+d) Combien d’actions ordinaires de l’entreprise AVA pourrez-vous acheter dans 3 ans?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 23 sur 33
+
+## Page 24
+Sujet - Actions                                         Problème #3 - Solution
+
+
+                           0,34$                           1
+                                                              6a)  Prix 1er nov 2011 =       ×   +           = 6,40$                        0,053565                          (1  0,053565)
+  Où
+                                 1
+                                 2    r semestriel = (1 + 0,11) = 0,053565
+
+
+
+                              0,45$b)  Prix 1er nov 2011 =            × (1 + 0,0325)-8 = 17,22$                        0,0325 - 0,012272
+
+  Où
+                                  1
+                                  4   g trimestriel = (1 + 0,05)   - 1 = 0,012272
+
+             0,13
+   r trimestriel =     = 0,0325             4
+
+
+c) Les actions ordinaires sont plus risquées car le versement de leur dividende est variable
+   et incertain et les actionnaires ont un droit résiduel si l’entreprise fait faillite.
+
+
+                                                     0,45$ × (1 + 0,012272)4   Prix d'une action ordinaire 1er nov 2014 =               = 23,36$                                                      0,0325 - 0,012272d)
+                                                           1
+Montant disponible 1er nov         ×            ×                                                             0,02           1              2014=(100  6,40$)+ ቊ[100  0,34$]× ቈ(1+0,02)6- ቉×
+  +         855,19$[1 Où0,02]6ቋ=
+             0,04
+    rsemestriel =     = 0,02            2
+
+                                      855,19$
+  Nombre d'actions ordinaires =                        = 36,6 donc 36
+                              23,36$ par action ordinaire
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 24 sur 33
+
+## Page 25
+Sujet - Risque et rendement                                      Problème #1
+
+
+Votre analyse de certains titres vous a permis de recueillir les données suivantes :
+
+ Titre             Taux exigé      Bêta      Covariance     Écart-type          Coefficient de
+                                              avec le                         corrélation avec le
+                                         marché                      marché (i,m)
+ ADM                                                  15 %                 0,9
+ Mirck                                                 21 %
+ Couche-Tôt         12 %          1,2
+ Cristobal            13,5 %                   0,0216
+
+
+   •   L’écart-type du marché est de 12 %.
+   •  ADM et Mirck présentent le même niveau de risque systématique.
+
+Questions :
+
+À l’aide du modèle d’évaluation des actifs financiers (MEDAF) :
+
+a)   Déterminez la covariance d’ADM avec le marché.
+b)  Déterminez le coefficient de corrélation de Mirck avec le marché.
+c)   Déterminez la prime de risque du marché.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 25 sur 33
+
+## Page 26
+Sujet - Risque et rendement                              Problème #1 - Solution
+a)  Cov (ADM, m ) = ρ ADM ,m × σ ADM × σ m = 9,0 × ,015 × ,012 = ,00162
+
+b)  B ADM = B Mirck
+
+   ρ ADM ,m × σ ADM × σ m  ρ Mirck ,m × σ Mirck × σ m                 =
+        σ m2             σ m2
+
+     9,0 × ,015 × ,012  ρ Mirck ,m × ,021 × ,012               =
+           (,012 )2                 (,012 )2
+
+    donc, ρ Mirck ,m = ,06428
+
+
+  Ou encore, avec la réponse trouvée en a)
+
+
+    cov(ADM, m) = ,00162 = cov(Mirck , m) = ρ Mirck ,m × ,021 × ,012
+
+   donc, ρ Mirck ,m = ,06428
+
+
+c) À l’aide du MEDAF, on peut définir le rendement exigé sur les titres de Couche-Tôt
+    et de Cristobal.
+                                               ,00216                                           − R f ]    ,012 = R f + 2,1[R(E m ) − R f ] et  ,0135 = R f +         2 [R(E m )                                                        (,012 )
+
+   En isolant le premier facteur (Rf) dans la première équation, on trouve :
+   R f = ,012 − 2,1[R(E m ) − R f ]
+
+   En substituant la définition de (Rf) dans la deuxième équation, on trouve :
+    ,0135 = ,012 − 2,1[R(E m ) − R f ] + 5,1[R(E m ) − R f ]
+
+   En isolant la prime de risque du marché, on trouve :
+     [R(E m ) − R f ] = ,005
+
+
+Dernière mise à jour : Juin 2022                                 Page 26 sur 33
+
+## Page 27
+Sujet - Risque et rendement                                      Problème #2
+
+L’action ordinaire de la société Alphabéta, un fabricant de télévisions haut de gamme
+pour le cinéma maison, se négocie actuellement sur le marché à un prix de 10 $.
+
+Vous recueillez les données suivantes concernant ce titre :
+
+•  Écart type des rendements : 24 %
+•  Corrélation entre les rendements du titre et les rendements du marché : 0,9
+
+
+Vous faites les prévisions suivantes sur l’action de la société Alphabéta :
+
+•  Prix anticipé dans exactement un an : 11 $
+•  Dividende annuel prévu : 1 $
+
+
+L’écart type des rendements du marché est estimé à 20 %, la prime de risque du marché
+est de 6 % et le taux sans risque est de 5 %.
+
+
+Questions :
+
+
+a) Quel est le Beta de l’action de la société Alphabéta?
+
+b) Selon le MÉDAF, quel est le rendement espéré sur le portefeuille de marché?
+
+
+c)  Selon le MÉDAF, quel est le rendement espéré sur l’action de la société Alphabéta?
+
+
+d)  Si vos prévisions s’avéraient exactes, quel rendement réaliseriez-vous sur le titre de la
+    société Alphabéta dans un an?
+
+
+e) Recommanderiez-vous l’achat ou la vente du titre? Illustrez et justifiez clairement
+   votre raisonnement en vous appuyant sur un graphique rendement – risque
+   systématique (équation de la SML).
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 27 sur 33
+
+## Page 28
+Sujet - Risque et rendement                              Problème #2 - Solution
+
+           ρ Alphabéta ,m × σ Alphabéta × σ m   9,0 × ,024 × ,020
+a)  β Alphabéta =                  2         =              2     = ,108                 σ m                       (20 )
+
+b) La prime de risque du marché = ,006 = R(E m ) − R f = R(E m ) − ,005
+   Donc, E (R m ) = ,011
+
+c)  R(E Alphabéta ) = R f + β Alphabéta [E(R m ) − R f ]
+    R(E Alphabéta ) = ,005 + ,108 × ,006 = ,01148
+
+             Pr ix t =1 an + Div − Pr ix t = 0  11$ + 1$ − 10$d) R après 1 an =                 =           = ,020
+                    Pr ix t = 0             10$
+
+e) Vous  anticipez un rendement de 20 %  sur  le  titre de  la  société Alphabéta.
+   Ce rendement anticipé étant supérieur au rendement espéré de 11,48 % estimé selon
+    le MÉDAF, il serait souhaitable d’acheter le titre.
+
+
+
+              Rendement
+
+
+                    20%
+
+
+
+                    11.48%
+
+
+
+
+
+                                                   1.08                             Beta
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 28 sur 33
+
+## Page 29
+Sujet : Risque et rendement                                      Problème #3
+
+La société Frizz inc. est présentement financée par des obligations et des actions
+ordinaires. Vous recueillez les informations suivantes :
+
+•  Les obligataires de la société Frizz exigent actuellement un taux de 5 % effectif.
+•  Le risque total des actions ordinaires de la société Frizz (mesuré par l’écart-type de
+    ses rendements) est de 15 %.
+•  Les rendements des actions ordinaires de la société Frizz ont une corrélation de 0,5
+   avec les rendements du portefeuille de marché.
+•   L’écart type des rendements du portefeuille de marché est de 10 %.
+•  Le rendement espéré du portefeuille de marché est trois fois plus élevé que le taux
+   sans risque.
+•  Les  actionnaires des  sociétés  inscrites en bourse  qui  présentent un  risque
+   systématique deux fois plus élevé que celui de la société Frizz exigent un rendement
+    effectif de 12 %.
+
+À court terme, soit pour les deux prochaines années, vous anticipez que le dividende
+annuel de la société Frizz restera stable étant donné les besoins de liquidités importants.
+Par la suite, celui-ci devrait connaître une croissance annuelle constante de 5 % effectif
+pour le futur prévisible de la firme. Le dernier dividende a été versé hier et était de 0,84 $.
+
+
+Questions :
+
+a) À l’aide des données recueillies, déterminez le taux de rendement exigé par les
+    actionnaires ordinaires de la société Frizz.
+
+b) Supposez que vous ayez trouvé un rendement effectif de 10 % à la question a). Sur la
+   base de vos anticipations, quel devrait être le prix sur le marché de l’action ordinaire
+   de la société Frizz?
+
+c)  Donnez une raison qui pourrait expliquer que le prix trouvé en b) soit différent du prix
+   de l’action observé sur le marché.
+
+d)  Si les dirigeants de la société Frizz décidaient d’augmenter le taux de coupon des
+    obligations actuellement sur le marché, quel serait l’impact sur le CMPC actuel de
+    l’entreprise (calculé à partir des valeurs marchandes) : aucun impact, diminution ou
+   augmentation? Aucun calcul requis.
+
+
+Dernière mise à jour : Juin 2022                                 Page 29 sur 33
+
+## Page 30
+Sujet : Risque et rendement                                    Exercices #3 - Solution
+
+a)  R(E Frizz ) = R f + β Frizz × R(E( m ) − R f ) = ,003 + ,075(,009 − ,003 ) = ,0075
+
+
+         ρ Frizz ,m × σ Frizz × σ marché   5,0 × ,015 × ,010
+   β Frizz =            2         =               2    = ,075            σ marché                 (,010 )
+
+    Calcul de Rf et de E(Rm) :
+     R(E                     ) = R + β            × (R(E   ) − R  )       autres sociétés       f    autres sociétés   m      f
+
+     R(E                     ) = R + (2 × β      ) × (3R − R  )       autres sociétés       f        Frizz        f     f
+
+     ,012 = R f + (2 × ,075 ) × 2(R f )
+
+     Rf = 0,03 et E(Rm) = 0,09
+
+
+                                          ,084$ × 1( + ,005)
+                  ,084$       ,084$        ,010 − ,005b)   Pr ix Frizz =              1 +             2 +                  2   = 16 ,04$                  (1 + ,010 )    (1 + ,010 )        (1 + ,010 )
+
+
+c)   Plusieurs raisons possibles :
+    •   les investisseurs n’ont pas la même anticipation quant à la croissance des
+        dividendes.
+    •   la perception du risque de l’entreprise est différente.
+    •   les anticipations des investisseurs au niveau du taux sans risque et de la prime
+       de risque du marché diffèrent.
+
+d)   L’augmentation du taux de coupon fera augmenter le prix des obligations et donc,
+     leur valeur marchande. Ainsi, on aurait une hausse de leur pondération. Puisque le
+    coût des obligations est moindre que celui des actions, le CMPC devrait diminuer.
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 30 sur 33
+
+## Page 31
+Sujet : Risque et rendement                                      Problème #4
+
+Vous êtes un analyste financier réputé de la région de Montréal. Votre réputation a été
+établie grâce à votre habileté à bien évaluer les risques des différents titres financiers et
+le taux de rendement qui devrait être exigé. Un de vos clients, M. Fortune, vient vous
+rencontrer aujourd’hui pour vous poser plusieurs questions.
+
+La première question de M. Fortune concerne les actions. Ce dernier désire investir dans
+des actions, mais ne sait pas quel titre pourrait être le plus intéressant. Voici les données
+qu’il vous a apportées.
+
+
+                     Titre                    Action A     Action B     Action C
+  Écart-type du rendement                    ??          0,60         0,65
+  Coefficient de corrélation du titre                                             0,85          ??           ??  avec le marché
+  Bêta                                      ??          1,74         0,87
+  Taux exigé par les actionnaires                                       18 %        14 %          ??  (selon le MÉDAF)
+
+
+De plus, selon votre expérience, vous savez que :
+•   la variance des rendements du portefeuille de marché est actuellement de 0,05.
+•   le taux sans risque est actuellement égal à la moitié de la prime de risque du marché.
+•   le coefficient de corrélation de l’action B avec l’action C est de 0,75.
+
+
+Questions :
+
+a) Quel est le taux sans risque actuel?
+
+b) Quel est le bêta de l’action A?
+
+c)  Quelle est la variance des rendements de l’action A?
+
+d) Lequel des trois titres a le plus gros risque total?
+
+e) M. Fortune désire former un portefeuille en sélectionnant les actions de B et les
+    actions de C. Quelle serait la variance d’un portefeuille composé à 30 % d’actions de
+   B et 70 % d’actions de C?
+
+
+Dernière mise à jour : Juin 2022                                 Page 31 sur 33
+
+## Page 32
+f)   Si M. Fortune souhaitait détenir un portefeuille, composé uniquement d’actions de B
+    et d’actions de C, dont le risque systématique serait égal au risque systématique du
+   marché, quelle serait la proportion d’actions B dans ce portefeuille?
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 32 sur 33
+
+## Page 33
+Sujet : Risque et rendement                              Problème #4 - Solution
+
+a)  R(E B ) = R f + β B R(E( m ) − R f ) = R f + β B 2( × R f )
+    ,014 = R f + ,174 (2 × R f )
+    Rf = ,003125
+
+b)  E(R A ) = R f + β A (E(R m ) − R f ) = R f + β A (2 × R f )
+    ,018 = ,003125 + β A (2 × ,003125)
+   β A = ,238
+
+       ρ A ,m × σ A × σ mc)  β A =          2          σ m
+        0 ,85 × σ A ×  0 ,05   2 ,38 =
+             0 ,05
+   σ A = 0 ,62609903
+   σ 2A = 0 ,3920
+
+d)  L’écart type des rendements de l’action C (σ = 0,65) étant plus supérieur aux écarts
+    types des actions A (σ = 0,6261) et B(σ = 0,60), l’action C présente donc le risque total
+     le plus grand.
+
+e) σ p2 = w B2 σ B2 + w 2C σ 2C + 2 w B w C ρ B C, σ B σ C
+                    2 × (6,0 )2 ] + [(7,0 )                                          2 × (,065 )2 ] + [2 × 3,0 × 7,0 × ,075 × 6,0 × ,065] = ,0362275   σ p2 = [(3,0 )
+
+f)  β m = w B β B + w C β C = w B β B + (1 − w B ) β C
+   1 = ,174 w B + ,087(1 − w B )
+   wB = ,015
+
+
+
+
+
+Dernière mise à jour : Juin 2022                                 Page 33 sur 33

@@ -1,0 +1,102 @@
+Planification des besoins matières
+Les portes Femplast, page 216, solutionnaire
+5.1	Quel est l’horizon de planification minimum pour les portes à carreaux?
+L’horizon de planification minimum est de 6 semaines
+5.2 Faites le PBM des vis.  Utilisez toutes les grilles nécessaires pour y arriver.
+Plans des besoins matières (à compléter)
+Article | Taille du lot | Délai | En stock | Niveau
+Ensemble de carreaux | Min. 100 | 3 | 150 | 1
+Période | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Besoin brut
+
+2 x Porte
+
+TOTAL |  |  |  |  | 200 | 300 | 300 | 100
+Besoin brut
+
+2 x Porte
+
+TOTAL |  |  |  |  |  |  |  | 
+Besoin brut
+
+2 x Porte
+
+TOTAL |  |  |  |  |  |  |  | 
+Besoin brut
+
+2 x Porte
+
+TOTAL |  |  |  |  | 200 | 300 | 300 | 100
+Stock disponible projeté | 150 | 150 | 150 | 150 | 50 | 0 | 0 | 0
+Besoin net
+ |  |  |  |  | 50 | 250 | 300 | 100
+Réception planifiée
+ |  |  |  |  | 100 | 250 | 300 | 100
+Lancement planifié
+ |  | 100 | 250 | 300 | 100 |  |  | 
+Article | Taille du lot | Délai | En stock | Niveau
+Ensemble de panneaux | L X L | 1 | 0 | 1
+Période | 5 | 6 | 7 | 7 | 8 | 8 | 9 | 9 | 10 | 11 | 11 | 12
+Besoin brut
+
+3 x Porte
+
+TOTAL |  |  |  |  |  |  | 300 | 300 | 450 | 450 | 450 | 150
+Besoin brut
+
+3 x Porte
+
+TOTAL |  |  |  |  |  |  |  |  |  |  |  | 
+Besoin brut
+
+3 x Porte
+
+TOTAL |  |  |  |  |  |  |  |  |  |  |  | 
+Besoin brut
+
+3 x Porte
+
+TOTAL |  |  |  |  |  |  | 300 | 300 | 450 | 450 | 450 | 150
+Stock disponible projeté | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+Besoin net
+ |  |  |  |  |  |  | 300 | 300 | 450 | 450 | 450 | 150
+Réception planifiée
+ |  |  |  |  |  |  | 300 | 300 | 450 | 450 | 450 | 150
+Lancement planifié
+ |  |  |  |  | 300 | 300 | 450 | 450 | 450 | 150 | 150 | 
+
+
+
+
+
+ |  |  |  |  |  |  |  |  |  | 
+Article | Taille du lot | Taille du lot | Taille du lot | Délai | Délai | En stock | En stock | Niveau | Niveau | Niveau
+Vis | X400 | X400 | X400 | 2 | 2 | 350 | 350 | 2 | 2 | 2
+Période | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12
+Besoin brut
+4 x Porte
+3 x Ens. carreaux
+2 x Ens. panneaux
+TOTAL |  |  |  |  | 400 | 600 | 600 | 200
+Besoin brut
+4 x Porte
+3 x Ens. carreaux
+2 x Ens. panneaux
+TOTAL |  | 300 | 750 | 900 | 300 |  |  | 
+Besoin brut
+4 x Porte
+3 x Ens. carreaux
+2 x Ens. panneaux
+TOTAL |  |  |  | 600 | 900 | 900 | 300 | 
+Besoin brut
+4 x Porte
+3 x Ens. carreaux
+2 x Ens. panneaux
+TOTAL |  | 300 | 750 | 1500 | 1600 | 1500 | 900 | 200
+Stock disponible projeté | 350 | 50 | 100 | 200 | 200 | 300 | 200 | 0
+Besoin net
+ |  |  | 700 | 1400 | 1400 | 1300 | 600 | 0
+Réception planifiée
+ |  |  | 800 | 1600 | 1600 | 1600 | 800 | 
+Lancement planifié
+ | 800 | 1600 | 1600 | 1600 | 800 |  |  | 

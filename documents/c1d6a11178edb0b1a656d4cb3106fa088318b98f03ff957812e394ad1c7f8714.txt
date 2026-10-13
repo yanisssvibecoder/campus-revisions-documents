@@ -1,0 +1,14 @@
+## Page 1
+                              Feuille de formules (examen intra)
+La valeur𝑉𝑉𝑉𝑉actuelle d’un flux monétaire  Le prix d’une−(1obligation+ 𝑟𝑟)−𝑡𝑡        𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉=                                              𝑃𝑃0 = 𝐶𝐶 ቈ1        ቉+La valeur(1 +actuelle𝑟𝑟)𝑡𝑡   d’une perpétuité     Le prix d’une action𝑟𝑟   avec des(1 dividendes+ 𝑟𝑟)𝑡𝑡      constants
+         𝑝𝑝𝑝𝑝𝑝𝑝                                                       𝐷𝐷1𝑉𝑉𝑉𝑉=                                                      𝑃𝑃0 =La valeur𝑟𝑟 actuelle d’une annuité                                    Le prix𝑟𝑟d’une action avec des dividendes croissants (modèle de Gordon)
+VAA= 𝑝𝑝𝑝𝑝𝑝𝑝 ቂ 1−(1+𝑟𝑟)−𝑡𝑡𝑟𝑟     ቃ                             𝐷𝐷1La valeur future d’une annuité             𝑃𝑃0 =                                         𝑟𝑟−𝑔𝑔
+                               Rendement espéré et la variance d’un titre
+VFA= 𝑝𝑝𝑝𝑝𝑝𝑝 ቂ (1+𝑟𝑟)𝑡𝑡−1𝑟𝑟    ቃ                                                  𝑛𝑛La valeur actuelle d’une perpétuité en                                              𝐸𝐸(𝑅𝑅) = ෍𝑃𝑃𝑖𝑖× 𝑅𝑅𝑖𝑖croissance                                                   𝑖𝑖=1                                                                                           𝑛𝑛                                                      𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅) = ෍𝑃𝑃𝑖𝑖× ൫𝑅𝑅𝑖𝑖−𝐸𝐸(𝑅𝑅)൯2                                                                    𝑖𝑖=1         𝑝𝑝𝑝𝑝𝑝𝑝𝑉𝑉𝑉𝑉=La valeur𝑟𝑟−𝑔𝑔actuelle d’une annuité en    Rendement espéré et la variance d’un portefeuille composé de deux titres
+croissance                               financiers
+                                              t       PMT1      (1 + g ) VAAC 0 =       1 −                           r − g     (1 + r )                                      𝐸𝐸൫𝑅𝑅𝑝𝑝൯= 𝑥𝑥𝑥𝑥(𝑅𝑅𝐴𝐴) + (1 −𝑥𝑥)𝐸𝐸(𝑅𝑅𝐵𝐵)                                               𝑣𝑣𝑣𝑣𝑣𝑣൫𝑅𝑅𝑝𝑝൯= 𝑥𝑥2𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝐴𝐴) + (1 −𝑥𝑥)2𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝐵𝐵) + 2𝑥𝑥(1 −𝑥𝑥)𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐(𝑅𝑅𝐴𝐴 , 𝑅𝑅𝐵𝐵)Équivalence de taux
+(𝟏𝟏+Où r1𝒓𝒓𝟏𝟏)𝒎𝒎𝟏𝟏=est un (𝟏𝟏+taux𝒓𝒓𝟐𝟐)𝒎𝒎𝟐𝟐périodique capitalisé   Corrélation entre les𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐(𝑅𝑅𝐴𝐴,rendements𝑅𝑅𝐵𝐵)des titres A et Bm1 fois par année                                    𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐(𝑅𝑅𝐴𝐴, 𝑅𝑅𝐵𝐵) =                                                                       ඥ𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝐴𝐴)ඥ𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝐵𝐵)
+Où r2 est au taux périodique capitalisé  MÉDAF
+m2 fois par année
+                                                       𝐸𝐸(𝑅𝑅𝑖𝑖) = 𝑅𝑅𝑓𝑓+ 𝛽𝛽𝑖𝑖൫𝐸𝐸(𝑅𝑅𝑀𝑀) −𝑅𝑅𝑓𝑓൯
+                                   Bêta 𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐(𝑅𝑅𝑖𝑖, 𝑅𝑅𝑀𝑀)                                            𝛽𝛽𝑖𝑖=                                                                𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝑀𝑀)

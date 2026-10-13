@@ -1,0 +1,40 @@
+## Page 1
+Cas : Cap Genius
+
+L’entreprise Cap Genius est une entreprise du secteur des services informatiques.
+Afin de mettre à jour son réseau, les dirigeants de l’entreprise veulent investir dans
+un nouveau projet visant à renouveler son parc informatique. Ce nouveau projet
+nécessite un investissement initial de 2 millions de dollars.
+
+Cap Genius utilise le Coût Moyen Pondéré du Capital pour déterminer le taux de
+rendement exigé pour ses projets d’investissement. Cependant, comme  il s’agit
+d’un projet moins risqué que ses activités ordinaires, les dirigeants veulent déduire
+2 % à leur taux de rendement exigé habituel.
+
+Voici quelques données sur la structure de financement actuelle de l’entreprise
+ainsi que sur le financement prévu pour le nouveau projet :
+
+   Actuellement 100 000 actions ordinaires de Cap Genius se transigent sur les
+   marchés à un prix de 10 $. Ces actions présentent un bêta de 1,5. La prime de
+   risque du portefeuille de marché est de 5 % annuelle et le rendement anticipé
+   sur le portefeuille de marché est actuellement de 8 %.
+
+      Il y a actuellement deux types d’obligations de Cap Genius sur les marchés :
+         -    1 000 obligations zéro-coupons de valeur nominale 1 000 $, qui
+           viennent à échéance dans 5 ans, se transigeant actuellement à 690 $.
+         -    300 obligations versant des coupons semestriels de 30 $ et venant à
+          échéance dans 6 ans et dont le taux de rendement à l’échéance
+              s’établit à 7,5 % nominal.
+
+   Le projet sera financé 50 % par actions ordinaires et 50 % par obligations.
+
+   Le taux d’imposition marginal de l’entreprise est de 35 %.
+
+Quel taux de rendement annuel effectif Cap Genius devrait exiger pour ce nouveau
+projet?
+
+
+
+
+
+                                                                              Jean-Philippe Tarte

@@ -1,0 +1,25 @@
+1-2.1 | Activités/ressources AVANT la séance
+
+Séances 1 et 2
+Travail préparatoire
+LECTURES :
+Livre
+Gestion financière (4e ou 5e édition)
+Chapitre 1 (Introduction)
+Chapitres 5 et 6 (Mathématiques financières)
+Important !
+S1 Chapitre 1 - Introduction à la finance.pptx
+Capsule : Introduction à la finance
+Important !
+Séance 2- Capsules 1 à 5.pptx
+Capsule 1 - Principes de mathématiques financières et montant simple
+Capsule 2 - L'annuité
+Capsule 3 - La perpétuité
+Capsule 4 - L'équivalence (conversion) de taux d'intérêt
+Capsule 5 - Exemples d'exercices de math financières
+Erreur: Pour l'offre 1, l'exposant de l'annuité est bien entendu 48 (# de versements) et non 500 (qui est la valeur du paiement), ce qui vous donnera la bonne réponse affichée de 31 758$.
+AIDE-MÉMOIRE
+:
+Résumé sur les mathématiques financières (à compléter) :
+Résumé math fin.docx
+Vous pouvez compléter le document à partir des capsules vidéos, notes du cours et livre.

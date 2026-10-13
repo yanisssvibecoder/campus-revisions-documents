@@ -1,0 +1,15 @@
+9 | Description et objectifs de la séance
+
+La matière première des systèmes d’information : toujours plus de données
+Description
+La représentation visuelle d'informations importantes sous forme de graphiques, de cartes et d'indicateurs faciles à comprendre d'un coup d'œil permet aux utilisateurs de voir immédiatement les tendances, les comparaisons et les alertes grâce à des visualisations des courbes de ventes, des cartes géographiques ou des jauges qui montrent si les objectifs sont atteints. Cela évite d'avoir à fouiller dans des centaines de pages de rapports ou de bases de données.
+Ces visualisations sont habituellement interactives, ce qui permet aux gestionnaires de cliquer sur une région pour voir le détail des ventes ou de filtrer par période pour comprendre l'évolution dans le temps. Ici aussi,
+l'assimilation de ces concepts se fait de façon ludique à l'aide du jeu
+L'héritier de l'érable
+développé par le laboratoire ERPsim.
+Important!
+Cette semaine, vous entrez dans la peau d’un possible héritier. L’avenir de l’érablière est entre vos mains — saurez-vous lire les tableaux de bord, décoder les indicateurs et prendre les bonnes décisions pour prouver que vous êtes prêt à prendre la relève ?
+Objectifs de la séance
+Évaluer la pertinence d'un type de graphique pour une question d'affaires donnée, en s'appuyant sur les principes de visualisation
+Évaluer la qualité et la pertinence des données dans la construction d’un indicateur de gestion
+Construire des indicateurs simples sur Tableau Desktop à partir des données de la pizzeria pour répondre à des questions d'affaires précises

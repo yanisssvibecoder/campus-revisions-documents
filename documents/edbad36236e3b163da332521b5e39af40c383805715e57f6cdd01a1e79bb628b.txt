@@ -1,0 +1,681 @@
+## Page 1
+Mobiliser les
+technologies numériques
+TECH 10701
+
+
+Développé par
+Yannick Brière
+
+## Page 2
+  Exercice supplémentaire
+  DOSSIER ÉTUDIANT
+
+
+
+Mobiliser les technologies numériques
+
+## Page 3
+     Exercice : Formes normales
+
+Faites les manipulations pour mettre ce tableau en 1FN
+
+     Matricule      Nom           Date naissance    Programme     No cours  Nom cours                      Session         Note
+
+                                                                               10701     MTN                         A2025
+
+                                                                      10903      Comptabilité financière            H2025          A
+     12345678          Novak Sinner      2004-01-26        BAA
+                                                                 10200     Finance                       H2025            B
+
+                                                                         10407     Management                   A2024          A
+
+                                                                 10200     Finance                         A2021          A
+
+                                                   BAA              10407     Management                    A2021          A
+     12312345                Felix Nash        2000-10-12
+                                                                      10903      Comptabilité financière            H2022         C
+
+                                                                          Maîtrise           60799     MTN                          A2024           B
+
+                                                                               10701     MTN                         A2025
+
+                                                                      10903      Comptabilité financière            H2024            B
+     15432123         Asma Jabeur     2005-06-23        BAA
+                                                                 10200     Finance                       A2024          A
+
+                                                                         10407     Management                   A2024          A
+
+## Page 4
+  Les diapositives suivantes
+  contiennent la solution
+
+
+
+Mobiliser les technologies numériques
+
+## Page 5
+     Exercice : Formes normales
+
+Mettre ce tableau en 1FN
+ Matricule   Nom          Date naissance   Programme  No cours  Nom cours                  Session       Note
+
+ 12345678      Novak Sinner      2004-01-26        BAA            10701     MTN                       A2025
+
+ 12345678      Novak Sinner      2004-01-26        BAA           10903       Comptabilité financière         H2025         A
+
+ 12345678      Novak Sinner      2004-01-26        BAA          10200      Finance                     H2025          B
+
+ 12345678      Novak Sinner      2004-01-26        BAA           10407      Management                A2024         A
+
+ 12312345          Felix Nash        2000-10-12        BAA          10200      Finance                      A2021         A
+
+ 12312345          Felix Nash        2000-10-12        BAA           10407      Management                  A2021         A
+
+ 12312345          Felix Nash        2000-10-12        BAA           10903       Comptabilité financière         H2022        C
+
+ 12312345          Felix Nash        2000-10-12           Maîtrise        60799     MTN                       A2024          B
+
+ 15432123      Asma Jabeur     2005-06-23       BAA            10701     MTN                       A2025
+
+ 15432123      Asma Jabeur     2005-06-23       BAA           10903       Comptabilité financière         H2024          B
+
+ 15432123      Asma Jabeur     2005-06-23       BAA          10200      Finance                     A2024         A
+
+ 15432123      Asma Jabeur     2005-06-23       BAA           10407      Management                A2024         A
+
+## Page 6
+     Exercice : Formes normales
+
+Mettre en 2FN
+   Matricule  Nom            Date naissance  Programme  No cours  Nom cours                  Session       Note
+
+   12345678     Novak Sinner       2004-01-26       BAA           10701      MTN                       A2025
+
+   12345678     Novak Sinner       2004-01-26       BAA          10903        Comptabilité financière         H2025         A
+
+   12345678     Novak Sinner       2004-01-26       BAA         10200       Finance                     H2025          B
+
+   12345678     Novak Sinner       2004-01-26       BAA          10407      Management                A2024         A
+
+   12312345        Felix Nash          2000-10-12       BAA         10200       Finance                      A2021         A
+
+   12312345        Felix Nash          2000-10-12       BAA          10407      Management                  A2021         A
+
+   12312345        Felix Nash          2000-10-12       BAA          10903        Comptabilité financière         H2022        C
+
+   15445654     Maria Marquez     2000-04-03         Maîtrise        60799      MTN                       A2024          B
+
+   15432123     Asma Jabeur       2005-06-23       BAA           10701      MTN                       A2025
+
+   15432123     Asma Jabeur       2005-06-23       BAA          10903        Comptabilité financière         H2024          B
+
+   15432123     Asma Jabeur       2005-06-23       BAA         10200       Finance                     A2024         A
+
+   15432123     Asma Jabeur       2005-06-23       BAA          10407      Management                A2024         A
+
+## Page 7
+     Exercice : Formes normales
+
+Mettre en 2FN : étape 1 : Éléments connus avec une partie de la clé
+
+ Matricule   Nom         Date naissance    Programme  No cours Nom cours                  Session       Note
+
+ 12345678      Novak Sinner     2004-01-26         BAA            10701     MTN                       A2025
+
+ 12345678      Novak Sinner     2004-01-26         BAA           10903      Comptabilité financière         H2025         A
+
+ 12345678      Novak Sinner     2004-01-26         BAA          10200      Finance                     H2025          B
+
+ 12345678      Novak Sinner     2004-01-26         BAA           10407     Management                A2024         A
+
+ 12312345         Felix Nash       2000-10-12         BAA          10200      Finance                      A2021         A
+
+ 12312345         Felix Nash       2000-10-12         BAA           10407     Management                  A2021         A
+
+ 12312345         Felix Nash       2000-10-12         BAA           10903      Comptabilité financière         H2022        C
+
+ 12312345         Felix Nash       2000-10-12             Maîtrise         60799     MTN                       A2024          B
+
+ 15432123      Asma Jabeur     2005-06-23        BAA            10701     MTN                       A2025
+
+ 15432123      Asma Jabeur     2005-06-23        BAA           10903      Comptabilité financière         H2024          B
+
+ 15432123      Asma Jabeur     2005-06-23        BAA          10200      Finance                     A2024         A
+
+ 15432123      Asma Jabeur     2005-06-23        BAA           10407     Management                A2024         A
+
+## Page 8
+     Exercice : Formes normales
+
+Mettre en 2FN : étape 2 : Créer les tableaux pour avoir les attributs par clé
+                                                                  Tableau 3       Tableau 1
+                                                                              Matricule   No cours   Session      Note        Matricule   Nom         Date naissance
+                                                                                 12345678      10701      A2025        12345678     Novak Sinner    2004-01-26
+                                                                                 12345678     10903     H2025       A         12312345         Felix Nash       2000-10-12
+                                                                                 12345678     10200     H2025         B         15432123     Asma Jabeur    2005-06-23
+                                                                                 12345678     10407     A2024       A
+       Tableau 2                                                                                     12312345     10200     A2021        A
+      No cours   Nom cours                Programme                                                                                     12312345      10407      A2021        A
+        10701      MTN                       BAA                                                                                     12312345      10903     H2022       C
+       10903        Comptabilité financière          BAA                                                                               15445654     60799     A2024         B
+      10200       Finance                     BAA                                                                                     15432123      10701      A2025
+       10407      Management                 BAA                                                                                     15432123      10903     H2024         B
+       60799      MTN                                  Maîtrise                                                                                     15432123     10200     A2024       A
+
+                                                                                     15432123      10407     A2024       A
+
+## Page 9
+     Exercice : Formes normales
+
+Mettre en 3FN                                           Tableau 3
+
+                                                                             Matricule   No cours   Session    Note       Tableau 1
+        Matricule   Nom         Date naissance                           12345678      10701      A2025
+                                                                                 12345678     10903     H2025     A        12345678     Novak Sinner    2004-01-26
+
+                                                                                 12345678     10200     H2025     B         12312345         Felix Nash       2000-10-12
+
+                                                                                 12345678     10407     A2024     A         15432123     Asma Jabeur    2005-06-23
+
+                                                                                    12312345     10200     A2021     A
+          Tableau 2
+                                                                                    12312345      10407      A2021     A
+         No cours   Nom cours           Programme
+                                                                                    12312345      10903     H2022    C
+            10701      MTN                  BAA
+                                                                               15445654     60799     A2024     B
+           10903        Comptabilité financière    BAA
+                                                                                    15432123      10701      A2025
+          10200       Finance               BAA
+                                                                                    15432123      10903     H2024      B
+           10407      Management           BAA
+                                                                                    15432123     10200     A2024     A
+           60799      MTN                          Maîtrise
+                                                                                    15432123      10407     A2024     A
+
+## Page 10
+     Exercice : Formes normales
+
+
+
+
+
+Mettre en 3FN
+
+
+
+
+Les tableaux sont déjà en 3FN
+
+## Page 11
+     Exercice : Formes normales : Modèle logique
+
+
+
+Étudiant                                           Inscription                               Cours
+Matricule   Nom         Date naissance     Matricule   No cours   Session    Note    No cours  Nom cours      Programme
+
+12345678     Novak Sinner    2004-01-26          12345678      10701      A2025               10701     MTN             BAA
+
+                                                                                                                        Comptabilité12312345         Felix Nash       2000-10-12          12345678     10903     H2025     A        10903                     BAA                                                                                                                                 financière
+15432123     Asma Jabeur    2005-06-23         12345678     10200     H2025     B                                                                              10200      Finance          BAA
+                                                   12345678     10407     A2024     A                                                                                      10407     Management      BAA
+                                                     12312345     10200     A2021     A                                                                                      60799     MTN                  Maîtrise
+                                                     12312345      10407      A2021     A
+
+                                                     12312345      10903     H2022    C
+
+                                                 15445654     60799     A2024     B
+
+                                                     15432123      10701      A2025
+
+                                                     15432123      10903     H2024      B
+
+                                                     15432123     10200     A2024     A
+
+                                                     15432123      10407     A2024     A
+
+## Page 12
+  Exercice supplémentaire
+  BON D’ACHAT
+
+
+
+Mobiliser les technologies numériques
+
+## Page 13
+    Tableau de départ
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+                                                             1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+                                  2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+                                3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+   A                Vital
+                                 4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+                                5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+                                  2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+                                           12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+                                         13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+                                         15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+                                           12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+                                34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+                                36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 14
+  Les diapositives suivantes
+  contiennent la solution
+
+
+
+Mobiliser les technologies numériques
+
+## Page 15
+    1FN – Attributs atomiques
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+   A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+   A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+
+   A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+   A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+    B           Roxy               13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+    B           Roxy               15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+   C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+   C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 16
+     Clés candidates
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+   A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+   A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+
+   A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+   A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+    B           Roxy               13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+    B           Roxy               15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+   C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+   C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 17
+    1FN – Clé primaire de départ
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+   A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+   A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+
+   A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+   A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+    B           Roxy               13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+    B           Roxy               15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+   C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+   C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 18
+    2FN – Clé primaire de départ
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+   A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+   A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+
+   A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+   A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+    B           Roxy               13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+    B           Roxy               15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+   C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+   C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 19
+    2FN – Séparer en tables distinctes
+
+
+Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré   No bon Achat   Date bon achat      Quantité
+
+   A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $       4587         23-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $       4587         23-mars-21          45
+
+   A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $      4599          27-mars-21              12
+
+   A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $      4599          27-mars-21       200
+
+   A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $      4599          27-mars-21       500
+
+   A                Vital            2            Balai       Marque 1              4,59 $             12,99 $      4599          27-mars-21          25
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4754            18-avr-21       300
+
+    B           Roxy               13           Balai       Marque 1              4,59 $               13,21 $       4754            18-avr-21        50
+
+    B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $       4799           29-avr-21        250
+
+    B           Roxy               15       Éponge     Marque 3           0,33 $          0,89 $       4799           29-avr-21        350
+
+    B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $       4799           29-avr-21          150
+
+   C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $      4801           29-avr-21              15
+
+   C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $      4801           29-avr-21           5
+
+   C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $      4801           29-avr-21          555
+
+## Page 20
+3FN
+
+
+
+         3FN                          3FN             3FN
+
+## Page 21
+3FN
+
+
+
+         Fournisseur Contact fournisseur No produit     Produit      Marque         Prix achat       Prix suggéré
+
+          A                Vital                       1        Savon      Marque 1              1,02 $             2,22 $
+
+          A                Vital            2            Balai       Marque 1              4,59 $             12,99 $
+
+          A                Vital            3          Serpillère     Marque 1                 7,77 $               21,81 $
+
+          A                Vital            4          Chiffon      Marque 2           0,58 $                        1,11 $
+
+          A                Vital            5        Éponge     Marque 2           0,33 $          0,89 $
+
+           B           Roxy               12        Savon      Marque 1              1,08 $             2,22 $
+
+           B           Roxy              13           Balai       Marque 1              4,59 $               13,21 $
+
+           B           Roxy               14         Chiffon      Marque 1           0,55 $          0,99 $
+
+           B           Roxy              15       Éponge     Marque 3           0,33 $          0,89 $
+
+         C           Popaul          34           Cire       Marque 3            23,99 $         249,44 $
+
+         C           Popaul          35        Aspirateur    Marque 4            135,99 $         324,99 $
+
+         C           Popaul          36        Savon      Marque 1              1,02 $            2,25 $
+
+## Page 22
+ 3FN
+
+
+
+                                   No produit  Fournisseur    Produit     Marque        Prix achat      Prix suggéré
+
+                                                                                     1        A       Savon     Marque 1            1,02 $           2,22 $Fournisseur Contact fournisseur
+
+                                               2        A          Balai      Marque 1            4,59 $           12,99 $   A                Vital
+
+                                            3        A         Serpillère    Marque 1              7,77 $             21,81 $    B           Roxy
+
+                                              4        A        Chiffon     Marque 2          0,58 $                      1,11 $   C           Popaul
+
+                                            5        A       Éponge     Marque 2          0,33 $         0,89 $
+
+                                                          12         B       Savon     Marque 1            1,08 $           2,22 $
+
+                                                        13         B          Balai      Marque 1            4,59 $             13,21 $
+
+                                                         14         B        Chiffon     Marque 1          0,55 $         0,99 $
+
+                                                        15         B       Éponge     Marque 3          0,33 $         0,89 $
+
+                                           34       C          Cire      Marque 3          23,99 $        249,44 $
+
+                                          35       C       Aspirateur    Marque 4          135,99 $        324,99 $
+
+                                           36       C       Savon     Marque 1            1,02 $           2,25 $
+
+## Page 23
+Modèle logique
+
+## Page 24
+  Exercice supplémentaire
+  STATISTIQUES SOCCER
+
+
+
+Mobiliser les technologies numériques
+
+## Page 25
+    Jeu de données de départ
+
+
+
+No partie Date partie Équipe receveur  Équipe visiteur Séquence  Temps   Demi   But pour No buteur No passeur Équipe du buteur
+
+     234  23-juin-25 Bleu           Rouge                              1 23:00               1 Receveur       22           12 Receveur
+
+                                                         2 45:00               1 Receveur       23           12 Receveur
+
+                                                      3 17:00         2 Receveur                1              Visiteur
+
+      247  28-juin-25 Vert            Rose                                1 12:00         2 Visiteur                   11              Visiteur
+
+      251  29-juin-25 Mauve         Orange                            1 19:00                1 Receveur        8           12 Receveur
+
+                                                         2 39:00               1 Visiteur         22                11 Receveur
+
+                                                      3 19:00         2 Receveur        8           21 Receveur
+
+                                                        4 42:00        2 Receveur          14           12 Receveur
+
+      287  06-juil-25 Bleu           Orange                            1 23:00               1 Visiteur         22           Receveur
+
+                                                         2 31:00                1 Visiteur         22        88 Visiteur
+
+                                                      3 31:00         2 Visiteur         22           12 Visiteur
+
+## Page 26
+  Les diapositives suivantes
+  contiennent la solution
+
+
+
+Mobiliser les technologies numériques
+
+## Page 27
+   1FN
+
+
+
+
+No partie Date partie Équipe receveur  Équipe visiteur Séquence  Temps   Demi   But pour No buteur No passeur Équipe du buteur
+
+     234  23-juin-25 Bleu           Rouge                              1 23:00               1 Receveur       22           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge                2 45:00               1 Receveur       23           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge               3 17:00         2 Receveur                1              Visiteur
+
+      247  28-juin-25 Vert            Rose                                1 12:00         2 Visiteur                   11              Visiteur
+
+      251  29-juin-25 Mauve         Orange                            1 19:00                1 Receveur        8           12 Receveur
+
+      251  29-juin-25 Mauve         Orange               2 39:00               1 Visiteur         22                11 Receveur
+
+      251  29-juin-25 Mauve         Orange              3 19:00         2 Receveur        8           21 Receveur
+
+      251  29-juin-25 Mauve         Orange               4 42:00        2 Receveur          14           12 Receveur
+
+      287  06-juil-25 Bleu           Orange                            1 23:00               1 Visiteur         22           Receveur
+
+      287  06-juil-25 Bleu           Orange               2 31:00                1 Visiteur         22        88 Visiteur
+
+      287  06-juil-25 Bleu           Orange              3 31:00         2 Visiteur         22           12 Visiteur
+
+## Page 28
+   1FN
+
+
+
+
+No partie Date partie Équipe receveur  Équipe visiteur Séquence  Temps   Demi   But pour No buteur No passeur Équipe du buteur
+
+     234  23-juin-25 Bleu           Rouge                              1 23:00               1 Receveur       22           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge                2 45:00               1 Receveur       23           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge               3 17:00         2 Receveur                1              Visiteur
+
+      247  28-juin-25 Vert            Rose                                1 12:00         2 Visiteur                   11              Visiteur
+
+      251  29-juin-25 Mauve         Orange                            1 19:00                1 Receveur        8           12 Receveur
+
+      251  29-juin-25 Mauve         Orange               2 39:00               1 Visiteur         22                11 Receveur
+
+      251  29-juin-25 Mauve         Orange              3 19:00         2 Receveur        8           21 Receveur
+
+      251  29-juin-25 Mauve         Orange               4 42:00        2 Receveur          14           12 Receveur
+
+      287  06-juil-25 Bleu           Orange                            1 23:00               1 Visiteur         22           Receveur
+
+      287  06-juil-25 Bleu           Orange               2 31:00                1 Visiteur         22        88 Visiteur
+
+      287  06-juil-25 Bleu           Orange              3 31:00         2 Visiteur         22           12 Visiteur
+
+## Page 29
+   2FN – Étape 1
+
+
+
+
+No partie Date partie Équipe receveur  Équipe visiteur Séquence  Temps   Demi   But pour No buteur No passeur Équipe du buteur
+
+     234  23-juin-25 Bleu           Rouge                              1 23:00               1 Receveur       22           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge                2 45:00               1 Receveur       23           12 Receveur
+
+     234  23-juin-25 Bleu           Rouge               3 17:00         2 Receveur                1              Visiteur
+
+      247  28-juin-25 Vert            Rose                                1 12:00         2 Visiteur                   11              Visiteur
+
+      251  29-juin-25 Mauve         Orange                            1 19:00                1 Receveur        8           12 Receveur
+
+      251  29-juin-25 Mauve         Orange               2 39:00               1 Visiteur         22                11 Receveur
+
+      251  29-juin-25 Mauve         Orange              3 19:00         2 Receveur        8           21 Receveur
+
+      251  29-juin-25 Mauve         Orange               4 42:00        2 Receveur          14           12 Receveur
+
+      287  06-juil-25 Bleu           Orange                            1 23:00               1 Visiteur         22           Receveur
+
+      287  06-juil-25 Bleu           Orange               2 31:00                1 Visiteur         22        88 Visiteur
+
+      287  06-juil-25 Bleu           Orange              3 31:00         2 Visiteur         22           12 Visiteur
+
+## Page 30
+2FN – Étape 2
+
+## Page 31
+ 3FN
+
+
+
+
+
+Ces tableaux sont en
+  troisième forme
+     normale.
+
+## Page 32
+Modèle logique

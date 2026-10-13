@@ -1,0 +1,824 @@
+Finance — Ch. 5 & 6 : La valeur de l'argent dans le temps
+$
+Finance · Valeur de l'argent
+Principe
+Chapitre 5
+Chapitre 6
+Formulaire
+🌙
+📗 Gestion financière · 4ᵉ éd.
+La valeur de l'argent dans le temps
+Tout ce qu'il faut comprendre des
+chapitres 5 et 6
+— expliqué à partir de zéro, avec des analogies, des calculatrices animées, chaque formule décortiquée et des dizaines d'exemples tirés de ton manuel.
+🎯 Zéro connaissance requise
+🧮 Calculatrices interactives
+📐 Toutes les formules
+✅ Quiz d'auto-évaluation
+🗺️ Ton parcours
+L'idée maîtresse : 1 $ aujourd'hui > 1 $ demain
+Intérêts simples vs composés
+Valeur capitalisée (VC) — faire grossir l'argent
+Valeur actualisée (VA) — ramener au présent
+Trouver le taux (r) ou la durée (t)
+Exemples résolus + quiz — Chapitre 5
+Flux monétaires multiples
+Annuités (VA, VC, début de période)
+Perpétuités & flux croissants
+Taux nominal vs taux EFFECTIF 💳
+Prêts & tableau d'amortissement
+Exemples résolus + quiz — Chapitre 6
+Formulaire récapitulatif
+Glossaire express
+Le point de départ
+L'idée maîtresse : un dollar aujourd'hui vaut plus qu'un dollar demain
+🍰 Analogie
+Imagine que je te propose un choix :
+100 $ maintenant
+, ou
+100 $ dans un an
+. Tu prends « maintenant », évidemment. Pourquoi ? Parce que les 100 $ d'aujourd'hui, tu peux les
+placer
+et ils vont
+grossir tout seuls
+grâce aux intérêts. Dans un an, tu aurais peut-être 110 $. Donc 100 $ aujourd'hui « valent » plus que 100 $ plus tard.
+💡 Le principe (valeur temporelle de l'argent)
+L'argent a une
+valeur qui dépend du
+moment
+où on le reçoit. Tout le chapitre 5 sert à mettre un chiffre exact sur ce compromis « argent maintenant ↔ argent plus tard ». On fait deux mouvements dans le temps :
+➡️ Capitaliser
+Prendre de l'argent d'
+aujourd'hui
+et calculer combien il vaudra
+plus tard
+. On
+ajoute
+les intérêts.
+⬅️ Actualiser
+Prendre de l'argent du
+futur
+et calculer combien il vaut
+aujourd'hui
+. On
+enlève
+les intérêts.
+Objectifs du chapitre 5 (OA) : OA1 trouver la valeur capitalisée · OA2 trouver la valeur actualisée · OA3 trouver le taux de rendement · OA4 trouver la durée.
+Chapitre 5 · §5.1
+Intérêts simples vs intérêts composés
+C'est LA distinction de départ. La différence a l'air minuscule au début… puis elle devient gigantesque avec le temps. C'est « la magie des intérêts composés ».
+Intérêts simples
+Les intérêts sont calculés
+seulement sur le capital de départ
+. Chaque année, le même montant. On ne réinvestit pas les intérêts.
+Intérêts composés
+Les intérêts sont calculés sur le capital
++ les intérêts déjà accumulés
+. On gagne des
+« intérêts sur les intérêts »
+. Ça s'appelle la
+capitalisation
+.
+🍰 Analogie — la boule de neige
+Intérêt simple = tu ajoutes chaque année une
+couche de neige de même épaisseur
+. Intérêt composé = tu fais
+rouler une boule de neige
+: plus elle est grosse, plus elle ramasse de neige à chaque tour. Elle grossit de plus en plus vite.
+Ex.
+100 $ à 10 % — vois la différence se creuser
+Ton manuel (Tableau 5.1) suit 100 $ placés à 10 %. Regarde la colonne « intérêts composés » : elle est à 0 la 1ʳᵉ année, puis grandit chaque année (0 → 1,00 → 2,10 → 3,31 → 4,64 $), alors que l'intérêt simple reste bloqué à 10 $/an.
+🎬 Le comparateur simple vs composé
+Bouge les curseurs. Regarde les deux courbes s'écarter : l'écart, c'est l'« intérêt sur intérêt ».
+Capital de départ
+100 $
+Taux annuel
+10 %
+Durée
+20 ans
+—
+Valeur avec intérêts
+composés
+✅ En gros, retiens que…
+Intérêt simple = ligne droite. Intérêt composé = courbe qui accélère. Plus la
+durée
+et le
+taux
+sont grands, plus l'écart explose. C'est pourquoi placer tôt change tout.
+Chapitre 5 · §5.1
+Valeur capitalisée (VC) : combien vaudra mon argent plus tard ?
+La
+valeur capitalisée
+(aussi « valeur future ») répond à : « si je place C dollars aujourd'hui à un taux r, combien j'aurai après t périodes ? »
+Valeur capitalisée
+[5.1]
+VC
+t
+= C × (1 + r)
+t
+VC
+t
+= ce que tu auras après t périodes
+C
+= capital placé aujourd'hui
+r
+= taux d'intérêt par période (ex. 0,10)
+t
+= nombre de périodes (souvent des années)
+(1+r)
+t
+=
+facteur de capitalisation
+🔑 Comment lire la formule
+Le cœur, c'est
+(1 + r)
+t
+. Le « 1 » garde ton capital, le « r » ajoute les intérêts, et l'exposant «
+t
+» veut dire « on répète ça t fois de suite » — c'est ça qui fait la boule de neige. Multiplie ton capital par ce facteur et tu obtiens la valeur future.
+Pas à pas
+100 $ à 10 % pendant 5 ans
+1️⃣ Facteur : (1 + 0,10)
+5
+= (1,10)
+5
+=
+1,6105
+2️⃣ Multiplie : VC = 100 $ × 1,6105 =
+161,05 $
+3️⃣ Intérêts totaux = 161,05 − 100 = 61,05 $ · dont 50 $ « simples » (5 × 10 $) et
+11,05 $
+d'intérêts composés.
+🧮 Calculatrice — Valeur capitalisée
+Change les valeurs : le résultat et la ligne du temps s'animent.
+Capital aujourd'hui (C)
+Taux par période (r)
+10 %
+Nombre de périodes (t)
+5
+—
+Valeur capitalisée VC
+t
+🏆 Exemple marquant du livre — la Coupe Stanley
+Lord Stanley a payé
+48,67 $
+pour la coupe il y a 120 ans. À 10 % par an : facteur (1,10)
+120
+= 92 709 → VC = 48,67 × 92 709 ≈
+4 512 150 $
+! Un petit montant + beaucoup de temps + les intérêts composés = une fortune.
+Chapitre 5 · §5.2
+Valeur actualisée (VA) : combien vaut aujourd'hui de l'argent futur ?
+C'est l'
+opération inverse
+. On connaît une somme
+future
+et on veut savoir combien il faut mettre
+aujourd'hui
+pour l'obtenir. On « actualise » = on retire les intérêts.
+Valeur actualisée
+[5.2]
+VA =
+C
+(1 + r)
+t
+VA
+= valeur aujourd'hui
+C
+= somme reçue dans le futur
+r
+= taux d'actualisation par période
+t
+= nombre de périodes avant de la recevoir
+1/(1+r)
+t
+=
+facteur d'actualisation
+🔑 Capitaliser et actualiser sont deux directions d'une même route
+Capitaliser =
+multiplier
+par (1+r)
+t
+pour avancer dans le temps. Actualiser =
+diviser
+par (1+r)
+t
+pour reculer dans le temps. C'est l'
+équation de base
+[5.3] : VA × (1+r)
+t
+= VC
+t
+. Avec elle, si tu connais 3 des 4 valeurs (VA, VC, r, t), tu trouves la 4ᵉ.
+Pas à pas
+J'ai besoin de 400 $ dans 1 an, taux 4 %
+VA × 1,04 = 400 $  →  VA = 400 ÷ 1,04 =
+384,62 $
+.
+Autrement dit,
+384,62 $ aujourd'hui
+= 400 $ dans un an (à 4 %). Les deux ont la « même valeur » à des moments différents.
+🧮 Calculatrice — Valeur actualisée
+Combien investir aujourd'hui pour obtenir une somme cible plus tard ?
+Somme future visée (C)
+Taux d'actualisation (r)
+10 %
+Périodes avant réception (t)
+5
+—
+Valeur actualisée VA (à investir aujourd'hui)
+✅ En gros, retiens que…
+Plus le
+taux
+est élevé et plus le
+délai (t)
+est long, plus la valeur actualisée est
+petite
+: de l'argent très lointain ne vaut presque rien aujourd'hui. VA et r sont
+inversement
+liés.
+Chapitre 5 · §5.3
+Trouver le taux (r) ou la durée (t) qui manque
+L'équation de base a 4 variables. On a vu comment trouver VC et VA. Voici les deux dernières inconnues.
+Trouver le taux r
+1 + r =
+VC
+t
+VA
+1/t
+On prend la
+racine t-ième
+du rapport « ce que ça devient ÷ ce que ça coûte ».
+Trouver la durée t
+t =
+ln(VC
+t
+/ VA)
+ln(1 + r)
+On utilise le
+logarithme
+(touche ln) pour « faire descendre » l'exposant t.
+⚡ Le raccourci magique — la Règle de 72
+Envie de savoir en combien de temps ton argent
+double
+? Divise 72 par le taux (en %).
+Durée pour doubler ≈
+72
+r (%)
+Ex. à 9 % : 72 ÷ 9 =
+8 ans
+pour doubler. Précis pour des taux de 5 % à 20 %.
+🧮 Résolveur universel — trouve l'inconnue
+Choisis ce que tu cherches, entre les 3 autres valeurs.
+Trouver le taux r
+Trouver la durée t
+Valeur aujourd'hui (VA)
+Valeur future (VC)
+Durée t (périodes)
+8
+Taux r
+9 %
+—
+Exemple du livre : la veste
+Thriller
+de Michael Jackson — 20 000 $ en 1983, revendue 1,8 M$ en 2011 (28 ans). (1+r)
+28
+= 90 → r = 17,43 % par an.
+Chapitre 5 · exercices
+Exemples résolus du chapitre 5
+Chaque exemple vient de ton manuel, avec les vrais chiffres. Clique pour dérouler la solution.
+Ex. 5.1
+Les intérêts sur intérêts
+▶
+325 $ à 8 %, 2 ans. Montant final ? part composée ?
+An 1 : 325 × 1,08 = 351 $
+An 2 : 351 × 1,08 =
+379,08 $
+Intérêts simples : 2 × 26 = 52 $ · Intérêts composés : 54,08 − 52 =
+2,08 $
+Ex. 5.2
+La croissance sur 7 ans
+▶
+400 $ à 12 %. Valeur dans 3 ans ? dans 7 ans ?
+3 ans : 400 × 1,12³ = 400 × 1,4049 =
+561,97 $
+7 ans : 400 × 1,12⁷ = 400 × 2,2107 =
+884,27 $
+(a plus que doublé)
+Ex. 5.6
+Épargner pour une voiture
+▶
+Voiture 68 500 $ dans 2 ans, taux 9 %. Combien investir aujourd'hui ?
+VA = 68 500 ÷ (1,09)² = 68 500 ÷ 1,1881 =
+57 655,08 $
+Avec 50 000 $ en poche → il
+manque ≈ 7 655 $
+.
+Ex. 5.10
+Épargner pour les études
+▶
+Besoin de 100 000 $ dans 8 ans, on a 45 000 $. Taux minimal requis ?
+45 000 × (1+r)⁸ = 100 000 → (1+r)⁸ = 2,2222
+(1+r) = 2,2222
+1/8
+= 1,1050 →
+r = 10,50 %
+Ex. 5.12
+En attendant Godot (trouver t)
+▶
+Acheter à 10 M$, on a 2,3 M$. Durée d'attente selon le taux ?
+À 5 % : (1,05)
+t
+= 10/2,3 = 4,33 →
+t ≈ 30 ans
+À 16 % :
+t ≈ 10 ans
+(un meilleur taux = beaucoup moins d'attente)
+🧠 Quiz 1 — Tu places 1 000 $ à 8 %. En combien de temps double-t-il (règle de 72) ?
+≈ 6 ans
+≈ 9 ans
+≈ 16 ans
+72 ÷ 8 =
+9 ans
+. La règle de 72 donne un excellent ordre de grandeur pour les taux entre 5 % et 20 %.
+🧠 Quiz 2 — Si le taux d'actualisation
+augmente
+, la valeur actualisée d'une somme future…
+augmente
+diminue
+ne change pas
+Elle
+diminue
+. On divise par (1+r)
+t
+: plus r est grand, plus le diviseur est grand, donc plus la VA est petite.
+📘 Chapitre 6
+La valeur des flux monétaires actualisés
+Au chapitre 5, on déplaçait
+un seul
+montant dans le temps. Ici, on apprend à gérer
+plusieurs
+flux — surtout ceux qui reviennent régulièrement : loyers, versements de prêt, épargne mensuelle… Ce sont les
+annuités
+et les
+perpétuités
+.
+Chapitre 6 · §6.1
+Flux monétaires multiples
+🔑 La règle d'or
+Pour évaluer plusieurs flux, on
+traite chaque flux séparément
+(on le capitalise ou l'actualise à la bonne date), puis on
+additionne
+. On ne peut additionner des montants que s'ils sont ramenés
+au même moment
+dans le temps.
+🍰 Analogie
+Additionner 100 $ d'aujourd'hui et 100 $ de dans 3 ans, c'est comme additionner des dollars canadiens et des dollars américains : il faut d'abord tout
+convertir dans la même « monnaie »
+— ici, la même
+date
+.
+Ex. 6.3
+La ligne du temps qui additionne
+Flux de 200 $, 400 $, 600 $, 800 $ aux années 1 à 4, taux 12 %. On actualise chacun, puis on additionne.
+🧮 Additionneur de flux (VA)
+Modifie les 4 flux et le taux : chaque barre montre la valeur actualisée, la ligne du temps s'anime.
+Flux année 1
+Flux année 2
+Flux année 3
+Flux année 4
+Taux (r)
+12 %
+—
+Valeur actualisée totale
+Résultat attendu du livre : 178,57 + 318,88 + 427,07 + 508,41 =
+1 432,93 $
+.
+Chapitre 6 · §6.2
+Les annuités : des flux constants et réguliers
+🍰 Analogie — l'abonnement
+Une
+annuité
+, c'est comme un abonnement : le
+même montant
+, à intervalles
+réguliers
+, pendant une durée
+fixe
+. Ton paiement de voiture (399 $/mois pendant 60 mois) ou ton loyer : ce sont des annuités. Comme les flux sont identiques, on a une
+formule raccourcie
+au lieu d'additionner 60 termes à la main.
+Valeur actualisée d'une annuité
+[6.1]
+VA = C ×
+1 − 1/(1 + r)
+t
+r
+C
+= le versement (identique) à chaque période
+r
+= taux par période
+t
+= nombre de versements
+le gros bloc =
+facteur d'actualisation de l'annuité (FAA)
+Valeur capitalisée d'une annuité
+[6.2]
+VC = C ×
+(1 + r)
+t
+− 1
+r
+Sert à l'
+épargne
+: je dépose C chaque période, combien j'aurai à la fin ?
+Lien pratique : VC = VA × (1+r)
+t
+🔑 Le FAA, c'est juste un « multiplicateur »
+Le facteur d'actualisation de l'annuité (FAA) résume « la valeur aujourd'hui de 1 $ reçu chaque période pendant t périodes ». Tu le multiplies par ton versement C et c'est fini. Ex. à 10 % sur 3 ans, FAA = 2,4869 : une annuité de 500 $ vaut 500 × 2,4869 = 1 243,43 $.
+🧮 Calculatrice d'annuité (le couteau suisse)
+Bascule entre valeur actualisée / capitalisée, et fin / début de période.
+Valeur actualisée
+Valeur capitalisée
+Fin de période
+Début de période
+Versement par période (C)
+Taux par période (r)
+10 %
+Nombre de versements (t)
+3
+—
+💰 Exemple REER (VC d'annuité) — la force de l'épargne régulière
+Tu déposes 2 000 $/an pendant 30 ans à 8 %. Total déposé : 60 000 $. Valeur finale :
+VC = 2 000 ×
+[(1,08)
+30
+− 1] / 0,08
+= 2 000 × 113,2832 =
+226 566,40 $
+!
+Et si tu déposes en
+début
+d'année (annuité due) ? Tu multiplies par 1,08 →
+244 692 $
+, soit 18 126 $ de plus juste en versant plus tôt.
+Annuité de début de période (« annuité due »)
+[6.3]
+Valeur (début) = Valeur (fin) × (1 + r)
+Chaque versement « travaille » une période de plus → on multiplie simplement par (1+r).
+Chapitre 6 · §6.2.4–6.2.6
+Perpétuités & flux croissants
+🍰 Analogie — la fontaine sans fin
+Une
+perpétuité
+, c'est une annuité qui ne s'arrête
+jamais
+: un flux constant, pour toujours. On dirait que ça devrait valoir l'infini… mais non ! Les paiements très lointains valent presque zéro une fois actualisés, donc la somme se stabilise sur un chiffre fini. C'est comme une fontaine : le débit est infini dans le temps, mais sa « valeur » est bien finie.
+Perpétuité
+VA =
+C
+r
+C
+= flux constant à chaque période
+r
+= taux de rendement
+Perpétuité croissante
+VA =
+C
+r − g
+g
+= taux de croissance
+⚠️ il faut r > g
+Annuité croissante (nombre fini de flux qui augmentent)
+VA =
+C
+r − g
+×
+[
+1 −
+(1 + g)
+T
+(1 + r)
+T
+]
+C
+= 1ᵉʳ versement
+g
+= croissance par période
+T
+= nombre (fini) de périodes
+🧮 Calculatrice — Perpétuité (croissante ou non)
+Mets la croissance g à 0 pour une perpétuité simple. Regarde ce qui arrive quand g s'approche de r…
+Flux de la 1ʳᵉ période (C)
+Taux de rendement (r)
+11 %
+Taux de croissance (g)
+0 %
+—
+Valeur actualisée de la perpétuité
+Ex. 6.8
+Action privilégiée = perpétuité
+▶
+Une action verse 1 $/trimestre pour toujours et se vend 40 $. Quel rendement ?
+40 = 1 ÷ r → r = 1/40 =
+2,5 % par trimestre
+Pour une nouvelle action vendue 100 $ au même rendement : C = 100 × 0,025 =
+2,50 $/trimestre
+.
+Ex. 6.9
+Action à dividende croissant
+▶
+Dividende de 3 $ maintenant, croissance 6 %/an, taux 11 %.
+Dividende an prochain = 3 × 1,06 = 3,18 $
+Prix = 3 + 3,18 ÷ (0,11 − 0,06) = 3 + 63,60 =
+66,60 $
+Chapitre 6 · §6.3
+Taux nominal vs taux
+effectif
+: le piège à connaître 💳
+⚠️ L'arnaque des « 18 % » sur ta carte de crédit
+Ta carte affiche « 18 % par an ». Mais les intérêts sont calculés
+chaque mois
+(1,5 %/mois), et tu paies des
+intérêts sur les intérêts
+en cours d'année. Le taux que tu paies
+réellement
+n'est pas 18 %… c'est
+19,56 %
+. Ce vrai taux, c'est le
+taux effectif
+.
+Taux nominal (TAN / TPA)
+Le taux
+affiché
+. Il ignore la capitalisation en cours d'année. = taux périodique × nombre de périodes. C'est celui que la loi oblige à afficher.
+Taux effectif (TAE)
+Le taux
+réellement
+payé/gagné, une fois compté « l'intérêt sur l'intérêt ».
+Le seul
+qui permet de comparer honnêtement deux offres.
+Taux annuel effectif
+[6.4]
+TAE =
+(
+1 +
+taux nominal
+m
+)
+m
+− 1
+taux nominal
+= taux affiché (ex. 0,18)
+m
+= nombre de capitalisations par an (mois = 12, trimestre = 4…)
+🧮 Convertisseur nominal → effectif
+Vois comme le taux effectif grimpe quand la capitalisation est plus fréquente.
+Taux nominal affiché
+18 %
+Fréquence de capitalisation
+Annuelle (1×/an)
+Semestrielle (2×/an)
+Trimestrielle (4×/an)
+Mensuelle (12×/an)
+Hebdomadaire (52×/an)
+Quotidienne (365×/an)
+Continue (∞)
+—
+Taux annuel effectif réel
+📊 Effet de la fréquence (nominal 10 %)
+Capitalisation
+m
+TAE
+Annuelle
+1
+10,0000 %
+Trimestrielle
+4
+10,3813 %
+Mensuelle
+12
+10,4713 %
+Quotidienne
+365
+10,5156 %
+Continue
+∞
+10,5171 %
+Cas extrême : capitalisation continue
+[6.5]
+TAE = e
+s
+− 1
+e
+≈ 2,718 (touche e
+x
+)
+s
+= taux nominal
+Ex. 10 % continu → e
+0,10
+− 1 = 10,52 %
+✅ En gros, retiens que…
+Pour
+comparer
+ou
+décider
+, convertis
+toujours
+les taux affichés en taux effectifs. Plus la capitalisation est fréquente, plus le taux effectif dépasse le taux nominal. Pour épargner : vise le TAE le plus haut ; pour emprunter : le TAE le plus bas.
+Chapitre 6 · §6.4
+Les types de prêts & le tableau d'amortissement
+1. Prêt à escompte
+Tu reçois l'argent aujourd'hui et rembourses
+tout d'un coup
+(capital + intérêts) à l'échéance. Ex. : bons du Trésor.
+2. Prêt à intérêt seulement
+Tu paies
+seulement les intérêts
+chaque période, puis tout le
+capital
+à la fin. Ex. : la plupart des obligations.
+3. Prêt amorti — capital constant
+Chaque période : intérêts + un
+montant fixe de capital
+. Le versement total
+diminue
+avec le temps.
+4. Prêt amorti — versements constants
+Versement total
+identique
+chaque période (hypothèques, prêts autos). La part d'intérêts baisse, la part de capital monte.
+🍰 Analogie — grignoter une dette
+Un prêt amorti à versements constants, c'est comme croquer une pomme à petites bouchées identiques. Au début, une grosse part de ta bouchée sert juste à « payer le loyer » de la dette (les
+intérêts
+) ; il reste peu pour réduire la dette elle-même (le
+capital
+). À mesure que la dette rétrécit, les intérêts baissent et tu grignotes le capital de plus en plus vite.
+🧮 Générateur de tableau d'amortissement
+Entre les paramètres d'un prêt : le versement, le tableau complet et le graphique capital/intérêts se génèrent et s'animent.
+Montant emprunté
+Taux annuel
+9 %
+Durée (années)
+5
+Type
+Versements constants
+Capital constant
+—
+Versement annuel
+—
+Total des intérêts payés
+—
+Total remboursé
+Année
+Solde initial
+Versement
+Intérêts
+Capital
+Solde final
+Vérifie avec le livre : 5 000 $ à 9 % sur 5 ans, versements constants → 1 285,46 $/an, total intérêts 1 427,31 $. Version capital constant → total intérêts 1 350 $ (moins cher, mais gros versements au début).
+Ex. 6.13
+Versement hypothécaire
+▶
+Hypothèque 100 000 $, taux nominal 6 % (composé 2×/an), amortie sur 25 ans (paiements mensuels).
+TAE = (1,03)² − 1 = 6,09 %
+Taux mensuel = (1,0609)
+1/12
+− 1 = 0,4939 %/mois
+100 000 = C × (1 − 1/1,004939
+300
+)/0,004939 → C =
+639,83 $/mois
+Ex. 6.15
+Le vrai taux d'une carte de crédit
+▶
+TPA affiché 18 %, intérêts mensuels.
+Taux mensuel = 18 % ÷ 12 = 1,5 %/mois
+TAE = (1,015)
+12
+− 1 =
+19,56 %
+(le vrai coût)
+Chapitre 6 · exercices
+Exemples résolus & quiz du chapitre 6
+Ex. 6.5
+Combien puis-je emprunter ?
+▶
+Je peux payer 632 $/mois pendant 48 mois, taux 1 %/mois. Montant empruntable ?
+FAA = (1 − 1/1,01
+48
+)/0,01 = 37,9740
+VA = 632 × 37,9740 =
+24 000 $
+Ex. 6.6
+Payer une carte 20 $/mois
+▶
+Dette 1 000 $, versements 20 $/mois, taux 1,5 %/mois. Combien de temps ?
+1 000 = 20 × (1 − 1/1,015
+t
+)/0,015 → 1,015
+t
+= 4
+t = ln 4 / ln 1,015 ≈
+93 mois
+(≈ 7,75 ans !)
+Leçon : payer le minimum sur une carte, c'est rembourser pendant des années.
+Ex. 6.17
+Prêt étudiant amorti
+▶
+Dette 20 000 $, 6 % composé mensuellement (0,5 %/mois), paiements 250 $/mois.
+Solde après 1 an =
+18 149,67 $
+Durée totale : 1,005
+t
+= 1,67 → t = ln 1,67 / ln 1,005 ≈
+102 mois
+(≈ 8,5 ans)
+🧠 Quiz 3 — Une action privilégiée verse 5 $/an pour toujours et le rendement exigé est 8 %. Sa valeur ?
+40 $
+62,50 $
+625 $
+Perpétuité : VA = C/r = 5 ÷ 0,08 =
+62,50 $
+.
+🧠 Quiz 4 — Un taux nominal de 12 % capitalisé mensuellement donne un taux effectif de…
+exactement 12 %
+≈ 12,68 %
+≈ 1 %
+TAE = (1 + 0,12/12)
+12
+− 1 = 1,01
+12
+− 1 =
+12,6825 %
+. Plus fréquent que l'annuel ⇒ toujours > 12 %.
+🧠 Quiz 5 — Dans un prêt amorti à versements constants, au fil du temps, la part d'
+intérêts
+dans chaque versement…
+diminue
+augmente
+reste identique
+Elle
+diminue
+: comme le solde de la dette baisse, les intérêts (calculés sur ce solde) baissent aussi, et la part de capital augmente.
+Aide-mémoire
+📋 Formulaire récapitulatif — tout sur une page
+Ta feuille de survie pour l'examen. Chaque formule renvoie au bon chapitre.
+Valeur capitalisée [5.1]
+VC = C × (1+r)ᵗ
+Valeur actualisée [5.2]
+VA = C ÷ (1+r)ᵗ
+Équation de base [5.3]
+VA × (1+r)ᵗ = VC
+Trouver le taux
+r = (VC/VA)^(1/t) − 1
+Trouver la durée
+t = ln(VC/VA) ÷ ln(1+r)
+Règle de 72
+durée pour doubler ≈ 72 ÷ r%
+VA d'une annuité [6.1]
+VA = C × [1 − 1/(1+r)ᵗ] ÷ r
+VC d'une annuité [6.2]
+VC = C × [(1+r)ᵗ − 1] ÷ r
+Annuité début de période [6.3]
+Valeur(début) = Valeur(fin) × (1+r)
+Perpétuité
+VA = C ÷ r
+Perpétuité croissante
+VA = C ÷ (r − g)
+(r > g)
+Annuité croissante
+VA = C/(r−g) × [1 − ((1+g)/(1+r))ᵀ]
+Taux effectif [6.4]
+TAE = (1 + nominal/m)ᵐ − 1
+Capitalisation continue [6.5]
+TAE = eˢ − 1
+Vocabulaire
+📖 Glossaire express
+Capitalisation
+Faire grossir un montant vers le futur en ajoutant les intérêts (× (1+r)ᵗ).
+Actualisation
+Ramener un montant futur à aujourd'hui en retirant les intérêts (÷ (1+r)ᵗ).
+Facteur de capitalisation
+(1+r)ᵗ — le multiplicateur de croissance d'un dollar.
+Facteur d'actualisation
+1/(1+r)ᵗ — l'inverse : ce que vaut aujourd'hui 1 $ futur.
+Annuité
+Flux constants réguliers pendant une durée fixe (fin de période par défaut).
+Perpétuité
+Annuité qui ne s'arrête jamais.
+Taux nominal (TAN/TPA)
+Le taux affiché, sans effet de la capitalisation.
+Taux effectif (TAE)
+Le vrai taux payé/gagné, capitalisation incluse. Le seul comparable.
+Amortissement
+Remboursement graduel d'un prêt (capital + intérêts).
+Prêt à escompte
+On rembourse tout (capital + intérêts) en un seul paiement final.
+Cours visuel — Chapitres 5 & 6
+· d'après
+Gestion financière, 4ᵉ édition
+Construit pour comprendre à partir de zéro · Tous les chiffres proviennent de ton manuel.
+↑

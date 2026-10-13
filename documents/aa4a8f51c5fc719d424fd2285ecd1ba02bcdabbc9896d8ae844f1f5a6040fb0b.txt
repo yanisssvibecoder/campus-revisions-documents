@@ -1,0 +1,161 @@
+Les vélos Devini sont un gage de qualité depuis très longtemps. La société québécoise fabrique et distribue ses vélos à plusieurs détaillants répartis aux quatre coins du pays. La direction a rencontré les divers départements de l’entreprise afin de planifier les opérations du prochain exercice. Voici un résumé des diverses rencontres quant aux données de l’exercice terminé le 30 juin 20X1 et aux prévisions pour le prochain exercice.
+Département de la production
+Devini ne fabrique qu’un seul modèle de vélos, l’« hybride haute performance ». Sa fabrication nécessite 4 kg d’aluminium et 0,5 kg d’alliage de carbone pour le cadre. Le cadre est fabriqué à l’aide d’un équipement très complexe, spécifique et entièrement automatisé. Les frais généraux de fabrication totaux reliés au fonctionnement de l’équipement se sont élevés à 3 200 000 $ de dollars, excluant la main-d’œuvre indirecte. Ces frais sont fixes dans une proportion de 70 % et sont relativement stables depuis plusieurs années. 
+Les autres pièces sont déjà assemblées à l’achat et sont fixées manuellement au cadre du vélo par des techniciens. Le coût des autres pièces totalise 106 $ par vélo. 
+Étant donné que Vélo Devini fabrique ses vélos sur commande, la valeur de ses stocks est négligeable au 30 juin 20X1.
+Département des achats
+Le président de la société tient à ce que les matières premières soient achetées localement. Par exemple, tout l’aluminium provient de l’aluminerie Olca située au Québec. Au cours du dernier exercice, le prix moyen sur le marché de l’aluminium a été de 2,50 $/kg. Après l’actuel ralentissement économique, les experts prévoient que la reprise provoquera une hausse des prix de l’aluminium sans précédent sur le territoire. On s’attend à ce que le prix de l’aluminium local s’élève à 4 $/kg pour les prochains exercices. 
+Le prix de l’alliage de carbone est stable depuis plusieurs années, à 150 $/kg, et on prévoit que les prix des autres pièces demeureront stables également.
+Département des ressources humaines
+Les techniciens sont rémunérés au taux horaire de 25 $ et ils travaillent 7 heures par jour. En moyenne, un technicien peut assembler cinq vélos au cours de 1 journée de travail. 
+La convention collective sera renouvelée lors du prochain exercice et on s’attend à une hausse du taux horaire de 4 %. Un employé est chargé de la supervision des machines. Il travaille à temps plein pour un salaire annuel de 65 000 $ et son salaire ne changera pas au cours du prochain exercice. 
+Département des ventes
+Le vélo est un mode de transport de plus en plus apprécié et il gagne en popularité. Le volume des ventes du prochain exercice devrait augmenter de 15 %. Toutefois, comme la compétition s’intensifie, le prix de vente devrait chuter de 50 $ pour s’établir à 450 $ par vélo. De plus, les campagnes publicitaires devront être plus agressives et un montant annuel fixe additionnel de 150 000 $ sera affecté au contrat déjà signé. La commission des vendeurs, en pourcentage du prix de vente, ne changera pas. Les frais d’administration actuels sont tous fixes et ne changeront pas au cours des prochains exercices. 
+La Société Devini
+État des résultats
+Pour l’exercice terminé le 30 juin 20X1
+Travail pratique :
+Préparez l’état des résultat (en coûts variables) pour l’exercice terminé le 30 juin 20X1.
+Quel sera le point mort prévu (en vélos et en dollars de ventes) de la société Devini pour l’exercice qui se terminera le 30 juin 20X2 ?
+Quelle sera la marge de sécurité prévue (en vélos et en dollars de ventes) pour l’exercice qui se terminera le 30 juin 20X2 ?
+Déterminez le nombre de vélos que Devini devrait vendre au cours de l’exercice qui se terminera le 30 juin 20X2 pour obtenir le même résultat d’exploitation que pour l’exercice 20X1. 
+Un fournisseur chinois serait prêt à approvisionner Devini en aluminium à moindre coût au cours du prochain exercice, soit à 2,85 $/kg. Cependant, des frais de transport additionnel devront être engagés pour acheminer la matière première à l’usine. Ces frais variables sont estimés à 0,50 $/kg importé. Pour la gestion des relations avec le fournisseur chinois, les frais d’administration augmenteront de 60 000 $. De plus, un préposé à la qualité devra être engagé au salaire annuel de 52 000 $. Déterminez le seuil d’indifférence quant au choix du fournisseur et faites une recommandation au directeur de Vélo Devini. (Prenez soin de justifier votre réponse.)
+Solution : 
+État des résultats en coûts variables (20X1)
+Calculer le point mort :
+Formule : Coûts fixes / MCV unitaire 
+Coûts fixes totaux 20X2 : 5 103 000 $ 
+Marge sur les coûts variables 20X2 : 
+Réponse :  
+Trouver les coûts fixes totaux : Frais généraux de fabrication fixes (FGF) et Frais de vente et d’administration (FVA) fixes. 
+Calculer la marge sur coûts variables 20X2 : 
+Réponse :
+Marge de sécurité 20X2 : 
+Rappel des données du cas :
+Ventes 20X1 en unités : 40 000 unités
+Augmentation des ventes 15 % 20X2 
+Réponse : 
+Résultat cible : 
+Rappel des données calculées :
+Résultat cible de l’exercice 20X1: 4 047 000 $ 
+Formule : 
+	Réponse : 
+Seuil d’indifférence : 
+Formule : Résultat d’exploitation option 1 = Résultat d’exploitation option 2
+Analyse quantitative : 
+Réponse calcul du seuil d’indifférence :      43 077 vélos (unités)
+Ventes actuelles 20X1 : 40 000 unités 
+Ventes prévues 20X2 :   40 000 unités x 1,15 = 46 000 unités
+Réponse prise de décision : (analyse quantitative et qualitative) 
+Analyse quantitative : 
+Analyse qualitative : 
+Ventes |  | 20 000 000 $
+ |  | 
+Coût des produits vendus |  | (12 305 000)
+ |  | 
+Résultat brut |  | 7 695 000 $
+ |  | 
+Frais de vente et d’administration |  | 
+Commissions aux vendeurs | 1 000 000 $ | 
+Publicité | 500 000  | 
+Administration  | 2 148 000  | (3 648 000)
+ |  | 
+Résultat d’exploitation (avant Impôts) |  | 4 047 000 $
+ |  | 
+Impôts (40 %) |  | (1 618 800)
+ |  | 
+Résultat net |  | 2 428 200 $
+État des résultats en coûts complet (20X1) |  |  | État des résultats en coûts variables (20X1) | État des résultats en coûts variables (20X1)
+Ventes                            20 000 000 $ |  | Ventes |  | 
+Coût des produits vendus (CPV)
+                                      (12 305 000) $ |  | Coûts variables |  | 
+
+ |  | Matières premières
+Aluminium 
+Carbone
+Autres | 
+
+  | 
+
+0,5 kg x 150 $ = 75$ x 40 000u = 3 000 000 $
+106 $ x 40 000 u. = 4 240 000 $
+
+ |  | Main d’oeuvre directe
+  |  | 
+
+ |  | FGF variables |  | 
+
+ |  | FV variables (commission) |  | 5% commission en pourcentage des ventes
+Résultat (marge) brut     7 695 000 $         |  | Marge sur coûts variables  | 9 000 000 $ | 
+Frais de vente et d’administration
+Commissions aux vendeurs 1 000 000 $
+Publicité                                     500 000 $
+Administration                       2 148 000 $
+ |  | Coûts fixes |  | 
+Frais de vente et d’administration
+Commissions aux vendeurs 1 000 000 $
+Publicité                                     500 000 $
+Administration                       2 148 000 $
+ |  | FGF fixes |  | 3 200 000 $ x 70 % = 2 240 000 $
+Superviseur = 65 000 $
+Frais de vente et d’administration
+Commissions aux vendeurs 1 000 000 $
+Publicité                                     500 000 $
+Administration                       2 148 000 $
+ |  | F&A fixes |  | 
+Résultat d’exploitation        4 047 000 $ |  | Résultat d’exploitation | 4 047 000 $ | 
+ | 20X1 | 20X2
+Prix de vente | 500 $
+(450 $ + 50 $) | 
+Coûts variables :  |  | 
+Matières premières |  | 
+  Aluminium  | 10 $ | 
+  Carbone | 75 $ | 75 $
+  Autres | 106 $ | 106 $
+Main d’oeuvre directe | 35 $ | 
+
+FGF variables | 24 $ | 24 $
+FV variables (commission) | 25 $ | 
+Marge sur coûts variables | 225 $ | 170,10 $
+Option 1 | Option 2 | Option 2
+ | 
+
+
+
+
+
+
+
+
+
+
+ | 
+
+
+
+
+
+
+
+
+
+
+
+MCV option 1 = 
+170,10 $ | Marge sur les coûts variables option 2 = 
+ | Marge sur les coûts variables option 2 = 
+
+Coûts fixes = 
+5 103 000 $ |                   
+
+
+
+
+                   
+Coûts fixes total option 2 | 
+
+
+
+
+
+5 215 000 $

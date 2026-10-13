@@ -1,0 +1,28 @@
+4.3 | Activités/ressources APRÈS la séance
+
+Séance 4
+Exercices :
+Livre Gestion financière, 5e édition
+Chapitre 8
+(pages 247-250) :
+Exercices: 1, 4, 8, 9, 12, 13, 14, 15, 16, 17, 18, 20, 24
+Note:
+Lorsque rien n'est précisé, supposez que les dividendes sont versés annuellement et que les taux sont effectifs.
+Livre Gestion financière, 4e édition
+Chapitre 8
+(pages 260-262) :
+Exercices: 1, 4, 8, 10, 11, 12, 13, 15, 16, 17, 19, 20, 23
+Note:
+Lorsque rien n'est précisé, supposez que les dividendes sont versés annuellement et que les taux sont effectifs.
+Question d'une version antérieure du livre
+https://melies.hec.ca/visionnement.cfm?version=eJSglLy5RLFQgCg
+Énoncé
+(rédigez votre propre solution avec schéma temporel avant de consulter la solution)
+1. La société Entendus inc. vient tout juste de verser un dividende annuel de 1,75 $ par action. On prévoit que les dividendes augmenteront à un taux constant de 6 % par année, indéfiniment. Si les investisseurs exigent un taux de rendement de 12 % pour les actions d’Entendus inc., quel est leur cours actuel ? Quel sera le cours dans trois ans? Dans 15 ans  ?
+NB :
+Il y a une coquille dans la solution. On devrait lire prix au temps 15 = Div 16 / (r-g) plutôt que prix au temps 15 = Div 14 / (r-g).
+Question d'une version antérieure du livre
+https://melies.hec.ca/visionnement.cfm?version=aJSglLy5RLFAgCg
+Énoncé
+(rédigez votre propre solution avec schéma temporel avant de consulter la solution)
+12. La société Villa prévoit verser les dividendes suivants au cours des quatre prochaines années : 6,50 $, 5,00 $, 3,00 $ et 2,00 $. Par la suite, la société promet un taux de croissance constant des dividendes de 5 %, indéfiniment. Si le rendement exigé pour ces actions est de 16 %, quel est leur cours actuel ?

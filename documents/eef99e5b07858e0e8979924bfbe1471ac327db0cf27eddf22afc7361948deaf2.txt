@@ -1,0 +1,22 @@
+## Page 1
+ Type de champs dans Airtable
+
+Icône  Description                        Icône  Description
+
+      Champ de type Texte sur une seule           Champ de type Date qui peut ou non
+        ligne                                               contenir l’heure
+
+      Champ de type Numéro, peut être entier        Champ de type Date mais qui est créé
+       ou décimal selon la paramétrisation               automatiquement par le système
+
+      Champ de type Numéro automatique        Champ de type Lier à une autre entrée
+         qui s’incrémentera tout seul                      pour relier une autre table
+
+      Champ de type Devise donc ayant deux        Champ de type Recherche pour
+        décimales et un signe de devise                    récupérer un champ d’une table déjà liée
+
+      Champ de type Numéro de téléphone         Champ de type Formule fonctionnant sur
+         qui se formatte automatiquement                 des nombres ou du texte
+
+      Champ de type Sélection unique pour         Champ de type Cumul pour faire des
+        chercher dans une liste de choix                   agrégation d’un champ d’une table liée

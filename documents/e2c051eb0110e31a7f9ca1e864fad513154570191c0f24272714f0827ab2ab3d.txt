@@ -1,0 +1,105 @@
+Il y a quelques années déjà, Jean et Jeannette ont mis sur pied une petite entreprise de fabrication de barres de rangement pour vélos. Ayant prévu que la vente de vélos connaîtrait un essor remarquable dans les familles du Québec, ils décidèrent de mettre au point un système de rangement pour multiples vélos pouvant être fixé au mur. 
+Voici les résultats d’exploitation de l’entreprise pour l’exercice se terminant le 31 décembre 20X1 :
+Travail pratique :
+Puisque nous subissons une perte de 40 000 $ avec un niveau de ventes de 800 000 $, je crois qu’il faudrait augmenter nos ventes en unités. En effet, nous pourrions ainsi augmenter le résultat brut de l’entreprise de 40 005 $, ce qui permettrait de couvrir les frais de vente et d’administration de 180 000 $ et ne plus faire de perte. Voilà comment j’arrive à cette conclusion :
+Calculs de Jean : (40 000 $) / 17,50 $ = 2 286 unités de plus 
+Que pensez-vous du raisonnement de Jean ?
+Quel devrait être le niveau de ventes en unités pour que l’entreprise soit rentable ? 
+Quel devrait être le montant des ventes à atteindre pour réaliser un bénéfice d’exploitation de 100 000 $ ? 
+J’ai l’intention de mettre sur pied un site permettant le commerce électronique. Cela permettra de réduire les frais de vente de 90 000 $ par année. J’espère ainsi percer le marché de l’Ontario. 
+Quelle serait alors la marge de sécurité en unités et en dollars advenant que les ventes atteignent 12 000 unités par année ? À ce niveau de production, nos frais généraux de fabrication et d’administration fixes augmenteront de 120 000 $ par année.
+Vous devez utiliser les données initiales pour répondre à cette question (ne pas tenir compte des données des questions c) et d).
+Dernièrement, un fournisseur a offert à Jean de lui vendre un équipement qui lui permettrait de réduire les coûts variables de fabrication de 5 $ par unité. Ce nouvel équipement serait amorti à raison de 12 000 $ par année pour les 5 prochaines années. De plus, certains autres frais fixes de fabrication de 24 000 $ devraient être engagés sur une base annuelle. 
+Calculez le niveau d’activité où les deux situations (statu quo et proposition du nouvel équipement) engendreraient les mêmes coûts. Que suggéreriez-vous à Jean ?
+Solution
+Que pensez-vous du raisonnement de Jean ?
+Ventes (10 286 un. x 100 $) variable				 1 028 600 $
+(-) Coûts des produits vendus 
+       MP (10 286 un. x 25 $) variable		257 150 $
+       MOD (10 286 un. x 15 $) variable		154 290 $
+	    FGF var (10 286 un. x 20 $)	variable             205 720 $
+       FGF fixes		            			180 000 $	(797 160 $)
+Résultat brut						 	  231 440 $
+Frais de vente et d’administration (fixes)                                     180 000 $
+Résultat d’exploitation                                                                     51 440 $
+Conclusion : Le résultat brut à un volume de vente de 10 286 unités dépasse le montant de 180 005 $ estimé de Jean selon son calcul.
+
+Jean a considéré tous les coûts de fabrication comme des frais variables, ce qui est incorrect. Les coûts de fabrication incluent un montant de 180 000 $ de frais généraux fixes (FGF) qui ne varient pas en fonction des unités vendues. Pour répondre correctement à cette question, Jean aurait dû classer ses coûts comme variables et fixes et travailler avec la marge sur coûts variables (MCV), qui varie en fonction du volume de vente, et non la marge brute. La MCV représente la différence entre le chiffre d'affaires et les coûts variables, et elle est essentielle pour analyser la rentabilité en fonction des volumes de vente. 
+Perte (40 000 $) / 40 $ MCV = 1 000 unités. L’augmentation des ventes nécessaire pour que l’entreprise soit rentable est de 1 000 unités soit une augmentation de 12,5 % (voir le seuil de rentabilité en b).
+Seuil de rentabilité (point mort)
+Seuil de rentabilité =	Coûts Fixes totaux/ MCV unitaire 
+= Coûts Fixes totaux (FGF + FVA) / (Prix Vente – Coûts variables unitaires)
+       * FGF – frais généraux de fabrication
+* FVA – frais de vente et d’administration 	
+(180 000 $ FGF + 180 000 $FVA) / (100 $ – [25 $ + 15 $ + 20 $]) MCV unitaire
+= 360 000 $ / 40 $ = 9 000 unités
+Augmentation des ventes (en %) nécessaire pour que l’entreprise soit rentable : 
+9 000 – 8 000 = 1 000 unités / 8 000 unités = 12,5 %
+Ventes à atteindre pour réaliser un bénéfice d’exploitation de 100 000 $
+Nombre d’unités = (Coûts fixes totaux + Résultat cible) / MCV unitaire
+(360 000 $ CF + 100 000 $ résultat cible) / 40 $ MCV unitaire
+= 460 000 $ / 40 $ = 11 500 unités
+En $ = 1 150 000 $ (11 500 unités × 100 $)
+Marge de sécurité
+Seuil de rentabilité (point mort)
+(360 000 – 90 000 + 120 000) / 40 $
+(390 000 $) / 40 $ = 9 750 unités
+Marge de sécurité (unités et $)
+(Ventes prévues – Point mort) 
+12 000 unités – 9 750 unités = 2 250 unités
+2 250 unités × 100 $ = 225 000 $
+Seuil d’indifférence
+Calcul avec les coûts seulement puisque le prix de vente est inchangé
+360 000 + 12 000 + 24 000 + (60 – 5) X	=	360 000 + 60 X
+396 000 + 55 X			             =	360 000 + 60 X
+36 000 $			                          =	5 X
+7 200 unités			             =	X
+À 7 200 unités, on est indifférent entre les deux propositions. Comme le nombre d’unités vendues est > que 7 200 unités (8 000 > 7 200), on devrait choisir d’acheter l’équipement (car les coûts variables sont inférieurs et le résultat d’exploitation sera supérieur)
+Ou
+Calcul traditionnel 
+On cherche le volume de vente (unités) pour lequel les deux options procurent le même résultat d’exploitation.
+Résultat d’exploitation option 1 = Résultat d’exploitation option 2
+(MCV1 unitaire x volume)  – Coûts fixes1 = (MCV2 unitaire x volume) – Coûts fixes2
+(100 X – 60 X) – 360 000 $ = (100 X – 60 X + 5 X) – 360 000 – 12 000 – 24 000
+40 X – 360 000 $ = 45 X – 396 000 $
+5 X = 36 000 $ 
+X = 7 200 unités
+À 7 200 unités, les deux propositions s’équivalent (ont le même résultat).  Comme le nombre d’unités vendues est > que 7 200 unités (8 000 > 7 200), on devrait choisir d’acheter l’équipement (car la MCV est plus élevée à pour chaque unité supplémentaire, on aura 5 $ de plus de MCV ce qui augmentera le résultat d’exploitation).
+Ventes (en unités) |  | 8 000
+ |  | 
+Ventes |  | 800 000 $
+ |  | 
+Coût des produits vendus |  | 
+  Matières premières (variables) | 200 000 $ | 
+  Main-d’œuvre directe (variables) | 120 000 $ | 
+  Frais généraux de fabrication (variables) | 160 000 $ | 
+  Frais généraux de fabrication (fixes) | 180 000 $ | 660 000 $
+ |  | 
+Résultat brut |  | 140 000 $
+ |  | 
+Frais de vente et d’administration (fixes) |  | 180 000 $
+ |  | 
+Résultat d’exploitation (perte) |  | (40 000) $
+ |  | 
+Prix de vente | 100$  | 
+ |  | 
+Coût des produits vendus |  | 
+  Matières premières (variables) | 25 $ | 
+  Main-d’œuvre directe (variables) | 15 $ | 
+  Frais généraux de fabrication (variables) | 20 $ | 
+  Frais généraux de fabrication (fixes) | 22,50 $ | 
+ |  | 
+Résultat brut 17,50$ x (8 000 +2 286 unités) | 17,50 $ |   180 005 $
+ |  | 
+Frais de vente et d’administration (fixes) |  | 180 000 $
+ |  | 
+Résultat d’exploitation (perte) |  | 5,00 $
+ |  | 
+Prix de vente | 100$  | 
+ |  | 
+Coûts variables   |  | 
+  Matières premières (variables) | 25 $ | 
+  Main-d’œuvre directe (variables) | 15 $ | 
+  Frais généraux de fabrication (variables) | 20 $ | 
+ |  | 
+Marge sur coûts variables   | 40,00 $ | 

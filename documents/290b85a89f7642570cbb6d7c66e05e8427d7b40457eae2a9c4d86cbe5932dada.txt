@@ -1,0 +1,2 @@
+noCommande	dateCommande	heureCommande	noClient	modePaiement
+1	2026-03-12	17:25:00	1	Comptant

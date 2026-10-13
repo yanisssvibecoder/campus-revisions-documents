@@ -1,0 +1,13 @@
+7 | Description et objectifs de la séance
+
+Pour passer du concept au système matérialisé : des projets structurés
+Description
+Les approches de gestion de projets modernes comme Agile impliquent continuellement les utilisateurs dans le développement des systèmes d'information et livrent des fonctionnalités par petits incréments qui peuvent être testées et ajustées selon les retours organisationnels.
+Cette approche se base sur les récits utilisatuers que auxquels nous avons réfléchis de façon plutôt intuitive depuis le début de la session. Dans cette séance, nous allons maintenant formalisé cette pratique.
+Le reste de la séance sera consacrée à la révision pour l'intra.
+Important!
+Cette semaine, on ralentit un peu la cadence : pas de vidéos, juste un texte clé à lire à votre propre rythme. L’occasion parfaite pour plonger dans les bases de la gestion de projet Agile et comprendre comment la technologie peut vraiment faire une différence.
+Objectifs de la séance
+Évaluer et améliorer des récits utilisateurs à l'aide du critère INVEST, et formuler des critères d'acceptation testables pour un processus d'affaires donné
+Distinguer un projet TI d'un travail opérationnel et situer l'approche Agile comme réponse aux limites du développement en cascade
+Expliquer le rôle du pipeline ETL dans le passage d'un modèle transactionnel à un modèle décisionnel, et identifier les principales transformations à appliquer sur une base opérationnelle

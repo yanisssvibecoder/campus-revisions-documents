@@ -1,0 +1,24 @@
+## xl/worksheets/sheet1.xml
+A1: Problème de la mise en conserve de tomates
+A3: Questions :
+A4: 1.1 Quel est le temps standard de fabrication d'un pot de tomates?
+A5: 1.2 Quelle est la cadence du processus et quel est son temps de cycle?
+A7: Étape | B7: TOM | C7: FA | D7: TN | E7: Maj | F7: TS | G7: TS / pot | H7: Nb. postes de travail | I7: Temps de cycle | J7: Cadence
+A9: 1 | B9: 8.5
+A10: 2 | B10: 3.2
+A11: 3 | B11: 1.7
+A12: 4 | B12: 15
+A14: Temps standard total =  | H14: minutes / pot
+A16: 1.3 Quel est l'impact de l'ajout du Presto?
+A18: Étape | B18: TOM | C18: FA | D18: TN | E18: Maj | F18: TS | G18: TS / pot | H18: Nb. postes de travail | I18: Temps de cycle | J18: Cadence
+A20: 1 [formule : A9] | B20: 8.5 [formule : B9]
+A21: 2 [formule : A10] | B21: 3.2 [formule : None]
+A22: 3 [formule : None] | B22: 1.7 [formule : None]
+A23: 4 [formule : None] | B23: 9
+A25: 1.4 Chloé effectue les opérations 1 et 2 alors que Hagop effectue les étapes 3 et 4.
+A26:       Quelle est maintenant la cadence du processus?
+A28: Étape | B28: TOM | C28: FA | D28: TN | E28: Maj | F28: TS | G28: TS / pot | I28: TS total | J28: Cadence
+A30: 1 [formule : A9] | B30: 8.5 [formule : B9] | H30: Chloé
+A31: 2 [formule : A10] | B31: 3.2 [formule : None]
+A32: 3 [formule : None] | B32: 1.7 [formule : None] | H32: Hagop
+A33: 4 [formule : None] | B33: 15 [formule : None]

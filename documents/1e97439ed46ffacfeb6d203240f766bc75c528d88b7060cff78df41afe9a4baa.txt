@@ -1,0 +1,23 @@
+6.1 | Parcours d'apprentissage à faire AVANT la séance (contenu coordonné)
+
+Séance 6
+Travail préparatoire
+1. Visionner les quatre (4) capsules vidéos sur l'automatisation retrouvées ici
+BD Airtable fin séance 5
+S6a
+S6b
+(
+BD Airtable avec table Suivi vide
+)
+S6c
+S6d
+2. Visionner les cinq (5) capsules vidéos sur l'intelligence artificielle retrouvées ici
+Comment fonctionne un modèle comme ChatGPT (6.1)?
+(Vu à la séance 1)
+Biais et hallucinations: Pourquoi l’IA imagine des oursons bleus (6.5)?
+Que faut-il savoir sur les biais de l’IA (2.3)?
+(les premières 12 minutes seulement)
+Que faut-il comprendre des hallucinations de l’IA (2.4)?
+Quelles utilisations de l’IA sont à proscrire ou à encadrer (3.4)?
+(les premières 12 minutes seulement)
+3. Compléter le quiz formatif pour évaluer votre apprentissage (accessible via l'onglet Travaux).

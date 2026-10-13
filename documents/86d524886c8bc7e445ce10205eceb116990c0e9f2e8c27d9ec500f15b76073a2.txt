@@ -1,0 +1,10 @@
+Ateliers offerts par le Centre d’aide en mathématiques et statistique (CAMS) à l’automne 2026
+
+Bonjour,
+Vous trouverez en pièce jointe l’horaire des ateliers offerts par le Centre d’aide en mathématiques et statistique (CAMS) à l’automne 2026.
+Les ateliers de mathématiques Mathcamp destinés aux étudiants de maîtrise en économie et finance auront lieu en présentiel. Le rappel de mathématiques pour les certificats se tiendra sur Teams et en présentiel (comodal). Les autres ateliers, portant sur Python, R, Stata, Matlab, Excel et Power BI, auront lieu sur Teams, en mode synchrone.
+L’inscription aux ateliers se fait via la plateforme Libcal :
+https://hec-ca.libcal.com/calendar/cams
+Pour chaque atelier, les étudiants inscrits recevront un courriel de confirmation d’inscription contenant un lien de connexion à la réunion Teams.
+Un courriel de « Rappel de votre inscription », contenant le même lien, sera envoyé 24 heures avant l’activité.  Il sera alors possible à ce moment-là de trouver la version finale du matériel dans le padlet de l’atelier. Le lien du padlet est disponible sur la page d’inscription et dans le courriel de rappel.
+Bonne rentrée !

@@ -1,0 +1,57 @@
+Exercice en classe : Tandem produit-processus et aménagement
+Pour chacune des unités de production de biens ou de prestations de services identifiés sur votre feuille d’exercice, nommez le type de processus et le type d’aménagement les plus appropriés. Justifiez votre choix à partir des principales variables pertinentes.
+Une papetière fabricant du papier journal | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 
+HEC Montréal | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 
+Un aménagement paysager résidentiel | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 
+La mise en bouteille et en caisse 
+de bière | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 
+Une salle d’opération dans un hôpital | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 
+Un centre d’entraînement physique « gym » | Processus | Aménagement
+Volume :
+
+Variété :
+
+Type de demande :
+
+Type de flux :
+ |  | 

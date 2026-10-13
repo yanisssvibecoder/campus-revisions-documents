@@ -1,0 +1,13 @@
+4 | Description et objectifs de la séance
+
+Séance 4
+Description
+Gestion des stocks (suite)
+Le point de commande;
+Le réapprovisionnement périodique;
+Les calculs de stock de sécurité.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+de faire la différence entre les modèles de point de réapprovisionnement à période fixe et à période variable; de calculer le point de réapprovisionnement et la période de réapprovisionnement;
+d’évaluer les risques liés à la variabilité et au caractère probabiliste de la demande et des délais; de comprendre le lien entre cette variabilité, le niveau de service et la nécessité de conserver un stock de sécurité;
+de choisir le modèle de gestion des stocks le plus approprié aux différents types et catégories de stocks.

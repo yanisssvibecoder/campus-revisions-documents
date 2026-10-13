@@ -1,0 +1,480 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Gestion des stocks (suite)
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+
+
+## Diapositive 4
+
+Rappel – 1ère partie
+
+## Diapositive 5
+
+Gérer l’incertitude de la demande
+
+Éléments nouveaux qui découlent du caractère aléatoire des demandes ou des livraisons : 
+Les pénuries sont possibles;
+L'entreprise doit choisir le niveau de service qu'elle veut offrir;
+L'entreprise doit établir les stocks de sécurité selon le niveau de service qu'elle veut offrir et en fonction de la variabilité de la demande et des délais de livraisons;
+L'entreprise doit choisir quel modèle de réapprovisionnement utiliser
+
+Point de commande
+(quantité fixe – 
+intervalle variable)
+
+(2) Réapprovisionnement périodique
+(intervalle fixe – 
+quantité variable)
+
+## Diapositive 6
+
+Introduction au stock de sécuritéVariation de la demande
+
+
+
+
+
+Temps
+
+Stock disponible
+
+Rupture de stock 
+
+
+
+PC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+délai
+
+
+
+## Diapositive 7
+
+Propriétés statistiques de la courbe de distribution normale
+
+
+
+
+
+
+
+μ - 3σ     μ - 2σ     μ - σ        μ        μ + σ    μ + 2σ    μ + 3σ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+68.27%
+
+
+
+95.45%
+
+
+
+99.73%
+
+## Diapositive 8
+
+Point de commande :Quantité fixe – Période variable
+
+Combien commander?
+On commande toujours la même quantité (QEC)
+
+Quand commander?
+Lorsque le niveau des stocks atteint le point de commande (PC)
+
+
+## Diapositive 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Temps
+
+Délai
+
+Point de commande
+
+
+
+
+
+Quantité en stock
+
+
+
+PC
+
+
+
+Q1
+
+Q2
+
+Q3
+
+=
+
+=
+
+Point de commande :Quantité fixe – Période variable
+
+Utilisation durant le délai
+
+Stock de sécurité
+
+
+
+## Diapositive 10
+
+Stock de sécurité
+
+Facteur Z correspondant au niveau de service désiré
+
+Écart-type de la demande durant une unité de temps
+
+Taux de consommation moyen (demande moyenne)
+
+Délai de livraison moyen exprimé en unités de temps
+
+Point de commande :Quantité fixe – Période variable
+
+## Diapositive 11
+
+ExercicePoint de commande
+
+Une imprimerie, ouverte 5 jours par semaine, 50 semaines par année, utilise en moyenne 100 paquets de feuilles (8½ par 11) par semaine. La distribution suit une normale avec un écart-type de 3 paquets par jour. L’entreprise qui livre les feuilles est en mesure de livrer en une semaine (5 jours ouvrables). La politique de l’imprimerie est de maintenir un risque de pénurie de 2 %. 
+
+Déterminez :
+Le stock de sécurité.
+Le point de commande.
+
+## Diapositive 12
+
+Livre, page 494 pour la table complète
+
+## Diapositive 13
+
+Solution
+
+## Diapositive 14
+
+ExercicePoint de commande (suite)
+
+Le coût d’acquisition des paquets de feuilles est évalué à 5 $ le paquet. Les coûts annuels d’entreposage représentent 10 % du coût d’acquisition et les coûts de commandes sont évalués à 20 $. Les paquets sont livrés en boîte de 10.
+
+Déterminez :
+La quantité commandée à chacune des commandes.
+Le nombre de commandes effectuées en moyenne par année.
+Les coûts annuels de gestion des stocks de paquets de feuilles.
+
+Proposez une façon simple de suivre le niveau d’inventaire des paquets de feuilles. Comment savoir si le point de commande est atteint?
+
+
+## Diapositive 15
+
+Solution
+
+## Diapositive 16
+
+Solution
+
+## Diapositive 17
+
+
+
+
+
+Système à double casier
+
+
+
+
+
+
+
+
+
+
+
+Point de commande
+
+Stock de sécurité
+
+
+
+délai   
+
+
+
+
+
+
+
+Temps
+
+Quantité 
+en stock
+
+## Diapositive 18
+
+Réapprovisionnement périodique :Quantité variable – Période fixe
+
+Combien commander?
+On commande la quantité QC
+
+Quand commander?
+À intervalles de temps (i0 ) égaux.
+
+
+## Diapositive 19
+
+Stock
+
+i1
+
+i2
+
+i3
+
+i4
+
+
+
+
+
+
+
+T1
+
+T2
+
+T3
+
+
+
+délai
+
+
+
+
+
+
+
+
+
+QC1
+
+QC2
+
+QC3
+
+
+
+
+
+
+
+
+
+
+
+
+
+Niveau cible + SS
+
+
+
+
+
+=
+
+=
+
+Réapprovisionnement périodique :Quantité variable – Période fixe
+
+## Diapositive 20
+
+Délai de livraison
+
+Durée de l’intervalle
+
+Taux de consommation moyen
+
+Facteur Z correspondant au niveau de service désiré
+
+Écart-type de la demande durant une unité de temps
+
+Stock en main au moment de la commande
+
+
+
+SS
+
+
+
+Niveau cible
+
+Réapprovisionnement périodique :Quantité variable – Période fixe
+
+Réapprovisionnement périodique :Quantité variable – Période fixe
+
+## Diapositive 21
+
+ExerciceRéapprovisionnement périodique
+
+Tous les 3 mois, un laboratoire commande une quantité de tubes de produits chimiques. Le délai d’approvisionnement est de cinq jours ouvrables. Le stock est actuellement de 202 tubes. La consommation quotidienne est près de la normale, avec une moyenne de 15 tubes et un écart-type de 2 tubes par jour. Le niveau de service désiré est de 95 %. Le laboratoire opère 240 jours par année.
+
+Déterminez :
+Le niveau cible.
+Le stock de sécurité.
+La quantité à commander aujourd’hui.
+
+## Diapositive 22
+
+Solution
+
+## Diapositive 23
+
+ExerciceRéapprovisionnement périodique (suite)
+
+Les coûts de commande des tubes de produits chimiques sont évalués à 30 $ par commande. Les coûts annuels d’entreposage représentent 30 % du coût d’acquisition qui est de 5 $ par tube.
+
+Déterminez :
+Le nombre de commandes effectuées par année.
+Les coûts totaux de gestion des stocks de tubes.
+Les économies potentielles annuelles, si l’entreprise optait                          pour un système à point de commande.
+
+## Diapositive 24
+
+Solution
+
+## Diapositive 25
+
+Solution
+
+## Diapositive 26
+
+Taux de consommation moyen
+
+Quantité économique à commander
+
+Intervalle de temps entre deux commandes
+
+Réapprovisionnement périodique :Quantité variable – Période fixe
+
+## Diapositive 27
+
+ExerciceCalcul de l’intervalle optimal
+
+Déterminez :
+L’intervalle optimal pour les tubes de produits chimiques.
+Le nombre de commandes effectuées en moyenne chaque année.
+Les coûts annuels de gestion des stocks reliés à cet intervalle.
+
+## Diapositive 28
+
+Solution
+
+## Diapositive 29
+
+Solution
+
+## Diapositive 30
+
+Utilisation des 2 modèles
+
+Caractéristiques  | Modèle PC
+Période var. – Qté fixe | Modèle RP
+Période fixe – Qté var.
+
+Combien commander | Quantité fixe (la QEC) | Variable (différente à chaque commande)
+
+Quand commander | Quand on atteint le PC | À intervalle fixe 
+
+Inventaire | Permanent | Décompte périodique au moment de la commande
+
+Stock de sécurité | À niveau de service égal, plus petit que dans le modèle RP | À niveau de service égal, plus grand que dans le modèle PC
+
+Type d’item | Classes A et B (items critiques et/ou dispendieux) | Classes B et C
+
+Calcul du coût total annuel | On utilise la QEC puisqu’on commande toujours la même quantité | On utilise la quantité moyenne commandée puisque la quantité varie à chaque commande
+
+Source : Jacobs and Chase,The Core, exhibit 12.2, p. 319.
+
+## Diapositive 31
+
+Notions de base…
+
+On arrondit…
+
+… des quantités réelles :
+
+Une prévision
+Une quantité économique à commander (QEC)
+Une quantité à commander (QC)
+Un point de commande (PC)
+Un stock de sécurité (SS)
+
+On n’arrondit pas…
+
+… des moyennes :
+
+Une demande moyenne - taux de consommation moyen (µ)
+Une QC moyenne commandée
+Un nombre moyen de commande
+Un écart type de la demande
+
+## Diapositive 32
+
+Questions…

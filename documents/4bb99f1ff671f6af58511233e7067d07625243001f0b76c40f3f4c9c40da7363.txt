@@ -1,0 +1,904 @@
+## Diapositive 1
+
+1
+
+10200Finance
+
+
+
+
+
+
+
+© Mélanie Harris 2025
+
+Séance 3 
+
+Évaluation des obligations et hypothèques
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+## Diapositive 2
+
+Qu'avons-nous vu dans la séance 3 ?
+
+2
+
+Capsule 1 : Évaluation des actifs et caractéristiques des obligations 
+Capsule 2 : Évaluation des obligations
+Capsule 3 : Autres types d'obligations
+Capsule 4 : Facteurs de risque
+
+
+Lectures : Chapitres 6 & 7
+ZC / Matériel pédagogique / « Importance de chaque section »
+
+«Les obligations sont comme des passagers d’avion : plus le vol est long, plus les turbulences se font sentir… mais à l’approche de l’atterrissage, la trajectoire devient claire.»– Anonyme
+
+## Diapositive 3
+
+Rappel…
+
+3
+
+Pour les deux prochains cours :
+Évaluation des actifs
+Décision d'acheter ou non un titre
+Du point de vue de l'investisseur
+
+
+📌 Quand investir ?? Règle de décision :
+Lorsque la valeur est supérieure ou égale au prix : ACHETER (=investir) le titre
+Lorsque la valeur est inférieure au prix : NE PAS ACHETER (= ne pas investir) le titre
+
+« Multitude de valeurs possibles pour un seul actif »
+
+## Diapositive 4
+
+A – Évaluation hypothécaire (✅non présent dans les capsules mais matière à examen)
+
+4
+
+Définition :
+Une hypothèque est un type de dette utilisé pour financer l'achat d'un actif à long terme (par exemple, une maison). 
+
+Caractéristiques :
+Type de prêt (appelé « prêt amorti ») dont les paiements sont identiques à chaque période. Paiement = capital + intérêts
+Taux d'intérêt : exprimé sous forme de taux nominal composé semestriellement
+Les actifs sont donnés en garantie (pour protéger le prêteur càd la banque)
+
+
+## Diapositive 5
+
+Diagramme temporel
+
+5
+
+
+
+## Diapositive 6
+
+
+
+L'emprunteur a plusieurs choix à faire pour le contrat :
+Période d'amortissement ou échéance : durée de remboursement intégral du prêt : 1 an à 30 ans
+Terme du contrat hypothécaire : de 6 mois à 5 ans
+Les taux d'intérêt sont fixés pour la durée du contrat (choix entre un taux fixe ou variable)
+Fréquence des paiements : mensuelle, toutes les deux semaines, hebdomadaire...
+Prêt ouvert : prêt pouvant être remboursé par anticipation sans pénalité 
+Prêt fermé : pénalité en cas de remboursement anticipé
+À chaque renouvellement de terme, on renégocie les conditions.
+Et bien d'autres conditions à discuter avec la banque ET un notaire
+
+** Au Canada, la réglementation exige que les taux hypothécaires soient indiqués sous forme de
+ taux nominal avec capitalisation semestrielle**
+
+Autres considérations… voir chronique financière !
+
+
+
+
+Caractéristiques
+
+6
+
+## Diapositive 7
+
+
+
+
+
+Évaluation
+
+7
+
+Valeur actuelle de l'hypothèque : Prix de la maison :
+
+
+
+Solde hypothécaire : Capital restant à rembourser: :
+
+
+
+
+Définitions : 
+PMT : paiements périodiques (intérêts et capital)
+r : taux de rendement périodique (« I/Y ») 
+t : nombre de paiements (« n »)
+j : nombre de paiements restants (« n ») IMPORTANT
+
+La fréquence de capitalisation du taux d'intérêt DIFFÈRE de la fréquence de paiement
+
+👉 IL EST NÉCESSAIRE DE CONVERTIR LE TAUX D'INTÉRÊT donné
+
+
+
+Jamais, au grand jamais, la valeur finale !!!
+
+## Diapositive 8
+
+👉 Jamais on ne calcule la valeur finale d’une hypothèque
+Balance de l’hypothèque à un point dans le temps = valeur actuelle des FMs futurs.
+
+Donc…à retenir
+
+8
+
+👉 TCEPA, le taux donné par la banque est un taux nominal à 
+       capitalisation semestrielle
+Donc, fréquence du taux périodique donné est semestriel
+Aucun acheteur ne paiera ses pmts hypothécaires à chaque 6 mois…
+Donc, on doit CONVERTIR le taux semestriel donné en une fréquence qui concorde avec celle des FMs (mensuelle ou hebdomadaire etc)
+
+## Diapositive 9
+
+Exemple : Hypothèque
+
+9
+
+Supposons que vous souhaitiez acheter une maison de 350 000 $ avec un acompte de 125 000 $.
+
+Taux d'intérêt affiché : 6 %
+Durée du prêt : 25 ans
+Terme de 5 ans
+Fréquence des paiements : mensuelle
+
+
+Si vous choisissez de rembourser par versements mensuels, quel serait le montant de votre paiement ?
+
+
+## Diapositive 10
+
+Exemple  suite…
+
+10
+
+Au bout de 5 ans, vous renégociez un nouveau terme de 5 ans avec paiements mensuels.
+Cependant, les taux ont augmenté et le nouveau taux affiché est de 7%. 
+
+Quel est le montant de votre nouvelle mensualité dans le cadre de votre deuxième terme ? 
+
+Calculez le montant supplémentaire à verser afin de maintenir la mensualité calculée en a) malgré l'augmentation du taux.
+
+
+
+## Diapositive 11
+
+
+Chronique financière : 
+Prêts hypothécaires !
+
+
+11
+
+Non soumis à examen
+
+## Diapositive 12
+
+
+
+Qu'est-ce qu'une obligation ?
+Une dette émise par des entreprises/gouvernements sur le marché obligataire afin de financer leurs projets et leurs investissements.
+
+Investisseurs = prêteurs
+Entreprises et gouvernements qui émettent des obligations = emprunteurs
+
+
+Une obligation est un instrument financier relativement simple, mais le vocabulaire utilisé est assez technique...:
+Intérêts = coupons
+Montant emprunter à rembourser = valeur nominale
+Taux d’actualisation des flux monétaires = rendement à l’échéance
+
+
+
+
+
+
+B - Obligations : Récapitulatif
+
+12
+
+## Diapositive 13
+
+
+
+
+
+Voici les « caractéristiques par défaut » des obligations. 
+Sauf indication contraire
+Les coupons sont payés semestriellement
+Le taux du coupon est un taux nominal capitalisé semestriellement
+Le taux d'actualisation est un taux nominal capitalisé semestriellement = RAÉ
+La valeur nominale est de 1 000 $
+
+
+C sont payés semestriellement → C en $ =  taux de coupon % / 2 * VN
+Convertir le RAÉ en taux périodique = RAÉ / 2 pour « r » dans les formules 
+
+La fréquence de capitalisation du taux d'intérêt correspond à la fréquence de versement des coupons (FMs)... il n'est donc pas nécessaire de procéder à une grande conversion des taux d'intérêt.
+
+
+Définition et caractéristiques
+
+13
+
+
+
+
+
+## Diapositive 14
+
+Formule d'évaluation des obligations
+
+Diagramme temporel :
+
+
+
+
+
+
+
+
+
+
+Exemple : Obligation arrivant à échéance dans 2 ans, avec un taux d'intérêt nominal de 5 %. Quel est son prix aujourd'hui si le rendement à l'échéance est de 6 % ?
+
+
+
+
+
+Jamais, au grand jamais, la valeur finale !!!
+
+## Diapositive 15
+
+👉 Jamais on ne calcule la valeur finale d’une obligation pour trouver sa 
+       valeur à un certain point dans le future.
+Valeur ou prix de l’obligation = valeur actuelle des FMs futurs.
+
+Donc…à retenir
+
+15
+
+👉 TCEPA, le RAÉ est un taux nominal à capitalisation 
+       semestrielle
+Donc, fréquence du taux donné est semestriel
+Les FMs sont les coupons verses semestriellement
+Les 2 fréquences concordent et donc pas de grande conversion. Seulement RAÉ/2.
+
+## Diapositive 16
+
+Relation inverse entre le prix et le RAÉ
+
+Lorsque le RAÉ augmente, le prix diminue.
+Lorsque le RAÉ diminue, le prix augmente.
+
+
+
+
+16
+
+Prix
+
+RAÉ
+
+
+
+
+
+
+
+
+
+## Diapositive 17
+
+Relation graphique entre le prix et le rendement à l'échéance
+
+ 🚨 Toutes les obligations sont émises à leur valeur nominale...
+
+ 🚨 Pourquoi certaines obligations se négocient-elles à un prix supérieur à leur valeur nominale de 1000 $, tandis que d'autres se négocient à un prix inférieur ou même égal à leur valeur nominale ?
+
+
+
+
+
+
+
+17
+
+
+
+## Diapositive 18
+
+Obligations à prime, à escompte et au pair
+
+18
+
+
+Escompte | 
+Prime | 
+Au pair
+
+
+CR < RAÉ | 
+CR > RAÉ | 
+CR = RAÉ
+
+Intérêt offert
+<
+taux de rendement requis | Intérêt offert
+> 
+taux de rendement requis | Intérêt offert
+=
+taux de rendement requis
+
+Pour compenser, nous devons offrir une remise sur le prix. | Les investisseurs sont prêts à payer plus pour l'obtenir. | Les investisseurs sont prêts à payer la valeur nominale.
+
+
+Prix < Valeur nominale | 
+Prix > Valeur nominale | 
+Prix = Valeur nominale
+
+
+
+
+
+## Diapositive 19
+
+Exemple : évaluation d'une obligation conventionnelle
+
+19
+
+Vous vous intéressez beaucoup aux marchés obligataires et venez de trouver une obligation présentant les caractéristiques suivantes :
+VN = 1 000
+Taux de coupon = 8 %
+Échéance = 10 ans
+RAÉ = 10 %
+
+Quel est le prix de cette obligation ?
+
+
+Dans 3 ans, nous prévoyons une baisse du taux d'intérêt de 200 points de base. 
+
+
+Quel sera le prix de l'obligation à ce moment-là ? 
+L'obligation se négocie-t-elle au pair, avec une prime ou une décote par rapport à sa valeur nominale ?
+
+
+👉 ** 100 points de base = 1 % **
+
+## Diapositive 20
+
+Exemple : évaluation d'une obligation entre deux dates de paiement
+
+20
+
+Une obligation de la société XY a été émise au pair il y a deux ans et trois mois avec un taux d'intérêt nominal de 5 % et une échéance de 7 ans. 
+
+Le taux de rendement à l'échéance (RAÉ) actuel est supérieur de 15 points de base à celui de la date d'émission. 
+
+Quel est le RAÉ actuel ?
+Quel est le prix de l'obligation aujourd'hui ?
+Méthode «prof » !
+Méthode «étudiants » !
+Quelle est la cote de l'obligation aujourd'hui ?
+
+
+
+
+*** Nous ne pouvons pas utiliser de fractions pour les exposants dans l'évaluation des obligations. Nous avons besoin de nombres entiers ***
+
+
+
+## Diapositive 21
+
+Méthode suggérée pour évaluer un actif entre deux dates de paiement
+
+Méthode «prof»
+
+
+Étape 1 : Calculez la valeur actuelle (VA) une période avant le premier flux monétaire (le premier coupon).
+
+Étape 2 : Capitalisez la VA en fonction du nombre de périodes requises.  
+
+21
+
+## Diapositive 22
+
+
+
+
+
+Obligation : autres caractéristiques
+
+
+Clauses restrictives (rachetables, remboursables, convertibles)
+Lecture d'une cotation
+
+
+
+Inflation
+Structure des taux d'intérêt à terme
+
+
+
+Couverture dans les lectures et les capsules vidéo
+
+Non couvert
+
+## Diapositive 23
+
+C – Obligations : Facteurs de risque
+
+23
+
+Qu'est-ce que le RAÉ ? Décomposons-le en ses différents éléments...
+
+
+
+
+
+RAÉ
+
+
+
+Prime d'inflation
+
+
+Prime de risque
+
+Prime de temps
+
+
+
+
+
+
+
+
+
+
+
+Les prix des obligations varient au fil du temps...
+
+Pourquoi ? Parce que le RAÉ varie au fil du temps...
+
+Pourquoi ? 
+Risque de défaut ou risque de crédit peut changer 
+Mesuré par la notation de crédit
+À mesure que le risque de défaut augmente, le rendement à l'échéance augmente et le prix diminue, et inversement
+
+Risque de taux d'intérêt car il varie dans le temps
+Nous connaissons la relation inverse entre le rendement à l'échéance et les prix...**
+MAIS... Toutes les obligations n'ont pas la même sensibilité aux variations de taux d'intérêt... Pourquoi ?
+
+
+
+## Diapositive 24
+
+
+
+
+Toutes les obligations ne présentent pas la même sensibilité aux variations des taux d'intérêt...
+
+ Toutes choses égales par ailleurs...
+
+Plus la durée de l'obligation est longue, plus le prix de l'obligation est sensible à une variation des taux d'intérêt
+Plus le taux de coupon est faible, plus le prix de l'obligation est sensible aux variations des taux d'intérêt
+
+Prenons un exemple...
+
+
+
+Risque de taux d'intérêt
+
+24
+
+## Diapositive 25
+
+Exemple
+
+25
+
+Vous souhaitez investir et vous hésitez entre ces 4 obligations :
+
+
+
+
+
+
+Quelles obligations acheter si vous anticipez...
+une baisse des taux d'intérêt ?
+une hausse des taux d'intérêt ?
+une baisse des taux d'intérêt, MAIS vous ne pouvez choisir qu'entre les obligations A et D ?
+
+Obligation | Émetteur | TC | Échéance
+
+A | Québec | 10 | 20 ans 
+
+B | Québec | 5 | 20 ans 
+
+C | Québec | 10 | 10 ans
+
+D | Québec | 5 | 10 ans
+
+## Diapositive 26
+
+Si les taux d'intérêt devaient baisser :
+      Taux d'intérêt dans l’économie
+      Rendement à l'échéance,       
+      Prix
+
+Nous voulons donc investir dans une obligation sensible càd longue échéance, faible taux de coupon (= longue durée)
+
+
+Si les taux d'intérêt devaient augmenter :
+      Taux d'intérêt dans l’économie    
+      Rendement à l'échéance,      
+      Prix
+
+Nous voulons une obligation moins sensible : échéance courte, taux de coupon élevé (= courte durée)
+
+
+Stratégie d'investissement obligataire
+
+26
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 27
+
+
+
+
+
+Durée
+Mesure de la sensibilité d'une obligation aux variations des taux d'intérêt.
+
+Plus la durée est longue, plus les prix des obligations seront sensibles à une variation des taux d'intérêt.
+
+Toutes choses égales par ailleurs :
+Plus l'échéance est longue, plus la durée est longue
+Plus le taux d'intérêt nominal est faible, plus la durée est longue
+
+
+
+
+Risque de taux d'intérêt
+
+27
+
+👉 Dans notre cours, vous n'aurez pas à calculer la durée
+
+## Diapositive 28
+
+Représentation graphique de la durée
+
+28
+
+Durée : point dans le temps moyen pour recevoir les FMs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus la maturité est longue, plus la durée est longue
+
+Plus le taux de coupon est bas, plus la durée est longue
+
+
+
+
+
+## Diapositive 29
+
+Exercice 1 : problème difficile. Obligation non conventionnelle
+
+29
+
+L'obligation XYZ versera son prochain coupon semestriel de 35 $ dans exactement 6 mois et arrivera à échéance dans 6 ans. Le RAÉ est de 8%.
+
+Si nous supprimons les coupons de la troisième année, quel sera le nouveau prix ?
+
+
+## Diapositive 30
+
+Exercice 2 : Évaluation entre deux dates de paiement
+
+Nous sommes le 1er février 2024.  
+
+L'obligation XCV arrive à échéance le 1er mai 2028. Elle verse des coupons semestriels de 23 $ et son rendement à l'échéance  est de 6 % aujourd’hui. 
+
+Quel est le prix actuel de l'obligation XCV ?
+
+
+
+
+⚠️N'utilisez jamais de fractions. n doit être un nombre entier. Voir l'annexe pour la réponse.
+
+## Diapositive 31
+
+Exercice 3 : Évaluation non conventionnelle d'une obligation
+
+Vous vous intéressez beaucoup aux marchés boursiers et vous venez de découvrir une obligation très particulière. Cette obligation présente les caractéristiques suivantes :
+VN = 1 000 $
+Taux de coupon = 8 %.
+Échéance = 15 ans
+RAÉ = 10 %
+
+
+La particularité de cette obligation est qu'elle permet à son détenteur d'acheter une « option » qui modifie ses caractéristiques de base. L'option coûte 50 $ et donne droit à son détenteur de doubler le montant du coupon à partir de la 9e année jusqu'à l'échéance.
+
+
+Vous devez choisir aujourd'hui si vous souhaitez acheter l'option. Si vous souhaitez acheter l'obligation avec option, vous devez payer le prix de l'obligation sans option + le montant nécessaire pour acheter l'option.
+
+Quel est le prix actuel de l'obligation sans option ?
+Vaut-il la peine d'acheter l'obligation avec l'option ?
+
+## Diapositive 32
+
+Lien avec la finance durable
+
+© Marie-Hélène Allard
+
+## Diapositive 33
+
+Obligations et finance durable
+
+## Diapositive 34
+
+Taille du marché : 1 000 milliards de dollars américains en obligations liées au climat
+
+Vert
+
+Durable
+
+En milliards de dollars américains
+
+Source : Climate Bonds Initiative, « Sustainable Debt: The State of the Market 2021 ».
+
+Obligations liées au développement durable
+
+## Diapositive 35
+
+Obligations et finance durable
+
+Différences entre les obligations traditionnelles et les obligations vertes :
+Rendement ?
+Risque ?
+
+
+
+## Diapositive 36
+
+Quelques liens intéressants
+
+Obligations vertes : https://www.investopedia.com/terms/g/green-bond.asp
+
+Obligations vertes vs obligations classiques : https://blogs.cfainstitute.org/investor/2019/10/08/green-bonds-vs-traditional-bonds/
+
+
+
+
+
+
+
+
+
+## Diapositive 37
+
+C'est en forgeant qu'on devient forgeron !!!
+
+Manuel. Voir séance 3 sur ZC.
+
+
+Sous ZC / séance 3/ Ressources après la séance
+2 exercices résolus avec vidéos
+Exercices supplémentaires. **Votre meilleure pratique** 
+
+Tutoriel n° 2. Sous ZC / Modules / Travail pratique
+
+Exercices dans le cahier de travaux de mi-semestre. Voir ZC / Modules / Préparation aux examens INTRA 
+
+
+
+37
+
+Solutions aux exercices des éditions 4 et 5 sur ZC
+
+## Diapositive 38
+
+38
+
+
+
+ANNEXES
+
+Exercice 2 : Comprendre l'évaluation des obligations : l'importance des exposants entiers ⚠️
+
+Problème supplémentaire 1
+
+## Diapositive 39
+
+A - Exercice 2 : Pourquoi les exposants doivent-ils être des nombres entiers dans l'évaluation des obligations ?
+
+39
+
+Les exposants représentent des périodes discrètes :
+Définition : Dans le contexte de la tarification des obligations, les exposants dans des formules telles que le calcul de la valeur actuelle (VA) représentent le nombre de coupon complets restant jusqu'à l'échéance de l'obligation.
+Exemple : si une obligation verse des coupons semestriels, chaque période est de 6 mois. Un exposant de 10 indique 10 coupons verses à chaque période complète de 6 mois (soit un total de 5 ans).
+Alignement sur les flux monétaires:
+Paiements de coupons : Les obligations effectuent des paiements de coupons à intervalles spécifiques (par exemple, tous les 6 mois). 
+Périodes entières : l'utilisation de nombres entiers garantit que chaque exposant s'aligne parfaitement sur ces paiements prévus. Par exemple, un exposant de 10 correspond à 10 paiements de coupons.
+Cohérence mathématique :
+Formule des intérêts composés : La formule standard des intérêts composés suppose que les intérêts sont composés à la fin de chaque période. Des exposants fractionnaires impliqueraient des périodes partielles, qui ne correspondent pas aux intervalles de composition réels.
+PV = [C × (1 - (1 + r)^-n) / r] + [VF / (1 + r)^n]
+ Ici, n doit être un nombre entier représentant le nombre de périodes complètes.
+Évaluation incorrecte avec des exposants fractionnaires :
+Désalignement : l'utilisation d'un exposant fractionnaire (par exemple 9,5) suggère qu'un paiement de coupon a lieu au cours d'une demi-période, ce qui n'est pas le cas. Les coupons ne sont payés qu'à la fin de chaque période complète.
+Erreur résultante : ce désalignement entraîne une actualisation inexacte des FMs, ce qui donne un prix incorrect pour l'obligation.
+
+
+
+
+## Diapositive 40
+
+Exercice 2 : Évaluation CORRECTE (méthode de l'enseignant)
+
+40
+
+Du 1er février 2024 au 1er mai 2028, l'obligation a une durée restante de 4 ans et 3 mois.
+
+Comme 𝑛 doit être un nombre entier, arrondissez à 𝑛=9 périodes 
+  (1 période avant le premier coupon).
+
+
+Calculez la valeur actuelle (= 962,21) et ensuite capitalisez la valeur actuelle de 3 mois.
+
+
+
+## Diapositive 41
+
+Exercice 2 : Évaluation INCORRECTE
+
+41
+
+
+
+
+
+
+
+
+La valeur actuelle (VA) = 964,84, ce qui est incorrect (n = 8,5).
+La valeur adéquate est VA = 974,85 avec n=9 et ensuite capitalisation de 3 mois.
+
+Points clés
+Nombres entiers uniquement :Les exposants doivent correspondre à des périodes complètes afin de refléter avec précision les FMs
+Les exposants fractionnaires ne fonctionnent pas :Ils supposent que les FMs se produisent à mi-parcours des périodes, ce qui est incompatible avec les calendriers de paiement des obligations.
+Ajustement pour les périodes partielles :Utilisez la capitalisation en dehors des périodes complètes.
+
+
+
+
+
+
+
+
+
+## Diapositive 42
+
+Problème supplémentaire 1 : Évaluation entre deux dates de coupon© Marie-Hélène Allard    Méthode prof
+
+Le dernier coupon a été payé il y a un mois. Quel est le prix actuel de cette obligation si 9 coupons restent à payer, que le taux d'intérêt nominal est de 8 % et que le taux d'actualisation est de 5 % ? 
+
+
+
+
+
+
+
+
+
+Aujourd'hui
+
+40
+
+40
+
+40
+
+40
+
+40
+
+40
+
+40
+
+40
+
+40
+
+1000
+
+## Diapositive 43
+
+Problème 1 : Évaluation entre deux dates de coupon
+
+Étape 1 : Trouvez le prix ou la valeur à la date du coupon précédent.
+
+
+
+ = 1 119,56
+
+## Diapositive 44
+
+Problème 1 : Évaluation entre deux dates de coupon
+
+Étape 2 : Capitaliser à la date souhaitée
+
+	Valeur actuelle = 1 124,18 $
+
+
+
+
+
+1119,56

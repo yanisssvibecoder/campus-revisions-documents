@@ -1,0 +1,82 @@
+Activité - Énoncé
+L’histoire de Trace a commencé avec 7 anciens sportifs montérégiens de haut niveau partageant une même passion : la course à pied. Trace est aujourd’hui un OBNL (Organisme à but non lucratif) basé en Montérégie qui offre des entraînements de course à pied. En tant qu’OBNL à vocation sportive, sa mission est de démocratiser la course à pied en mettant de l’avant l’aspect plaisir de la discipline et en permettant à chacun, en fonction de ses aspirations, de bénéficier d’un encadrement structuré, adapté et convivial pour atteindre ses objectifs sportifs. 
+L’association Trace a été constituée officiellement en OBNL en 2017 afin de : 
+Permettre l’affiliation auprès de la Fédération Québécoise d’Athlétisme et délivrer des licences à ses membres. 
+Assurer une légitimité au groupe afin de pouvoir aller chercher des commandites et des subventions. 
+En 2020, l’organisme souhaite s’investir pour la première fois auprès des enfants, dès leur plus jeune âge. Le conseil d’administration propose de mettre en place une nouvelle offre d’activités et doit faire un choix entre trois options. À la vue des premiers retours obtenus, l’OBNL s’attend à enregistrer entre 65 et 80 adhésions pour la première année, quelle que soit l’option retenue.
+Option 1 : « Le Petit Athlé » - Achat des équipements
+Valérie, membre du conseil d’administration, propose de mettre en place une nouvelle offre d’activités dédiée aux enfants de 4 à 6 ans : « Le Petit Athlé ». Les enfants y découvriront la course à pied à travers des activités ludiques. Les charges fixes engagées permettront d’accueillir au maximum 100 enfants durant l’année. Ces charges fixes comprennent la location d’une salle, l’amortissement des équipements nécessaires à l’activité et les assurances. Il n’y a pas de charge salariale liée aux éducateurs puisque ces derniers sont trois nouveaux bénévoles de l’association. Les bénévoles sont très enthousiasmés par cette option et prêts à se former.  
+Option 2 : « Le Petit Athlé » - Location des équipements
+Une agence spécialisée dans la location d’équipement d’athlétisme propose de vous louer l’équipement de Petit-Athlé pour 40 $ par enfant. Cette option, bien que très similaire à l'option 1, fera en sorte que les charges fixes incluront uniquement la location d’une salle et les assurances. 
+Option 3 : S’affilier à Pass’Aventure
+Pass’Aventure est un programme qui permettra à la fois de faire découvrir la course à pied aux enfants dès leur plus jeune âge, mais également d’initier leurs parents à la course à pied à travers des activités ludiques et amusantes. En effet, les séances de découverte proposées aux parents le seront sur les mêmes créneaux horaires que celui de leur enfant. Ces activités auront lieu en gymnase et seront animées par des éducateurs formés (ces activités seront réglementées).  À travers ce programme, les jeunes participants pourront obtenir les 5 trophées du Pass’Aventure qui compléteront leur découverte. Plusieurs membres du conseil d’administration soutiennent plus particulièrement l’affiliation à Pass’Aventure, une initiative également soutenue par la Fédération Québécoise d’Athlétisme. Il est à noter qu’une redevance devra être payée par l'OBNL pour l’affiliation au programme Pass’Aventure.
+Voici les informations fournies par le trésorier sur les trois options: 
+Travail à faire :
+Question : Quelle option recommandez-vous au conseil d’administration ? 
+Justifiez votre réponse avec 1 argument en lien avec l’analyse CVR et 1 argument qualitatif.
+On vous recommande de suivre les étapes suivantes pour effectuer votre analyse. 
+Commencez par identifier la mission de l’entreprise ainsi que les objectifs visés par le projet.  
+Analysez la structure de coût de chaque option. Laquelle serait le plus sensible à une variation du volume et expliquer pourquoi ?
+Analysez la marge de sécurité de chaque option et déterminez l'option qui semble la moins risquée. 
+Analysez le seuil d’indifférence et déterminez quelle option devrait être retenue selon les règles vues en classe. 
+Identifiez les différents arguments qualitatifs (non-financiers). 
+Rappel : Un argument qualitatif doit s’appuyer sur des éléments non comptables (autres que les calculs effectués), mais étroitement liés au contexte du cas. Un argument qualitatif bien développé doit respecter la structure suivante : élément + justification. La justification devrait expliquer pourquoi il est pertinent de considérer cet élément pour ceux qui prennent les décisions. Dans ce cas-ci, vos arguments doivent appuyer l’option qui a été retenue. 
+Atelier – Piste de solution :
+Mission : 
+Structure de coût des différentes options
+Analyse des marges de sécurité
+Analyse du seuil d’indifférence
+Exemples d’arguments qualitatifs
+Recommandation
+En conclusion, l’option … devrait être recommandée, car les 
+[les arguments qualitatifs/quantitatifs] 
+démontrent que cette option permet de mieux répondre à la mission de l’organisation. 
+ | Option 1
+Achat | Option 2
+Location | Option 2
+Location | Option 3
+Pass’ Aventure
+Prix d’adhésion | 100 $ | 100 $ | 100 $ | 100 $
+Coûts variables | 25 $  | 56 $ | 56 $ | 70 $
+Marge sur coûts variables | 75 $ | 44 $ | 44 $ | 30 $
+Coûts fixes | 4 900 $  | 1 990 $ | 1 990 $ | 1 300 $
+Résultat (avec 65 adhésions) | (25 $) | 870 $ | 870 $ | 650 $
+Résultat (avec 80 adhésions) |  1 100 $ | 1 530 $ | 1 530 $ | 1 100 $
+Point mort (PM) | 66 | 46 | 46 | 44
+Marge de sécurité (65 adhésions) | -1 | 19 | 19 | 21
+Marge de sécurité (80 adhésions) | 14 | 34 | 34 | 36
+Seuil d’indifférence | Option 1 et Option 2
+94 | Option 1 et Option 2
+94 | Option 2 et Option 3
+50 | Option 2 et Option 3
+50
+Seuil d’indifférence | Option 1 et Option 3
+80 | Option 1 et Option 3
+80 | Option 1 et Option 3
+80 | Option 1 et Option 3
+80
+ | Option 1 | Option 2 | Option 3
+Responsable du projet | OBNL Trace | OBNL Trace | Association organisme reconnu
+Coûts variables | 25 $ | 56 $ | 70 $
+Coûts fixes | 4 900 $ | 1 990 $ | 1 300 $
+
+Analyse de la structure de coût | 
+
+
+
+
+
+
+ |  | 
+ | Option 1 | Option 2 | Option 3
+Marge de sécurité (65 adhésions) | -1 | 19 | 21
+Marge de sécurité (80 adhésions) | 14 | 34 | 36
+Analyse | 
+
+
+ | 
+
+
+ | 
+
+

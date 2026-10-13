@@ -1,0 +1,36 @@
+1-2.3 | Activités/ressources APRÈS la séance
+
+Séances 1 et 2
+Exercices :
+Livre Gestion financière, 5e édition
+Chapitre 1
+:
+Pas d'exercices à faire
+Chapitre 5
+(pages 147-148) :
+Exercices 2, 3, 4, 5, 6, 7, 12, 15
+Chapitre 6
+(pages 181-187) :
+2, 4, 5, 7, 8, 9, 11, 12, 13, 15, 17, 18, 19, 21, 23, 25, 30, 31, 34, 35, 37, 38, 39, 42, 44, 46, 48
+Note; Il y a une erreur dans le solution du numéro 16, chapitre 6, 5e édition. Les calculs sont bons mais la conclusion devrait être la suivante: Le taux effectif offert par la
+Banque Canada britannique
+est donc plus avantageux pour l'emprunteur.
+Livre Gestion financière, 4e édition
+Chapitre 1
+:
+Pas d'exercices à faire
+Chapitre 5
+(pages 149-151) :
+Exercices 2, 3, 4, 5, 6, 7, 9, 11, 14, 15, 19, 20
+Chapitre 6
+(pages 180-189) :
+2, 4, 5, 6, 8, 9, 10, 11, 13, 14, 15, 17, 19, 22, 24, 25, 29, 31, 33, 35, 41, 42, 45, 47, 49, 52, 54, 55, 59, 61, 69, 72
+Exercices supplémentaires - conversion de taux.docx
+Question d'une édition antérieur du livre
+https://melies.hec.ca/visionnement_auth.cfm?version=kJScvSyQ1RSwgCg&lv=1
+Énoncé
+(rédigez votre propre solution avec schéma temporel avant de consulter la solution)
+57. Voici un problème typique relié à la retraite. Vous pourrez le résoudre à l’aide d’une ligne du temps. Une de vos amies célèbre son 35e anniversaire aujourd’hui et elle désire commencer à faire des économies en vue de sa retraite, à 65 ans. Elle veut pouvoir retirer 80 000 $ de son compte d’épargne tous les ans le jour de ses 66 ans, et ce pendant 15 ans. Votre amie veut investir son argent à la coopérative de crédit locale, qui offre un taux d’intérêt de 9 % par année. Elle veut effectuer des versements égaux chaque année dans le compte qu’elle a ouvert à la coopérative de crédit.
+a)     Si elle commence à verser de l’argent dès ses 36 ans et continue d’effectuer des dépôts jusqu’à l’âge de 65 ans (le dernier versement sera donc effectué le jour de ses 65 ans), quelle somme doit-elle déposer chaque année si elle désire atteindre son but ?
+b)    Supposons que votre amie hérite d’une importante somme d’argent. Plutôt que d’effectuer des versements égaux, elle décide de déposer une somme forfaitaire le jour de ses 36 ans afin de combler ses besoins à la retraite. Quelle somme doit-elle déposer ?
+c)     Supposons que l’employeur de votre amie apporte une contribution de 1500 $ à son compte de retraite chaque année grâce à un programme de participation aux bénéfices. De plus, votre amie s’attend à recevoir 30 000 $ d’un fonds en fiducie familiale le jour de ses 55 ans, qu’elle versera également dans son compte de retraite. Quelle somme doit‑elle verser annuellement pour atteindre son but ?

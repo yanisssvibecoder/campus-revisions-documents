@@ -1,0 +1,9 @@
+7.2 | Activités et ressources utilisées PENDANT la séance (contenu coordonné)
+
+Séance 7
+Fichiers à télécharger pour faire l'exercice ETL sur Tableau Prep en classe (les mettre dans un même dossier sur votre ordinateur)
+ArticleTransacH26.txt
+TypeTransacH26.txt
+ClientTransacH26.txt
+CommandeTransacH26.txt
+DetailCommandeTransacH26.txt

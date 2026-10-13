@@ -1,0 +1,168 @@
+
+
+FLYREST fabrique, à partir du même processus de fabrication, deux modèles d’une pièce utilisée dans l’industrie aérospatiale, soit le modèle TIR et le modèle BAH. La capacité de l’usine est de 100 000 heures-machines. Selon une étude de marché réalisée par le département du marketing, FLYREST peut vendre au maximum 50 000 unités de TIR et 150 000 unités de BAH. 
+
+Voici des données relatives aux deux modèles :
+
+ | Modèle
+ | 
+ | 
+ | TIR
+ | BAH
+ | 
+ | 
+ | 
+ | 
+ | 
+ | Prix de vente unitaire :	
+ | 100,00 $
+ | 70,00 $
+ | 
+ | 
+ | 
+ | 
+ | 
+ | Coûts unitaires :
+ | 
+ | 
+ | 
+ |  Matières premières
+ | 28,00
+ | 13,00
+ | 
+ |  Main-d’œuvre directe
+ | 15,00
+ | 25,00
+ | 
+ |  Frais généraux de fabrication variables (Note)
+ | 25,00
+ | 12,50
+ | 
+ |  Frais généraux de fabrication fixes communs (Note)
+ | 12,00
+ | 6,00
+ | 
+ |  Frais de vente variables
+ | 10,00
+ | 6,00
+ | 
+ |  Frais de vente et d’administration fixes communs
+ |   4,00
+ |   4,00
+ | 
+ |  Total
+ | 94,00
+ | 66,50
+ | 
+ | 
+ | 
+ | 
+ | 
+ | Résultat d’exploitation
+ | 6,00 $
+ | 3,50 $
+ | 
+ | 	
+	Note :	Les frais généraux de fabrication sont imputés en fonction des heures-machines. Les heures-machines requises pour chacun des modèles sont de 1,0 heure par unité pour le modèle TIR et 0,5 heure par unité pour le modèle BAH.
+
+
+
+
+
+
+
+Exercice – Énoncé 10(CG).1 (suite)
+
+
+	Travail pratique :	
+
+Selon la capacité actuelle, combien d’unités de chacun des modèles, FLYREST doit-elle produire pour maximiser son résultat d’exploitation ? 
+
+FLYREST pourrait augmenter immédiatement sa capacité de production en automatisant davantage son processus de fabrication de façon à répondre à la demande pour les deux produits. Cela engendrerait des coûts de location d’équipement de 300 000 $ pour l’année. Cet équipement permettrait d’augmenter la capacité de production de 25 000 heures-machines. Étant donné que l’équipement loué est plus performant que l’équipement actuel, le coût de la main-d’œuvre directe des unités fabriquées à l’aide de l’équipement loué serait réduit de 2 $ par heure. 
+
+En tenant compte de votre réponse en a) et en présumant que les heures de main d’œuvre directe sont équivalentes aux heures-machines, serait-il rentable pour FLYREST d’augmenter sa capacité de production ? Vous devez justifier votre réponse par des calculs. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution
+
+Selon la capacité actuelle, combien d’unités de chacun des modèles, FLYREST doit-elle produire pour maximiser son résultat d’exploitation ?
+
+Étape 1 – Analyse de la capacité de production
+
+TIR – maximum d’hm utilisées (1,0 hm x 50 000 unités) 		50 000 hm
+BAH = maximum d’hm utilisées (0,5 hm x 150 000 unités)		75 000 hm
+(=) Besoin total pour répondre à la demande totale		          125 000 hm
+(-) Capacité de production disponible				         (100 000 hm)
+(=) Manque de capacité       				                        25 000 hm
+
+Étape 2 – Calcul de la MCV / hm
+
+Comme il y a un manque de capacité, nous devons calculer la MCV/hm pour être en mesure d’établir l’ordre de priorité de production qui permettra de maximiser le résultat d’exploitation de l’entreprise.
+Modèle TIR		Modèle BAH
+
+Prix de vente par unité :			100,00 $		 70,00 $
+Coûts variables unitaires :
+  Matières premières				  28,00			 13,00	
+  Main-d’œuvre directe			  15,00			 25,00
+ 			  Frais généraux de fabrication variables	  25,00			12,50
+  Frais de vente et d’administration variables 10,00			   6,00 
+Total						  78,00			 56,50
+
+Marge sur coût variable			  22,00 $		 13,50 $	
+
+Heures machines par unité			 1,0 h-m		0,5 h-m
+
+Marge sur coût variable par h-m		  22,00 $		 27,00 $
+						
+Ordre de priorité (rentabilité par heure)	       2			      1
+
+
+
+
+Exercice – Solution 10CG.1 (suite)
+
+Étape 3 –  Établir l’ordre de production + Déterminer le nombre d’unités de chaque produit à fabriquer pour maximiser le résultat d’exploitation.
+
+Fabriquer en premier 150 000 unités de BAH (car la MCV/hm est supérieure)
+Capacité de production totale disponible		100 000 hm
+Capacité utilisée pour BAH : 150 000 x 0,5 h =  	  75 000 hm
+Heures disponibles restantes pour le TIR	              25 000 hm
+
+
+Fabriquer le TIR avec les heures disponibles restantes (car la MCV/hm est inférieure)
+
+Avec les 25 000 hm restantes, nous pourrons fabriquer 25 000 unités de TIR
+
+	(Soit, 25 000 hm / 1,0 hm = 25 000 unités de TIR)
+
+
+Identifier clairement le plan de production optimal
+ 		BAH = 150 000 unités du modèle   
+				TIR = 25 000 unités du modèle    
+			
+En tenant compte de votre réponse en a) et en présumant que les heures de main d’œuvre directe sont équivalentes aux heures-machines, serait-il rentable pour FLYREST d’augmenter sa capacité de production ? 
+Vous devez justifier votre réponse par des calculs.  
+              
+			MCV additionnelle (25 000 unités de TIR x 22 $ / unité)		550 000 $ 
+					ou   (25 000 hm x 22 $ / hm)
+
+Économie de la MOD (25 000 unités de TIR x 1,0 hr x 2 $/unité)     50 000    
+
+Augmentation des coûts fixes (location équipement)	          (300 000)    
+
+Augmentation du résultat d’exploitation			           300 000 $
+
+
+Oui, il serait plus rentable d’augmenter la capacité de production, car le résultat d’exploitation sera supérieur de 300 000 $   
+

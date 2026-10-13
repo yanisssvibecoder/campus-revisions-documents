@@ -1,0 +1,12 @@
+3 | Description et objectifs de la séance
+
+La matière première des systèmes d'information : des données
+Description
+Les bases de données constituent la base sur laquelle repose une gestion efficace de l'information organisationnelle. Elles permettent de centraliser le stockage et l'organisation des données tout en garantissant leur intégrité et leur cohérence à travers l'ensemble de l'organisation. Cette centralisation structurée est indispensable pour éviter les redondances, les erreurs et les incohérences qui peuvent compromettre la fiabilité des informations.
+Les bases de données doivent également respecter les règles d'affaires spécifiques à l'organisation. Leur conception doit suivre des principes rigoureux pour assurer des performances qui répondent aux exigences opérationnelles. La bonne compréhension de ces principes permet de développer des systèmes d'information qui exploitent tout le potentiel des données disponibles et demeurent efficaces malgré la croissance constante du volume d'information.
+Important!
+Normalisation, modèle conceptuel, modèle logique, tout ça c'est du charabia? C'est qu'il faut faire le parcours d'apprentissage!
+Objectifs de la séance
+Identifier les données nécessaires à un processus d'affaires à partir d'artefacts existants
+Appliquer les trois premières formes normales à un jeu de données pour éliminer les redondances et les dépendances incorrectes
+Construire un DSBD à partir d'entités normalisées en respectant l'intégrité référentielle

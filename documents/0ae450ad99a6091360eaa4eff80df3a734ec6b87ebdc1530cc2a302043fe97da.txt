@@ -1,0 +1,1420 @@
+## Diapositive 1
+
+Comptabilité de gestion(10904)Séance 5
+
+Département de sciences comptables
+Année universitaire 2026-2027
+
+1
+
+(c) 10904 / S05
+
+## Diapositive 2
+
+Diriger (analyse d’aide à la prise de décision)
+
+(S02) L’analyse coût-volume-résultat (CVR)
+(S03-S04) L’analyse différentielle : Exemples  de décisions d’exploitation:
+Commande spéciale
+Fabriquer ou sous-traiter un produit
+Continuer ou abandonner un produit
+
+(S04) L’analyse des marges : diagnostic financier
+Choisir parmi une gamme de produits
+Prises de décisions diverses
+
+(S05) Analyser la rentabilité de chaque produit
+Coût de fabrication unitaire
+L’imputation des frais généraux de fabrication (charges indirectes)
+
+
+S05
+
+Méthodes pour la comptabilité de gestion | Classification des coûts | Types de marges calculées
+
+Méthode des coûts variables | Variables ou Fixes | Marge sur coûts variables (MCV)
+Marge par facteur de production
+
+Méthode des coûts spécifiques | Variables ou Fixes
+Fixes : communs ou spécifiques | Marge sur coûts spécifiques
+
+Méthode des coûts complets  | Coût de fabrication et 
+frais d’exploitation | Marge brute
+
+Méthode des coûts standards  |  | 
+
+Rentabilité 
+par produit
+(unitaire)
+
+(S06) Contrôler la rentabilité dans l’entreprise manufacturière
+État des résultats réels (État du coût de fabrication)
+(S08-S09) Planification 
+Établir des prévisions
+(S10-S11) Contrôle 
+Mesurer la performance et 
+calculer les écarts
+
+2
+
+(c) 10904 / S05
+
+## Diapositive 3
+
+Prise de décisions court terme (S02-S04)
+
+Résultat d’exploitation
+Ventes (prix de vente x unités)
+(-) Coûts variables 
+MP        (Prix x Qté/u x unités)
+MOD     (Taux x Hr/u x unités)
+FGF var ($/un x unités)
+FV var   ($/un x unités) 
+Marge sur les coûts variables totale (MCV) (MCV/un x unités)
+(-) Coûts fixes spécifiques (FGF, FVA)
+Marge sur coûts spécifiques
+(-) Coûts fixes communs (FGF, FVA)
+Résultat d’exploitation
+
+La classification des coûts (étudiants)
+
+3
+
+(c) 10904 / S05
+
+Coût de fabrication d’un produit S01 rappel
+
+Classification des coûts
+
+
+## Diapositive 4
+
+Prise de décisions court terme (S02-S04)
+
+La classification des coûts (enseignant)
+
+4
+
+(c) 10904 / S05
+
+Coût de fabrication d’un produit
+
+                    Coût total
+
+Coûts variables           Coûts fixes
+MP
+MOD
+FGF var                        FGF fixes
+FV var                          FVA fixes
+
+                    Coût total
+
+Coût de fabrication             FVA
+MP
+MOD
+FGF var                            FV variable
+FGF fixes                          FVA fixes
+
+## Diapositive 5
+
+Plan de la séance S05
+
+5
+
+Définir le coût de fabrication unitaire dans un contexte d’imputation par centres de coûts
+
+Illustration  de l’imputation avec le cas Guerlain
+
+(c) 10904 / S05
+
+Résumé et période de question
+
+Le coût de fabrication - Imputation par centres de coûts
+
+## Diapositive 6
+
+Objectifs de la séance
+
+Comprendre la complexité du traitement des coûts indirects (FGF) dans le calcul du coût de fabrication;
+Calculer les coûts de fabrication selon la méthode de l'imputation et comprendre le rôle que jouent les centres de coûts dans l'allocation des coûts indirects;
+Comprendre les lacunes de la comptabilité traditionnelle (par centres de coûts) quant au calcul des coûts et à la pertinence des informations pour la prise de décisions.
+
+
+
+
+(c) 10904 / S05
+
+6
+
+## Diapositive 7
+
+« La fabrication d’un objet de coûts»
+
+Quelles sont les ressources nécessaires pour fabriquer un produit X?
+
+EXEMPLES…
+
+7
+
+Les étapes de fabrication du Chocolat à la Manufacture
+
+(c) 10904 / S05
+
+## Diapositive 8
+
+Le coût de fabrication - les ressources (1/2)
+
+Coûts directs
+Matières premières (MP): comprennent la majeure partie des matériaux, des pièces et des composants utilisés dans la fabrication et l’assemblage d’un produit. 
+ 
+Main-d’œuvre directe (MOD): est le personnel directement employé à la fabrication et à l’assemblage d’un produit.
+La main-d'œuvre directe correspond donc aux salaires des employés qui travaillent (manuellement ou à l’aide de machines) directement sur la matière première pour la transformer en produit fini.
+
+
+
+8
+
+(c) 10904 / S05
+
+## Diapositive 9
+
+Le coût de fabrication - les ressources (2/2)
+
+Coûts indirects
+Les frais généraux de fabrication (FGF): comprennent toutes les autres ressources qui sont indirectement associées à la fabrication d’un produit.
+Les frais généraux de fabrication correspondent aux frais indirects engagés dans la fabrication et qui ne peuvent être classés comme matières premières ou main-d'œuvre directe.
+Les FGF comprennent :
+Matières indirectes : fournitures d’usine = colle, vis, huiles et graisse, etc.
+Main-d’œuvre indirecte (MOI) : employés qui travaillent dans l’usine, mais qui ne participent pas directement à la fabrication du produit final. Par exemple:  superviseurs, contremaîtres, employés de maintenance, employés d’assurance qualité, salaire du personnel de maintenance, ….
+Autres frais généraux de fabrication indirects : gaz et électricité servant de source d’énergie, amortissement des machines et des équipements, loyer ou amortissement de l’usine, taxes foncières et assurances de l’usine, entretien et réparation - machinerie
+ Etc.
+
+9
+
+(c) 10904 / S05
+
+## Diapositive 10
+
+Les relations entre les ressources et les objets de coûts
+
+La relation directe
+La relation est sans intermédiaire et le lien établi entre les ressources et les objets de coûts est évident. 
+« Un coût est dit direct par rapport à un objet de coût s’il peut être affecté sans ambiguïté à cet objet de coût. » (Malleret et Mendoza, 2018)
+
+La relation indirecte
+Une relation directe ne peut être établie entre les ressources et les objets de coûts. 
+« Un coût est dit indirect par rapport à un objet de coût lorsqu’il correspond à une ressource consommée par plusieurs objets de coût et que l’on ne peut l’allouer aux objets de coût sans poser une hypothèse complémentaire ». 
+(Malleret et Mendoza, 2018)
+
+
+10
+
+(c) 10904 / S01
+
+## Diapositive 11
+
+Exemples de relations entre les ressources et les objets de coûts
+
+La relation directe
+Matières premières (MP): exemples: acier pour la fabrication d’une voiture, farine pour la fabrication de biscuits, etc.)
+Main-d’œuvre directe (MOD): les employés qui sont physiquement et directement associés à la transformation des matières premières en produits finis
+La relation indirecte
+Matières indirectes: exemple: colle pour la finition d’un produit (ne peut pas être facilement rattachée au produit fini, parce que la quantité est trop faible et représente un coût minime). 
+Main-d’œuvre indirecte (MOI): les employés qui travaillent dans l'usine de production, mais qui ne sont pas directement impliqués dans la transformation des matières premières en produit fini. (exemples: les superviseurs, les employés de maintenance, etc.) 
+Les autres frais généraux de fabrication (FGF): Ce qui est nécessaire à la fabrication, mais qui n’est pas classé dans la MP ou la MOD
+Note: Comme les matières indirectes, la main-d'œuvre indirecte est classée dans les frais généraux de fabrication.
+
+11
+
+(c) 10904 / S01
+
+## Diapositive 12
+
+Pourquoi calculer le coût de fabrication des produits?
+
+Évaluer les stocks (produits en cours et produits finis) 
+Calculer le coût des produits vendus
+Gérer les coûts
+Établir les prix de vente
+Estimer la rentabilité des produits
+Planifier et contrôler les coûts
+(…)
+
+
+(c) 10904 / S05
+
+12
+
+## Diapositive 13
+
+Principales marges unitaires pour analyser la rentabilité des produits…
+
+13
+
+
+
+(c) 10904 / S05
+
+dans le contexte d’une entreprise manufacturière
+
+## Diapositive 14
+
+Illustration calcul de la marge brute- 1 produit
+
+L’entreprise PizzaNord inc. fabrique des pâtes à pizza destinées aux épiceries locales. Pour le mois de mai, elle prévoit produire et vendre   5 000 unités. Chaque pâte est vendue à un prix de 6,00 $.La direction souhaite analyser la performance de ce produit en calculant la marge brute. 
+La fabrication d’une pâte à pizza nécessite les ingrédients suivants :
+Farine : 0,70 $
+Levure : 0,20 $
+Emballage : 0,30 $
+Les employés prennent 0,05 h à fabriquer une pâte et sont payés 20$/h.
+
+(c) 10904 / S05
+
+14
+
+## Diapositive 15
+
+Illustration (suite)
+
+Le comptable vous a sorti la liste des autres frais mensuels:
+Énergie liée aux machines : 0,40 $/unité
+Entretien variable : 0,20 $/unité
+Amortissement des équipements : 2 500 $
+Salaire du superviseur : 2 000 $
+Loyer (portion usine) : 1 500 $
+Frais de livraison : 0,30 $ / unité
+Commission des vendeurs (5 % du prix de vente)
+Salaires administratifs : 3 000 $
+Publicité : 1 200 $
+
+
+
+(c) 10904 / S05
+
+15
+
+## Diapositive 16
+
+Illustration (solution)
+
+Calculez la marge brute d’une pâte à pizza. 
+
+(c) 10904 / S05
+
+16
+
+## Diapositive 17
+
+Illustration calcul de la marge brute- plusieurs produits
+
+L’entreprise PizzaNord inc. fabrique et vend trois produits :
+Pâtes fraîches
+Pizza margarita
+Pizza toute-garnie
+Pour le mois de mai, elle prévoit les volumes de production suivants :
+
+
+(c) 10904 / S05
+
+17
+
+Produits (congelé) | Volume | Heures 
+machine | Heures 
+MOD | Prix de vente
+
+Pâtes fraîches | 4 000 unités |  | 200 h | 6,00 $
+
+Pizza margarita | 3 000 unités | 750 h | 450 h | 12,00 $
+
+Pizza toute -garnie | 3 000 unités | 900 h | 525 h | 14,00 $
+
+## Diapositive 18
+
+Illustration calcul de la marge brute- plusieurs produits
+
+ | Pâtes fraîches | Pizzas margarita | Pizzas toutes garnis
+
+Volume de vente (unités) | 4 000 unités | 3 000 unités | 3 000 unités
+
+
+Prix de vente | 6,00 $ | 12,00 $ | 14,00 $
+
+Coût de fabrication |  |  | 
+
+Matières premières | 1,50 $ | 4,00 $ | 5,00 $
+
+Main d’œuvre directe
+Taux horaire 20$/h | 1,00 $
+ | 3,00 $ | 3,50 $
+
+Total des frais généraux de fabrication
+10 000 $ / 10 000 unités | 1,00 $ | 1,00 $
+ | 1,00 $
+
+
+       Coût de fabrication  | 3,50 $ | 8,00 $ | 9,50 $
+
+Marge brute
+ | 2,50 $ | 4,00 $ | 4,50 $
+
+(c) 10904 / S05
+
+18
+
+## Diapositive 19
+
+Identifier le processus de fabrication
+
+19
+
+
+
+USINE
+
+(c) 10904 / S05
+
+Atelier 1: Préparation 
+
+La pâte à pizza est ensuite mise dans une machine qui fabrique la pizza. Le processus de fabrication est entièrement automatisé.
+
+Atelier 3: Emballage
+
+Les employés mesurent et combinent les matières premières. Les ingrédients sont ensuite introduits dans une machine qui les mélange afin d'obtenir une pâte homogène. Une fois le pétrissage terminé, la pâte est divisée en portions par les employés. Les portions destinées aux pâtes fraîches sont ensuite façonnées selon le produit à fabriquer.
+
+L'atelier d'emballage reçoit les différents types de produits : Les employés effectuent une inspection visuelle, emballent les produits, apposent les étiquettes et préparent les commandes pour l'expédition.
+
+Atelier 2: 
+Fabrication de la pizza
+
+## Diapositive 20
+
+Centres de coûts
+
+Lieu physique où se déroulent les activités : 
+Usine (= un centre de coûts)
+Ateliers
+Départements
+Entrepôts
+Services, etc.
+
+Les objets de coûts qui passent par un lieu physique doivent absorber une juste part des coûts comptabilisés à cet endroit
+On va attribuer une portion des FGF aux produits en utilisant un taux d’imputation pour chaque centre de coûts 
+
+
+
+
+Il y a alors plusieurs centres de coûts dans une usine
+
+(c) 10904 / S05
+
+20
+
+Notes : Notes à l’enseignant:
+
+Les objets de coûts qui passent par un lieu physique doivent absorber une juste part des coûts comptabilisés à cet endroit
+
+Plus les produits consomment différemment les ressources de l'entreprise, plus il devient pertinent de créer plusieurs centres de coûts. Cette approche améliore la précision du coût de revient en respectant le principe de causalité : chaque produit supporte uniquement les coûts des activités qu'il consomme réellement.
+
+
+
+## Diapositive 21
+
+Affecter le coût des ressources (FGF) aux objets de coûts (produits)
+
+Ressources (FGF)
+
+
+
+Loyer
+
+Électricité
+
+Taxes et assurances
+
+Amortissement des machines
+
+Salaires des superviseurs
+
+Fournitures usine
+
+Entretien des machines
+
+21
+
+(c) 10904 / S05
+
+USINE
+
+Ressources (FGF)
+
+Loyer
+
+Électricité
+
+Taxes et assurances
+
+Amortissement des machines
+
+Salaires des superviseurs
+
+Fournitures usine
+
+Entretien des machines
+
+Atelier
+
+Atelier
+
+
+P2
+
+
+
+P3
+
+
+Atelier
+
+## Diapositive 22
+
+Étapes pour calculer le coût de fabrication unitaire(dans le cas où nous avons le total des FGF par centres de coûts)
+
+Étape 1 : choisir une base d’imputation commune aux produits
+Étape 2 : calculer le taux d’imputation (formule générale)
+	        FGF total / Volume total de la base d’imputation
+Étape 3: répartir les frais généraux de fabrication (FGF) aux produits
+	Taux d’imputation X Volume de la base d’imputation par unité
+Étape 4: calculer le coût de fabrication unitaire de chaque produit 
+(MP + MOD + FGF)
+
+
+22
+
+(c) 10904 / S05
+
+## Diapositive 23
+
+Les choix de bases d’imputation possibles 
+
+Les coûts indirects sont rattachés aux objets de coûts en fonction d’une base, dont voici les plus courantes :
+Le nombre d’unités fabriquées
+Le temps de travail (les heures de MOD)
+Le temps d’utilisation de la machinerie (les heures-machines)
+
+Selon d’autres déclencheurs de coûts
+Le coût de la MOD
+Le nombre de composants
+La superficie
+Etc.
+
+
+
+
+(c) 10904 / S05
+
+23
+
+Centre de coûts 2
+Processus de fabrication automatisé
+
+## Diapositive 24
+
+Critères pour choisir la base d’imputation des FGF
+
+Critère : Base commune à tous les produits du centre de coûts concerné
+Critère : Analyse des facteurs de production 
+Voir descriptif du processus de fabrication dans le texte du cas
+Exemple: le produit est peu complexe à produire et est fabriqué principalement par une machine
+Et/ ou analyse du tableau des données concernant la fabrication 
+Critère : Analyse des déclencheurs de coûts. Établir des liens entre les FGF et la base d’imputation
+Critère : Données disponibles et compréhensibles
+** D’autres critères peuvent aussi être considérés                                                                                    (ces critères seront étudiés dans les prochains cours de comptabilité) **
+
+
+
+
+
+
+
+
+24
+
+(c) 10904 / S05
+
+## Diapositive 25
+
+L’imputation par centre de coûts
+
+Les frais généraux de fabrication (FGF) comprennent les coûts indirects associés à la fabrication de produits finis.
+L’imputation consiste à attribuer une portion des FGF à chaque produit pour pouvoir calculer un coût de fabrication. 
+L’objectif de l’imputation est de rattacher les frais indirects (FGF) uniformément dans le temps et entre les produits.
+On utilise un taux d’imputation par centre de coûts pour une période donnée :
+
+ Formule =                               FGF totaux par centre de coûts  
+			    Volume total de la base d’imputation du centre de coût
+
+
+25
+
+(c) 10904 / S05
+
+## Diapositive 26
+
+Choisir les bases d’imputation pour les centres de coûts
+
+
+
+26
+
+(c) 10904 / S05
+
+Ressources  : total des frais généraux de fabrication pour la période 10 000 $
+Loyer, taxes et assurances, électricité, 3 500 $ amortissement et entretien de la machine à pizza, etc.
+
+Atelier 1: 4 700 $
+Préparation de la pâte
+Processus manuel  
+
+Atelier 2 : 4 125 $
+Fabrication de la pizza 
+Processus automatisé
+
+
+Pizza margarita
+
+
+Atelier 3 : 1 175 $
+Emballage
+ 
+
+Choisir la base et calculer le taux d’imputation
+
+## Diapositive 27
+
+Illustration calcul de la marge brute- plusieurs produits : calcul taux d’imputation par centre (étudiants)
+
+Atelier 1 : 4 700 $
+Préparation de la pâte | Atelier 2 : 4 125 $
+Fabrication de la pizza | Atelier 3 : 1 175 $
+Emballage
+
+Choix de base : HMOD
+ | Choix de base : HM
+
+ 
+ | Choix de base : Unités fabriquées
+
+
+(c) 10904 / S05
+
+27
+
+Les objets de coûts qui passent par un lieu physique doivent absorber une juste part des coûts comptabilisés à cet endroit.
+
+Total des FGF : 10 000 $
+
+Produits (congelé) | Volume | HM | Heures MOD
+
+Pâtes fraîches | 4 000 unités | - | 200 h
+
+Pizza margarita | 3 000 unités | 750 h | 450 h
+
+Pizza toute -garnie | 3 000 unités | 900 h | 525 h
+
+## Diapositive 28
+
+Illustration calcul de la marge brute- plusieurs produits – répartition des FGF aux produits (étudiants)
+
+ | Pâtes fraîches | Pizzas margarita | Pizzas toutes garnis
+
+Prix de vente | 6,00 $ | 12,00 $ | 14,00 $
+
+Coût de fabrication |  |  | 
+
+Matières premières | 1,50 $ | 4,00 $ | 5,00 $
+
+Main d’œuvre directe | 1,00 $ | 3,00 $ | 3,50 $
+
+Total des frais généraux de fabrication
+10 000 $
+
+Taux d’imputation
+A1: 4,00 $/hmod
+A2: 2,50 $/hm
+A3: 0,1175 $
+
+ | A1-Préparation : 0,050 hmod
+
+
+A2- Machine à pizza :
+
+A3- Emballage :
+
+
+
+Total 0,3175 $ | Atelier 1: 0,150 hmod
+
+
+Atelier 2: 0,25 hm
+
+
+Atelier 3:
+
+
+Total 1,3425$ | Atelier 1: 0,175 hmod
+
+Atelier 2: 0,30 h
+
+
+
+Atelier 3: 
+
+
+Total 1,5675 $
+
+Marge brute | 3,18 $ | 3,66 $ | 3,93 $
+
+(c) 10904 / S05
+
+28
+
+## Diapositive 29
+
+Analyse- impact sur la marge brute
+
+ | Pâtes | Pizzas margarita | Pizzas toutes garnis
+
+Marge brute
+Répartition selon les unités | 2,50 $ | 4,00 $ | 4,50 $
+
+Marge brute
+Imputation- centres de coûts  | 3,18 $ | 3,66 $ | 3,93 $
+
+(c) 10904 / S05
+
+29
+
+Comment expliquer l'amélioration de la marge brute des pâtes à pizza ?
+
+## Diapositive 30
+
+Avantages de calculer un taux d’imputation par plusieurs centres de coûts 
+
+L’utilisation de plusieurs bases d’imputation (une par centre de coûts) peut permettre le calcul d’un coût de fabrication plus exact, car on cherchera à trouver des liens significatifs entre la fabrication des produits qui passe dans chaque centre de coûts et la consommation des ressources.
+Cette méthode est utile pour:
+Faciliter le contrôle des coûts par centre de coûts
+Permettre l’évaluation de la performance de chacun des centres de coûts individuellement
+Améliorer la prise de décisions
+Par conséquent, cette façon de procéder peut être envisagée lorsque le lien entre les frais à imputer et la base d’imputation choisie n’est pas le même pour chaque centre de coûts. Cela permet d’améliorer la répartition des FGF.
+
+
+
+(c) 10904 / S05
+
+30
+
+## Diapositive 31
+
+Impact de l’importance relative des charges indirectes
+
+Forte proportion de charges indirectes
+
+Faible proportion de charges indirectes
+
+31
+
+ | Total | Proportion
+
+MP | 100 000 $  | 5 %
+
+MOD | 200 000 $  | 10 %
+
+FGF | 1 700 000 $  | 85 %
+
+ | 2 000 000 $  |  
+
+ | Total | Proportion
+
+MP | 800 000 $  | 40 %
+
+MOD | 1 000 000 $  | 50 %
+
+FGF | 200 000 $  | 10 %
+
+ | 2 000 000 $  |  
+
+ | Produit A | Produit B
+
+MP | 60 $  | 20 $ 
+
+MOD | 120 $  | 40 $ 
+
+FGF | 567 $  | 567 $ 
+
+TOTAL | 747 $  | 627 $ 
+
+ | Produit A | Produit B
+
+MP | 60 $  | 20 $ 
+
+MOD | 120 $  | 40 $ 
+
+FGF | 1 133 $  | 283 $ 
+
+TOTAL | 1 313 $  | 343 $ 
+
+ | Produit A | Produit B
+
+MP | 240 $  | 80 $ 
+
+MOD | 300 $  | 100 $ 
+
+FGF | 67 $  | 67 $ 
+
+TOTAL | 607 $  | 247 $ 
+
+ | Produit A | Produit B
+
+MP | 240 $  | 80 $ 
+
+MOD | 300 $  | 100 $ 
+
+FGF | 133 $  | 33 $ 
+
+TOTAL | 673 $  | 213 $ 
+
+Répartition nombre de produits : 
+
+Répartition heures-machine : 
+
+Répartition nombre de produits : 
+
+Répartition heures-machine : 
+
+
+
+
+
+
+
+
+
+(c) 10904 / S05
+
+## Diapositive 32
+
+Des exemples de mises en situation…
+
+
+
+(c) 10904 / S05
+
+32
+
+## Diapositive 33
+
+Exemple 1: plusieurs produits avec processus de fabrication similaire (base unique)
+
+Une biscuiterie propose trois saveurs de biscuits : chocolat, vanille et pépite de chocolat. Elle souhaite calculer la rentabilité de chaque produit. Pour ce faire, elle doit répartir ses frais généraux de fabrication entre les trois saveurs.
+Question : Quelle base d’imputation pourrait-elle choisir pour répartir ses frais généraux de fabrication entre les biscuits au chocolat, à la vanille et aux pépites de chocolat ?
+
+(c) 10904 / S05
+
+33
+
+ | Chocolat | Vanille | Pépites de chocolat
+
+Volume (unités) | 10 000 u. | 8 000 u. | 12 000 u.
+
+Heures de MOD | 0,010 h | 0,010 h | 0,011 h
+
+Heures machine
+Temps de cuisson | 0,8 h | 0,8 h | 0,8 h
+
+## Diapositive 34
+
+Exemple 1: plusieurs produits avec processus de fabrication similaire (base unique)
+
+(c) 10904 / S05
+
+34
+
+ | Chocolat | Vanille | Pépites de chocolat
+
+Volume (unités) | 10 000 u. | 8 000 u. | 12 000 u.
+
+Heures de MOD | 0,010 h | 0,010 h | 0,011 h
+
+Heures machine
+Temps de cuisson | 0,8 h | 0,8 h | 0,8 h
+
+Coût unitaire des FGF | Chocolat | Vanille | Pépites de chocolat
+
+Volume (unités) | 0,50 $ | 0,50 $ | 0,50 $
+
+Heures de MOD | 0,48 $ | 0,48 $ | 0,53 $
+
+Heures machine
+Temps de cuisson | 0,50 $ | 0,50 $ | 0,50 $
+
+## Diapositive 35
+
+Exemple 2: plusieurs produits avec processus de fabrication différents (base unique)
+
+Une pâtisserie fabrique trois types de produits : des biscuits, des gâteaux et des tartes. Elle souhaite calculer la rentabilité de chacun de ces produits.
+
+Question : Quelle base d’imputation pourrait-elle choisir pour répartir ses frais généraux de fabrication entre les trois produits ?
+
+
+
+(c) 10904 / S05
+
+35
+
+## Diapositive 36
+
+Exemple 2: plusieurs produits avec processus de fabrication différents (base unique)
+
+(c) 10904 / S05
+
+36
+
+Données de production mensuelle | Unités fabriquées | Heures de main-d'œuvre directe
+ | Minutes de cuisson
+
+
+Biscuits
+1 u = 12 biscuits | 2 000 unités | 0,02 h | 15 minutes
+
+Tartes | 800 unités | 0,35 h | 45 minutes
+
+Gâteaux | 500 unités | 0,50 h | 60 minutes
+
+Frais généraux de fabrication | Montant
+
+
+Électricité de l'atelier | 1 000 $
+
+Amortissement des équipements | 5 000 $
+
+Entretien des équipements | 1 500 $
+
+Loyer de l'usine | 1 000 $
+
+Assurance de l'usine | 800 $
+
+Fournitures de production | 700 $
+
+Total FGF | 10 000 $
+
+Travail à faire: 
+Calculez le taux d’imputation selon la base d’imputation choisie. 
+
+## Diapositive 37
+
+Exemple 2: plusieurs produits avec processus de fabrication différents (base unique) étudiants
+
+(c) 10904 / S05
+
+37
+
+Données de production mensuelle | Unités fabriquées | Minutes de cuisson
+ | Heures de cuisson | HM total
+
+Biscuits
+1 u = 12 biscuits | 2 000 unités | 15 minutes |  | 
+
+Tartes
+ | 800 unités | 45 minutes |  | 
+
+Gâteaux
+ | 500 unités | 60 minutes |  | 
+
+FGF | Montant
+
+
+Électricité de l'atelier | 1 000 $
+
+Amortissement 
+des équipements | 5 000 $
+
+Entretien des équipements | 1 500 $
+
+Loyer de l'usine | 1 000 $
+
+Assurance de l'usine | 800 $
+
+Fournitures de production | 700 $
+
+Total FGF | 10 000 $
+
+HM total | 
+
+Taux d’imputation
+
+ | 
+
+Travail à faire: 
+Calculez le taux d’imputation selon la base d’imputation choisie. 
+
+## Diapositive 38
+
+Exemple 2: plusieurs produits avec processus de fabrication différents (base unique) étudiants
+
+(c) 10904 / S05
+
+38
+
+Données de production mensuelle | Unités fabriquées
+ | Heures de cuisson | Coût unitaire FGF | Coût total FGF
+
+Biscuits
+1 u = 12 biscuits | 2 000 unités |  |  | 
+
+Tartes
+ | 800 unités |  |  | 
+
+Gâteaux
+ | 500 unités |  |  | 
+
+FGF | Montant
+
+
+Électricité de l'atelier | 1 000 $
+
+Amortissement 
+des équipements | 5 000 $
+
+Entretien des équipements | 1 500 $
+
+Loyer de l'usine | 1 000 $
+
+Assurance de l'usine | 800 $
+
+Fournitures de production | 700 $
+
+Total FGF | 10 000 $
+
+Travail à faire: 
+Répartir les frais généraux de fabrication (FGF) aux produits (étape 3)
+
+## Diapositive 39
+
+Exemple 3: plusieurs produits avec processus de fabrication différents (plusieurs bases d’imputation)Imputation par centres de coûts
+
+Une pâtisserie fabrique trois types de produits : des biscuits, des gâteaux au chocolat et des gâteaux à la crème glacée. Elle souhaite calculer la rentabilité de chacun de ces produits.
+
+Question : Quelle base d’imputation pourrait-elle choisir pour répartir ses frais généraux de fabrication entre les trois produits ?
+
+
+
+(c) 10904 / S05
+
+39
+
+## Diapositive 40
+
+Exemple 3: plusieurs produits avec processus de fabrication différents (plusieurs bases d’imputation)
+
+Imaginons une version simplifiée de l’usine Guerlain d’où sortiraient seulement ces trois parfums…VIDÉO
+              
+
+(c) 10904 / S05
+
+40
+
+Comment faire pour répartir les FGF aux produits et calculer le coût de fabrication ?
+
+## Diapositive 41
+
+Exemple 3: Comprendre le processus et identifier les centres de coûts
+
+41
+
+Centre 1- atelier mécanisé
+
+Centre 2- atelier manuel
+
+
+
+USINE
+
+(c) 10904 / S05
+
+## Diapositive 42
+
+Exemple 3: Identifier les centres de coûts
+
+Ressources (FGF)
+
+
+
+42
+
+(c) 10904 / S05
+
+Usine
+
+Ressources (FGF)
+
+Loyer
+
+Électricité
+
+Taxes et assurances
+
+Amortissement des machines de remplissage
+
+Salaires des superviseurs
+
+Salaires des agents de maintenance
+
+Outillage pour la finition
+
+Entretien des machines de remplissage
+
+Atelier
+
+
+Atelier
+
+
+Un taux d’imputation
+
+Plusieurs taux d’imputation
+
+Total des FGF 
+2 275 000 $
+
+Fall Flower
+
+Fall Flower
+
+## Diapositive 43
+
+Exemple 3: Critères choix de base d’imputation
+
+43
+
+(c) 10904 / S05
+
+Charges FGF de l’usine | 
+
+Maintenance (pièces, huile) | 40 000  $ 
+
+Électricité |  20 000  $ 
+
+Outillage pour la finition 
+(colle, outillages,rubans, etc.) |  105 000  $ 
+
+Loyer | 276 000  $ 
+
+Amortissement – 
+machine de remplissage |  1 275 000  $ 
+
+MOI - Salaire maintenance |  265 000  $ 
+
+MOI - Salaire superviseur |  240 000  $ 
+
+Assurances et taxes |  54 000  $ 
+
+Total des FGF | 2 275 000 $
+
+Atelier 1 
+1 950 000 $
+Le processus de fabrication est entièrement automatisé. Toutes les activités du processus sont effectuées par des machines.
+
+Atelier 2
+325 000$
+Le processus de fabrication dans cet atelier est manuel. Les employés réalisent les différentes tâches de fabrication.
+
+
+
+
+
+## Diapositive 44
+
+Exemple 3: Discussion …Rentabilité du produit Abeille (fabriqué seulement par les dames de table) étudiants
+
+44
+
+(c) 10904 / S05
+
+Plusieurs centres
+
+Atelier 1: 1 950 000 $
+Total HM 1 300 heures 
+
+Atelier 2 : 325 000 $
+Total des HMOD dans l’atelier 2 pour Abeille et Fall Flower 6 500 h
+
+Travail à faire: Calculer le coût unitaire des FGF pour le produit Abeille, sachant que les dames prennent 2,5 h a fabriquer une unité. 
+
+1 centre : 
+Un taux d’imputation
+Base commune
+(heures MOD )
+
+Total des FGF:
+2 275 000 $
+
+Total des Hmod pour les trois produits 11 375 h
+
+
+Marge brute
+1 taux d’imputation
+
+Prix vente  3 000 $
+
+MP                      100 $
+MOD                   150 $
+
+Marge brute
+Plusieurs taux d’imputation
+
+Prix vente       3 000 $
+
+MP                      100 $
+MOD                   150 $
+
+
+
+
+## Diapositive 45
+
+Exemple 3: Discussion …Rentabilité du produit Abeille (fabriqué seulement par les dames de table)
+
+Méthode de répartition…
+des frais généraux de fabrication | Un taux d’imputation
+Base commune
+(heures MOD ) | Plusieurs centres
+
+Prix de vente | 3 000 $ | 3 000 $
+
+Coût de fabrication unitaire            MP      
+                          MOD
+                          FGF
+                         
+ | 
+100 $
+150 $
+500$ | 
+100 $
+150 $
+   Atelier 1: 0 $
+   Atelier 2: 125 $ 
+
+
+
+Marge brute (%) | 2 250 $   (75 %) | 2 625 $  (88%)
+
+45
+
+(c) 10904 / S05
+
+Question : Quels sont les avantages de calculer un taux d’imputation à plusieurs centres de coûts dans le cas de Guerlain ? 
+
+## Diapositive 46
+
+Imputation des frais généraux d’administration et de ventes : quelle pertinence ?
+
+Si l’information sert uniquement pour calculer la valeur des stocks, il n’est pas pertinent (il est même interdit !) d’inclure les frais de vente et d’administration dans le périmètre de charges.
+Pour des besoins de gestion, le calcul d’un coût de revient complet (incluant les frais généraux d’administration et de vente) pourrait être pertinent, notamment si : 
+Les parfums consomment les frais généraux d’administration et de vente dans des proportions différentes
+On veut mieux comprendre la composition des frais d’administration et de vente
+On s’interroge sur le résultat net dégagé par certains de nos produits
+Par exemple, dans l’industrie du luxe, la valeur ajoutée du produit passe aussi par le service à la clientèle et est soutenue par d’importantes campagnes publicitaires. Les coûts associés ne sont donc pas pris en compte si on se limite à calculer le coût de fabrication.
+
+
+► Les frais de vente et d’administration peuvent constituer une part importante des charges d’une organisation. Une connaissance approfondie de ces coûts peut être tout aussi utile que la connaissance des coûts de fabrication.
+► En pratique, on peut appliquer les règles de l’imputation vues pour les FGF aux FVA pour calculer des coûts de revient. 
+
+(c) 10904 / S05
+
+46
+
+## Diapositive 47
+
+Résumé de la séance
+
+47
+
+(c) 10904 / S05
+
+## Diapositive 48
+
+Sommaire: Les choix de bases d’imputation possibles 
+
+Lorsqu’il y a un seul produit :
+Le nombre d’unités fabriquées
+Lorsque l’on a plusieurs produits, qui consomment les ressources (FGF) de manière similaire (par exemple, tous les produits prennent le même temps d’utilisation de la machinerie, le même temps de MOD, etc.), la base d’imputation peut être:
+ le nombre d’unités fabriquées
+Lorsque l’on a plusieurs produits, qui consomment les ressources (FGF) de manière différente, (par exemple on fabrique des gâteaux et des biscuits qui n’ont pas le même temps de cuisson) on utilisera d’autres bases d’imputation pour refléter cette réalité (par exemple, les heures machine).
+
+
+
+
+(c) 10904 / S05
+
+48
+
+## Diapositive 49
+
+Imputation des charges indirectes : 
+un ou plusieurs centres de coûts ?  
+
+Comprendre le processus de fabrication des produits
+Est-ce que le processus de fabrication est similaire ou différent (par exemple, passe par des centres de coûts différents?) 
+Analyser la liste des FGF (FGF spécifiques ou communs)
+→ Analyser le processus de production et le détail des postes de charges est essentiel pour déterminer la base d’imputation. Le choix de la base d’imputation aura un impact sur le coût de fabrication.
+Identifier les risques associés à une mauvaise imputation (lien avec la prise de décision)
+Exemples: établir les prix de vente, estimer la rentabilité des produits/services 
+Attribuer les charges indirectes avec une seule base d’imputation (un seul centre de coûts) peut conduire à biaiser l’information sur les coûts et donc la prise de décision. 
+→ Plus la proportion de charges indirectes est importante, plus le risque est 	grand d’introduire des biais dans le calcul.
+
+(c) 10904 / S05
+
+49
+
+## Diapositive 50
+
+IMPUTATION (un seul taux d’imputation)
+
+Charges directes
+MP et MOD
+
+Charges indirectes
+FGF
+
+Taux d’imputation
+
+Total FGF
+Volume de base d’imputation (total)
+
+PRODUITS
+
+(c) 10904 / S05
+
+50
+
+## Diapositive 51
+
+IMPUTATION AVEC PLUSIEURS CENTRES DE COÛTS(plusieurs taux d’imputation)
+
+Charges indirectes
+FGF
+
+Taux d’imputation
+
+Un taux d’imputation sera calculé pour chaque centre de coûts
+
+PRODUITS
+
+Centre de coûts A
+
+Centre de coûts B
+
+Taux d’imputation
+
+Centre de coûts ….
+
+Taux d’imputation
+
+(c) 10904 / S05
+
+51
+
+Analyser les charges FGF et le processus pour évaluer les bases d’imputation pour chaque centre
+
+Répartition des FGF par produit
+
+PRODUITS
+
+## Diapositive 52
+
+Sommaire S01 à S05
+
+S01 | S02 | S03 | S04 | S05
+(entreprise manufacturière)
+
+Ventes 
+(-)  Coûts 
+        Variables
+        Fixes
+(=) Résultat d’exploitation | Ventes 
+(-)  Coûts variables
+(=) Marge sur coûts variables 
+(-) Coûts fixes 
+(=) Résultat d’exploitation
+  | Ventes 
+(-)  Coûts variables
+(=) MCV
+(-) Coûts fixes (FGF + FVA)
+       Coûts fixes spécifiques
+       Coûts fixes communs
+(=) Résultat d’exploitation | MCV unitaire
+MCV totale 
+MCV pondérée
+Marge sur coûts spécifiques
+Résultat d’exploitation
+Marge par facteur de production contraignant (contexte ressources limitées)  | Prix de vente
+(-) Coût de fabrication unitaire
+      MP     (prix x quantité)
+      MOD  (taux x heure)
+      FGF    
+(=) Marge brute (par unité)
+
+
+Terminologie des coûts | Analyse CVR
+MCV (unitaire)  pondérée | Analyse différentielle
+Identifier les coûts pertinents
+Coût de renonciation | Analyse des marges | Calculer le cout de fabrication unitaire
+Imputation par centres (FGF)
+
+Coûts variables et fixes
+Coûts directs et indirects
+Coûts de fabrication | Prise de décision
+- Modification: coûts fixes, coûts variables, prix de vente, quantité vendue (volume) | Prise de décision
+Commande spéciale
+(2) Fabriquer ou sous-traiter
+(3) Abandonner ou continuer
+ | Prise de décision
+(4) Plan de production | Analyse de la rentabilité par produit
+(marge brute unitaire)
+
+
+(c) 10904 / S05
+
+52
+
+## Diapositive 53
+
+Conclusion – Séance 5
+
+Le coût de revient d’un produit
+
+Pour  
+
+Comment  
+
+Comprendre le comportement des coûts indirects (FGF) 
+
+Méthode de l’imputation 
+Repose sur la notion de centres de coûts
+Un seul centre de coûts
+Plusieurs centres de coûts
+
+Calculer la rentabilité des produits
+Gérer les coûts
+
+(c) 10904 / S05
+
+53
+
+## Diapositive 54
+
+QUESTIONS…
+
+54
+
+(c) 10904 / S05

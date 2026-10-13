@@ -1,0 +1,21 @@
+3.1 | Activités/ressources avant la séance
+
+Séance 3
+Important!
+Giroux, Hélène (2019).
+La gestion des opérations et de la logistique
+, 2e ed., Éditions JFD
+ISBN: 9782897990671
+Chapitre 3
+Sections 3.1 à 3.5
+Tableaux croisés dynamiques dans Excel
+-
+À voir avant la séance 3 puisque nous ferons des tableaux croisés dynamiques en classe.
+Capsule 1 : Analyser les stocks pour mieux les gérer
+Classification ABC avec exemple
+Capsule 2 : Avoir ou ne pas avoir de stocks
+Arbitage possession-pénurie
+Capsule 3 : Le lot économique
+Arbitrage commande-stock, exemple de détermination de la QEC,
+comparaison du coût total.
+Explication du problème non-résolus 2, page 124

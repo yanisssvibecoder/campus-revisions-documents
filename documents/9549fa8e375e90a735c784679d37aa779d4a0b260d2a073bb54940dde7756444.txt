@@ -1,0 +1,78 @@
+## Page 1
+Érablière Boisvert1
+
+Contexte
+
+Marcel Boisvert possède une entreprise de transformation de sirop d'érable établie depuis trois
+générations. Contrairement aux érablières traditionnelles, Marcel ne possède pas de forêt. Son modèle
+d'affaires repose plutôt sur l'achat d'eau d'érable auprès de petits propriétaires forestiers de la région
+qui n'ont pas les installations nécessaires pour la transformer en sirop.
+
+Le processus actuel
+
+Chaque lundi matin de la saison des sucres, Marcel contacte entre 3 et 5 fournisseurs et leur demande
+combien de barils d'eau d'érable ils peuvent lui vendre cette semaine-là et à quel prix unitaire. Marcel
+griffonne ces informations sur des bouts de papier, parfois au dos d'une enveloppe, d'autres fois sur un
+calepin qu'il traîne dans sa camionnette. Il arrive même qu'il note des détails sur son téléphone dans
+l'application de notes, sans structure particulière. Comme les fournisseurs ne répondent pas toujours
+au téléphone, Marcel doit rappeler chaque fournisseur en moyenne trois fois avant d’obtenir les
+informations souhaitées.
+
+Après avoir recueilli toutes les offres, Marcel décide de qui acheter, combien de barils et à quel prix.
+Les barils sont en général livrés le mercredi matin très tôt, et Marcel doit payer ses fournisseurs
+exactement une semaine après la livraison, soit le mercredi suivant.
+
+Dès la réception des barils le mercredi, la transformation commence. Cependant, tous les barils ne se
+valent pas : selon la pureté de l'eau et le niveau de sucre qu'elle contient, un baril peut produire entre 2
+et 4 bouteilles de sirop. De plus, le coût de production varie entre 1$ et 3$ par bouteille, dépendamment
+de l'énergie nécessaire pour la bouillir et du temps de transformation requis. Ces informations
+(rendement et coût) sont notées sur une feuille située près de l’évaporateur à la fin de chaque
+transformation et le coût de production est décaissé immédiatement.
+
+Pendant le processus de transformation, Marcel contacte les trois marchés publics de sa région.
+Contrairement aux échanges avec les fournisseurs, ceux avec les marchés publics (clients) se passent
+de façon asynchrones, c’est-à-dire que Marcel laisse un message à chaque client et chacun rappelle
+et laisse un message en retour précisant sa demande, c’est-à-dire combien de bouteilles il serait prêt
+à acheter durant la semaine et à quel prix. Pour minimiser ses déplacements et économiser du
+
+
+
+
+1 Cas inspiré du jeu de carte Maple (ERPSim), idée de Yannick Brière, rédaction par Marie-Claude Trudel
+
+## Page 2
+carburant, Marcel choisit un seul marché par semaine et lui vend et livre la quantité demandée. Le
+paiement de ce client est généralement reçu deux semaines après la livraison.
+
+Les problèmes actuels
+
+Marcel éprouve de sérieuses difficultés à gérer son entreprise avec sa méthode actuelle. Ses notes
+éparses rendent le suivi des paiements extrêmement complexe : il ne sait plus toujours qui il doit payer,
+quand et combien. Il lui arrive d'oublier de réclamer des paiements de ses clients ou, pire encore, de
+payer deux fois le même fournisseur.
+
+Le suivi de ses inventaires est tout aussi problématique. Il ne connaît jamais avec précision combien de
+barils d'eau d'érable il a en stock ni combien de bouteilles de sirop sont prêtes à être vendues. Cette
+absence de données fiables l'empêche de planifier adéquatement ses achats et ses ventes.
+
+De plus, Marcel conserve des informations sensibles sur ses fournisseurs et clients : noms, adresses de
+livraison, numéros de téléphone et coordonnées bancaires. Ces données personnelles sont dispersées
+dans différents carnets, feuilles volantes et fichiers informatiques non protégés. Récemment, un
+conseiller lui a mentionné qu'il pourrait être assujetti à la Loi 25 sur la protection des renseignements
+personnels, mais Marcel ne sait pas vraiment ce que cela implique pour son entreprise.
+
+Marcel réalise qu'il a besoin d'une solution pour mieux organiser son information, automatiser certains
+processus et assurer la conformité avec les lois en vigueur, tout en protégeant les données de ses
+partenaires d'affaires.
+
+Le mandat confié à Amélie
+
+Face à ces défis croissants, Marcel décide de demander l'aide de sa nièce Amélie, étudiante en
+technologies de l'information à HEC Montréal. Lors d'un souper familial, il lui explique ses difficultés et lui
+demande de lui proposer des solutions adaptées à sa réalité de petite entreprise. Amélie accepte avec
+enthousiasme ce mandat qui lui permettra d'appliquer concrètement les concepts appris dans ses
+cours.
+
+Après avoir analysé la situation, Amélie prépare une présentation pour son oncle dans laquelle elle
+propose quatre options basées sur des plateformes no-code et low-code, classées du plus simple au
+plus complexe.

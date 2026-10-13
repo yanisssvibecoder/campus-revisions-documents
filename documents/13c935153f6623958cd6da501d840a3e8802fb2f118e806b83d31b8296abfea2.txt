@@ -1,0 +1,14 @@
+Développement d’un tableau de bord pour soutenir la dernière simulation (à remettre 2 jours après la séance 12)
+
+À la séance 12, vous devrez jouer la simulation ERPSIM Maple en utilisant un tableau de bord que vous aurez réalisé avec les applications apprises aux séances 8 à 11.
+Cette séance est une séance d'évaluation, la présence en classe est obligatoire.
+Il est important de noter que le travail de fin de session est en lien avec cette séance. Tout le travail devrait avoir été complété avant la séance sauf la partie 8 du Rapport final.
+Si une Équipe n'a pas de tableau de bord fonctionnel à la séance 12, elle n'aura pas de point pour l'évaluation du tableau de bord et du Rapport final.
+Énoncé du travail de session
+Rapport final à compléter.docx
+Dictionnaire de données des sources de MAPLE
+Le fichier Tableau Desktop pour réaliser le travail de session, sera envoyé par courriel à chaque équipe à la séance 9.
+Évaluation des pairs
+Vous comptétez l'évaluation des pairs uniquement si vous avez eu une personne qui n'a pas collaborer adéquatement au travail
+https://hecmontreal.eu.qualtrics.com/jfe/form/SV_6h4sAsUU
+5XB1UeW

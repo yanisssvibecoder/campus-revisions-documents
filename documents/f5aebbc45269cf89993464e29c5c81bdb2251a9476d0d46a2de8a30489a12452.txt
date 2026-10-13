@@ -1,0 +1,1035 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2026-2027
+
+Comptabilité de gestion(10904) – Séance 3Séance en classe
+
+(c) 10904 / S03 - Version H2024
+
+1
+
+## Diapositive 2
+
+Révision S02 - Analyse Coût-Volume-Résultat
+
+FlashCo fabrique des clés USB 64 GB. L'entreprise a la capacité de produire jusqu'à 200 000 unités par mois. Le tableau ci-dessous présente le prix de vente ainsi que les différents coûts mensuels : 
+
+Prix de vente unitaire 
+
+(Volume de vente actuel 120 000 unités)
+ | 20,00 $
+
+Coûts variables unitaires : |  
+
+Matières premières
+Main-d’œuvre directe
+Frais généraux de fabrication variables
+Frais de vente variables | 6,40 $
+5,00 $
+2,20 $
+1,40 $
+
+
+Coûts fixes totaux :
+Frais généraux de fabrication fixes
+Frais de ventes et d’administration fixes |  
+191 400 $
+276 600 $
+
+ Quelle est la  (MCV) unitaire? 
+
+
+2. Quel est le point mort en unités ?
+
+2
+
+(c) 10904 / S03
+
+## Diapositive 3
+
+PLAN DE LA SÉANCE 3
+
+THÉORIE-
+L’analyse différentielle et les notions de coûts pertinents à la prise de décision d’exploitation
+
+Exemple 1
+La Commande Spéciale
+
+3
+
+(c) 10904 / S03
+
+Prise de décision d’exploitation –
+
+
+Exemple 2
+Fabriquer ou acheter
+
+Exemple 3
+Abandonner ou Continuer 
+
+## Diapositive 4
+
+Diriger (analyse d’aide à la prise de décision)
+
+(S02) L’analyse coût-volume-résultat (CVR)
+Prise de décision à court terme
+(S03) L’analyse différentielle : consiste à faire ressortir les divers éléments de revenu et de coûts sur lesquels influe chaque décision et permets de la comparer à une situation de référence.
+Exemples de décisions d’exploitation :
+Commande spéciale
+Fabriquer ou sous-traiter un produit
+Continuer ou abandonner un produit
+
+(S04) Prendre des décisions à court terme 
+Calcul et analyse avec les marges
+(S05) Analyse la rentabilité par produit
+Imputation et Coût de fabrication unitaire
+
+S03
+
+Méthodes pour la comptabilité de gestion | Classification des coûts | Types de marges calculées
+
+Méthode des coûts variables | Variables ou Fixes | Marge sur coûts variables (MCV)
+Marge par facteur de production
+
+Méthode des coûts spécifiques | Variables ou Fixes
+Fixes : communs ou spécifiques | Marge sur coûts spécifiques
+
+Méthode des coûts complets  | Coût de fabrication et frais d’exploitation | Marge brute
+
+Méthode des coûts standards  |  | 
+
+Gestionnaire veut agir sur
+Résultat d’exploitation
+
+4
+
+(c) 10904 / S03
+
+## Diapositive 5
+
+Objectifs de la séance
+
+Identifier les coûts pertinents lors de décisions d’exploitation.
+Utiliser l’approche différentielle pour la prise de décision d’exploitation à court terme. 
+-   La commande spéciale
+Fabriquer ou sous-traiter un produit
+Continuer ou abandonner un produit
+
+Calculer et comprendre le prix de vente minimum acceptable lors d’une commande spéciale
+
+
+
+5
+
+(c) 10904 / S03
+
+## Diapositive 6
+
+Les décisions d’exploitation
+
+Les décisions d’exploitation n’exigent pas d’investissement et sont souvent liées à des opérations courantes. Les décisions de ce type se présentent sous forme d’un choix entre deux ou plusieurs propositions. 
+Exemples de décisions d’exploitation
+Accepter ou rejeter une commande spéciale 
+Acheter (sous-traiter) ou fabriquer un produit 
+Continuer (ajouter) ou abandonner un produit
+
+
+
+
+6
+
+(c) 10904 / S03
+
+## Diapositive 7
+
+L’analyse des décisions d’exploitation
+
+Les décisions d’exploitation doivent se faire :
+En identifiant les coûts et les revenus pertinents (facteurs quantitatifs) pour connaître l’impact sur le résultat d’exploitation (augmentation ou diminution)
+Des aspects non financiers seront également considérés par les gestionnaires lorsqu’ils prendront leurs décisions (facteurs qualitatifs)
+
+Ces différents facteurs (qualitatifs) peuvent concerner : 
+les clients – ex : Cette décision va-t-elle nous permettre d’acquérir de nouveaux clients?
+les fournisseurs – ex : Est-ce que nous trouverons des fournisseurs pour nous approvisionner? 
+les employés – ex : Est-ce que les employés seront satisfaits de cette décision? 
+la qualité – ex : Quels pourraient être les impacts de notre décision sur la qualité de notre produit?
+la trésorerie – ex : Avons-nous la trésorerie nécessaire pour assumer l’accroissement du fonds de roulement associé à la décision? 
+(…)
+
+
+7
+
+(c) 10904 / S03
+
+## Diapositive 8
+
+Les coûts afférents à une décision
+
+Les coûts pertinents
+Coûts à prendre en considération lors de l’évaluation quantitative d’une décision
+Sont encourus dans le futur, c’est-à-dire qui «apparaît» si on va de l’avant avec la proposition
+Ex :  Vous hésitez à accepter une commande d’un client : Le coût des matières premières nécessaires pour fabriquer les produits de cette commande est un coût pertinent (car ce coût augmente si vous faites la commande). Par contre, le coût du loyer de l’usine n’est pas un coût pertinent (car ce coût est fixe et n’augmente pas si vous faites la commande).  
+Les coûts qui diffèrent d’une proposition à l’autre
+Exemples : 
+coûts fixes spécifiques
+Coût de renonciation
+Les coûts non pertinents
+Tous les coûts ne présentent pas de l’intérêt pour la prise de décision, par exemple les coûts qui ne diffèrent pas entre les deux propositions. Si un coût est identique quelle que soit l'alternative choisie, il peut être ignoré
+Exemples : 
+coûts irrécupérables
+coûts fixes communs
+	
+
+8
+
+(c) 10904 / S03
+
+## Diapositive 9
+
+Les coûts irrécupérables (sunk costs)
+
+Coût résultant d’une décision irrévocable dans le passé et qui ne peut être changée, peu importe la décision prise.
+Exemples: coût d’un stock désuet, coût d’une immobilisation que l’on veut changer, coût de recherche et développement déjà encourus
+
+Quel coût est irrécupérable dans cette décision?
+Depuis 8 mois, l’entreprise ABC prépare un nouveau projet
+Voici certaines données
+Les frais d’étude du projet engagés jusqu’à maintenant s’élèvent à 600 000 $
+Il n’y a aucun actif immobilisé d’inclus dans ce montant
+En date d’aujourd’hui, on détermine que:
+Les frais prévus pour terminer le projet sont de 900 000 $
+Les revenus prévus s’élèvent à 1 300 000 $
+
+
+
+
+9
+
+(c) 10904 / S03
+
+## Diapositive 10
+
+Coûts fixes spécifiques et Coûts communs
+
+Coûts spécifiques
+Coûts pouvant être associés spécifiquement à une entité organisationnelle, un centre de coûts ou un objet de coûts.
+Si une ressource est consommée par un seul centre de coûts ou un seul objet de coûts, la ressource est entièrement affectée à ce centre de coûts ou cet objet de coûts.
+Exemple: Amortissement de l’équipement Y qui est utilisé uniquement pour l’objet de coûts Z
+En théorie, ce coût disparaît si on arrête la production d’un objet de coûts ou si on procède à la fermeture (arrêt) d’un centre de coûts.
+ Coûts communs
+Coûts partagés par plusieurs entités, centres de coûts ou objets de coûts 
+Autrement dit, ce sont les ressources que se partagent plusieurs objets de coûts (plusieurs produits) ou plusieurs centres de coûts.
+Exemples : Amortissement du bâtiment, Taxes foncières, Chauffage et éclairage, salaire du directeur d’usine, etc.
+Ce coût n’est généralement pas affecté par l’arrêt de production d’un objet de coûts ou la fermeture (arrêt) d’un centre de coûts.
+
+
+
+
+
+10
+
+(c) 10904 / S03
+
+## Diapositive 11
+
+Coût de renonciation (Opportunity cost)
+
+Manque à gagner (gain auquel on renonce) causé par la renonciation à une option considérée comme la meilleure après celle qui a été choisie.
+Par exemple : L’entreprise ABC détient une machine qui peut être utilisée pour faire le produit A ou le produit B. Si l’entreprise choisit d’utiliser la machine pour fabriquer le produit A, elle renoncera à la marge qui aurait pu être dégagée grâce à la production du produit B. Ce gain perdu s'appelle un coût de renonciation.
+
+Il est toujours pertinent pour la prise de décision
+
+Il n’implique pas de déboursés, car il ne résulte d’aucune transaction
+
+
+11
+
+(c) 10904 / S03
+
+## Diapositive 12
+
+Exemple - coûts pertinents
+
+Une entreprise fabrique un produit vendu à 20 $ l’unité.
+Le volume des ventes actuelles s’élève à 4 000 unités par mois, ce qui représente 80 % de la capacité de production.
+Les coûts totaux actuels pour produire les 4 000 unités, s’élèvent à 56 000 $, ce qui inclut 16 000 $ de coûts fixes.
+On pourrait vendre les unités produites avec la capacité excédentaire, soit 1 000 unités, au prix de 11 $ l’unité.
+Le directeur de production vous assure que cette vente n’est pas rentable.
+
+
+
+
+12
+
+(c) 10904 / S03
+
+Qu’en pensez-vous? 
+Justification du directeur
+
+
+
+Prix de vente  |     11 $
+
+Coût moyen de fabrication
+56 000 $ / 4 000 unités |     14 $
+
+Résultat |    (3 $) 
+
+## Diapositive 13
+
+Piste de solution… 
+
+13
+
+Volume
+
+$
+
+(c) 10904 / S03
+
+4 000 u. 
+
+5 000 u. 
+
+Quels coûts augmentent avec l’augmentation du volume de production ?
+
+
+Le coût fixe total est constant à l’intérieur du segment significatif, il est donc non pertinent, car il ne change pas avec l’augmentation du volume (S01) 
+(coût commun)
+
+Rappel S01 notion de coût total. 
+Coût total = coûts variables + coûts fixes
+Coûts variables = coût total – coûts fixes
+Coûts variables = 56 000 $ - 16 000 $ = 40 000 $
+40 000 $/ 4 000 u = 10 $
+
+40 000 $ 
+
+## Diapositive 14
+
+Résultat différentiel - Définition
+
+Utilisé lorsque l’on doit choisir entre deux propositions
+Souvent, aide à faire un choix entre le statu quo (ne rien faire) et apporter un changement (ex : accepter une commande)
+
+Correspond à la différence entre les résultats de deux propositions
+Résultat Proposition A (-) Résultat Proposition B
+
+Elle fait ressortir l’impact sur le résultat lors d’une décision
+L’impact sur le résultat peut être positif (augmentation) ou négatif (diminution)
+
+
+14
+
+(c) 10904 / S03
+
+## Diapositive 15
+
+Décision d’exploitation Exemple 1 : 
+
+La commande spéciale
+
+(c) 10904 / S04 
+
+15
+
+## Diapositive 16
+
+La commande spéciale
+
+Les entreprises de fabrication et de services reçoivent souvent des demandes de commandes spéciales. 
+Ces commandes spéciales concernent généralement des biens ou des services à prix réduit et sont généralement une commande unique. 
+
+Pour décider d'accepter ou non une commande spéciale, la direction doit tenir compte de plusieurs facteurs :
+ La capacité requise pour exécuter la commande spéciale
+ Déterminer si le prix proposé par l'acheteur couvrira les coûts de cette commande (coût de renonciation)
+ Le rôle des coûts fixes dans l'analyse
+ Les facteurs qualitatifs
+
+
+16
+
+(c) 10904 / S03
+
+## Diapositive 17
+
+ Illustration – Commande spéciale – Énoncé (1/2)
+
+
+
+Atelier FAB fabrique des vases en céramique à la main et est localisé dans la grande région de Montréal près d’un ruisseau. L’atelier privilégie des méthodes respectueuses de l’environnement et favorise les clients situés dans la grande région de Montréal afin de limiter son empreinte carbone.
+Sa capacité maximale de production est de 1 400 vases par mois. 
+Chaque vase nécessite 30 minutes de MOD.
+Le prix de vente unitaire des vases est de 150 $ et les ventes prévues pour le mois de juin sont de 1 000 unités pour ses clients du grand Montréal.
+Les coûts variables unitaires s’élèvent à 40 $
+Les coûts fixes totaux mensuels sont de 37 500 $.
+
+
+17
+
+(c) 10904 / S03
+
+## Diapositive 18
+
+Illustration – Commande spéciale – Énoncé (2/2)
+
+
+
+Atelier FAB a reçu une commande spéciale d’un client situé à New-York pour 500 vases. Les vases devront être livrés au mois de juin. Le client lui a offert 60 000 $ pour les 500 vases. 
+Ces 500 vases nécessiteront un fini spécifique. Cependant, l’utilisation d’un produit contenant du plomb pour cette finition soulève des préoccupations importantes.
+La location de la machine pour réaliser ce fini s’élève à 25 000 $ et celle-ci sera utilisée uniquement pour cette commande.
+
+Travail à faire :
+Déterminer si l’entreprise a la capacité de produire les 500 vases. 
+Identifier les coûts pertinents à cette analyse et calculer le prix de vente minimum pour accepter cette commande spéciale
+Calculer le résultat différentiel de la commande spéciale
+Discutez des éléments qualitatifs qui pourraient influencer votre décision. 
+
+18
+
+(c) 10904 / S03
+
+## Diapositive 19
+
+Illustration - Évaluation d’une commande spéciale avec manque de capacité de production – Solution 
+
+Analyse préalable - Analyse de capacité
+
+Capacité totale: | 
+
+Capacité actuellement utilisée:  | 
+
+Capacité requise de la commande:  | 
+
+Capacité manquante (déficit) : | 
+
+19
+
+Conclusion: pour accepter la commande spéciale de 500 unités, nous allons produire 900 unités (au lieu des 1 000 unités prévues) de nos commandes régulières pour respecter notre capacité totale de production (soit, 1 400 vases). 
+
+(c) 10904 / S03
+
+## Diapositive 20
+
+Illustration - prix minimum (étudiants)Quels sont les coûts pertinents à cette prise de décision?
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+ |  | 
+
+Prix minimum  | 56 000 $ / 500 unités | 112 $/unités
+
+20
+
+(c) 10904 / S03
+
+## Diapositive 21
+
+Piste de solution analyse différentielle…(étudiants) 
+
+
+
+
+
+21
+
+Situation actuelle (client régulier)  | 
+
+Unités vendues 1 000 unités | 1 unité
+
+Prix de vente | 150 $
+
+(-) Coûts variables | 40 $
+
+= Marge sur coûts variables | 110 $
+
+(-) Coûts fixes communs (loyer, chauffage, frais mktg, etc.)
+37 500 $ / 1 000 u. | 37,50 $
+
+ | 
+
+(=) Résultat d’exploitation
+72,50 $ x  1 000 unités | 72 500 $
+
+(c) 10904 / S03
+
+Unités vendues | Refuser
+Alternative A | Accepter la commande spéciale
+Alternative B | Résultat différentiel
+Impact sur le résultat augmentation (diminution)
+
+Ventes |  |  | 
+
+(-) Coûts variables |  |  | 
+
+= Marge sur coûts variables |  |  | 
+
+(-) Coûts fixes spécifiques  |  |  | 
+
+(-) Coût de renonciation |  |  | 
+
+(=) Résultat d’exploitation |  |  | 
+
+## Diapositive 22
+
+Résumé des différentes étapes pour analyser une commande spéciale
+
+
+
+(c) 10904 / S03 - Version H2024
+
+22
+
+## Diapositive 23
+
+Identifier les coûts pertinents (à la lecture de l’énoncé)
+
+23
+
+(c) 10904 / S03
+
+## Diapositive 24
+
+Analyse d’une commande spéciale
+
+Avons-nous la capacité pour produire les unités additionnelles?
+
+24
+
+(c) 10904 / S03
+
+## Diapositive 25
+
+Quel serait le prix de vente minimum pour accepter cette commande spéciale ?
+
+
+Prix de la commande  impact sur résultat = 0 $ 
+(Prix = Coûts)
+Donc, pour le vendeur, si l’on ne peut pas obtenir le prix minimum (ou plus), il vaut mieux ne pas produire (ne pas accepter la commande).
+
+Coûts variables de la commande spéciale | XX
+
+(+) Coûts fixes spécifiques  | XX
+
+(+) Coût de renonciation si manque de capacité (doit-on renoncer à des unités des ventes régulières?) | XX
+
+Total des coûts de la commande spéciale | XX
+
+Prix de vente minimum = 
+Total des coûts de la commande spéciale Nbre d’unités de la commande spéciale
+
+25
+
+(c) 10904 / S03
+
+Analyse d’une commande spéciale - prix minimum 
+
+## Diapositive 26
+
+Analyse d’une commande spéciale -Calcul du résultat différentiel (impact sur le résultat) 
+
+26
+
+(c) 10904 / S03
+
+Si plusieurs produits, on doit choisir l’ordre de priorité (renoncer aux unités  des moins rentables au plus rentables).
+On doit utiliser la MCV par facteur de production (S04) pour déterminer l’ordre de priorité de production.
+
+Éléments de CALCUL | Montant | À savoir
+
+Prix de vente 
+(de la commande spéciale) | XX $ | Souvent le prix de la commande spéciale sera inférieur aux prix des commandes régulières
+
+(-) Coûts variables unitaires
+(de la commande spéciale) | XX | Les coûts variables associés à la commande spéciale peuvent être identiques ou différents de ceux des clients réguliers. 
+
+= MCV totale de la commande  
+   (MCV unitaire x unités commandées) | XX | Si la MCV est négative, la commande spéciale sera refusée. 
+
+(- ) Coûts fixes spécifiques  | XX | Coûts fixes additionnels liés à la production des unités de la commande spéciale.
+
+(-) Coût de renonciation | XX | S’il y a un manque de capacité, on doit renoncer à des unités des ventes régulières.
+MCV unitaire (régulier) x nombre d’unités renoncées *
+
+Résultat différentiel | XX $ | 
+
+(c) 10904 / S03
+
+## Diapositive 27
+
+Décision d’exploitation Exemple 2 : 
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+(c) 10904 / S04 
+
+27
+
+## Diapositive 28
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+Coût total pour 50 000 unités du BK200 | 
+
+Matières premières (MP) | 125 000 $
+
+Salaires des employés de production (MOD) | 62 500 $
+
+Frais généraux de fabrication variables | 87 500 $
+
+Frais généraux de fabrication fixes | 175 000 $
+
+Coût total | 450 000 $
+
+Nombre d’unités du BK200 |  ÷ 50 000
+
+Coût unitaire 450 000 $ / 50 000 u. | 9,00 $
+
+28
+
+La société ABC fabrique des vélos. Présentement, elle produit elle-même les pédales utilisées dans ses vélos. Le détail du coût de fabrication unitaire de cette pièce est présenté dans le tableau ci-contre.
+Un fournisseur externe a récemment proposé à ABC de lui vendre les pédales à 7,75 $ l'unité. Le directeur de production envisage donc de cesser leur fabrication et de les acheter auprès du fournisseur.
+Du total des frais généraux de fabrication (FGF) fixes annuels, 25 000 $ sont attribuables à l'amortissement d'une machine utilisée exclusivement pour la fabrication des pédales. Les autres FGF fixes comprennent notamment le loyer, le chauffage, les taxes et diverses autres charges. 
+ABC devrait fabriquer ou acheter les pédales auprès du fournisseur ?
+
+(c) 10904 / S04 
+
+28
+
+## Diapositive 29
+
+Analyse différentielle - Fabriquer ou acheter (étudiants)
+
+Coût de fabrication | Alternative A
+Fabriquer
+
+Matières premières | 
+
+Main d’œuvre directe | 
+
+FGF variables | 
+
+ | 
+
+ | 
+
+FGF fixes spécifiques
+
+FGF fixes communs | 
+
+Coût total | 
+
+(c) 10904 / S04 
+
+29
+
+Résultat différentiel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ | Alternative B
+Acheter
+
+ | 
+
+ | 
+
+ | 
+
+Achat du fournisseur | 
+
+      | 
+
+FGF fixes spécifiques
+
+FGF fixes communs | 
+
+Coût total | 
+
+## Diapositive 30
+
+Fabriquer ou acheter (sous-traiter) un produitSituation avec un Coût de renonciation
+
+S'il existe une autre opportunité d'utiliser la capacité de production dégagée par le fait que nous avons sous-traité une partie de la production, alors il faut considérer un coût de renonciation dans notre prise de décision. 
+Dans le cas où ABC achète les pièces du fournisseur, l'entreprise pourrait utiliser la capacité de production libérée pour générer un résultat additionnel de 100 000 $ en produisant 50 000 unités du L900, un autre produit qu’elle fabrique déjà.
+Rappel : un coût de renonciation est un manque à gagner causé par la renonciation à une option considérée comme la meilleure après celle qui a été choisie.
+
+
+(c) 10904 / S04 
+
+30
+
+## Diapositive 31
+
+Analyse différentielle - Fabriquer ou acheter (étudiants)avec un coût de renonciation
+
+ | Alternative A
+Fabriquer | Alternative B
+Acheter | Analyse Différentielle
+Impact sur le résultat si achat: 
+Augmentation ou (diminution)
+
+Matières premières | 125 000 $ |  | 125 000 $
+
+Salaires des employés de production |   62 500 $ |  |   62 500 $
+
+FGF variables |   87 500 $ |  |   87 500 $
+
+Achat du fournisseur |  |  | 
+
+     (7,75 $ x 50 000 unités) |  | 387 500 $ | (387 500) $
+
+FGF fixes spécifiques
+FGF fixes communs  | 25 000 $
+150 000 $ | 0 $
+150 000 $ |   25 000 $
+  0 $
+
+Coût de renonciation  | 100 000 $ | - |  100 000 $
+
+Coût total du BK200 | 550 000 $ | 537 500 $ | 12 500 $
+
+(c) 10904 / S04 
+
+31
+
+## Diapositive 32
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+À noter : 
+Évidemment, les facteurs qualitatifs doivent toujours être considérés pour prendre une décision éclairée
+Par exemple: 
+Est-ce que le fournisseur sera en mesure de fabriquer avec le  même niveau de qualité que si nous fabriquons nous-mêmes ?
+Est-ce que le fournisseur sera en mesure de livrer dans les délais nécessaires à notre production?
+(…)
+
+
+
+
+(c) 10904 / S04 
+
+32
+
+## Diapositive 33
+
+Décision d’exploitation Exemple 3 : 
+
+Continuer (ajouter) ou abandonner un produit
+
+(c) 10904 / S04 
+
+33
+
+## Diapositive 34
+
+Continuer (ajouter) ou abandonner un produit
+
+En $ | Produit X | Produit Y | Produit Z | Total
+
+Ventes | 32 000 | 50 000 | 45 000 | 127 000
+
+Coûts variables | (24 000) | (25 000) | (23 000) | (72 000)
+
+Coûts fixes | (12 000) | (13 000) | (11 000) | (36 000)
+
+Résultat d’exploitation  | (4 000) | 12 000 | 11 000 | 19 000
+
+Une entreprise fabrique trois produits dont les résultats sont présentés dans le tableau ci-contre.
+Le directeur de production veut arrêter la production du produit X
+Qu’en pensez-vous ? 
+
+
+(c) 10904 / S04 
+
+34
+
+## Diapositive 35
+
+Continuer (ajouter) ou abandonner un produit
+
+Effectuez une analyse différentielle sachant que les coûts fixes spécifiques du produit X sont de 3 900 $
+
+(c) 10904 / S04 
+
+35
+
+En $ | Continuer | Abandonner | Analyse différentielle
+Augmentation ou diminution du résultat d’exploitation si choisi Abandon
+
+Ventes | 32 000 $  |  | 
+
+- Coûts variables | 24 000 $ |  | 
+
+- Coûts fixes spécifiques |  |  | 
+
+- Coûts fixes communs |  |  | 
+
+Résultat d’exploitation  | (4 000) $ |  | 
+
+12 000 $
+
+## Diapositive 36
+
+Continuer (ajouter) ou abandonner un produit
+
+À noter :
+Évidemment, les facteurs qualitatifs doivent toujours être considérés pour prendre une décision éclairée
+Quel sera l’effet sur les employés qui resteront à leur poste ?
+Est-ce que le produit est lié aux ventes d’un autre produit ? 
+Pourrons-nous récupérer les ventes perdues par les autres produits offerts ?
+(…)
+
+
+
+
+(c) 10904 / S04 
+
+36
+
+## Diapositive 37
+
+Question de révision 
+
+La ferme Deschamps et Fils est une entreprise agricole qui cultive les champs l'été et fait du déneigement pour les cours des particuliers l'hiver. La ferme possède 4 tracteurs qui sont utilisés été comme hiver et entreposés dans les bâtiments de l'entreprise. De plus, l'entreprise possède des équipements utilisés uniquement pendant la saison d'hiver (souffleuse à neige) et d'autres qui servent uniquement lors des travaux d'été. 
+Voici trouverez dans le tableau ci-contre, quelques informations sur les revenus et les coûts de la ferme.
+
+
+ | Été | Hiver | Total 
+
+Ventes | 415 000 $ | 130 000 $ | 545 000 $
+
+Coûts variables
+Pesticides, engrais, etc.
+MOD
+Essence | 
+  50 000 $
+  75 000 $
+100 000 $ | 
+
+  75 000 $
+  30 000 $ | 
+
+330 000 $
+
+Coûts fixes
+Bâtiment
+Tracteurs
+Équipement - été
+Équipement - hiver | 
+  20 000 $
+  24 000 $
+  10 000 $
+          - | 
+  20 000 $
+  24 000 $
+         -
+  12 000 $ | 
+110 000 $
+
+Résultat d’exploitation | 136 000 $ | (31 000) $ | 105 000 $
+
+Monsieur Deschamps se demande s’il devrait continuer d’offrir le service de déneigement l’hiver. Qu’en pensez-vous?
+
+(c) 10904 / S04 
+
+37
+
+## Diapositive 38
+
+Piste de solution (étudiant)
+
+ | Hiver | Continue          Abandon                                  Résultat différentiel
+
+Ventes | 130 000 $ | 
+
+Coûts variables
+Pesticides, engrais, ...
+MOD
+Essence | 
+
+  75 000 $
+  30 000 $ | 
+
+Coûts fixes
+Équipement - été
+Équipement - hiver
+Bâtiment
+Tracteurs
+ | 
+         -
+12 000 $
+20 000 $
+24 000 $ | 
+
+Résultat d’exploitation | (31 000) $ | 
+
+## Diapositive 39
+
+Conclusion – Séance 3
+
+Prise de décision d’exploitation
+
+Idée  
+
+Informations pertinentes
+
+∙ Marge sur coûts variables, coûts fixes spécifiques, coût de renonciation
+
+Identifiez les coûts pertinents.
+
+Comment
+
+∙ En réalisant une analyse différentielle 
+
+
+39
+
+(c) 10904 / S03
+
+## Diapositive 40
+
+QUESTIONS…
+
+40
+
+(c) 10904 / S03
+
+## Diapositive 41
+
+Fiches de révision
+
+Étapes pour analyser une commande spéciale
+
+41
+
+(c) 10904 / S03
+
+## Diapositive 42
+
+Éléments à considérer lors d’une commande spéciale (1/4)
+
+Analyse préalable : analyse de capacité 
+
+Quelle est la capacité totale ?
+Quelle est la capacité nécessaire prévue pour les commandes régulières ?
+Quelle est la capacité qui sera utilisée par la commande spéciale ?
+À t-on la capacité excédentaire requise pour accepter la commande spéciale?
+Si excédent de capacité 	 Absence de coût de renonciation
+
+Si manque de capacité 	 Augmentation de la capacité (coûts fixes spécifiques)
+				 Diminution des commandes régulières (coût de renonciation)
+
+
+42
+
+(c) 10904 / S03
+
+## Diapositive 43
+
+Éléments à considérer lors d’une commande spéciale (2/4)
+
+Calcul de la marge sur coûts spécifiques de la commande spéciale
+
+Examiner le prix de vente, la structure des coûts variables et le volume d’activité.  
+  du prix de vente
+  des coûts variables
+La MCV totale additionnelle des produits de la commande est-elle positive?
+
+Examiner les coûts fixes spécifiques
+La MCV totale additionnelle des produits de la commande est-elle positive et couvre-t-elle les coûts fixes spécifiques?
+
+
+
+43
+
+(c) 10904 / S03
+
+## Diapositive 44
+
+Éléments à considérer lors d’une commande spéciale (3/4)
+
+[Déterminer le coût de renonciation]
+ATTENTION : Si nous acceptons la commande spéciale, toutes les unités de cette commande doivent être produites. 
+
+S’il y a un manque de capacité =  du volume d’activité des unités régulières.
+S’il y a un produit unique : 
+   Coût de renonciation = unités auxquelles on renonce x MCV unitaire associée à ces unités
+S’il y a plusieurs produits :
+on va renoncer en priorité aux produits qui ont la MCV/facteur contraignant la plus petite ou la Marge sur coûts spécifiques la plus faible.
+
+
+44
+
+(c) 10904 / S03
+
+## Diapositive 45
+
+Éléments à considérer lors d’une commande spéciale (4/4)
+
+[Calculer les économies d’échelle]  
+Calculer les économies d’échelle liées aux achats de matières premières (elles viennent augmenter le résultat différentiel)
+Note: Pour fin de simplification pour le cours 10904, nous poserons comme hypothèse qu’il n’y a pas d’économies d’échelle lors de la décision d’accepter ou non une commande spéciale. Cette notion sera abordée dans vos autres cours de comptabilité.
+
+À partir de tous les éléments précédents, déterminer le 
+résultat différentiel
+(calculez l’impact sur le résultat ↑↓)
+Prendre une décision en intégrant les éléments non financiers pertinents pour la prise de décision :
+Intégrer par exemple les impacts sur les clients actuels, les employés, les liquidités, la rentabilité, les fournisseurs, etc.
+
+
+
+
+45
+
+(c) 10904 / S03
+
+## Diapositive 46
+
+Analyse d’une commande spéciale -Calcul du résultat différentiel (impact sur le résultat)
+
+(c) 10904 / S03
+
+46
+
+UNITÉS (de la commande) X MCV unitaire
+
+Pour les unités de la commande spéciale
+
+Prix de vente ( - ) Coûts VARIABLES unitaires
+
+UNITÉS AUXQUELLES 
+ON RENONCE  | X | MCVun DES UNITÉS AUXQUELLES ON RENONCE
+
+Si plusieurs produits, on doit choisir l’ordre de priorité (renoncer aux unités  des moins rentables au plus rentables).
+On doit utiliser la MCV par facteur de production pour déterminer l’ordre de priorité de production.
+
+MCV TOTALE (de la commande)   | (-)    CFixes SPÉCIFIQUES | (-) | COÛT DE RENONCIATION
+
+Économies d'échelle 
+(si applicable)
+
+Si manque de capacité 
+(facteur contraignant de production)
+
+Sujet de la S04 (assister au TP pour un exemple)
+
+Note: Dans certaines situations, il sera aussi nécessaire d’utiliser la Marge sur coûts spécifiques pour déterminer l’ordre de priorité de production.

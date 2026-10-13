@@ -1,0 +1,21 @@
+11 | Description et objectifs de la séance
+
+Séance 11
+Description
+Gestion de la qualité
+Le plan de travail d'un système de contrôle de la qualité;
+Le contrôle statistique de la qualité :
+Plans d'échantillonnage;
+Cartes de contrôle;
+Capacité opérationnelle
+Six Sigma;
+ISO 9000
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+de définir la notion de qualité des produits et d’expliquer comment chacune des étapes du cycle de la qualité contribue à rendre les produits aptes à l’usage;
+d’analyser les principaux coûts relatifs à la qualité;
+d’expliquer ce que comprennent une démarche qualité et un système de gestion de la qualité;
+d’expliquer en quoi consistent l’assurance de la qualité et la norme ISO 9001;
+d’identifier les principales caractéristiques de qualité d’un bien ou d’un service et de déterminer comment les mesurer et les contrôler;
+de démontrer l’importance de la variation des procédés sur la qualité des produits et d’expliquer les liens et les différences entre les limites de contrôle du procédé et les tolérances;
+de calculer la capacité opérationnelle d’un procédé, de déterminer les paramètres d’une carte de contrôle moyenne - étendue, d’analyser des cartes de contrôle, de poser un diagnostic et de justifier les actions à entreprendre.

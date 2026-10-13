@@ -1,0 +1,559 @@
+## Diapositive 1
+
+Chapitre 5 & 6: révision des mathématiques financières
+
+PRINCIPES DE MATH FINANCIÈRES & MONTANT SIMPLE
+
+## Diapositive 2
+
+Principe de base des math. fin.
+
+## Diapositive 3
+
+Intérêt simple vs capitalisé
+
+Rendement de 10 % par année pendant 2 ans
+Intérêt simple (ou l’épargne sous le matelas)
+		100 $ + 10 $ + 10 $ = 120 $
+
+Intérêts «capitalisés» (ajout des intérêts au «capital» (intérêts sur intérêts))
+		100 $ + 10 $ + 11 $ = 121 $
+ou encore, 	100 $ * (1 + 10 %)2 = 121 $
+
+D’où vient le 1 $? 10 % du 10 $ de la première année…
+
+
+Quelle méthode utiliserons-nous pour nos calculs?
+
+## Diapositive 4
+
+L’approche financière
+
+Les flux monétaires à des temps différents sont ramenés à un même temps « t » afin de pouvoir les comparer, par exemple:
+
+Décaissements à t=0 = Encaissements à t=0 
+Flux monétaires + à t=30 = Flux monétaires - à t=30 
+Prix à t=0 = FM à recevoir à t=0 
+
+Le taux d’actualisation (capitalisation) tient compte du risque des flux monétaires.
+
+
+
+## Diapositive 5
+
+L’équivalence de taux
+
+
+Principe général
+
+
+
+## Diapositive 6
+
+Le montant simple
+
+La formule générale d’actualisation ou capitalisation d’un montant simple peut permettre de résoudre tous les problèmes financiers.
+			VA (1+r)t = VC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VA
+
+VC
+
+
+
+r
+
+
+
+t périodes
+
+## Diapositive 7
+
+Un dollar gagné aujourd'hui vaut plus qu'un dollar gagné demain.
+
+Valeur actuelle – la valeur de l’argent au temps présent
+Valeur future – la valeur de l’argent au temps futur
+Taux d'intérêt – le prix du temps
+Composer – combien vaut dans le futur un flux monétaire d’aujourd’hui
+Actualisation – combien vaut aujourd’hui un flux monétaire futur 
+
+
+
+
+la période
+
+$ [r=5%]
+
+-3
+
+86.38
+
+-2
+
+90.70
+
+-1
+
+95.24
+
+aujourd'hui 
+
+100.00
+
+1
+
+105.00
+
+2
+
+110.25
+
+3
+
+115.76
+
+## Diapositive 8
+
+Le montant simple: exercices
+
+Valeur future de 100 $ dans 5 ans (8 %)?
+
+## Diapositive 9
+
+Le montant simple: exercices
+
+Valeur actuelle de 500 $ à recevoir dans 2 ans (5,5 %)?
+
+## Diapositive 10
+
+Le montant simple: exercices
+
+Valeur future dans 3 ans d’un montant de 100 000 $ reçu il y a 2 ans (3 %)?
+
+## Diapositive 11
+
+Le montant simple: exercices
+
+Dans un an, combien « coûtera » un montant de 700 000$ à recevoir 22 années plus tard (4,5 %)?
+
+## Diapositive 12
+
+Chapitre 5 & 6: révision des mathématiques financières
+
+L’ANNUITÉ
+
+## Diapositive 13
+
+L’annuité
+
+Il arrive que dans certains problèmes financiers, des montants constants soient récurrents. Il est donc pratique de calculer rapidement leur valeur actuelle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAA
+
+
+
+r
+
+R
+
+R
+
+R
+
+R
+
+R
+
+
+
+
+
+*Résultat de ce calcul d’annuité TOUJOURS trouvé 
+une période avant le 1er versement
+
+t = # de paiements
+      à regrouper
+
+## Diapositive 14
+
+L’annuité: exercices
+
+Quels seraient la valeur d’un prêt hypothécaire si vous projetez effectuer des paiements mensuels de 1 500 $ au cours des 25 prochaines années (3%)?
+
+## Diapositive 15
+
+L’annuité: exercices
+
+Un retraité aimerait recevoir une rente mensuelle de 5 000 $ par mois (début) pour les 25 prochaines années: quel serait le coût de cette rente (3 %)?
+
+## Diapositive 16
+
+L’annuité: exercices
+
+Vous placez 250 $ à chaque 2 semaines dans un compte épargne rapportant 2,6 % pour un voyage à effectuer dans 3 ans.
+
+## Diapositive 17
+
+Chapitre 5 & 6: révision des mathématiques financières
+
+LA PERPÉTUITÉ
+
+## Diapositive 18
+
+La perpétuité
+
+Certains actifs financiers n’ont pas d’échéance déterminée. Il faut donc pouvoir actualiser des montants qui se répètent à l’infini.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VAP
+
+
+
+r
+
+R
+
+R
+
+R
+
+R
+
+R
+
+
+
+
+
+R
+
+
+
+
+
+*Résultat de l’annuité TOUJOURS trouvé 
+une période avant le 1er versement
+
+
+
+## Diapositive 19
+
+La perpétuité: exercices
+
+Quelle loterie préférez-vous (3%)? 
+	A) 5M $ immédiatement	OU      B) 12 500 $ par mois à l’infini
+
+## Diapositive 20
+
+La perpétuité: exercices
+
+Valeur actuelle de paiements de 2 000 $ à toutes les deux semaines à vie (2,6%)?
+
+## Diapositive 21
+
+La perpétuité: exercices
+
+Valeur de cette loterie dans 4 semaines?
+
+## Diapositive 22
+
+La perpétuité: exercices
+
+Valeur de cette loterie dans 5 ans?
+
+## Diapositive 23
+
+Chapitre 5 & 6: révision des mathématiques financières
+
+L’équivalence de taux
+
+## Diapositive 24
+
+L’équivalence de taux
+
+
+Principe général
+
+
+
+## Diapositive 25
+
+L’équivalence de taux
+
+Le taux nominal (aussi dans le livre: taux périodique annuel ou taux spécifié) est un taux dont les taux périodiques ont été additionnés sur une période d’une année :
+Taux nominal (« à capitalisation ») semestriel de 12 %
+
+
+Taux nominal (« à capitalisation ») trimestriel de 8 %
+
+
+
+## Diapositive 26
+
+L’équivalence de taux
+
+Le taux effectif est un taux annuel dont les taux périodiques ont été capitalisés à chaque période (sur une année):
+Le précédent taux de 12 % donne 12,36 % effectif
+
+
+
+Le précédent taux de 8 % donne 8,24 % effectif
+
+
+cap
+
+cap
+
+## Diapositive 27
+
+L’équivalence de taux
+
+Ainsi, à l’aide du taux effectif on peut trouver tous les taux périodiques nécessaires à nos solutions financières.
+	Notez que le taux doit s’ajuster aux paiements et non l’inverse.
+
+Taux nominal semestriel de 12 %. Si nos paiements sont mensuels, on trouve un taux périodique de:
+		(1 + 0,06)2 = (1 + rmens)12   »    rmens= 0,9758…%
+
+Taux nominal trimestriel de 8 %. Si nos paiements sont hebdomadaires, on trouve un taux périodique de:
+		(1 + 0,02)4 = (1 + rhebdo)52   »    rhebdo= 0,1524…%
+
+Note:	Vous devez garder le maximum de précision dans vos calculs (utilisez la mémoire de votre calculatrice)
+
+## Diapositive 28
+
+L’équivalence de taux
+
+En somme, la conversion de taux est simplement:
+
+
+   Tx effectif = Tx effectif   
+
+(1 + 0,06)2 = (1 + rmens)12
+(1 + 0,02)4 = (1 + rhebdo)52
+…
+
+
+Taux fourni
+dans le problème
+(TPA, Tx nominal,
+Tx effectif, etc.)
+
+Taux adapté aux
+périodes de
+versements
+(hebdo, trim,
+semestriel, etc.)
+
+## Diapositive 29
+
+Conversion de taux: exercices
+
+2,6 % nominal à cap. hebdomadaire… 		en taux périodique mensuel
+
+
+9 %  nominal à cap. semestrielle…		en taux périodique trimestriel
+
+
+5,2 % nominal à cap. aux deux semaines… 	en taux périodique semestriel
+
+
+7 % nominal à cap. annuelle… 		en taux périodique mensuel
+
+
+6 % nominal à cap. continue…		 en taux effectif
+
+
+## Diapositive 30
+
+Les taux d’intérêt
+
+Ordonnez les taux suivants du plus petit au plus grand :
+
+Taux effectif de 6%
+Taux nominal à capitalisation quotidien de 6 %
+Taux nominal à capitalisation semestriel de 6 %
+Taux nominal à capitalisation annuel de 6 %
+
+
+
+## Diapositive 31
+
+L’évaluation en finance
+
+Le principe de base : la valeur d’un actif financier est déterminée par les flux monétaires futurs associés à cet actif actualisés au taux de rendement exigé.
+
+
+
+
+On actualise donc tous ces FMs futurs à l’aide des trois formules vues précédemment (actualisation d’un montant simple, l’annuité et la perpétuité).
+
+## Diapositive 32
+
+Chapitre 5 & 6: révision des mathématiques financières
+
+Exercices
+
+## Diapositive 33
+
+Exercice 1
+
+Votre institution financière vous offre un taux hypothécaire de 5 % nominal à capitalisation semestrielle.
+Quel est le taux périodique semestriel?
+Quel est le taux effectif équivalent? (5,0625 %)
+Quel est le taux périodique mensuel? (0,41239…%)
+Quel est le taux nominal à capitalisation mensuel équivalent? (4,9486…%)
+Quel sera le montant du prêt si vous projetez faire des paiements de 900 $ à la fin de chaque mois pour les 25 prochaines années? (154 744,20 $)
+
+## Diapositive 34
+
+Exercice 2
+
+Votre tante a deux offres pour la vente de son voilier. Elle fait appel à votre expertise afin d’évaluer les offres.
+Offre 1: un versement immédiat de 10 000 $ et des versements de 500 $ par mois au cours des 4 prochaines années.
+Offre 2: des versements hebdomadaires de 150 $ (débutant immédiatement) pendant 3 ans et un versement de 14 000 $ dans 5 ans.
+
+Comment votre tante peut-elle comparer les deux offres?
+
+Quelle offre est la plus avantageuse (supposez un même risque pour les deux financements, soit un taux effectif de 5 %)? (31 758,98 $ vs32 747,63 $, donc l’offre 2)
+
+## Diapositive 35
+
+Exercice 2
+
+Offre 1: un versement immédiat de 10 000 $ et des versements de 500 $ par mois au cours des 4 prochaines années.
+
+
+
+
+
+
+
+Quelle offre est la plus avantageuse (supposez un même risque pour les deux financements, soit un taux effectif de 5 %)? (31 758,98 $ vs32 747,63 $, donc l’offre 2)
+
+## Diapositive 36
+
+Exercice 2
+
+Offre 2: des versements hebdomadaires de 150 $ (débutant immédiatement) pendant 3 ans et un versement de 14 000 $ dans 5 ans.
+
+
+
+
+
+
+
+Quelle offre est la plus avantageuse (supposez un même risque pour les deux financements, soit un taux effectif de 5 %)? (31 758,98 $ vs32 747,63 $, donc l’offre 2)
+
+## Diapositive 37
+
+Exercice 3
+
+Vous jouez fréquemment à la loterie gagnant à vie et vous gagnez finalement une présence à la télévision. Lors de celle-ci, on vous offre de prendre l’œuf dans lequel il y a 1,5 million de dollars ou encore la poule qui vous pondra un montant de 1000 $ par semaine à vie débutant dans une semaine.
+Quel est le bon choix si vous considérez un taux très peu risqué de 3 % nominal à capitalisation trimestrielle? (la poule = 1 739 325,29 $)
+
+On vous apprend en coulisse que la poule a une espérance de vie de 25 ans. Quel serait alors votre choix dans ces conditions? (l’œuf: la poule = 915 423,72 $)
+
+## Diapositive 38
+
+Exercice 3
+
+Vous jouez fréquemment à la loterie gagnant à vie et vous gagnez finalement une présence à la télévision. Lors de celle-ci, on vous offre de prendre l’œuf dans lequel il y a 1,5 million de dollars ou encore la poule qui vous pondra un montant de 1000 $ par semaine à vie débutant dans une semaine.
+Quel est le bon choix si vous considérez un taux très peu risqué de 3 % nominal à capitalisation trimestrielle? (la poule = 1 739 325,29 $)
+
+
+## Diapositive 39
+
+Exercice 3
+
+Vous jouez fréquemment à la loterie gagnant à vie et vous gagnez finalement une présence à la télévision. Lors de celle-ci, on vous offre de prendre l’œuf dans lequel il y a 1,5 million de dollars ou encore la poule qui vous pondra un montant de 1000 $ par semaine à vie débutant dans une semaine.
+On vous apprend en coulisse que la poule a une espérance de vie de 25 ans. Quel serait alors votre choix dans ces conditions? (l’œuf: la poule = 915 423,72 $)
+
+## Diapositive 40
+
+Exercice 4
+
+Vous projetez faire l’acquisition d’une machine à boule que vous voulez installer au salon L’Oréal. Après avoir étudié le projet, voici les FMs nets que vous projetez:
+
+
+Quel prix êtes-vous prêt à payer pour cette machine si vous évaluez le taux à exiger (risque du projet) à 10 %? (38,09 $)
+
+## Diapositive 41
+
+Exercice 4
+
+
+
+
+
+
+
+Quel prix êtes-vous prêt à payer pour cette machine si vous évaluez le taux à exiger (risque du projet) à 10 %? (38,09 $)
+
+## Diapositive 42
+
+Exercice 5
+
+Vous désirez économiser 100 $ par semaine pour faire un voyage à la fin de vos études actuelles. Vous ajoutez à cela un montant de 400 $ que vous venez de recevoir. Vous évaluez terminer votre baccalauréat dans exactement 84 semaines.
+Ces épargnes seront placées dans un compte procurant un rendement nominal à capitalisation hebdomadaire de 2,6 %.
+
+
+
+De quelle somme disposerez-vous pour votre voyage (soit dans exactement 84 semaines)? (8993,86 $)
+
+## Diapositive 43

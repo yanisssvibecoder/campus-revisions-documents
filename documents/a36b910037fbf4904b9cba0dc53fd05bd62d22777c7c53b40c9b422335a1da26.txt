@@ -1,0 +1,89 @@
+Les Autobus Bégin (AB) fabriquent sur demande des autobus. AB produit actuellement deux types d’autobus : le minibus Touriste peut transporter jusqu’à 10 personnes tandis que le Deluxe est conçu pour transporter jusqu’à 20 personnes.
+L’état du résultat du dernier exercice se terminant le 31 décembre 20X1, est présenté à l’annexe 1. Tous les éléments de la carrosserie et du moteur sont fournis par un important constructeur automobile alors que les autres pièces proviennent de différents grossistes. La main-d’œuvre directe de l’usine se répartit en deux catégories : 60 % des heures de main-d’œuvre, quelle que soit la commande, concernent des tâches spécialisées dont le taux horaire est de 35 $ alors que toutes les autres tâches sont rémunérées au taux de 20 $ l’heure (voir l’annexe 2). Quant aux frais généraux de fabrication variables, on estime qu’ils dépendent directement du nombre d’heures de main-d’œuvre directe.
+En janvier 20X2, la direction d’AB se réunit pour accueillir le nouveau contrôleur et le mettre au courant des activités passées et des projets de l’entreprise. Le directeur de la production fait état de sa déception par rapport aux résultats de l’exercice 20X1. Bien que les coûts unitaires de matières premières et de main-d’œuvre directe aient été les mêmes que ceux prévus au début de l’exercice, le résultat est nettement inférieur à ce qu’il avait été estimé. Cela s’explique par le fait que le nombre total de véhicules vendus a été inférieur aux prévisions établies en début d’année. La raison est qu’une commande de deux autobus Deluxe a été refusée à l’automne 20X1 parce que la direction et le client n’ont pu s’entendre sur le prix. Selon le président, le client ne voulait payer que 560 000 $ pour les deux véhicules. Le coût total des autobus s’élevait à 574 700 $ et comprenait les coûts de fabrication variables et fixes, une quote-part des frais de vente et d’administration fixes ainsi que 5% de commissions sur vente. Selon le président, en acceptant cette offre, AB aurait perdu de l’argent.
+Par ailleurs, l’équipe de direction discute de la possibilité du lancement d’un nouveau produit. Il s’agit du Voyageur, minibus adapté aux personnes handicapées. Le président explique au nouveau contrôleur qu’il ne peut pas aller de l’avant avec ce projet s’il n’est pas assuré d’une hausse globale des résultats. Le coût de la matière première de chaque minibus adapté devrait s’élever à 73 000 $. La commission des vendeurs, calculée en % du prix de vente, demeurerait la même que pour les modèles Touriste et Deluxe. La fabrication de ce modèle nécessiterait 1 500 heures de main-d’œuvre directe, dont 70 % en tâches spécialisées. 
+Selon l’équipe de direction, la seule contrainte d’AB est justement la disponibilité de la main-d’œuvre directe. Certains ouvriers d’expérience prennent leur retraite et ils ne pourront être remplacés à brève échéance de sorte qu’AB sera limitée à 27 750 heures de travail spécialisé pour 20X2. Il est également impensable d’avoir recours à des heures supplémentaires de la part des employés spécialisés. 
+Pour l’exercice 20X2, le service de marketing prévoit des ventes de 20 unités du modèle Touriste et de 10 unités du modèle Deluxe (ce qui est une diminution par rapport à l’année 20X1). Les prix de vente ne changeront pas et on ne prévoit pas d’augmentation dans les coûts variables unitaires ou les frais fixes totaux. Quant au nouveau modèle envisagé, le Voyageur, le prix de vente unitaire a été fixé à 225 000 $ et, à ce prix, AB prévoit être en mesure d’en vendre cinq unités en 20X2. En faisant ces prévisions, le service de marketing n’a pas tenu compte du manque d’ouvriers spécialisés ! Devrait-on lancer le nouveau minibus malgré la pénurie de main-d’œuvre spécialisée ? Qu’est-ce qui serait le plus rentable pour AB ?
+À la fin de la réunion, le président demande au contrôleur de calculer l’impact du projet du modèle Voyageur sur les résultats de l’entreprise. Le contrôleur décide également de calculer l’impact de la décision qui a été prise par la direction à l’automne 20X1, soit de refuser une commande de deux autobus Deluxe pour un prix total de 560 000 $.
+Travail pratique :
+À titre de nouveau contrôleur de l’entreprise AB, effectuez les analyses suivantes :
+D’après vous, le président a-t-il eu raison de refuser la commande de deux autobus Deluxe ? Quel a été l’impact du refus de la commande sur les résultats de l’exercice 20X1 ? 
+Quel effet aurait le lancement du nouveau modèle de minibus adapté Voyageur sur les résultats de l’entreprise pour l’exercice 20X2 ? (Vous devez optimiser le résultat en utilisant au mieux la contrainte des heures de MOD spécialisées.)
+Quels facteurs, autres que quantitatifs, devraient être considérés dans la décision d’accepter ou de refuser le lancement du nouveau modèle de minibus adapté Voyageur ? (Nommez-en trois.)
+Annexe 1
+Autobus Bégin (AB)
+État du résultat
+pour l’exercice terminé le 31 décembre 20X1
+Annexe 2
+Heures de main-d’œuvre directe par modèle
+SOLUTION : 
+a) D’après vous, le président a-t-il eu raison de refuser la commande de deux autobus Deluxe ? Quel a été l’impact du refus de la commande sur les résultats de l’exercice 20X1 ?  
+Étape 1 : Comprendre la mise en contexte : détaillez le coût total de 574 700$ de la commande spéciale Deluxe .
+Conclusion : 
+b) Quel effet aurait le lancement du nouveau modèle de minibus adapté Voyageur sur les résultats de l’entreprise pour l’exercice 20X2 ? (Vous devez optimiser le résultat en utilisant au mieux la contrainte des heures de MOD spécialisées.) 
+Commande spéciale – Situation plusieurs produits (coût de renonciation)
+Données du cas :
+Heures de MOD spécialisée disponibles 20X2 : 27 750 heures (facteur contraignant)
+Annexe 2
+Heures de main-d’œuvre directe par modèle
+Étape 1 : Analyse de la capacité
+Étape 2 : Calculer la marge sur coûts variables du modèle Voyageur (commande spéciale)
+Données du cas :
+Prix de vente du modèle Voyageur : 225 000 $
+MP : 73 000 $
+MOD : 70 % Spécialisées
+          		30 % Non spécialisées
+FGF variable (taux d’imputation notion abordée à la S05)
+Commissions : 5% 
+Étape 3 : Calculer les coûts fixes spécifiques.
+Étape 4 : Calculer le coût de renonciation (situation plusieurs produits)
+En situation de plusieurs produits,  il faut calculer la marge par facteur de production pour déterminer le produit que l’entreprise devra renoncer pour accepter la commande spéciale.
+					Touriste	Deluxe
+(a) MCV par bus 			
+(b) MOD (heures spécialisées)	   600 		1 500
+a ÷ b =
+MCV  par facteur de production  	
+Ordre de priorité de production	1	                 2
+Étape 5 : Calculer le résultat différentiel (situation plusieurs produits)
+c) Analyse qualitative 
+ | Touriste | Deluxe | Total
+Nombre de véhicules | 20 | 12 | 32
+Ventes | 3 500 000 $ | 3 720 000 $ | 7 220 000 $
+Coûts variables : |  |  | 
+  Matières premières | 1 000 000  | 1 320 000  | 2 320 000 
+  Main-d’œuvre directe | 580 000  | 870 000  | 1 450 000 
+  Frais généraux de fabrication variables | 248 000  | 372 000  | 620 000 
+  Commissions des vendeurs | 175 000  | 186 000  | 361 000 
+ | 2 003 000  | 2 748 000  | 4 751 000 
+Marge sur coûts variables | 1 497 000 $ | 972 000 $ | 2 469 000 
+ |  |  | 
+Frais fixes communs  |  |  | 
+  Frais de fabrication |  |  | 1 567 000 
+  Vente et administration |  |  | 348 200 
+ |  |  | 1 915 000 
+Résultat d’exploitation |  |  | 553 800 $
+ | Touriste | Deluxe | Voyageur | Voyageur
+Tâches spécialisées payées à 35 $ l’heure | 600 | 1 500 | 1 050
+Tâches non spécialisées payées à 20 $ l’heure | 400 | 1 000 | 450
+Total des heures de MOD requises par modèle | 1 000 | 2 500 | 1 500
+ |  | Deluxe 20X1 | Deluxe
+Régulier | Deluxe (Commande)
+Nombre de véhicules  |  | 12 | 2 | 2
+Ventes  |  | 3 720 000 $ | 620 000 | 
+Coûts variables :
+ |  |  |  | 
+     Matières premières |  | 1 320 000 | 220 000 | 
+     Main-d’œuvre directe  |  | 870 000 | 145 000 | 
+     FGF variables |  | 372 000 | 62 000 | 
+     Frais de commissions 5% |  | 186 000 | 31 000 | 
+MCV |  | 2 748 000 | 162 000 | 
+Frais fixes : |  |  |  | 
+  Frais de fabrication |  | Calcul (1 567 000 $/32 bus x 2) | Calcul (1 567 000 $/32 bus x 2) | 
+  Vente et administration |  | Calcul (348 200 $ /32 bus x 2) | Calcul (348 200 $ /32 bus x 2) | 
+Résultat d’exploitation |  |  |  | (14 700) $
+ | Touriste | Deluxe | Voyageur | Voyageur
+Tâches spécialisées payées à 35 $ l’heure | 600 | 1 500 | 1 050
+Tâches non spécialisées payées à 20 $ l’heure | 400 | 1 000 | 450
+Total des heures de MOD requises par modèle | 1 000 h | 2 500 h | 1 500 h
+ |  |  | 
+Prévision des ventes 20X2 :  | 20 unités | 10 unités | 5 unités

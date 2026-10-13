@@ -1,0 +1,32 @@
+## xl/worksheets/sheet1.xml
+B1: Modifié par Mélanie Harris Mai 2024.
+D2: Cellules à modifier seulement
+B4: Calculateur de paiement de prêt immobilier
+B6: Période composée | C6: 2
+B8: Informations sur les prêts hypothécaires | C8: Option nº 1 | D8: Option nº 2 | E8: Option nº 3 | F8: Option nº 4 | G8: Option nº 5
+B9: Prix de l'habitation | C9: 500000 | D9: 500000 | E9: 500000
+B10: Mise de fonds initiale | C10: 50000 | D10: 50000 | E10: 50000
+B11: Montant du prêt | C11: 450000 [formule : C9-C10] | D11: 450000 [formule : D9-D10] | E11: 450000 [formule : None] | I11: ← Entrer le montant de chaque emprunt
+B12: Taux d’intérêt annuel | C12: 0.03 | D12: 0.04 | E12: 0.06 | I12: ← Entrer chaque taux d’intérêt
+B13: Conditions d’emprunt (en années) | C13: 30 | D13: 30 | E13: 30 | I13: ← Entrer la durée de l’emprunt en années
+B15: PAIEMENT
+B16: Taux d’intérêt mensuel | C16: 2.4845167246487776E-3 [formule : IF(COUNTA(C11,C12,C13)<3," - ",((1+C12/$C$6)^($C$6/12))-1)] | D16: 3.3058903246372395E-3 [formule : IF(COUNTA(D11,D12,D13)<3," - ",((1+D12/$C$6)^($C$6/12))-1)] | E16: 4.938622031196882E-3 [formule : None] | F16:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",((1+F12/$C$6)^($C$6/12))-1)] | G16:  -  [formule : None]
+B17: Mensualité | C17: 1892.7118541642017 [formule : IF(COUNTA(C11,C12,C13)<3," - ",PMT(C16,C13*12,-C11))] | D17: 2139.8341473681153 [formule : IF(COUNTA(D11,D12,D13)<3," - ",PMT(D16,D13*12,-D11))] | E17: 2676.7053911404919 [formule : None] | F17:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",PMT(F16,F13*12,-F11))] | G17:  -  [formule : None]
+B18: Versement mensuel supplémentaire | C18: 0 | D18: 0 | E18: 0 | I18: ← (facultatif) Entrez les versements mensuels supplémentaires
+B19: TOTAL DES MENSUALITÉS | C19: 1892.7118541642017 [formule : IF(COUNTA(C11,C12,C13)<3," - ",C17+C18)] | D19: 2139.8341473681153 [formule : IF(COUNTA(D11,D12,D13)<3," - ",D17+D18)] | E19: 2676.7053911404919 [formule : None] | F19:  -  [formule : None] | G19:  -  [formule : None]
+B21: TOTAUX
+B22: Nombre de paiements | C22: 359.99999999999983 [formule : IF(COUNTA(C11,C12,C13)<3," - ",NPER(C16,-C19,C11))] | D22: 360.00000000000006 [formule : IF(COUNTA(D11,D12,D13)<3," - ",NPER(D16,-D19,D11))] | E22: 359.99999999999989 [formule : None] | F22:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",NPER(F16,-F19,F11))] | G22:  -  [formule : None]
+B23: Nombre d’années avant remboursement | C23: 29.999999999999986 [formule : IF(COUNTA(C11,C12,C13)<3," - ",C22/12)] | D23: 30.000000000000004 [formule : IF(COUNTA(D11,D12,D13)<3," - ",D22/12)] | E23: 29.999999999999989 [formule : None] | F23:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",F22/12)] | G23:  -  [formule : None]
+B24: Paiement total | C24: 681376.26749911229 [formule : IF(COUNTA(C11,C12,C13)<3," - ",C22*C19)] | D24: 770340.29305252165 [formule : IF(COUNTA(D11,D12,D13)<3," - ",D22*D19)] | E24: 963613.94081057678 [formule : None] | F24:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",F22*F19)] | G24:  -  [formule : None]
+B25: Total des INTÉRÊTS payés | C25: 231376.26749911229 [formule : IF(COUNTA(C11,C12,C13)<3," - ",C24-C11)] | D25: 320340.29305252165 [formule : IF(COUNTA(D11,D12,D13)<3," - ",D24-D11)] | E25: 513613.94081057678 [formule : None] | F25:  -  [formule : IF(COUNTA(F11,F12,F13)<3," - ",F24-F11)] | G25:  -  [formule : None]
+B27: SOLDE pour l’année... | C27: 0 | D27: 10 | E27: 5 | I27: ← Entrer l’année pour estimer le solde et les capitaux propres
+B28: Valeur de la propriété | C28: 450000 [formule : C11] | D28: 450000 [formule : D11] | E28: 450000 [formule : E11] | F28: 0 [formule : None] | G28: 0 [formule : None] | I28: ← Entrer la valeur de propriété estimée au cours de l’année spécifiée
+B29: Solde de l’emprunt dû | C29: 450000 [formule : IF(COUNTA(C11,C12,C13,C27)<4," - ",-FV(C16,C27*12,-C19,C11))] | D29: 354132.67137574934 [formule : IF(COUNTA(D11,D12,D13,D27)<4," - ",-FV(D16,D27*12,-D19,D11))] | E29: 418361.62554217555 [formule : None] | F29:  -  [formule : None] | G29:  -  [formule : None]
+B30: ÉQUITÉ DU PROPRIÉTAIRE | C30: 0 [formule : IF(COUNTA(C11,C12,C13,C27,C28)<5," - ",C28-C29)] | D30: 95867.328624250658 [formule : IF(COUNTA(D11,D12,D13,D27,D28)<5," - ",D28-D29)] | E30: 31638.374457824451 [formule : IF(COUNTA(E11,E12,E13,E27,E28)<5," - ",E28-E29)] | F30:  -  [formule : None] | G30:  -  [formule : None]
+B32: Trouver la valeur de la maison selon un montant mensuel pré-établi
+B35: Montant du paiement mensuel | C35: 2500
+B36: Taux d’intérêt annuel | C36: 0.05
+B37: Conditions d’emprunt (en années) | C37: 30
+B39: Valeur du prêt | C39: 465704.04261518951 [formule : C35*((1-(1+C36/12)^-(C37*12))/(C36/12))] | E39: * Calcul exclu l'assurance 
+B40: Mise de fonds | C40: 50000
+B41: Prix de la maison | C41: 515704.04261518951 [formule : C39+C40]

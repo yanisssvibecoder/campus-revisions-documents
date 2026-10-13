@@ -1,0 +1,244 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Plan global de production - PGP
+
+© 2024 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+## Diapositive 5
+
+Unités équivalentes
+
+## Diapositive 6
+
+Types de stratégies
+
+
+
+Hybride
+
+## Diapositive 7
+
+Stratégie de nivellement
+
+
+
+## Diapositive 8
+
+Stratégie de nivellement – Temps supplémentaire
+
+  | Initial | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Final
+
+Demande |   | 20 000 | 16 000 | 22 000 | 26 000 | 34 000 | 32 000 | 38 000 | 24 000 | 22 000 | 26 000 | 27 000 | 24 000 |  
+
+Production |   | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 |  
+
+Stocks | 1 300 | 7 275 | 17 250 | 21 225 | 21 200 | 13 175 | 7 150 | -4 875 | -2 900 | 1 075 | 1 050 | 25 | 2 000 | 2 000
+
+Employés | 140 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 | 162 |  
+
+Embauches |   | 22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Mises à pied |   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Temps supp. |   | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 | 0,34 |  
+
+Temps mort |  | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 
+0,00
+ | 
+
+
+
+311 000 + 2 000 – 1 300 
+= 311 700 / 12 = 25 975 / 160 = 162,34 emp.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Production mensuelle = 160 u.é / employé
+
+## Diapositive 9
+
+
+
+Stratégie de nivellement – Temps mort
+
+  | Initial | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Final
+
+Demande |   | 20 000 | 16 000 | 22 000 | 26 000 | 34 000 | 32 000 | 38 000 | 24 000 | 22 000 | 26 000 | 27 000 | 24 000 |  
+
+Production |   | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 | 25 975 |  
+
+Stocks | 1 300 | 7 275 | 17 250 | 21 225 | 21 200 | 13 175 | 7 150 | -4 875 | -2 900 | 1 075 | 1 050 | 25 | 2 000 | 2 000
+
+Employés | 140 | 163 | 163 | 163 | 163 | 163 | 163 | 163 | 163 | 163 | 163 | 163 | 163 |  
+
+Embauches |   | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Mises à pied |   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Temps supp. |   | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 |  
+
+Temps mort |  | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 0,66 | 
+0,66
+ | 
+
+311 000 + 2 000 – 1 300 
+= 311 700 / 12 = 25 975 / 160 = 162,34 emp.
+
+
+
+Production mensuelle = 160 u.é / employé
+
+
+
+
+
+Notes : Expliquer le taux de production (3 premiers cercles)
+Expliquer le nombre d’employés nécessaires
+Expliquer temps régulier et temps supplémentaire
+Expliquer pénurie (commandes en souffrance)
+
+## Diapositive 10
+
+Stratégie synchrone
+
+La demande et la production se superposent parfaitement
+
+
+
+La demande est forte
+
+
+
+On augmente la production
+
+Les stocks sont nuls
+
+## Diapositive 11
+
+Stratégie synchrone
+
+  | Initial | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Final
+
+Demande |   | 20 000 | 16 000 | 22 000 | 26 000 | 34 000 | 32 000 | 38 000 | 24 000 | 22 000 | 26 000 | 27 000 | 24 000 |  
+
+Production |   | 18 700 | 16 000 | 22 000 | 26 000 | 34 000 | 32 000 | 38 000 | 24 000 | 22 000 | 26 000 | 27 000 | 26 000 |  
+
+Stocks | 1 300 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 000 | 2 000
+
+Employés | 140 | 117 | 117 | 137 | 162 | 187 | 187 | 187 | 150 | 150 | 150 | 150 | 150 |  
+
+Embauches |   | 0 | 0 | 20 | 25 | 25 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Mises à pied |   | 23 | 0 | 0 | 0 | 0 | 0 | 0 | 37 | 0 | 0 | 0 | 0 |  
+
+Temps supp. |   | 0,00 | 0,00 | 0,50 | 0,50 | 25,50 | 13,00 | 50,50 | 0,00 | 0,00 | 12,50 | 18,75 | 12,50 |  
+
+Temps mort |  | 0,13 | 17,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 12,50 | 0,00 | 0,00 | 
+0,00
+ | 
+
+
+
+32 000 / 160 = 200 employés
+
+
+
+
+
+Production mensuelle = 160 u.é / employé
+
+
+
+## Diapositive 12
+
+Stratégie hybride
+
+
+
+Les changements de main d’œuvre se font en « bloc »
+
+## Diapositive 13
+
+Stratégie hybride
+
+  | Initial | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | Final
+
+Demande |   | 20 000 | 16 000 | 22 000 | 26 000 | 34 000 | 32 000 | 38 000 | 24 000 | 22 000 | 26 000 | 27 000 | 24 000 |  
+
+Production |   | 22 675 | 22 675 | 22 675 | 22 675 | 32 000 | 32 000 | 32 000 | 32 000 | 23 250 | 23 250 | 23 250 | 23 250 |  
+
+Stocks | 1 300 | 3 975 | 10 650 | 11 325 | 8 000 | 6 000 | 6 000 | 0 | 8 000 | 9 250 | 6 500 | 2 750 | 2 000 | 2 000
+
+Employés | 140 | 140 | 140 | 140 | 140 | 167 | 167 | 167 | 167 | 140 | 140 | 140 | 140 |  
+
+Embauches |   | 0 | 0 | 0 | 0 | 27 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |  
+
+Mises à pied |   | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 27 | 0 | 0 | 0 |  
+
+Temps supp. |   | 1,72 | 1,72 | 1,72 | 1,72 | 33,00 | 33,00 | 33,00 | 33,00 | 5,31 | 5,31 | 5,31 | 5,31 |  
+
+Temps mort |  | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 0,00 | 
+0,00
+ | 
+
+
+
+Production mensuelle = 160 u.é / employé
+
+
+
+Augmentation de la demande et de l’effectif
+
+
+
+## Diapositive 14
+
+ | Plan A | Plan B | Plan C
+
+Mouvements de main-d’oeuvre |  |  | 
+
+Temps supplémentaire |  |  | 
+
+Capacité inutilisée |  |  | 
+
+Pénurie |  |  | 
+
+Stock de fin |  |  | 
+
+Espace de stockage |  |  | 
+
+Coût total |  |  | 
+
+ExerciceÉlectroflux (p. 147)
+
+## Diapositive 15
+
+ExerciceÉlectroflux (p. 147)
+
+## Diapositive 16
+
+Questions…

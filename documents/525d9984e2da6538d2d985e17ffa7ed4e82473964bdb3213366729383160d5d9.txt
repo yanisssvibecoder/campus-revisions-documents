@@ -1,0 +1,911 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2026 – 2027
+
+Comptabilité de gestion(10904) – Séance 2Séance en classe
+
+## Diapositive 2
+
+Révision séance 1: Classez les coûts (variables, fixes ou mixtes) (MP, MOD, FGF, FVA) 
+
+Exemple : pour une entreprise manufacturière qui fabrique des vélos
+Cadres en aluminium 
+Pneus en caoutchouc 
+Amortissement des équipements de production 
+Commissions des vendeurs 
+Salaire du directeur d'usine 
+Salaire des ouvriers sur la chaîne de montage 
+Entretien et réparation des équipements de production 
+Électricité utilisée pour l'éclairage et les machines 
+
+2
+
+(c) 10904 / S01
+
+## Diapositive 3
+
+Diriger (analyse d’aide à la prise de décision)
+
+Analyser la rentabilité globale de l’entreprise
+(S02) L’analyse coût-volume-résultat (CVR) - analyse que subit le résultat par suite de changements
+Coûts fixes
+Coûts variables
+Quantité vendue (volume)
+Prix de vente
+Concept : Équation du résultat
+
+(S03-S04) Prendre des décisions à court terme 
+L’analyse différentielle et calculs de marges
+(S05) Analyse la rentabilité par produit
+Coût de fabrication unitaire
+
+(S08) Contrôler la rentabilité dans l’entreprise manufacturière
+État des résultats réels (État du coût de fabrication)
+(S08-S09) Planifier 
+Établir des prévisions
+
+(S10) Contrôler 
+Mesurer la performance et 
+calculer les écarts
+
+S02
+
+Méthodes pour la comptabilité de gestion | Classification des coûts | Types de marges calculées
+
+Méthode des coûts variables | Variables ou Fixes | Marge sur coûts variables (MCV)
+Marge par facteur de production
+
+Méthode des coûts spécifiques | Variables ou Fixes
+Fixes : communs ou spécifiques | Marge sur coûts spécifiques
+
+Méthode des coûts complets  | Coût de fabrication et frais d’exploitation | Marge brute
+
+Méthode des coûts standards  |  | 
+
+Ventes – Coûts = 
+Résultat d’exploitation
+Total ou unitaire
+
+3
+
+(c) 10904 / S02
+
+## Diapositive 4
+
+4
+
+Analyse coût-volume-résultat (CVR) et prise de décision
+
+Définition Analyse CVR
+(théorie)
+
+Illustration Organisation d’un party
+
+Prise de décision et l’analyse CVR
+
+PLAN DE LA SÉANCE 2
+
+(c) 10904 / S02
+
+## Diapositive 5
+
+Objectifs de la séance
+
+Comprendre la structure de coûts (coûts variables et coûts fixes) et son importance dans l’évaluation du résultat
+Calculer la marge sur coûts variables (MCV)
+Calculer, à l’aide de l’analyse coût / volume / résultat (CVR)
+le point mort (seuil de rentabilité)
+la marge de sécurité
+le résultat potentiel
+le résultat cible 
+Établir le seuil d’indifférence entre deux propositions affectant la structure des coûts d’une entreprise
+Analyser, interpréter et utiliser les résultats obtenus en fonction du volume d’extrants dans un contexte de prise de décisions
+
+
+(c) 10904 / S02
+
+5
+
+## Diapositive 6
+
+Définition de l’analyse CVR
+
+Permet l’analyse du comportement des revenus et des coûts en fonction du volume d’activité afin de mesurer l’effet des variations des différentes composantes sur le résultat d’exploitation
+Est fondée sur la classification des coûts fixes et des coûts variables
+Informe sur la rentabilité globale actuelle et permet de déterminer la rentabilité future en fonction de l’évolution du volume d’activité (rentabilité VS risque de pertes)
+
+Doit être adaptée au contexte de chaque entreprise…
+
+(c) 10904 / S02
+
+6
+
+## Diapositive 7
+
+Les hypothèses de l’analyse CVR
+
+Le changement d'activité est le seul facteur qui affecte les coûts totaux. 
+Tous les coûts peuvent être classés comme étant soit variables, soit fixes.
+Le volume d'activité est compris à l'intérieur du segment significatif. 
+Coûts fixes = insensibles à la variation du volume (coût fixe total est identique quel que soit le volume d’activité)Coûts variables = proportionnels au volume d’activité
+Le niveau des stocks reste constant - toutes les unités produites sont vendues.
+Les ventes sont proportionnelles au volume d’activité à l’intérieur du segment significatif
+Le mix de ventes demeure constant. 
+
+
+
+7
+
+(c) 10904 / S02
+
+## Diapositive 8
+
+Utilisation de l’analyse CVR
+
+Permet d’analyser l’effet sur le résultat d’exploitation…
+D’une modification de la structure de coûts
+% des coûts fixes vs % des coûts variables
+Exemple : investissement dans de nouveaux équipements
+D’une variation du volume d’extrants
+D’une modification du prix de vente
+D’un changement dans la combinaison du volume d’extrants
+Exemple: si l’entreprise fabrique plusieurs produits
+
+(c) 10904 / S02
+
+8
+
+## Diapositive 9
+
+Équation du résultat (une autre façon de visualiser)
+
+Sert de base à l’analyse CVR
+Résultat d’exploitation = Ventes – Coûts
+Résultat d’exploitation = Ventes –  (coûts variables + coûts fixes)
+Résultat d’exploitation = 
+((Prix vente unitaire -  coûts variables unitaires) x Volume ) – coûts fixes totaux
+Résultat d’exploitation = (MCV unitaire x Volume)  – coûts fixes totaux
+Résultat d’exploitation = MCV totale – coûts fixes
+
+
+
+
+
+
+
+
+
+
+(c) 10904 / S02
+
+9
+
+## Diapositive 10
+
+Équation du résultat (coûts variables vs cout de fabrication)
+
+(c) 10904 / S02
+
+10
+
+Ventes  |                   800 000 $ | 
+
+Moins : Coût des produits vendus (simplifié)
+Aucun stock de produits finis |  | 
+
+ Matières premières | 296 000 | 
+
+ Main-d’œuvre directe | 120 000 | 
+
+ FGF variables | 24 000 | 
+
+ FGF fixes | 60 000 | 500 000
+
+Marge brute |  | 300 000
+
+Moins: Frais de vente et d’administration |  | 
+
+ Frais de vente variable | 40 000 | 
+
+ Frais de vente et d’administration fixes | 160 000 | 
+
+Résultat d’exploitation |  | 100 000 $
+
+Ventes |  | 800 000 $
+
+Moins : Coûts variables |  | 
+
+      Matières premières | 296 000 | 
+
+      Main-d’œuvre directe | 120 000 | 
+
+      FGF variables | 24 000 | 
+
+      Frais de vente variables | 40 000 | 480 000
+
+Marge sur coûts variables |  | 320 000
+
+Moins: Coûts fixes (par année) |  | 
+
+      FGF fixes | 60 000 | 
+
+      Frais de vente et d’administration fixes | 160 000 | 
+
+Résultat d’exploitation |  | 100 000 $
+
+## Diapositive 11
+
+Calcul de la marge sur coûts variables (MCV)
+
+Ventes (1 600 unités x 500 $) |                        800 000 $ | 
+
+Moins : Coûts variables |  | 
+
+      Matières premières (1 600 x 185 $) | 296 000$ | 
+
+      Main-d’œuvre directe (1 600 x 75 $) | 120 000 | 
+
+      FGF variables (1 600 x 15 $) | 24 000  | 
+
+      Frais de vente variables (1 600 x 25 $) | 40 000 | 480 000
+
+Marge sur coûts variables (1 600 u. x MCV unitaire) |  | 320 000 $
+
+Moins: Coûts fixes (par période) |  | 
+
+      FGF fixes (amort. équipement, loyer etc..) | 60 000 | 
+
+      Frais de vente et d’administration fixes | 160 000 | 
+
+Résultat d’exploitation |  | 100 000 $
+
+(c) 10904 / S02
+
+11
+
+Prix de vente                      500 $
+
+Moins : Coûts variables
+
+  MP                                  185 $
+
+  MOD                                 75 $
+
+  FGF var.                            15 $
+
+  Frais de vente var.          25 $
+
+MCV unitaire                  200 $
+
+## Diapositive 12
+
+Calcul de la MCV – Exemple
+
+La société XYZ produit des tables en plastique qu’elle vend au prix de 50 $ l’unité. 
+Chaque table nécessite 6 $ de matière première (MP) et 8 $ de main-d’œuvre directe (MOD).
+Les frais généraux de fabrication (FGF) fixes totaux sont de 140 000 $. 
+Les frais généraux de fabrication variables sont de 1 $ par unité. 
+Les frais de vente totaux, pour un volume de vente de 15 000 unités, sont de 112 500 $, dont 40 % sont variables.
+Quelle est la marge sur coûts variables (MCV unitaire) d’une table?
+
+(c) 10904 / S02
+
+12
+
+## Diapositive 13
+
+Calcul de la MCV – Exemple (solution)
+
+(c) 10904 / S02
+
+13
+
+## Diapositive 14
+
+La marge sur coûts variables (MCV) 
+
+Excédent du prix de vente sur tous les coûts variables :
+
+Marge sur coûts variables unitaire :
+	Formule = Prix de vente unitaire – Coûts variables unitaires
+
+Marge sur coûts variables totale: 
+Formule = MCV unitaire x Volume de vente
+                = Ventes totales - Coûts variables totaux
+
+Marge sur coûts variables en %  du prix de vente 
+	Formule 	= MCV unitaire / Prix de vente unitaire
+			= MCV totale / Ventes totales
+
+
+(c) 10904 / S02
+
+14
+
+## Diapositive 15
+
+Illustration Analyse CVR: organisation d’un party
+
+Avec votre association, vous organisez un party. Après avoir fait plusieurs recherches, vous avez sélectionné deux options qui vous semblent intéressantes :
+Option 1 :
+Vous pouvez louer une salle pas trop dispendieuse (400 $) et commander des combos snacks et boissons pour 20 $ par personne. C’est une salle que vous connaissez bien pour y avoir déjà organisé plusieurs partys. Les propriétaires sont habitués aux partys d’étudiants et l’association n’a jamais eu de plaintes post-évènements (comme cela a pu être le cas ailleurs…) L’appréciation du lieu est généralement bonne, même si beaucoup se plaignent de son éloignement.
+Option 2 :
+Vous pouvez louer une salle privée pour 1 000 $. Le locataire vous propose alors une formule snacks et boissons pour 15 $ par personne. Cette salle a été vivement recommandée par un des amis du trésorier de l’asso, elle est selon ses dires « plus belle, plus grande et surtout plus centrale ! ».
+
+Répondez aux questions suivantes sachant que vous avez choisi l’option 1 et que le prix du billet d’entrée est de 25 $ par personne :
+
+
+
+15
+
+(c) 10904 / S02
+
+## Diapositive 16
+
+Questions- Organisation d’un party
+
+Combien de billets devez-vous vendre au minimum pour ne pas faire de perte ?
+Si 150 personnes sont présentes (le maximum selon vos prévisions), quel sera votre profit ? 
+Si vous souhaitez dégager 200 $ de profit, combien de billets devez-vous vendre ?
+Vous estimez, en étant réaliste, que 100 étudiants seront présents, quelle marge d’erreur (en nombre d’étudiants) sur cette estimation pouvez-vous supporter sans subir de perte ?
+
+16
+
+(c) 10904 / S02
+
+## Diapositive 17
+
+Point mort (PM) (seuil de rentabilité)
+
+Volume d’activité où les
+   ventes = coûts
+Point de profit nul (ni profit, ni perte)
+Volume d’activité à partir duquel l’entreprise commence à faire du profit
+Peut être exprimé en UNITÉ ou en dollars de ventes
+
+Formule du point mort (PM) en unité
+  Coûts fixes_   =  point mort unités d’unités
+  MCV unitaire
+
+      Formule du point mort en dollars de vente
+PM en unités x prix de vente unitaire = PM en $
+OU    Coûts fixes / MCV en % = PM en $      
+
+Équation du Résultat 
+
+
+
+Ventes = Coûts variables + Coûts fixes + Résultat d’exploitation
+500 $ x V = 300 $x V          + 200 000 $   + 0$
+
+(c) 10904 / S02
+
+17
+
+## Diapositive 18
+
+Le résultat (bénéfice) cible
+
+Le résultat (bénéfice) cible représente le résultat (bénéfice) que l’on veut atteindre
+Celui-ci peut être présenté avant ou après impôts
+Nous pouvons aussi vouloir calculer le nombre d’unités que l’on doit vendre pour atteindre le résultat (bénéfice) cible
+Dans ce cas, les formules suivantes peuvent être utilisées
+
+FORMULE
+
+Coûts fixes + Résultat cible 
+     MCV unitaire | = Nombre d’unités
+
+Équation du Résultat 
+
+
+
+[(Prix de vente x Volume) (-) (Coûts variables x Volume)]   =   [Coûts fixes + Résultat cible]
+
+(c) 10904 / S02
+
+18
+
+## Diapositive 19
+
+Le résultat (bénéfice) potentiel
+
+Représente le résultat (bénéfice) maximal que peut atteindre l’entreprise si elle fonctionne à pleine capacité 
+Mesure l’espérance de gain
+Point de repère sur le maximum de résultat (bénéfice) espéré  IDÉAL
+
+
+FORMULE
+(MCV unitaire x volume pleine capacité) – coûts fixes = Résultat potentiel
+
+
+(c) 10904 / S02
+
+19
+
+## Diapositive 20
+
+Marge de sécurité 
+
+Différence entre le volume d’activité atteint (réel) ou prévu et le volume d’activité correspondant au point mort
+Indique la diminution du volume d’activité que l’entreprise pourrait absorber sans subir de perte
+
+
+
+En unité:
+Ventes prévues ou réelles (en unités) – Point mort (en unités)
+      
+
+
+En $$:
+Ventes prévues ou réelles (en $$) – Point mort (en $$)
+Ou MS en unités x prix de vente unitaire
+      
+
+
+En %:  
+Marge de sécurité / Ventes 
+      
+
+MS (un) / Ventes (un)
+MS ($) / Ventes ($)
+
+(c) 10904 / S02
+
+20
+
+## Diapositive 21
+
+Illustration – Organisation d’un partySommaire
+
+21
+
+ | Structure de coûts # 1 |  | Structure de coûts # 2
+
+Demande prévue (billets) | 100 unités |  | 100 unités
+
+MCV unitaire | 25 – 20 = 5 $
+Prix de vente - coûts variables  |  | 25 – 15 = 10 $
+
+Coûts fixes  | 400 $ |  | 1 000 $
+
+Résultat d’exploitation 100 unités | (100 x 5 $) - 400 $
+100 $ |  | (100 x 10 $) – 1 000 $
+0 $
+
+Point mort | 80 billets |  | 100 billets
+
+Marge de sécurité | 100 – 80 = 20 billets |  | 100 – 100 = 0 billet
+
+Résultat potentiel (150 billets) | 350 $ |  | 500 $
+
+(c) 10904 / S02
+
+## Diapositive 22
+
+Seuil d’indifférence – Illustration
+
+Option # 1 |  |  | Option # 2 | 
+
+Prix de vente | 25 $ |  | Prix de vente | 25 $
+
+Coûts variables | 20 $ |  | Coûts variables | 15 $
+
+MCV unitaire | 5 $ |  | MCV unitaire | 10 $
+
+Coûts fixes | 400 $ |  | Coûts fixes | 1 000 $
+
+Question: Selon vous, quelle salle l’association devrait-elle choisir ?
+
+(c) 10904 / S02
+
+22
+
+## Diapositive 23
+
+Seuil d’indifférence – Illustration (solution)
+
+À combien d’unité le résultat d’exploitation sera le même entre les 2 structures de coût (options)?
+Résultat d’exploitation (option 1) = Résultat d’exploitation (option 2)
+
+
+
+(c) 10904 / S02
+
+23
+
+## Diapositive 24
+
+Le seuil d'indifférence
+
+Représente le niveau d'activité auquel deux propositions portant sur la structure des coûts produisent le même résultat d’exploitation
+D’un point de vue quantitatif  indifférent entre les deux propositions à ce volume d’activité
+
+
+
+
+FORMULES:
+Résultat d’exploitation 1 = Résultat d’exploitation 2
+[(Prix1 – CV1) x Volume] - CF1 = [(Prix2 – CV2) x Volume] - CF2
+(MCV1 unitaire x Volume) - CF1 = (MCV2 unitaire x Volume) - CF2
+CF1 -  CF2 / MCVunitaire1 - MCVunitaire2 = Volume
+
+Termes et abréviations utilisés:
+MCV: marge sur coûts variables unitaire
+CF: coûts fixes totaux
+CV: coûts variables unitaires
+
+
+FORMULE alternative si le prix ne change pas:
+CF1 - CF2 / CVunitaire 2 - CVunitaire1
+
+(c) 10904 / S02
+
+24
+
+## Diapositive 25
+
+Seuil d’indifférence - InterprétationSi la demande prévue est + de 120 unités….
+
+ | Structure de coûts # 1 |  |  |  | Structure de coûts # 2 |  | 
+
+ | 120 unités | +1 unité | 121 
+unités |  | 120 unités | +1
+unité | 121 unités
+
+Ventes | 3 000 $ | 25 $ | 3 025 $ |  | 3 000 $ | 25 $ | 3 025 $
+
+(-) Coûts variables | 2 400 $ | 20 $ | 2 420 $ |  | 1 800 $ | 15 $ | 1 815 $
+
+MCV totale | 600 $ | + 5 $ | 605 $ |  | 1 200 $ | + 10 $ | 1 210 $
+
+(-) Coûts fixes | 400 $ | --- | 400 $ |  | 1 000 $ | --- | 1 000 $
+
+Résultat  d’exploitation | 200 $ | + 5 $ | 205 $ |  | 200 $ | + 10 $ | 210 $
+
+25
+
+(c) 10904 / S02
+
+## Diapositive 26
+
+Seuil d’indifférence - InterprétationSi la demande prévue est de….
+
+                    Salle 1 | : Structure de coûts |  |  |  |    Salle 2    : Structure de coûts |  | 
+
+Demande (billets) | 100 unités | 120 unités | 150 
+unités |  | 100 unités | 120 unités | 150 unités
+
+MCV unitaire |  5 $ | 5 $ | 5 $ |  |  10 $ | 10 $ | 10 $
+
+(-) Coûts fixes | 400 $ | 400 $ | 400 $ |  | 1 000 $ | 1 000 $ | 1 000 $
+
+Résultat  d’exploitation | 100 $ | 200 $ | 350 $ |  | 0 $ | 200 $ | 500 $
+
+26
+
+(c) 10904 / S02
+
+
+
+
+
+Si la demande prévue est de 100 unités, quelle salle devrait être louée afin de maximiser le résultat d’exploitation ? 
+Et si la demande était de 150 unités ? Justifier votre réponse. 
+
+## Diapositive 27
+
+Arguments qualitatifs (non-financiers)
+
+Un argument qualitatif doit s’appuyer sur des éléments non comptables (autres que les calculs effectués), mais étroitement liés au contexte du cas.
+
+Les facteurs qualitatifs font référence aux aspects non financiers de l'entreprise ou de l'organisation, qui sont un peu plus intangibles, mais qui influencent néanmoins les décisions. Parmi les exemples de facteurs qualitatifs dans les entreprises, on peut citer la satisfaction des clients à l'égard des produits de l'entreprise, le moral des employés, etc.
+
+Comment la prise en compte des facteurs qualitatifs pourrait-elle améliorer les décisions prises par les managers ?
+
+
+27
+
+(c) 10904 / S02
+
+## Diapositive 28
+
+Questions - Organisation d’un party
+
+28
+
+Existe-t-il des risques/enjeux associés à votre décision ?    
+Quelle peut être la réaction des étudiants de choisir une nouvelle salle ?  
+Est-ce que vous pourriez envisager des alternatives pour augmenter la rentabilité?  
+
+
+(c) 10904 / S02
+
+## Diapositive 29
+
+Analyse CVR – plusieurs produits
+
+29
+
+Que se passe-t-il quand une organisation propose plusieurs produits/services ?
+Comment faire une analyse CVR ?
+
+Par exemple : 
+
+Point mort = Coûts fixes
+		       MCVu
+
+On n’a pas seulement une MCVu, mais autant de MCVu qu’il y a de produits/services.
+
+(c) 10904 / S02
+
+## Diapositive 30
+
+Analyse CVR avec une MCV Pondérée - Illustration
+
+ | Tartes | Gâteaux | Biscuits
+
+Volume en (unités) | 1 000 | 600 | 2 000
+
+Prix de vente | 15,00 $ | 41,00 $ | 3,00$
+
+Coûts variables:  |  |  | 
+
+   Matières premières | 6,00 $ | 10,00 $ | 0,50$
+
+   Main d’œuvre directe | 3,50$ | 6,00 $ | 0,50$
+
+   Frais généraux de fabrication variables  | 1,50$ | 3,00$ | 0,20$
+
+   Frais de vente variables | 1,00$ | 2,00$ | 0,30$
+
+Marge sur coûts variables  | 3,00$ | 20,00$ | 1,50 $
+
+Question  : L’entreprise ABC fabrique 3 produits. Voici les données du dernier mois:
+
+(c) 10904 / S02
+
+30
+
+Les coûts fixes sont composés de deux catégories : des frais généraux de fabrication (FGF), tels que l’amortissement des équipements et le salaire du superviseur, pour un total de 3 500 $ ;
+des frais de vente et d’administration (FVA), tels que les salaires administratifs, la publicité, etc., pour un total de 2 000 $.
+
+## Diapositive 31
+
+Analyse CVR avec une MCV Pondérée - Illustration
+
+ | Tartes | Gâteaux | Biscuits | TOTAL
+
+Volume en (unités) | 1 000 | 600 | 2 000 | 3 600
+
+Marge sur coûts variables unitaire | 3,00$ | 20,00$ | 1,50 $ | 
+
+
+
+
+
+ |  |  |  | 
+
+MCV pondérée |  |  |  | 
+
+
+Question  : L’entreprise ABC fabrique 3 produits. Voici les données du dernier mois:
+
+(c) 10904 / S02
+
+31
+
+Calcul du point mort:
+
+## Diapositive 32
+
+Analyse CVR lorsque l’entreprise offre plusieurs produits/services  
+
+La plupart des entreprises manufacturières produisent aujourd’hui une vaste gamme de produits qui requièrent des ressources différentes et qui génèrent une marge sur coûts variables différente.
+Lorsqu’on a plusieurs produits, l’analyse CVR peut se faire avec la MCV pondérée
+MCV1 x Volume1 = MCVTotal1
+MCV2 x Volume2 = MCVTotal2
+MCV3 x Volume3 = MCVTotal3
+			                    MCV Totale / Volume Total
+La MCV pondérée permet de prendre en considération l’importance relative de chacun des produits
+À ne pas confondre avec la moyenne arithmétique (MCV1+MCV2+MCV3)/3
+
+
+(c) 10904 / S02
+
+32
+
+## Diapositive 33
+
+Questions de révision
+
+
+
+33
+
+(c) 10904 / S02
+
+## Diapositive 34
+
+Prise de décisions et analyse CVR 
+
+
+Situation 1: Investissement – Achat d’une nouvelle machine
+
+Situation 2: Rabais sur le prix de vente
+
+Situation 3 : Augmentation des coûts de MP
+
+34
+
+(c) 10904 / S02
+
+## Diapositive 35
+
+Situation 1 - Projet d’investissementAchat d’une nouvelle machine
+
+La nouvelle machine permettrait d’automatiser une activité de finition, qui est actuellement réalisée à la main. La nouvelle machine engendrerait des coûts fixes annuels de 125 000 $ et une économie de 50 $ l’unité sur le coût de la MOD.
+
+Question : À partir de quel volume de ventes, l’acquisition de la nouvelle machine serait-elle plus rentable que ce qui est généré avec la structure de coûts actuelle?
+Est-ce que l’entreprise devrait faire l’achat de la nouvelle machine si la demande prévue est de 3 000 unités?
+
+
+35
+
+Prix de vente unitaire | 800 $
+
+Coûts variables unitaires | 300 $
+
+Coûts fixes totaux | 300 000 $
+
+Point mort | 480 000 $     ou      600 unités
+
+(c) 10904 / S02
+
+## Diapositive 36
+
+Situation 2 - Rabais sur le prix de vente
+
+Prix de vente unitaire | 800 $
+
+Coûts variables unitaires | 300 $
+
+Coûts fixes totaux | 300 000 $
+
+Point mort | 480 000 $     ou      600 unités
+
+36
+
+L’un des concurrents de l’entreprise offre un rabais de 10 % sur le prix de vente. L’entreprise se questionne à savoir si elle devrait offrir un rabais similaire à ses clients. 
+Question: Quel effet une remise de 10 % sur le prix de vente aura-t-elle sur le seuil de rentabilité (point mort)? 
+
+(c) 10904 / S02
+
+## Diapositive 37
+
+Situation 3 - Augmentation du coût des MP
+
+Prix de vente unitaire | 800 $
+
+Coûts variables unitaires | 300 $
+
+Coûts fixes totaux | 300 000 $
+
+Point mort | 480 000 $     ou      600 unités
+
+Niveau de vente actuel | 1 300 unités
+
+37
+
+Dû à la forte demande, le prix de la matière première utilisée dans la fabrication de notre produit a subi une forte hausse. Les coûts variables unitaires seront désormais de 320 $. La direction souhaite conserver le même prix de vente.
+Question: Combien d’unités additionnelles l’entreprise devra-t-elle vendre pour maintenir le même niveau de rentabilité ? 
+
+(c) 10904 / S02
+
+## Diapositive 38
+
+Sommaire - Concepts clés de l’analyse CVR
+
+38
+
+(c) 10904 / S02
+
+## Diapositive 39
+
+
+
+
+
+Graphique analyse CVR (synthèse)
+
+Coûts totaux
+
+Ventes (en $)
+
+
+
+Point mort (PM)
+
+Volume d’activité au PM
+
+Volume au 
+résultat cible 
+
+Zone de profit
+
+Zone de perte
+
+Marge de sécurité
+
+39
+
+(c) 10904 / S02
+
+## Diapositive 40
+
+Sommaire analyse CVR - 1 produit ou multiproduits  
+
+Situations | Utilisations | Exemples  | Outils/
+concepts
+
+Produit unique 
+(MCV unitaire)
+
+Plusieurs produits
+(MCV pondérée)
+
+
+ | Analyse du risque et de la rentabilité
+Fixation du prix de vente | À partir de quel volume l’entreprise va-t-elle faire du profit?  | Seuil de rentabilité  
+ou Point Mort (PM) 
+En unités, $, %, H-M
+
+ |  | Combien faut-il vendre de produits P pour que l’entreprise réalise un bénéfice (après impôt) de X ? | Résultat cible
+(volume ou résultat $)
+
+ |  | Quel sera le résultat d’exploitation si l’entreprise prévoit vendre XXX unités du produit P ? | 
+
+ |  | On prévoit XXX ventes. De combien d’unités peut-on diminuer notre cible avant de subir une perte ?  | Marge de sécurité
+En unités, $
+
+ | Comparaison de structures de coûts | Choisir parmi différentes options, quelle structure de coûts choisir selon le volume de ventes prévues? | Seuil d’indifférence
+
+ | Décision d’investissement  | Compte tenu de nos prévisions de volumes, a-t-on intérêt à investir dans ce nouvel équipement ? MCV + CF
+Est-ce que je devrais automatiser une partie de mon activité ? | 
+
+40
+
+(c) 10904 / S02
+
+## Diapositive 41
+
+Conclusion – Séance 2
+
+Analyse CVR
+
+Idée  
+
+Informations pertinentes
+
+Équation du résultat
+Différents concepts clés
+point mort, marge de sécurité…
+
+Mesurer l’impact d’une variation du volume d’activité sur la rentabilité et le risque de perte
+
+Préalable
+
+∙ Est basée sur la classification des coûts fixes et des coûts variables
+
+(c) 10904 / S02
+
+41
+
+## Diapositive 42
+
+QUESTIONS…
+
+42
+
+(c) 10904 / S02

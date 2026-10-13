@@ -1,0 +1,27 @@
+12 | Description et objectifs de la séance
+
+Séance 12
+Description
+Approvisionnement
+Objectifs de la fonction approvisionnement;
+Critères de sélection d'un fournisseur;
+Relations avec les fournisseurs;
+La sous-traitance et l'impartition;
+Tendances Lean en approvisionnement.
+Logistique
+Les activités de la logistique;
+La logistique à rebours;
+La décision de localisation;
+La logistique et les TI;
+L'intégration de la chaîne logistique.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer la distinction entre achat et approvisionnement;
+de démontrer l’importance économique et stratégique de la fonction approvisionnement à l’intérieur de l’organisation et d’appliquer la notion d’effet de levier à l’approvisionnement;
+d’établir des liens entre la fonction approvisionnement et les autres fonctions de l’organisation et les autres spécialités de la GOL;
+d’expliquer le cadre de travail dans lequel évoluent les approvisionneurs et l’importance de ce cadre pour la performance et l’intégrité de l’organisation;
+de décrire les différentes étapes du cycle d’achat et d’expliquer l’importance de chacune des étapes et les grandes décisions qui s’y rattachent;
+de dresser une liste de critères de sélection de fournisseurs et de les prioriser en fonction des objectifs poursuivis;
+de comparer les offres de différents fournisseurs au regard d’une liste de critères déterminés, d’effectuer les arbitrages nécessaires, de faire un choix réfléchi et d’être en mesure de le justifier;
+d’expliquer les enjeux relatifs au choix des modes de transport et de la localisation;
+d’expliquer en quoi consiste la chaîne logistique, de même que les avantages que l’on peut retirer de son intégration.

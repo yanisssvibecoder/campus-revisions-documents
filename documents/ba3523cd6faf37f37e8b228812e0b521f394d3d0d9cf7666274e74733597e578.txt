@@ -1,0 +1,1680 @@
+## Page 1
+   1 opérationsIntroductionetàdela lagestionlogistiquedes
+
+
+                  Objectifs d’apprentissage
+
+
+À la fin de ce chapitre, vous devriez être capable :
+
+        d’expliquer en quoi consiste la gestion des opérations et de la logistique (GOL), quel est son rôle dans
+         l’organisation et comment elle est reliée aux autres fonctions;
+
+       de faire des liens entre l’évolution historique qui a conduit à la société actuelle et l’évolution de la GOL;
+
+        d’analyser comment les changements actuels et futurs de l’environnement des organisations sont
+        susceptibles d’influencer la GOL, et comment cette dernière contribue elle aussi à modifier le monde
+        qui l’entoure;
+
+       de démontrer l’importance de la GOL dans l’atteinte des objectifs stratégiques de l’organisation et dans
+          la satisfaction des besoins des différentes parties prenantes;
+
+       de présenter les grandes catégories d’attributs stratégiques de même que les notions d’efficacité,
+         d’efficience et de productivité, puis d’expliquer comment la GOL permet d’atteindre les cibles fixées;
+
+       de reconnaître les situations où des arbitrages sont nécessaires et d’être plus en mesure d’y faire face;
+
+        d’expliquer les principales différences entre les organisations industrielles et de services et, en situation
+          réelle, d’identifier les particularités de divers contextes d’opération et d’en comprendre les conséquences;
+
+       de retracer les organisations qui font partie d’une même chaîne logistique et de présenter la manière
+       dont elles sont interreliées et dont elles s’influencent mutuellement.
+
+
+
+
+                                                                                  17
+
+## Page 2
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+              1.1 Qu’est‐ce que la gestion
+               des opérations et de la logistique?
+
+                   D’où vient le livre que vous tenez entre les mains? Comment est‐il parvenu jusqu’à vous?
+                                      Il a fallu l’écrire et l’imprimer, bien sûr, mais aussi gérer sa production : planifier le projet
+                  de rédaction pour respecter l’échéancier fixé, insérer ce projet dans le calendrier de
+                    production de l’éditeur, coordonner le travail de différents intervenants (auteurs, révi‐
+                       seurs, graphistes…), contrôler la qualité, décider des quantités à imprimer en fonction
+                  de la demande prévue, contacter différents imprimeurs et choisir celui qui offrait les
+                      meilleures conditions (prix, délais, qualité…), gérer les stocks, planifier la livraison
+                     jusqu’aux distributeurs et aux détaillants. La librairie où vous l’avez acheté a dû elle aussi
+                                                      gérer ses opérations : déterminer les quantités à
+                                                     acheter et les dates limites de réception, prévoir
+                                                         l’espace pour entreposer  les stocks, ajouter cet
+                                                  ouvrage au catalogue, planifier les heures d’ouver‐
+                                                       ture de même que le nombre de commis et de
+                                                              caissiers requis, préparer les horaires du personnel,
+                                                            voir à l’entretien des lieux et au bon fonctionnement
+                                                  des caisses et autres supports physiques, etc.
+
+                                                   Toutes ces activités, et bien d’autres encore, for‐
+                                           ment le quotidien des praticiens de la gestion des
+                                                      opérations et de la logistique (GOL). De manière
+                                                        générale, on entend par opérations l’ensemble des
+                                                               activités de transformation qui fabriquent les biens
+                                             ou réalisent les services, alors que le terme logis‐
+                                                       tique désigne plus spécialement les activités d’ob‐
+                                                          tention, de déplacement, de transport et de distribu‐
+                       tion des matières et des produits. La gestion des opérations et de la logistique consiste
+                  donc à planifier, organiser, diriger et contrôler toutes les activités liées à la fabrication
+                   des biens, au flux des matières et à la réalisation des services. La GOL est présente dans
+                     toutes les organisations, petites ou grandes, privées ou publiques, industrielles ou de
+                        services. En effet, toutes les organisations ont comme fonction initiale d’offrir des
+                      produits (notons que tout au long de ce livre, le mot produit désigne autant les services
+                  que les biens), que ce soit à leurs membres (par exemple dans le cas des coopératives)
+                 ou à des parties externes (clients individuels, industriels ou institutionnels, autres organi‐
+                        sations, membres de la société, etc.). Les motifs et les objectifs de leurs fondateurs
+                   peuvent être multiples, mais dès lors qu’une organisation fabrique ou vend quelque
+                     chose, ou qu’elle rend des services, elle doit gérer des opérations.
+
+                    La GOL est une fonction passablement complexe. D’abord, elle est composée d’un
+                  ensemble d’activités variées : décider de la taille des installations, organiser le travail et
+                         les processus, choisir les technologies, planifier les opérations à court et à long terme,
+                     gérer les approvisionnements et les stocks, contrôler la production et la distribution,
+                     gérer et améliorer la qualité, planifier les projets, etc. La plupart de ces activités étant
+                        interreliées, une grande part de la GOL a pour but de bien les coordonner et de les ajus‐
+                       ter les unes aux autres pour qu’elles forment un tout cohérent. De plus, la GOL vise à
+                      atteindre plusieurs objectifs qui ne sont pas toujours entièrement compatibles, tels que
+                         le respect des délais et des volumes de production demandés, la réduction des coûts, la
+
+
+
+18
+
+## Page 3
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+réalisation de biens et de services de qualité, de même que la capacité de s’ajuster rapi‐
+dement et économiquement aux changements. Comme toutes les activités de gestion,
+la GOL aussi est soumise à des contraintes, qui proviennent à la fois des autres fonctions
+(finance, gestion du personnel, etc.) et de l’environnement de l’organisation. En effet,
+les responsables des opérations ne travaillent pas isolément. Ils sont en constante inte‐
+raction avec les responsables des autres fonctions, mais aussi avec des partenaires
+d’affaires en amont (les fournisseurs) et en aval (les transporteurs, distributeurs et
+clients).
+
+Si la pratique de la GOL est complexe, elle a l’avantage de ne pas être trop compliquée
+au plan conceptuel, du moins dans ses principes de base. Les activités qui la composent
+sont très concrètes et terre‐à‐terre, et dans la plupart des cas, il est facile d’en voir les
+résultats : les marchandises sont reçues en bon état et au bon endroit, les produits sont
+fabriqués à temps, les services sont rendus correctement... Ce sont aussi des activités
+que tout le monde pratique au quotidien sans s’en rendre compte : on planifie son
+horaire, on gère les échéances des travaux à remettre, on organise et répartit le travail
+au sein de son équipe, on prépare son petit‐déjeuner, on gère le contenu du garde‐
+manger et l’on voit à le réapprovisionner, on fait des achats, on prévoit de faire le lavage
+et le ménage, on organise ses déplacements, etc. Bien entendu, on ne gère pas les opé‐
+rations d’une usine ou d’une grande banque comme on gère ses affaires quotidiennes,
+mais les différences ne sont pas tant au plan des concepts qu’au plan des outils de
+gestion. Lorsqu’il faut planifier la fabrication simultanée de dizaines de produits, des
+achats venant de centaines de fournisseurs situés partout dans le monde, ou encore
+lorsqu’il faut organiser le travail de grands groupes d’employés spécialisés, on doit se
+doter de bonnes méthodes pour gérer toutes les informations requises, réaliser les
+calculs nécessaires et tenir compte de toutes les contraintes en présence. Ainsi, si
+certains des outils présentés dans cet ouvrage peuvent sembler rébarbatifs de prime
+abord, ils sont rarement très compliqués. Les chapitres qui suivent permettront d’avoir
+un bon aperçu des principales méthodes de base de la GOL, et de présenter les principes
+de gestion sur lesquels elles s’appuient et les enjeux liés à leur utilisation.
+
+1.2 En quoi la gestion des opérations et de la
+    logistique est‐elle importante pour moi?
+
+Si je travaille en :
+
+        marketing, j’aurai des interactions fréquentes avec les responsables de la
+        gestion des opérations puisque je dois leur transmettre les informations sur la
+      demande du marché et les besoins des clients. En retour, les responsables des
+        opérations me préviendront de tout retard dans la production ou de tout
+       problème susceptible d’affecter les ventes ou la mise en marché. Nous devrons
+         travailler ensemble au quotidien pour établir des objectifs réalistes quant aux
+        quantités à garder en stock, aux délais de livraison qu’il est possible de
+        promettre, aux changements qu’on peut accepter, etc. À plus long terme, nous
+        collaborerons à la conception des produits et des processus de service, de
+     même qu’à l’organisation du réseau de distribution. Il est donc essentiel pour
+       moi de bien comprendre les contraintes de production et de distribution, ainsi
+       que leurs conséquences sur le marketing et les ventes;
+
+
+
+
+                                                                                  19
+
+## Page 4
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+
+                             finance ou en comptabilité, j’aurai à collaborer avec les gestionnaires des opé‐
+                               rations pour toutes les décisions qui impliquent des investissements ou qui
+                          peuvent avoir un impact sur les flux financiers. En effet, dans la plupart des
+                              entreprises industrielles et dans beaucoup d’entreprises de services, la grande
+                             majorité des actifs sont constitués des lieux physiques (usines, entrepôts,
+                             établissements de service…), de l’équipement de production et des stocks. De
+                                  surcroît, une bonne partie du chiffre d’affaires (souvent plus de la moitié) est
+                            consacrée à l’achat des matières premières et des fournitures utilisées pour la
+                               fabrication ou les opérations; les décisions à cet égard ont donc des consé‐
+                          quences financières majeures. Au plan comptable, plusieurs postes de compte
+                            sont liés aux opérations; par exemple, ce sont les responsables de la GOL qui
+                              fourniront les informations permettant de calculer le coût de revient et la valeur
+                           des stocks. Il est donc essentiel pour moi de bien comprendre les enjeux relatifs
+                          aux opérations et à la logistique puisque cette fonction représente le poste de
+                             coûts et d’investissements de loin le plus important de toute l’organisation;
+
+
+
+
+
+                             gestion des ressources humaines, j’aurai à collaborer avec les gestionnaires des
+                             opérations pour toutes les décisions relatives au travail lui‐même (exigences des
+                              postes, besoins en formation, santé et sécurité…) et à ses conditions (horaires,
+                            rémunération, évaluation de la performance, etc.). Dans la plupart des entre‐
+                                prises de services et dans beaucoup d’entreprises industrielles, la grande majo‐
+                                    rité des employés travaillent directement aux opérations. De plus, cette catégo‐
+                                   rie d’employés peut présenter des enjeux particuliers en matière de gestion du
+                            personnel (travail sur différents quarts, horaires atypiques, maladies profes‐
+                                sionnelles, accidents de travail, rémunération à la pièce, etc.). Il est donc essen‐
+                                       tiel pour moi de bien comprendre la réalité quotidienne des employés qui tra‐
+                                  vaillent aux opérations et à la logistique, que ce soit dans les entreprises manu‐
+                                facturières ou de services;
+
+
+
+20
+
+## Page 5
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+        gestion des systèmes d’information en gestion, je devrai gérer l’ensemble des
+        besoins en information générés par la gestion des opérations et de la logistique.
+        Cela inclut la mise en place et le maintien de nombreuses bases de données (sur
+         les produits, les clients, les ventes, les stocks, les fournisseurs et la production
+        elle‐même), de même que la conception ou l’acquisition des progiciels utilisés
+       pour la planification et le contrôle des opérations et de la distribution, la gestion
+       des horaires, le transfert des informations tout au long de la chaîne logistique
+        et la gestion de la qualité. Dans les grandes entreprises, plusieurs de ces sys‐
+       tèmes d’information font déjà partie des progiciels de gestion intégrés (Enter‐
+         prise Resource Planning, ou ERP), mais c’est loin d’être le cas dans toutes les
+        organisations, particulièrement dans les PME. Il est donc essentiel pour moi de
+        bien comprendre les besoins en information des gestionnaires des opérations
+        et de la logistique, et de concevoir des outils qui facilitent leur travail;
+
+        gestion des opérations et de la logistique, j’aurai moi‐même à appliquer les
+        principes et à utiliser les outils présentés dans cet ouvrage. Même si je me
+         spécialise dans une des activités de la GOL, j’aurai à collaborer avec mes col‐
+        lègues planificateurs, analystes logistiques, gestionnaires des stocks, approvi‐
+        sionneurs, gestionnaires de la qualité, chefs de projet, responsables de l’amé‐
+         lioration des processus, etc. Il est donc essentiel pour moi de maîtriser tous les
+        aspects de la GOL.
+
+
+1.3 L’héritage de la GOL
+
+Si la GOL est en charge de toutes les activités liées directement à la fabrication des biens
+ou à la réalisation des services, c’est donc dire qu’elle remonte à bien loin. Aucun des
+grands œuvres dont on peut encore voir les traces aujourd’hui, des pyramides égyp‐
+tiennes à la Grande Muraille de Chine, en passant par les aqueducs romains et les
+temples mayas, n’aurait pu être réalisé sans un minimum de planification, d’organisation
+du travail et de contrôle de la qualité. Malheureusement, il reste bien peu de traces
+écrites de ces activités, les connaissances s’étant surtout transmises oralement et par
+compagnonnage. Jusqu’au Moyen Âge, les avancées marquantes en matière de produc‐
+tion portent essentiellement sur le développement d’outils et de méthodes de fabrica‐
+tion.
+
+Au fil du temps, la pratique de la GOL intègre et amalgame un vaste ensemble d’innova‐
+tions techniques et sociales, de connaissances et de manières d’organiser le monde,
+comme l’illustre la figure 1.1. Par exemple, la révolution industrielle s’organise en bonne
+partie autour de l’arrivée du charbon, de la machine à vapeur, du travail rémunéré et du
+chemin de fer. C’est en combinant la mesure et le calcul du temps, l’électricité, le
+convoyeur et la division du travail qu’on peut en arriver à la chaîne de montage
+développée par Henry Ford au début du XXe siècle. Plus récemment, la gestion de la
+chaîne logistique incorpore les différents modes de transport, les avancées de la
+recherche opérationnelle sur l’optimisation des réseaux, les bases de données sur les
+clients et les fournisseurs, les communications satellitaires et par Internet, etc.
+
+
+
+
+
+                                                                                  21
+
+## Page 6
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+   Figure 1.1   Les principaux éléments conduisant à l’émergence de la GOL et à son l’évolution
+
+
+                                          La maîtrise
+                                     du travail
+
+                                                        L’esclavage               La maîtrise
+                  La maîtrise                     L’artisanat             du transport
+                                                La domesticité                du temps
+                                                  L’emploi rémunéré                La roue
+                    Le calendrier             La division du travail               Le navire
+                     L’horloge solaire           La responsabilisation           Le chemin de fer
+                   L’horloge mécanique            L’automatisation              Le convoyeur
+                   Le chronomètre              La robotisation                 Le camion
+                                                                                            L’avion
+
+
+                La maîtrise                                          La maîtrise
+                des calculs                                     de l’énergie
+
+                    Les chiffres           L’émergence                   Le feu
+                    Le boulier                                               Le moulin à eau
+                                  et l’évolution                 La mathématique                                            Le moulin à vent
+                   La statistique           de la GOL              La machine à vapeur
+                   La recherche                                                     L’énergie fossile
+                   opérationnelle                                                              L’électricité
+                   L’informatique                                                   L’énergie nucléaire
+
+
+
+                           La maîtrise des               La maîtrise des
+                            informations              communications
+                                                     à distance
+                                          L’écriture
+                                  Le papier                         La poste
+                                   L’imprimerie                     Le télégraphe
+                               La numérisation                   Le téléphone
+                              Les bases de données                  Le satellite
+                                      Internet                  Les réseaux informatiques
+
+
+
+
+                De plus, tout au long de l’histoire mais plus particulièrement depuis le début du
+                    XXe siècle, la GOL développe ses différents volets en réponse à des défis particuliers.
+                     D’abord, lorsqu’il délaisse les champs et perd l’habitude de fabriquer lui‐même ce dont
+                                        il a besoin, le travailleur salarié donne naissance au consommateur de biens fabriqués
+                    par d’autres. Les usines sont alors confrontées au défi de devoir produire de grandes
+                     quantités de biens qui soient accessibles au plus grand nombre; il faut produire beau‐
+                    coup, et pas cher. C’est la grande époque du génie industriel, et ce sont les ingénieurs
+                     qui prennent d’abord en charge la gestion des opérations. La production effrénée
+                     conduit vite à développer des méthodes pour gérer les stocks, planifier les opérations et
+                      contrôler la qualité de tous ces produits. De son côté, la quête de productivité passe par
+                       l’organisation scientifique du travail et la mise en place de processus performants. Assez
+                   rapidement se pose aussi le défi de l’approvisionnement et de la gestion du transport.
+
+
+22
+
+## Page 7
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Sauf en périodes de guerre, l’occident est en plein essor, et en particulier l’Amérique du
+Nord. Toutefois, à partir du milieu des années 1970, cette dernière est frappée de plein
+fouet par le choc pétrolier et par le succès des pays asiatiques, dont le Japon. Pour faire
+face à ces nouveaux concurrents, on cherche à imiter le modèle japonais en adoptant
+ses pratiques de gestion des opérations : gestion intégrale de la qualité, production à
+valeur ajoutée, juste‐à‐temps, etc. Au même moment, divers change‐
+ments technologiques et sociaux – dont l’arrivée massive des femmes
+sur le marché du travail – accélèrent l’explosion des entreprises de
+services, dont il faut aussi gérer les opérations. Puis, dans la course à la
+réduction des coûts, on délocalise les opérations, et ce, en même
+temps qu’Internet contribue à mondialiser les marchés. C’est alors la
+gestion de la chaîne logistique qu’il faut perfectionner. Quant aux défis
+actuels, certains croient que la question environnementale doit main‐
+tenant occuper le premier plan. Si cela s’avère, il faut s’attendre à ce
+que la gestion environnementale des opérations prenne un nouvel
+essor.
+
+L’appropriation première de la GOL par les ingénieurs, les statisticiens
+et éventuellement la recherche opérationnelle a pour conséquence
+qu’on met d’abord l’accent sur le développement d’outils techniques.
+Il faudra un certain temps avant qu’on y incorpore les aspects sociaux et stratégiques, et
+même maintenant, les aspects politiques y sont peu représentés. Ce n’est que depuis
+une quarantaine d’années que la GOL s’est vraiment séparée du génie industriel et de la
+recherche opérationnelle et qu’elle est devenue une spécialité de la gestion. La plupart
+des entreprises industrielles reconnaissent maintenant que les ingénieurs et les gestion‐
+naires des opérations ont chacun leurs compétences et leurs champs d’expertise. Il reste
+toutefois beaucoup à faire pour convaincre les dirigeants des entreprises de services
+qu’ils gagneraient à faire appel à des spécialistes pour gérer leurs opérations.
+
+1.4 Le rôle stratégique de la GOL
+
+La GOL est la fonction responsable de réaliser ce qui constitue l’assise même de l’orga‐
+nisation : les biens et services qui font l’objet de l’échange économique ou qu’elle s’est
+engagée à fournir à ses bénéficiaires. Il n’est donc pas exagéré de dire de la GOL qu’elle
+est au cœur de la stratégie. Les orientations stratégiques sont d’abord guidées par les
+relations de l’organisation avec ses parties prenantes, et le rôle de la GOL est manifeste
+dans toutes ces relations :
+
+    1) Les clients : on entend ici ce terme au sens large de tous ceux qui reçoivent
+            les biens et services réalisés par l’organisation, et dont on cherche à satisfaire
+            les besoins. Il peut s’agir de ceux qui achètent directement les produits ou de
+         ceux qui en bénéficient sans les payer directement (par exemple les utilisa‐
+          teurs de biens achetés par des tiers ou les bénéficiaires des services publics).
+          Or, c’est à la GOL qu’il revient de réaliser les produits répondant aux besoins
+          et possédant certains attributs stratégiques, sur lesquels on reviendra plus
+            loin. Si l’entreprise a des concurrents sur les marchés qu’elle dessert, ces pro‐
+           duits doivent non seulement lui permettre de se qualifier pour l’obtention des
+        commandes, mais aussi de se démarquer de la compétition;
+
+
+
+
+                                                                                  23
+
+## Page 8
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                   2) Les propriétaires ou les actionnaires : dans pratiquement toutes les organi‐
+                                  sations, les opérations sont le principal centre de coûts et dépassent de très
+                                    loin toutes les autres dépenses. De bonnes pratiques de gestion des opéra‐
+                                  tions présentent donc un potentiel d’économies important, à moins que tous
+                                    les efforts en ce sens aient déjà été déployés. Par ailleurs, le chiffre d’affaires
+                          de l’entreprise dépend directement de sa capacité à livrer les produits
+                               attendus, et ce, de manière constante et prévisible. C’est au moment de la
+                                   réalisation des biens et des services que se crée la valeur. D’un côté comme
+                          de l’autre, la GOL conduit en ligne droite à la profitabilité et, dans le cas des
+                                entreprises à but non lucratif, au respect des budgets;
+                   3) Les employés : dans la plupart des organisations, la majorité des employés
+                                    travaillent aux opérations. Bon nombre de décisions de GOL affectent direc‐
+                           tement leur quotidien, qu’il s’agisse de la nature du travail lui‐même, de la
+                                  répartition des tâches, des horaires, de l’aménagement des lieux, des enjeux
+                          de santé et de sécurité, des cibles de performance, du partage des responsa‐
+                                     bilités et du pouvoir quant à la production, etc. En retour, le climat de tra‐
+                                         vail, la stabilité de la main‐d’œuvre et le développement des compétences
+                              sont des éléments clés dans la capacité de l’organisation à atteindre ses
+                                   objectifs stratégiques;
+                   4) Les autres partenaires d’affaires : on inclut ici les fournisseurs, les sous‐
+                                    traitants, les transporteurs, les distributeurs et les détaillants qui font affaire
+                            quotidiennement avec les organisations, et plus directement avec les gestion‐
+                                 naires des opérations. La fonction GOL est en bonne partie responsable de la
+                                 qualité des relations avec ces partenaires, ne serait‐ce qu’en établissant un
+                                climat d’échange honnête, ouvert et respectueux du rôle et des besoins de
+                              chacun. En outre, plusieurs des décisions prises par la GOL ont des consé‐
+                            quences immédiates pour eux; par exemple, des opérations bien organisées
+                                et bien contrôlées permettent aux partenaires de bien planifier leurs propres
+                               opérations et d’en réduire les coûts. À moyen et long terme, la prospérité des
+                                partenaires d’affaires – et donc, leur stabilité –, de même que la solidité des
+                               rapports qu’on entretient avec eux, constituent des avantages concurrentiels
+                              majeurs;
+
+
+
+
+
+24
+
+## Page 9
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+    5) Les gouvernements et la société dans son ensemble : d’un côté, si la fonction
+        GOL est responsable de la majorité des dépenses, des revenus et des emplois,
+           c’est donc dire qu’elle est génératrice de salaires, de taxes et d’impôts. De
+           l’autre côté, les opérations sont de grandes consommatrices d’énergie et
+           d’infrastructures (routes, parcs industriels, etc.) et peuvent générer divers
+          coûts sociaux (pollution, surexploitation des ressources, chômage engendré
+          par l’automatisation ou la délocalisation…). Bon nombre des subventions et
+         des crédits reçus par les entreprises vont aux opérations : agrandissements,
+         modernisation de l’équipement, formation de la main‐d’œuvre, etc. Dans le
+          cas des services publics, les opérations sont sous l’œil constant de l’État et de
+            la population, qui cherchent à obtenir les services promis tout en réduisant
+            les coûts, les gaspillages et le détournement des fonds publics. Ainsi, la place
+         des organisations dans la société où elles s’insèrent influence l’élaboration de
+            la stratégie.
+
+Les attributs stratégiques
+
+On entend par attributs stratégiques les variables clés qui, au‐delà des caractéristiques
+particulières des produits et des services offerts, permettent à l’organisation de satis‐
+faire les besoins de ses clients et de se différencier de ses concurrents. Ce sont :
+
+    1) La qualité : c’est souvent l’attribut que les entreprises mettent le plus à
+           l’avant‐plan lorsqu’elles énoncent leur stratégie. Pour les clients, cet attribut
+           consiste à obtenir des produits qui correspondent de manière constante et
+            fiable à ce que l’organisation s’est engagée à leur livrer. Au plan concurrentiel,
+            la qualité est aussi une occasion de se démarquer, soit en offrant des biens et
+         des services dont les caractéristiques surclassent ceux des concurrents, soit
+         en dépassant les attentes des clients;
+    2) Les délais : cet attribut se déploie différemment selon le contexte. Dans le
+          cas des produits technologiques ou des innovations, les entreprises misent
+         souvent sur la rapidité de développement et de mise en marché de nouveaux
+          produits pour battre la concurrence. Dans le cas des marchandises destinées
+         à des clients industriels ou institutionnels, ce qui compte est de pouvoir offrir
+        un délai de livraison court et, surtout, fiable. C’est aussi le cas pour les biens
+         de consommation que les clients doivent commander spécialement (meubles,
+          automobiles, etc.). Enfin, dans les entreprises de services, c’est la réduction
+        du délai pour obtenir un rendez‐vous et du temps d’attente une fois rendu
+          sur place;
+    3) Le volume : cet attribut n’est pas toujours exprimé de manière explicite, mais
+                   il constitue néanmoins un avantage concurrentiel, puisqu’il arrive souvent
+         que des entreprises perdent des ventes parce qu’elles sont trop petites et que
+           leur capacité ne suffit pas à satisfaire les besoins des gros clients. Dans les
+           entreprises de services, le volume est aussi lié à l’accessibilité du service pour
+            les clients (pensons, par exemple, aux difficultés du système de santé de
+         répondre à toute la demande);
+    4) Le prix : c’est un attribut stratégique majeur, particulièrement lorsque la
+           situation économique est mauvaise et que  les  clients recherchent  les
+          aubaines. Toutefois, cet attribut est presque toujours contrebalancé par les
+
+
+                                                                                  25
+
+## Page 10
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                                  autres, et certains seront prêts à payer davantage pour une meilleure qualité,
+                             des délais plus courts ou une plus grande flexibilité. L’importance relative du
+                                   prix est directement reliée au positionnement de l’entreprise sur les marchés
+                                   qu’elle dessert;
+                   5) La variété : certaines organisations choisissent de se spécialiser dans la pro‐
+                               duction d’un petit nombre de biens ou de services différents, ce qui leur
+                           permet habituellement de réduire les prix et les délais ou de mieux contrôler
+                                      la qualité. D’autres, au contraire, optent pour la variété, de façon à offrir plus
+                          de choix aux clients ou à leur permettre de trouver tout ce qu’ils recherchent
+                           au même endroit;
+                   6) La flexibilité : en tant qu’attribut stratégique, on entend par flexibilité la
+                                capacité de l’organisation à s’adapter aux besoins des clients sans encourir
+                             des coûts excessifs. En fait, la flexibilité peut porter sur la plupart des autres
+                                   attributs stratégiques. On parle ainsi de flexibilité‐délai (c.‐à‐d. la capacité de
+                                 raccourcir les délais, au besoin), de flexibilité‐volume (c.‐à‐d. la capacité de
+                                    réaliser de petites et de grosses commandes) et de flexibilité‐produit (c.‐à‐d.
+                                      la capacité de modifier certaines caractéristiques du produit pour répondre
+                            aux demandes particulières des clients).
+
+
+                    Bien que tous ces attributs stratégiques soient importants, la priorité qu’on leur accorde
+                       varie selon les organisations. Dans les situations de concurrence, certaines entreprises
+                       choisissent de se démarquer par la qualité de leurs produits, d’autres par les délais,
+                      d’autres par le prix, etc., ou par des combinaisons variables de plusieurs objectifs. Cela
+                  ne veut pas dire pour autant que les autres attributs ne sont pas considérés, mais que
+                         les cibles qu’on fixe pour chacun varient selon l’entreprise. Par exemple, si l’on compare
+                  une petite épicerie de proximité, un supermarché haut de gamme et un magasin entre‐
+                      pôt, les trois se sont donné des cibles précises en matière de prix de vente, de qualité du
+                       service et d’ambiance de magasinage, ainsi que de volume et de variété de produits. Ces
+                        cibles sont toutefois très différentes dans les trois cas.
+
+              Même si les segments de marché visés influencent beaucoup les cibles établies, ces der‐
+                      nières doivent aussi tenir compte des ressources particulières dont dispose l’entreprise
+                      et qui peuvent lui fournir un avantage concurrentiel. Par exemple, certaines organisa‐
+                       tions ont une main‐d’œuvre très qualifiée et expérimentée, d’autres bénéficient de
+                     capitaux importants, d’autres encore d’un équipement de pointe, de la possession de
+                     brevets ou d’une formidable équipe de R&D. Une stratégie robuste repose sur l’adéqua‐
+                       tion entre les forces de l’entreprise et les objectifs qu’elle se donne.
+
+                     Les attributs stratégiques sont au centre de la plupart des décisions que prennent les
+                       dirigeants et les gestionnaires. En GOL, en particulier, toutes les activités de conception
+                   des produits et des processus, de choix de capacité, de gestion de la qualité, d’organisa‐
+                       tion du travail, de planification de la production, d’approvisionnement, de gestion des
+                       stocks, de conditionnement, de transport et d’amélioration des processus ont d’abord
+                   pour but d’atteindre les cibles établies. La capacité de l’organisation d’atteindre ses
+                        cibles de manière continue porte le nom d’efficacité, qu’on résume parfois par « faire la
+                  bonne chose ». Toutefois, dans la majorité des organisations, la quête d’efficacité
+                   s’accompagne aussi de la recherche de l’efficience, ou « bien faire les choses ».
+
+
+
+
+26
+
+## Page 11
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Efficience, productivité et valeur ajoutée
+
+L’efficience consiste à atteindre les objectifs de la manière la plus économe. En ce sens,
+on ne peut normalement pas parler d’efficience si l’on n’est pas d’abord efficace, même
+s’il peut arriver que la recherche trop enthousiaste de l’efficience fasse oublier la
+primauté de l’efficacité.
+
+La notion d’efficience est liée de près à un autre concept, celui de productivité, qui
+exprime le rapport entre la production et les ressources qui ont été requises pour
+l’obtenir. On peut mesurer la productivité de différentes façons, selon ce qu’on cherche
+à mettre en évidence et selon le niveau d’analyse où l’on se situe. On parlera, par
+exemple, de la productivité de la main‐d’œuvre, du capital ou du total des ressources
+utilisées, ou encore de la productivité individuelle, d’une équipe ou d’une usine, et
+même de la productivité nationale. Une mesure globale de la productivité d’une organi‐
+sation serait :
+
+
+                               Valeur des biens et services produits
+       Productivité =
+                    Valeur des matières et des ressources de production utilisées
+
+Les efforts des organisations pour améliorer leur productivité visent donc à « produire
+plus avec moins », c’est‐à‐dire à augmenter le nombre ou la valeur unitaire des biens et
+services produits ou à réduire la quantité ou le prix des matières et des ressources
+requises pour les réaliser. Tout comme les attributs stratégiques, l’atteinte des cibles de
+productivité et l’augmentation de l’efficience font partie intégrante de la stratégie, de
+même que des décisions et des activités quotidiennes de la GOL.
+
+Une autre façon d’exprimer l’importance de l’efficience et de la productivité est de
+parler de la valeur qui est ajoutée (ou pas) lors de l’ensemble des étapes qui mènent à
+la livraison des biens et des services. On dit d’une activité qu’elle est « à valeur ajoutée »
+lorsque sa réalisation contribue à la valeur que possède le produit aux yeux des clients,
+si bien qu’ils sont prêts à payer pour l’obtenir. Au contraire, une activité sans valeur
+ajoutée ne contribue pas à la valeur du produit. Par exemple, les étapes de fabrication
+d’un bien en tant que telles sont créatrices de valeur, puisque le produit fini a plus de
+valeur pour le client que les matières qui le composent. En revanche, la planification des
+opérations, le stockage des pièces, les efforts de marketing ou la préparation des états
+financiers de l’organisation ne créent pas de valeur. Toutes ces
+activités peuvent  être  essentielles au bon fonctionnement de
+l’organisation, mais elles n’ont aucune valeur aux yeux du client. Cela
+ne veut pas dire qu’il faut les éliminer, mais qu’on doit chercher à les
+réduire au minimum requis.
+
+L’environnement PESTEL
+
+La stratégie des organisations est constamment perturbée par les
+changements de l’environnement  politique, économique,  social,
+technologique, écologique et  législatif, couramment désigné par
+l’acronyme PESTEL. Ces perturbations peuvent avoir un effet stimu‐
+lant mais aussi ajouter des contraintes auxquelles on résiste ou avec
+lesquelles on compose. La GOL est touchée directement par cet
+environnement, comme en témoignent les exemples suivants :
+
+
+                                                                                  27
+
+## Page 12
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+                   1) L’environnement politique : les gouvernements en place ont le pouvoir de
+                              subventionner ou d’avantager certaines industries, ou de promouvoir certains
+                               types d’innovations plutôt que d’autres. De même, les promesses de création
+                               d’emplois peuvent signifier qu’on soutiendra la modernisation des usines ou
+                                  leur implantation dans certaines régions. À l’international, les ententes de
+                                libre‐échange ou de réciprocité conclues entre gouvernements influencent
+                              directement l’accès aux matières premières et le prix de ces dernières, de
+                     même que les possibilités de délocaliser les opérations et de transporter les
+                             marchandises à faible coût. Par ailleurs, le politique influence directement les
+                                autres dimensions (ESTEL) de l’environnement des organisations;
+                   2) L’environnement économique : puisque les opérations utilisent la majorité
+                             des ressources de l’organisation (achats de matières et de services, équipe‐
+                             ments, employés, sources d’énergie, espaces, etc.), elles sont lourdement
+                                influencées par des éléments tels que le cours des métaux et du pétrole, les
+                               taux de change, les taux d’intérêt, l’inflation, les salaires, les taxes foncières,
+                                 et toutes les autres fluctuations de l’environnement économique. De plus,
+                            dans la mesure où la situation économique influence la demande pour les
+                               biens et les services non essentiels, le niveau de production est lié à l’éco‐
+                             nomie;
+                   3) L’environnement social : les opérations requérant beaucoup de personnel,
+                                     elles sont influencées par les changements dans la composition de la main‐
+                           d’œuvre (par exemple le vieillissement de la population, l’augmentation de
+                                l’immigration et l’accroissement de la scolarisation) et par les nouvelles
+                                attentes des employés en matière de conditions de travail (conciliation
+                                     travail‐famille, horaires flexibles, télétravail, autonomie, etc.). La demande
+                            pour les produits et les services est aussi influencée par les changements
+                             démographiques, les valeurs sociales et le style de vie;
+                   4) L’environnement technologique : tel que nous l’avons vu à la section 1.3, la
+                        GOL doit une grande part de son évolution à celle des technologies. Pensons
+                            seulement à l’impact des systèmes à radiofréquence (RFID, pour Radio‐
+                             Frequency Identification) sur la gestion des matières et des stocks, le rôle du
+                         GPS (Global Positioning System) dans le suivi des opérations de transport,
+                                       l’utilisation d’Internet dans les communications avec les fournisseurs et les
+                                      clients, les raffinements en matière de robotique, le développement croissant
+                             des technologies de libre‐service, etc.;
+                   5) L’environnement écologique : dans les organisations, les opérations sont les
+                                  principales utilisatrices de matières premières et d’énergie, et elles sont
+                               responsables de la plupart des déchets et des émissions dans l’environne‐
+                            ment. En conséquence, la GOL est frappée de plein fouet par les pressions
+                             des environnementalistes, et doit composer avec cette réalité;
+                   6) L’environnement législatif : la GOL doit voir au respect d’un ensemble de lois
+                                 et de règlements, qu’il s’agisse des lois du travail, des normes de santé et de
+                                 sécurité des travailleurs, de la règlementation en matière de sécurité des
+                                produits et de salubrité des lieux de service, des règles sur l’emballage, des
+                                       lois qui régissent les contrats avec les fournisseurs, ou encore des différentes
+                                       lois sur la protection des consommateurs. L’augmentation des contrats à
+                                  l’étranger et des opérations internationales ont aussi pour effet de complexi‐
+                                       fier l’environnement législatif de la GOL.
+
+
+28
+
+## Page 13
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Finalement, il est important de noter que l’environnement PESTEL influence l’organisa‐
+tion elle‐même mais aussi ses concurrents et l’ensemble de ses parties prenantes. En
+outre, l’influence va dans les deux sens : chacun de ces groupes réagit aux changements
+de l’environnement et contribue ainsi à le modifier encore davantage. L’ensemble de ces
+effets forme un système complexe et dont il est impossible de prévoir la trajectoire, mais
+auquel il faut pourtant s’adapter.
+
+La stratégie des opérations
+
+Au bout du compte, la stratégie des opérations s’aligne de près à la stratégie d’entre‐
+prise. Slack et Lewis1 définissent la stratégie des opérations comme :
+
+   « le portrait d’ensemble que forment les décisions prises et qui détermine, à long
+   terme, les capacités du système opérationnel et la manière dont il pourra contri‐
+   buer à la stratégie d’entreprise en conciliant les besoins du marché et les res‐
+   sources disponibles. »
+
+Il est intéressant de noter que cette définition présente la stratégie comme le résultat
+des décisions cumulées. En effet, même si l’on parle habituellement de la stratégie
+comme d’une orientation précise qui est articulée par les dirigeants, puis transmise du
+haut vers le bas de l’organisation et suivie par tous, cela ne correspond pas toujours à la
+réalité. En fait, le plus souvent, la stratégie apparaît lorsqu’on regarde les décisions et
+les gestes posés au quotidien. Il peut même y avoir un écart important entre la stratégie
+annoncée et celle qui émerge au jour le jour. Il n’est pas rare que l’on dise que la qualité
+est no 1, mais que l’on priorise plutôt la réduction des coûts ou le respect des délais (ou
+encore, qu’on annonce vouloir réduire les coûts mais qu’on accepte régulièrement des
+modifications de produits ou des livraisons urgentes qui ont pour effet de les faire aug‐
+menter). Le cumul des décisions peut donc avoir pour effet de confirmer la stratégie
+officielle ou, au contraire, de la réorienter complètement ou de la remplacer par une
+stratégie informelle qui reflète davantage la volonté des dirigeants et les pressions que
+peuvent exercer les parties prenantes de l’organisation. La définition précédente con‐
+firme aussi la nécessité d’accorder les besoins du marché aux capacités de l’organisation,
+ce qui peut requérir des arbitrages.
+
+1.5 La notion d’arbitrage
+
+Même si une organisation peut poursuivre simultanément plusieurs objectifs et attributs
+stratégiques, elle doit régulièrement faire des choix. C’est alors qu’intervient l’arbitrage,
+qui consiste à trancher entre différentes options qui présentent chacune des avantages.
+
+La notion d’arbitrage existe dans toutes les fonctions de l’organisation, mais elle est
+particulièrement centrale en gestion des opérations. On la trouvera donc, sous une
+forme ou sous une autre, dans tous les chapitres de ce livre. Qu’il s’agisse de concevoir
+le système opérationnel, de prévoir la demande ou de planifier les opérations, les
+gestionnaires des opérations et de la logistique sont constamment confrontés à des
+choix déchirants et à des questions auxquelles il n’y a pas qu’une seule bonne réponse.
+Par exemple :
+
+        Doit‐on prendre le risque d’augmenter la capacité en prévision de la demande
+         future, quitte à être en surcapacité si cette demande ne se réalise pas?
+
+
+
+1 Slack, N. et M. Lewis (2008). Operations Strategy, 2e éd., Harlow, Prentice‐Hall, 504 p., traduit par nous.
+
+
+                                                                                  29
+
+## Page 14
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                                 Vaut‐il mieux acheter le meilleur équipement en fonction des conditions
+                               actuelles de production, ou de l’équipement moins efficient dans l’immédiat
+                           mais qui pourra s’adapter si les conditions changent?
+
+                                      Est‐il préférable d’avoir plusieurs entrepôts pour réduire les coûts de transport
+                        ou de centraliser les stocks pour diminuer les coûts d’entreposage?
+
+                             Doit‐on refuser les modifications aux commandes pour stabiliser le calendrier
+                         de production ou satisfaire les clients quitte à augmenter les coûts?
+
+                                 Vaut‐il mieux avoir plusieurs fournisseurs pour les mêmes produits de manière
+                          à susciter la concurrence ou n’en avoir qu’un seul pour lequel on sera un client
+                                 privilégié?
+
+                     Les gestionnaires des opérations et de la logistique doivent d’abord reconnaître les
+                       situations d’arbitrage et accepter, d’entrée de jeu, que les solutions ne sont peut‐être
+                    pas simples ou évidentes. Les jeunes gestionnaires, en particulier, peuvent avoir du mal
+                   à tolérer l’ambiguïté et vouloir à tout prix trouver la solution idéale. Bien qu’il n’y ait pas
+                  de recette pour faire de bons choix, on peut suggérer quelques pistes :
+                   1) S’appuyer sur des faits : l’esprit humain a tendance à filtrer les informations
+                                 et à retenir davantage les cas extrêmes et les éléments négatifs. Plutôt que
+                           de se contenter de constats du genre « on manque toujours de tel ou tel
+                               produit » ou « ce fournisseur est toujours en retard », on ira vérifier si les
+                           données confirment ces impressions avant de décider quoi que ce soit;
+                   2) Tenir compte des intérêts en présence : la GOL doit coordonner ses décisions
+                            à celles des autres fonctions de l’organisation. Réduire la variété des produits
+                                 est avantageux au plan des opérations, mais peut être désastreux pour les
+                                ventes. Augmenter les stocks réduit les risques de pénuries et de retards de
+                                     livraison, mais paralyse des capitaux qui seraient peut‐être mieux investis
+                                      ailleurs. Avoir fréquemment recours au temps supplémentaire peut être
+                               souhaitable ou non selon la convention collective, l’état actuel des relations
+                          de travail ou les préférences des employés. Ultimement, c’est l’intérêt de
+                                  l’organisation dans son ensemble qui devrait primer;
+
+
+
+
+
+                   3) Évaluer les risques et, surtout, la capacité de l’organisation d’y faire face :
+                              par exemple, un mauvais choix d’équipement ou de capacité peut être fatal
+                            pour une petite entreprise, mais ne pas être très dommageable pour une
+                             grande entreprise en bonne santé financière;
+
+
+30
+
+## Page 15
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+    4) Se préparer à défendre ses choix : tout arbitrage implique que certaines
+          options sont rejetées, et ceux qui auraient bénéficié de ces options risquent
+           d’être mécontents. Les supérieurs hiérarchiques et les dirigeants voudront
+         eux aussi comprendre les choix qui ont été faits. La capacité de présenter clai‐
+         rement les avantages et inconvénients de chacune des options et d’appuyer le
+          choix final sur des données précises et des arguments solides est donc une
+           habileté essentielle des gestionnaires des opérations et de la logistique;
+    5) Renoncer à ce qui aurait pu être : la situation d’arbitrage implique aussi
+         qu’on ne peut pas tout avoir et qu’il faut renoncer aux avantages des options
+          qui n’ont pas été retenues. Cela peut sembler évident, mais il n’est pas facile
+          d’accepter de perdre certains clients, de décevoir des employés ou des col‐
+          lègues de travail, ou encore de freiner ses désirs d’expansion. Il n’est pas rare
+         que des choix pourtant fermes soient suivis de glissements et de furtifs
+          retours en arrière qui peuvent avoir des conséquences désastreuses.
+
+
+En reconnaissant la nécessité des arbitrages, en identifiant les enjeux prioritaires et en
+se préparant bien, on pourra réduire l’éparpillement et les incohérences lors de la prise
+de décision et vivre sereinement avec les choix qui seront faits.
+
+1.6 Les différents contextes
+   d’opération et leurs particularités
+
+Pour bien comprendre les chapitres qui vont suivre, il faut d’abord maîtriser certaines
+notions de base et comprendre les spécificités des opérations dans différents types
+d’organisations.
+
+Le secteur industriel
+
+Le secteur industriel, parfois appelé secteur manufacturier, est celui qui se consacre à la
+fabrication des biens. On entend par biens les objets physiques que les clients se procu‐
+rent pour un usage particulier, et qui possèdent un ensemble de caractéristiques qui les
+rendent aptes à l’usage auquel ils sont destinés. Il peut s’agir de biens de consommation
+achetés par la population en général, ou encore de biens utilisés par d’autres entreprises
+ou par des institutions (par exemple les fournitures médicales pour le secteur hospita‐
+lier). Dans tous les cas, les biens fabriqués sont les extrants d’un processus de transfor‐
+mation, tel que schématisé à la figure 1.2. Les biens sont tous fabriqués à partir
+d’intrants, c’est‐à‐dire d’un ensemble varié de matières premières (bois, métaux, fibres,
+produits chimiques, etc.), de pièces (fils électriques, semelles, pentures, boîtiers de plas‐
+tique, etc.), de composants déjà fabriqués (circuits électroniques, moteurs…) et de four‐
+nitures diverses (colles, étiquettes, vis…). Ces intrants vont se retrouver, plus ou moins
+transformés, à l’intérieur des produits finis. Entre les intrants et les extrants se trouve le
+processus de transformation, c’est‐à‐dire la succession des opérations qui modifient les
+intrants de manière à leur ajouter de la valeur et à obtenir les extrants. Dans le cas de la
+production des biens, la plupart des opérations entraînent une transformation phy‐
+sique : les matières sont mélangées, découpées, cuites… et changent ainsi d’état phy‐
+sique; les pièces et composants sont vissés, soudés, collés ensemble, etc. Par exemple,
+des copeaux de bois sont broyés et traités chimiquement pour obtenir une pulpe, la pâte
+à papier. Puis, pour fabriquer le papier, la pâte est étendue, pressée, séchée, égalisée
+
+
+                                                                                  31
+
+## Page 16
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                      puis enroulée. Enfin, l’imprimeur de circulaires reçoit ces énormes rouleaux et imprime
+                         le texte et les images sur le papier qui se déroule, puis le découpe en feuillets et plie ces
+                      derniers pour obtenir une circulaire prête à distribuer.
+
+
+     Figure 1.2     Le processus de fabrication des biens
+
+
+
+                                     Processus de transformation
+
+       INTRANTS
+      Matières premières              Opération     Opération             Opération              EXTRANTS
+            Pièces                     1            2      …        n                         Produits finis
+        Composants                                                                                        à valeur ajoutée
+          Fournitures
+
+
+
+
+                                          RESSOURCES
+                                                     Main-d'œuvre
+                                                     Équipement
+                                                              Énergie
+                                                                           etc.
+
+
+
+
+                   Pour réaliser les opérations qui forment le processus, il faut utiliser des ressources. Ces
+                     dernières sont tout aussi essentielles que les intrants à la fabrication des produits mais,
+                    contrairement à eux, on ne les retrouve pas en tant que telles dans les extrants. On
+                   entend habituellement par ressources le travail des employés à la production, les outils
+                      et l’équipement utilisés pour la fabrication, et l’énergie qui les alimente (électricité, gaz,
+                           etc.), mais on peut aussi y inclure les ressources indirectes (éclairage, chauffage, espace,
+                           etc.). L’ensemble structuré des ressources et moyens mis en place pour réaliser les pro‐
+                       duits constitue ce qu’on appelle le système opérationnel.
+
+                   Notons que le schéma de la figure 1.2 s’applique à la production de tous les types de
+                       biens, qu’il s’agisse de fabrication artisanale, manuelle et à très petit volume, ou de
+                       fabrication industrielle, mécanisée et à très grand volume.
+
+
+
+
+
+32
+
+## Page 17
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Les types de fabrication
+    1) Standard ou sur spécifications : les caractéristiques que doivent posséder les
+           produits, aussi appelées  spécifications, sont généralement établies par
+           l’entreprise qui les fabrique; on parle alors de production standard. D’autres
+           entreprises fabriquent des produits personnalisés, dont les caractéristiques
+          sont fixées par les clients; on parle alors de production sur spécifications. Par
+         exemple, la majorité des entreprises de l’industrie du vêtement fabriquent
+         des produits standards qu’on achète tels quels au magasin, mais on trouve
+           aussi des tailleurs et des couturiers qui confectionnent des vêtements parfai‐
+         tement adaptés aux goûts et à la taille du client. La production sur spécifica‐
+           tions se retrouve surtout chez les fabricants de pièces ou de composants, ou
+         encore chez les sous‐traitants, qui sont des entreprises industrielles fabri‐
+         quant des produits pour le compte d’autres entreprises, lesquelles en font
+          ensuite la mise en marché. Par exemple, les entreprises du secteur de l’élec‐
+          tronique confient à des fabricants spécialisés la production des circuits impri‐
+        més ayant le tracé et les particularités dont ils ont besoin. De même, certaines
+           entreprises du secteur du vêtement ne fabriquent pas elles‐mêmes les
+          produits qu’elles vendent sous leur marque, mais conçoivent les modèles et
+            les font faire par des sous‐traitants;
+
+    2) Fabrication pour les stocks, fabrication sur commande, assemblage sur
+        commande : il s’agit en fait de trois façons de déclencher la fabrication des
+           produits. Les entreprises qui fabriquent pour les stocks vont chercher à
+           prévoir la demande future et vont se baser sur ces prévisions pour produire
+         à l’avance les biens, qui seront ensuite stockés jusqu’au moment de la vente.
+         Ce mode de fabrication n’est approprié que pour les produits standards. Il
+          présente l’avantage de permettre de répondre rapidement à la demande des
+            clients (puisque les produits sont fabriqués à l’avance et prêts à être livrés) et
+         de planifier la production longtemps à l’avance. Par contre, si la demande
+         prévue ne se réalise pas, on risque de se retrouver avec des surplus de
+          marchandises.
+
+
+
+
+
+        À l’opposé, la fabrication sur commande consiste à ne produire qu’au moment
+        où l’on a reçu une commande ferme de la part d’un client. On l’utilise dans le
+          cas des produits fabriqués selon les spécifications du client ou pour les
+          produits semi‐standards (par exemple un modèle de divan standard, mais
+
+
+                                                                                  33
+
+## Page 18
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                            pour lequel le client choisit un tissu de recouvrement particulier). Certaines
+                                  petites entreprises qui ne disposent pas de moyens suffisants pour conserver
+                             des stocks peuvent aussi attendre de recevoir des commandes avant de
+                                fabriquer des produits standards. La fabrication sur commande réduit les
+                                 risques liés aux stocks mais allonge considérablement le délai entre la récep‐
+                                  tion de la commande et la livraison des produits finis aux clients, puisque ces
+                                derniers doivent attendre que les produits soient fabriqués. Entre ces deux
+                              extrêmes, on trouve l’assemblage sur commande. Ici, les composants qui
+                            forment les produits sont fabriqués à l’avance et stockés, mais on ne procède
+                            à l’assemblage final qu’une fois la commande reçue. Cette méthode est
+                                particulièrement  utile pour  les produits qui ont plusieurs composants
+                          communs. Par exemple, dans les restaurants McDonald’s, les galettes de
+                              viande sont cuites à l’avance et attendent bien au chaud d’être insérées dans
+                                    les différents types de hamburgers vendus par l’entreprise. Ainsi, l’entreprise
+                                 est capable d’offrir un service rapide puisque le client n’attend que le temps
+                                       qu’il faut pour assembler son hamburger, la partie la plus longue du processus
+                          de fabrication (la cuisson de la viande) ayant déjà eu lieu;
+
+                   3) Production par lots, production à l’unité, production continue : on appelle
+                                    lot un groupe de produits identiques qui passent ensemble par les mêmes
+                              étapes de fabrication. Lors de la production par lots, l’entreprise fabrique un
+                            à la suite de l’autre des lots de produits différents. Par exemple, un fabricant
+                           de soupes en conserve fera un lot de soupe aux légumes, un lot de soupe au
+                                 poulet, etc. Dans le même sens, une entreprise qui fabrique des imprimantes
+                            à jet d’encre pourra fabriquer un lot du modèle A, puis un lot du modèle D,
+                                    etc. Les lots peuvent ne compter que quelques unités ou encore des milliers
+                          de produits identiques. Dans la plupart des cas, le passage d’un lot au suivant
+                                 requiert d’effectuer une mise en route. La mise en route (ou mise en course)
+                                 est une étape de préparation et d’ajustement de l’équipement qui doit être
+                                     faite avant qu’on puisse commencer la production (par exemple, lorsqu’on
+                              passe d’un lot de soupe à l’autre, il faut nettoyer toutes les parties de l’équi‐
+                          pement qui sont en contact avec les aliments);
+
+
+
+
+
+34
+
+## Page 19
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+
+         Notons qu’on peut fabriquer par lots tant les produits standards que les
+          produits sur spécifications. Mais les entreprises ne produisent pas toutes par
+             lots. Certaines vont plutôt adopter la production à l’unité, qui consiste à ne
+          fabriquer à chaque fois qu’un seul exemplaire du produit. Ce type de fabrica‐
+           tion ne se retrouve normalement que dans la production sur commande ou
+         dans l’assemblage sur commande2. À l’autre extrême, si l’entreprise ne fa‐
+          brique qu’un seul produit standard, ou lorsqu’un de ses produits est fabriqué
+         en si grande quantité qu’on peut lui consacrer un groupe d’équipements qui
+         ne font rien d’autre, on parlera de production continue3.
+
+
+
+Comme on peut le constater, plusieurs éléments caractérisant les types de fabrication
+se recoupent; ils sont intégrés à la figure 1.3. La planification et le contrôle de la fabrica‐
+tion pour les stocks et de l’assemblage sur commande seront traités aux chapitres 4 et 5,
+alors que le chapitre 6 sera consacré à la planification et au contrôle de la production sur
+commande. Notons aussi que l’on reviendra sur les caractéristiques de ces types de
+fabrication et sur leurs conséquences au chapitre 8.
+
+
+    Figure 1.3     Synthèse des types de fabrication
+
+
+
+     Production à l’unité         Production par lots         Production continue
+
+
+
+                 Fabrication sur commande
+
+
+
+                                               Fabrication pour les stocks
+
+
+
+              Assemblage sur commande
+
+
+
+                                              Production standard
+
+
+
+               Production sur spécifications
+
+
+
+
+
+2 Sauf dans le cas des artistes et des artisans qui fabriquent des pièces uniques mais ne répondant pas à une
+demande précise d’un client.
+3 On prendra garde toutefois de ne pas confondre la production continue et le flux continu, dont il sera question au
+chapitre 8.
+
+                                                                                  35
+
+## Page 20
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+               Le secteur des services
+
+                    Contrairement aux entreprises industrielles qui vendent des biens tangibles, le secteur
+                   des services tire ses revenus (ou sa raison d’être, dans le cas des organisations sans but
+                          lucratif) du fait qu’il fournit à ses clients4 un ensemble d’avantages intangibles. Dans
+                       certains cas, les clients achètent un faire faire, c’est‐à‐dire qu’ils auraient pu réaliser le
+                       service eux‐mêmes mais choisissent de le confier à un fournisseur de services (par
+                    exemple, l’entretien ménager ou la préparation de la paye des employés). Dans d’autres
+                        cas, les clients achètent une expertise ou l’accès à des ressources qu’ils ne possèdent
+                    pas ou qu’ils sont forcés d’obtenir de l’externe; pensons ici aux soins médicaux, à la
+                     réparation d’automobiles ou d’équipements, à la location d’un camion, aux services
+                    d’enseignement ou à la vérification comptable, pour ne nommer que quelques exemples.
+
+                    La production des services requiert elle aussi la transformation d’intrants en extrants,
+                   mais le schéma de la figure 1.2 doit être modifié pour inclure certaines particularités,
+               comme l’illustre la figure 1.4. Comme pour les biens, le processus de transformation est
+                 composé d’une séquence d’opérations, mais la nature de ces opérations est plus variée.
+                  Dans certains cas, il peut s’agir de transformations physiques, comme pour les biens (par
+                  exemple la réparation ou le nettoyage d’un vêtement ou d’un appareil, une coupe de
+                   cheveux ou une chirurgie), mais on trouve aussi des transformations d’ordre psycholo‐
+                    gique ou intellectuel (dans l’industrie du divertissement, le secteur de l’assurance, les
+                        services‐conseils, l’enseignement…), des modifications de l’information (le traitement
+                  de données financières ou comptables, etc.), des changements de lieu (le transport des
+                   personnes ou des marchandises d’un endroit à l’autre), et bien d’autres encore.
+
+
+
+     Figure 1.4     Le processus de production des services
+
+
+
+
+                                       Processus de transformation
+
+      INTRANTS                                                                EXTRANTS
+
+      Le client lui-même             Opération    Opération             Opération               Le client transformé
+                                       …        Des biens ou                  1           2                   n                        Les biens ou
+       des informations                                                                                              informations du
+     appartenant au client                                                                                                          client transformés
+
+
+
+                                         RESSOURCES
+
+                                  Biens en       Le client lui-même
+                                support au       Main-d'œuvre
+                                      service          Équipement
+                                                                 Énergie
+                                                                              etc.
+
+
+
+
+
+                                      4 Pour alléger le texte, on inclura dans le terme clients les bénéficiaires des services non payants.
+
+36
+
+## Page 21
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Par ailleurs, les intrants ne sont pas toujours des biens tangibles et, surtout, ils sont four‐
+nis par les clients et non pas achetés par l’entreprise qui les transforme. Dans plusieurs
+services, surtout ceux offerts aux consommateurs, c’est le client lui‐même qui subit la
+transformation : soins médicaux, éducation, soins personnels (esthétique, coiffure,
+spa…), divertissements (cinéma, casino, bar, restaurant…), transport des personnes (par
+autobus, par avion…), et bien d’autres encore. Dans d’autres cas, ce sont des biens (au
+sens large) appartenant au client qui constituent les intrants : sa maison et son terrain
+(déneigement, entretien paysager, rénovation…), ses possessions (nettoyage à sec,
+réparation d’électroménagers ou d’équipement industriel, transport des marchandises,
+services bancaires…), ses enfants ou animaux (services de garde, soins vétérinaires…),
+ses employés (services de formation, assurances collectives…), etc. Il est aussi possible
+que la transformation porte sur les informations fournies par les clients : les données
+comptables sont transformées en rapports d’impôt et en états financiers vérifiés, les
+données sur le travail des employés sont transformées en chèques de paye, les informa‐
+tions sur les problèmes rencontrés servent de base aux conseils
+donnés par des psychologues, des avocats, des consultants, etc.
+Ainsi, puisque c’est le client qui fournit l’intrant et que l’extrant
+n’est autre que l’intrant transformé, on ne peut pas dire que le
+client des services achète un extrant : ce qu’il achète, c’est la
+transformation elle‐même.
+
+La nature particulière des intrants du service a des conséquences
+importantes pour la GOL. D’abord, on ne peut pas procéder à la
+transformation s’il n’y a pas de client pour fournir les intrants. De
+plus, si l’intrant est le client lui‐même, cela implique qu’il est
+présent pendant la transformation. Lorsqu’on achète des biens, il
+est très rare que l’on voie l’usine où ils sont fabriqués, mais dans
+le cas des services, le client voit le système opérationnel. L’équi‐
+pement et l’aménagement des lieux doivent donc tenir compte à la fois de l’aspect fonc‐
+tionnel pour les employés mais aussi de l’aspect esthétique pour les clients. Dans le
+même ordre d’idées, c’est maintenant le client qui passe par toutes les étapes du
+processus. S’il y a des temps d’attente, c’est lui qui attend. Par exemple, dans une usine,
+on peut interrompre la fabrication d’un lot si un employé doit s’absenter, empiler les
+produits en cours et attendre plusieurs heures avant de continuer; on ne pourrait pas
+imaginer un salon de coiffure où la cliente attendrait debout pendant 30 minutes entre
+sa coloration et son shampoing! Quant à l’employé qui travaille à la production du
+service, qu’on appelle prestataire de services, il doit maîtriser les aspects techniques de
+son travail, mais aussi être capable d’interagir avec le client en étant poli, empressé,
+empathique et souriant. Du reste, le client évaluera la qualité du service non seulement
+sur la réalisation correcte de la transformation demandée au départ, mais sur l’ensemble
+de l’expérience qu’il aura vécue. Enfin, si les intrants de la transformation sont des biens
+ou des informations qui appartiennent au client, il faut que l’organisation en prenne le
+plus grand soin; elle ne doit ni les perdre, ni les abimer, ni (dans le cas des informations)
+les rendre accessibles à des tiers.
+
+La figure 1.4 diffère aussi de la figure 1.2 quant aux ressources de production. Comme
+pour les biens, la réalisation des services requiert le travail d’employés. Les prestataires
+de services peuvent être directement en contact avec les clients (on dit alors qu’ils
+travaillent à l’« avant‐scène ») ou encore réaliser des opérations dites d’« arrière‐
+
+
+
+                                                                                  37
+
+## Page 22
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                    scène » (par exemple les cuisiniers dans un restaurant, les mécaniciens dans un garage,
+                         les employés du Service des compensations dans une banque, etc.). Il faut aussi des
+                         outils et de l’équipement, de même que de l’énergie.
+
+
+
+
+
+                À ces ressources s’ajoute aussi, dans certains services, la possibilité de faire participer le
+                         client lui‐même à la réalisation du service. Dans la restauration rapide, par exemple, on
+                      s’attend à ce que le client aille au comptoir de service, consulte seul le menu, apporte
+                         les plats à sa table et mette ensuite ses déchets à la poubelle. Pour bien faire son travail,
+                         le consultant en gestion a besoin que les dirigeants lui transmettent des demandes
+                         claires et des informations véridiques et précises, et qu’ils acceptent ensuite d’écouter
+                    ce qu’il a à dire et d’y réfléchir. Dans plusieurs secteurs des services, on a même éliminé
+                   presque entièrement les prestataires à l’avant‐scène et l’on demande aux clients de faire
+                  eux‐mêmes tout le travail : c’est ce qu’on appelle le libre‐service. Pour que les opérations
+                  de libre‐service connaissent du succès, il faut toutefois que les étapes du processus et
+                         les supports physiques soient conçus en fonction des besoins et des capacités physiques
+                      et intellectuelles des clients, et que ces derniers puissent facilement trouver de l’aide en
+                     cas de problème.
+
+                     Finalement, on aura constaté que le schéma de la figure 1.4 comporte un bloc de plus
+                  que celui de la figure 1.2 : les biens en support au service. Même si les services sont
+                      constitués d’un ensemble d’avantages intangibles, un de ces avantages peut être l’accès
+                   à des biens et même, dans certains cas, leur consommation. Par exemple, les entreprises
+                  de location (de véhicules, d’outils, d’équipement, d’espace d’entreposage, etc.) vendent
+                 non pas ces objets eux‐mêmes mais la possibilité d’en disposer pendant un certain
+                    temps. C’est aussi le cas des hôtels (on loue l’accès à une chambre ou à une salle de
+                     réunion) et de l’immobilier locatif (la location de bureaux, d’espaces commerciaux ou
+                     d’appartements). Dans l’industrie du divertissement, l’accès à un lieu qui permet de
+                     s’évader ou de se plonger dans une ambiance particulière fait partie intégrante du
+                       service rendu. On pensera notamment aux parcs d’attractions, aux stades sportifs, aux
+                  musées et aux bars. Dans le secteur de la restauration, le client ne fait pas qu’acheter un
+                       plat préparé (ce qui lui évite de se faire à manger et lui donne accès à l’expertise d’un
+                     chef cuisinier), il loue un espace et une ambiance de consommation qui lui permettent
+                  de passer une soirée avec un groupe d’amis. Autrement dit, les biens en support au
+                       service incluent l’ensemble de l’aménagement, du mobilier et des technologies situés à
+                      l’avant‐scène du service, tous les objets prêtés ou loués aux clients, de même que tous
+                         les biens consommés par le client pendant la réalisation du service (aliments, boissons,
+                       fournitures, etc.).
+
+
+
+
+38
+
+## Page 23
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Le secteur commercial
+
+Le secteur commercial (distributeurs et détaillants) est un cas particulier des services.
+Ostensiblement, les clients y achètent des biens, mais ces biens ne sont pas fabriqués
+par les commerçants (et donc, ils ne sont pas leurs extrants). La valeur que les commer‐
+çants ajoutent, et qui justifie un prix de vente plus élevé que celui du fabricant, est bel
+et bien constituée d’un ensemble d’avantages intangibles. Considérons l’exemple d’un
+supermarché : les clients en ressortent avec des sacs remplis de biens tangibles, mais ce
+que le supermarché a véritablement offert, c’est la variété des produits (viandes et
+produits laitiers, frais et en conserve, nombreuses marques et formats…), la disponibilité
+immédiate (on n’a qu’à prendre les produits sur les tablettes et passer à la caisse), la
+proximité du domicile, le fractionnement des lots (on peut acheter sans problème une
+seule pomme ou un seul pot de cornichons), et ce, sans compter les services plus évi‐
+dents (livraison, retour des contenants vides, dégustations, stationnement, etc.). En ce
+sens,  il est indéniable que les distributeurs et les détaillants sont des entreprises de
+services. Par contre, il est plus difficile de dire que l’intrant est fourni par les clients. En
+fait, il s’agit d’un service d’intermédiation entre des fabricants qui ont des biens à distri‐
+buer et des clients qui veulent les acheter, et l’on pourrait dire que les deux parties sont
+à la fois les intrants et les extrants du processus : le producteur possédant les biens et le
+client qui ne les possède pas sont « transformés » par le transfert des biens de l’un à
+l’autre. Le commerçant facilite la transaction et y sert d’intermédiaire, de la même façon
+que la banque sert d’intermédiaire entre des prêteurs et des emprunteurs.
+
+Du point de vue de la GOL, le secteur commercial chevauche les opérations industrielles
+et de services. D’un côté, on y retrouve, et de manière très intensive, la plupart des
+activités logistiques propres au secteur manufacturier : prévision de la demande, gestion
+des stocks, planification des activités de transport et de distribution, déchargement et
+déballage, retour des articles invendus, etc. De l’autre côté, dans le cas du commerce de
+détail (et chez certains distributeurs), le client doit se rendre sur les lieux (physiques ou
+virtuels, dans le cas du commerce en ligne) et s’y déplacer pour chercher ce qu’il veut,
+puis passer à la caisse. Le processus de recherche et d’achat doit donc être conçu en
+fonction de la présence du client et du travail qu’on exige de lui.
+
+
+
+
+
+1.7 La gestion de la chaîne logistique
+
+Une bonne partie du travail quotidien des gestionnaires des opérations consiste à
+s’occuper d’un aspect ou l’autre de la chaîne logistique. Le terme logistique vient du
+domaine militaire, où cette activité consiste à organiser et à fournir aux soldats en mis‐
+sion tout ce dont ils ont besoin pour vivre et pour faire leur travail efficacement (muni‐
+tions, aliments, tentes, véhicules, etc.). La logistique a un sens similaire en gestion
+
+
+                                                                                  39
+
+## Page 24
+       1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                            puisqu’elle est responsable de l’obtention et de l’acheminement de tous les biens maté‐
+                                 riels et services dont l’organisation a besoin pour fonctionner efficacement, pour réaliser
+                          ses propres produits et pour les livrer à ses clients. Une façon simple de résumer le tout
+                           est de dire que la logistique a pour but de livrer le bon produit au bon endroit, au bon
+                     moment, en bonne quantité, en bon état et au moindre coût possible.
+
+                      Chaque organisation fait partie d’une chaîne logistique, tel qu’illustré à la figure 1.5. Le
+                          point de départ du schéma est situé au centre de la chaîne et constitué par notre entre‐
+                              prise. Pour fonctionner, notre entreprise a besoin d’une variété de matières premières,
+                      de fournitures, de sources d’énergie et de services qu’elle se procure auprès des entre‐
+                            prises qui constituent la chaîne logistique en amont (ou chaîne d’approvisionnement).
+                         Par exemple, si notre entreprise utilise des pièces en plastique, elle se les procure
+                       probablement auprès d’une autre entreprise qui, elle, fabrique ces pièces. Pour les
+                            fabriquer, cette dernière doit elle aussi s’approvisionner auprès de fournisseurs de plas‐
+                          tique brut. On remonte ainsi la chaîne jusqu’à la source, l’extraction du pétrole qui est à
+                                la base de la synthèse des matières plastiques. Tout au long de cette chaîne logistique
+                      en amont, les matières circulent d’amont en aval (flèche orangée), alors que les infor‐
+                        mations qui permettent de les obtenir circulent dans les deux directions (flèche bleue).
+                         Entre les entreprises industrielles qui composent la chaîne, différents modes de trans‐
+                          port (qui appartiennent le plus souvent à des entreprises de services spécialisées dans
+                        ce domaine) sont utilisés pour acheminer les produits. La gestion de la chaîne logistique
+                      en amont consiste donc à planifier, à coordonner et à contrôler toutes les activités qui
+                          assurent que les produits désirés parviendront à notre entreprise au bon moment, dans
+                                la bonne quantité, en bon état et de la manière la plus économique possible.
+
+
+
+   Figure 1.5     La chaîne logistique globale
+
+
+
+
+
+                           Chaîne logistique en amont
+
+                                 Flux d’information
+ Chaîne                                                                             Chaîne
+logistique                                                  Notre entreprise                     logistique
+à rebours                                                                                   interne
+                                 Flux d’information
+
+                                Chaîne logistique en aval
+
+
+
+
+
+    40
+
+## Page 25
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Puis, au sein de notre entreprise, on trouvera la chaîne logistique interne, qui assure le
+flux des matières et de l'information entre les étapes de transformation par lesquelles
+on réalise nos produits et on les prépare pour la distribution. La gestion de cette chaîne
+interne inclut toutes les activités liées à l’approvisionnement, à la planification et au
+contrôle des opérations, à la gestion des stocks et à la planification de la distribution aux
+clients. Autrement dit, on vise ici à ce que chacune des étapes de transformation
+obtienne elle aussi les matières et produits en cours dont elle a besoin pour travailler, et
+ce, toujours au bon moment, au bon endroit, en bonne quantité, etc.
+
+Dès que les produits sortent de nos installations, ils entrent dans la chaîne logistique en
+aval (ou chaîne de distribution), qui peut être plus ou moins longue selon le nombre
+d’intermédiaires qui séparent notre usine des utilisateurs finaux de nos produits. Si notre
+entreprise fabrique des biens de consommation courante, nos produits seront probable‐
+ment livrés à des distributeurs, puis à des détaillants. Toutefois, notre entreprise pour‐
+rait elle‐même être située en amont d’autres fabricants; pour reprendre notre exemple,
+peut‐être que les pièces de plastique que nous avons achetées servent à fabriquer des
+batteries qui sont destinées à l’industrie automobile. À la figure 1.5, nous avons mis
+notre entreprise au centre de la chaîne logistique, mais elle peut être située n’importe
+où : l’entreprise de pétrochimie qui fabrique le plastique a une longue chaîne logistique
+en aval mais une courte chaîne en amont, alors que le détaillant en pièces d’auto qui
+vend aux garagistes ou aux particuliers est à la toute fin de la chaîne, et c’est sa chaîne
+logistique en amont qui est longue.
+
+Il existe enfin une quatrième chaîne, la chaîne logistique à rebours. La figure 1.5 indique
+que son point de départ est le consommateur final qui met ses déchets au recyclage,
+mais en fait, la chaîne à rebours peut partir de n’importe quelle organisation qui
+retourne des matières aux entreprises situées en amont. Ces retours peuvent être des
+surplus de marchandises, ou encore des contenants ou des matériaux d’emballage. Il
+peut aussi s’agir de déchets recyclables qui sont confiés à des firmes spécialisées dans la
+récupération des matières et qui les réinsèrent ensuite dans la chaîne. Ensemble, la
+logistique en amont, en aval et à rebours forment la chaîne logistique externe (par
+opposition à la chaîne logistique interne), et en mettant ensemble la chaîne interne et la
+chaîne externe, on obtient la chaîne logistique globale. Plus largement encore, l’entre‐
+croisement des chaînes logistiques forme un vaste réseau logistique composé de
+l’ensemble des entreprises qui se fournissent l’une l’autre des biens et des services.
+
+La mondialisation des rapports commerciaux et la délo‐
+calisation de certaines  activités de production ont
+rendu plus complexe et plus importante que jamais la
+gestion de la chaîne logistique. La majorité des biens qui
+nous entourent sont constitués de matières et de pièces
+qui viennent d’un peu partout dans le monde, et beau‐
+coup d’entre eux ont été assemblés à l’étranger. La plu‐
+part sont passés par de multiples étapes de transport et
+d’entreposage. Heureusement, l’évolution récente et
+continue des technologies de l’information et des com‐
+munications soutient le travail des gestionnaires de la
+logistique. Par exemple, le flux des matières peut être
+suivi de près grâce au RFID et au GPS, et le flux des
+informations est facilité par les systèmes d’échange
+électronique des données et par Internet. La numé‐
+
+
+                                                                                  41
+
+## Page 26
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                        risation des informations a joué un rôle central dans l’évolution des pratiques logistiques :
+                         elle a permis de partager et d’intégrer les informations détenues par les différentes
+                      entreprises qui forment la chaîne, ce qui s’est traduit par la possibilité d’intégrer aussi le
+                         flux des matières. Si l’on reprend l’exemple de notre entreprise (figure 1.5), au lieu
+                     d’essayer de prévoir la demande provenant du distributeur, qui lui essaie de prévoir la
+                 demande du détaillant, on peut obtenir en temps réel des informations sur les transac‐
+                       tions réalisées au point de vente (on sait qu’une unité est vendue dès que son code‐
+                     barres est balayé à la caisse) et, en fonction de l’état des stocks du distributeur (aussi
+                      disponible en temps réel), commencer à planifier la production. C’est ce qu’on appelle
+                          la chaîne logistique intégrée.
+
+                    Le pilotage de la chaîne logistique interne représente une bonne partie du travail quoti‐
+                     dien des gestionnaires des opérations et de la logistique. Les décisions qu’on y prend
+                     sont surtout d’ordre tactique, c’est‐à‐dire qu’elles visent à mettre en œuvre les décisions
+                       stratégiques. Nous consacrerons à ces décisions toute la première partie du livre. Le
+                      chapitre 3 traitera de la gestion des stocks, les chapitres 4, 5 et 6 approfondiront les
+                       différentes étapes de planification et de contrôle de la production et des matières, alors
+                  que le chapitre 7 portera sur l’approvisionnement et présentera un survol des activités
+                  de distribution.  Ils seront précédés d’un chapitre sur la prévision de la demande
+                      (chapitre  2), toute planification devant s’appuyer sur une bonne estimation des
+                     quantités requises. Soulignons que la logistique externe, la logistique à rebours et l’inté‐
+                      gration de la chaîne logistique ne seront pas traitées dans ce manuel, mais le lecteur
+                   peut se référer à de nombreux ouvrages spécialisés sur le sujet.
+
+              1.8 La conception et l’amélioration
+              du système opérationnel
+
+                       Tel que défini précédemment, le système opérationnel est constitué de l’ensemble
+                      structuré des ressources et moyens mis en place pour réaliser les produits (biens ou
+                        services). Au moment de sa création, chaque organisation doit élaborer et mettre en
+                     place son système opérationnel, puis voir à ce qu’il soit continuellement amélioré et
+                      réajusté en fonction des changements de l’environnement et de l’évolution des besoins.
+                                       Il s’agit là essentiellement de décisions stratégiques et structurelles, auxquelles s’ajoutent
+                       certains choix tactiques. Par exemple, les gestionnaires doivent se demander :
+
+                           Quels biens allons‐nous fabriquer et quels services allons‐nous offrir?
+
+                          Quel volume de production voulons‐nous atteindre?
+
+                             Quelles sont les grandes étapes du processus de réalisation des biens et des
+                               services et comment doit‐on les agencer?
+
+                           Quels procédés, quelles technologies et quelles méthodes de travail devrions‐
+                          nous adopter?
+
+                      Comment les lieux de production et de service seront‐ils aménagés?
+
+                         En fonction des choix qui sont faits, combien faudra‐t‐il de temps pour fabriquer
+                         chaque produit ou servir chaque client? Aurons‐nous une capacité suffisante
+                          pour répondre à la demande?
+
+
+
+42
+
+## Page 27
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+      Comment va‐t‐on procéder pour s’assurer que les biens et les services sont de
+          la qualité désirée?
+
+       Quels moyens mettra‐t‐on en place pour assurer que les éléments qui compo‐
+        sent le système opérationnel feront l’objet de révisions régulières et qu’on cher‐
+        chera à les améliorer?
+
+Comme on peut le voir, il s’agit de choix majeurs. La plupart de ces décisions entraînent
+des investissements importants et ne peuvent pas être changées facilement. Elles ont
+donc des conséquences à moyen et à long terme sur la capacité de l’organisation à
+atteindre ses objectifs stratégiques. Enfin, ces décisions sont interreliées, comme
+l’illustre la figure 1.6.
+
+
+                   Les décisions de conception    Figure 1.6
+                du système opérationnel et leurs interrelations
+
+
+  Amélioration
+                                                                             Organisation
+                                                                 du travail
+    Gestion de la
+        qualité
+
+
+                                  Procédés/
+                                                         Technologies
+                              Méthodes
+
+       Produits
+       (biens et
+       services)                                Processus                       Capacité
+
+
+
+
+
+                                   Aménagement
+
+
+
+
+
+Il va de soi que la conception et la mise en place du système opérationnel précèdent
+dans le temps le pilotage quotidien des opérations, mais comme ce sont des activités de
+gestion moins fréquentes et qui sont généralement prises par des gestionnaires plus
+expérimentés, nous avons choisi de les présenter en deuxième partie. Ainsi, le chapitre 8
+abordera la conception et l’évolution des produits. On y verra comment ces derniers
+sont liés aux procédés, méthodes et technologies à employer, et au processus de pro‐
+duction dans son ensemble. L’aménagement étant aussi lié au choix du processus et aux
+produits eux‐mêmes, il sera également présenté dans ce chapitre. Ensuite, le chapitre 9
+traitera plus finement de l’organisation du travail et du calcul du temps standard (en
+gros, le temps requis pour fabriquer une unité ou servir un client). Lorsqu’on considère
+
+
+
+                                                                                  43
+
+## Page 28
+   1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+                   simultanément les choix de processus et d’aménagement, de même que le temps stan‐
+                      dard, on peut déterminer la capacité de production et analyser les éléments qui
+                        l’influencent. Finalement, le chapitre 10 présentera les systèmes de gestion de la qualité
+                      et les méthodes de contrôle de la qualité des produits et des procédés. On y approfon‐
+                       dira aussi les notions d’amélioration qui auront été introduites au chapitre 9. Au fur et à
+                  mesure qu’on avancera dans ces chapitres, on comprendra mieux les nombreux liens
+                     présentés à la figure 1.6, de même que l’importance des arbitrages et de la cohérence
+                        lors des décisions de conception et d’amélioration du système opérationnel.
+
+              1.9 Synthèse du chapitre
+
+                    Puisque toutes les organisations tirent leurs revenus ou leur raison d’être de la réalisa‐
+                       tion de biens ou de services, elles doivent toutes gérer des opérations. Les grandes
+                      entreprises et un nombre croissant de PME, particulièrement dans le secteur industriel,
+                      confient ce travail à des spécialistes de la GOL. Ces derniers voient d’abord à mettre en
+                     place un système opérationnel bien conçu, qui pourra à la fois atteindre les cibles fixées
+                   pour chacun des attributs stratégiques et obtenir un bon niveau de productivité. Mais le
+                moment de vérité survient lors de la production des biens et des services : c’est là que
+                         le travail quotidien des gestionnaires des opérations assure que les activités se déroulent
+                  de manière efficace et efficiente.
+
+                   Malheureusement, beaucoup d’organisations de services n’ont pas encore pris l’habitude
+                   d’embaucher des spécialistes de la GOL; elles confient souvent ce travail à des employés
+                     qui y travaillent depuis longtemps et ont gravi les échelons. On croit que seuls ceux qui
+                     connaissent à fond leur secteur d’activité sont en mesure de comprendre et de bien
+                     gérer les opérations de service. C’est parfois vrai, mais ces organisations se privent ainsi
+                   des avantages que pourraient leur apporter des diplômés maîtrisant les méthodes de
+                      gestion des stocks, les principes d’un sain approvisionnement, les techniques de planifi‐
+                      cation du travail et de préparation des horaires, les outils de calcul et de gestion des files
+                       d’attente, les secrets de la gestion de la qualité, et bien d’autres encore. Toutefois, si
+                          l’histoire se répète, on devrait retrouver d’ici quelques années davantage de spécialistes
+                  de la GOL dans les entreprises de services. Rappelons‐nous qu’il y a 40 ans à peine, les
+                       dirigeants d’usines croyaient fermement que seuls les ingénieurs industriels étaient
+                     capables de gérer les opérations. Or, de nos jours, les ingénieurs et les diplômés en GOL
+                        travaillent côte à côte, et leurs expertises se complètent. Il faut donc être patient et
+                   démontrer constamment ce que les connaissances spécifiques à la GOL peuvent ap‐
+                       porter.
+
+                    Par ailleurs, même si l’on considère généralement les entreprises industrielles et de
+                       services comme deux catégories distinctes et ayant chacune leurs particularités, il y a
+                  beaucoup de chevauchements. D’abord, pratiquement toutes les entreprises indus‐
+                           trielles offrent certains services, ne serait‐ce que les facilités de paiement, la livraison ou
+                         le service après‐vente. Bon nombre de fabricants d’équipements proposent aussi des
+                       services d’installation ou de formation, ou encore des programmes d’entretien. À
+                         l’inverse, rares sont les services qui n’ont pas à effectuer certaines transformations phy‐
+                     siques sur des biens, ne serait‐ce que l’entretien des lieux et des supports physiques
+                       (mobilier, accessoires, outils, matériel roulant, équipement…). Dans d’autres cas, la pres‐
+                       tation de service elle‐même requiert des transformations physiques dont les exigences
+                     sont similaires aux opérations industrielles. C’est le cas de la restauration, mais aussi des
+                       services de réparation, des buanderies commerciales, etc.
+
+
+44
+
+## Page 29
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Il y a une vingtaine d’années à peine, on différenciait la production des biens de celle des
+services par la notion de tangibilité : les biens étaient tangibles, alors que les services ne
+l’étaient pas. Toutefois, le phénomène dit de dématérialisation a permis l’apparition de
+« biens intangibles ». Les livres, les magazines et les journaux sont de plus en plus rem‐
+placés par des fichiers numériques, et il en va de même de la musique, des vidéos et des
+logiciels, que l’on télécharge directement plutôt que de les acheter sous forme tangible.
+Notons que ces produits peuvent encore être qualifiés de « biens », puisqu’ils sont
+conçus et réalisés indépendamment de la demande du client, et offerts une fois ter‐
+minés. Leur distribution, cependant, prend maintenant la forme d’un service de location
+des fichiers numériques (dont on peut se servir mais qu’on ne peut pas prêter à d’autres)
+plutôt que de la vente de produits numériques qui nous appartiennent en propre et dont
+on peut disposer comme on veut.
+
+Finalement, que l’on considère la production des biens ou celle des services, la plupart
+des principes et des méthodes de gestion des opérations et de la logistique sont fonda‐
+mentalement les mêmes. C’est pourquoi cet ouvrage ne consacre pas de chapitre parti‐
+culier à la gestion des entreprises de services; on cherchera plutôt, dans chaque chapitre,
+à illustrer comment les concepts et les outils s’appliquent à chaque secteur, et à fournir
+des exemples provenant de diverses industries.
+
+
+
+
+
+                                                                                  45
+
+## Page 30
+  1   La gestion des opérations et de la logistique : méthodes et principes fondamentaux
+
+
+ Questions de révision
+
+ Vrai ou faux?
+
+      1. Le terme produit désigne seulement les biens tangibles; si l’entreprise réalise des
+          services, on ne peut pas dire qu’il s’agit de produits.
+
+      2. Les gestionnaires des opérations et de la logistique entretiennent des liens étroits avec
+          les gestionnaires de toutes les autres fonctions de l’organisation.
+
+      3. La GOL s’est développée en intégrant un ensemble de découvertes techniques et de
+         connaissances sur les aspects sociaux et stratégiques des organisations.
+
+      4. Les attributs stratégiques sont composés de six variables clés : la qualité, les délais, le
+        volume, le prix, la variété et la flexibilité.
+
+      5. L’efficacité, c’est bien faire les choses alors que l’efficience, c’est faire la bonne chose.
+
+      6. Compte tenu de l’importance de la technologie sur les opérations, c’est nécessairement
+         l’élément de l’environnement PESTEL qui a le plus d’influence sur la GOL.
+
+      7. La stratégie des opérations est choisie par les dirigeants de l’organisation et appliquée
+           telle quelle par les gestionnaires et les employés travaillant aux opérations et à la logis‐
+          tique.
+
+      8. La notion d’arbitrage réfère au fait qu’il faut parfois trancher entre différentes options,
+         et donc privilégier certains objectifs au détriment des autres.
+
+      9. Dans le contexte d’assemblage sur commande, l’entreprise utilise les prévisions de
+       demande pour fabriquer et stocker les composants, puis procède à l’assemblage une
+          fois que les commandes sont reçues.
+
+    10. Un lot est un groupe de produits identiques et qui passent ensemble par les mêmes
+        étapes de transformation.
+
+    11. Dans les entreprises de services, les clients achètent les extrants de la transformation.
+
+    12. Les biens en support au service désignent toutes les matières qui sont transformées
+        pour réaliser les extrants.
+
+    13. La chaîne logistique en amont est constituée des entreprises qui distribuent et vendent
+          les biens fabriqués par les entreprises situées en aval.
+
+    14. Dans la chaîne logistique, le flux des informations va dans les deux directions : d’amont
+       en aval et d’aval en amont.
+
+    15. Le phénomène de dématérialisation réfère à l’apparition de biens intangibles, tels que
+          les fichiers texte, musicaux et vidéo qu’on peut télécharger plutôt que de les acheter
+       en format physique.
+
+
+
+46
+
+## Page 31
+                                            Introduction à la gestion des opérations et de la logistique  1
+
+
+Problème résolu
+
+1. McDonald’s du Canada
+
+Le texte est tiré du site web de l’entreprise :
+
+C’est en 1967 que le premier restaurant McDonald’s à l’extérieur des États‐Unis ouvre ses portes, à Richmond,
+en Colombie‐Britannique. Chaque jour depuis, McDonald’s du Canada est fière de proposer à ses clients le
+même bon goût, le même rapport qualité‐prix avantageux, la même qualité et le même service supérieur qui
+ont façonné la renommée de McDonald’s à l’échelle mondiale. Aujourd’hui, McDonald’s compte plus de
+1 400 restaurants au Canada, dessert environ trois millions de Canadiens et Canadiennes, chaque jour, et
+emploie environ 77 000 Canadiens d’un bout à l’autre du pays.
+
+Si McDonald’s devait dévoiler la recette de ses fameux hamburgers, vous seriez surpris de leur courte liste
+d’ingrédients. Nos hamburgers sont faits uniquement de bœuf pur à 100 % et assaisonnés de sel et de poivre
+en restaurant. C’est tout. Aucun additif, aucun agent de remplissage, aucun agent liant. Chaque pâté est
+façonné à l’aide d’un appareil spécialisé. Lorsque vous commandez un hamburger chez McDonald’s,  il est
+préparé comme vous l’aimez. Il est cuit sur un gril à rabat et garni des condiments de votre choix avant de vous
+être servi. La préparation d’un hamburger peut sembler simple, mais avant qu’un sandwich Big Mac®, par
+exemple, ne soit servi à un client, il a fait l’objet de plus de 60 vérifications différentes de qualité et d’hygiène
+alimentaire. Nous prenons notre bœuf au sérieux.
+
+À partir de l’information présentée et de vos connaissances et expériences chez McDonald’s, répondez aux
+questions suivantes :
+
+   1.1 Faites un dessin illustrant la chaîne logistique d’un sandwich Big Mac du premier fournisseur de
+       matières premières jusqu’au client final.
+
+   1.2 Quelles sont les raisons qui poussent les entreprises (dont McDonald’s) à gérer activement leur chaîne
+        logistique? Donnez et expliquez deux raisons pertinentes.
+
+   1.3 McDonald’s offre à ses clients des produits et des services. En considérant exclusivement l’offre de
+        services de McDonald’s, quels sont les intrants, la transformation centrale et les extrants du processus
+         réalisé par les restaurants McDonald’s?
+
+   1.4 Comment l’entreprise se positionne‐t‐elle en regard des attributs stratégiques?
+
+   1.5 Expliquez comment l’impossibilité de stocker le service offert par McDonald’s affecte la gestion des
+        opérations des restaurants. Mentionnez de quelle manière McDonald’s s’ajuste à cette réalité.
+
+   1.6 Expliquez comment l’implication du client dans le processus de service offert par McDonald’s affecte
+         la gestion des opérations des restaurants. Mentionnez de quelle manière McDonald’s s’ajuste à cette
+         réalité.
+
+   1.7 Donnez deux exemples de l’environnement technologique du système opérationnel de McDonald’s
+        et expliquez comment ces deux éléments influencent les opérations des restaurants McDonald’s.
+
+   1.8 Présentez et décrivez trois responsabilités de la fonction logistique chez McDonald’s.
+
+
+
+
+
+                                                                                  47

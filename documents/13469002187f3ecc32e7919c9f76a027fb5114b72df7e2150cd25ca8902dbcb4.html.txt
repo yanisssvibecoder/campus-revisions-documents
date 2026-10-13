@@ -1,0 +1,1219 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Finance — Ch. 5 & 6 : La valeur de l'argent dans le temps</title>
+<style>
+/* ============================================================
+   SYSTÈME DE DESIGN
+   ============================================================ */
+:root{
+  --bg:#f6f5f1; --bg2:#ffffff; --card:#ffffff; --ink:#1c1917; --ink2:#57534e;
+  --muted:#78716c; --line:#e7e5e4; --line2:#d6d3d1;
+  --teal:#0d9488; --teal-d:#0f766e; --teal-soft:#ccfbf1;
+  --indigo:#4f46e5; --indigo-soft:#e0e7ff;
+  --gold:#d97706; --gold-soft:#fef3c7;
+  --red:#dc2626; --red-soft:#fee2e2;
+  --green:#16a34a; --green-soft:#dcfce7;
+  --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px -12px rgba(0,0,0,.18);
+  --shadow-lg:0 10px 40px -12px rgba(0,0,0,.28);
+  --radius:18px; --radius-sm:12px;
+  --serif:"Iowan Old Style","Palatino Linotype",Palatino,Georgia,"Times New Roman",serif;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  --mono:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+}
+[data-theme="dark"]{
+  --bg:#14120f; --bg2:#1c1a17; --card:#211e1a; --ink:#f5f3ef; --ink2:#c9c4bc;
+  --muted:#a8a29e; --line:#332f2a; --line2:#443f38;
+  --teal:#2dd4bf; --teal-d:#5eead4; --teal-soft:#0f2f2b;
+  --indigo:#a5b4fc; --indigo-soft:#1e1b4b;
+  --gold:#fbbf24; --gold-soft:#3a2c0a;
+  --red:#f87171; --red-soft:#3b1414; --green:#4ade80; --green-soft:#0f2b18;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 10px 30px -14px rgba(0,0,0,.7);
+  --shadow-lg:0 14px 50px -14px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:80px}
+body{
+  margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);
+  line-height:1.7;font-size:17px;-webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+h1,h2,h3,h4{font-family:var(--serif);line-height:1.2;font-weight:700}
+.wrap{max-width:1080px;margin:0 auto;padding:0 22px}
+sup{font-size:.72em}
+::selection{background:var(--teal-soft);color:var(--teal-d)}
+
+/* ---------- Barre de progression ---------- */
+#progress{position:fixed;top:0;left:0;height:4px;width:0;z-index:200;
+  background:linear-gradient(90deg,var(--teal),var(--indigo),var(--gold));transition:width .1s}
+
+/* ---------- En-tête / nav ---------- */
+header.top{position:sticky;top:0;z-index:150;background:color-mix(in srgb,var(--bg) 88%,transparent);
+  backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:14px;height:60px}
+.brand{font-family:var(--serif);font-weight:700;font-size:1.05rem;display:flex;align-items:center;gap:9px}
+.brand .dot{width:26px;height:26px;border-radius:8px;background:linear-gradient(135deg,var(--teal),var(--indigo));
+  display:grid;place-items:center;color:#fff;font-size:14px;box-shadow:var(--shadow)}
+.top nav{margin-left:auto;display:flex;gap:6px;align-items:center}
+.top nav a{font-size:.83rem;color:var(--ink2);text-decoration:none;padding:7px 11px;border-radius:9px;font-weight:600}
+.top nav a:hover{background:var(--bg2);color:var(--ink)}
+.tbtn{border:1px solid var(--line2);background:var(--bg2);color:var(--ink);width:38px;height:38px;border-radius:10px;
+  cursor:pointer;font-size:16px;display:grid;place-items:center}
+.tbtn:hover{border-color:var(--teal)}
+@media(max-width:820px){.top nav a{display:none}}
+
+/* ---------- Hero ---------- */
+.hero{padding:70px 0 40px;position:relative;overflow:hidden}
+.hero:before{content:"";position:absolute;inset:0;background:
+  radial-gradient(60% 55% at 15% 0%,var(--teal-soft) 0,transparent 60%),
+  radial-gradient(55% 55% at 92% 10%,var(--indigo-soft) 0,transparent 60%);opacity:.6;z-index:-1}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-weight:700;letter-spacing:.06em;
+  text-transform:uppercase;font-size:.72rem;color:var(--teal-d);background:var(--teal-soft);
+  padding:6px 12px;border-radius:999px}
+.hero h1{font-size:clamp(2.1rem,5.5vw,3.4rem);margin:18px 0 10px;letter-spacing:-.02em}
+.hero p.lead{font-size:1.15rem;color:var(--ink2);max-width:640px}
+.hero .meta{margin-top:22px;display:flex;flex-wrap:wrap;gap:10px}
+.pill{background:var(--bg2);border:1px solid var(--line);border-radius:999px;padding:7px 14px;font-size:.85rem;
+  font-weight:600;display:inline-flex;gap:7px;align-items:center}
+
+/* ---------- Table des matières ---------- */
+.toc{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px 24px;
+  margin:30px 0;box-shadow:var(--shadow)}
+.toc h4{margin:0 0 14px;font-size:1rem;display:flex;align-items:center;gap:8px}
+.toc ol{margin:0;padding:0;list-style:none;display:grid;grid-template-columns:1fr 1fr;gap:6px 26px;counter-reset:t}
+.toc a{counter-increment:t;text-decoration:none;color:var(--ink2);font-size:.92rem;padding:5px 0;
+  display:flex;gap:10px;border-bottom:1px dashed transparent}
+.toc a:before{content:counter(t);font-variant-numeric:tabular-nums;color:var(--teal);font-weight:700;
+  min-width:20px}
+.toc a:hover{color:var(--ink)}
+@media(max-width:640px){.toc ol{grid-template-columns:1fr}}
+
+/* ---------- Sections ---------- */
+section{padding:44px 0;border-top:1px solid var(--line)}
+.chap-tag{display:inline-block;font-size:.75rem;font-weight:800;letter-spacing:.08em;text-transform:uppercase;
+  padding:5px 11px;border-radius:8px;margin-bottom:14px}
+.tag5{background:var(--teal-soft);color:var(--teal-d)}
+.tag6{background:var(--indigo-soft);color:var(--indigo)}
+section h2{font-size:clamp(1.5rem,3.6vw,2.1rem);margin:.1em 0 .3em;letter-spacing:-.01em}
+section h3{font-size:1.28rem;margin:1.8em 0 .5em;display:flex;gap:10px;align-items:baseline}
+section h3 .n{color:var(--teal);font-family:var(--mono);font-size:.95rem;font-weight:700}
+p{margin:.7em 0}
+
+/* ---------- Reveal on scroll ---------- */
+.reveal{opacity:0;transform:translateY(22px);transition:opacity .6s ease,transform .6s ease}
+.reveal.in{opacity:1;transform:none}
+
+/* ---------- Blocs pédagogiques ---------- */
+.box{border-radius:var(--radius);padding:20px 22px;margin:20px 0;border:1px solid var(--line);background:var(--card);
+  box-shadow:var(--shadow)}
+.box .lbl{font-weight:800;font-size:.78rem;letter-spacing:.05em;text-transform:uppercase;display:flex;gap:8px;
+  align-items:center;margin-bottom:8px}
+.analogy{background:linear-gradient(180deg,var(--gold-soft),var(--card));border-color:color-mix(in srgb,var(--gold) 30%,var(--line))}
+.analogy .lbl{color:var(--gold)}
+.keyidea{background:linear-gradient(180deg,var(--teal-soft),var(--card));border-color:color-mix(in srgb,var(--teal) 28%,var(--line))}
+.keyidea .lbl{color:var(--teal-d)}
+.warn{background:linear-gradient(180deg,var(--red-soft),var(--card));border-color:color-mix(in srgb,var(--red) 30%,var(--line))}
+.warn .lbl{color:var(--red)}
+.summary{background:linear-gradient(180deg,var(--indigo-soft),var(--card));border-color:color-mix(in srgb,var(--indigo) 28%,var(--line))}
+.summary .lbl{color:var(--indigo)}
+
+/* ---------- Formules ---------- */
+.formula{background:var(--bg2);border:1px solid var(--line2);border-radius:14px;padding:18px 20px;margin:16px 0;
+  position:relative;overflow-x:auto}
+.formula .fname{position:absolute;top:-11px;left:16px;background:var(--teal);color:#fff;font-size:.72rem;
+  font-weight:700;padding:3px 10px;border-radius:7px;letter-spacing:.03em}
+.formula .fref{position:absolute;top:-11px;right:16px;background:var(--ink);color:var(--bg);font-size:.7rem;
+  font-family:var(--mono);padding:3px 8px;border-radius:7px}
+.eq{font-family:var(--serif);font-size:1.45rem;text-align:center;padding:14px 4px 6px;letter-spacing:.01em;
+  display:flex;justify-content:center;align-items:center;gap:.35em;flex-wrap:wrap}
+.frac{display:inline-flex;flex-direction:column;text-align:center;vertical-align:middle;margin:0 .18em}
+.frac .num{border-bottom:2px solid currentColor;padding:0 .5em .12em}
+.frac .den{padding:.12em .5em 0}
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px;padding-top:12px;border-top:1px dashed var(--line2)}
+.legend .chip{font-size:.82rem;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:5px 10px}
+.legend .chip b{color:var(--teal-d);font-family:var(--serif)}
+
+/* ---------- Calculatrices ---------- */
+.calc{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;margin:22px 0;
+  box-shadow:var(--shadow);border-top:4px solid var(--indigo)}
+.calc h4{margin:0 0 4px;font-size:1.12rem;display:flex;gap:9px;align-items:center}
+.calc .hint{font-size:.85rem;color:var(--muted);margin:0 0 16px}
+.calc-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+@media(max-width:720px){.calc-grid{grid-template-columns:1fr}}
+.ctrl{margin:12px 0}
+.ctrl label{display:flex;justify-content:space-between;font-size:.85rem;font-weight:700;margin-bottom:5px;color:var(--ink2)}
+.ctrl label .val{color:var(--indigo);font-family:var(--mono);font-variant-numeric:tabular-nums}
+.ctrl input[type=range]{width:100%;accent-color:var(--indigo);height:6px}
+.ctrl input[type=number],.ctrl select{width:100%;padding:9px 11px;border:1px solid var(--line2);border-radius:10px;
+  background:var(--bg2);color:var(--ink);font-size:.95rem;font-family:var(--mono)}
+.seg{display:inline-flex;background:var(--bg2);border:1px solid var(--line2);border-radius:10px;padding:3px;gap:3px;flex-wrap:wrap}
+.seg button{border:0;background:transparent;color:var(--ink2);padding:7px 12px;border-radius:8px;cursor:pointer;
+  font-weight:700;font-size:.82rem}
+.seg button.on{background:var(--indigo);color:#fff}
+.result{background:var(--bg2);border-radius:14px;padding:18px;display:flex;flex-direction:column;justify-content:center}
+.result .big{font-size:2.1rem;font-weight:800;font-family:var(--serif);color:var(--teal-d);
+  font-variant-numeric:tabular-nums;letter-spacing:-.01em}
+.result .sub{font-size:.86rem;color:var(--muted);margin-top:2px}
+.workline{font-family:var(--mono);font-size:.82rem;color:var(--ink2);margin-top:14px;background:var(--card);
+  border:1px solid var(--line);border-radius:10px;padding:11px 13px;line-height:1.9;overflow-x:auto;white-space:nowrap}
+
+/* ---------- Graphiques ---------- */
+.chartbox{margin-top:16px}
+.chartbox svg{width:100%;height:auto;display:block;overflow:visible}
+.bar{transition:height .7s cubic-bezier(.16,1,.3,1),y .7s cubic-bezier(.16,1,.3,1)}
+
+/* ---------- Ligne du temps ---------- */
+.timeline svg{width:100%;height:auto;overflow:visible}
+
+/* ---------- Tableaux ---------- */
+.tablewrap{overflow-x:auto;margin:18px 0;border:1px solid var(--line);border-radius:14px}
+table{border-collapse:collapse;width:100%;font-size:.9rem;font-variant-numeric:tabular-nums}
+th,td{padding:9px 13px;text-align:right;border-bottom:1px solid var(--line)}
+th:first-child,td:first-child{text-align:left}
+thead th{background:var(--bg2);font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.03em;color:var(--ink2);position:sticky;top:0}
+tbody tr:hover{background:var(--bg2)}
+tfoot td{font-weight:800;border-top:2px solid var(--line2);background:var(--bg2)}
+td.pos{color:var(--teal-d)} td.cap{color:var(--indigo)} td.int{color:var(--gold)}
+tr.amrow{opacity:0;transform:translateX(-8px);transition:.4s}
+tr.amrow.in{opacity:1;transform:none}
+
+/* ---------- Exemples dépliables ---------- */
+.ex{border:1px solid var(--line);border-radius:14px;margin:12px 0;overflow:hidden;background:var(--card)}
+.ex>summary{cursor:pointer;padding:15px 18px;font-weight:700;list-style:none;display:flex;align-items:center;gap:12px}
+.ex>summary::-webkit-details-marker{display:none}
+.ex>summary .badge{font-size:.72rem;font-weight:800;background:var(--teal-soft);color:var(--teal-d);padding:3px 9px;border-radius:7px;white-space:nowrap}
+.ex>summary .chev{margin-left:auto;transition:.3s;color:var(--muted)}
+.ex[open]>summary .chev{transform:rotate(90deg)}
+.ex .body{padding:2px 18px 18px;border-top:1px solid var(--line);color:var(--ink2)}
+.ex .body .step{background:var(--bg2);border-left:3px solid var(--teal);padding:8px 13px;margin:9px 0;border-radius:0 9px 9px 0;
+  font-family:var(--mono);font-size:.84rem;overflow-x:auto}
+.ex .body .ans{font-weight:800;color:var(--teal-d)}
+
+/* ---------- Quiz ---------- */
+.quiz{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);padding:22px;margin:20px 0;box-shadow:var(--shadow);border-top:4px solid var(--gold)}
+.quiz .q{font-weight:700;margin-bottom:12px}
+.quiz .opts{display:grid;gap:9px}
+.quiz .opt{border:1px solid var(--line2);border-radius:11px;padding:11px 14px;cursor:pointer;background:var(--bg2);
+  font-size:.93rem;transition:.15s;text-align:left;font-family:inherit;color:var(--ink)}
+.quiz .opt:hover{border-color:var(--gold)}
+.quiz .opt.correct{background:var(--green-soft);border-color:var(--green);color:var(--ink)}
+.quiz .opt.wrong{background:var(--red-soft);border-color:var(--red)}
+.quiz .fb{margin-top:12px;font-size:.9rem;padding:11px 14px;border-radius:11px;display:none}
+.quiz .fb.show{display:block}
+.quiz .fb.ok{background:var(--green-soft)} .quiz .fb.no{background:var(--red-soft)}
+
+/* ---------- Cartes concept ---------- */
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:18px 0}
+@media(max-width:640px){.grid2{grid-template-columns:1fr}}
+.mini{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px 18px;box-shadow:var(--shadow)}
+.mini h5{margin:0 0 6px;font-size:1rem;font-family:var(--serif)}
+.mini p{margin:0;font-size:.88rem;color:var(--ink2)}
+
+/* ---------- Formulaire récap ---------- */
+.sheet{columns:2;column-gap:26px}
+@media(max-width:720px){.sheet{columns:1}}
+.sheet .f{break-inside:avoid;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:13px 15px;margin-bottom:14px}
+.sheet .f b{color:var(--teal-d);font-family:var(--serif)}
+.sheet .f code{font-family:var(--mono);font-size:.86rem;color:var(--ink)}
+
+/* ---------- Footer / retour ---------- */
+footer{padding:50px 0 70px;text-align:center;color:var(--muted);font-size:.86rem;border-top:1px solid var(--line)}
+#totop{position:fixed;bottom:24px;right:24px;width:46px;height:46px;border-radius:50%;background:var(--teal);color:#fff;
+  border:0;cursor:pointer;font-size:20px;box-shadow:var(--shadow-lg);opacity:0;pointer-events:none;transition:.3s;z-index:120}
+#totop.show{opacity:1;pointer-events:auto}
+.t4{color:var(--muted);font-size:.8rem;font-style:italic}
+mark{background:var(--gold-soft);color:inherit;padding:.05em .3em;border-radius:5px}
+strong{color:var(--ink)}
+</style>
+</head>
+<body>
+<div id="progress"></div>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand"><span class="dot">$</span> Finance · Valeur de l'argent</div>
+    <nav>
+      <a href="#principe">Principe</a>
+      <a href="#ch5">Chapitre 5</a>
+      <a href="#ch6">Chapitre 6</a>
+      <a href="#formulaire">Formulaire</a>
+    </nav>
+    <button class="tbtn" id="theme" title="Mode clair / sombre">🌙</button>
+  </div>
+</header>
+
+<!-- ============ HERO ============ -->
+<div class="hero">
+  <div class="wrap">
+    <span class="eyebrow">📗 Gestion financière · 4ᵉ éd.</span>
+    <h1>La valeur de l'argent dans le temps</h1>
+    <p class="lead">Tout ce qu'il faut comprendre des <strong>chapitres 5 et 6</strong> — expliqué à partir de zéro, avec des analogies, des calculatrices animées, chaque formule décortiquée et des dizaines d'exemples tirés de ton manuel.</p>
+    <div class="meta">
+      <span class="pill">🎯 Zéro connaissance requise</span>
+      <span class="pill">🧮 Calculatrices interactives</span>
+      <span class="pill">📐 Toutes les formules</span>
+      <span class="pill">✅ Quiz d'auto-évaluation</span>
+    </div>
+
+    <div class="toc">
+      <h4>🗺️ Ton parcours</h4>
+      <ol>
+        <li><a href="#principe">L'idée maîtresse : 1 $ aujourd'hui &gt; 1 $ demain</a></li>
+        <li><a href="#interets">Intérêts simples vs composés</a></li>
+        <li><a href="#vc">Valeur capitalisée (VC) — faire grossir l'argent</a></li>
+        <li><a href="#va">Valeur actualisée (VA) — ramener au présent</a></li>
+        <li><a href="#rt">Trouver le taux (r) ou la durée (t)</a></li>
+        <li><a href="#ex5">Exemples résolus + quiz — Chapitre 5</a></li>
+        <li><a href="#multiples">Flux monétaires multiples</a></li>
+        <li><a href="#annuites">Annuités (VA, VC, début de période)</a></li>
+        <li><a href="#perpetuites">Perpétuités &amp; flux croissants</a></li>
+        <li><a href="#taux">Taux nominal vs taux EFFECTIF 💳</a></li>
+        <li><a href="#prets">Prêts &amp; tableau d'amortissement</a></li>
+        <li><a href="#ex6">Exemples résolus + quiz — Chapitre 6</a></li>
+        <li><a href="#formulaire">Formulaire récapitulatif</a></li>
+        <li><a href="#glossaire">Glossaire express</a></li>
+      </ol>
+    </div>
+  </div>
+</div>
+
+<div class="wrap">
+
+<!-- ============ PRINCIPE ============ -->
+<section id="principe">
+  <span class="chap-tag tag5">Le point de départ</span>
+  <h2>L'idée maîtresse : un dollar aujourd'hui vaut plus qu'un dollar demain</h2>
+
+  <div class="box analogy reveal">
+    <div class="lbl">🍰 Analogie</div>
+    <p>Imagine que je te propose un choix : <strong>100 $ maintenant</strong>, ou <strong>100 $ dans un an</strong>. Tu prends « maintenant », évidemment. Pourquoi ? Parce que les 100 $ d'aujourd'hui, tu peux les <strong>placer</strong> et ils vont <strong>grossir tout seuls</strong> grâce aux intérêts. Dans un an, tu aurais peut-être 110 $. Donc 100 $ aujourd'hui « valent » plus que 100 $ plus tard.</p>
+  </div>
+
+  <div class="box keyidea reveal">
+    <div class="lbl">💡 Le principe (valeur temporelle de l'argent)</div>
+    <p>L'argent a une <strong>valeur qui dépend du <em>moment</em></strong> où on le reçoit. Tout le chapitre 5 sert à mettre un chiffre exact sur ce compromis « argent maintenant ↔ argent plus tard ». On fait deux mouvements dans le temps :</p>
+    <div class="grid2" style="margin-top:14px">
+      <div class="mini"><h5>➡️ Capitaliser</h5><p>Prendre de l'argent d'<strong>aujourd'hui</strong> et calculer combien il vaudra <strong>plus tard</strong>. On <em>ajoute</em> les intérêts.</p></div>
+      <div class="mini"><h5>⬅️ Actualiser</h5><p>Prendre de l'argent du <strong>futur</strong> et calculer combien il vaut <strong>aujourd'hui</strong>. On <em>enlève</em> les intérêts.</p></div>
+    </div>
+  </div>
+  <p class="t4">Objectifs du chapitre 5 (OA) : OA1 trouver la valeur capitalisée · OA2 trouver la valeur actualisée · OA3 trouver le taux de rendement · OA4 trouver la durée.</p>
+</section>
+
+<!-- ============ INTÉRÊTS ============ -->
+<section id="interets">
+  <span class="chap-tag tag5">Chapitre 5 · §5.1</span>
+  <h2>Intérêts simples vs intérêts composés</h2>
+  <p>C'est LA distinction de départ. La différence a l'air minuscule au début… puis elle devient gigantesque avec le temps. C'est « la magie des intérêts composés ».</p>
+
+  <div class="grid2 reveal">
+    <div class="mini"><h5>Intérêts simples</h5><p>Les intérêts sont calculés <strong>seulement sur le capital de départ</strong>. Chaque année, le même montant. On ne réinvestit pas les intérêts.</p></div>
+    <div class="mini"><h5>Intérêts composés</h5><p>Les intérêts sont calculés sur le capital <strong>+ les intérêts déjà accumulés</strong>. On gagne des <mark>« intérêts sur les intérêts »</mark>. Ça s'appelle la <strong>capitalisation</strong>.</p></div>
+  </div>
+
+  <div class="box analogy reveal">
+    <div class="lbl">🍰 Analogie — la boule de neige</div>
+    <p>Intérêt simple = tu ajoutes chaque année une <strong>couche de neige de même épaisseur</strong>. Intérêt composé = tu fais <strong>rouler une boule de neige</strong> : plus elle est grosse, plus elle ramasse de neige à chaque tour. Elle grossit de plus en plus vite.</p>
+  </div>
+
+  <h3><span class="n">Ex.</span> 100 $ à 10 % — vois la différence se creuser</h3>
+  <p>Ton manuel (Tableau 5.1) suit 100 $ placés à 10 %. Regarde la colonne « intérêts composés » : elle est à 0 la 1ʳᵉ année, puis grandit chaque année (0 → 1,00 → 2,10 → 3,31 → 4,64 $), alors que l'intérêt simple reste bloqué à 10 $/an.</p>
+
+  <div class="calc reveal">
+    <h4>🎬 Le comparateur simple vs composé</h4>
+    <p class="hint">Bouge les curseurs. Regarde les deux courbes s'écarter : l'écart, c'est l'« intérêt sur intérêt ».</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Capital de départ <span class="val" id="ci_c_v">100 $</span></label><input type="range" id="ci_c" min="50" max="5000" step="50" value="100"></div>
+        <div class="ctrl"><label>Taux annuel <span class="val" id="ci_r_v">10 %</span></label><input type="range" id="ci_r" min="1" max="25" step="0.5" value="10"></div>
+        <div class="ctrl"><label>Durée <span class="val" id="ci_t_v">20 ans</span></label><input type="range" id="ci_t" min="1" max="50" step="1" value="20"></div>
+        <div class="result">
+          <div class="big" id="ci_comp">—</div><div class="sub">Valeur avec intérêts <strong>composés</strong></div>
+          <div class="workline" id="ci_work"></div>
+        </div>
+      </div>
+      <div class="chartbox" id="ci_chart"></div>
+    </div>
+  </div>
+
+  <div class="box summary reveal"><div class="lbl">✅ En gros, retiens que…</div>
+    <p>Intérêt simple = ligne droite. Intérêt composé = courbe qui accélère. Plus la <strong>durée</strong> et le <strong>taux</strong> sont grands, plus l'écart explose. C'est pourquoi placer tôt change tout.</p></div>
+</section>
+
+<!-- ============ VC ============ -->
+<section id="vc">
+  <span class="chap-tag tag5">Chapitre 5 · §5.1</span>
+  <h2>Valeur capitalisée (VC) : combien vaudra mon argent plus tard ?</h2>
+  <p>La <strong>valeur capitalisée</strong> (aussi « valeur future ») répond à : « si je place C dollars aujourd'hui à un taux r, combien j'aurai après t périodes ? »</p>
+
+  <div class="formula reveal">
+    <span class="fname">Valeur capitalisée</span><span class="fref">[5.1]</span>
+    <div class="eq">VC<sub>t</sub> = C × (1 + r)<sup>t</sup></div>
+    <div class="legend">
+      <span class="chip"><b>VC<sub>t</sub></b> = ce que tu auras après t périodes</span>
+      <span class="chip"><b>C</b> = capital placé aujourd'hui</span>
+      <span class="chip"><b>r</b> = taux d'intérêt par période (ex. 0,10)</span>
+      <span class="chip"><b>t</b> = nombre de périodes (souvent des années)</span>
+      <span class="chip">(1+r)<sup>t</sup> = <b>facteur de capitalisation</b></span>
+    </div>
+  </div>
+
+  <div class="box keyidea reveal"><div class="lbl">🔑 Comment lire la formule</div>
+    <p>Le cœur, c'est <strong>(1 + r)<sup>t</sup></strong>. Le « 1 » garde ton capital, le « r » ajoute les intérêts, et l'exposant « <sup>t</sup> » veut dire « on répète ça t fois de suite » — c'est ça qui fait la boule de neige. Multiplie ton capital par ce facteur et tu obtiens la valeur future.</p></div>
+
+  <h3><span class="n">Pas à pas</span> 100 $ à 10 % pendant 5 ans</h3>
+  <div class="box reveal">
+    <div class="workline" style="white-space:normal">
+      1️⃣ Facteur : (1 + 0,10)<sup>5</sup> = (1,10)<sup>5</sup> = <strong>1,6105</strong><br>
+      2️⃣ Multiplie : VC = 100 $ × 1,6105 = <strong class="ans" style="color:var(--teal-d)">161,05 $</strong><br>
+      3️⃣ Intérêts totaux = 161,05 − 100 = 61,05 $ · dont 50 $ « simples » (5 × 10 $) et <strong>11,05 $</strong> d'intérêts composés.
+    </div>
+  </div>
+
+  <div class="calc reveal">
+    <h4>🧮 Calculatrice — Valeur capitalisée</h4>
+    <p class="hint">Change les valeurs : le résultat et la ligne du temps s'animent.</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Capital aujourd'hui (C) <span class="val" id="fv_c_v"></span></label><input type="number" id="fv_c" value="100" step="50"></div>
+        <div class="ctrl"><label>Taux par période (r) <span class="val" id="fv_r_v">10 %</span></label><input type="range" id="fv_r" min="0.5" max="25" step="0.5" value="10"></div>
+        <div class="ctrl"><label>Nombre de périodes (t) <span class="val" id="fv_t_v">5</span></label><input type="range" id="fv_t" min="1" max="40" step="1" value="5"></div>
+        <div class="result">
+          <div class="big" id="fv_out">—</div><div class="sub">Valeur capitalisée VC<sub>t</sub></div>
+          <div class="workline" id="fv_work"></div>
+        </div>
+      </div>
+      <div class="timeline" id="fv_tl"></div>
+    </div>
+  </div>
+
+  <div class="box analogy reveal"><div class="lbl">🏆 Exemple marquant du livre — la Coupe Stanley</div>
+    <p>Lord Stanley a payé <strong>48,67 $</strong> pour la coupe il y a 120 ans. À 10 % par an : facteur (1,10)<sup>120</sup> = 92 709 → VC = 48,67 × 92 709 ≈ <strong>4 512 150 $</strong> ! Un petit montant + beaucoup de temps + les intérêts composés = une fortune.</p></div>
+</section>
+
+<!-- ============ VA ============ -->
+<section id="va">
+  <span class="chap-tag tag5">Chapitre 5 · §5.2</span>
+  <h2>Valeur actualisée (VA) : combien vaut aujourd'hui de l'argent futur ?</h2>
+  <p>C'est l'<strong>opération inverse</strong>. On connaît une somme <em>future</em> et on veut savoir combien il faut mettre <em>aujourd'hui</em> pour l'obtenir. On « actualise » = on retire les intérêts.</p>
+
+  <div class="formula reveal">
+    <span class="fname">Valeur actualisée</span><span class="fref">[5.2]</span>
+    <div class="eq">VA = <span class="frac"><span class="num">C</span><span class="den">(1 + r)<sup>t</sup></span></span></div>
+    <div class="legend">
+      <span class="chip"><b>VA</b> = valeur aujourd'hui</span>
+      <span class="chip"><b>C</b> = somme reçue dans le futur</span>
+      <span class="chip"><b>r</b> = taux d'actualisation par période</span>
+      <span class="chip"><b>t</b> = nombre de périodes avant de la recevoir</span>
+      <span class="chip">1/(1+r)<sup>t</sup> = <b>facteur d'actualisation</b></span>
+    </div>
+  </div>
+
+  <div class="box keyidea reveal"><div class="lbl">🔑 Capitaliser et actualiser sont deux directions d'une même route</div>
+    <p>Capitaliser = <strong>multiplier</strong> par (1+r)<sup>t</sup> pour avancer dans le temps. Actualiser = <strong>diviser</strong> par (1+r)<sup>t</sup> pour reculer dans le temps. C'est l'<strong>équation de base</strong> [5.3] : VA × (1+r)<sup>t</sup> = VC<sub>t</sub>. Avec elle, si tu connais 3 des 4 valeurs (VA, VC, r, t), tu trouves la 4ᵉ.</p></div>
+
+  <h3><span class="n">Pas à pas</span> J'ai besoin de 400 $ dans 1 an, taux 4 %</h3>
+  <div class="box reveal"><div class="workline" style="white-space:normal">
+    VA × 1,04 = 400 $ &nbsp;→&nbsp; VA = 400 ÷ 1,04 = <strong class="ans" style="color:var(--teal-d)">384,62 $</strong>.<br>
+    Autrement dit, <strong>384,62 $ aujourd'hui</strong> = 400 $ dans un an (à 4 %). Les deux ont la « même valeur » à des moments différents.
+  </div></div>
+
+  <div class="calc reveal">
+    <h4>🧮 Calculatrice — Valeur actualisée</h4>
+    <p class="hint">Combien investir aujourd'hui pour obtenir une somme cible plus tard ?</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Somme future visée (C) <span class="val" id="pv_c_v"></span></label><input type="number" id="pv_c" value="1000" step="100"></div>
+        <div class="ctrl"><label>Taux d'actualisation (r) <span class="val" id="pv_r_v">10 %</span></label><input type="range" id="pv_r" min="0.5" max="25" step="0.5" value="10"></div>
+        <div class="ctrl"><label>Périodes avant réception (t) <span class="val" id="pv_t_v">5</span></label><input type="range" id="pv_t" min="1" max="40" step="1" value="5"></div>
+        <div class="result">
+          <div class="big" id="pv_out">—</div><div class="sub">Valeur actualisée VA (à investir aujourd'hui)</div>
+          <div class="workline" id="pv_work"></div>
+        </div>
+      </div>
+      <div class="chartbox" id="pv_chart"></div>
+    </div>
+  </div>
+
+  <div class="box summary reveal"><div class="lbl">✅ En gros, retiens que…</div>
+    <p>Plus le <strong>taux</strong> est élevé et plus le <strong>délai (t)</strong> est long, plus la valeur actualisée est <strong>petite</strong> : de l'argent très lointain ne vaut presque rien aujourd'hui. VA et r sont <em>inversement</em> liés.</p></div>
+</section>
+
+<!-- ============ TROUVER r ET t ============ -->
+<section id="rt">
+  <span class="chap-tag tag5">Chapitre 5 · §5.3</span>
+  <h2>Trouver le taux (r) ou la durée (t) qui manque</h2>
+  <p>L'équation de base a 4 variables. On a vu comment trouver VC et VA. Voici les deux dernières inconnues.</p>
+
+  <div class="grid2">
+    <div class="formula reveal" style="margin:0">
+      <span class="fname">Trouver le taux r</span>
+      <div class="eq" style="font-size:1.2rem">1 + r = <span class="frac"><span class="num">VC<sub>t</sub></span><span class="den">VA</span></span><sup> 1/t</sup></div>
+      <p style="font-size:.82rem;color:var(--muted);margin:8px 0 0">On prend la <strong>racine t-ième</strong> du rapport « ce que ça devient ÷ ce que ça coûte ».</p>
+    </div>
+    <div class="formula reveal" style="margin:0">
+      <span class="fname">Trouver la durée t</span>
+      <div class="eq" style="font-size:1.2rem">t = <span class="frac"><span class="num">ln(VC<sub>t</sub> / VA)</span><span class="den">ln(1 + r)</span></span></div>
+      <p style="font-size:.82rem;color:var(--muted);margin:8px 0 0">On utilise le <strong>logarithme</strong> (touche ln) pour « faire descendre » l'exposant t.</p>
+    </div>
+  </div>
+
+  <div class="box analogy reveal"><div class="lbl">⚡ Le raccourci magique — la Règle de 72</div>
+    <p>Envie de savoir en combien de temps ton argent <strong>double</strong> ? Divise 72 par le taux (en %).</p>
+    <div class="eq" style="font-size:1.3rem;margin:6px 0">Durée pour doubler ≈ <span class="frac"><span class="num">72</span><span class="den">r&nbsp;(%)</span></span></div>
+    <p style="font-size:.9rem;margin:0">Ex. à 9 % : 72 ÷ 9 = <strong>8 ans</strong> pour doubler. Précis pour des taux de 5 % à 20 %.</p>
+  </div>
+
+  <div class="calc reveal">
+    <h4>🧮 Résolveur universel — trouve l'inconnue</h4>
+    <p class="hint">Choisis ce que tu cherches, entre les 3 autres valeurs.</p>
+    <div class="seg" id="solve_mode" style="margin-bottom:14px">
+      <button data-m="r" class="on">Trouver le taux r</button>
+      <button data-m="t">Trouver la durée t</button>
+    </div>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Valeur aujourd'hui (VA) <span class="val" id="sv_va_v"></span></label><input type="number" id="sv_va" value="100" step="50"></div>
+        <div class="ctrl"><label>Valeur future (VC) <span class="val" id="sv_vc_v"></span></label><input type="number" id="sv_vc" value="200" step="50"></div>
+        <div class="ctrl" id="sv_t_wrap"><label>Durée t (périodes) <span class="val" id="sv_t_v">8</span></label><input type="range" id="sv_t" min="1" max="40" step="1" value="8"></div>
+        <div class="ctrl" id="sv_r_wrap" style="display:none"><label>Taux r <span class="val" id="sv_r_v">9 %</span></label><input type="range" id="sv_r" min="0.5" max="25" step="0.5" value="9"></div>
+      </div>
+      <div class="result">
+        <div class="big" id="sv_out">—</div><div class="sub" id="sv_sub"></div>
+        <div class="workline" id="sv_work"></div>
+      </div>
+    </div>
+  </div>
+  <p class="t4">Exemple du livre : la veste <em>Thriller</em> de Michael Jackson — 20 000 $ en 1983, revendue 1,8 M$ en 2011 (28 ans). (1+r)<sup>28</sup> = 90 → r = 17,43 % par an.</p>
+</section>
+
+<!-- ============ EXEMPLES CH5 ============ -->
+<section id="ex5">
+  <span class="chap-tag tag5">Chapitre 5 · exercices</span>
+  <h2>Exemples résolus du chapitre 5</h2>
+  <p>Chaque exemple vient de ton manuel, avec les vrais chiffres. Clique pour dérouler la solution.</p>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 5.1</span> Les intérêts sur intérêts <span class="chev">▶</span></summary>
+    <div class="body"><p>325 $ à 8 %, 2 ans. Montant final ? part composée ?</p>
+      <div class="step">An 1 : 325 × 1,08 = 351 $<br>An 2 : 351 × 1,08 = <span class="ans">379,08 $</span><br>Intérêts simples : 2 × 26 = 52 $ · Intérêts composés : 54,08 − 52 = <span class="ans">2,08 $</span></div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 5.2</span> La croissance sur 7 ans <span class="chev">▶</span></summary>
+    <div class="body"><p>400 $ à 12 %. Valeur dans 3 ans ? dans 7 ans ?</p>
+      <div class="step">3 ans : 400 × 1,12³ = 400 × 1,4049 = <span class="ans">561,97 $</span><br>7 ans : 400 × 1,12⁷ = 400 × 2,2107 = <span class="ans">884,27 $</span> (a plus que doublé)</div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 5.6</span> Épargner pour une voiture <span class="chev">▶</span></summary>
+    <div class="body"><p>Voiture 68 500 $ dans 2 ans, taux 9 %. Combien investir aujourd'hui ?</p>
+      <div class="step">VA = 68 500 ÷ (1,09)² = 68 500 ÷ 1,1881 = <span class="ans">57 655,08 $</span><br>Avec 50 000 $ en poche → il <strong>manque ≈ 7 655 $</strong>.</div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 5.10</span> Épargner pour les études <span class="chev">▶</span></summary>
+    <div class="body"><p>Besoin de 100 000 $ dans 8 ans, on a 45 000 $. Taux minimal requis ?</p>
+      <div class="step">45 000 × (1+r)⁸ = 100 000 → (1+r)⁸ = 2,2222<br>(1+r) = 2,2222<sup>1/8</sup> = 1,1050 → <span class="ans">r = 10,50 %</span></div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 5.12</span> En attendant Godot (trouver t) <span class="chev">▶</span></summary>
+    <div class="body"><p>Acheter à 10 M$, on a 2,3 M$. Durée d'attente selon le taux ?</p>
+      <div class="step">À 5 % : (1,05)<sup>t</sup> = 10/2,3 = 4,33 → <span class="ans">t ≈ 30 ans</span><br>À 16 % : <span class="ans">t ≈ 10 ans</span> (un meilleur taux = beaucoup moins d'attente)</div></div></details>
+
+  <div class="quiz reveal" data-quiz>
+    <div class="q">🧠 Quiz 1 — Tu places 1 000 $ à 8 %. En combien de temps double-t-il (règle de 72) ?</div>
+    <div class="opts">
+      <button class="opt" data-c="0">≈ 6 ans</button>
+      <button class="opt" data-c="1">≈ 9 ans</button>
+      <button class="opt" data-c="0">≈ 16 ans</button>
+    </div>
+    <div class="fb" data-fb>72 ÷ 8 = <strong>9 ans</strong>. La règle de 72 donne un excellent ordre de grandeur pour les taux entre 5 % et 20 %.</div>
+  </div>
+
+  <div class="quiz reveal" data-quiz>
+    <div class="q">🧠 Quiz 2 — Si le taux d'actualisation <em>augmente</em>, la valeur actualisée d'une somme future…</div>
+    <div class="opts">
+      <button class="opt" data-c="0">augmente</button>
+      <button class="opt" data-c="1">diminue</button>
+      <button class="opt" data-c="0">ne change pas</button>
+    </div>
+    <div class="fb" data-fb>Elle <strong>diminue</strong>. On divise par (1+r)<sup>t</sup> : plus r est grand, plus le diviseur est grand, donc plus la VA est petite.</div>
+  </div>
+</section>
+
+<!-- ============ CHAPITRE 6 ============ -->
+<section id="ch6" style="border-top-width:3px;border-color:var(--indigo)">
+  <span class="chap-tag tag6">📘 Chapitre 6</span>
+  <h2>La valeur des flux monétaires actualisés</h2>
+  <p class="lead" style="color:var(--ink2)">Au chapitre 5, on déplaçait <strong>un seul</strong> montant dans le temps. Ici, on apprend à gérer <strong>plusieurs</strong> flux — surtout ceux qui reviennent régulièrement : loyers, versements de prêt, épargne mensuelle… Ce sont les <strong>annuités</strong> et les <strong>perpétuités</strong>.</p>
+</section>
+
+<!-- ============ FLUX MULTIPLES ============ -->
+<section id="multiples">
+  <span class="chap-tag tag6">Chapitre 6 · §6.1</span>
+  <h2>Flux monétaires multiples</h2>
+  <div class="box keyidea reveal"><div class="lbl">🔑 La règle d'or</div>
+    <p>Pour évaluer plusieurs flux, on <strong>traite chaque flux séparément</strong> (on le capitalise ou l'actualise à la bonne date), puis on <strong>additionne</strong>. On ne peut additionner des montants que s'ils sont ramenés <em>au même moment</em> dans le temps.</p></div>
+
+  <div class="box analogy reveal"><div class="lbl">🍰 Analogie</div>
+    <p>Additionner 100 $ d'aujourd'hui et 100 $ de dans 3 ans, c'est comme additionner des dollars canadiens et des dollars américains : il faut d'abord tout <strong>convertir dans la même « monnaie »</strong> — ici, la même <strong>date</strong>.</p></div>
+
+  <h3><span class="n">Ex. 6.3</span> La ligne du temps qui additionne</h3>
+  <p>Flux de 200 $, 400 $, 600 $, 800 $ aux années 1 à 4, taux 12 %. On actualise chacun, puis on additionne.</p>
+  <div class="calc reveal">
+    <h4>🧮 Additionneur de flux (VA)</h4>
+    <p class="hint">Modifie les 4 flux et le taux : chaque barre montre la valeur actualisée, la ligne du temps s'anime.</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Flux année 1 <span class="val"></span></label><input type="number" class="mf" id="mf1" value="200" step="50"></div>
+        <div class="ctrl"><label>Flux année 2 <span class="val"></span></label><input type="number" class="mf" id="mf2" value="400" step="50"></div>
+        <div class="ctrl"><label>Flux année 3 <span class="val"></span></label><input type="number" class="mf" id="mf3" value="600" step="50"></div>
+        <div class="ctrl"><label>Flux année 4 <span class="val"></span></label><input type="number" class="mf" id="mf4" value="800" step="50"></div>
+        <div class="ctrl"><label>Taux (r) <span class="val" id="mf_r_v">12 %</span></label><input type="range" id="mf_r" min="1" max="20" step="0.5" value="12"></div>
+        <div class="result"><div class="big" id="mf_out">—</div><div class="sub">Valeur actualisée totale</div></div>
+      </div>
+      <div class="chartbox" id="mf_chart"></div>
+    </div>
+  </div>
+  <p class="t4">Résultat attendu du livre : 178,57 + 318,88 + 427,07 + 508,41 = <strong>1 432,93 $</strong>.</p>
+</section>
+
+<!-- ============ ANNUITÉS ============ -->
+<section id="annuites">
+  <span class="chap-tag tag6">Chapitre 6 · §6.2</span>
+  <h2>Les annuités : des flux constants et réguliers</h2>
+
+  <div class="box analogy reveal"><div class="lbl">🍰 Analogie — l'abonnement</div>
+    <p>Une <strong>annuité</strong>, c'est comme un abonnement : le <strong>même montant</strong>, à intervalles <strong>réguliers</strong>, pendant une durée <strong>fixe</strong>. Ton paiement de voiture (399 $/mois pendant 60 mois) ou ton loyer : ce sont des annuités. Comme les flux sont identiques, on a une <strong>formule raccourcie</strong> au lieu d'additionner 60 termes à la main.</p></div>
+
+  <div class="formula reveal">
+    <span class="fname">Valeur actualisée d'une annuité</span><span class="fref">[6.1]</span>
+    <div class="eq">VA = C × <span class="frac"><span class="num">1 − 1/(1 + r)<sup>t</sup></span><span class="den">r</span></span></div>
+    <div class="legend">
+      <span class="chip"><b>C</b> = le versement (identique) à chaque période</span>
+      <span class="chip"><b>r</b> = taux par période</span>
+      <span class="chip"><b>t</b> = nombre de versements</span>
+      <span class="chip">le gros bloc = <b>facteur d'actualisation de l'annuité (FAA)</b></span>
+    </div>
+  </div>
+
+  <div class="formula reveal">
+    <span class="fname">Valeur capitalisée d'une annuité</span><span class="fref">[6.2]</span>
+    <div class="eq">VC = C × <span class="frac"><span class="num">(1 + r)<sup>t</sup> − 1</span><span class="den">r</span></span></div>
+    <div class="legend">
+      <span class="chip">Sert à l'<b>épargne</b> : je dépose C chaque période, combien j'aurai à la fin ?</span>
+      <span class="chip">Lien pratique : VC = VA × (1+r)<sup>t</sup></span>
+    </div>
+  </div>
+
+  <div class="box keyidea reveal"><div class="lbl">🔑 Le FAA, c'est juste un « multiplicateur »</div>
+    <p>Le facteur d'actualisation de l'annuité (FAA) résume « la valeur aujourd'hui de 1 $ reçu chaque période pendant t périodes ». Tu le multiplies par ton versement C et c'est fini. Ex. à 10 % sur 3 ans, FAA = 2,4869 : une annuité de 500 $ vaut 500 × 2,4869 = 1 243,43 $.</p></div>
+
+  <div class="calc reveal">
+    <h4>🧮 Calculatrice d'annuité (le couteau suisse)</h4>
+    <p class="hint">Bascule entre valeur actualisée / capitalisée, et fin / début de période.</p>
+    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:14px">
+      <div class="seg" id="an_kind"><button data-k="pv" class="on">Valeur actualisée</button><button data-k="fv">Valeur capitalisée</button></div>
+      <div class="seg" id="an_when"><button data-w="end" class="on">Fin de période</button><button data-w="begin">Début de période</button></div>
+    </div>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Versement par période (C) <span class="val" id="an_c_v"></span></label><input type="number" id="an_c" value="500" step="50"></div>
+        <div class="ctrl"><label>Taux par période (r) <span class="val" id="an_r_v">10 %</span></label><input type="range" id="an_r" min="0.5" max="25" step="0.5" value="10"></div>
+        <div class="ctrl"><label>Nombre de versements (t) <span class="val" id="an_t_v">3</span></label><input type="range" id="an_t" min="1" max="60" step="1" value="3"></div>
+        <div class="result"><div class="big" id="an_out">—</div><div class="sub" id="an_sub"></div>
+          <div class="workline" id="an_work"></div></div>
+      </div>
+      <div class="chartbox" id="an_chart"></div>
+    </div>
+  </div>
+
+  <div class="box analogy reveal"><div class="lbl">💰 Exemple REER (VC d'annuité) — la force de l'épargne régulière</div>
+    <p>Tu déposes 2 000 $/an pendant 30 ans à 8 %. Total déposé : 60 000 $. Valeur finale :</p>
+    <div class="workline" style="white-space:normal">VC = 2 000 × <span style="white-space:nowrap">[(1,08)<sup>30</sup> − 1] / 0,08</span> = 2 000 × 113,2832 = <strong class="ans" style="color:var(--teal-d)">226 566,40 $</strong> !</div>
+    <p style="margin:8px 0 0">Et si tu déposes en <strong>début</strong> d'année (annuité due) ? Tu multiplies par 1,08 → <strong>244 692 $</strong>, soit 18 126 $ de plus juste en versant plus tôt.</p></div>
+
+  <div class="formula reveal">
+    <span class="fname">Annuité de début de période (« annuité due »)</span><span class="fref">[6.3]</span>
+    <div class="eq" style="font-size:1.25rem">Valeur (début) = Valeur (fin) × (1 + r)</div>
+    <p style="font-size:.85rem;color:var(--muted);margin:8px 0 0">Chaque versement « travaille » une période de plus → on multiplie simplement par (1+r).</p>
+  </div>
+</section>
+
+<!-- ============ PERPÉTUITÉS ============ -->
+<section id="perpetuites">
+  <span class="chap-tag tag6">Chapitre 6 · §6.2.4–6.2.6</span>
+  <h2>Perpétuités &amp; flux croissants</h2>
+
+  <div class="box analogy reveal"><div class="lbl">🍰 Analogie — la fontaine sans fin</div>
+    <p>Une <strong>perpétuité</strong>, c'est une annuité qui ne s'arrête <strong>jamais</strong> : un flux constant, pour toujours. On dirait que ça devrait valoir l'infini… mais non ! Les paiements très lointains valent presque zéro une fois actualisés, donc la somme se stabilise sur un chiffre fini. C'est comme une fontaine : le débit est infini dans le temps, mais sa « valeur » est bien finie.</p></div>
+
+  <div class="grid2">
+    <div class="formula reveal" style="margin:0">
+      <span class="fname">Perpétuité</span>
+      <div class="eq">VA = <span class="frac"><span class="num">C</span><span class="den">r</span></span></div>
+      <div class="legend"><span class="chip"><b>C</b> = flux constant à chaque période</span><span class="chip"><b>r</b> = taux de rendement</span></div>
+    </div>
+    <div class="formula reveal" style="margin:0">
+      <span class="fname">Perpétuité croissante</span>
+      <div class="eq">VA = <span class="frac"><span class="num">C</span><span class="den">r − g</span></span></div>
+      <div class="legend"><span class="chip"><b>g</b> = taux de croissance</span><span class="chip" style="color:var(--red)">⚠️ il faut r &gt; g</span></div>
+    </div>
+  </div>
+
+  <div class="formula reveal">
+    <span class="fname">Annuité croissante (nombre fini de flux qui augmentent)</span>
+    <div class="eq" style="font-size:1.2rem">VA = <span class="frac"><span class="num">C</span><span class="den">r − g</span></span> × <span style="font-size:1.4rem">[</span> 1 − <span class="frac"><span class="num">(1 + g)<sup>T</sup></span><span class="den">(1 + r)<sup>T</sup></span></span> <span style="font-size:1.4rem">]</span></div>
+    <div class="legend"><span class="chip"><b>C</b> = 1ᵉʳ versement</span><span class="chip"><b>g</b> = croissance par période</span><span class="chip"><b>T</b> = nombre (fini) de périodes</span></div>
+  </div>
+
+  <div class="calc reveal">
+    <h4>🧮 Calculatrice — Perpétuité (croissante ou non)</h4>
+    <p class="hint">Mets la croissance g à 0 pour une perpétuité simple. Regarde ce qui arrive quand g s'approche de r…</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Flux de la 1ʳᵉ période (C) <span class="val" id="pp_c_v"></span></label><input type="number" id="pp_c" value="100" step="10"></div>
+        <div class="ctrl"><label>Taux de rendement (r) <span class="val" id="pp_r_v">11 %</span></label><input type="range" id="pp_r" min="1" max="20" step="0.5" value="11"></div>
+        <div class="ctrl"><label>Taux de croissance (g) <span class="val" id="pp_g_v">0 %</span></label><input type="range" id="pp_g" min="0" max="19" step="0.5" value="0"></div>
+      </div>
+      <div class="result"><div class="big" id="pp_out">—</div><div class="sub">Valeur actualisée de la perpétuité</div>
+        <div class="workline" id="pp_work"></div></div>
+    </div>
+  </div>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.8</span> Action privilégiée = perpétuité <span class="chev">▶</span></summary>
+    <div class="body"><p>Une action verse 1 $/trimestre pour toujours et se vend 40 $. Quel rendement ?</p>
+      <div class="step">40 = 1 ÷ r → r = 1/40 = <span class="ans">2,5 % par trimestre</span></div>
+      <p>Pour une nouvelle action vendue 100 $ au même rendement : C = 100 × 0,025 = <span class="ans">2,50 $/trimestre</span>.</p></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.9</span> Action à dividende croissant <span class="chev">▶</span></summary>
+    <div class="body"><p>Dividende de 3 $ maintenant, croissance 6 %/an, taux 11 %.</p>
+      <div class="step">Dividende an prochain = 3 × 1,06 = 3,18 $<br>Prix = 3 + 3,18 ÷ (0,11 − 0,06) = 3 + 63,60 = <span class="ans">66,60 $</span></div></div></details>
+</section>
+
+<!-- ============ TAUX EFFECTIF ============ -->
+<section id="taux">
+  <span class="chap-tag tag6">Chapitre 6 · §6.3</span>
+  <h2>Taux nominal vs taux <em>effectif</em> : le piège à connaître 💳</h2>
+
+  <div class="box warn reveal"><div class="lbl">⚠️ L'arnaque des « 18 % » sur ta carte de crédit</div>
+    <p>Ta carte affiche « 18 % par an ». Mais les intérêts sont calculés <strong>chaque mois</strong> (1,5 %/mois), et tu paies des <strong>intérêts sur les intérêts</strong> en cours d'année. Le taux que tu paies <em>réellement</em> n'est pas 18 %… c'est <strong>19,56 %</strong>. Ce vrai taux, c'est le <strong>taux effectif</strong>.</p></div>
+
+  <div class="grid2">
+    <div class="mini reveal"><h5>Taux nominal (TAN / TPA)</h5><p>Le taux <strong>affiché</strong>. Il ignore la capitalisation en cours d'année. = taux périodique × nombre de périodes. C'est celui que la loi oblige à afficher.</p></div>
+    <div class="mini reveal"><h5>Taux effectif (TAE)</h5><p>Le taux <strong>réellement</strong> payé/gagné, une fois compté « l'intérêt sur l'intérêt ». <strong>Le seul</strong> qui permet de comparer honnêtement deux offres.</p></div>
+  </div>
+
+  <div class="formula reveal">
+    <span class="fname">Taux annuel effectif</span><span class="fref">[6.4]</span>
+    <div class="eq">TAE = <span style="font-size:1.4rem">(</span>1 + <span class="frac"><span class="num">taux nominal</span><span class="den">m</span></span><span style="font-size:1.4rem">)</span><sup>m</sup> − 1</div>
+    <div class="legend">
+      <span class="chip"><b>taux nominal</b> = taux affiché (ex. 0,18)</span>
+      <span class="chip"><b>m</b> = nombre de capitalisations par an (mois = 12, trimestre = 4…)</span>
+    </div>
+  </div>
+
+  <div class="calc reveal">
+    <h4>🧮 Convertisseur nominal → effectif</h4>
+    <p class="hint">Vois comme le taux effectif grimpe quand la capitalisation est plus fréquente.</p>
+    <div class="calc-grid">
+      <div>
+        <div class="ctrl"><label>Taux nominal affiché <span class="val" id="ef_r_v">18 %</span></label><input type="range" id="ef_r" min="1" max="30" step="0.25" value="18"></div>
+        <div class="ctrl"><label>Fréquence de capitalisation</label>
+          <select id="ef_m">
+            <option value="1">Annuelle (1×/an)</option>
+            <option value="2">Semestrielle (2×/an)</option>
+            <option value="4">Trimestrielle (4×/an)</option>
+            <option value="12" selected>Mensuelle (12×/an)</option>
+            <option value="52">Hebdomadaire (52×/an)</option>
+            <option value="365">Quotidienne (365×/an)</option>
+            <option value="0">Continue (∞)</option>
+          </select></div>
+        <div class="result"><div class="big" id="ef_out">—</div><div class="sub">Taux annuel effectif réel</div>
+          <div class="workline" id="ef_work"></div></div>
+      </div>
+      <div>
+        <div class="box" style="margin:0;background:var(--bg2)"><div class="lbl" style="color:var(--indigo)">📊 Effet de la fréquence (nominal 10 %)</div>
+        <div class="tablewrap" style="margin:8px 0 0;border:0">
+        <table><thead><tr><th>Capitalisation</th><th>m</th><th>TAE</th></tr></thead><tbody>
+        <tr><td>Annuelle</td><td>1</td><td>10,0000 %</td></tr>
+        <tr><td>Trimestrielle</td><td>4</td><td>10,3813 %</td></tr>
+        <tr><td>Mensuelle</td><td>12</td><td>10,4713 %</td></tr>
+        <tr><td>Quotidienne</td><td>365</td><td>10,5156 %</td></tr>
+        <tr><td>Continue</td><td>∞</td><td>10,5171 %</td></tr>
+        </tbody></table></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="formula reveal">
+    <span class="fname">Cas extrême : capitalisation continue</span><span class="fref">[6.5]</span>
+    <div class="eq">TAE = e<sup>&nbsp;s</sup> − 1</div>
+    <div class="legend"><span class="chip"><b>e</b> ≈ 2,718 (touche e<sup>x</sup>)</span><span class="chip"><b>s</b> = taux nominal</span><span class="chip">Ex. 10 % continu → e<sup>0,10</sup> − 1 = 10,52 %</span></div>
+  </div>
+
+  <div class="box summary reveal"><div class="lbl">✅ En gros, retiens que…</div>
+    <p>Pour <strong>comparer</strong> ou <strong>décider</strong>, convertis <em>toujours</em> les taux affichés en taux effectifs. Plus la capitalisation est fréquente, plus le taux effectif dépasse le taux nominal. Pour épargner : vise le TAE le plus haut ; pour emprunter : le TAE le plus bas.</p></div>
+</section>
+
+<!-- ============ PRÊTS ============ -->
+<section id="prets">
+  <span class="chap-tag tag6">Chapitre 6 · §6.4</span>
+  <h2>Les types de prêts &amp; le tableau d'amortissement</h2>
+
+  <div class="grid2">
+    <div class="mini reveal"><h5>1. Prêt à escompte</h5><p>Tu reçois l'argent aujourd'hui et rembourses <strong>tout d'un coup</strong> (capital + intérêts) à l'échéance. Ex. : bons du Trésor.</p></div>
+    <div class="mini reveal"><h5>2. Prêt à intérêt seulement</h5><p>Tu paies <strong>seulement les intérêts</strong> chaque période, puis tout le <strong>capital</strong> à la fin. Ex. : la plupart des obligations.</p></div>
+    <div class="mini reveal"><h5>3. Prêt amorti — capital constant</h5><p>Chaque période : intérêts + un <strong>montant fixe de capital</strong>. Le versement total <strong>diminue</strong> avec le temps.</p></div>
+    <div class="mini reveal"><h5>4. Prêt amorti — versements constants</h5><p>Versement total <strong>identique</strong> chaque période (hypothèques, prêts autos). La part d'intérêts baisse, la part de capital monte.</p></div>
+  </div>
+
+  <div class="box analogy reveal"><div class="lbl">🍰 Analogie — grignoter une dette</div>
+    <p>Un prêt amorti à versements constants, c'est comme croquer une pomme à petites bouchées identiques. Au début, une grosse part de ta bouchée sert juste à « payer le loyer » de la dette (les <strong>intérêts</strong>) ; il reste peu pour réduire la dette elle-même (le <strong>capital</strong>). À mesure que la dette rétrécit, les intérêts baissent et tu grignotes le capital de plus en plus vite.</p></div>
+
+  <div class="calc reveal">
+    <h4>🧮 Générateur de tableau d'amortissement</h4>
+    <p class="hint">Entre les paramètres d'un prêt : le versement, le tableau complet et le graphique capital/intérêts se génèrent et s'animent.</p>
+    <div class="calc-grid" style="grid-template-columns:1fr;gap:0">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:16px;margin-bottom:6px">
+        <div class="ctrl"><label>Montant emprunté <span class="val" id="am_p_v"></span></label><input type="number" id="am_p" value="5000" step="500"></div>
+        <div class="ctrl"><label>Taux annuel <span class="val" id="am_r_v">9 %</span></label><input type="range" id="am_r" min="1" max="20" step="0.5" value="9"></div>
+        <div class="ctrl"><label>Durée (années) <span class="val" id="am_y_v">5</span></label><input type="range" id="am_y" min="1" max="30" step="1" value="5"></div>
+        <div class="ctrl"><label>Type</label>
+          <select id="am_type"><option value="fixed">Versements constants</option><option value="capital">Capital constant</option></select></div>
+      </div>
+    </div>
+    <div class="result" style="flex-direction:row;flex-wrap:wrap;gap:22px;align-items:center;margin:6px 0 0">
+      <div><div class="big" id="am_pay" style="font-size:1.7rem">—</div><div class="sub">Versement annuel</div></div>
+      <div><div class="big" id="am_int" style="font-size:1.7rem;color:var(--gold)">—</div><div class="sub">Total des intérêts payés</div></div>
+      <div><div class="big" id="am_tot" style="font-size:1.7rem;color:var(--indigo)">—</div><div class="sub">Total remboursé</div></div>
+    </div>
+    <div class="tablewrap" style="margin-top:16px">
+      <table id="am_table"><thead><tr><th>Année</th><th>Solde initial</th><th>Versement</th><th>Intérêts</th><th>Capital</th><th>Solde final</th></tr></thead>
+      <tbody id="am_body"></tbody></table>
+    </div>
+  </div>
+
+  <p class="t4">Vérifie avec le livre : 5 000 $ à 9 % sur 5 ans, versements constants → 1 285,46 $/an, total intérêts 1 427,31 $. Version capital constant → total intérêts 1 350 $ (moins cher, mais gros versements au début).</p>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.13</span> Versement hypothécaire <span class="chev">▶</span></summary>
+    <div class="body"><p>Hypothèque 100 000 $, taux nominal 6 % (composé 2×/an), amortie sur 25 ans (paiements mensuels).</p>
+      <div class="step">TAE = (1,03)² − 1 = 6,09 %<br>Taux mensuel = (1,0609)<sup>1/12</sup> − 1 = 0,4939 %/mois<br>100 000 = C × (1 − 1/1,004939<sup>300</sup>)/0,004939 → C = <span class="ans">639,83 $/mois</span></div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.15</span> Le vrai taux d'une carte de crédit <span class="chev">▶</span></summary>
+    <div class="body"><p>TPA affiché 18 %, intérêts mensuels.</p>
+      <div class="step">Taux mensuel = 18 % ÷ 12 = 1,5 %/mois<br>TAE = (1,015)<sup>12</sup> − 1 = <span class="ans">19,56 %</span> (le vrai coût)</div></div></details>
+</section>
+
+<!-- ============ EXEMPLES CH6 ============ -->
+<section id="ex6">
+  <span class="chap-tag tag6">Chapitre 6 · exercices</span>
+  <h2>Exemples résolus &amp; quiz du chapitre 6</h2>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.5</span> Combien puis-je emprunter ? <span class="chev">▶</span></summary>
+    <div class="body"><p>Je peux payer 632 $/mois pendant 48 mois, taux 1 %/mois. Montant empruntable ?</p>
+      <div class="step">FAA = (1 − 1/1,01<sup>48</sup>)/0,01 = 37,9740<br>VA = 632 × 37,9740 = <span class="ans">24 000 $</span></div></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.6</span> Payer une carte 20 $/mois <span class="chev">▶</span></summary>
+    <div class="body"><p>Dette 1 000 $, versements 20 $/mois, taux 1,5 %/mois. Combien de temps ?</p>
+      <div class="step">1 000 = 20 × (1 − 1/1,015<sup>t</sup>)/0,015 → 1,015<sup>t</sup> = 4<br>t = ln 4 / ln 1,015 ≈ <span class="ans">93 mois</span> (≈ 7,75 ans !)</div>
+      <p>Leçon : payer le minimum sur une carte, c'est rembourser pendant des années.</p></div></details>
+
+  <details class="ex reveal"><summary><span class="badge">Ex. 6.17</span> Prêt étudiant amorti <span class="chev">▶</span></summary>
+    <div class="body"><p>Dette 20 000 $, 6 % composé mensuellement (0,5 %/mois), paiements 250 $/mois.</p>
+      <div class="step">Solde après 1 an = <span class="ans">18 149,67 $</span><br>Durée totale : 1,005<sup>t</sup> = 1,67 → t = ln 1,67 / ln 1,005 ≈ <span class="ans">102 mois</span> (≈ 8,5 ans)</div></div></details>
+
+  <div class="quiz reveal" data-quiz>
+    <div class="q">🧠 Quiz 3 — Une action privilégiée verse 5 $/an pour toujours et le rendement exigé est 8 %. Sa valeur ?</div>
+    <div class="opts">
+      <button class="opt" data-c="0">40 $</button>
+      <button class="opt" data-c="1">62,50 $</button>
+      <button class="opt" data-c="0">625 $</button>
+    </div>
+    <div class="fb" data-fb>Perpétuité : VA = C/r = 5 ÷ 0,08 = <strong>62,50 $</strong>.</div>
+  </div>
+
+  <div class="quiz reveal" data-quiz>
+    <div class="q">🧠 Quiz 4 — Un taux nominal de 12 % capitalisé mensuellement donne un taux effectif de…</div>
+    <div class="opts">
+      <button class="opt" data-c="0">exactement 12 %</button>
+      <button class="opt" data-c="1">≈ 12,68 %</button>
+      <button class="opt" data-c="0">≈ 1 %</button>
+    </div>
+    <div class="fb" data-fb>TAE = (1 + 0,12/12)<sup>12</sup> − 1 = 1,01<sup>12</sup> − 1 = <strong>12,6825 %</strong>. Plus fréquent que l'annuel ⇒ toujours &gt; 12 %.</div>
+  </div>
+
+  <div class="quiz reveal" data-quiz>
+    <div class="q">🧠 Quiz 5 — Dans un prêt amorti à versements constants, au fil du temps, la part d'<strong>intérêts</strong> dans chaque versement…</div>
+    <div class="opts">
+      <button class="opt" data-c="1">diminue</button>
+      <button class="opt" data-c="0">augmente</button>
+      <button class="opt" data-c="0">reste identique</button>
+    </div>
+    <div class="fb" data-fb>Elle <strong>diminue</strong> : comme le solde de la dette baisse, les intérêts (calculés sur ce solde) baissent aussi, et la part de capital augmente.</div>
+  </div>
+</section>
+
+<!-- ============ FORMULAIRE ============ -->
+<section id="formulaire">
+  <span class="chap-tag" style="background:linear-gradient(90deg,var(--teal-soft),var(--indigo-soft));color:var(--ink)">Aide-mémoire</span>
+  <h2>📋 Formulaire récapitulatif — tout sur une page</h2>
+  <p>Ta feuille de survie pour l'examen. Chaque formule renvoie au bon chapitre.</p>
+  <div class="sheet">
+    <div class="f"><b>Valeur capitalisée [5.1]</b><br><code>VC = C × (1+r)ᵗ</code></div>
+    <div class="f"><b>Valeur actualisée [5.2]</b><br><code>VA = C ÷ (1+r)ᵗ</code></div>
+    <div class="f"><b>Équation de base [5.3]</b><br><code>VA × (1+r)ᵗ = VC</code></div>
+    <div class="f"><b>Trouver le taux</b><br><code>r = (VC/VA)^(1/t) − 1</code></div>
+    <div class="f"><b>Trouver la durée</b><br><code>t = ln(VC/VA) ÷ ln(1+r)</code></div>
+    <div class="f"><b>Règle de 72</b><br><code>durée pour doubler ≈ 72 ÷ r%</code></div>
+    <div class="f"><b>VA d'une annuité [6.1]</b><br><code>VA = C × [1 − 1/(1+r)ᵗ] ÷ r</code></div>
+    <div class="f"><b>VC d'une annuité [6.2]</b><br><code>VC = C × [(1+r)ᵗ − 1] ÷ r</code></div>
+    <div class="f"><b>Annuité début de période [6.3]</b><br><code>Valeur(début) = Valeur(fin) × (1+r)</code></div>
+    <div class="f"><b>Perpétuité</b><br><code>VA = C ÷ r</code></div>
+    <div class="f"><b>Perpétuité croissante</b><br><code>VA = C ÷ (r − g)</code> &nbsp;<span class="t4">(r &gt; g)</span></div>
+    <div class="f"><b>Annuité croissante</b><br><code>VA = C/(r−g) × [1 − ((1+g)/(1+r))ᵀ]</code></div>
+    <div class="f"><b>Taux effectif [6.4]</b><br><code>TAE = (1 + nominal/m)ᵐ − 1</code></div>
+    <div class="f"><b>Capitalisation continue [6.5]</b><br><code>TAE = eˢ − 1</code></div>
+  </div>
+</section>
+
+<!-- ============ GLOSSAIRE ============ -->
+<section id="glossaire">
+  <span class="chap-tag" style="background:var(--gold-soft);color:var(--gold)">Vocabulaire</span>
+  <h2>📖 Glossaire express</h2>
+  <div class="grid2">
+    <div class="mini"><h5>Capitalisation</h5><p>Faire grossir un montant vers le futur en ajoutant les intérêts (× (1+r)ᵗ).</p></div>
+    <div class="mini"><h5>Actualisation</h5><p>Ramener un montant futur à aujourd'hui en retirant les intérêts (÷ (1+r)ᵗ).</p></div>
+    <div class="mini"><h5>Facteur de capitalisation</h5><p>(1+r)ᵗ — le multiplicateur de croissance d'un dollar.</p></div>
+    <div class="mini"><h5>Facteur d'actualisation</h5><p>1/(1+r)ᵗ — l'inverse : ce que vaut aujourd'hui 1 $ futur.</p></div>
+    <div class="mini"><h5>Annuité</h5><p>Flux constants réguliers pendant une durée fixe (fin de période par défaut).</p></div>
+    <div class="mini"><h5>Perpétuité</h5><p>Annuité qui ne s'arrête jamais.</p></div>
+    <div class="mini"><h5>Taux nominal (TAN/TPA)</h5><p>Le taux affiché, sans effet de la capitalisation.</p></div>
+    <div class="mini"><h5>Taux effectif (TAE)</h5><p>Le vrai taux payé/gagné, capitalisation incluse. Le seul comparable.</p></div>
+    <div class="mini"><h5>Amortissement</h5><p>Remboursement graduel d'un prêt (capital + intérêts).</p></div>
+    <div class="mini"><h5>Prêt à escompte</h5><p>On rembourse tout (capital + intérêts) en un seul paiement final.</p></div>
+  </div>
+</section>
+
+</div><!-- /wrap -->
+
+<footer>
+  <p><strong>Cours visuel — Chapitres 5 &amp; 6</strong> · d'après <em>Gestion financière, 4ᵉ édition</em></p>
+  <p>Construit pour comprendre à partir de zéro · Tous les chiffres proviennent de ton manuel.</p>
+</footer>
+
+<button id="totop" title="Haut de page">↑</button>
+
+<script>
+/* ============================================================
+   UTILITAIRES
+   ============================================================ */
+const CAD = n => new Intl.NumberFormat('fr-CA',{style:'currency',currency:'CAD',maximumFractionDigits:2}).format(n);
+const CAD0 = n => new Intl.NumberFormat('fr-CA',{style:'currency',currency:'CAD',maximumFractionDigits:0}).format(n);
+const NUM = (n,d=4) => new Intl.NumberFormat('fr-CA',{minimumFractionDigits:d,maximumFractionDigits:d}).format(n);
+const PCT = (n,d=2) => NUM(n,d)+' %';
+const $ = s => document.querySelector(s);
+const $$ = s => [...document.querySelectorAll(s)];
+
+/* --- animation de comptage --- */
+function countTo(el,to,fmt){
+  const from = el._v||0; const start=performance.now(); const dur=550;
+  function tick(now){
+    const p=Math.min(1,(now-start)/dur); const e=1-Math.pow(1-p,3);
+    el.textContent=fmt(from+(to-from)*e);
+    if(p<1) requestAnimationFrame(tick); else el._v=to;
+  }
+  requestAnimationFrame(tick);
+}
+
+/* ============================================================
+   BARRE DE PROGRESSION + REVEAL + THEME + TOTOP
+   ============================================================ */
+const prog=$('#progress');
+addEventListener('scroll',()=>{
+  const h=document.documentElement; const sc=h.scrollTop/(h.scrollHeight-h.clientHeight);
+  prog.style.width=(sc*100)+'%';
+  $('#totop').classList.toggle('show',h.scrollTop>600);
+});
+const io=new IntersectionObserver((es)=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{threshold:.12});
+$$('.reveal').forEach(el=>io.observe(el));
+$('#totop').onclick=()=>scrollTo({top:0,behavior:'smooth'});
+
+const themeBtn=$('#theme');
+function setTheme(t){document.documentElement.setAttribute('data-theme',t);themeBtn.textContent=t==='dark'?'☀️':'🌙';try{localStorage.setItem('fin-theme',t)}catch(e){}}
+(function(){let t='light';try{t=localStorage.getItem('fin-theme')|| (matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch(e){}setTheme(t);})();
+themeBtn.onclick=()=>setTheme(document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark');
+
+/* ============================================================
+   PETITS GRAPHIQUES SVG
+   ============================================================ */
+function lineChart(box,series,opts={}){
+  // series: [{name,color,pts:[y0..yn]}], x = 0..n
+  const W=460,H=260,pad=38;
+  const all=series.flatMap(s=>s.pts); const max=Math.max(...all,1); const n=series[0].pts.length-1;
+  const X=i=>pad+(W-pad-10)*(i/n); const Y=v=>H-pad-(H-pad-14)*(v/max);
+  let svg=`<svg viewBox="0 0 ${W} ${H}" role="img">`;
+  // grid
+  for(let g=0;g<=4;g++){const y=pad+ (H-pad-14)*g/4; svg+=`<line x1="${pad}" y1="${y}" x2="${W-10}" y2="${y}" stroke="var(--line)" stroke-width="1"/>`;}
+  svg+=`<line x1="${pad}" y1="${H-pad}" x2="${W-10}" y2="${H-pad}" stroke="var(--line2)" stroke-width="1.5"/>`;
+  series.forEach(s=>{
+    let d=s.pts.map((v,i)=>`${i?'L':'M'}${X(i)},${Y(v)}`).join(' ');
+    svg+=`<path d="${d}" fill="none" stroke="${s.color}" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+      <animate attributeName="stroke-dasharray" from="0 2000" to="2000 0" dur="0.8s" fill="freeze"/></path>`;
+    const lv=s.pts[s.pts.length-1];
+    svg+=`<circle cx="${X(n)}" cy="${Y(lv)}" r="4" fill="${s.color}"/>`;
+  });
+  // legend
+  series.forEach((s,i)=>{svg+=`<rect x="${pad+i*150}" y="8" width="12" height="12" rx="3" fill="${s.color}"/>
+    <text x="${pad+16+i*150}" y="18" font-size="12" fill="var(--ink2)">${s.name}</text>`;});
+  svg+=`<text x="${pad}" y="${H-8}" font-size="11" fill="var(--muted)">0</text>
+    <text x="${W-24}" y="${H-8}" font-size="11" fill="var(--muted)">${opts.xmax||n} ${opts.xunit||'ans'}</text></svg>`;
+  box.innerHTML=svg;
+}
+function barChart(box,bars,opts={}){
+  const W=460,H=260,pad=30; const max=Math.max(...bars.map(b=>b.v),1);
+  const bw=(W-pad-10)/bars.length; let svg=`<svg viewBox="0 0 ${W} ${H}">`;
+  svg+=`<line x1="${pad-4}" y1="${H-pad}" x2="${W-6}" y2="${H-pad}" stroke="var(--line2)"/>`;
+  bars.forEach((b,i)=>{
+    const h=(H-pad-24)*(b.v/max); const x=pad+i*bw+bw*0.15; const w=bw*0.7; const y=H-pad-h;
+    svg+=`<rect class="bar" x="${x}" y="${H-pad}" width="${w}" height="0" rx="5" fill="${b.color||'var(--teal)'}">
+      <animate attributeName="height" to="${h}" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" values="0;${h}"/>
+      <animate attributeName="y" to="${y}" dur="0.7s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" keyTimes="0;1" values="${H-pad};${y}"/></rect>`;
+    svg+=`<text x="${x+w/2}" y="${H-pad+15}" font-size="11" text-anchor="middle" fill="var(--muted)">${b.label}</text>`;
+    svg+=`<text x="${x+w/2}" y="${y-6}" font-size="11" text-anchor="middle" fill="var(--ink2)" font-weight="700">${b.top||''}</text>`;
+  });
+  svg+=`</svg>`; box.innerHTML=svg;
+}
+function timeline(box,flows,opts={}){
+  // flows: [{t, label, dir:'in'|'out'}], marks 0..N
+  const N=opts.n||flows.reduce((m,f)=>Math.max(m,f.t),1);
+  const W=460,H=170,pad=30,y=H/2;
+  const X=i=>pad+(W-pad-14)*(i/N);
+  let svg=`<svg viewBox="0 0 ${W} ${H}">`;
+  svg+=`<line x1="${pad}" y1="${y}" x2="${W-8}" y2="${y}" stroke="var(--line2)" stroke-width="2"/>`;
+  for(let i=0;i<=N;i++){svg+=`<line x1="${X(i)}" y1="${y-5}" x2="${X(i)}" y2="${y+5}" stroke="var(--muted)"/>
+    <text x="${X(i)}" y="${y+22}" font-size="10" text-anchor="middle" fill="var(--muted)">${i}</text>`;}
+  flows.forEach((f,k)=>{
+    const x=X(f.t); const up=f.dir!=='out';
+    const ay=up?y-46:y+40;
+    svg+=`<line x1="${x}" y1="${y}" x2="${x}" y2="${ay+(up?8:-8)}" stroke="${f.color||'var(--teal)'}" stroke-width="2">
+      <animate attributeName="y2" from="${y}" to="${ay+(up?8:-8)}" dur="0.5s" begin="${k*0.08}s" fill="freeze"/></line>`;
+    svg+=`<circle cx="${x}" cy="${up?ay:ay}" r="0" fill="${f.color||'var(--teal)'}"><animate attributeName="r" to="15" dur="0.4s" begin="${k*0.08}s" fill="freeze"/></circle>`;
+    svg+=`<text x="${x}" y="${(up?ay:ay)+4}" font-size="10" text-anchor="middle" fill="#fff" font-weight="700" opacity="0"><animate attributeName="opacity" to="1" dur="0.3s" begin="${k*0.08+0.2}s" fill="freeze"/>${f.label}</text>`;
+  });
+  svg+=`</svg>`; box.innerHTML=svg;
+}
+
+/* ============================================================
+   CH5 — COMPARATEUR SIMPLE / COMPOSÉ
+   ============================================================ */
+(function(){
+  const C=$('#ci_c'),R=$('#ci_r'),T=$('#ci_t');
+  function up(){
+    const c=+C.value,r=+R.value/100,t=+T.value;
+    $('#ci_c_v').textContent=CAD0(c);$('#ci_r_v').textContent=PCT(+R.value,1);$('#ci_t_v').textContent=t+' ans';
+    const comp=c*Math.pow(1+r,t), simp=c*(1+r*t);
+    countTo($('#ci_comp'),comp,CAD);
+    $('#ci_work').textContent=`${CAD0(c)} × (1+${NUM(r,3)})^${t} = ${CAD(comp)}  |  simple: ${CAD(simp)}`;
+    const sc=[],cp=[]; for(let i=0;i<=t;i++){sc.push(c*(1+r*i));cp.push(c*Math.pow(1+r,i));}
+    lineChart($('#ci_chart'),[
+      {name:'Composé',color:'var(--teal)',pts:cp},
+      {name:'Simple',color:'var(--gold)',pts:sc}
+    ],{xmax:t});
+  }
+  [C,R,T].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH5 — VC (valeur capitalisée)
+   ============================================================ */
+(function(){
+  const C=$('#fv_c'),R=$('#fv_r'),T=$('#fv_t');
+  function up(){
+    const c=+C.value,r=+R.value/100,t=+T.value;
+    $('#fv_c_v').textContent=CAD0(c);$('#fv_r_v').textContent=PCT(+R.value,1);$('#fv_t_v').textContent=t;
+    const f=Math.pow(1+r,t), vc=c*f;
+    countTo($('#fv_out'),vc,CAD);
+    $('#fv_work').textContent=`facteur (1+${NUM(r,3)})^${t} = ${NUM(f)}  →  ${CAD0(c)} × ${NUM(f)} = ${CAD(vc)}`;
+    timeline($('#fv_tl'),[{t:0,label:'C',dir:'out',color:'var(--gold)'},{t:t,label:'VC',dir:'in',color:'var(--teal)'}],{n:t});
+  }
+  [C,R,T].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH5 — VA (valeur actualisée)
+   ============================================================ */
+(function(){
+  const C=$('#pv_c'),R=$('#pv_r'),T=$('#pv_t');
+  function up(){
+    const c=+C.value,r=+R.value/100,t=+T.value;
+    $('#pv_c_v').textContent=CAD0(c);$('#pv_r_v').textContent=PCT(+R.value,1);$('#pv_t_v').textContent=t;
+    const f=Math.pow(1+r,t), va=c/f;
+    countTo($('#pv_out'),va,CAD);
+    $('#pv_work').textContent=`${CAD0(c)} ÷ (1+${NUM(r,3)})^${t} = ${CAD0(c)} ÷ ${NUM(f)} = ${CAD(va)}`;
+    barChart($('#pv_chart'),[
+      {label:"Aujourd'hui (VA)",v:va,color:'var(--teal)',top:CAD0(va)},
+      {label:'Futur (cible)',v:c,color:'var(--gold)',top:CAD0(c)}
+    ]);
+  }
+  [C,R,T].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH5 — RÉSOLVEUR r / t
+   ============================================================ */
+(function(){
+  let mode='r';
+  const VA=$('#sv_va'),VC=$('#sv_vc'),T=$('#sv_t'),R=$('#sv_r');
+  $$('#solve_mode button').forEach(b=>b.onclick=()=>{
+    mode=b.dataset.m; $$('#solve_mode button').forEach(x=>x.classList.toggle('on',x===b));
+    $('#sv_t_wrap').style.display=mode==='r'?'':'none';
+    $('#sv_r_wrap').style.display=mode==='t'?'':'none'; up();
+  });
+  function up(){
+    const va=+VA.value,vc=+VC.value;
+    $('#sv_va_v').textContent=CAD0(va);$('#sv_vc_v').textContent=CAD0(vc);
+    $('#sv_t_v').textContent=T.value;$('#sv_r_v').textContent=PCT(+R.value,1);
+    if(va<=0||vc<=0){$('#sv_out').textContent='—';return;}
+    if(mode==='r'){
+      const t=+T.value; const r=Math.pow(vc/va,1/t)-1;
+      countTo($('#sv_out'),r*100,x=>PCT(x));
+      $('#sv_sub').textContent=`Taux par période nécessaire`;
+      $('#sv_work').textContent=`r = (${NUM(vc,0)}/${NUM(va,0)})^(1/${t}) − 1 = ${PCT(r*100)}  ·  règle de 72 ≈ ${NUM(72/(r*100),1)} ans pour doubler`;
+    }else{
+      const r=+R.value/100; const t=Math.log(vc/va)/Math.log(1+r);
+      countTo($('#sv_out'),t,x=>NUM(x,2)+' périodes');
+      $('#sv_sub').textContent=`Durée nécessaire`;
+      $('#sv_work').textContent=`t = ln(${NUM(vc,0)}/${NUM(va,0)}) ÷ ln(1+${NUM(r,3)}) = ${NUM(t,2)} périodes`;
+    }
+  }
+  [VA,VC,T,R].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH6 — FLUX MULTIPLES
+   ============================================================ */
+(function(){
+  const F=['#mf1','#mf2','#mf3','#mf4'].map($),R=$('#mf_r');
+  function up(){
+    const r=+R.value/100; $('#mf_r_v').textContent=PCT(+R.value,1);
+    let tot=0; const bars=[]; const flows=[];
+    F.forEach((el,i)=>{const c=+el.value; const va=c/Math.pow(1+r,i+1); tot+=va;
+      bars.push({label:`An ${i+1}`,v:va,color:'var(--indigo)',top:CAD0(va)});
+      flows.push({t:i+1,label:CAD0(c),dir:'in',color:'var(--indigo)'});});
+    bars.push({label:'VA totale',v:tot,color:'var(--teal)',top:CAD0(tot)});
+    countTo($('#mf_out'),tot,CAD);
+    barChart($('#mf_chart'),bars);
+  }
+  [...F,R].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH6 — ANNUITÉ
+   ============================================================ */
+(function(){
+  let kind='pv',when='end';
+  const C=$('#an_c'),R=$('#an_r'),T=$('#an_t');
+  $$('#an_kind button').forEach(b=>b.onclick=()=>{kind=b.dataset.k;$$('#an_kind button').forEach(x=>x.classList.toggle('on',x===b));up();});
+  $$('#an_when button').forEach(b=>b.onclick=()=>{when=b.dataset.w;$$('#an_when button').forEach(x=>x.classList.toggle('on',x===b));up();});
+  function up(){
+    const c=+C.value,r=+R.value/100,t=+T.value;
+    $('#an_c_v').textContent=CAD0(c);$('#an_r_v').textContent=PCT(+R.value,1);$('#an_t_v').textContent=t;
+    const faa=(1-1/Math.pow(1+r,t))/r, fca=(Math.pow(1+r,t)-1)/r;
+    let val, sub, work;
+    if(kind==='pv'){val=c*faa; sub='Valeur actualisée de l\'annuité';
+      work=`VA = ${CAD0(c)} × [1−1/(1+${NUM(r,3)})^${t}]/${NUM(r,3)} = ${CAD0(c)} × ${NUM(faa)} = ${CAD(val)}`;}
+    else{val=c*fca; sub='Valeur capitalisée de l\'annuité';
+      work=`VC = ${CAD0(c)} × [(1+${NUM(r,3)})^${t}−1]/${NUM(r,3)} = ${CAD0(c)} × ${NUM(fca)} = ${CAD(val)}`;}
+    if(when==='begin'){val*=(1+r); sub+=' (début de période)'; work+=`  ×(1+${NUM(r,3)}) = ${CAD(val)}`;}
+    countTo($('#an_out'),val,CAD); $('#an_sub').textContent=sub; $('#an_work').textContent=work;
+    // graphe: valeur cumulée période par période (VC) ou barres versements
+    const pts=[]; let bal=0;
+    for(let i=1;i<=t;i++){bal=(bal+ (when==='begin'?c:0))*(1+r) + (when==='end'?c:0); pts.push(bal);}
+    pts.unshift(0);
+    lineChart($('#an_chart'),[{name:'Solde accumulé',color:'var(--teal)',pts}],{xmax:t,xunit:'pér.'});
+  }
+  [C,R,T].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH6 — PERPÉTUITÉ
+   ============================================================ */
+(function(){
+  const C=$('#pp_c'),R=$('#pp_r'),G=$('#pp_g');
+  function up(){
+    const c=+C.value,r=+R.value/100,g=+G.value/100;
+    $('#pp_c_v').textContent=CAD0(c);$('#pp_r_v').textContent=PCT(+R.value,1);$('#pp_g_v').textContent=PCT(+G.value,1);
+    if(g>=r){$('#pp_out').textContent='∞ (indéfini)';$('#pp_out')._v=0;
+      $('#pp_work').textContent=`⚠️ Il faut r > g. Ici g (${PCT(+G.value,1)}) ≥ r (${PCT(+R.value,1)}) : la valeur explose vers l'infini.`;return;}
+    const va=c/(r-g);
+    countTo($('#pp_out'),va,CAD);
+    $('#pp_work').textContent = g===0
+      ? `VA = C ÷ r = ${CAD0(c)} ÷ ${NUM(r,3)} = ${CAD(va)}`
+      : `VA = C ÷ (r−g) = ${CAD0(c)} ÷ (${NUM(r,3)}−${NUM(g,3)}) = ${CAD(va)}`;
+  }
+  [C,R,G].forEach(e=>e.oninput=up); up();
+})();
+
+/* ============================================================
+   CH6 — TAUX EFFECTIF
+   ============================================================ */
+(function(){
+  const R=$('#ef_r'),M=$('#ef_m');
+  function up(){
+    const s=+R.value/100; const m=+M.value;
+    $('#ef_r_v').textContent=PCT(+R.value,2);
+    let tae, work;
+    if(m===0){tae=Math.exp(s)-1; work=`TAE = e^${NUM(s,4)} − 1 = ${PCT(tae*100)}`;}
+    else{tae=Math.pow(1+s/m,m)-1; work=`TAE = (1 + ${NUM(s,4)}/${m})^${m} − 1 = ${PCT(tae*100)}`;}
+    countTo($('#ef_out'),tae*100,x=>PCT(x));
+    $('#ef_work').textContent=work + `  ·  écart vs nominal : +${NUM(tae*100-(+R.value),2)} pts`;
+  }
+  R.oninput=up; M.onchange=up; up();
+})();
+
+/* ============================================================
+   CH6 — AMORTISSEMENT
+   ============================================================ */
+(function(){
+  const P=$('#am_p'),R=$('#am_r'),Y=$('#am_y'),TY=$('#am_type');
+  function up(){
+    const p=+P.value,r=+R.value/100,y=+Y.value,type=TY.value;
+    $('#am_p_v').textContent=CAD0(p);$('#am_r_v').textContent=PCT(+R.value,1);$('#am_y_v').textContent=y;
+    const faa=(1-1/Math.pow(1+r,y))/r; const fixedPay=p/faa;
+    let bal=p, totInt=0, totPay=0; const rows=[];
+    for(let i=1;i<=y;i++){
+      const int=bal*r; let pay, cap;
+      if(type==='fixed'){pay=fixedPay; cap=pay-int;}
+      else{cap=p/y; pay=cap+int;}
+      const open=bal; bal=Math.max(0,bal-cap);
+      if(i===y){cap=open;} // arrondi final
+      totInt+=int; totPay+=pay;
+      rows.push({i,open,pay,int,cap,close:bal});
+    }
+    // KPIs
+    countTo($('#am_pay'),type==='fixed'?fixedPay:rows[0].pay,CAD);
+    $('#am_pay').nextElementSibling.textContent=type==='fixed'?'Versement annuel (constant)':'Versement de la 1ʳᵉ année';
+    countTo($('#am_int'),totInt,CAD); countTo($('#am_tot'),totPay,CAD);
+    // table
+    const tb=$('#am_body'); tb.innerHTML='';
+    rows.forEach((row,k)=>{
+      const tr=document.createElement('tr'); tr.className='amrow';
+      tr.innerHTML=`<td>${row.i}</td><td>${CAD(row.open)}</td><td>${CAD(row.pay)}</td>
+        <td class="int">${CAD(row.int)}</td><td class="cap">${CAD(row.cap)}</td><td>${CAD(row.close)}</td>`;
+      tb.appendChild(tr); setTimeout(()=>tr.classList.add('in'),40*k+30);
+    });
+  }
+  [P,R,Y,TY].forEach(e=>e.oninput=up); TY.onchange=up; up();
+})();
+
+/* ============================================================
+   QUIZ
+   ============================================================ */
+$$('[data-quiz]').forEach(q=>{
+  const fb=q.querySelector('[data-fb]'); let done=false;
+  q.querySelectorAll('.opt').forEach(o=>o.onclick=()=>{
+    if(done)return; done=true; const ok=o.dataset.c==='1';
+    o.classList.add(ok?'correct':'wrong');
+    if(!ok){q.querySelectorAll('.opt').forEach(x=>{if(x.dataset.c==='1')x.classList.add('correct');});}
+    fb.classList.add('show',ok?'ok':'no');
+  });
+});
+</script>
+</body>
+</html>

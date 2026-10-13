@@ -1,0 +1,375 @@
+## Diapositive 1
+
+Notions de finance personnelle
+
+Chapitre 18 (& retour sur le chapitre 12)
+
+## Diapositive 2
+
+Finance personnelle
+
+
+Les marchés
+Rendement & prime de risque
+Efficience des marchés
+Investir dans les marchés
+L’investissement et l’impôt
+
+
+
+## Diapositive 3
+
+Les marchés (retour sur le chapitre 12)
+
+Historique, formation et fonction
+	Les marchés se sont formés d’un besoin provenant des acheteurs et des vendeurs
+Vendeur : recherche un acheteur pour vendre son produit à un prix juste.
+Acheteur : cherche un vendeur pour acheter un produit à un prix juste.
+Conséquence : formation de système d’enchère où les acheteurs et vendeurs se rencontrent. 
+Augmentation de l’efficacité
+Transaction à un prix juste et équitable
+Permet une plus grande liquidité des produits
+
+## Diapositive 4
+
+Les marchés
+
+NYSE
+(New York Stock Exchange)
+
+La bourse la plus importante depuis des années
+Il existe encore un système d’enchère avec des spécialistes
+NYSE composite index (indice): peu connu
+
+
+Nasdaq
+(National Association of Securities Dealers Automated Quotation)
+
+Bourse émergente (1971) grâce aux compagnies technologiques
+Système de transactions entièrement automatisé (informatisées)
+Forte compétition au NYSE
+Indice : Nasdaq
+
+Les indices S&P 500 & Dow Jones contiennent tous 2 des titres inscrits sur les 2 bourses d’importance aux Étast-Unis (NYSE & Nasdaq).
+
+## Diapositive 5
+
+Les marchés
+
+Les marchés canadiens
+	TMX: Toronto-Montréal Exchange
+
+Bourse de Toronto (TSX)
+Transaction des actions de grandes & petites capitalisations
+Indice boursier : S&P/TSX
+Bourse de Montréal (ME)
+Transaction des produits dérivés
+Option, contrat à terme, etc.
+Opération de couverture (gestion des risques) ou de spéculation (rendement beaucoup plus élevé que les autres types de produits financiers)
+
+
+## Diapositive 6
+
+Les marchés
+
+Les indices boursiers
+	Déf.: groupe (moyenne pondérée) des produits financiers permettant de représenter une tendance globale.
+S&P/TSX
+Donne une idée globale du comportement de la bourse de Toronto
+Contient ~ 225 titres d’importance (capitalisation boursière)
+Pour tous les indices, ce sont les variations et non la valeur qui importent
+S&P 500
+Donne une idée globale des variations des titres aux bourses de NYSE & Nasdaq
+Moyenne pondérée de ~500 actions d’importance enregistrées sur ces bourses
+Nasdaq (Indice de la bourse du Nasdaq)
+Dow Jones (DJIA)
+Indice comportant les 30 plus grosses compagnies industrielles américaines
+
+## Diapositive 7
+
+Les marchés
+
+La valeur d’une action
+	Le prix d’une action au marché ne veut rien dire de façon absolue : c’est le nombre d’actions en circulation et la valeur de l’entreprise qui déterminent son prix.
+
+Exemple : vous évaluez que la cie Mobile inc. vaut 50 M$. Combien vaut l’action?
+	S’il y a 10 M d’actions en circulation :
+50 M$/10 M d’action = 5 $/action
+	S’il y a 5 000 actions en circulation :
+50 M$/5 000 actions = 10 000 $/action
+
+	D’une façon ou d’une autre, la compagnie vaut toujours 50 M$
+
+
+
+## Diapositive 8
+
+Rendement & prime de risque
+
+Prime de risque = E(Rm)-Rf
+« Rendement excédentaire au rendement sans risque pour investir dans une certaine classe d’actifs »
+
+
+## Diapositive 9
+
+Rendement & prime de risque
+
+Relation des primes de risque pour chacune des classes d’actifs attendus à long terme en fonction du risque :
+
+
+
+
+
+E(R)
+Espérance
+de
+rendement
+
+Risque
+
+Bon du Trésor
+
+Obligations gouvernementales
+
+Obligations corporatives
+
+Débentures corporatives
+
+Actions privilégiées
+
+Actions ordinaires
+
+Produits dérivés
+
+Prime de risque
+
+## Diapositive 10
+
+L’efficience des marchés (retour sur le chapitre 12)
+
+Définition: marché dont le prix de tous les titres s’ajuste rapidement et complètement afin de refléter toute l’information disponible.
+
+Exemple d’ajustement efficient : annonce d’une bonne nouvelle
+
+
+## Diapositive 11
+
+Efficience des marchés
+
+Si les marchés sont efficients, il ne devrait pas être possible d’obtenir un rendement excédentaire anormal.
+
+## Diapositive 12
+
+L’efficience des marchés
+
+Les 3 formes d’efficience :
+Forme faible : inclus l’information historique.
+Forme semi-forte : l’info historique et publique.
+Forme forte : l’info historique, publique et privée.
+
+
+## Diapositive 13
+
+Efficience des marchés
+
+Paradoxe : plus les investisseurs croient que les marchés ne sont pas efficients; plus ils interviennent dans celui-ci, ce qui contribuent à son efficience (en intervenant sur les prix, les transactions permettent d’intégrer l’information disponible).
+
+Évaluation empirique : les marchés des actions semblent démontrer un certain niveau d’efficience, mais il est impossible à déterminer empiriquement de façon définitive.
+
+Thèse d’efficience : adhérer à cette thèse signifie que l’on peut espérer à long terme un rendement proportionnel au risque systématique, et que toutes tentatives d’obtenir un rendement excédentaire à long terme est futile.
+
+## Diapositive 14
+
+Efficience des marchés
+
+« Il est préférable pour un investisseur individuel, de croire en l’efficience des marchés plutôt que d’essayer d’en découvrir les faiblesses. »
+					Gestion Financières, Chapitre 18
+Sophistication des marchés des capitaux : les investisseurs institutionnels intègrent les nouvelles informations très rapidement dans les prix (algotrading, transactions hautes fréquences, etc.)
+Plusieurs exemples d’échecs : certaines grandes firmes de renoms et grands noms de la finance se sont fait prendre au jeu (LTCM, Amaranth, Robertson, etc.) fait 
+Manipulation de marchés: certaines intervenants du marché profitent que les marchés ne soient pas efficients sous la forme forte et en profitent pour manipuler les marchés (LIBOR, Goldman Sachs, etc.)
+
+## Diapositive 15
+
+Efficience des marchés
+
+1. Certaines inefficiences (anomalies) existent :
+
+Momentum: les titres ayant un bon historique de rendement récent ont tendance à bien performer dans un avenir immédiat
+Faibles capitalisations: surperforment les grandes capitalisations, même ajustées pour le risque
+Effet valeur: les titres présentant des facteurs fondamentaux favorables surperforment
+
+
+## Diapositive 16
+
+Efficience des marchés
+
+2. Les marchés sont parfois irrationnels (inefficient)
+
+Ex.:	Bulle spéculative des titres technos (2000), marché immobilier (2007), etc.
+
+Pour que les marchés soient ainsi inefficients, il faut qu’une très grande majorité des investisseurs (individuels & institutionnels) soient irrationnels
+
+## Diapositive 17
+
+Investir dans les marchés
+
+Où vous situez-vous?
+Marché inefficient = gestion active
+
+Choix d’investissement en fonction des anomalies identifiés afin d’obtenir un rendement au-delà du rendement de l’indice (excédentaire anormal ou a)
+
+Marché efficient = gestion passive
+
+Choix de produits financiers diversifiés permettant de répliquer les rendements des marchés (indices boursiers)
+
+## Diapositive 18
+
+Investir dans les marchés
+
+Gestion active
+
+
+Vise à battre en moyenne le marché (marchés ≠ efficients)
+Gestion professionnelle : fonds mutuels à frais élevés
+Investisseur autonome : fait ses propres choix de titres
+
+Gestion passive
+
+
+Vise à obtenir le rendement du marché (marchés = efficients)
+Produits diversifiés : FNB à frais relativement faibles
+Fonds négociés en bourse : réplication d’indices
+
+
+## Diapositive 19
+
+Investir dans les marchés
+
+Ce qu’en pense Warren Buffet
+
+“My advice to the trustee couldn't be more simple: Put 10% of the cash in short-term government bonds and 90% in a very low-cost S&P 500 index fund. (I suggest Vanguard's.) I believe the trust's long-term results from this policy will be superior to those attained by most investors — whether pension funds, institutions or individuals — who employ high-fee managers.”
+ 
+
+## Diapositive 20
+
+Investir dans les marchés
+
+Hypothèses :
+
+Gestion active : 2 % frais par an
+Gestion passive : 0.15 % frais par an
+Rendement élevé : 10 % avant frais
+Rendement faible : 6 % avant frais
+
+
+
+Active : 2% frais par an; passive : 0.15 % frais par an.
+Rendement élevé : 10 % avant frais; Rendement faible : 6 % avant frais.
+
+Évolution de 100 $ investis à différents taux
+
+Diff = frais
+
+Diff = frais
+
+## Diapositive 21
+
+Investir dans les marchés: l’investisseur individuel
+
+Gestion de portefeuille de plein exercice
+Gestionnaire de portefeuille investissant directement dans des titres sélectionnés
+Rémunération au pourcentage de l’actif sous gestion
+Service de conseil en placement
+Conseillé en placement offrant des fonds mutuels (panier d’actifs)
+Salaire à commission & frais de gestion
+Service de conseil en placement (succursale)
+Système de répartition de l’actif automatisé dans des fonds mutuels
+Employé salarié, rémunération à l’heure
+Service de courtage à escompte
+L’investisseur est autonome et effectue ses propres transactions sur une plateforme de transaction internet fournie par la firme de courtage
+Frais de transaction à la pièce
+
+## Diapositive 22
+
+Investir dans les marchés
+
+Investisseur rationnel = investisseur diversifié
+La diversification est la seule opportunité gratuite (free lunch)
+
+
+
+
+
+Risque
+du PF
+
+Nombre de titres
+
+
+
+Risque éliminable
+Risque spécifique
+
+Risque non-éliminable
+Risque systématique
+
+
+
+
+
+## Diapositive 23
+
+Investir dans les marchés
+
+Fonds mutuels
+
+Panier diversifié d’actifs financiers
+Souvent géré par un gestionnaire (gestion active)
+Frais de gestion généralement très élevé
+Closet-fund : fonds qui pour l’essentiel réplique le rendement du marchés, tout en percevant des frais élevés
+S’achète par l’intermédiaire d’un courtier ou d’une institution financière
+
+
+Fonds négociés en bourse
+
+Panier diversifié d’actifs financiers
+Souvent produit répliquant un indice (gestion passive)
+Frais de gestion généralement très bas
+S’achète directement sur les marchés, comme une action (courtier à escompte)
+
+## Diapositive 24
+
+L’investissement et l’impôt
+
+Les revenus de placement doivent être inclus dans le revenu imposable du contribuable selon leur règle d’imposition
+Il est important de comprendre le système d’impôt progressif du système fiscal canadien
+
+## Diapositive 25
+
+L’investissement et l’impôt
+
+ | Compte comptant | CELI | REER
+
+Revenus placement imposables | Oui | Non | Non
+
+Déductibilité fiscale des cotisations | Non | Non | Oui
+
+Imposition des sommes au retrait du compte | Non | Non | Oui
+
+## Diapositive 26
+
+L’investissement et l’impôt
+
+Pour un compte comptant (revenus de placement)
+
+Type de revenu | Règle | Formule
+
+Intérêts | Taxable à 100% | Intérêts après impôts = Intérêts * (1- tm)
+
+Dividendes | Ajustement (1,41) et crédits d’impôts (23.17% au fédéral et 16,779% au Québec) | tdiv = 1,41 * tm – 0,3613 
+(issue de la politique d’imposition des dividendes au Québec)
+Dividendes après impôts= Div * (1 – tdiv)
+
+Gains en capital | Taxable à 50% | Gains en capital après impôts= GC (1-0.5 tm)
+
+## Diapositive 27

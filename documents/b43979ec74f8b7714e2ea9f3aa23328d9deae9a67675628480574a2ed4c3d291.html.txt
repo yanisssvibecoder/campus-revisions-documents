@@ -1,0 +1,1242 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plan de révision — Quiz 1 Finance (lundi 28 sept.)</title>
+<style>
+  :root{
+    --bleu:#154e6f; --bleu2:#1f6f9c; --teal:#0e8f8f; --orange:#e67e22; --rouge:#c0392b;
+    --vert:#1e8449; --jaune:#f39c12; --gris:#f4f6f8; --gris2:#e5e9ee; --encre:#22303c;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Segoe UI', system-ui, -apple-system, Arial, sans-serif; color:var(--encre); background:var(--gris); line-height:1.65;}
+  .wrap{max-width:980px; margin:0 auto; padding:14px;}
+  header.hero{background:linear-gradient(135deg,#0d3a54,#1f6f9c 60%,#0e8f8f); color:#fff; padding:34px 20px 26px; text-align:center;}
+  header.hero h1{font-size:1.9em; margin-bottom:6px;}
+  header.hero .sous{opacity:.92; font-size:1.05em;}
+  .badges{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:14px;}
+  .badge{background:rgba(255,255,255,.16); border:1px solid rgba(255,255,255,.35); border-radius:20px; padding:4px 14px; font-size:.86em;}
+  .badge b{color:#ffd8a8;}
+  /* navigation collante */
+  nav#menu{position:sticky; top:0; z-index:50; background:#0d3a54; box-shadow:0 2px 8px rgba(0,0,0,.25);}
+  nav#menu .in{max-width:980px; margin:0 auto; display:flex; gap:4px; overflow-x:auto; padding:8px 10px; flex-wrap:nowrap;}
+  nav#menu a{color:#cfe8f5; text-decoration:none; font-size:.82em; padding:5px 10px; border-radius:14px; white-space:nowrap;}
+  nav#menu a:hover, nav#menu a.actif{background:#1f6f9c; color:#fff;}
+  #barre-prog{position:sticky; top:40px; z-index:49; background:#fff; border-bottom:2px solid var(--gris2); padding:6px 14px; display:flex; align-items:center; gap:10px; font-size:.85em;}
+  #barre-prog .rail{flex:1; height:10px; background:var(--gris2); border-radius:6px; overflow:hidden;}
+  #barre-prog .fill{height:100%; width:0%; background:linear-gradient(90deg,var(--teal),var(--vert)); transition:width .4s;}
+  /* sections */
+  section{background:#fff; border-radius:14px; padding:26px 28px; margin:18px 0; box-shadow:0 1px 6px rgba(16,40,60,.08);}
+  section h2{color:var(--bleu); font-size:1.45em; padding-bottom:8px; border-bottom:3px solid var(--gris2); margin-bottom:16px;}
+  section h3{color:var(--bleu2); font-size:1.15em; margin:22px 0 8px;}
+  section h4{color:var(--teal); margin:16px 0 6px; font-size:1.02em;}
+  p{margin:8px 0;}
+  ul,ol{margin:8px 0 8px 24px;}
+  li{margin:4px 0;}
+  .encadre{background:#eef7f7; border-left:5px solid var(--teal); border-radius:0 10px 10px 0; padding:12px 16px; margin:12px 0;}
+  .attention{background:#fdf0e7; border-left:5px solid var(--orange);}
+  .danger{background:#fdecea; border-left:5px solid var(--rouge);}
+  .formule{background:#0d3a54; color:#eaf6ff; border-radius:10px; padding:14px 18px; margin:12px 0; font-size:1.12em; text-align:center; font-family:'Cambria Math',Georgia,serif;}
+  .formule small{display:block; color:#9fc6e0; font-size:.72em; margin-top:6px; font-family:'Segoe UI',sans-serif;}
+  .exemple{background:#f8fbfd; border:1px solid var(--gris2); border-radius:10px; padding:14px 16px; margin:12px 0;}
+  .exemple .titre-ex{font-weight:700; color:var(--bleu2); margin-bottom:6px;}
+  table{border-collapse:collapse; width:100%; margin:12px 0; font-size:.94em;}
+  th{background:var(--bleu); color:#fff; padding:8px 10px; text-align:left;}
+  td{border:1px solid var(--gris2); padding:7px 10px; vertical-align:top;}
+  tr:nth-child(even) td{background:#f7fafc;}
+  .rep{background:#eafaf1; border:2px solid var(--vert); border-radius:10px; padding:10px 14px; margin-top:8px; font-weight:600;}
+  .clic{cursor:pointer;}
+  button.reveler{background:var(--bleu2); color:#fff; border:none; border-radius:8px; padding:7px 16px; font-size:.9em; cursor:pointer; margin:6px 0;}
+  button.reveler:hover{background:var(--bleu);}
+  .cache{display:none;}
+  /* quiz */
+  .qcm{background:#fffdf5; border:1px solid #f0dfae; border-radius:10px; padding:14px 16px; margin:14px 0;}
+  .qcm .q{font-weight:600; margin-bottom:8px;}
+  .qcm button.opt{display:block; width:100%; text-align:left; background:#fff; border:1.5px solid var(--gris2); border-radius:8px; padding:8px 12px; margin:5px 0; cursor:pointer; font-size:.95em;}
+  .qcm button.opt:hover{border-color:var(--bleu2); background:#f2f8fc;}
+  .qcm button.opt.bonne{background:#eafaf1; border-color:var(--vert); font-weight:600;}
+  .qcm button.opt.mauvaise{background:#fdecea; border-color:var(--rouge);}
+  .qcm .feedback{margin-top:8px; padding:9px 12px; border-radius:8px; display:none; font-size:.93em;}
+  .qcm .feedback.ok{display:block; background:#eafaf1; border:1px solid var(--vert);}
+  .qcm .feedback.ko{display:block; background:#fdecea; border:1px solid var(--rouge);}
+  /* horaire */
+  #horaire table{font-size:.9em;}
+  #horaire td.heure{white-space:nowrap; font-weight:700; color:var(--bleu); width:110px;}
+  tr.maintenant td{background:#fff8e1 !important; box-shadow:inset 4px 0 0 var(--orange);}
+  tr.passe td{opacity:.45;}
+  .cle{font-size:.8em; color:#777;}
+  /* barre tâches */
+  .tache{display:flex; gap:9px; align-items:flex-start; padding:5px 0;}
+  .tache input[type=checkbox]{width:18px; height:18px; margin-top:3px; accent-color:var(--vert);}
+  .tache label{cursor:pointer;}
+  .num-exo{display:inline-block; background:var(--teal); color:#fff; border-radius:6px; padding:1px 8px; font-size:.78em; margin-right:6px;}
+  .seq{background:#18242e; color:#7fd4a8; border-radius:8px; padding:10px 14px; font-family:Consolas,monospace; font-size:.92em; margin:8px 0; white-space:pre-wrap;}
+  .seq .touche{color:#ffd8a8; font-weight:700;}
+  .retiens{background:#f4ecfb; border-left:5px solid #8e44ad; border-radius:0 10px 10px 0; padding:10px 14px; margin:12px 0;}
+  .retiens b{color:#6c3483;}
+  footer{color:#666; font-size:.85em; text-align:center; padding:22px 10px 30px;}
+  .lexique dt{font-weight:700; color:var(--bleu2);}
+  .lexique dd{margin:2px 0 10px 24px;}
+  @media print{ nav#menu,#barre-prog,button{display:none;} section{box-shadow:none; border:1px solid #ccc;} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <h1>🎯 Plan de révision — Quiz 1 de Finance</h1>
+  <div class="sous">FINA10200 — Gestion financière · Prépare-toi comme si tu n'avais jamais vu la matière. Tout est ici.</div>
+  <div class="badges">
+    <span class="badge">📅 <b>Lundi 28 sept., 12h00</b> — au DÉBUT de la séance</span>
+    <span class="badge">📖 À <b>livres fermés</b></span>
+    <span class="badge">📋 <b>Feuille de formules fournie</b> (même que l'intra)</span>
+    <span class="badge">🛡️ Le quiz <b>ne peut pas baisser</b> ta note</span>
+  </div>
+</header>
+
+<nav id="menu"><div class="in">
+  <a href="#horaire">⏰ Horaire du jour</a>
+  <a href="#exercices">📚 Banque d'exercices</a>
+  <a href="#calculatrice">🧮 1. Calculatrice</a>
+  <a href="#intro">🏢 2. Intro finance</a>
+  <a href="#mathfin">💰 3. Math financières</a>
+  <a href="#obligations">🏦 4. Obligations</a>
+  <a href="#actions">📈 5. Actions</a>
+  <a href="#solutionnees">✍️ 6. Questions solutionnées</a>
+  <a href="#tp">📝 7. TP 1 &amp; TP 2</a>
+  <a href="#formules">📋 8. Feuille de formules</a>
+  <a href="#strategie">🎯 9. Stratégie &amp; erreurs</a>
+</div></nav>
+
+<div id="barre-prog"><span id="prog-txt">0 % complété</span><div class="rail"><div class="fill" id="prog-fill"></div></div></div>
+
+<div class="wrap">
+
+<!-- ══════════════════ 0. MODE D'EMPLOI ══════════════════ -->
+<section id="depart">
+  <h2>🚀 Départ : ce que tu dois savoir sur ce quiz</h2>
+  <div class="encadre">
+    <b>L'essentiel en 4 points</b> (source : annonce officielle de la prof, Mélanie Caron-Harris, 22 sept.) :
+    <ol>
+      <li><b>Quand :</b> lundi 28 septembre, <b>au tout début de la séance</b> (la séance commence à 12h00). <b>Arrive en avance</b> — le quiz se passe au début, pas pendant!</li>
+      <li><b>Format :</b> à <b>livres fermés</b>. Une <b>feuille de formules est attachée au quiz</b> — c'est exactement la même que celle de l'examen intra (« 10200 - Feuille de formules - Intra MAJ 2025 »). Elle est téléchargée dans ton dossier <code>Finance\ZoneCours</code> et reproduite au <a href="#formules">module 8</a>.</li>
+      <li><b>Portée :</b> TOUT ce qui précède la matière « Risque et MÉDAF » (qui commence lundi après le quiz) = <b>Séances 1-2 (intro + math financières), Séance 3 (obligations), Séance 4 (actions)</b> → chapitres 1, 5, 6, 7, 8 du livre.</li>
+      <li><b>Filet de sécurité :</b> si ton % au quiz est <b>inférieur</b> à ton % à l'intra, la pondération du quiz est <b>transférée à l'intra</b>. Le quiz ne peut que t'aider. Absence = transfert automatique. Autrement dit : <b>va-le-faire, tu ne risques rien.</b></li>
+    </ol>
+  </div>
+  <div class="attention">
+    <b>⚠️ La règle d'or de la prof (FAQ officielle) :</b> les démarches doivent présenter <b>tes formules en entier</b> avec les valeurs substituées. Une réponse « N=28, PMT=30$, PV=850$, FV=1000$, I/Y=… » <b>N'EST PAS ACCEPTÉE</b>. Tu peux utiliser la calculatrice pour trouver le chiffre, mais tu dois écrire la formule complète sur ta feuille.
+  </div>
+  <h3>Comment utiliser ce plan aujourd'hui</h3>
+  <ul>
+    <li>Suis l'<a href="#horaire">horaire</a> bloc par bloc. Chaque bloc a son échéance. Coche les tâches : ta progression est <b>sauvegardée automatiquement</b> dans le navigateur.</li>
+    <li>Les <b>boutons « Révéler »</b> cachent les réponses des exercices : essaie vraiment AVANT de cliquer.</li>
+    <li>Les <b>quiz QCM</b> en fin de module te disent si tu as compris. Refais-les ce soir pour l'auto-test final.</li>
+    <li>Pour chaque calcul, je te donne la <b>séquence de touches BA II Plus</b> (fonds sombres). En parallèle, refais le calcul sur TA calculatrice : c'est la seule façon que tes mains apprennent.</li>
+  </ul>
+</section>
+
+<!-- ══════════════════ HORAIRE ══════════════════ -->
+<section id="horaire">
+  <h2>⏰ Horaire du dimanche — version « réveil 13h » (13h00 → 22h45), prières incluses</h2>
+  <p class="cle">La ligne <b>surlignée en orange</b> est le bloc en cours selon l'heure de ton ordinateur. Les blocs passés deviennent pâles. <b>Échéance = l'heure maximale où ce bloc doit être terminé.</b></p>
+  <p class="cle">🕌 <b>Prières (dim. 27 sept., Montréal, convention IslamicFinder)</b> : Fajr 5h25 · Dhuhr 12h46 · Asr 16h05 · Maghrib 18h47 · Isha 20h08 — chaque prière a son créneau dans l'horaire ci-dessous. Les horaires varient légèrement selon la convention de calcul : si ton application/mosquée diffère de 5-10 min, suis la tienne, les créneaux sont assez souples pour absorber.</p>
+  <div class="encadre"><b>⚡ LE PROTOCOLE ANTI-RETARD (à suivre à la lettre) :</b> pour CHAQUE exercice du livre : <b>1)</b> lis l'énoncé (lien direct dans la <a href="#exercices">banque d'exercices</a>) → <b>2)</b> schéma temporel + démarre le calcul <b>sans regarder le corrigé</b> → <b>3)</b> si bloqué plus de 2 minutes ou fini : ouvre le corrigé, termine WITH lui, coche l'exercice. <b>6-8 min par exercice, pas plus.</b> Le but n'est pas de tout réussir du premier coup, c'est de TOUCHER à chaque exercice avec correction immédiate. Si un bloc prend plus de 20 min de retard : saute au prochain bloc 🔴 et mets ce qui reste dans la <b>file d'attente de lundi matin</b> (8h00-11h30 avant le quiz de 12h00).</div>
+    <div class="encadre"><b>🧠 LA LOGIQUE DE LA SÉLECTION (pourquoi ces exercices-là) :</b> chaque exercice choisi représente un <b>TYPE de problème unique</b> — le maîtriser = maîtriser tous ses clones. Ce qu'on saute délibérément (et pourquoi) : <b>ch. 5 :</b> 3, 9, 11, 14, 19, 20 (clones de 2/5/15 avec d'autres chiffres) · <b>ch. 6 :</b> 2, 5, 6, 8, 9, 10 (clones de VAA/PMT), 15, 17, 19, 22, 31, 33, 35 (clones de conversions/n), 25 (clone rapide de 13), 49, 52, 55, 61 (clones de 45/47), 59, 69, 72 → <b>lundi matin à tête fraîche</b> · <b>ch. 7 :</b> 6 (clone de 3), 19 (couvert par la question solutionnée BDJ), 26-27 (rapides, si tu veux) · <b>ch. 8 :</b> 1 (couvert par la question solutionnée Entendus), 4, 12, 13 (clones de Gordon 2 étapes), 20 (clone de 19 → lundi). Si un type te semble encore flou après son exercice : fais UN clone de plus dans la <a href="#exercices">banque</a>, pas trois.</div>
+  <table id="tab-horaire">
+    <tr><th>Heure</th><th>Bloc</th><th>Contenu &amp; échéance</th></tr>
+    <tr data-debut="13:00" data-fin="13:20"><td class="heure">13h00 – 13h20</td><td>🕌 + 🥐 Dhuhr + brunch</td><td><div class="tache"><input type="checkbox" data-k="n1" id="n1"><label for="n1"><b>🕌 Dhuhr en premier</b> (tu étais endormi à 12h46 — sa fenêtre est ouverte jusqu'à ~16h05, aucun problème). Puis brunch léger, grand verre d'eau, café/thé si dispo, et F5 sur ce plan.</label></div></td></tr>
+    <tr data-debut="13:20" data-fin="13:35"><td class="heure">13h20 – 13h35</td><td>🧮 Calculatrice expresse</td><td><div class="tache"><input type="checkbox" data-k="n2" id="n2"><label for="n2">Module 1 en mode rapide : les <b>5 gestes</b> uniquement, refaits sur TA machine (surtout le Geste E — obligations). <b>Échéance 13h35.</b></label></div></td></tr>
+    <tr data-debut="13:35" data-fin="14:35"><td class="heure">13h35 – 14h35</td><td>💰 Théorie math fin COMPLÈTE</td><td><div class="tache"><input type="checkbox" data-k="n3" id="n3"><label for="n3">Module 3 au complet : montant simple → annuité → perpétuité → <b>conversions de taux</b> → croissance → valeur entre 2 dates + les 4 étapes de la démarche universelle. Les exemples A1-A15 : fais-en la moitié sur ta machine. <b>C'est le socle de tout le quiz — ne le saute pas.</b> <b>Échéance 14h35.</b></label></div></td></tr>
+    <tr data-debut="14:35" data-fin="16:00"><td class="heure">14h35 – 16h00</td><td>📖 🔴 SÉLECTION ch. 5 + ch. 6 (un exercice par TYPE)</td><td><div class="tache"><input type="checkbox" data-k="n4" id="n4"><label for="n4"><b>Ch. 5 :</b> 2, 4, 5, 6, 15 &nbsp;·&nbsp; <b>Ch. 6 :</b> 4, 11, 13, 14, 24, 29, 41, 42, 45, 47, 54 — <a href="#exercices">banque</a> · corrigés ch. <a href="Corrigé - Chapitre 5 (exercices).html">5</a>/<a href="Corrigé - Chapitre 6 (exercices).html">6</a>. Protocole 5-6 min/ex. <b>Échéance 16h00.</b></label></div></td></tr>
+    <tr data-debut="16:00" data-fin="16:10"><td class="heure">16h00 – 16h10</td><td>🕌 Asr</td><td><b>🕌 Asr ~16h05</b> — la fenêtre ferme bientôt (Maghrib ~18h47).</td></tr>
+    <tr data-debut="16:10" data-fin="17:00"><td class="heure">16h10 – 17h00</td><td>🍽️ SOUPER</td><td>Ton souper, vraie coupure (50 min).</td></tr>
+    <tr data-debut="17:00" data-fin="17:45"><td class="heure">17h00 – 17h45</td><td>🏦 Théorie obligations</td><td><div class="tache"><input type="checkbox" data-k="n10" id="n10"><label for="n10">Module 4 : prix, RAE, entre 2 dates, prime/escompte, clauses, Fisher, courbe, durée + exemples B1-B3. <b>Échéance 17h45.</b></label></div></td></tr>
+    <tr data-debut="17:45" data-fin="18:55"><td class="heure">17h45 – 18h55</td><td>📖 🔴 SÉLECTION ch. 7 (types uniques)</td><td><div class="tache"><input type="checkbox" data-k="n11" id="n11"><label for="n11">Exercices <b>3, 7, 8, 17, 24, 31</b> + <b>au moins 2 exercices supplémentaires — Obligations</b> (essentiels selon la prof). <b>Échéance 18h55.</b></label></div></td></tr>
+    <tr data-debut="18:55" data-fin="19:05"><td class="heure">18h55 – 19h05</td><td>🕌 Maghrib</td><td><b>🕌 Maghrib ~18h47</b> — coupure parfaite entre les obligations et les actions.</td></tr>
+    <tr data-debut="19:05" data-fin="19:45"><td class="heure">19h05 – 19h45</td><td>📈 Théorie actions</td><td><div class="tache"><input type="checkbox" data-k="n12" id="n12"><label for="n12">Module 5 : privilégiées, Gordon (piège D₀/D₁!), 2 étapes, C/B + exemples. <b>Échéance 19h45.</b></label></div></td></tr>
+    <tr data-debut="19:45" data-fin="20:05"><td class="heure">19h45 – 20h05</td><td>📖 🔴 ch. 8 (1/2)</td><td><div class="tache"><input type="checkbox" data-k="n13" id="n13"><label for="n13">Exercices <b>8, 10, 11</b> — <a href="#exercices">banque</a> · <a href="Corrigé - Chapitre 8 (actions, exercices quiz).html">corrigé</a>. <b>Échéance 20h05.</b></label></div></td></tr>
+    <tr data-debut="20:05" data-fin="20:15"><td class="heure">20h05 – 20h15</td><td>🕌 Isha <span class="cle">(sert de pause)</span></td><td><b>🕌 Isha ~20h08</b> — 10 minutes de coupure avant le sprint final.</td></tr>
+    <tr data-debut="20:15" data-fin="20:45"><td class="heure">20h15 – 20h45</td><td>📖 🔴 ch. 8 (2/2)</td><td><div class="tache"><input type="checkbox" data-k="n13b" id="n13b"><label for="n13b">Exercices <b>15, 16, 17, 23</b>. <b>Échéance 20h45.</b></label></div></td></tr>
+    <tr data-debut="20:45" data-fin="21:50"><td class="heure">20h45 – 21h50</td><td>📝 🔴 TP 1 + TP 2</td><td><div class="tache"><input type="checkbox" data-k="n14" id="n14"><label for="n14"><b>Les meilleurs prédicteurs du quiz.</b> Tente chaque exercice 6-8 min au brouillon, puis étudie la solution (module 7 ou <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jcaymG1QSnUuvHnYySDcPR0" target="_blank">vidéos TP 1</a> / <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jdOTRIO6zeHiI3wpvFRjWeY" target="_blank">TP 2</a>). <b>Échéance 21h50.</b></label></div></td></tr>
+    <tr data-debut="21:50" data-fin="22:20"><td class="heure">21h50 – 22h20</td><td>✍️ Questions solutionnées (mode étude)</td><td><div class="tache"><input type="checkbox" data-k="n15" id="n15"><label for="n15">Module 6 : <b>retraite, Chréphane, BDJ, Entendus, Villa</b> — lis-les avec leur solution : elles couvrent exactement les types des exercices qu'on a sautés (Gordon simple, coupon d'une nouvelle obligation, prix avec temps écoulé…). <b>Échéance 22h20.</b></label></div></td></tr>
+    <tr data-debut="22:20" data-fin="22:45"><td class="heure">22h20 – 22h45</td><td>🎯 Clôture</td><td><div class="tache"><input type="checkbox" data-k="n16" id="n16"><label for="n16">Module 9 (les 7 erreurs fatales + routine de question) + feuille de formules (module 8) + <b>1 QCM par module</b> en test éclair. <b>Échéance 22h45.</b></label></div></td></tr>
+    <tr data-debut="22:45" data-fin="23:59"><td class="heure">😴 Dodo</td><td>22h45 au lit — les chats DEHORS 😼</td><td><b>Nuit critique : 8h+ de sommeil</b> (réveil ~7h, quiz à 12h00). Après une nuit hachée par les chats, c'est CETTE nuit qui décide de ta performance de lundi. Porte fermée, téléphones loin, réveil 7h00.</td></tr>
+  </table>
+  <div class="attention"><b>🎒 LUNDI MATIN (7h00 – 11h30) — les durs à tête reposée :</b> ① 8h00 : ch. 6 complexes <b>59, 69, 72</b> (Bilbo, Chicago Bulls) + ch. 8 <b>19, 20</b> (Formula 51, Chartreuse), ② 9h00 : re-test des QCM ratés + TP non terminés, ③ 10h30 : relecture feuille de formules + module 9. Et arrive EN AVANCE : <b>le quiz débute au début de la séance de 12h00.</b></div>
+  <div class="encadre"><b>📌 La totalité des exercices demandés par la prof est accessible dans la <a href="#exercices">📚 BANQUE D'EXERCICES COMPLÈTE</a></b> (67 exercices du livre avec lien direct à la page exacte de TON manuel PDF + corrigé par chapitre + supplémentaires + TP + capsules + vidéos). Tout est là, tu n'as rien à chercher ailleurs.</div>
+</section>
+<!-- ══════════════════ BANQUE D'EXERCICES ══════════════════ -->
+<section id="exercices">
+  <h2>📚 Banque d'exercices complète — tout ce qui est demandé, cliquable</h2>
+  <p><b>Chaque ligne = un exercice officiellement demandé par la prof pour le quiz.</b> Clique sur la page pour ouvrir l'énoncé directement dans ton manuel PDF (4e édition), clique sur « Corrigé » pour la solution complète. Coche au fur et à mesure — la barre du haut suit ta progression globale.</p>
+  <div class="encadre">💰 <b>Règle d'or de la prof :</b> livre OUVERT pas nécessaire — au quiz, écris toujours la formule en entier avec les valeurs AVANT le résultat. Les corrigés montrent la démarche exigée.</div>
+
+  <h3>Chapitre 5 — Mathématiques financières : montant simple (12 exercices · bloc 8h15)</h3>
+  <p class="cle">Énoncés : manuel p. 150-151 · <a href="Corrigé - Chapitre 5 (exercices).html">📘 Corrigé complet ch. 5</a> (tes solutions détaillées, déjà prêtes)</p>
+  <table>
+    <tr><th>Fait</th><th>Ex.</th><th>Énoncé (page du manuel)</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e5-2" id="e5-2"></td><td>2</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Valeurs capitalisées (série rapide)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-3" id="e5-3"></td><td>3</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Valeurs actualisées</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-4" id="e5-4"></td><td>4</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Taux d'intérêt</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-5" id="e5-5"></td><td>5</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Nombre de périodes</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-6" id="e5-6"></td><td>6</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Taux d'intérêt (doubler un montant)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-7" id="e5-7"></td><td>7</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Nombre de périodes</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-9" id="e5-9"></td><td>9</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Nombre de périodes (épargne études)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-11" id="e5-11"></td><td>11</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=170" target="_blank">p. 150</a></td><td>Valeurs actualisées (héritage)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-14" id="e5-14"></td><td>14</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=171" target="_blank">p. 151</a></td><td>Valeur actualisée (BD de Superman)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-15" id="e5-15"></td><td>15</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=171" target="_blank">p. 151</a></td><td>Taux de rendement (sculpture de Degas)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-19" id="e5-19"></td><td>19</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=171" target="_blank">p. 151</a></td><td>Valeur capitalisée (25 000 $ à placer)</td></tr>
+    <tr><td><input type="checkbox" data-k="e5-20" id="e5-20"></td><td>20</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=171" target="_blank">p. 151</a></td><td>Nombre de périodes (10 000 $ → 100 000 $)</td></tr>
+  </table>
+
+  <h3>Chapitre 6 — Mathématiques financières : annuités, perpétuités, taux (32 exercices · blocs 11h00, 13h05, 14h40)</h3>
+  <p class="cle">Énoncés : manuel p. 180-188 · <a href="Corrigé - Chapitre 6 (exercices).html">📘 Corrigé complet ch. 6</a> (couvre les 32, section par section)</p>
+  <table>
+    <tr><th>Fait</th><th>Ex.</th><th>Énoncé</th><th>Fait</th><th>Ex.</th><th>Énoncé</th></tr>
+    <tr><td><input type="checkbox" data-k="e6-2" id="e6-2"></td><td>2</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-24" id="e6-24"></td><td>24</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-4" id="e6-4"></td><td>4</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-25" id="e6-25"></td><td>25</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-5" id="e6-5"></td><td>5</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-29" id="e6-29"></td><td>29</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-6" id="e6-6"></td><td>6</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-31" id="e6-31"></td><td>31</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-8" id="e6-8"></td><td>8</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-33" id="e6-33"></td><td>33</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-9" id="e6-9"></td><td>9</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-35" id="e6-35"></td><td>35</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=203" target="_blank">p. 183</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-10" id="e6-10"></td><td>10</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-41" id="e6-41"></td><td>41</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=204" target="_blank">p. 184</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-11" id="e6-11"></td><td>11</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=201" target="_blank">p. 181</a></td><td><input type="checkbox" data-k="e6-42" id="e6-42"></td><td>42</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=204" target="_blank">p. 184</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-13" id="e6-13"></td><td>13</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-45" id="e6-45"></td><td>45</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=204" target="_blank">p. 184</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-14" id="e6-14"></td><td>14</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-47" id="e6-47"></td><td>47</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=205" target="_blank">p. 185</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-15" id="e6-15"></td><td>15</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-49" id="e6-49"></td><td>49</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=205" target="_blank">p. 185</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-17" id="e6-17"></td><td>17</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-52" id="e6-52"></td><td>52</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=205" target="_blank">p. 185</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-19" id="e6-19"></td><td>19</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-54" id="e6-54"></td><td>54</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=205" target="_blank">p. 185</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-22" id="e6-22"></td><td>22</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=202" target="_blank">p. 182</a></td><td><input type="checkbox" data-k="e6-55" id="e6-55"></td><td>55</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=205" target="_blank">p. 185</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-59" id="e6-59"></td><td>59</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=206" target="_blank">p. 186</a> <i>(Bilbo!)</i></td><td><input type="checkbox" data-k="e6-61" id="e6-61"></td><td>61</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=206" target="_blank">p. 186</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e6-69" id="e6-69"></td><td>69</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=207" target="_blank">p. 187</a> <i>(Chicago Bulls)</i></td><td><input type="checkbox" data-k="e6-72" id="e6-72"></td><td>72</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=208" target="_blank">p. 188</a></td></tr>
+  </table>
+
+  <h3>Chapitre 7 — Obligations (10 exercices · bloc 17h00) + supplémentaires</h3>
+  <p class="cle">Énoncés : manuel p. 220-225 · <a href="Corrigé - Chapitre 7 (obligations, exercices quiz).html">📘 Corrigé complet ch. 7</a> (énoncés réécrits + solutions pas à pas)</p>
+  <table>
+    <tr><th>Fait</th><th>Ex.</th><th>Énoncé</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e7-3" id="e7-3"></td><td>3</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=240" target="_blank">p. 220</a></td><td>Prix d'une obligation (CIR)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-6" id="e7-6"></td><td>6</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=240" target="_blank">p. 220</a></td><td>Prix avec temps écoulé (Simonato)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-7" id="e7-7"></td><td>7</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=240" target="_blank">p. 220</a></td><td>RAE à partir de la cote (Fleur)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-8" id="e7-8"></td><td>8</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=243" target="_blank">p. 223</a></td><td>Trouver le taux de coupon (Reznik)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-17" id="e7-17"></td><td>17</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=244" target="_blank">p. 224</a></td><td>Risque de taux FRA/CAN</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-19" id="e7-19"></td><td>19</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=244" target="_blank">p. 224</a></td><td>Coupon d'une nouvelle obligation (CAT)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-24" id="e7-24"></td><td>24</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=244" target="_blank">p. 224</a></td><td>Théorie : prix, prime, escompte</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-26" id="e7-26"></td><td>26 <i>(a-b)</i></td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=245" target="_blank">p. 225</a></td><td>Zéro-coupon vs coupons (émission)</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-27" id="e7-27"></td><td>27</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=245" target="_blank">p. 225</a></td><td>Échéance et pair</td></tr>
+    <tr><td><input type="checkbox" data-k="e7-31" id="e7-31"></td><td>31</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=245" target="_blank">p. 225</a></td><td>Obligations non conventionnelles (Tour Magne)</td></tr>
+  </table>
+  <div class="tache"><input type="checkbox" data-k="sup-obl" id="sup-obl"><label for="sup-obl"><b>+ Exercices supplémentaires — Obligations</b> : <a href="ZoneCours/Exercices supplementaires - Obligations.docx">📄 document</a> — la prof : « les exercices du livre sont insuffisants pour bien vous préparer au quiz » → <b>essentiels</b>. Travaille-les au bloc 17h00 (les concepts croisent les exercices du livre).</label></div>
+  <div class="tache"><input type="checkbox" data-k="sup-taux" id="sup-taux"><label for="sup-taux"><b>+ Exercices supplémentaires — conversion de taux</b> : <a href="ZoneCours/Exercices supplementaires - conversion de taux.docx">📄 document</a> + <a href="ZoneCours/Exercices extra et solutions - conversion de taux.docx">📄 extra avec solutions</a> — à faire pendant le bloc CH. 6 si tu veux du volume en plus, sinon lundi matin.</label></div>
+
+  <h3>Chapitre 8 — Actions (13 exercices · bloc 19h15)</h3>
+  <p class="cle">Énoncés : manuel p. 260-262 · <a href="Corrigé - Chapitre 8 (actions, exercices quiz).html">📘 Corrigé complet ch. 8</a> (énoncés réécrits + solutions pas à pas)</p>
+  <table>
+    <tr><th>Fait</th><th>Ex.</th><th>Énoncé</th><th>Fait</th><th>Ex.</th><th>Énoncé</th></tr>
+    <tr><td><input type="checkbox" data-k="e8-1" id="e8-1"></td><td>1</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=280" target="_blank">p. 260</a></td><td><input type="checkbox" data-k="e8-13" id="e8-13"></td><td>13</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-4" id="e8-4"></td><td>4</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=280" target="_blank">p. 260</a></td><td><input type="checkbox" data-k="e8-15" id="e8-15"></td><td>15</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-8" id="e8-8"></td><td>8</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td><td><input type="checkbox" data-k="e8-16" id="e8-16"></td><td>16</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-10" id="e8-10"></td><td>10</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td><td><input type="checkbox" data-k="e8-17" id="e8-17"></td><td>17</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-11" id="e8-11"></td><td>11</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td><td><input type="checkbox" data-k="e8-19" id="e8-19"></td><td>19</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=282" target="_blank">p. 262</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-12" id="e8-12"></td><td>12</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=281" target="_blank">p. 261</a></td><td><input type="checkbox" data-k="e8-20" id="e8-20"></td><td>20</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=282" target="_blank">p. 262</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e8-23" id="e8-23"></td><td>23</td><td><a href="Manuel - Gestion financière (4e édition).pdf#page=282" target="_blank">p. 262</a> <i>(croissance 4 paliers)</i></td><td colspan="3"></td></tr>
+  </table>
+
+  <h3>Travaux pratiques + questions solutionnées (bloc 21h05)</h3>
+  <table>
+    <tr><th>Fait</th><th>Quoi</th><th>Énoncé</th><th>Solution</th></tr>
+    <tr><td><input type="checkbox" data-k="tp1" id="tp1"></td><td><b>TP 1</b> — 3 exercices (math fin)</td><td><a href="ZoneCours/TP 1 - Mathematiques financieres.pdf" target="_blank">📄 PDF</a></td><td><a href="#tp">Module 7 du plan</a> · <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jcaymG1QSnUuvHnYySDcPR0" target="_blank">▶ vidéos officielles</a></td></tr>
+    <tr><td><input type="checkbox" data-k="tp2" id="tp2"></td><td><b>TP 2</b> — 2 exercices (titres)</td><td><a href="ZoneCours/TP 2 - Evaluation de titres.pdf" target="_blank">📄 PDF</a></td><td><a href="#tp">Module 7 du plan</a> · <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jdOTRIO6zeHiI3wpvFRjWeY" target="_blank">▶ vidéos officielles</a></td></tr>
+    <tr><td><input type="checkbox" data-k="qs1" id="qs1"></td><td><b>Q. solutionnée « retraite »</b></td><td><a href="#solutionnees">Module 6 — Q1</a></td><td>solution pas à pas incluse</td></tr>
+    <tr><td><input type="checkbox" data-k="qs2" id="qs2"></td><td><b>Q. solutionnées Chréphane &amp; BDJ</b> (obligations)</td><td><a href="#solutionnees">Module 6 — Q2/Q3</a></td><td>solutions pas à pas incluses</td></tr>
+    <tr><td><input type="checkbox" data-k="qs3" id="qs3"></td><td><b>Q. solutionnées Entendus &amp; Villa</b> (actions)</td><td><a href="#solutionnees">Module 6 — Q4/Q5</a></td><td>solutions pas à pas incluses</td></tr>
+    <tr><td><input type="checkbox" data-k="caps" id="caps"></td><td><b>Capsules : exercices A1-A15 + C1-C4 + B1-B3</b></td><td><a href="#mathfin">Module 3</a> + <a href="#obligations">Module 4</a></td><td>réponses officielles incluses (boutons 👁)</td></tr>
+  </table>
+
+  <h3>Vidéos du cours (si tu veux revoir une notion à l'oral)</h3>
+  <ul>
+    <li><a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jcaymG1QSnUuvHnYySDcPR0" target="_blank">▶ TP 1 — solutions officielles (playlist)</a></li>
+    <li><a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jdOTRIO6zeHiI3wpvFRjWeY" target="_blank">▶ TP 2 — solutions officielles (playlist)</a></li>
+    <li>Les capsules PPT (Séance 2 capsules 1-5, Ch. 7, Ch. 8) : dossier <a href="ZoneCours/S1 Chapitre 1 - Introduction a la finance.pptx">ZoneCours</a> — le contenu essentiel est déjà retranscrit dans les modules 3-5.</li>
+  </ul>
+</section>
+
+<!-- ══════════════════ MODULE 1 : CALCULATRICE ══════════════════ -->
+<section id="calculatrice">
+  <h2>🧮 Module 1 — La calculatrice BA II Plus pour débutant total</h2>
+  <p><b>Pourquoi c'est le module 1 :</b> au quiz, la calculatrice est ton outil de vitesse. Pour trouver un <b>taux de rendement à l'échéance (RAE/TRE)</b> d'une obligation, elle est même <b>obligatoire</b> (essai-erreur à la main = trop long, la prof le confirme dans la FAQ). Mais souviens-toi : <b>la calculatrice trouve le chiffre, ta plume écrit la formule.</b></p>
+
+  <div class="encadre"><b>🖩 SI TU UTILISES UNE SHARP EL-733A (calculatrice physique) :</b> tout marche pareil avec cette traduction : <b>2ND → 2ndf</b> · <b>2ND CLR TVM → 2ndf + CA</b> (CA = Clear All, en orange au-dessus d'une touche d'effacement — vérifie avec le test : tape <code>99 N</code>, <code>2ndf CA</code>, <code>RCL N</code> → doit afficher 0) · <b>I/Y → i</b> · <b>CPT → COMP</b> · <b>+/− → +/−</b>. N, PV, PMT, FV sont identiques. ⚠️ <b>CA efface AUSSI les mémoires</b> : écris tes taux périodiques sur papier (6+ décimales) au lieu de les stocker. Pas de P/Y à gérer (le cours travaille au taux périodique manuel de toute façon). Toutes les séquences de ce plan se lisent alors : remplace simplement I/Y par i et CPT par COMP.</div>
+
+  <h3>1.1 Ton clavier décrypté (seulement ce qui compte)</h3>
+  <table>
+    <tr><th>Touche</th><th>Nom</th><th>À quoi ça sert</th></tr>
+    <tr><td><b>2ND</b> (&amp;)</td><td>Seconde fonction</td><td>Active la petite fonction écrite <u>au-dessus</u> d'une touche (ex. <b>2ND CLR TVM</b> au-dessus de FV).</td></tr>
+    <tr><td><b>N</b></td><td>Nombre de périodes</td><td>Combien de versements/périodes AU TOTAL.</td></tr>
+    <tr><td><b>I/Y</b></td><td>Taux par période</td><td>Le taux <b>périodique</b> (celui qui matche la période de tes versements).</td></tr>
+    <tr><td><b>PV</b></td><td>Valeur actuelle</td><td>Montant au début (aujourd'hui). Tu l'entres en <b>négatif</b> si c'est toi qui paies.</td></tr>
+    <tr><td><b>PMT</b></td><td>Versement</td><td>Le montant récurrent ÉGAL (annuité).</td></tr>
+    <tr><td><b>FV</b></td><td>Valeur future</td><td>Montant à la fin.</td></tr>
+    <tr><td><b>CPT</b> (%)</td><td>Compute</td><td>« Calcule-moi la case vide » — tu appuies dessus PUIS la touche cherchée.</td></tr>
+    <tr><td><b>2ND CLR TVM</b></td><td>Effacer TVM</td><td>Remet N, I/Y, PV, PMT, FV à zéro. <b>À faire avant CHAQUE problème.</b></td></tr>
+  </table>
+  <div class="danger"><b>🚨 La convention des signes (l'erreur #1 des débutants) :</b> la calculatrice voit l'argent comme des flux : ce qui <b>sort de ta poche = négatif</b>, ce qui <b>entre dans ta poche = positif</b>. Un seul signe par problème, sinon « Error 5 ». Ex. tu places −1 000 (sortie) aujourd'hui pour recevoir +1 500 (entrée) plus tard.</div>
+
+  <h3>1.2 Réglages à faire UNE fois</h3>
+  <h4>Nombre de décimales (4 suffit, 8 pour vérifier)</h4>
+  <div class="seq"><span class="touche">2ND</span> . (le point = FORMAT) → tape <span class="touche">4</span> → <span class="touche">ENTER</span> → <span class="touche">2ND</span> <span class="touche">CPT</span> (QUIT)  <br>→ l'écran affichera DEC = 4.0000. La prof exige de la précision : garde le maximum de décimales dans tes calculs intermédiaires (utilise la touche <b>STO 1</b> pour mémoriser un résultat, <b>RCL 1</b> pour le rappeler).</div>
+
+  <h3>1.3 L'approche du cours : le taux périodique MANUEL</h3>
+  <div class="encadre">Le guide BA II Plus du cours (dans ton dossier ZoneCours) utilise la méthode suivante, et c'est celle-ci que tu dois maîtriser : <b>tu calcules TOI-MÊME le taux périodique</b> (aligné sur la fréquence des versements), puis tu le mets dans I/Y. Pas de magie P/Y : tu gardes le contrôle. (Si tu connais déjà P/Y, tu peux l'utiliser, mais l'approche manuelle colle aux démarches écrites exigées.)</div>
+
+  <h3>1.4 Les 5 gestes de base — avec exemples complets</h3>
+
+  <h4>Geste A — Montant simple : capitaliser (VA → VC)</h4>
+  <div class="exemple"><div class="titre-ex">1 000 $ placés 2 ans à 3 % nominal capitalisation semestrielle. VC = ?</div>
+    Taux semestriel : 3 %/2 = 1,5 %. Périodes : 2 ans × 2 = 4 semestres.<br>
+    Formule à écrire : VC = 1 000 × (1,015)<sup>4</sup> = <b>1 061,36 $</b>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 4 <span class="touche">N</span> · 1.5 <span class="touche">I/Y</span> · 1000 <span class="touche">+/−</span> <span class="touche">PV</span> · 0 <span class="touche">PMT</span> · <span class="touche">CPT</span> <span class="touche">FV</span> → 1 061,3636</div>
+  </div>
+
+  <h4>Geste B — Montant simple : actualiser (VC → VA)</h4>
+  <div class="exemple"><div class="titre-ex">1 000 $ à recevoir dans 1 an, taux nominal 6 % capitalisation mensuelle. VA = ?</div>
+    Taux mensuel : 0,5 %. Périodes : 12 mois.<br>
+    Formule : VA = 1 000 × (1,005)<sup>−12</sup> = <b>941,91 $</b>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 12 <span class="touche">N</span> · 0.5 <span class="touche">I/Y</span> · 0 <span class="touche">PV</span> · 0 <span class="touche">PMT</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">PV</span> → −941,9053 (le signe est une convention d'entrée/sortie)</div>
+  </div>
+
+  <h4>Geste C — Conversion de taux (l'arme secrète)</h4>
+  <div class="exemple"><div class="titre-ex">Quel est le taux mensuel équivalent à un taux effectif de 6 % ?</div>
+    Formule : (1 + i<sub>eff</sub>) = (1 + i<sub>mens</sub>)<sup>12</sup> → i<sub>mens</sub> = (1,06)<sup>1/12</sup> − 1 = <b>0,486755 % par mois</b>
+    <div class="seq">1.06 <span class="touche">y^x</span> ( 1 ÷ 12 ) <span class="touche">=</span> → 1.0048675 · <span class="touche">−</span> 1 <span class="touche">=</span> → 0.0048675</div>
+  </div>
+
+  <h4>Geste D — Annuité : VAA et VFA</h4>
+  <div class="exemple"><div class="titre-ex">12 versements mensuels de 100 $, taux effectif 6 % (donc i<sub>mens</sub> = 0,486755 %, calculé au Geste C). Valeur acquise au dernier versement ?</div>
+    Formule : VFA = PMT × [(1+i)<sup>n</sup> − 1]/i = 100 × [(1,0048675)<sup>12</sup> − 1]/0,0048675 = <b>1 232,71 $</b> <span class="cle">(valeur affichée par le guide du cours; le calcul exact sans arrondir le taux donne 1 232,65 $ — l'écart vient de l'arrondi du taux dans le guide)</span>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 12 <span class="touche">N</span> · 0.486755 <span class="touche">I/Y</span> · 0 <span class="touche">PV</span> · 100 <span class="touche">+/−</span> <span class="touche">PMT</span> · <span class="touche">CPT</span> <span class="touche">FV</span> → 1 232.7070</div>
+  </div>
+
+  <h4>Geste E — Obligation : prix (PV) et RAE (I/Y)</h4>
+  <div class="exemple"><div class="titre-ex">VN 1 000 $, coupon 5 % (25 $ semestriel), 12 ans (24 périodes), TRE 8 % (4 % sem.). Prix ?</div>
+    Formule : P = 25 × [1 − (1,04)<sup>−24</sup>]/0,04 + 1 000 × (1,04)<sup>−24</sup> = <b>771,30 $</b>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 24 <span class="touche">N</span> · 4 <span class="touche">I/Y</span> · 25 <span class="touche">PMT</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">PV</span> → −771.30</div>
+  </div>
+  <div class="exemple"><div class="titre-ex">Même obligation achetée 1 040 $. RAE nominal ?</div>
+    On cherche le taux semestriel i tel que 1 040 = 25 × [1−(1+i)<sup>−24</sup>]/i + 1000(1+i)<sup>−24</sup>. La calculatrice le trouve par itération :
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 24 <span class="touche">N</span> · 1040 <span class="touche">+/−</span> <span class="touche">PV</span> · 25 <span class="touche">PMT</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">I/Y</span> → ≈ 2,526 (% semestriel) × 2 = <b>≈ 5,05 % nominal sem.</b></div>
+    (C'est le seul calcul réellement IMPOSSIBLE à faire à la main dans un temps raisonnable — d'où la calculatrice obligatoire.)
+  </div>
+
+  <h3>1.5 Les pièges qui coûtent des points</h3>
+  <ul>
+    <li><b>Begin/End :</b> si le premier versement est <b>immédiat (début de période)</b>, calcule l'annuité normale (fin) puis <b>multiplie par (1+i)</b>. C'est l'approche du cours (plus simple que le mode BGN de la calculatrice).</li>
+    <li><b>Oublier 2ND CLR TVM</b> entre deux problèmes → les vieux N/PV contaminent le calcul.</li>
+    <li><b>I/Y est un POURCENTAGE</b> : tu entres 4.5 pour 4,5 % (pas 0.045). Mais dans les formules écrites, tu utilises 0,045.</li>
+    <li><b>N doit matcher la période de I/Y</b> : mois avec mois, semestres avec semestres.</li>
+    <li><b>Precision :</b> convertis les taux avec un maximum de décimales (STO/RCL), arrondis seulement à la fin.</li>
+  </ul>
+  <div class="retiens"><b>À retenir :</b> 2ND CLR TVM → N, I/Y (périodique!), PV, PMT, FV → CPT. Signes cohérents. Début de période = ×(1+i). Pour le RAE d'une obligation : N, ±PV, PMT (coupon), FV (VN) → CPT I/Y, puis ×2 (nominal semestriel).</div>
+</section>
+
+<!-- ══════════════════ MODULE 2 : INTRO ══════════════════ -->
+<section id="intro">
+  <h2>🏢 Module 2 — Séance 1 : Introduction à la finance (concepts)</h2>
+  <p>Partie théorique du quiz : pas de calcul, mais des définitions à connaître froid. Lis ce module en 15 minutes, fais le quiz, et relis-le ce soir.</p>
+
+  <h3>2.1 Les deux branches de la finance</h3>
+  <table>
+    <tr><th></th><th>Finance d'entreprise (gestion financière)</th><th>Finance de marché</th></tr>
+    <tr><td><b>Porte sur</b></td><td>La gestion et la prise de décisions <b>en entreprise</b></td><td>Les <b>marchés de capitaux</b> : placement, gestion de portefeuille, gestion des risques dans les institutions financières</td></tr>
+    <tr><td><b>Ton cours</b></td><td colspan="2" style="text-align:center">← FINA10200 est principalement axé sur <b>cette branche</b> →</td></tr>
+  </table>
+
+  <h3>2.2 Le gestionnaire financier : les 3 grandes décisions</h3>
+  <ol>
+    <li><b>Décision d'investissement</b> : dans quels projets/actifs mettre l'argent de la firme?</li>
+    <li><b>Décision de financement</b> : d'où vient l'argent (dette, actions, bénéfices réinvestis)?</li>
+    <li><b>Décision de dividende</b> : distribuer les bénéfices aux actionnaires ou les réinvestir?</li>
+  </ol>
+  <p><b>Objectif de la gestion financière :</b> maximiser la richesse des actionnaires (la valeur de l'action).</p>
+
+  <h3>2.3 Les problèmes d'agence ⭐ (grand classique de quiz)</h3>
+  <div class="encadre">
+    <b>L'histoire :</b> les <b>actionnaires</b> élisent le <b>conseil d'administration</b>, qui délègue la gestion à des <b>gestionnaires</b> (conseil exécutif). Or, l'intérêt des gestionnaires ≠ l'intérêt des actionnaires. Ce désalignement s'appelle le <b>problème d'agence</b>.<br><br>
+    <b>Exemples de coûts d'agence :</b> compte de dépenses discrétionnaire utilisé à des fins personnelles; actifs de l'entreprise pour le bien-être du gestionnaire (limousine, jet privé); acquisitions injustifiées pour le prestige; refus de projets à valeur ajoutée pour ne pas augmenter le risque; dépenses de contrôle pour surveiller les dirigeants (vérificateur interne).
+  </div>
+
+  <h3>2.4 Les marchés de capitaux</h3>
+  <table>
+    <tr><th>Marché primaire</th><th>Marché secondaire</th></tr>
+    <tr><td><b>Nouvelles émissions</b> de titres. L'argent va <b>à l'émetteur</b> (l'entreprise qui se finance).</td><td><b>Revente</b> de titres entre investisseurs. L'argent va <b>d'un investisseur à l'autre</b> — l'émetteur ne touche rien.</td></tr>
+  </table>
+  <p><b>Analogie :</b> le marché primaire, c'est la boutique qui vend une voiture neuve (l'argent va au fabricant). Le marché secondaire, c'est Kijiji (l'argent va au propriétaire précédent).</p>
+
+  <h3>2.5 Les formes d'organisation d'une entreprise</h3>
+  <p>Société par actions vs entreprise individuelle vs société de personnes : avantages/désavantages (responsabilité limitée, double imposition, transférabilité, capacité de lever des fonds). Retiens surtout : la <b>société par actions</b> = responsabilité limitée + vie illimitée + financement facilité, mais double imposition des dividendes et coûts d'agence.</p>
+
+  <h3>Quiz éclair — Intro</h3>
+  <div class="qcm" data-rep="b" data-ok="C'est la définition exacte du cours." data-ko="Le désalignement d'intérêts actionnaires ↔ gestionnaires, c'est le problème d'agence.">
+    <div class="q">1. Un gestionnaire utilise le jet privé de l'entreprise pour ses vacances. On parle de…</div>
+    <button class="opt" data-i="a">Un coût de transaction</button>
+    <button class="opt" data-i="b">Un coût d'agence</button>
+    <button class="opt" data-i="c">Une prime de risque</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Dans le primaire, l'argent va à l'émetteur." data-ko="Relis 2.4 : primaire = nouvelle émission, l'argent va à l'émetteur.">
+    <div class="q">2. Tu achètes une action lors du passage de l'entreprise en Bourse (IPO). Ton argent va…</div>
+    <button class="opt" data-i="a">À l'investisseur qui te la revend</button>
+    <button class="opt" data-i="b">Au courtier uniquement</button>
+    <button class="opt" data-i="c">À l'entreprise émettrice (marché primaire)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Les gestionnaires décident; les actionnaires sont les propriétaires." data-ko="Le conflit d'agence est bien entre actionnaires (mandants) et gestionnaires (mandataires).">
+    <div class="q">3. Le problème d'agence oppose…</div>
+    <button class="opt" data-i="a">Les actionnaires et les gestionnaires</button>
+    <button class="opt" data-i="b">Les créanciers et les débiteurs</button>
+    <button class="opt" data-i="c">Le gouvernement et les entreprises</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Maximiser la valeur pour l'actionnaire." data-ko="L'objectif du cours : maximiser la richesse des actionnaires.">
+    <div class="q">4. L'objectif de la gestion financière est de…</div>
+    <button class="opt" data-i="a">Maximiser les profits à court terme</button>
+    <button class="opt" data-i="b">Maximiser la richesse des actionnaires</button>
+    <button class="opt" data-i="c">Minimiser les impôts</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 3 : MATH FIN ══════════════════ -->
+<section id="mathfin">
+  <h2>💰 Module 3 — Séances 1-2 : Mathématiques financières (LE cœur du quiz)</h2>
+  <p><b>La phrase qui résume tout le cours :</b> <i>« Un dollar gagné aujourd'hui vaut plus qu'un dollar gagné demain. »</i> Pourquoi? Parce que ton dollar d'aujourd'hui peut <b>gagner des intérêts</b> en attendant. Toute la finance de ce quiz découle de cette seule idée.</p>
+
+  <h3>3.1 Intérêt simple vs intérêt composé (la base de la base)</h3>
+  <div class="exemple"><div class="titre-ex">Tu prêtes 100 $ à 10 % par année, pendant 2 ans.</div>
+    <b>Intérêt simple</b> (les intérêts ne rapportent rien) : 100 + 10 + 10 = <b>120 $</b><br>
+    <b>Intérêt composé</b> (les intérêts rapportent à leur tour des intérêts) : 100 × (1,10)² = <b>121 $</b><br>
+    Le 1 $ de différence? C'est <b>10 % du 10 $</b> gagné en année 1. C'est l'« intérêt sur l'intérêt ».<br>
+    <b>En finance, on compose TOUJOURS.</b>
+  </div>
+
+  <h3>3.2 Le montant simple — LA formule universelle</h3>
+  <div class="formule">VA × (1 + r)<sup>t</sup> = VC
+    <small>VA = valeur actuelle (aujourd'hui) · VC = valeur capitalisée (future) · r = taux PÉRIODIQUE · t = nombre de périodes</small>
+  </div>
+  <p>Tout problème de finance se ramène à <b>déplacer un montant dans le temps</b> : <b>capitaliser</b> = aller vers le futur (multiplier); <b>actualiser</b> = revenir vers aujourd'hui (diviser). Le taux d'actualisation tient compte du <b>risque</b> des flux.</p>
+  <div class="encadre"><b>La ligne du temps à mémoriser</b> (exemple r = 5 %) : 86,38 (t=−3) · 90,70 (t=−2) · 95,24 (t=−1) · <b>100,00 (aujourd'hui)</b> · 105,00 (t=1) · 110,25 (t=2) · 115,76 (t=3). Remarque : les montants passés sont des actualisations (95,24 × 1,05 = 100).</div>
+
+  <h4>Exercices d'entraînement (exercices des capsules du cours)</h4>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A1</span>Valeur future de 100 $ dans 5 ans à 8 % par année?</div>
+    <button class="reveler" data-cible="r-a1">👁 Révéler</button>
+    <div id="r-a1" class="cache rep">VC = 100 × (1,08)<sup>5</sup> = <b>146,93 $</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A2</span>Valeur actuelle de 500 $ à recevoir dans 2 ans à 5,5 %?</div>
+    <button class="reveler" data-cible="r-a2">👁 Révéler</button>
+    <div id="r-a2" class="cache rep">VA = 500 / (1,055)² = <b>449,23 $</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A3</span>Valeur future dans 3 ans d'un montant de 100 000 $ reçu il y a 2 ans à 3 %? <i>(piège : on CAPITALISE sur 5 ans au total)</i></div>
+    <button class="reveler" data-cible="r-a3">👁 Révéler</button>
+    <div id="r-a3" class="cache rep">VC = 100 000 × (1,03)<sup>5</sup> = <b>115 927,41 $</b> (le « il y a 2 ans » et « dans 3 ans » = 5 périodes de capitalisation au total)</div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A4</span>Dans un an, combien « coûtera » un montant de 700 000 $ à recevoir 22 années plus tard, à 4,5 %? <i>(on actualise de 22 → 1, donc 21 périodes)</i></div>
+    <button class="reveler" data-cible="r-a4">👁 Révéler</button>
+    <div id="r-a4" class="cache rep">VA<sub>t=1</sub> = 700 000 / (1,045)<sup>21</sup> = <b>277 751,20 $</b> (attention au piège inverse : actualiser de 22 périodes donnerait 265 793 $ — c'est de t=22 à t=1, donc 21 périodes)</div>
+  </div>
+
+  <h3>3.3 L'annuité — regrouper des versements ÉGAUX</h3>
+  <div class="formule">VAA = PMT × [1 − (1 + r)<sup>−t</sup>] / r &nbsp;&nbsp;&nbsp; VFA = PMT × [(1 + r)<sup>t</sup> − 1] / r
+    <small>PMT = versement constant · t = NOMBRE de versements · r = taux périodique (même période que les versements)</small>
+  </div>
+  <div class="danger"><b>🚨 LA règle d'or (la prof la répète partout) :</b> le résultat d'une annuité (VAA) est <b>TOUJOURS trouvé une période avant le premier versement</b>. Si le premier versement est dans 1 mois, la VAA est « posée » à aujourd'hui. S'il est dans 13 mois, elle est posée au mois 12 — et il faut ensuite l'actualiser pour l'amener à aujourd'hui. <b>Toujours dessiner le schéma temporel avant de calculer!</b></div>
+  <div class="encadre"><b>Annuité de DÉBUT de période</b> (premier versement immédiat) : calcule la VAA normale (fin de période) puis <b>multiplie par (1 + r)</b>. Ex. des capsules : un retraité veut 5 000 $/mois (début) pendant 25 ans à 3 % → VAA<sub>fin</sub> × (1 + i<sub>mens</sub>).</div>
+
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A5</span>Prêt hypothécaire : paiements mensuels de 1 500 $ pendant 25 ans, 3 % nominal capitalisation semestrielle. Valeur du prêt?</div>
+    <b>Étape 1 — taux :</b> i<sub>sem</sub> = 1,5 % → i<sub>mens</sub> = (1,015)<sup>2/12</sup> − 1 = 0,24845 % par mois.<br>
+    <b>Étape 2 — périodes :</b> 25 × 12 = 300.<br>
+    <b>Étape 3 — formule écrite :</b> VAA = 1 500 × [1 − (1,0024845)<sup>−300</sup>]/0,0024845
+    <button class="reveler" data-cible="r-a5">👁 Révéler</button>
+    <div id="r-a5" class="cache rep">VAA = 1 500 × 211,31 = <b>≈ 316 960 $</b> (arrondi; l'hypothèque canadienne standard = nominal semestriel)</div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A6</span>Vous placez 250 $ aux 2 semaines pendant 3 ans à 2,6 % nominal capitalisation hebdomadaire. Valeur acquise au dernier versement?</div>
+    i<sub>hebdo</sub> = 2,6 %/52 = 0,05 % → i<sub>2sem</sub> = (1,0005)² − 1 = 0,100025 %. n = 78.<br>VFA = 250 × [(1,00100025)<sup>78</sup> − 1]/0,00100025
+    <button class="reveler" data-cible="r-a6">👁 Révéler</button>
+    <div id="r-a6" class="cache rep">VFA = 250 × 81,08 = <b>≈ 20 271 $</b></div>
+  </div>
+
+  <h3>3.4 La perpétuité — des versements ÉGAUX à l'infini</h3>
+  <div class="formule">VAP = PMT / r
+    <small>Le résultat est AUSSI trouvé une période avant le premier versement</small>
+  </div>
+  <p>S'il n'y a pas d'échéance (rente à vie, action privilégiée), on ne peut pas actualiser chaque flux un à un jusqu'à l'infini. Heureusement : la somme infinie se simplifie en une division. L'analogie : combien dois-je mettre à la banque pour que les intérêts paient exactement le versement, à jamais?</p>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A7</span>Loterie A : 5 M$ immédiatement OU B : 12 500 $/mois à l'infini, à 3 % effectif. Laquelle choisir?</div>
+    i<sub>mens</sub> = (1,03)<sup>1/12</sup> − 1 = 0,24663 % → VAP = 12 500/0,0024663
+    <button class="reveler" data-cible="r-a7">👁 Révéler</button>
+    <div id="r-a7" class="cache rep">VAP = <b>≈ 5 068 000 $</b> → la loterie B (à l'infini) bat légèrement le 5 M$ immédiat. (Si le taux était plus élevé, A gagnerait — c'est le genre de comparaison que le quiz adore.)</div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A8</span>Valeur de CETTE loterie dans 4 semaines? Et dans 5 ans? (la VAP est posée une période avant le 1er versement)</div>
+    <button class="reveler" data-cible="r-a8">👁 Révéler</button>
+    <div id="r-a8" class="cache rep">La perpétuité « vit » au moment de son calcul : dans 4 semaines, il restera TOUJOURS les mêmes versements à l'infini → même valeur (≈ 5,07 M$, en fait exactement la VAP × (1+i)⁴ si le premier versement reste fixe). <b>Dans 5 ans, valeur = VAP × (1 + i<sub>mens</sub>)<sup>60</sup></b> : une perpétuité capitalise comme un montant simple. Le point clé du cours : <b>une fois regroupés, tous les FMs deviennent UN montant simple</b> qu'on peut déplacer librement dans le temps.</div>
+  </div>
+
+  <h3>3.5 L'équivalence de taux — le traducteur de périodes</h3>
+  <p><b>Le problème :</b> le taux est « nominal semestriel » mais les paiements sont mensuels. On ne peut PAS diviser par 12! Il faut <b>convertir</b>.</p>
+  <table>
+    <tr><th>Terme</th><th>Définition simple</th><th>Exemple</th></tr>
+    <tr><td><b>Taux nominal</b> (à capitalisation X)<br><small>livre : « taux périodique annuel », « taux spécifié »</small></td><td>Le taux périodique × le nombre de périodes par année (une simple ADDITION des taux périodiques)</td><td>« 12 % nominal semestriel » = 6 % par semestre × 2</td></tr>
+    <tr><td><b>Taux effectif</b> (annuel)</td><td>Le vrai rendement d'une année COMPLÈTE, avec capitalisation des intérêts en cours de route</td><td>12 % nominal sem. → (1,06)² − 1 = <b>12,36 % effectif</b></td></tr>
+    <tr><td><b>Taux périodique</b></td><td>Le taux d'UNE période de versement — LE SEUL qu'on met dans les formules</td><td>8 % nominal trimestriel → 2 % par trimestre</td></tr>
+  </table>
+  <div class="formule">(1 + i<sub>1</sub>)<sup>m1</sup> = (1 + i<sub>2</sub>)<sup>m2</sup>
+    <small>L'équation magique : chaque côté = le taux EFFECTIF. « L'effort d'une année » est égal des deux côtés.</small>
+  </div>
+  <div class="encadre"><b>La règle du cours : le taux s'ajuste aux paiements, et non l'inverse.</b> Exemple officiel : 12 % nominal semestriel avec paiements mensuels → (1,06)² = (1 + i<sub>mens</sub>)<sup>12</sup> → i<sub>mens</sub> = 0,9758… %. Autre exemple : 8 % nominal trimestriel avec paiements hebdomadaires → (1,02)⁴ = (1 + i<sub>hebdo</sub>)<sup>52</sup> → i<sub>hebdo</sub> = 0,1524… %.</div>
+  <h4>Classement des taux (question classique)</h4>
+  <div class="exemple"><div class="titre-ex">Ordonne du plus petit au plus grand : 6 % effectif · 6 % nominal cap. quotidien · 6 % nominal cap. semestriel · 6 % nominal cap. annuelle</div>
+    <button class="reveler" data-cible="r-a9">👁 Révéler</button>
+    <div id="r-a9" class="cache rep"><b>Annuel (6,00 %) &lt; Semestriel (6,09 %) &lt; Quotidien (≈ 6,18 %) &lt; Effectif… attention!</b> Non — l'effectif de 6 % est simplement 6 % : <b>nominal annuel = effectif = 6,00 %</b> (une seule capitalisation par année). Donc : annuel = effectif (6,00 %) &lt; semestriel (6,09 %) &lt; quotidien (≈ 6,18 %). <b>Plus ça capitalise souvent, plus le vrai rendement est élevé</b> — même taux nominal affiché.</div>
+  </div>
+  <h4>Exercices de conversion (à faire SANS calculatrice en tête, puis vérifie)</h4>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A10</span>2,6 % nominal cap. hebdomadaire → taux périodique mensuel?</div>
+    <button class="reveler" data-cible="r-a10">👁 Révéler</button>
+    <div id="r-a10" class="cache rep">(1 + 0,026/52)<sup>52</sup> = (1 + i<sub>mens</sub>)<sup>12</sup> → i<sub>mens</sub> = (1,0005)<sup>52/12</sup> − 1 = <b>0,21711 %/mois</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A11</span>9 % nominal cap. semestrielle → taux périodique trimestriel?</div>
+    <button class="reveler" data-cible="r-a11">👁 Révéler</button>
+    <div id="r-a11" class="cache rep">(1,045)² = (1 + i<sub>trim</sub>)⁴ → i<sub>trim</sub> = (1,045)<sup>1/2</sup> − 1 = <b>2,2252 %/trimestre</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A12</span>5,2 % nominal cap. aux 2 semaines → taux périodique semestriel?</div>
+    <button class="reveler" data-cible="r-a12">👁 Révéler</button>
+    <div id="r-a12" class="cache rep">(1 + 0,052/26)<sup>26</sup> = (1 + i<sub>sem</sub>)² → i<sub>sem</sub> = (1,002)<sup>13</sup> − 1 = <b>2,6373 %/semestre</b></div>
+  </div>
+
+  <h3>3.6 Les formules avec croissance (perpétuité et annuité croissantes)</h3>
+  <div class="formule">VAP<sub>croissante</sub> = PMT<sub>1</sub> / (r − g) &nbsp;&nbsp;&nbsp;&nbsp; VAAC = PMT<sub>1</sub>/(r−g) × [1 − ((1+g)/(1+r))<sup>t</sup>]
+    <small>PMT₁ = premier versement (déjà grown!) · r − g = l'écart rendement/croissance · résultat TOUJOURS une période avant le 1er versement</small>
+  </div>
+  <div class="attention"><b>⚠️ g doit être UN PÉRIODE PAR PÉRIODE</b> : si les dividendes sont trimestriels, g doit être trimestrique. Et <b>r &gt; g</b> obligatoirement, sinon la formule explose.</div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A13</span>(Exemple du cours) Rente indexée : à 60 ans, premier versement IMMÉDIAT de 7 500 $/mois, indexé 3 % (nominal mensuel : g = 0,25 %/mois), jusqu'à 85 ans (300 mois), rendement 9 % nominal mensuel (i = 0,75 %/mois). Coût?</div>
+    VAAC (une période avant le 1er versement — ici le versement est immédiat, donc la formule donne la valeur à t = −1 mois) :<br>
+    VAAC = 7 500/(0,0075−0,0025) × [1 − (1,0025/1,0075)<sup>300</sup>] = 7 500/0,005 × [1 − 0,2247] = 1 500 000 × 0,7753
+    <button class="reveler" data-cible="r-a13">👁 Révéler</button>
+    <div id="r-a13" class="cache rep">VAAC<sub>t=−1</sub> ≈ 1 162 799 $ → on la ramène à aujourd'hui (début de période) : × (1,0075) = <b>≈ 1 171 520 $</b></div>
+  </div>
+
+  <h3>3.7 La valeur entre deux dates de versement (méthode officielle en 2 étapes)</h3>
+  <div class="encadre"><b>Problème :</b> on est ENTRE deux coupons/dividendes (ex. le dernier coupon remonte à 1 mois, le prochain est dans 5 mois). Méthode du cours (plus rigoureuse que le « clean price » du livre, point 7.5.3 — la prof privilégie CETTE approche) :
+  <ol>
+    <li><b>Actualiser normalement</b> tous les FMs à la <b>dernière date de versement</b> (l'annuité/perpétuité tombe naturellement une période avant le prochain versement = pile sur cette date);</li>
+    <li><b>Capitaliser</b> ce total pour la <b>fraction de période écoulée</b> : × (1 + i)<sup>fraction</sup>.</li>
+  </ol></div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A14</span>(Exemple du cours) Le dernier coupon date d'1 mois. Il reste 9 coupons. TC = 8 %, TRE = 5 % (tous deux nominaux semestriels), VN = 1 000 $. Valeur aujourd'hui?</div>
+    <b>Étape 1 :</b> i<sub>TRE</sub> = 2,5 %/sem; coupon = 4 % × 1 000 / 2 = 40 $. À la dernière date de coupon (une période avant le prochain coupon) :<br>
+    P = 40 × [1 − (1,025)<sup>−9</sup>]/0,025 + 1 000 × (1,025)<sup>−9</sup> = 318,84 + 800,73 = 1 119,56 $<br>
+    <b>Étape 2 :</b> 1 mois écoulé sur 6 = fraction 1/6 → 1 119,56 × (1,025)<sup>1/6</sup>
+    <button class="reveler" data-cible="r-a14">👁 Révéler</button>
+    <div id="r-a14" class="cache rep">P<sub>aujourd'hui</sub> = 1 119,56 × 1,00412 = <b>≈ 1 124,18 $</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">A15</span>(Exemple du cours) Dernier dividende trimestriel de 0,30 $ versé il y a 2 mois. r = 12 % nominal trim (3 %), g = 6 % nominal trim (1,5 %). Valeur intrinsèque?</div>
+    <b>Étape 1 :</b> à la dernière date de versement : P = D₁/(r−g) = 0,30 × 1,015/(0,03 − 0,015) = 0,3045/0,015 = 20,30 $<br>
+    <b>Étape 2 :</b> 2 mois écoulés = 2/3 de trimestre → 20,30 × (1,03)<sup>2/3</sup>
+    <button class="reveler" data-cible="r-a15">👁 Révéler</button>
+    <div id="r-a15" class="cache rep">P = 20,30 × 1,0199 = <b>≈ 20,70 $</b></div>
+  </div>
+
+  <h3>3.8 La démarche universelle en 4 étapes (à faire pour CHAQUE problème)</h3>
+  <div class="retiens">
+    <b>1. DESSINE le schéma temporel</b> (t=0, t=1, … les flux, en + ou −). — <i>« Toujours faire le schéma temporel pour ne pas faire d'erreur de période » (FAQ officielle)</i><br>
+    <b>2. ALIGNE le taux</b> : convertis en taux périodique de la fréquence des versements (§3.5).<br>
+    <b>3. REGROUPE</b> chaque série (montant simple / annuité / perpétuité [+ croissance]) — chaque formule « pose » son résultat à une date précise (une période avant le 1er versement).<br>
+    <b>4. DÉPLACE</b> tous les résultats à la date demandée (capitaliser/actualiser en montant simple), puis additionne les + et les −.
+  </div>
+
+  <h3>3.9 Les 5 grands exercices des capsules (avec les réponses officielles du cours)</h3>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">C1</span><b>Exercice 1 officiel :</b> Hypothèque à 5 % nominal cap. semestrielle. a) taux semestriel? b) taux effectif? c) taux mensuel? d) nominal mensuel équivalent? e) montant du prêt avec paiements de 900 $/mois (fin) pendant 25 ans?</div>
+    <button class="reveler" data-cible="r-c1">👁 Révéler</button>
+    <div id="r-c1" class="cache rep">
+      a) 5/2 = <b>2,5 %</b> · b) (1,025)² − 1 = <b>5,0625 %</b> · c) (1,025)<sup>2/12</sup> − 1 = <b>0,41239 %</b> · d) 0,41239 × 12 = <b>4,9487 % nominal mensuel</b> · e) VAA = 900 × [1 − (1,0041239)<sup>−300</sup>]/0,0041239 = <b>154 744,20 $</b> (réponse officielle)
+    </div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">C2</span><b>Exercice 2 officiel :</b> Deux offres pour un voilier (taux effectif 5 %). <b>Offre 1 :</b> 10 000 $ immédiatement + 500 $/mois (fin) pendant 4 ans. <b>Offre 2 :</b> 150 $/semaine (DÉBUT immédiat) pendant 3 ans + 14 000 $ dans 5 ans. Laquelle choisir?</div>
+    <button class="reveler" data-cible="r-c2">👁 Révéler</button>
+    <div id="r-c2" class="cache rep">
+      <b>Offre 1 :</b> i<sub>mens</sub> = 1,05<sup>1/12</sup>−1 = 0,407412 % ; VAA(48) = 500 × 43,518 = 21 759 → <b>31 758,98 $</b> (réponse officielle; l'erratum du cours confirme l'exposant 48)<br>
+      <b>Offre 2 :</b> i<sub>hebdo</sub> = 1,05<sup>1/52</sup>−1 = 0,093871 % ; VAA(156, fin) = 150 × 145,05 = 21 758 → début ×(1,000939) = 21 778 ; + 14 000/1,05⁵ = 10 969 → <b>32 747,63 $</b> (exactement la réponse officielle)<br>
+      <b>→ Choisir l'Offre 2</b> (réponse officielle).
+    </div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">C3</span><b>Exercice 3 officiel :</b> L'œuf de 1,5 M$ OU la poule qui pond 1 000 $/semaine à vie (premier dans 1 semaine), à 3 % nominal cap. trimestrielle. Et si la poule ne vit que 25 ans?</div>
+    <button class="reveler" data-cible="r-c3">👁 Révéler</button>
+    <div id="r-c3" class="cache rep">
+      i<sub>trim</sub> = 0,75 % → i<sub>hebdo</sub> = (1,0075)<sup>4/52</sup> − 1 = 0,057494 %<br>
+      <b>À vie :</b> VAP = 1 000/0,00057494 = <b>1 739 325,29 $</b> (officiel) → prends la POULE.<br>
+      <b>25 ans (1 300 sem.) :</b> VAA = 1 000 × [1 − (1,00057494)<sup>−1300</sup>]/0,00057494 = <b>915 423,72 $</b> (officiel) → prends l'ŒUF (1,5 M$).
+    </div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">C4</span><b>Exercice 5 officiel :</b> Tu épargnes 100 $/semaine pendant exactement 84 semaines + un montant de 400 $ reçu aujourd'hui, à 2,6 % nominal cap. hebdomadaire. Somme totale au bout des 84 semaines?</div>
+    <button class="reveler" data-cible="r-c4">👁 Révéler</button>
+    <div id="r-c4" class="cache rep">i<sub>hebdo</sub> = 0,05 %. VFA = 100 × [(1,0005)<sup>84</sup>−1]/0,0005 = 8 576,79 $ ; le 400 $ capitalise : 400 × (1,0005)⁸⁴ = 417,15 $. Total = <b>8 993,94 ≈ 8 993,86 $</b> (réponse officielle)</div>
+  </div>
+
+  <h3>Quiz QCM — Mathématiques financières (10 questions)</h3>
+  <div class="qcm" data-rep="b" data-ok="" data-ko="Capitaliser = aller vers le futur (×). Actualiser = revenir au présent (÷).">
+    <div class="q">1. Actualiser, c'est…</div>
+    <button class="opt" data-i="a">Trouver la valeur future d'un montant d'aujourd'hui</button>
+    <button class="opt" data-i="b">Trouver la valeur d'aujourd'hui d'un montant futur</button>
+    <button class="opt" data-i="c">Convertir un taux nominal en effectif</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Une période avant le premier versement — la règle d'or du cours." data-ko="Relis la règle d'or : le résultat tombe toujours UNE période avant le premier versement.">
+    <div class="q">2. La VAA d'une annuité dont le premier versement est dans exactement 13 mois (versements mensuels) est trouvée…</div>
+    <button class="opt" data-i="a">Aujourd'hui</button>
+    <button class="opt" data-i="b">Au mois 13</button>
+    <button class="opt" data-i="c">Au mois 12</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="(1+i)^n des deux côtés — l'équivalence passe par l'effectif." data-ko="On JAMAIS ne divise simplement par 12 : il faut (1+i)² = (1+i)¹².">
+    <div class="q">3. Pour convertir un taux nominal semestriel de 6 % en taux mensuel :</div>
+    <button class="opt" data-i="a">(1,03)² = (1 + i<sub>mens</sub>)¹²</button>
+    <button class="opt" data-i="b">6 % / 12 = 0,5 %</button>
+    <button class="opt" data-i="c">(1,06)¹² = (1 + i<sub>mens</sub>)²</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Le nominal annuel = l'effectif (une seule capitalisation)." data-ko="6 % nominal annuel = 6 % effectif; semestriel (6,09 %) et quotidien (6,18 %) font mieux.">
+    <div class="q">4. Quel est le VRAI rendement le plus élevé?</div>
+    <button class="opt" data-i="a">6 % nominal capitalisation annuelle</button>
+    <button class="opt" data-i="b">6 % nominal capitalisation quotidienne</button>
+    <button class="opt" data-i="c">6 % effectif</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="VFA = PMT × [(1+i)ⁿ−1]/i : capitalisation au moment du DERNIER versement." data-ko="La VFA d'une annuité de fin de période vit au moment du dernier versement.">
+    <div class="q">5. La valeur finale (VFA) d'une annuité de fin de période est située…</div>
+    <button class="opt" data-i="a">Une période avant le premier versement</button>
+    <button class="opt" data-i="b">Une période après le dernier versement</button>
+    <button class="opt" data-i="c">Au moment du dernier versement</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="×(1+i) transforme une annuité de fin en annuité de début." data-ko="De début de période = fin de période × (1 + i).">
+    <div class="q">6. Une annuité de DÉBUT de période (premier versement immédiat) vaut…</div>
+    <button class="opt" data-i="a">La VAA de fin de période ÷ (1 + i)</button>
+    <button class="opt" data-i="b">La VAA de fin de période × (1 + i)</button>
+    <button class="opt" data-i="c">Exactement la VAA de fin de période</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="PMT/r, une période avant le premier versement." data-ko="Perpétuité = PMT / r.">
+    <div class="q">7. Une action privilégiée verse 2 $ par année à perpétuité, rendement exigé 8 %. Sa valeur (une période avant le prochain versement) :</div>
+    <button class="opt" data-i="a">25 $</button>
+    <button class="opt" data-i="b">2 / 0,08 × 1,08</button>
+    <button class="opt" data-i="c">16 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Les FMs regroupés deviennent UN montant simple qu'on déplace." data-ko="Après regroupement, on capitalise/actualise comme un montant simple.">
+    <div class="q">8. Une fois qu'une annuité est regroupée en un seul montant, pour connaître sa valeur à une autre date…</div>
+    <button class="opt" data-i="a">On doit refaire toute la formule de l'annuité</button>
+    <button class="opt" data-i="b">On la traite comme un montant simple (× ou ÷ (1+i)ⁿ)</button>
+    <button class="opt" data-i="c">On ne peut plus la déplacer</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="L'annuité en croissance regroupe des versements croissants finis." data-ko="Croissance constante + nombre FINI de versements = annuité en croissance (VAAC).">
+    <div class="q">9. Des versements qui croissent de 2 % par période, pendant exactement 10 périodes : on utilise…</div>
+    <button class="opt" data-i="a">La perpétuité simple PMT/r</button>
+    <button class="opt" data-i="b">La perpétuité croissante PMT/(r−g)</button>
+    <button class="opt" data-i="c">L'annuité en croissance VAAC (ou la décomposition en montants simples)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Fraction de période × (1+i)^fraction — la méthode en 2 étapes." data-ko="Étape 1 : actualiser à la date de versement précédente. Étape 2 : capitaliser la fraction écoulée.">
+    <div class="q">10. Le dernier coupon date de 2 mois (coupons semestriels). Après avoir actualisé à la dernière date de coupon, tu…</div>
+    <button class="opt" data-i="a">Actualises encore de 2 mois</button>
+    <button class="opt" data-i="b">Capitalises pour 2 mois : × (1 + i<sub>sem</sub>)^(2/6)</button>
+    <button class="opt" data-i="c">Capitalises pour 4 mois (jusqu'au prochain coupon)</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 4 : OBLIGATIONS ══════════════════ -->
+<section id="obligations">
+  <h2>🏦 Module 4 — Séance 3 : Les obligations</h2>
+
+  <h3>4.1 C'est quoi, une obligation? (vocabulaire à connaître froid)</h3>
+  <p>Une obligation, c'est un <b>titre de dette</b> : TU prêtes de l'argent (tu es le créancier), l'émetteur (gouvernement ou entreprise) s'engage à te rembourser le capital + les intérêts. Le contrat légal s'appelle l'<b>acte de fiducie</b>. Si aucun actif n'est donné en garantie, on parle plutôt de <b>débenture</b>. Les émissions gouvernementales sont garanties par la capacité de taxation de l'État.</p>
+  <dl class="lexique">
+    <dt>Valeur nominale (VN)</dt><dd>Le capital emprunté, remboursé à l'échéance — habituellement <b>1 000 $</b>.</dd>
+    <dt>Coupon (TC)</dt><dd>L'intérêt versé périodiquement. Obligation « nord-américaine » standard = <b>2 coupons par année</b> → le TC est un <b>taux nominal à capitalisation semestrielle</b> (coupon semestriel = TC × VN / 2).</dd>
+    <dt>Échéance</dt><dd>La date où la VN est remboursée.</dd>
+    <dt>TRE / RAE (taux de rendement à l'échéance)</dt><dd>Le rendement EXIGÉ par le marché pour ce titre = le taux d'actualisation du prix. Lui aussi, en Amérique du Nord : <b>nominal semestriel</b> (taux périodique = TRE/2). <i>Sauf indication contraire de l'énoncé!</i></dd>
+    <dt>Cote</dt><dd>Le prix exprimé en <b>% de la VN</b>. Cote de 102 % = prix de <b>1 020 $</b>. (Précision officielle de la prof!)</dd>
+    <dt>Points de base</dt><dd>1 pb = 0,01 %. Une hausse de 50 pb = +0,50 %.</dd>
+  </dl>
+
+  <h3>4.2 Le prix d'une obligation conventionnelle (LE calcul à maîtriser)</h3>
+  <p>Un obligation = <b>deux flux</b> à actualiser au taux périodique du TRE : ① les coupons = une <b>annuité</b>; ② la VN = un <b>montant simple</b> à l'échéance.</p>
+  <div class="formule">P₀ = TC/2 × [1 − (1 + i)<sup>−n</sup>]/i + VN × (1 + i)<sup>−n</sup>
+    <small>i = TRE/2 (taux semestriel) · n = nombre de SEMESTRES jusqu'à l'échéance · coupon semestriel = TC × VN/2</small>
+  </div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel du cours :</b> VN 1 000 $, TC 5 %, échéance exactement 12 ans, TRE exigé 8 %. Prix?</div>
+    Coupon sem. = 5 % × 1 000/2 = <b>25 $</b> · i = 8/2 = <b>4 %</b> · n = 12 × 2 = <b>24</b><br>
+    P = 25 × [1 − (1,04)<sup>−24</sup>]/0,04 + 1 000 × (1,04)<sup>−24</sup> = 25 × 15,2470 + 1 000 × 0,3901 = 381,17 + 390,12
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 24 <span class="touche">N</span> · 4 <span class="touche">I/Y</span> · 25 <span class="touche">PMT</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">PV</span> → −771.30</div>
+    <div class="rep">P = <b>771,30 $</b> (réponse officielle) — l'obligation se vend à escompte (TRE &gt; TC).</div>
+  </div>
+
+  <h3>4.3 Par, prime, escompte (question théorique ultra-fréquente)</h3>
+  <table>
+    <tr><th> Situation</th><th>Prix</th><th>Analogie</th></tr>
+    <tr><td><b>TRE = TC</b></td><td><b>Par</b> : prix = VN (1 000 $)</td><td>Le marché exige exactement ce que le coupon paie.</td></tr>
+    <tr><td><b>TRE &lt; TC</b></td><td><b>Prime</b> : prix &gt; VN</td><td>Le coupon paie PLUS que ce que le marché exige → on paie un bonus.</td></tr>
+    <tr><td><b>TRE &gt; TC</b></td><td><b>Escompte</b> : prix &lt; VN</td><td>Le coupon paie MOINS que requis → on achète à rabais.</td></tr>
+  </table>
+
+  <h3>4.4 Le zéro-coupon</h3>
+  <p>Aucun coupon : tout le rendement vient de la différence entre le prix d'achat (bas) et la VN remboursée. Prix = <b>VC actualisée en montant simple</b> : P = VN/(1+i)ⁿ.</p>
+
+  <h3>4.5 Obligations non conventionnelles (le niveau « expert » du quiz)</h3>
+  <ul>
+    <li><b>Capital remboursé en tranches</b> (ex. du TP2 : 250 $ aux 3 ans pendant 12 ans) → chaque tranche est un montant simple à sa date + les coupons restent une annuité pleine.</li>
+    <li><b>Coupons différés</b> (ex. officiel : le 1er coupon dans 3 ans) → l'annuité est « posée » une période avant le premier coupon, PUIS actualisée jusque-là. Voir l'exercice B2 ci-dessous.</li>
+  </ul>
+
+  <h3>4.6 Le RAE quand on connaît le prix (calculatrice obligatoire)</h3>
+  <p>On ne peut pas isoler i algébriquement : la calculatrice le trouve par itération (c'est le « tâtonnement » du livre, mais automatique et instantané). Voir le <a href="#calculatrice">Geste E</a> du module 1.</p>
+
+  <h3>4.7 Clauses optionnelles et leur effet sur le prix</h3>
+  <table>
+    <tr><th>Clause</th><th>Qui a l'option?</th><th>Effet sur le prix (toutes choses égales par ailleurs)</th></tr>
+    <tr><td><b>Rétractable</b> (puttable)</td><td>Le détenteur peut « retourner » le titre (prix/période fixés)</td><td><b>+</b> (avantage à l'acheteur)</td></tr>
+    <tr><td><b>Rachetable</b> (callable)</td><td>L'émetteur peut racheter le titre (prix/période fixés)</td><td><b>−</b> (risque pour l'acheteur)</td></tr>
+    <tr><td><b>Convertible</td><td>Le détenteur peut convertir en actions</td><td><b>+</b></td></tr>
+    <tr><td>Liquidité élevée</td><td>—</td><td><b>+</b></td></tr>
+    <tr><td>Meilleure cote de crédit</td><td>—</td><td><b>+</b></td></tr>
+  </table>
+
+  <h3>4.8 Risque de crédit et cotes</h3>
+  <p>Le <b>risque de crédit</b> = probabilité que l'émetteur fasse défaut. Les agences (<b>S&amp;P, Moody's, Fitch</b>) publient des cotes, révisées selon la firme et l'économie. Deux catégories : <b>qualité investissement</b> (investment grade) vs <b>pacotille</b> (non-investment grade / high-yield / junk bonds).</p>
+
+  <h3>4.9 Effet Fisher (l'inflation) ⭐</h3>
+  <div class="formule">(1 + r<sub>nominal</sub>) = (1 + r<sub>réel</sub>) × (1 + inflation)<br><small>Approximation rapide : r<sub>nominal</sub> ≈ r<sub>réel</sub> + inflation</small></div>
+  <div class="exemple"><div class="titre-ex">Exemple du cours : tu places 10 $ à 8 % pour un an; le sac de lait à 10 $ coûtera 10,30 $ dans un an (inflation 3 %).</div>
+    Ton 10,80 $ de l'an prochain achète l'équivalent de 10,80/1,03 = 10,49 $ d'aujourd'hui → rendement RÉEL = (1,08/1,03) − 1 = <b>4,85 %</b> (et non 8 − 3 = 5 %, l'approximation).
+  </div>
+
+  <h3>4.10 La structure à terme des taux (la courbe)</h3>
+  <p>La courbe des taux = niveau des TRE selon l'échéance. Elle reflète <b>inflation + taux réel + prime de risque</b>, et « représente en quelque sorte l'anticipation des taux futurs » :</p>
+  <table>
+    <tr><th>Forme</th><th>Anticipation du marché</th></tr>
+    <tr><td><b>Normale</b> (croissante)</td><td>Hausse anticipée des taux</td></tr>
+    <tr><td><b>Pentification</b> (elle se redresse)</td><td>La hausse sera PLUS marquée qu'initialement anticipé</td></tr>
+    <tr><td><b>Aplatissement</b></td><td>La hausse sera MOINS marquée qu'anticipé (ou aucune hausse)</td></tr>
+    <tr><td><b>Inversée</b> (décroissante)</td><td>BAISSE anticipée des taux</td></tr>
+  </table>
+
+  <h3>4.11 La durée (concepts SEULEMENT — « aucun calcul de durée n'est requis »)</h3>
+  <div class="encadre">La durée mesure la <b>volatilité du prix</b> par rapport aux taux d'intérêt (les FMs « moyens pondérés par le temps » — le point d'équilibre de la balançoire des flux). Règles :
+  <ul>
+    <li>À <b>même taux de coupon</b> : échéance élevée → durée <b>élevée</b>;</li>
+    <li>À <b>même échéance</b> : coupon élevé → durée <b>faible</b> (les gros coupons reviennent vite).</li>
+  </ul>
+  <b>Application stratégique officielle :</b> si tu anticipes une <b>baisse des taux</b>, achète la duration la plus LONGUE (ex. : coupon 3 %, échéance lointaine) pour maximiser le gain de prix. Si tu anticipes une <b>hausse</b>, la plus COURTE (coupon élevé, échéance proche).</div>
+
+  <h3>4.12 Les exercices officiels des capsules obligations</h3>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">B1</span><b>Exercice 1 officiel</b> (avec le correctif de la FAQ) : il y a <b>7 ans</b> [l'énoncé des diapos dit 6, mais la FAQ confirme la lecture à 7 ans → 13 ans restants, 26 semestres], obligation nord-américaine : échéance 20 ans, TRE 8 %, VN 1 000 $. a) taux de coupon probable? b) prix à l'émission? c) prix si le TRE passe à 9,5 %? d) TRE pour que le prix soit 1 030 $?</div>
+    <button class="reveler" data-cible="r-b1">👁 Révéler</button>
+    <div id="r-b1" class="cache rep">
+      a) Émise au pair probablement : <b>TC = TRE = 8 %</b> → b) prix = <b>1 000 $</b> (par).<br>
+      c) Coupon 40 $, i = 4,75 %, n = 26 : P = 40 × [1 − (1,0475)<sup>−26</sup>]/0,0475 + 1 000 × (1,0475)<sup>−26</sup> = 590,06 + 299,20 = <b>889,35 $</b> (officiel) — escompte, cohérent (TRE&gt;TC).<br>
+      d) 1 030 = 40 × [1−(1+i)<sup>−26</sup>]/i + 1000(1+i)<sup>−26</sup> → par calculatrice (N=26, PV=−1030, PMT=40, FV=1000, CPT I/Y = 3,816 %) → TRE nominal = <b>7,632 %</b> (officiel). Prix &gt; par → TRE &lt; TC : cohérent!
+    </div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">B2</span><b>Exercice 2 officiel :</b> obligation dont les coupons semestriels ne débutent que dans exactement 3 ans; TC = TRE = 8 %; échéance totale 10 ans. a) Prix à l'émission? b) Et si c'était un zéro-coupon (10 ans)?</div>
+    <button class="reveler" data-cible="r-b2">👁 Révéler</button>
+    <div id="r-b2" class="cache rep">
+      a) Coupons : premier à t = 6 semestres, dernier à t = 20 → <b>15 coupons</b> de 40 $. L'annuité se pose une période avant le premier = t = 5 : 40 × [1 − (1,04)<sup>−15</sup>]/0,04 = 444,74. On l'actualise à t=0 : ÷(1,04)⁵ = 365,47. VN : 1 000/(1,04)²⁰ = 456,39. <b>Total = 821,93 $</b> (officiel).<br>
+      b) Zéro-coupon : P = 1 000/(1,04)²⁰ = <b>456,39 $</b> (officiel).
+    </div>
+  </div>
+  <div class="exemple"><div class="titre-ex"><span class="num-exo">B3</span><b>Exercice 4 officiel :</b> 4 obligations du gouvernement du Canada — A : coupon 6 %, échéance proche · B : 3 %, échéance proche · C : 6 %, échéance lointaine · D : 3 %, échéance lointaine. On anticipe une BAISSE uniforme des taux : laquelle privilégier? Et si on anticipait une HAUSSE?</div>
+    <button class="reveler" data-cible="r-b3">👁 Révéler</button>
+    <div id="r-b3" class="cache rep"><b>Baisse → D</b> (faible coupon + longue échéance = durée maximale = prix qui monte le plus). <b>Hausse → A</b> (coupon élevé + courte échéance = durée minimale = prix qui baisse le moins). (Réponses officielles.)</div>
+  </div>
+
+  <h3>Quiz QCM — Obligations (8 questions)</h3>
+  <div class="qcm" data-rep="b" data-ok="VN × TC/2 = coupon semestriel." data-ko="Coupon semestriel = TC × VN ÷ 2.">
+    <div class="q">1. VN 1 000 $, TC 6 %. Le coupon semestriel vaut…</div>
+    <button class="opt" data-i="a">60 $</button>
+    <button class="opt" data-i="b">30 $</button>
+    <button class="opt" data-i="c">6 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="TRE > TC = escompte." data-ko="TRE > TC → le marché exige plus que le coupon → escompte.">
+    <div class="q">2. TC 5 %, TRE 7 %. L'obligation se transige…</div>
+    <button class="opt" data-i="a">Au pair</button>
+    <button class="opt" data-i="b">À prime</button>
+    <button class="opt" data-i="c">À escompte</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Prix = VN × (1+i)^−n." data-ko="Zéro-coupon = un seul flux : VN actualisée.">
+    <div class="q">3. Le prix d'un zéro-coupon se calcule avec…</div>
+    <button class="opt" data-i="a">Un montant simple (VN actualisée)</button>
+    <button class="opt" data-i="b">Une annuité + montant simple</button>
+    <button class="opt" data-i="c">Une perpétuité</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Cote 102% = 1 020 $." data-ko="Cote = % de la VN : 1,02 × 1 000 $.">
+    <div class="q">4. Une obligation VN 1 000 $ affichée à la cote 102 %. Son prix :</div>
+    <button class="opt" data-i="a">102 $</button>
+    <button class="opt" data-i="b">1 020 $</button>
+    <button class="opt" data-i="c">1 002 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Le callable avantage l'émetteur → prix plus bas." data-ko="Rachetable = risque pour l'acheteur → prix MOINS élevé.">
+    <div class="q">5. Clause rachetable (callable) : effet sur le prix vs obligation traditionnelle?</div>
+    <button class="opt" data-i="a">Prix plus élevé</button>
+    <button class="opt" data-i="b">Prix moins élevé</button>
+    <button class="opt" data-i="c">Aucun effet</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="(1.08/1.03)−1 = 4,85 %." data-ko="La vraie formule : (1+nominal)/(1+inflation) − 1.">
+    <div class="q">6. Rendement nominal 8 %, inflation 3 %. Rendement réel exact :</div>
+    <button class="opt" data-i="a">5,00 %</button>
+    <button class="opt" data-i="b">4,76 %</button>
+    <button class="opt" data-i="c">4,85 %</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Courbe inversée = baisse anticipée." data-ko="Inversion = anticipation de BAISSE des taux.">
+    <div class="q">7. Une courbe des taux inversée signifie que le marché anticipe…</div>
+    <button class="opt" data-i="a">Une baisse des taux d'intérêt</button>
+    <button class="opt" data-i="b">Une hausse des taux d'intérêt</button>
+    <button class="opt" data-i="c">Une récession boursière uniquement</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Longue échéance + faible coupon = durée maximale = gain maximal si les taux baissent." data-ko="Pour profiter d'une baisse de taux, on veut la durée la plus longue.">
+    <div class="q">8. Tu anticipes une baisse des taux. Quelle obligation privilégier?</div>
+    <button class="opt" data-i="a">Coupon 8 %, échéance 2 ans</button>
+    <button class="opt" data-i="b">Coupon 3 %, échéance 20 ans</button>
+    <button class="opt" data-i="c">Coupon 8 %, échéance 20 ans</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 5 : ACTIONS ══════════════════ -->
+<section id="actions">
+  <h2>📈 Module 5 — Séance 4 : L'évaluation des actions</h2>
+  <p>Même principe universel : <b>le prix d'un titre = la valeur actualisée de TOUS ses flux monétaires futurs</b>. Pour une action, les flux = les <b>dividendes</b>. On n'a besoin que des 3 formules déjà apprises (montant simple, annuité, perpétuité).</p>
+
+  <h3>5.1 Action ordinaire vs privilégiée (théorie)</h3>
+  <table>
+    <tr><th></th><th>Action ORDINAIRE</th><th>Action PRIVILÉGIÉE</th></tr>
+    <tr><td>Droit de vote</td><td><b>Oui</b> (élire le conseil d'administration)</td><td><b>Non</b> (sauf contingences : report prolongé du dividende, nouvelles émissions…)</td></tr>
+    <tr><td>Dividendes</td><td>Variables, croissants (bénéfices résiduels versés ou réinvestis — BNR)</td><td><b>Constants</b>, habituellement <b>cumulatifs</b> (les dividendes non versés sont reportés)</td></tr>
+    <tr><td>Rang en faillite</td><td><b>Dernier</b></td><td>Senior aux ordinaires, subordonné à la dette</td></tr>
+    <tr><td>Évaluation</td><td>Perpétuité/growth (Gordon)</td><td><b>Perpétuité simple</b></td></tr>
+  </table>
+
+  <h3>5.2 Actions privilégiées = perpétuité</h3>
+  <div class="formule">P₀ = D / r
+    <small>D = dividende constant (par période) · r = rendement exigé PAR PÉRIODE (même fréquence que D) · valeur une période avant le prochain dividende</small>
+  </div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel 1 :</b> privilégiée BDB, dividende annuel 1 $, rendement exigé 8 %.</div>
+    P = 1/0,08 = <b>12,50 $</b> (réponse officielle)</div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel 2 :</b> privilégiée BDB, dividende TRIMESTRIEL de 0,25 $, rendement exigé EFFECTIF 8 %.</div>
+    ⚠️ Piège : les dividendes sont trimestriels → il faut le taux TRIMESTRIEL : i<sub>trim</sub> = (1,08)<sup>1/4</sup> − 1 = 1,94265 %<br>
+    P = 0,25/0,0194265 = <b>12,87 $</b> (réponse officielle)
+  </div>
+
+  <h3>5.3 Actions ordinaires — le modèle de Gordon-Shapiro (croissance constante)</h3>
+  <div class="formule">P₀ = D₁ / (r − g) = D₀ × (1 + g) / (r − g)
+    <small>D₁ = PROCHAIN dividende (une période plus tard!) · r = rendement exigé par période · g = croissance par période · r &gt; g</small>
+  </div>
+  <div class="danger"><b>🚨 LE piège du quiz : D₁ vs D₀.</b> « Vient tout juste de verser un dividende de 1 $ » = c'est D₀ → D₁ = 1 × (1+g). « Le prochain dividende sera de X » = c'est déjà D₁, ne multiplie PAS. (FAQ officielle : « vient tout juste d'être versé » ou « prochain dividende dans exactement une période » → premier flux à t=1.)</div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel :</b> IBN vient de verser 1 $ (D₀). Croissance prévue 5 %, rendement exigé 14 %. Prix?</div>
+    D₁ = 1 × 1,05 = 1,05 $ → P₀ = 1,05/(0,14 − 0,05) = 1,05/0,09 = <b>11,67 $</b><br>
+    <span class="cle">Sources du rendement si tes anticipations sont correctes (question officielle du PPT) : le <b>dividende</b> (rendement du dividende) + le <b>gain en capital</b> (le prix croît au même rythme g que les dividendes).</span>
+  </div>
+
+  <h3>5.4 Croissance non constante (le « modèle en 2 étapes ») — décomposition</h3>
+  <div class="retiens"><b>Méthode officielle (décomposition de la structure des FMs) :</b>
+  <ol>
+    <li>Dessine les dividendes avec leurs croissances spécifiques (ex. 20 %, 15 %, puis 5 % à l'infini);</li>
+    <li>Actualise les dividendes « anormaux » un à un en <b>montants simples</b>;</li>
+    <li>À la date où la croissance devient constante, pose le <b>Gordon</b> (P<sub>t</sub> = D<sub>t+1</sub>/(r−g)) — cette valeur « vit » à cette date-là;</li>
+    <li>Actualise ce prix de fin en montant simple et <b>additionne tout</b>.</li>
+  </ol>
+  <span class="cle">Le cours préfère cette décomposition à la formule d'annuité en croissance — mais les deux donnent le même résultat.</span></div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel (suite IBN) :</b> croissance 20 % (an 1), 15 % (an 2), puis 5 % à l'infini. r = 14 %, D₀ = 1 $.</div>
+    D₁ = 1,20 · D₂ = 1,38 · D₃ = 1,449 (croissance normale 5 %)<br>
+    Gordon à t=2 : P₂ = D₃/(r−g) = 1,449/0,09 = 16,10 $<br>
+    P₀ = 1,20/1,14 + (1,38 + 16,10)/1,14² = 1,0526 + 17,48/1,2996
+    <button class="reveler" data-cible="r-d1">👁 Révéler</button>
+    <div id="r-d1" class="cache rep">P₀ = 1,0526 + 13,45 = <b>≈ 14,50 $</b> (on peut aussi décomposer avec P₃ = D₄/(r−g) actualisé d'une période de plus — même résultat)</div>
+  </div>
+
+  <h3>5.5 L'évaluation par multiple C/B (P/E)</h3>
+  <p>Méthode <b>simplifiée</b>, moins d'hypothèses que les dividendes : on compare la société à son industrie.</p>
+  <div class="formule">C/B = Cours / Bénéfices des 4 derniers trimestres &nbsp;&nbsp;→&nbsp;&nbsp; Valeur intrinsèque = C/B<sub>industrie</sub> × BPA
+    <small>Autres multiples : P/B, EV/EBIT, EV/EBITDA, P/clic…</small>
+  </div>
+  <div class="exemple"><div class="titre-ex"><b>Exemple officiel :</b> cours 90 $, bénéfices 4 trimestres = 2 + 1,50 + 2,50 + 1,50 = 7,50 $. Multiple de l'industrie : 14.</div>
+    C/B = 90/7,50 = 12 fois (&lt; 14 → l'action semble sous-évaluée)<br>
+    Valeur intrinsèque = 14 × 7,50 = <b>105 $</b> (réponse officielle)
+  </div>
+
+  <h3>Quiz QCM — Actions (7 questions)</h3>
+  <div class="qcm" data-rep="b" data-ok="Privilégiée = dividende constant = perpétuité." data-ko="L'action privilégiée est évaluée comme une perpétuité simple.">
+    <div class="q">1. L'action privilégiée s'évalue typiquement avec…</div>
+    <button class="opt" data-i="a">Le modèle de Gordon avec croissance</button>
+    <button class="opt" data-i="b">Une perpétuité à dividende constant</button>
+    <button class="opt" data-i="c">Le multiple C/B uniquement</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="D₀(1+g)/(r−g)." data-ko="« Vient de verser » = D₀ → multiplie par (1+g).">
+    <div class="q">2. « Le dividende de 2 $ vient tout juste d'être versé », g = 4 %, r = 10 %. Au numérateur de Gordon, tu mets…</div>
+    <button class="opt" data-i="a">2,08 $</button>
+    <button class="opt" data-i="b">2,00 $</button>
+    <button class="opt" data-i="c">2 × 0,10</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Aligner la période du taux sur la fréquence des dividendes!" data-ko="Dividendes trimestriels → taux trimestriel (1,08)^¼−1.">
+    <div class="q">3. Dividende trimestriel constant de 0,50 $, r effectif 8 %, à perpétuité. P = ?</div>
+    <button class="opt" data-i="a">0,50/0,08 = 6,25 $</button>
+    <button class="opt" data-i="b">2,00/0,08 = 25,00 $</button>
+    <button class="opt" data-i="c">0,50/0,0194265 = 25,74 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Gordon à la date de stabilisation + montants simples pour les FMs anormaux." data-ko="Décomposition : dividendes explicites en montants simples + Gordon au moment où g devient constant.">
+    <div class="q">4. Croissance non constante puis stabilisation : on évalue en…</div>
+    <button class="opt" data-i="a">Appliquant Gordon directement avec le g initial</button>
+    <button class="opt" data-i="b">Actualisant chaque dividende anormal + Gordon à la date de stabilisation</button>
+    <button class="opt" data-i="c">Utilisant le multiple C/B obligatoirement</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Dernier rang — c'est le résiduel." data-ko="L'ordinaire est le DERNIER dans l'ordre de priorité en faillite.">
+    <div class="q">5. Dans l'ordre de priorité en cas de faillite, l'actionnaire ordinaire est…</div>
+    <button class="opt" data-i="a">Le dernier servi</button>
+    <button class="opt" data-i="b">Avant les privilégiés</button>
+    <button class="opt" data-i="c">Avant les créanciers</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="14 × 7,50 = 105 $." data-ko="Multiple industrie × BPA de la firme.">
+    <div class="q">6. C/B de l'industrie 14, BPA de la firme 7,50 $. Valeur intrinsèque par le multiple :</div>
+    <button class="opt" data-i="a">90 $</button>
+    <button class="opt" data-i="b">7,50/14 = 0,54 $</button>
+    <button class="opt" data-i="c">105 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="BNR = bénéfices non répartis, versés plus tard ou réinvestis." data-ko="Les bénéfices résiduels vont aux actionnaires : dividendes OU réinvestissement (BNR).">
+    <div class="q">7. Les bénéfices résiduels d'une société vont…</div>
+    <button class="opt" data-i="a">Toujours entièrement en dividendes</button>
+    <button class="opt" data-i="b">En dividendes et/ou en bénéfices non répartis (réinvestis)</button>
+    <button class="opt" data-i="c">Aux créanciers en premier</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 6 : QUESTIONS SOLUTIONNÉES ══════════════════ -->
+<section id="solutionnees">
+  <h2>✍️ Module 6 — Les 5 questions solutionnées officielles du cours</h2>
+  <p>Ce sont les questions que la prof a publiées dans les pages « APRÈS la séance » avec leur capsule vidéo de solution. <b>Protocole (16h50-18h20) :</b> cache la solution, essaie 10 minutes sur papier avec schéma temporel, puis compare. Ces questions sont du niveau quiz.</p>
+
+  <h3>Q1 — Le problème de retraite (math fin, chap. 5-6)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel</div>
+    Une amie fête ses 35 ans aujourd'hui. Elle veut retirer <b>80 000 $ par année</b> de son compte, le jour de ses <b>66 ans, et ce pendant 15 ans</b> (dernier retrait à 80 ans). Taux : <b>9 % par année</b>.<br>
+    a) Versements égaux <b>de 36 à 65 ans inclusivement</b> (dernier le jour des 65 ans) : quel montant annuel?<br>
+    b) Montant <b>forfaitaire le jour de ses 36 ans</b> pour combler le même objectif?<br>
+    c) Idem que a), mais l'employeur verse <b>1 500 $/an</b> dans le compte et elle recevra <b>30 000 $ à 55 ans</b> : quel versement annuel personnel?
+  </div>
+  <button class="reveler" data-cible="r-q1">👁 Révéler la solution complète</button>
+  <div id="r-q1" class="cache">
+    <p><b>Étape 1 — la cible (à 65 ans) :</b> les retraits forment une annuité de 15 × 80 000 $, dont le premier est à 66 ans → VAA « posée » une période avant = à 65 ans :<br>
+    VA<sub>65</sub> = 80 000 × [1 − (1,09)<sup>−15</sup>]/0,09 = 80 000 × 8,0607 = <b>644 855 $</b></p>
+    <p><b>a)</b> À 35 ans, elle commence des versements de fin de période de 36 à 65 ans = 30 versements, dont la VAA tombe à 35 ans. Il faut la <b>capitaliser 30 ans</b> jusqu'à 65 ans (ou : VFA à 65 ans) :<br>
+    644 855 = PMT × [(1,09)<sup>30</sup> − 1]/0,09 = PMT × 136,31 → PMT = <b>≈ 4 731 $/an</b></p>
+    <p><b>b)</b> Forfaitaire à 36 ans → capitalise 29 ans jusqu'à 65 ans :<br>
+    Montant = 644 855/(1,09)<sup>29</sup> = 644 855/12,1713 = <b>≈ 52 980 $</b></p>
+    <p><b>c)</b> Les aides de l'employeur capitalisent elles aussi vers 65 ans :<br>
+    1 500 $/an pendant 30 ans : VFA = 1 500 × 136,31 = 204 461 $<br>
+    30 000 $ à 55 ans → × (1,09)<sup>10</sup> = 71 021 $<br>
+    Reste à combler : 644 855 − 204 461 − 71 021 = <b>369 373 $</b> → PMT = 369 373/136,31 = <b>≈ 2 710 $/an</b></p>
+    <p class="cle">Concepts : la ligne du temps règne; une annuité « tombe » à une date précise; on déplace tout à la même date avant de comparer.</p>
+  </div>
+
+  <h3>Q2 — Chréphane : trouver le COUPON à partir de la cote (obligations)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel</div>
+    Il y a <b>5 ans et demi</b>, Chréphane a émis des obligations à <b>20 ans</b> d'échéance initiale. Le TRE actuel est de <b>9 %</b> et les titres se vendent à une <b>cote de 85 %</b>. Quel était le taux de coupon offert à l'émission? <i>(La prof demande de le trouver à la calculatrice plutôt qu'Excel.)</i>
+  </div>
+  <button class="reveler" data-cible="r-q2">👁 Révéler la solution complète</button>
+  <div id="r-q2" class="cache">
+    <p><b>Décorticage :</b> émise il y a 5,5 ans sur 20 → reste <b>14,5 ans = 29 semestres</b>. TRE 9 % nominal sem. → i = 4,5 %. Cote 85 % × VN 1 000 $ = <b>prix 850 $</b>. Inconnue : le coupon semestriel PMT.</p>
+    <p><b>Équation écrite :</b> 850 = PMT × [1 − (1,045)<sup>−29</sup>]/0,045 + 1 000 × (1,045)<sup>−29</sup> = PMT × 16,0212 + 279,05<br>
+    → PMT = (850 − 279,05)/16,0212 = <b>35,64 $/semestre</b> → TC = 35,64 × 2/1 000 = <b>≈ 7,13 % nominal semestriel</b></p>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 29 <span class="touche">N</span> · 4.5 <span class="touche">I/Y</span> · 850 <span class="touche">+/−</span> <span class="touche">PV</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">PMT</span> → 35.64 (×2 = 71,28 → TC ≈ 7,13 %)</div>
+    <p class="cle">Cohérence : cote 85 % (escompte) → TC &lt; TRE (7,13 % &lt; 9 %) ✓</p>
+  </div>
+
+  <h3>Q3 — BDJ : le coupon d'une NOUVELLE obligation vendue au pair (obligations)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel</div>
+    BDJ veut émettre une nouvelle obligation de <b>10 ans</b>. Elle possède déjà des obligations au coupon de <b>8 %</b> (semestriel, 10 ans) qui se vendent <b>1 095 $</b>. Quel devrait être le taux de coupon de la nouvelle obligation pour qu'elle se vende <b>à la valeur nominale</b>?
+  </div>
+  <button class="reveler" data-cible="r-q3">👁 Révéler la solution complète</button>
+  <div id="r-q3" class="cache">
+    <p><b>Étape 1 — le TRE du marché</b> (c'est lui qui fixera le coupon d'une émission au pair) : obligation existante : 1 095 = 40 × [1−(1+i)<sup>−20</sup>]/i + 1000(1+i)<sup>−20</sup> → par calculatrice :</p>
+    <div class="seq"><span class="touche">2ND CLR TVM</span> · 20 <span class="touche">N</span> · 1095 <span class="touche">+/−</span> <span class="touche">PV</span> · 40 <span class="touche">PMT</span> · 1000 <span class="touche">FV</span> · <span class="touche">CPT</span> <span class="touche">I/Y</span> → ≈ 3,34 % semestriel</div>
+    <p><b>Étape 2 —</b> Pour vendre au pair, TC = TRE → <b>TC = 2 × 3,34 % ≈ 6,68 % nominal semestriel</b>.</p>
+    <p class="cle">Logique clé : au pair ⇔ TC = TRE. Le prix de 1 095 $ (prime) nous révèle le TRE du marché pour cette échéance/risque.</p>
+  </div>
+
+  <h3>Q4 — Entendus inc. : Gordon simple + prix futur (actions)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel</div>
+    Entendus vient de verser un dividende annuel de <b>1,75 $</b>. Croissance constante <b>6 %</b> à l'infini, rendement exigé <b>12 %</b>. Cours actuel? Cours dans 3 ans? Dans 15 ans? <i>(Erratum officiel : à t=15, on utilise D₁₆ — pas D₁₄.)</i>
+  </div>
+  <button class="reveler" data-cible="r-q4">👁 Révéler la solution complète</button>
+  <div id="r-q4" class="cache">
+    <p>P₀ = D₁/(r−g) = 1,75 × 1,06/0,06 = 1,855/0,06 = <b>30,92 $</b></p>
+    <p>P₃ = D₄/(r−g) = 1,75 × (1,06)⁴/0,06 = 2,2093/0,06 = <b>36,82 $</b></p>
+    <p>P₁₅ = D₁₆/(r−g) = 1,75 × (1,06)¹⁶/0,06 = 4,4456/0,06 = <b>74,09 $</b></p>
+    <p class="cle">Concept : à chaque date t, le prix = valeur des dividendes FUTURS à partir de t+1 → le prix croît au rythme g. (P₃ = P₀ × 1,06³ ✓)</p>
+  </div>
+
+  <h3>Q5 — Villa : croissance en 2 étapes (actions)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel</div>
+    Villa versera : 6,50 $ (an 1), 5,00 $ (an 2), 3,00 $ (an 3), 2,00 $ (an 4), puis croissance constante de <b>5 % à l'infini</b>. Rendement exigé <b>16 %</b>. Cours actuel?
+  </div>
+  <button class="reveler" data-cible="r-q5">👁 Révéler la solution complète</button>
+  <div id="r-q5" class="cache">
+    <p><b>Décomposition :</b> dividendes explicites D₁–D₃ en montants simples; Gordon posé à t=3 (une période avant D₄) : P₃ = D₄/(r−g) = 2,00/0,11 = <b>18,18 $</b></p>
+    <p>P₀ = 6,50/1,16 + 5,00/(1,16)² + (3,00 + 18,18)/(1,16)³<br>
+    = 5,6034 + 3,7159 + 21,18/1,5609 = 5,6034 + 3,7159 + 13,5715 = <b>≈ 22,89 $</b></p>
+    <p class="cle">Concept : peu importe la forme des premiers dividendes (même décroissants!), la méthode ne change jamais : montants simples + Gordon à la stabilisation.</p>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 7 : TP ══════════════════ -->
+<section id="tp">
+  <h2>📝 Module 7 — TP 1 et TP 2 (les entraînements les plus proches du quiz)</h2>
+  <p class="cle">Les TP sont les seuls « examens complets » dont tu disposes. Solutions officielles en vidéo (liens dans la zone cours). Les solutions ci-dessous sont mes démarches rédigées — si un chiffre diffère légèrement de la vidéo, c'est de l'arrondi : la méthode compte davantage.</p>
+
+  <h3>TP 1 — Exercice 1 : l'hypothèque de Sandy et Danny (math fin)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel (résumé)</div>
+    Taux : <b>7 % nominal à capitalisation semestrielle</b> (52 semaines/an exactement). Sandy : <b>150 $/semaine</b> (fin, 1er dans 1 semaine). Danny : <b>250 $ aux 2 semaines</b> (fin, 1er dans 2 semaines). Échéance <b>20 ans</b>, aucune mise de fonds. <b>1)</b> Valeur de l'emprunt? <b>2)</b> Et si l'« hypothèque perpétuelle » (mêmes paiements à l'infini)?
+  </div>
+  <button class="reveler" data-cible="r-tp11">👁 Révéler la solution</button>
+  <div id="r-tp11" class="cache">
+    <p><b>Taux :</b> i<sub>sem</sub> = 3,5 % → i<sub>2sem</sub> = (1,035)<sup>1/26</sup> − 1 = 0,132401 % → i<sub>hebdo</sub> = (1,035)<sup>2/52</sup> − 1 = 0,132401 % (les deux semaines = 2 semaines : normal, l'hebdomadaire composé 2 fois = le bihebdomadaire).</p>
+    <p><b>Sandy :</b> n = 20 × 52 = 1 040 versements : VAA = 150 × [1 − (1,00132401)<sup>−1040</sup>]/0,00132401 = 150 × 564,52 = <b>≈ 84 677 $</b></p>
+    <p><b>Danny :</b> n = 20 × 26 = 520 versements : VAA = 250 × [1 − (1,00132401)<sup>−520</sup>]/0,00132401 = 250 × 375,70 = <b>≈ 93 925 $</b></p>
+    <p><b>1) Emprunt total = ≈ 178 604 $</b></p>
+    <p><b>2) Perpétuités :</b> Sandy : 150/0,00132401 = 113 292 $; Danny : 250/0,00132401 = 188 821 $ → <b>total ≈ 302 113 $</b></p>
+    <p class="cle">Concepts : deux profils de paiements différents = deux annuités distinctes qu'on additionne à la même date (t=0).</p>
+  </div>
+
+  <h3>TP 1 — Exercice 2 : la loterie de Sami (math fin)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel (résumé)</div>
+    Loterie à échéance 20 ans : ① 75 $/semaine (fin, 1er dans 1 semaine, dernier dans 20 ans); ② 10 000 $ immédiatement; ③ 1 000 $/an en <b>début</b> d'année pendant 20 ans (1er aujourd'hui). Rendement exigé <b>effectif 10 %</b>. Combien vaut la loterie?
+  </div>
+  <button class="reveler" data-cible="r-tp12">👁 Révéler la solution</button>
+  <div id="r-tp12" class="cache">
+    <p><b>①</b> i<sub>hebdo</sub> = (1,10)<sup>1/52</sup> − 1 = 0,183457 %; n = 1 040 :<br>VAA = 75 × [1 − (1,00183457)<sup>−1040</sup>]/0,00183457 = 75 × 464,06 = <b>≈ 34 805 $</b></p>
+    <p><b>②</b> 10 000 $ (dès aujourd'hui, aucune actualisation) = <b>10 000 $</b></p>
+    <p><b>③</b> annuité annuelle début : VAA<sub>fin</sub> = 1 000 × [1 − (1,10)<sup>−20</sup>]/0,10 = 1 000 × 8,5136 = 8 513,56 → ×(1,10) = <b>≈ 9 364,9 $</b></p>
+    <p><b>Valeur totale = ≈ 54 170 $</b></p>
+    <p class="cle">Concepts : trois « blocs » de FMs (annuité hebdo, montant immédiat, annuité début) additionnés à t=0.</p>
+  </div>
+
+  <h3>TP 1 — Exercice 3 : vendre la loterie, plan A ou B? (math fin)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel (résumé)</div>
+    Sami te PROPOSE de te vendre sa loterie (valeur ≈ 54 170 $, incluant les flux d'aujourd'hui). <b>Plan A :</b> tu lui donnes 20 000 $ aujourd'hui + 12 000 $/an (fin) pendant 5 ans. <b>Plan B :</b> 30 000 $ dans 1 an + 6 000 $/semestre pendant 3 ans (6 versements, 1er AUJOURD'HUI). Taux effectif 10 %. Faut-il acheter? Quel plan?
+  </div>
+  <button class="reveler" data-cible="r-tp13">👁 Révéler la solution</button>
+  <div id="r-tp13" class="cache">
+    <p><b>Coût du plan A :</b> 20 000 + 12 000 × [1 − (1,10)<sup>−5</sup>]/0,10 = 20 000 + 12 000 × 3,7908 = <b>≈ 65 489 $</b></p>
+    <p><b>Coût du plan B :</b> i<sub>sem</sub> = (1,10)<sup>1/2</sup> − 1 = 4,8809 %; annuité début 6 × 6 000 :<br>VAA<sub>fin</sub> = 6 000 × [1 − (1,048809)<sup>−6</sup>]/0,048809 = 6 000 × 5,0951 = 30 570,4 → ×(1,048809) = 32 062,5<br>+ PV de 30 000 $ dans 1 an : 30 000/1,10 = 27 272,7 → <b>total ≈ 59 335 $</b></p>
+    <p><b>Verdict :</b> la loterie vaut ≈ 54 170 $ mais les deux plans coûtent PLUS cher (65 489 $ et 59 335 $) → <b>n'est PAS avantageux d'acheter</b>. Si Sami insiste, le plan B est le « moins pire ».</p>
+    <p class="cle">Concept : comparer ce que tu reçois (VA des flux) à ce que tu paies (VA des déboursés) À LA MÊME DATE.</p>
+  </div>
+
+  <h3>TP 2 — Exercice 1 : ED inc. et MC inc. (obligations + actions)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel (résumé)</div>
+    <b>ED</b> : obligation conventionnelle, TC 5,5 % semestriel, VN 1 000 $, 12 ans. <b>MC</b> : mêmes caractéristiques MAIS capital remboursé en 4 tranches de 250 $ (fin des années 3, 6, 9, 12). TRE exigé : 6 % nominal sem.<br>
+    <b>1.1</b> Prix max des deux obligations? <b>1.2</b> ED se vend 1 040 $ : RAE nominal? <b>1.3</b> ED émet des actions (prix = 104 $ = 1/10 de 1 040 $) : aucun dividende pendant 3 ans, puis dividende TRIMESTRIEL croissant 3 %/trim à l'infini; r = 15 % nominal trim. Premier dividende?
+  </div>
+  <button class="reveler" data-cible="r-tp21">👁 Révéler la solution</button>
+  <div id="r-tp21" class="cache">
+    <p><b>1.1 ED :</b> coupon 27,50 $; i = 3 %; n = 24 : P = 27,50 × [1 − (1,03)<sup>−24</sup>]/0,03 + 1 000 × (1,03)<sup>−24</sup> = 27,50 × 16,9355 + 491,93 = 465,73 + 491,93 = <b>≈ 957,66 $</b></p>
+    <p><b>1.1 MC :</b> mêmes coupons (24 × 27,50 $) + 4 tranches de 250 $ actualisées à leur semestre (6, 12, 18, 24) :<br>250 × (0,83748 + 0,70138 + 0,58739 + 0,49193) = 250 × 2,61819 = 654,55 → <b>total ≈ 1 120,28 $</b></p>
+    <p><b>1.2</b> N=24, PV=−1040, PMT=27,50, FV=1000 → CPT I/Y ≈ 2,52 %/sem → <b>RAE ≈ 5,05 % nominal semestriel</b></p>
+    <p><b>1.3</b> Gordon trimestriel : i = 3,75 %, g = 3 % → écart 0,75 %. Premier dividende à t = 12 trimestres (après 3 ans), donc la formule pose sa valeur à t = 11 :<br>P₀ = [D₁/(0,0375 − 0,03)]/(1,0375)¹¹ = 104 → D₁ = 104 × 0,0075 × 1,4991 = <b>≈ 1,17 $</b></p>
+    <p class="cle">Concepts : obligation à remboursement échelonné = annuité de coupons + montants simples multiples; action « retardée » = Gordon décalé dans le temps.</p>
+  </div>
+
+  <h3>TP 2 — Exercice 2 : Pink (actions) et Birds (obligation modifiée)</h3>
+  <div class="exemple"><div class="titre-ex">Énoncé officiel (résumé) — 27 mai 2007</div>
+    <b>Pink (action)</b> : dernier dividende 0,50 $ <b>versé aujourd'hui</b>, trimestriel, croissance 3 %/trim à l'infini, prix 25,00 $.<br>
+    <b>2.1</b> Taux de rendement EFFECTIF annuel exigé?<br>
+    <b>2.2</b> Nouveau plan : 0,50 $ dans 6 mois + 0,50 $ dans 1 an, puis reprise trimestrielle avec croissance 3 % (le premier « normal » = 0,50 × 1,03 trois mois après). Nouveau prix?<br>
+    <b>Birds (obligation)</b> : VN 1 000 $, coupon 15 % nominal sem (75 $), TRE 15 % nominal sem, échéance 27 mai 2010. <b>2.3</b> Nouveau plan : coupon réduit de moitié (37,50 $), prochain coupon RETARDÉ au 27 février 2008, puis semestriel (27 août / 27 fév), échéance avancée au 27 février 2010. Nouveau prix? (Taux exigés inchangés.)
+  </div>
+  <button class="reveler" data-cible="r-tp22">👁 Révéler la solution</button>
+  <div id="r-tp22" class="cache">
+    <p><b>2.1</b> 25 = D₁/(r−g) = 0,50 × 1,03/(r<sub>trim</sub> − 0,03) → r<sub>trim</sub> − 0,03 = 0,515/25 = 0,0206 → r<sub>trim</sub> = 5,06 % → effectif annuel = (1,0506)⁴ − 1 = <b>≈ 21,8 %</b></p>
+    <p><b>2.2</b> FMs : 0,50 $ à t=2 trimestres; 0,50 $ à t=4; puis à partir de t=5, croissance 3 % : le Gordon des FMs « normaux » se pose une période avant leur 1er versement = t=4 : P₄ = 0,515/(0,0506−0,03) = 25,00 $ (normal : le marché ne change pas ses exigences).<br>P₀ = 0,50/(1,0506)² + (0,50 + 25,00)/(1,0506)⁴ = 0,4531 + 25,50/1,21829 = 0,4531 + 20,9310 = <b>≈ 21,38 $</b></p>
+    <p><b>2.3</b> i = 7,5 %/semestre. Nouveaux coupons de 37,50 $ aux dates (en semestres à partir du 27 mai 2007) : 27 fév 2008 = 9 mois = t=1,5; puis t=2,5; 3,5; 4,5; et 5,5 (27 fév 2010) où la VN est aussi remboursée :<br>P = 37,50 × [1/(1,075)<sup>1,5</sup> + … + 1/(1,075)<sup>5,5</sup>] + 1 000/(1,075)<sup>5,5</sup> = 146,33 + 671,83 = <b>≈ 818,16 $</b></p>
+    <p class="cle">Concepts : Gordon inversé pour trouver r; décomposition quand le patron des dividendes change; obligation avec coupons irréguliers = somme de montants simples (fraction de période exposant non-entier!).</p>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 8 : FEUILLE DE FORMULES ══════════════════ -->
+<section id="formules">
+  <h2>📋 Module 8 — Ta feuille de formules (celle qui sera attachée au quiz)</h2>
+  <p>Le quiz est à livres fermés <b>MAIS cette feuille est fournie</b> (c'est la même que celle de l'intra — « 10200 - Feuille de formules - Intra MAJ 2025 », aussi dans ton dossier <code>ZoneCours</code>). Voici ce qu'elle contient, avec mes annotations sur la façon de t'en servir :</p>
+  <table>
+    <tr><th>Formule sur la feuille</th><th>En clair</th><th>Ma note d'utilisation</th></tr>
+    <tr><td><b>VA = VC/(1+r)ⁿ</b> (valeur actuelle d'un FM)</td><td>Actualiser un montant unique</td><td>Écris-la à chaque fois — c'est la brique de base.</td></tr>
+    <tr><td><b>VAA = PMT[1−(1+r)⁻ᵗ]/r</b></td><td>Valeur actuelle d'une annuité</td><td>Le résultat « tombe » une période avant le 1er versement. t = nombre de versements.</td></tr>
+    <tr><td><b>VFA = PMT[(1+r)ᵗ−1]/r</b></td><td>Valeur future d'une annuité</td><td>Tombe au moment du dernier versement (fin de période).</td></tr>
+    <tr><td><b>VAP = PMT/r</b></td><td>Perpétuité</td><td>Actions privilégiées, rentes à vie.</td></tr>
+    <tr><td><b>VAP croissance = PMT₁/(r−g)</b></td><td>Perpétuité croissante</td><td>= Gordon. Attention : PMT₁ (premier versement futur), r&gt;g.</td></tr>
+    <tr><td><b>VAAC = PMT₁/(r−g) × [1 − ((1+g)/(1+r))ᵗ]</b></td><td>Annuité en croissance</td><td>Optionnelle : le cours préfère la décomposition en montants simples.</td></tr>
+    <tr><td><b>(1+i₁)^m₁ = (1+i₂)^m₂</b></td><td>Équivalence de taux</td><td>LE réflexe conversion. Chaque côté = taux effectif.</td></tr>
+    <tr><td><b>P₀ = coupon[1−(1+i)⁻ⁿ]/i + VN(1+i)⁻ⁿ</b></td><td>Prix d'une obligation</td><td>i = TRE/2, n = semestres, coupon = TC×VN/2.</td></tr>
+    <tr><td><b>P₀ = D₁/r</b></td><td>Action dividendes constants</td><td>Privilégiées. r par période = fréquence des dividendes.</td></tr>
+    <tr><td><b>P₀ = D₁/(r−g)</b></td><td>Gordon</td><td>Ordinaires à croissance stable.</td></tr>
+    <tr><td>Rendement espéré, variance, portefeuille 2 titres, corrélation, MÉDAF, bêta</td><td colspan="2">→ Pour l'EXAMEN INTRA (pas le quiz de lundi : cette matière commence après le quiz)</td></tr>
+  </table>
+  <div class="attention"><b>⚠️ Ce qui n'est PAS sur la feuille (à savoir par cœur) :</b>
+    <ul>
+      <li>Les <b>définitions</b> : nominal vs effectif vs périodique; cote = % de la VN;</li>
+      <li>La convention <b>obligation nord-américaine</b> : 2 coupons/an, TC et TRE nominaux semestriels;</li>
+      <li><b>Par = prime = escompte</b> (TRE vs TC); clauses optionnelles et leur effet;</li>
+      <li><b>Fisher</b> : (1+r<sub>nom</sub>) = (1+r<sub>réel</sub>)(1+infl);</li>
+      <li>Les formes de la <b>courbe des taux</b> et leur signification; le concept de <b>durée</b>;</li>
+      <li>Le <b>multiple C/B</b>; le vocabulaire des actions (cumulative, BNR, etc.);</li>
+      <li>L'annuité de <b>début de période</b> = formule × (1+i) — pas écrite noir sur blanc!</li>
+    </ul>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 9 : STRATÉGIE ══════════════════ -->
+<section id="strategie">
+  <h2>🎯 Module 9 — Stratégie de quiz + les erreurs fatales</h2>
+
+  <h3>9.1 Les 7 erreurs fatales (chacune coûte des points à chaque quiz de ce cours)</h3>
+  <ol>
+    <li><b>N'écrire que les touches de la calculatrice.</b> La prof est formelle : « N=28, PMT=30$, PV=850$… NE SONT PAS ACCEPTÉES ». Écris : formule → valeurs substituées → résultat.</li>
+    <li><b>Oublier le schéma temporel.</b> Il détermine où tombent tes annuités et repère les débuts de période. 30 secondes qui valent de l'or.</li>
+    <li><b>Diviser un taux nominal par le mauvais nombre.</b> 6 % nominal semestriel avec paiements mensuels ≠ 0,5 %/mois. Il faut l'équivalence : (1,03)² = (1+i)¹².</li>
+    <li><b>Confondre D₀ et D₁.</b> « Vient tout juste de verser » → multiplie par (1+g) pour avoir D₁.</li>
+    <li><b>Se tromper de N.</b> N = nombre de VERSEMENTS (pas d'années), dans la MÊME unité que I/Y. Obligation : années × 2.</li>
+    <li><b>Arrondir trop tôt.</b> Garde 6+ décimales dans les taux intermédiaires (STO/RCL), arrondis à la fin.</li>
+    <li><b>Arriver en retard lundi.</b> Le quiz est AU DÉBUT de la séance (12h00). La veille : vérifie piles, crayons, ta carte étudiante.</li>
+  </ol>
+
+  <h3>9.2 Ta routine face à chaque question de calcul lundi</h3>
+  <div class="retiens">
+    <b>1.</b> Lis DEUX fois l'énoncé en surlignant : les montants, les dates, le type de taux (nominal? effectif? capitalisation?), la date demandée.<br>
+    <b>2.</b> Schéma temporel.<br>
+    <b>3.</b> Convertis le taux si nécessaire (aligne sur les versements).<br>
+    <b>4.</b> Choisis les blocs de formules (simple / annuité / perpétuité / Gordon / obligation).<br>
+    <b>5.</b> Écris les formules EN ENTIER avec valeurs → calcule à la BA II Plus → encadre la réponse avec le $ et une phrase (« Le prix de l'obligation est de 771,30 $ »).<br>
+    <b>6.</b> Vérification de cohérence 5 secondes : prime/escompte logique? VAA posée au bon endroit? signes?
+  </div>
+
+  <h3>9.3 Question théorique? La banque probable</h3>
+  <p>Agence et coûts d'agence · marché primaire vs secondaire · les 3 décisions du gestionnaire financier · formes d'organisation · nominal/effectif/périodique et classement de taux · par/prime/escompte · clauses optionnelles (+/− sur le prix) · cotes de crédit (S&amp;P, Moody's, Fitch; investment grade vs pacotille) · points de base · Fisher · courbe des taux (normale/pentification/aplatissement/inversion) · durée (aucun calcul) · privilégiée vs ordinaire · C/B · sources de rendement d'une action (dividende + gain en capital).</p>
+
+  <h3>9.4 Checklist finale (22h50 ce soir)</h3>
+  <div class="tache"><input type="checkbox" data-k="f1" id="f1"><label for="f1">Tous les quiz QCM de ce plan refaits sans erreur (sinon relis le module concerné)</label></div>
+  <div class="tache"><input type="checkbox" data-k="f2" id="f2"><label for="f2">Feuille de formules parcourue une dernière fois + liste « à mémoriser » (module 8)</label></div>
+  <div class="tache"><input type="checkbox" data-k="f3" id="f3"><label for="f3">Calculatrice prête (piles), crayons, montre</label></div>
+  <div class="tache"><input type="checkbox" data-k="f4" id="f4"><label for="f4">Réveil réglé pour arriver EN AVANCE lundi (le quiz débute au début de la séance, 12h00)</label></div>
+  <div class="tache"><input type="checkbox" data-k="f5" id="f5"><label for="f5">Rappelle-toi : le quiz ne peut pas nuire à ta note. Zéro stress = meilleur rendement.</label></div>
+
+  <h3>9.5 Tes fichiers (tout est déjà sur ton ordinateur)</h3>
+  <ul>
+    <li>Dossier <code>Finance\ZoneCours</code> : les 19 fichiers officiels du cours (PPT des séances, notes de cours, TP, feuille de formules, exercices supplémentaires, guide BA II Plus, guide de lecture).</li>
+    <li><a href="Corrigé - Chapitre 5 (exercices).html">Corrigé chapitre 5</a> · <a href="Corrigé - Chapitre 6 (exercices).html">Corrigé chapitre 6</a> (déjà dans ton dossier Finance)</li>
+    <li><a href="Corrigé - Chapitre 7 (obligations, exercices quiz).html">Corrigé chapitre 7 (obligations)</a> · <a href="Corrigé - Chapitre 8 (actions, exercices quiz).html">Corrigé chapitre 8 (actions)</a> (générés cette nuit)</li>
+    <li>Solutions officielles des TP en vidéo (zone cours) : <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jcaymG1QSnUuvHnYySDcPR0" target="_blank">TP 1 — Mathématiques financières (Solution)</a> · <a href="https://www.youtube.com/playlist?list=PLlAI5RPC89jdOTRIO6zeHiI3wpvFRjWeY" target="_blank">TP 2 — Évaluation de titres (Solution)</a>.</li>
+    <li>Exercices supplémentaires — Obligations (dossier ZoneCours) : la prof les juge essentiels pour le quiz.</li>
+  </ul>
+</section>
+
+<footer>
+  Généré automatiquement le samedi 26 sept. 2026 à partir de TOUTE ta zone cours (nouveau ZoneCours Canvas, FINA10200 A2026 F21) — séances 1-4, annonces, FAQ, TP, capsules et feuille de formules officielle.<br>
+  Bonne révision. Demain midi, tu arrives en avance, tu respires, tu écris tes formules en entier. 💪
+</footer>
+</div>
+
+<script>
+/* ===== Progression + persistance ===== */
+function sauver(k,v){ try{ localStorage.setItem('quiz1_'+k, v?'1':''); }catch(e){} }
+function charger(k){ try{ return localStorage.getItem('quiz1_'+k)==='1'; }catch(e){ return false; } }
+function majProgression(){
+  const cbs=[...document.querySelectorAll('input[type=checkbox][data-k]')];
+  const tot=cbs.length, fait=cbs.filter(c=>c.checked).length;
+  const pct= tot? Math.round(fait/tot*100):0;
+  document.getElementById('prog-fill').style.width=pct+'%';
+  document.getElementById('prog-txt').textContent=pct+' % complété ('+fait+'/'+tot+' tâches)';
+}
+document.querySelectorAll('input[type=checkbox][data-k]').forEach(cb=>{
+  cb.checked=charger(cb.dataset.k);
+  cb.addEventListener('change',()=>{ sauver(cb.dataset.k,cb.checked); majProgression(); });
+});
+majProgression();
+
+/* ===== Révéler / cacher ===== */
+function brancherRevelers(){
+  document.querySelectorAll('button.reveler:not([data-pret])').forEach(b=>{
+    b.setAttribute('data-pret','1');
+    b.addEventListener('click',()=>{
+      const cible=document.getElementById(b.dataset.cible);
+      if(cible){ cible.classList.toggle('cache'); b.textContent = cible.classList.contains('cache') ? '👁 Révéler' : '🙈 Cacher'; }
+    });
+  });
+}
+brancherRevelers();
+
+/* ===== QCM ===== */
+function brancherQcm(){
+  document.querySelectorAll('.qcm:not([data-pret])').forEach(q=>{
+    q.setAttribute('data-pret','1');
+    const bonne=q.dataset.rep;
+    const fb=q.querySelector('.feedback');
+    q.querySelectorAll('button.opt').forEach((opt,i)=>{
+      opt.addEventListener('click',()=>{
+        if(q.dataset.verrouille) return;
+        q.querySelectorAll('button.opt').forEach(o=>o.disabled=true);
+        const num=opt.dataset.i;
+        const explication=q.dataset.exp || '';
+        if(num===bonne){
+          opt.classList.add('bonne');
+          fb.className='feedback ok';
+          fb.innerHTML='✅ <b>Bravo!</b> '+(q.dataset.ok||'')+(explication?'<br><span class="cle">'+explication+'</span>':'');
+        }else{
+          opt.classList.add('mauvaise');
+          q.querySelector('button.opt[data-i="'+bonne+'"]').classList.add('bonne');
+          fb.className='feedback ko';
+          fb.innerHTML='❌ Pas tout à fait. La bonne réponse est surlignée en vert. '+(q.dataset.ko||'')+(explication?'<br><span class="cle">'+explication+'</span>':'');
+        }
+        q.dataset.verrouille='1';
+      });
+    });
+  });
+}
+brancherQcm();
+
+/* ===== Horaire : bloc en cours ===== */
+function minDepuisMinuit(h){ const [H,M]=h.split(':').map(Number); return H*60+M; }
+function majHoraire(){
+  const maintenant=new Date();
+  const cur=maintenant.getHours()*60+maintenant.getMinutes();
+  const jour=maintenant.getDay(); // 0=dimanche
+  document.querySelectorAll('#tab-horaire tr[data-debut]').forEach(tr=>{
+    const d=minDepuisMinuit(tr.dataset.debut), f=minDepuisMinuit(tr.dataset.fin);
+    tr.classList.remove('maintenant','passe');
+    if(jour===0){ if(cur>=d&&cur<f) tr.classList.add('maintenant'); else if(cur>=f) tr.classList.add('passe'); }
+  });
+}
+majHoraire(); setInterval(majHoraire, 30000);
+
+/* ===== Menu actif au défilement ===== */
+const liens=[...document.querySelectorAll('nav#menu a')];
+window.addEventListener('scroll',()=>{
+  let actif=null;
+  liens.forEach(a=>{ const s=document.querySelector(a.getAttribute('href')); if(s&&s.getBoundingClientRect().top<120) actif=a; });
+  liens.forEach(a=>a.classList.toggle('actif', a===actif));
+});
+</script>
+</body>
+</html>

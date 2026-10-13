@@ -1,0 +1,356 @@
+## Diapositive 1
+
+Chapitre 14
+
+Introduction au coût du capital
+
+## Diapositive 2
+
+Le coût en capital
+
+Définition: coût des fonds utilisés pour acquérir une ressource
+Taux au marché
+Dépend du risque du projet ( entreprise)
+Coût marginal (effet du projet)
+Coût d’opportunité (ou de renonciation)
+Coût de l’actif ( passif)
+
+
+Relation recherchée ===>
+Alors, quel taux d’actualisation doit-on utiliser pour l’évaluation d’un projet?
+
+## Diapositive 3
+
+Le coût du capital
+
+Actifs LT
+en place
+
+=
+
+Projets à évaluer
+
+?
+
+## Diapositive 4
+
+## Diapositive 5
+
+Chapitre 14
+
+L’approximation du CMPC
+
+## Diapositive 6
+
+L’approximation par le CMPC
+
+Le CMPC permet de trouver le coût du capital de l’ensemble des actifs à long terme (≠ à court terme: marge de crédit)
+
+
+
+
+Ne représente toutefois pas le risque 
+des actifs à acquérir 
+(évaluation de nouveaux projets)
+
+Actifs LT
+en place
+
+=
+
+Projets à évaluer
+
+?
+
+## Diapositive 7
+
+Le calcul du CMPC
+
+Coût Moyen Pondéré du Capital (CMPC)
+
+
+
+
+Valeur marchande des actions ordinaires (E)
+Valeur marchande des actions privilégiées (P)
+Valeur marchande de la dette (D)
+Valeur marchande totale de l’entreprise (V)
+Coût des actions ordinaires (Re)
+Coût des actions privilégiées (Rp)
+Coût de la dette (Rd)
+Taux marginal d’imposition (Tm)
+
+## Diapositive 8
+
+Le calcul du CMPC
+
+Coût des actions ordinaires (Re=tx exigé sur l’équité)
+1.	Modèle du MEDAF
+
+	
+	Exemple:	HCE inc.
+			Re = 4% + [9%-4%]*2,2 = 15%
+2.	Modèle de Gordon
+	
+
+	Exemple:	HCE inc.
+			Re=1,05$/10$ + 5% = 15,5%
+Que faire?
+
+E(Ri) = Re= Rf + [E(Rm)-Rf] i 
+
+## Diapositive 9
+
+Le calcul du CMPC
+
+Coût des actions ordinaires (Re)
+En pratique:
+
+Plusieurs méthodes alternatives
+
+Le MEDAF est habituellement privilégié, malgré les inconvénients
+
+L’objectif est de trouver un taux raisonnable (exercice de jugement professionnel)
+
+## Diapositive 10
+
+Le calcul du CMPC
+
+## Diapositive 11
+
+Le calcul du CMPC
+
+Coût des actions privilégiées (Rp)
+Perpétuité à croissance nulle
+
+
+
+	Exemple:	HCE inc.
+			Rp = D/P = 0,50$/6,25$ = 8%
+
+## Diapositive 12
+
+Le calcul du CMPC
+
+Coût de la dette (Rd)
+Valeur de l’obligation au marché
+
+
+
+
+	
+
+Exemple:		r 	= 3,40 %
+			TRE 	= 6,80 %
+			Txeff	= 6,92 %
+
+## Diapositive 13
+
+Le calcul du CMPC
+
+Coût Moyen Pondéré du Capital (CMPC)
+
+
+
+
+
+CMPC = 9,23 %
+Taux à exiger pour les projets de la firme HCE inc.
+PROBLÈME: ne tient pas compte du risque d’un projet!
+
+## Diapositive 14
+
+L’approximation par le CMPC
+
+Le CMPC = coût moyen des actifs (en place)
+
+
+
+
+
+
+
+				     
+Est-ce que le taux du CMPC est pertinent?
+				         Non, CMPC ≠ risque du nouveau projet…
+
+Actifs LT
+en place
+
+=
+
+
+
+Coût («risque») des actifs= 9,23 %
+
+Projets à évaluer
+
+
+
+## Diapositive 15
+
+## Diapositive 16
+
+Chapitre 14
+
+Correction du CMPC
+
+## Diapositive 17
+
+L’approximation par le CMPC
+
+Relation risque-rendement difficile à établir.
+Approximation: Coût Moyen Pondéré du Capital
+Mais il faut que le projet ait :
+Le même risque que l’entreprise
+Sinon,
+
+## Diapositive 18
+
+L’approximation par le CMPC
+
+Projet B : plus risqué que l’entreprise
+On devrait être plus exigeant que CMPC
+On devrait le refuser en fct du risque (risque-rend.)
+Mais le CMPC l’accepte (≠ risque)
+
+
+ | Projet A | Projet B
+
+Béta | 0.6 | 1.2
+
+Rendement espéré | 14 % | 16 %
+
+Rendement exigé (CMPC) | 11.8 % 
+= 7% + 0.6 x 8 % | 16.6 % 
+= 7 % + 1.2 x 8 %
+
+Résultats du MÉDAF | Accepter 
+(14 %>11.8 %) | Rejeter
+(16 %<16.6 %)
+
+Résultats du CMPC
+(Faux) | Rejeter
+(14 %<15 %) | Accepter
+(16 %>15 %)
+
+Relation risque-rendement
+
+Projet A : moins risqué que l’entreprise
+On devrait être moins exigeant que CMPC
+Devrait l’accepter en fct du risque (risque-rend.)
+Mais le CMPC le refuse (≠ risque)
+
+## Diapositive 19
+
+Méthodes de rectification
+
+Sociétés non-diversifiées (pure play)
+Activités identiques au projet
+Activités spécifiques
+Même structure de capital que l’entreprise
+
+Problèmes :
+Existence d’une telle entreprise
+Disponibilité des données (CMPC)
+
+Conclusion : approche pratiquement impossible à utiliser…
+
+
+## Diapositive 20
+
+Méthodes de rectification
+
+Approche subjective
+
+
+
+
+
+
+
+Rendement
+
+Risque
+
+
+
+Risque – rendement
+
+
+
+CMPC
+
+## Diapositive 21
+
+Méthodes de rectification
+
+Approche subjective 
+(on se rapproche de la relation risque-rendement)
+
+
+
+
+
+
+
+Rendement
+
+Risque
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prime positive (risque élevé)
+
+
+
+Prime négative (risque faible)
+
+CMPC
+
+Risque – rendement
+
+
+
+## Diapositive 22
+
+L’approximation par le CMPC
+
+
+
+
+				         
+
+
+                                                                 Risque projet: si + risqué que les actifs en place
+				         Donc, taux exigé du projet
+				            Taux exigé = 9,23 % + prime de risque du projet
+                                                                               Taux exigé = 9,23 % + 2 %
+                                                                               Taux exigé = 11,23 % (vs le risque du projet)
+
+Actifs LT
+en place
+
+=
+
+
+
+Coût («risque») des actifs = 9,23 %
+
+Projets à évaluer
+
+
+
+## Diapositive 23

@@ -1,0 +1,650 @@
+## Diapositive 1
+
+1
+
+10200Finance
+
+
+
+
+
+
+
+© Mélanie Harris 2025
+
+Séance 2
+
+Mathématiques 
+financières
+
+© Mélanie Harris 2019  (mis à jour en 2025)
+
+
+
+
+
+
+
+© Mélanie Harris 2019  (mis à jour Aout 2026)
+
+## Diapositive 2
+
+Retour sur la séance 1: VF et intérêts composés
+
+2
+
+## Diapositive 3
+
+Qu'avons-nous vu à la séance 2 ?
+
+Capsule 1 : Définitions de base et évaluation d'un flux monétaire unique
+Capsule 2 : Annuité
+Capsule 3 : Perpetuité et annuité croissante
+Capsule 4 : Convertir les taux d'intérêts
+
+
+
+        Lectures : chapitres 5 et 6
+
+3
+
+Voir guide de lecture pour l’importance de chaque section sous ZC / Modules / Informations générales / Matériel Pédagogique
+
+## Diapositive 4
+
+
+
+Principes clés…
+
+Capitaliser un flux monétaire (FM) _______ sa valeur au fil du temps.
+Actualiser un flux monétaire ______ sa valeur.
+
+Plus le taux d'intérêt est élevé :
+Plus la valeur future d'un flux de monétaire ________
+Plus la valeur actuelle d'un flux de monétaire ________
+    🚨 Vérifiez par vous-même : Quelle est la valeur actuelle de 500 $ reçus dans 5 ans si le taux d'intérêt est de 10 % ? De 15 % ?
+
+Pour un taux d'intérêt donné, un horizon d’investissement plus long se traduit par une valeur actuelle plus _______ et une valeur finale plus _________.
+      🚨 Vérifiez par vous-même : quelle est la valeur actuelle de 500 $ à recevoir dans 5 ans ? Dans 10 ans ? Le taux d'actualisation est de 10 %.
+
+
+
+4
+
+Les valeurs actuelles diminuent à mesure que l'horizon temporel s'allonge.
+Pour une même période, des taux d'actualisation plus élevés donnent des valeurs actuelles plus faibles.
+La valeur actuelle (VA) et les taux d'intérêt sont inversement proportionnels.
+
+## Diapositive 5
+
+Que sont les annuités ?
+
+
+Série finie de paiements égaux – versés ou reçus – qui ont lieu à intervalles réguliers, pendant une période donnée. 
+
+annuité ordinaire : les paiements sont effectués à la fin de chaque période.
+
+
+annuité de début de période: les paiements sont effectués au début de chaque période.
+
+
+annuité différée : les paiements commencent après un délai, et non lors de la première période.
+
+
+
+5
+
+## Diapositive 6
+
+
+
+
+
+Annuités ordinaires
+
+6
+
+VFA : valeur future de la annuité 
+VAA : valeur actuelle de la annuité 
+PMT : flux monétaire constant
+r : taux de rendement périodique  (ou noté k, i "I/Y")  
+t : nombre de paiements   (ou noté « n »)
+
+
+
+
+
+Capitalisation L'argent fructifie !
+
+Actualisation L'argent rapetisse !
+
+## Diapositive 7
+
+
+
+Que signifie les formules ?
+
+7
+
+Le calcul de la VFA donne la valeur au moment du dernier flux monétaire.
+Le calcul de la VAA donne la valeur une période avant le premier flux monétaire.
+
+
+
+
+
+
+## Diapositive 8
+
+
+
+Exemple 1 : annuité ordinaire  
+
+
+En 2014, Warren Buffett a offert 1 milliard de dollars à toute personne capable de prédire correctement les résultats des 63 matchs du tournoi March Madness. 
+
+https://www.forbes.com/sites/kellyphillipserb/2014/01/21/warren-buffett-offers-1-billion-for-perfect-march-madness-bracket/#2237611d100b
+
+
+8
+
+🔎 Le défi d'un milliard de dollars était un événement unique. Bien que Buffett ait continué à proposer des défis liés aux pronostics, ceux-ci ont été plus restreints. Par exemple, ces dernières années, il a offert des prix en espèces aux employés de sa société, Berkshire Hathaway, qui avaient correctement pronostiqué les résultats.
+
+Probabilité de réussite ??? 1 / 770 million !!!
+
+## Diapositive 9
+
+Exemple 1 (suite)
+
+Le gagnant pourra choisir l'une des deux options suivantes pour réclamer son prix :
+
+Recevoir 40 versements annuels de 25 millions de dollars.
+Recevoir une somme forfaitaire de 500 millions de dollars aujourd'hui.
+
+
+Question:
+
+Si vous remportiez ce prix alors que votre taux de rendement requis est de 6 % par an, laquelle des deux options de paiement choisiriez-vous ?
+
+
+
+9
+
+## Diapositive 10
+
+Exemple 2 : annuité ordinaire
+
+Reprenons l'exercice que nous avons résolu la semaine dernière :
+
+Vous souhaitez acheter une nouvelle voiture dans exactement 4 ans. Cette voiture vous coûtera 35 000 $. Combien devez-vous mettre sur votre compte bancaire aujourd'hui pour pouvoir acheter cette voiture dans 4 ans ? Votre compte bancaire rapporte un taux d'intérêt annuel de 4 %. 
+
+Plutôt que de mettre de côté une somme forfaitaire aujourd'hui, vous allez mettre de côté (sur votre compte bancaire) un montant annuel constant à la fin de chaque année pendant les quatre prochaines années. Votre compte bancaire rapporte un taux d'intérêt annuel de 4 %. 
+
+Quel doit être ce montant constant pour que vous puissiez acheter la voiture souhaitée ?
+
+10
+
+## Diapositive 11
+
+Exercice difficile…
+
+Le 12 septembre 2006, le gardien de but Rick Dipietro a signé un contrat avec les Islanders de New York, une équipe de la Ligue nationale de hockey (LNH), qui lui rapportera 4,5 millions de dollars par an pendant 15 ans. 
+
+
+11
+
+## Diapositive 12
+
+Exercice difficile (suite)
+
+En supposant que les actionnaires des New York Islanders exigent un taux de rendement annuel de 14 % sur leur investissement, que M. DiPietro touche son salaire à la fin de chaque année et que son premier versement ait lieu un an après la signature du contrat, quelle est la valeur actuelle de ce contrat au moment où l'accord a été conclu ?
+
+
+Si M. DiPietro investit 20 % de son salaire brut à la fin de chaque année de son contrat à un taux de rendement annuel de 9 %, combien d'argent aura-t-il à la fin du contrat (le 12 septembre 2021) ?
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+## Diapositive 13
+
+Exercice difficile (suite)
+
+Imaginons que M. DiPietro ne prenne sa retraite qu'à l'échéance de son contrat, en septembre 2021 (à l'âge de 40 ans). À partir de cette date, ses seuls revenus proviendront du rendement de ses placements. En supposant qu'il vive encore 40 ans à partir de cette date et qu'il dispose du montant indiqué au point b) au moment de sa retraite, combien d'argent pourra-t-il retirer à la fin de chaque année s'il parvient à obtenir un taux de rendement annuel de 9 % sur ses placements ?
+
+Supposons que M. DiPietro souhaite disposer de 100 millions de dollars à la fin de sa vie et que toutes les autres hypothèses de l'exemple c) restent inchangées. Combien d'argent peut-il retirer à la fin de chaque année s'il parvient à obtenir un taux de rendement annuel de 9 % sur ses placements pendant sa retraite ?
+
+Supposons que M. DiPietro décide finalement de retirer les montants calculés en c) au moment de sa retraite. Cependant, son taux de rendement annuel pendant sa retraite est de 6 % au lieu de 9 %. À quel âge ses fonds seront-ils épuisés ?
+
+
+
+
+
+13
+
+## Diapositive 14
+
+Cas particulier n° 1 : annuité différée
+
+Annuité différée :
+Impact sur les formules à prendre en compte !
+Pour la capitalisation  aucun impact réel
+
+Pour l'actualisation  nous procédons en deux étapes:
+
+
+
+14
+
+👉 ÉTAPE 1: On suppose une annuité ordinaire. Trouvez la valeur actuelle de l’annuité avec n = nombre de versements. Cela donne la valeur actuelle une période avant le premier paiement 
+        de l’annuité car c’est une annuité différée et non ordinaire.
+
+     👉 ÉTAPE 2: Capitalisez la valeur actuelle trouvée à l'étape 1 à la date souhaitée à l'aide de la formule pour un flux de monétaire unique.  
+
+## Diapositive 15
+
+Exemple 3 : annuité différée
+
+Vous recevrez 3 versements annuels de 150 $. Le premier versement aura lieu dans 5 ans. Le taux de rendement requis est de 8 %.
+
+Quelle est la valeur de cette annuité aujourd'hui ?
+
+Quelle est la valeur de cette annuité au moment du dernier versement ?
+
+
+
+
+15
+
+## Diapositive 16
+
+Cas particulier n° 2 : annuité de début de période
+
+Le premier flux monétaire a lieu au début de chaque période.
+
+
+Capitalisation : 
+
+
+Actualisation :    
+
+
+
+16
+
+## Diapositive 17
+
+Exemple 4 : annuité de début de période
+
+Vous recevrez 5 paiements annuels de 1 000 $, dont le premier est dû aujourd'hui. Taux annuel d’intérêt = 6 %.
+
+Quelle est la valeur de cette annuité aujourd'hui ?
+
+
+
+
+
+17
+
+## Diapositive 18
+
+Attention !!
+
+
+
+
+
+Sauf indication contraire, les flux monétaires sont payés ou reçus en fin de période. 
+
+(Si au début de la période, ce sera clairement indiqué)
+
+
+18
+
+## Diapositive 19
+
+Perpétuité
+
+
+
+
+
+
+Veuillez vous reporter aux capsules vidéos
+👉 Non couvert en classe mais important pour vos examens et quiz 
+
+
+19
+
+## Diapositive 20
+
+Capsule 4 : Convertir les taux d'intérêts
+
+Fréquence de capitalisation
+Taux d'intérêt divers
+Conversion des taux d'intérêt
+
+20
+
+## Diapositive 21
+
+
+
+Il existe différentes façons de citer les taux d'intérêt...
+
+Un placement rapporte 3 % tous les 6 mois... Est-ce que 3 % tous les 6 mois équivaut à un placement rapportant 6 % par an ? 
+
+👉NON ! 3 % / semestre ≠ 6 % effectif annuel
+
+
+
+
+
+
+21
+
+ 3 % 
+
+ 3 % 
+
+ 0
+
+ 1
+
+ 2 périodes semestrielles
+
+
+ 1 an
+
+
+ 6 % 
+
+ 0
+
+ 6,09 % 
+
+ 
+
+ 0
+
+ 
+
+ 1 an
+
+
+Équivalent!
+
+Non Équivalent!
+
+
+
+
+
+## Diapositive 22
+
+Cotation des taux d'intérêt
+
+Taux périodique (r) : Taux d'intérêt payé ou reçu pour une période
+Exemple : taux d'intérêt mensuel, taux d'intérêt trimestriel, taux d'intérêt semestriel, etc.
+Taux mensuel = Taux nominal capitalisation mensuelle / nombre de périodes par an (12)
+
+Taux nominal :
+Taux d'intérêt périodique exprimé sur une base annuelle sans tenir compte des intérêts composés.
+⚠️Ce n’est pas un taux d'intérêt annuel réel !
+Taux nominal à capitalisation y  = Taux périodique y x nombre de périodes par an (m)
+
+Taux annuel effectif :
+Taux d'intérêt périodique exprimé sur une base annuelle, en tenant compte du principe des intérêts composés
+Taux annuel réel ! **
+
+22
+
+## Diapositive 23
+
+Fréquence de calcul des intérêts
+
+La fréquence de capitalisation est très importante lorsque l'on parle de taux d'intérêt nominal.
+
+Fréquence de capitalisation 
+Fréquence à laquelle les intérêts composés sont calculés et payés
+
+
+
+
+
+Taux nominal à capitalisation … | Durée de la période | Nombre de périodes par an
+
+Annuelle | 1 an | 1
+
+Semestrielle | 6 mois | 2
+
+Trimestrielle | 3 mois | 4
+
+Mensuel | 1 mois | 12
+
+Hebdomadaire | 1 semaine | 52
+
+Quotidien | 1 jour | 365
+
+23
+
+## Diapositive 24
+
+Période de capitalisation et période de flux de monétaire
+
+Dans toutes les formules de mathématiques financières, le taux r est un taux périodique….
+
+Quelle période ?
+On regarde la féquence de versement des flux monétaires…
+
+
+24
+
+
+
+## Diapositive 25
+
+👉 La cohérence est essentielle lors de l'application de formules...
+
+👉 Méthode étape par étape pour travailler avec des taux :
+
+
+
+
+
+
+
+Si fréquence ≠ taux périodique donné
+Conversion
+ Ajustez le taux périodique donné afin qu'il corresponde à la fréquence des FMs
+
+
+
+Voici la méthode !
+
+25
+
+
+
+Si fréquence = taux périodique donné
+Aucun ajustement supplémentaire n'est nécessaire
+Utilisez le taux périodique tel qu'il est donné.
+
+Deux options
+
+
+
+Étape n° 1 : Déterminez la fréquence des paiements de flux monétaires (FMs). 
+Mensuelle ? Trimestrielle ? Annuelle ? etc. 
+
+Étape n° 2 : Identifiez le taux périodique fourni dans la question.
+Si taux effectif, alors le taux périodique donné = taux annuel
+Si taux nominal composé x fois par an, alors le taux périodique donné = Taux nominal ÷ x
+
+Étape n° 3 : Comparez la fréquence des FMs (étape n° 1) et le taux périodique fourni (étape n° 2).
+
+## Diapositive 26
+
+
+
+
+Quand deux taux sont-ils équivalents ?
+Ils produisent le même rendement à la fin de l'année et…
+Ils représentent le même taux effectif annuel!
+
+Formule d’équivalence de taux:
+Taux effectif A = Taux effectif B
+
+   
+
+Conversion des taux d'intérêt 
+
+26
+
+
+Remarque importante : vous ne devez JAMAIS diviser le taux annuel effectif par le nombre de périodes par an, car cela ne vous donnera pas le taux périodique. Convertissez.
+
+
+
+## Diapositive 27
+
+Pratiquons la méthode en 3 étapes ….
+
+27
+
+Trouvez le taux d'actualisation approprié...
+
+Taux nominal et taux effectif : pour une annuité versant des flux monétaires annuels et un taux nominal de 10 % capitalisé trimestriellement  
+
+Taux effectif et taux nominal : pour une annuité versant des flux monétaires mensuels et taux effectif annuel de 8 %
+
+Taux nominaux: pour une annuité versant des flux monétaires semestriels et un taux nominal de 7 % capitalisé mensuellement
+
+## Diapositive 28
+
+Exercice : vrai ou faux ?
+
+Indiquez si les affirmations suivantes sont vraies ou fausses.
+
+Plus la fréquence de capitalisation est élevée, plus le taux effectif annuel est élevé.
+
+Il est plus avantageux d'emprunter à un taux effectif de 12 % qu'à un taux nominal à capitalisation semestrielle de 12 %.
+
+Il est préférable d'investir à un taux trimestriel de 2 % qu'à un taux effectif annuel de 8 %.
+
+Il est plus avantageux d'emprunter à un taux effectif de 6 % qu'à un taux nominal à capitalisation mensuelle de 6 %.
+
+Il est préférable d'investir à un taux mensuel de 1 % qu'à un taux trimestriel de 3 %.
+
+
+
+28
+
+## Diapositive 29
+
+Exercice difficile récapitulatif
+
+Vous recevrez 6 versements trimestriels de 80 $, dont le premier sera effectué dans 2 ans. 
+
+Quelle est la valeur actuelle de cette annuité compte tenu d'un taux effectif annuel requis de 7 % ?
+
+
+29
+
+## Diapositive 30
+
+C'est en forgeant qu'on devient forgeron !!!
+
+Manuel. Voir séances 1 & 2 sur ZC.
+
+
+Exercices résolus sous les sessions 1 et 2. ZC / séances 1 & 2 / Ressources après la séance
+
+
+
+Tutoriel n° 1. Voir documents ZC / Modules / Travail pratique Tutoriels
+
+
+Exercices dans le cahier de travaux de mi-semestre. Voir ZC / Modules / Préparation aux examens INTRA 
+
+
+
+30
+
+Solutions aux exercices des éditions 4 et 5 sur ZC
+
+
+
+Extra document sur les exercices de conversions de taux
+
+
+
+## Diapositive 31
+
+Assurez-vous d'avoir ces diapositives à portée de main avant de résoudre un problème.
+
+31
+
+
+
+## Diapositive 32
+
+32
+
+
+
+ANNEXES
+
+Éviter les erreurs courantes en mathématiques financières
+Comparaison des taux d'intérêt 
+
+## Diapositive 33
+
+A - Éviter les erreurs courantes en mathématiques financières
+
+33
+
+Ne déplacez pas les flux de monétaire dans le temps pour les faire correspondre à la période de capitalisation 
+     convertissez plutôt les taux d'intérêt pour qu'ils CORRESPONDENT au moment des 
+        flux de monétaire
+Vous ne devez JAMAIS diviser le taux effectif par le nombre de périodes par an, car cela ne vous donnera PAS le taux périodique (le TEG est annuel, le taux périodique est annuel)
+   vous devez plutôt convertir le TEG en TAEG et/ou en taux périodique... pour correspondre au calendrier des flux de monétaire
+
+Utilisez toujours quatre décimales pour les taux d'intérêt. Ex :  2,1234 %
+Vos calculs peuvent différer légèrement de ceux du livre ou des nôtres, ce qui peut être dû à l'arrondi. Cela n'est pas préoccupant, MAIS veillez à conserver 4 décimales pour les taux d'intérêt
+
+Ne pas maîtriser « le nombre de périodes de capitalisation dans une année ».
+La capitalisation trimestrielle s'effectue 4 fois par an : 4 fois par période de 3 mois et non 3 fois.
+
+
+
+
+## Diapositive 34
+
+B – Comparaison des taux d'intérêt 
+
+34
+
+Taux coté | Taux pour la période | Valeur finale (VF) | Taux effectif
+(annuel)
+
+Taux nominal de 10 % composé annuellement | 10 %/1 = 10 % | 1 100 | 10 %
+
+Taux nominal de 10 % composé trimestriellement | 10 %/4 = 2,5 % | 1 103,81 | 10,38 %
+
+Taux nominal de 10 % composé mensuellement | 10 %/12 = 0,83 % | 1 104,27 | 10,43 %
+
+Taux nominal de 10 % composé quotidiennement | 10 %/365 = 0,0274 % | 1 105,17 | 10,52 %
+
+Plus la capitalisation est fréquente, plus le taux d'intérêt effectif sera élevé, ce qui signifie que la valeur finale d'un investissement sera plus élevée et que la valeur actuelle d'un investissement sera plus faible.
+
+Vous placez 1 000 $ sur un compte d'épargne...

@@ -1,0 +1,215 @@
+## xl/worksheets/sheet1.xml
+A2: Remplir les cellules grises où le mot « DONNÉE » apparaît dans le modèle avec les informations fournies dans l’énoncé du cas.
+A4: Entrer un nombre que vous avez calculé précédemment dans le modèle lorsque le mot « NOMBRE » apparaît dans les cellules jaunes.
+A6: Identifier les informations pertinentes dans le cas et entrer la bonne formule dans la cellule où le mot « FORMULE » apparaît.  
+A8: Effectuer l'un des calculs suivants (addition, soustraction, multiplication) lorsque le mot « CALCUL » apparaît. Ceci vous permettra de trouver le total d'une section. 
+## xl/worksheets/sheet2.xml
+A1: Sous-questions a) et b) Calcul du coût unitaire avec UN SEUL TAUX D'IMPUTATION et calcul selon la méthode par centres de coûts (PLUSIEURS TAUX)
+A3: La société TOC inc. souhaite calculer le coût de fabrication de ses produits. 
+A4: Les données pertinentes pour effectuer les calculs vous sont fournies.
+A5: Les frais généraux de fabrication sont actuellement imputés en fonction des heures-machines. 
+C7: Produits | E7: T-J1 | G7: TOC-22 | I7: TOC-36 | K7: TOTAL
+C9: Nombre d'unités à produire | E9: 1400 | G9: 2600 | I9: 1850 | K9: 5850 [formule : E9+G9+I9]
+C10: Heures machine par unité | E10: 0.5 | G10: 1.2 | I10: 1.2
+C11: Heures machine totales | E11: FORMULE | G11: FORMULE | I11: FORMULE | K11: FORMULE
+A13: Résultats financiers du dernier exercice:
+C14: Produits | E14: T-J1 | G14: TOC-22 | I14: TOC-36 | K14: TOTAL
+C16: Ventes totales ($) | E16: 350000 | G16: 780000 | I16: 814000 | K16: 1944000 [formule : SUM(E16:I16)]
+C17:    Matières premières ($) | E17: 154000 | G17: 325000 | I17: 314500 | K17: 793500 [formule : SUM(E17:I17)]
+C18: Coût unitaire MP ($) | E18: FORMULE | G18: FORMULE | I18: FORMULE
+C19:    Main d'œuvre directe ($) | E19: 22400 | G19: 88400 | I19: 88800 | K19: 199600 [formule : None]
+C20: Coût unitaire MOD ($) | E20: FORMULE | G20: FORMULE | I20: FORMULE
+C21:    Frais généraux de fabrication ($) | E21: 36896 | G21: 164449 | I21: 117012 | K21: 318357 [formule : None]
+C23: Résultat brut | E23: 136704 [formule : E16-E17-E19-E21] | G23: 202151 [formule : G16-G17-G19-G21] | I23: 293688 [formule : I16-I17-I19-I21] | K23: 632543 [formule : K16-K17-K19-K21]
+A25: Frais généraux de fabrication par centres de coûts pour l'année (voir complément onglet suivant):
+C27: Centre de coûts | E27: Moulage des casques | G27: Préparation des composants | I27: Assemblage des casques | K27: Contrôle de la qualité | M27: TOTAL
+C30: Total FGF (variables + fixes) | E30: 134390 | G30: 41515 | I30: 89820 | K30: 52632 | M30: 318357 [formule : SUM(E30:K30)]
+A32: a) Travail à faire : Un seul centre de coûts
+A33: Calculez le taux d'imputation et imputer les FGF à chaque produit sachant que la base d'imputation est les heures machine. 
+M34: Instructions :
+A35: Taux d'imputation : | C35: FGF totaux | E35: FORMULE | G35: DONNÉE | M35: Identifiez les FGF totaux et les heures machines totales
+C36: Heures-machine totales | G36: NOMBRE | I36: hm | M36: Calculez le taux d'imputation unique
+C38: Produits | E38: T-J1 [formule : E7] | G38: TOC-22 [formule : G7] | I38: TOC-36 [formule : I7]
+C40: Matières premières | E40: NOMBRE | G40: NOMBRE | H40: 0 [formule : H18] | I40: NOMBRE
+C41: Main d'œuvre directe | E41: NOMBRE | G41: NOMBRE | H41: 0 [formule : H20] | I41: NOMBRE
+C42: Frais généraux de fabrication | E42: FORMULE | G42: FORMULE | I42: FORMULE | M42: Calculez le montant des FGF unitaires pour chaque produit 
+C43: Coût de fabrication unitaire | E43: CALCUL | G43: CALCUL | I43: CALCUL | M43: (Taux d'imputation par heure machine X nombre h-m par unité)
+C45: Heure-machine par unité | E45: 0.5 [formule : E10] | G45: 1.2 [formule : G10] | I45: 1.2 [formule : I10]
+A47: b) Travail à faire : Plusieurs centres coûts
+A48: Calculez le taux d'imputation par centre de coûts (PLUSIEURS TAUX) et imputez les FGF à chaque produit.
+A50: Voici des données supplémentaires concernant la production du dernier exercice:
+C51: Par unité | E51: T-J1 [formule : E7] | G51: TOC-22 [formule : G7] | I51: TOC-36 [formule : I7]
+C52: Nombre d'unités à produire | E52: 1400 [formule : E9] | G52: 2600 [formule : G9] | I52: 1850 [formule : I9]
+C53: Heure-machine par unité | E53: 0.5 [formule : E10] | G53: 1.2 [formule : G10] | I53: 1.2 [formule : I10]
+C54: Nombre de composants par unité | E54: 5 | G54: 7 | I54: 10
+C55: Nombre de lots | E55: 56 | G55: 65 | I55: 185
+C56: Heure de MOD par unité | E56: 0.8 | G56: 1.7 | I56: 2.4 | N56: Instructions :
+C58: Total | E58: T-J1 [formule : E51] | G58: TOC-22 [formule : G51] | I58: TOC-36 [formule : I51] | K58: TOTAL | N58: Étape 1. Calculez les données totales pour tous les produits.
+C59: Heures-machine (total) | E59: FORMULE | G59: FORMULE | I59: FORMULE | K59: CALCUL | N59: Nombre d'unités à produire X volume base imputation unitaire
+C60: Nombre de composants (total) | E60: FORMULE | G60: FORMULE | I60: FORMULE | K60: CALCUL
+C61: Nombre de lots (total) | E61: FORMULE | G61: FORMULE | I61: FORMULE | K61: CALCUL
+C62: Heures de MOD (total) | E62: FORMULE | G62: FORMULE | I62: FORMULE | K62: CALCUL
+C64: Centre de coûts | E64: Moulage des casques [formule : E27] | G64: Préparation des composants [formule : G27] | I64: Assemblage des casques [formule : I27] | K64: Contrôle de la qualité [formule : K27] | M64: TOTAL
+C66: Total FGF | E66: 134390 [formule : E30] | G66: 41515 [formule : G30] | I66: 89820 [formule : I30] | K66: 52632 [formule : K30] | M66: 318357 [formule : E66+G66+I66+K66]
+C68: Base d'imputation | E68: Heures-machines | G68: Nombre de composants | I68: Heures de MOD | K68: Nombre de lots | N68: Étape 2. Choisir la base d'imputation
+C70: Total de la base d'imputation | E70: NOMBRE | G70: NOMBRE | I70: NOMBRE | K70: NOMBRE
+C72: Taux d'imputation | E72: FORMULE | G72: FORMULE | I72: FORMULE | K72: FORMULE | N72: Étape 3. Calculez un taux d'imputation pour chaque centre de coûts
+C74: FGF | E74: T-J1 [formule : E$7] | G74: TOC-22 [formule : G$7] | I74: TOC-36 [formule : I$7] | K74: Exemple de calcul pour  T-J1
+C75: Moulage des casques [formule : E64] | E75: FORMULE | G75: FORMULE | I75: FORMULE | K75: 22,25 $ / hm x 0,5 hm
+C76: Préparation des composants [formule : G64] | E76: FORMULE | G76: FORMULE | I76: FORMULE | K76: 0,95 $/comp x 5 comp.
+C77: Assemblage des casques [formule : I64] | E77: FORMULE | G77: FORMULE | I77: FORMULE | K77: 9 $/ HMOD x 0,8 hmod
+C78: Contrôle de la qualité [formule : K64] | E78: FORMULE | G78: FORMULE | I78: FORMULE | K78: 172 $ / (1 400 unités / 56 lots)
+C79: Total des FGF unitaire | E79: CALCUL | G79: CALCUL | I79: CALCUL | N79: Étape 4. Calculez les FGF unitaires pour chaque produit 
+N80: (Taux d'imputation x Volume de la base d'imputation)
+C81: Produits | E81: T-J1 [formule : E$7] | G81: TOC-22 [formule : G$7] | I81: TOC-36 [formule : I$7]
+C83: Matières premières | E83: NOMBRE | G83: NOMBRE | I83: NOMBRE
+C84: Main d'œuvre directe | E84: NOMBRE | G84: NOMBRE | H84: 0 [formule : H41] | I84: NOMBRE
+C85: Frais généraux de fabrication | E85: NOMBRE | G85: NOMBRE | I85: NOMBRE
+C86: Coût de fabrication unitaire | E86: CALCUL | G86: CALCUL | I86: CALCUL | N86: Étape 5. Calculez le coût de fabrication unitaire pour chaque produit
+## xl/worksheets/sheet3.xml
+A2: c) Expliquez pourquoi le coût de fabrication unitaire est différent entre les 2 méthodes TOC-22 et TOC-36
+A4: Justifications:
+A6: Lorsqu'on utilise UN SEUL TAUX D'IMPUTATION…
+A8: Réponse…
+A10: Lorsqu'on utilise PLUSIEURS TAUX D'IMPUTATION (un par centre de coûts)….
+A12: Réponse…
+## xl/worksheets/sheet4.xml
+A2: d) i) Est-il vrai que TOC n'est pas en mesure d'offrir le même prix de vente unitaire que les Boutiques Sports-Intermédiaire (BSI) pour le TOC-22 sans quoi
+A3: la marge bénéficiaire brute unitaire chuterait sous les 20 %? (veuillez fournir vos calculs à l'appui)
+A4: ii) Selon vous, la société TOC doit-elle abandonner la production du modèle TOC-22? (Veuillez justifier avec deux arguments pertinents au contexte)
+A6: ii)  | B6: Marge bénéficiaire brute TOC 22 | C6: Méthode actuelle | D6: + Centres de coûts
+C7: (1 centre de coûts)
+B9: Prix de vente de BSI (concurrent) | C9: 275 | D9: 275
+B11: Ms: Coût de fabrication unitaire | C11: NOMBRE | D11: NOMBRE
+B13: Résultat  unitaire | C13: CALCUL | D13: CALCUL
+B16: Marge bénéficiaire brute | C16: FORMULE | D16: FORMULE
+B19: Si part du coût et calcule le prix | C19: NOMBRE | D19: NOMBRE
+B20: qu'on devrait avoir pour atteindre | C20: /(1-20%) | D20: /(1-20%)
+B21: la marge brute de 20 % | C21: FORMULE | D21: FORMULE
+B23: Conclusion…
+A26: ii) | B26: Argument qualitatif ou quantitatif:
+B28: Arguments…
+## xl/worksheets/sheet5.xml
+A1: Sous-questions a) et b) Calcul du coût unitaire avec UN SEUL TAUX D'IMPUTATION et calcul selon la méthode par centres de coûts (PLUSIEURS TAUX)
+A3: La société TOC inc. souhaite calculer le coût de fabrication de ses produits. 
+A4: Les données pertinentes pour effectuer les calculs vous sont fournies.
+A5: Les frais généraux de fabrication sont actuellement imputés en fonction des heures-machines. 
+C7: Produits | E7: T-J1 | G7: TOC-22 | I7: TOC-36 | K7: TOTAL
+C9: Nombre d'unités à produire | E9: 1400 | G9: 2600 | I9: 1850 | K9: 5850 [formule : E9+G9+I9]
+C10: Heures machine par unité | E10: 0.5 | G10: 1.2 | I10: 1.2
+C11: Heures machine totales | E11: 700 [formule : E9*E10] | G11: 3120 [formule : G9*G10] | I11: 2220 [formule : I9*I10] | K11: 6040 [formule : E11+G11+I11]
+A13: Résultats financiers du dernier exercice:
+C14: Produits | E14: T-J1 | G14: TOC-22 | I14: TOC-36 | K14: TOTAL
+C16: Ventes totales ($) | E16: 350000 | G16: 780000 | I16: 814000 | K16: 1944000 [formule : SUM(E16:I16)]
+C17:    Matières premières ($) | E17: 154000 | G17: 325000 | I17: 314500 | K17: 793500 [formule : SUM(E17:I17)]
+E18: 110 [formule : E17/E9] | G18: 125 [formule : G17/G9] | I18: 170 [formule : I17/I9]
+C19:    Main d'œuvre directe ($) | E19: 22400 | G19: 88400 | I19: 88800 | K19: 199600 [formule : None]
+E20: 16 [formule : E19/E9] | G20: 34 [formule : G19/G9] | I20: 48 [formule : I19/I9]
+C21:    Frais généraux de fabrication ($) | E21: 36896 | G21: 164449 | I21: 117012 | K21: 318357 [formule : None]
+C23: Résultat brut | E23: 136704 [formule : E16-E17-E19-E21] | G23: 202151 [formule : G16-G17-G19-G21] | I23: 293688 [formule : I16-I17-I19-I21] | K23: 632543 [formule : K16-K17-K19-K21]
+A25: Frais généraux de fabrication par centres de coûts pour l'année (voir complément onglet suivant):
+C27: Centre de coûts | E27: Moulage des casques | G27: Préparation des composants | I27: Assemblage des casques | K27: Contrôle de la qualité | M27: TOTAL
+C30: Total FGF (variables + fixes) | E30: 134390 | G30: 41515 | I30: 89820 | K30: 52632 | M30: 318357 [formule : SUM(E30:K30)]
+A32: a) Travail à faire : Un seul centre de coût
+A33: Calculez le taux d'imputation et imputer les FGF à chaque produit sachant que la base d'imputation est les heures machine. 
+A35: Taux d'imputation : | C35: FGF totaux | E35: 52.70811258278146 [formule : M30/K11] | G35: 318357 [formule : M30] | M35: Identifiez les FGF totaux et les heures machines totales
+C36: Heures-machine totales | G36: 6040 [formule : K11] | I36: hm | M36: Calculez le taux d'imputation unique
+C38: Produits | E38: T-J1 [formule : E7] | G38: TOC-22 [formule : G7] | I38: TOC-36 [formule : I7]
+C40: Matières premières | E40: 110 [formule : E18] | G40: 125 [formule : G18] | H40: 0 [formule : H18] | I40: 170 [formule : I18]
+C41: Main d'œuvre directe | E41: 16 [formule : E20] | G41: 34 [formule : G20] | H41: 0 [formule : H20] | I41: 48 [formule : I20]
+C42: Frais généraux de fabrication | E42: 26.35405629139073 [formule : E35*E10] | G42: 63.249735099337748 [formule : E35*G45] | I42: 63.249735099337748 [formule : I45*E35] | M42: Calculer le montant des FGF unitaire pour chaque produit 
+C43: Coût de fabrication | E43: 152.35405629139072 [formule : SUM(E40:E42)] | G43: 222.24973509933776 [formule : SUM(G40:G42)] | I43: 281.24973509933773 [formule : SUM(I40:I42)] | M43: (Taux d'imputation par heure machine X nombre h-m par unité)
+C45: Heure-machine par unité | E45: 0.5 [formule : E10] | G45: 1.2 [formule : G10] | I45: 1.2 [formule : I10]
+A47: b) Travail à faire : Plusieurs centres coût
+A48: Calculez le taux d'imputation par centre de coûts (PLUSIEURS TAUX) et imputer les FGF à chaque produit.
+A50: Voici des données supplémentaires concernant la production du dernier exercice:
+C51: Par unité | E51: T-J1 [formule : E7] | G51: TOC-22 [formule : G7] | I51: TOC-36 [formule : I7]
+C52: Nombre d'unités à produire | E52: 1400 [formule : E9] | G52: 2600 [formule : G9] | I52: 1850 [formule : I9]
+C53: Heure-machine par unité | E53: 0.5 [formule : E10] | G53: 1.2 [formule : G10] | I53: 1.2 [formule : I10]
+C54: Nombre de composants par unité | E54: 5 | G54: 7 | I54: 10
+C55: Nombre de lots | E55: 56 | G55: 65 | I55: 185
+C56: Heure de MOD par unité | E56: 0.8 | G56: 1.7 | I56: 2.4
+C58: Total | E58: T-J1 [formule : E51] | G58: TOC-22 [formule : G51] | I58: TOC-36 [formule : I51] | K58: TOTAL | N58: Étape 1. Calculer les données totales pour tous les produits.
+C59: Heures machine totales | E59: 700 [formule : E53*E$52] | G59: 3120 [formule : G53*G$52] | I59: 2220 [formule : I53*I$52] | K59: 6040 [formule : E59+G59+I59] | N59: Nombre d'unités à produire X volume base imputation unitaire
+C60: Nombre de composants total | E60: 7000 [formule : E54*E$52] | G60: 18200 [formule : G54*G$52] | I60: 18500 [formule : I54*I$52] | K60: 43700 [formule : E60+G60+I60]
+C61: Nombre de lots | E61: 56 [formule : E55] | G61: 65 [formule : G55] | I61: 185 [formule : I55] | K61: 306 [formule : SUM(E61:I61)]
+C62: Heures de MOD totale | E62: 1120 [formule : E56*E$52] | G62: 4420 [formule : G56*G$52] | I62: 4440 [formule : I56*I$52] | K62: 9980 [formule : E62+G62+I62]
+C64: Centre de coûts | E64: Moulage des casques [formule : E27] | G64: Préparation des composants [formule : G27] | I64: Assemblage des casques [formule : I27] | K64: Contrôle de la qualité [formule : K27] | M64: TOTAL
+C66: Total FGF | E66: 134390 [formule : E30] | G66: 41515 [formule : G30] | I66: 89820 [formule : I30] | K66: 52632 [formule : K30] | M66: 318357 [formule : E66+G66+I66+K66]
+C68: Base d'imputation | E68: Heures-machines | G68: Nombre de composants | I68: Heures de MOD | K68: Nombre de lots | N68: Étape 2. Choisir la base d'imputation
+C70: Total de la base d'imputation | E70: 6040 [formule : K59] | G70: 43700 [formule : K60] | I70: 9980 [formule : K62] | K70: 306 [formule : K61]
+C72: Taux d'imputation | E72: 22.25 [formule : E66/E70] | G72: 0.95 [formule : G66/G70] | I72: 9 [formule : I66/I70] | K72: 172 [formule : K66/K70] | N72: Étape 3. Calculez un taux d'imputation pour chaque centre de coûts
+C74: FGF | E74: T-J1 [formule : E$7] | G74: TOC-22 [formule : G$7] | I74: TOC-36 [formule : I$7] | K74: Exemple de calcul pour  T-J1
+C75: Moulage des casques [formule : E64] | E75: 11.125 [formule : E72*E53] | G75: 26.7 [formule : E72*G53] | I75: 26.7 [formule : E72*I53] | K75: 22,25 $ / hm x 0,5 hm
+C76: Préparation des composants [formule : G64] | E76: 4.75 [formule : $G$72*E54] | G76: 6.6499999999999995 [formule : $G$72*G54] | I76: 9.5 [formule : $G$72*I54] | K76: 0,95 $/comp x 5 comp.
+C77: Assemblage des casques [formule : I64] | E77: 7.2 [formule : $I$72*E56] | G77: 15.299999999999999 [formule : $I$72*G56] | I77: 21.599999999999998 [formule : $I$72*I56] | K77: 9 $/ HMOD x 0,8 hmod
+C78: Contrôle de la qualité [formule : K64] | E78: 6.88 [formule : K72/(E52/E55)] | G78: 4.3 [formule : K72/(G52/G55)] | I78: 17.2 [formule : K72/(I52/I55)] | K78: 172 $ / (1 400 unités / 56 lots)
+C79: FGF TOTAL | E79: 29.954999999999998 [formule : SUM(E75:E78)] | G79: 52.949999999999996 [formule : SUM(G75:G78)] | I79: 75 [formule : SUM(I75:I78)] | N79: Étape 4. Calculer les FGF unitaire pour chaque produit 
+N80: (Taux d'imputation x Volume de la base d'imputation)
+C81: Produits | E81: T-J1 [formule : E$7] | G81: TOC-22 [formule : G$7] | I81: TOC-36 [formule : I$7]
+C83: Matières premières | E83: 110 [formule : E40] | G83: 125 [formule : G40] | I83: 170 [formule : I40]
+C84: Main d'œuvre directe | E84: 16 [formule : E41] | G84: 34 [formule : G41] | H84: 0 [formule : None] | I84: 48 [formule : None]
+C85: Frais généraux de fabrication | E85: 29.954999999999998 [formule : E79] | G85: 52.949999999999996 [formule : G79] | I85: 75 [formule : I79]
+C86: Coût de fabrication | E86: 155.95499999999998 [formule : SUM(E83:E85)] | G86: 211.95 [formule : SUM(G83:G85)] | I86: 293 [formule : SUM(I83:I85)] | N86: Étape 5. Calculer le coût de fabrication unitaire pour chaque produit
+A90: c) Expliquez pourquoi le coût de fabrication unitaire est différent entre les 2 méthodes TOC-22 et TOC-36
+A92: Justifications:
+A94: Lorsqu'on utilise UN SEUL TAUX D'IMPUTATION…
+A96: Le montant des FGF est le même pour les 2 modèles. Chaque modèle supporte 63,25 $ de FGF , car les FGF sont imputés en fonction des heures machines
+A97: et les 2 modèles nécessitent 1,2 heure machine par casque. Les 2 modèles utilisent le même taux d'imputation et ont le même volume de base d'imputation.
+A99: Dans ce cas, la différence entre les coûts de fabrication unitaire provient des coûts de MP et de MOD qui sont différents pour les 2 casques.
+A102: Lorsqu'on utilise PLUSIEURS TAUX D'IMPUTATION (un par centre de coûts)….
+A104: La différence entre les coûts de fabrication unitaire ne provient pas uniquement des coûts de MP et de MOD qui sont différents pour les 2 casques.
+A106: On constate également que les 2 modèles ne consomment pas les ressources (FGF) de façon similaire, donc le montant des FGF imputés à chaque modèle est également différent.
+A108: Pour la préparation des composants:
+B109: Le TOC36 ne se retrouvait pas avec sa juste part des frais de préparation des composantes avec l'ancienne méthode, car
+B110: on ne tenait pas compte du nombre différent de composants (7 composants vs 10 composants)
+A112: Pour l'assemblage des casques :
+B113: Le TOC36 ne se retrouvait pas avec sa juste part des frais d'assemblage avec l'ancienne méthode, car
+B114: on considérait qu'il avait les mêmes frais d'assemblage que le TOC22 même s'il nécessite plus d'heures de MOD par casque (2,4 h vs 1,7 h)
+A116: Pour le contrôle de la qualité:
+B117: Le TOC36 ne se retrouvait pas avec sa juste part des coûts liés au contrôle de la qualité avec l'ancienne méthode, car
+B118: plus de frais sont engagés pour ce modèle, car + complexe. De plus, le nombre d'unités par lot est différent, ce qui fait que chaque unité 
+B119: absorbe de façon différente le coût du contrôle de la qualité (40 casques par lot vs 10 casques par lot). 
+A121: Autres éléments pertinents (selon le contexte)
+A123: d) i) Est-il vrai que TOC n'est pas en mesure d'offrir le même prix de vente unitaire que les Boutiques Sports-Intermédiaire (BSI) pour le TOC-22 sans quoi
+A124: la marge bénéficiaire brute unitaire chuterait sous les 20 %? (veuillez fournir vos calculs à l'appui)
+A125: ii) Selon vous, la société TOC doit-elle abandonner la production du modèle TOC-22? (Veuillez justifier avec deux arguments pertinents au contexte)
+A127: ii)  | C127: Marge bénéficiaire brute TOC 22 | E127: Méthode actuelle | G127: + Centres de coûts
+E128: (1 centre de coût)
+C130: Prix de vente de BSI (concurrent) | E130: 275 | G130: 275
+C132: Ms: Coût de fabrication unitaire | E132: 222.24973509933776 [formule : G43] | G132: 211.95 [formule : G86]
+C134: Résultat  unitaire | E134: 52.750264900662245 [formule : E130-E132] | G134: 63.050000000000011 [formule : G130-G132]
+C137: Marge bénéficiaire brute | E137: 0.19181914509331727 [formule : E134/E130] | G137: 0.22927272727272732 [formule : G134/G130]
+C140: Si part du coût et calcule le prix | E140: 222.24973509933776 [formule : E132] | G140: 211.95 [formule : G132]
+C141: qu'on devrait avoir pour atteindre | E141: /(1-20%) | G141: /(1-20%)
+C142: la marge brute de 20 % | E142: 277.81216887417219 [formule : E140/(1-20%)] | G142: 264.93749999999994 [formule : G140/(1-20%)]
+B144: L'argument de la présidente n'est plus valide en calculant le coût de fabrication au moyen de la méthode de la comptabilité par
+B145: centres de coûts (avec plusieurs taux).
+B146: Elle peut fixer le TOC22 au même prix de vente que le concurrent tout en réalisant une marge bénéficiaire brute supérieure à 20 % (soit, 22,93 %)
+B147: Même le résultat actuel (calculé avec les coûts actuels) présente une marge brute très près de 20 % (soit, 19,18 %)
+B148: Donc, on pourrait envisager d'avoir le même prix de vente unitaire que la concurrence.
+B150: Une autre façon d'arriver à cette conclusion est de calculer (en fonction de nos coûts) le prix qu'on devrait avoir pour atteindre 
+B151: une marge brute de 20 %.
+B152: Avec ce calcul, on pourrait mentionner que les prix calculés (277,81 $ très près de 275 $) et (264,94 $ en dessous de 275 $)
+B153: Donc, on pourrait envisager d'avoir le même prix de vente unitaire que la concurrence.
+A155: ii) | B155: Argument qualitatif ou quantitatif:
+B157: NON, on ne doit pas abandonner la production du modèle TOC-22
+B158: Cesser la production du TOC 22 réduit la diversité des produits offerts
+B159: Le TOC22 est classique, standard et de grand confort, donc un produit attrayant convenant à plusieurs skieurs adultes
+B160: Le TOC22 génère un résultat brut positif.
+B162: Tout autre élément pertinent
+## xl/worksheets/sheet6.xml
+A1: Les frais généraux de fabrication par centres de coûts pour l'année pourraient être répartis comme suit:
+B5: Centres de coûts | D5: Moulage des casques | F5: Préparation des composants | H5: Assemblage des casques | J5: Contrôle de la qualité | L5: TOTAL
+B6: FGF Variables
+B7: Maintenance | L7: 0 [formule : D7+F7+H7+J7]
+B8: Électricité - Force motrice | L8: 0 [formule : D8+F8+H8+J8]
+B9: Fournitures d'usine utilisées | L9: 0 [formule : D9+F9+H9+J9]
+B10: Total FGF variables | D10: 0 [formule : SUM(D7:D9)] | F10: 0 [formule : SUM(F7:F9)] | H10: 0 [formule : SUM(H7:H9)] | J10: 0 [formule : SUM(J7:J9)] | L10: 0 [formule : SUM(L7:L9)]
+B11: FGF fixes
+B12: Amortissement- usine | L12: 0 [formule : D12+F12+H12+J12]
+B13: Amortissement- équipement | L13: 0 [formule : D13+F13+H13+J13]
+B14: MOI - Salaire superviseur | L14: 0 [formule : D14+F14+H14+J14]
+B15: Assurances et taxes | L15: 0 [formule : D15+F15+H15+J15]
+B16: Total FGF fixes | D16: 0 [formule : SUM(D12:D15)] | F16: 0 [formule : SUM(F12:F15)] | H16: 0 [formule : SUM(H12:H15)] | J16: 0 [formule : SUM(J12:J15)] | L16: 0 [formule : SUM(L12:L15)]
+B18: Total FGF | D18: 134390 | F18: 41515 | H18: 89820 | J18: 52632 | L18: 318357 [formule : SUM(D18:J18)]

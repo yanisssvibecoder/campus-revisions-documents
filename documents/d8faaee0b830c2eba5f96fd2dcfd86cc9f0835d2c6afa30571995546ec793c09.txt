@@ -1,0 +1,100 @@
+## Page 1
+Érablière Boisvert — Automatisation et système décisionnel
+
+Marcel a continué d’opérer son érablière au fil des dernières saisons avec la même rigueur
+artisanale, mais les limites de ses méthodes traditionnelles sont devenues impossibles à
+ignorer. Une importante transformation a déjà été amorcée grâce à l’aide d’Amélie, sa nièce
+étudiante en technologies de l’information. Ensemble, ils ont structuré une base de données
+relationnelle dans Airtable et construit une interface simple avec Softr pour centraliser les
+informations sur les fournisseurs, les barils reçus, les coûts de transformation et les ventes aux
+marchés publics. Cette solution représente pour Marcel un progrès considérable : il n’a plus
+de feuilles volantes dans les poches de sa chemise, et plusieurs informations critiques ne
+risquent plus de disparaître sous une pile de papiers.
+
+Malgré cette amélioration, Marcel réalise rapidement que la base de données, aussi utile
+soit-elle, ne répond pas encore à toutes ses questions. Les données y entrent, mais elles ne
+racontent pas encore clairement l’histoire de son entreprise. Il peut maintenant consulter la
+liste de ses fournisseurs et retrouver plus facilement les quantités livrées, mais il a encore du
+mal à évaluer la fiabilité des producteurs, le coût des barils et l’impact de ses décisions. Les
+informations existent, mais les liens entre elles restent pour l’instant cachés. La base
+relationnelle, bien qu’organisée, ne fonctionne pas encore comme un outil analytique
+complet : elle enregistre, mais elle n’éclaire pas.
+
+Cette limite devient manifeste lorsque les variations normales de la saison se mettent à jouer
+contre lui. Les offres des fournisseurs varient d’une semaine à l’autre : certains promettent
+une quantité qu’ils n’arrivent pas à        d’autres livrent des barils dont la pureté ne
+correspond pas à ses observations habituelles. Marcel note maintenant tout cela dans son                                                     livrer ;
+Airtable, mais    il  doit encore parcourir chaque table  et recroiser mentalement  les
+informations pour en tirer du sens. L’idée même de                    lui échappe, non pas par
+manque d’attention, mais parce qu’aucune vue n’agrège réellement la performance des                                                   « tendance »
+fournisseurs, le rendement des barils ou les écarts de coûts. Tout est en place pour permettre
+l’analyse… mais rien n’a encore été pensé pour la rendre facile.
+
+Parallèlement, la gestion des ventes reste marquée par une grande incertitude. Les marchés
+publics lui laissent toujours des messages vocaux ou des textos asynchrones, qu’il consigne
+ensuite dans sa nouvelle base. Il peut voir l’historique, mais pas encore anticiper si un marché
+se désengage, si un paiement est en retard ou si un prix est anormalement bas. Les données
+ne manquent plus : ce sont les signaux et les explications qui manquent. Les décisions
+demeurent donc fondées sur l’instinct, comme avant, même si les traces numériques existent
+désormais.
+
+Il demeure aussi un enjeu dont Marcel se méfie : la conformité à la Loi 25. Bien que les
+coordonnées de ses fournisseurs et de ses clients soient maintenant contenues dans Airtable
+plutôt que dans des carnets épars,  il n’est pas certain de les protéger adéquatement. Les
+données sont centralisées, mais non encore sécurisées de façon structurée, ce qui maintient
+une part de vulnérabilité dans son fonctionnement.
+
+Au-delà de  ces  préoccupations, une  réflexion  nouvelle  prend  forme :  celle de
+l’automatisation. Pour l’instant, la base de données demande encore à Marcel de tout
+vérifier manuellement. S’il oublie d’appeler un fournisseur pour confirmer une anomalie,
+personne d’autre ne le fera pour  lui.  S’il ne revoit pas chaque mercredi les coûts de
+transformation pour détecter un écart inhabituel, l’information reste silencieuse. Les
+messages des marchés publics sont enregistrés, mais ils ne déclenchent rien. Ils n’indiquent
+pas non plus les retards. L’outil qu’Amélie a bâti sert à recueillir l’information, mais pas encore
+à agir sur elle.
+
+
+
+TECH10701                    Cas pour le final de pratique                               p. 1
+
+## Page 2
+Marcel se surprend alors à imaginer les gains potentiels si sa base devenait non seulement
+un registre, mais aussi un partenaire attentif.  Il rêve d’un système qui l’alerterait quand un
+fournisseur dévie de ses habitudes, quand une livraison risque d’être problématique ou
+lorsqu’un marché tarde trop à confirmer son achat. Il imagine une lecture plus claire de ses
+cycles de production. Il pourra connaître le nombre de jours entre une demande de barils et
+leur transformation, combien de bouteilles sortent en moyenne pour chaque type d’eau
+d’érable, quelle marge  il obtient selon les marchés.  Il se demande pour la première fois ce
+que son entreprise révélerait si les liens entre les données étaient rendus visibles.
+
+En même temps, il comprend qu’une telle évolution amène ses propres questions. Comment
+garantir l’objectivité d’un outil qui suggère des priorités ou évalue le potentiel de chaque
+fournisseur, afin d’éviter toute          Les producteurs les plus anciens, dont l’historique
+est plus riche,  seraient-ils avantagés par rapport aux             Les marchés qui                                   partialité ?
+s’expriment moins seraient-ils injustement considérés comme peu           Et que ferait le                                                   nouveaux ?
+système d’un message vocal confus ou d’un texto mal         Marcel ne veut pas être                                                                           fiables ?
+prisonnier d’une logique automatique qui surinterpréterait des données incomplètes ou mal                                                      formulé ?
+équilibrées.
+
+Il souhaite trouver un équilibre : tirer parti de sa nouvelle base relationnelle, organiser les
+données pour obtenir des indicateurs utiles, et ajouter des signaux pour agir plus tôt, mais
+conserver la possibilité d’évaluer en fonction des personnes et des saisons. Il ne cherche pas
+une technologie qui prendrait les décisions à sa                     il cherche une technologie qui
+l’aiderait à mieux voir ce qui se passe, à reconnaître les tendances cachées, à identifier les                                                      place ;
+risques qui s’annoncent et à décider avec plus de confiance.
+
+Dans cette nouvelle étape, Marcel n’a plus l’impression de vouloir moderniser son
+il a désormais le sentiment d’être en train de la comprendre autrement. Sa base Airtable et                                                                                         érablière ;
+l’interface Softr sont devenues la fondation d’un nouveau chapitre, mais ce chapitre reste à
+écrire. Les données sont là, les traces sont là, le potentiel est là. Ce qui manque encore, c’est
+la capacité de transformer cette matière brute en connaissance, puis cette connaissance
+en actions.
+
+Et c’est précisément cela que Marcel espère explorer avec Amélie lors de leur prochaine
+rencontre.
+
+
+
+
+
+TECH10701                    Cas pour le final de pratique                              p. 2

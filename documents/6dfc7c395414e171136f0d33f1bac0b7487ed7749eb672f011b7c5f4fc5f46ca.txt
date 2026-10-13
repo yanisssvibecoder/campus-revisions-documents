@@ -1,0 +1,95 @@
+
+
+
+
+Énoncé : 
+
+Mme Bolduc possède l’Hôtel Dominic. 
+Cet hôtel comprend 100 chambres.
+Habituellement, le taux d’occupation des clients réguliers est de 80 %.
+Chaque chambre est louée 100 $ par jour et il en coûte 35 $ par jour pour l’entretien des chambres louées.
+Gosselin inc. organise un congrès et offre à Mme Bolduc de louer 25 chambres au prix réduit de 80 $ par chambre par jour. 
+
+Travail à faire : 
+
+Sachant que le taux d’occupation des clients réguliers est en moyenne de 80 %,
+Mme Bolduc doit-elle accepter la proposition de Gosselin?
+
+Quels sont les éléments non financiers à prendre en compte? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution : Exercice d’application Mme Bolduc
+
+▪ Analyse de la capacité 
+
+Capacité utilisée par les clients habituels				 80 chambres
+Capacité nécessaire pour le congrès					 25 chambres
+Besoin total si on accepte le congrès					105 chambres			 
+Capacité totale disponible						100 chambres
+Déficit de capacité 							   5 chambres 
+
+Mme Bolduc ne dispose pas de la capacité nécessaire pour accepter la proposition de Gosselin Inc. Si elle accepte, elle devra renoncer à louer 5 chambres à ses clients réguliers (coût de renonciation).
+
+
+▪ Calcul de la marge sur coûts directs associée à l’acceptation de la proposition de Gosselin Inc.
+
+Prix de vente 					  80$
+(-) Entretien					(35 $)	
+= MCV unitaire (par chambre)		  45 $
+	
+MCV totale				1 125 $
+(-) coûts fixes spécifiques 		0 $
+ = Marge sur coûts directs		1 125 $
+
+
+▪ Déterminer le coût de renonciation  
+
+On va renoncer à louer 5 chambres qui permettent de dégager 65 $ de MCV unitaire.
+On renonce donc à 5 * 65 = 325 $ de marge.
+
+
+▪ Résultat différentiel
+
+Résultat différentiel = 1 125 $ - 325 $ = 800 $ 
+
+L’acceptation de l’offre de Gosselin Inc. permettrait d’augmenter le résultat de 800$.
+
+
+▪ Éléments qualitatifs et prise de décision
+
+Avant de prendre sa décision, Mme Bolduc pourrait se poser les questions suivantes : 
+Est-ce que je risque de perdre des clients réguliers qui se verront refuser une chambre ? 
+Est-ce que je suis en mesure de rendre un service d’entretien de qualité pour 100 chambres (disponibilité de la MOD, qualité du service…) ? 
+Quel pourrait être l’impact de la présence du congrès sur l’expérience de mes clients réguliers ? 
+Est-ce que Gosselin Inc. est susceptible de revenir faire le congrès dans l’hôtel dans le futur ? 
+Est-ce que les participants du congrès pourraient devenir de futurs clients ? 
+(…)
+
+
+
+
+
+
+
+
+
+
+
+
+	

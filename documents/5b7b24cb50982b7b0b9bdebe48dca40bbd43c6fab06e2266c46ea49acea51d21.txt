@@ -1,0 +1,83 @@
+## xl/worksheets/sheet1.xml
+A2: Liste des coûts | I2: Liste des contraintes
+A4: Salaire régulier | C4: 3950 | D4: par employé par période | I4: Variation de main d'œuvre* | L4: 0.25
+A5: Temps supplémentaire | C5: 5925 [formule : C4*1.5] | D5: par employé par période | I5: Temps supplémentaire | L5: 0.2
+A6: Stockage | C6: 26 | D6: par UE par période | I6: Temps mort | L6: 0.3
+A7: Pénuries reportées | C7: 58 | D7: par UE par période | I7: Capacité d'entreposage | L7: 12000 | M7: UE
+A8: Embauche | C8: 3100 | D8: par employé embauché | I8: Pénurie | L8: 5000 | M8: UE
+A9: Mise à pied | C9: 2300 | D9: par employé licencié | I9: Nombre minimum d'employés | L9: 50 | M9: employés
+I10: Nombre maximum d'employés | L10: 90 | M10: employés
+A12: Autres données du problème | I12: *Les variations de main-d'œuvre ne peuvent avoir lieu deux mois 
+I13: consécutifs.
+A14: Production par employé | C14: 200 | D14: UE par période
+A15: Nombre initial d'employés | C15: 50 | D15: employés
+A16: Stock initial | C16: 1250 | D16: UE
+A17: Stock final | C17: 1550 | D17: UE
+C19: Période
+B20: UE | C20: 1 | D20: 2 | E20: 3 | F20: 4 | G20: 5 | H20: 6 | I20: 7 | J20: 8 | K20: 9 | L20: 10 | M20: 11 | N20: 12
+A21: Compact | B21: 1 | C21: 2600 | D21: 2400 | E21: 2100 | F21: 2800 | G21: 3300 | H21: 3600 | I21: 3900 | J21: 4500 | K21: 3100 | L21: 2500 | M21: 2000 | N21: 1700
+A22: Confort | B22: 2 | C22: 1800 | D22: 1600 | E22: 1500 | F22: 2200 | G22: 2600 | H22: 3100 | I22: 3400 | J22: 3700 | K22: 2900 | L22: 2100 | M22: 1700 | N22: 1200
+A23: Grand froid | B23: 4 | C23: 900 | D23: 850 | E23: 800 | F23: 950 | G23: 1200 | H23: 1500 | I23: 1700 | J23: 1900 | K23: 1600 | L23: 1300 | M23: 1100 | N23: 950
+A24: Demande prévue (en UE) | C24: 9800 [formule : SUMPRODUCT($B21:$B23,C21:C23)] | D24: 9000 [formule : SUMPRODUCT($B21:$B23,D21:D23)] | E24: 8300 [formule : None] | F24: 11000 [formule : None] | G24: 13300 [formule : None] | H24: 15800 [formule : None] | I24: 17500 [formule : None] | J24: 19500 [formule : None] | K24: 15300 [formule : None] | L24: 11900 [formule : None] | M24: 9800 [formule : None] | N24: 7900 [formule : None]
+## xl/worksheets/sheet2.xml
+A1: a) Quelle sera la production mensuelle pour l'année 2027, si l'entreprise adopte une stratégie de nivellement?
+A2: Présentez vos calculs.
+A5: Demande totale | C5: 149100 [formule : SUM('Données du problème'!C24:N24)]
+A6: Stock début | C6: 1250 [formule : 'Données du problème'!C16]
+A7: Stock fin | C7: 1550 [formule : 'Données du problème'!C17]
+A8: Production totale | C8: 149400 [formule : C5-C6+C7]
+A9: Production mensuelle  | C9: 12450 [formule : C8/12]
+A11: Il faudre donc produire 12 450 unités équivalentes par mois.
+A13: b) Si la stratégie de nivellement était choisie, est-ce que l’ensemble des contraintes du problème seraient respectées? 
+A14: Si certaines d’entre elles ne sont pas respectées, mentionner lesquelles.
+A16: Demande (en UE) | C16: 9800 | D16: 9000 | E16: 8300 | F16: 11000 | G16: 13300 | H16: 15800 | I16: 17500 | J16: 19500 | K16: 15300 | L16: 11900 | M16: 9800 | N16: 7900
+A17: Production (en UE) | C17: 12450 [formule : $C9] | D17: 12450 [formule : $C9] | E17: 12450 [formule : None] | F17: 12450 [formule : None] | G17: 12450 [formule : None] | H17: 12450 [formule : None] | I17: 12450 [formule : None] | J17: 12450 [formule : None] | K17: 12450 [formule : None] | L17: 12450 [formule : None] | M17: 12450 [formule : None] | N17: 12450 [formule : None]
+A18: Stock (en UE) | B18: 1250 [formule : 'Données du problème'!C16] | C18: 3900 [formule : B18+C17-C16] | D18: 7350 [formule : C18+D17-D16] | E18: 11500 [formule : None] | F18: 12950 [formule : None] | G18: 12100 [formule : None] | H18: 8750 [formule : None] | I18: 3700 [formule : None] | J18: -3350 [formule : None] | K18: -6200 [formule : None] | L18: -5650 [formule : None] | M18: -3000 [formule : None] | N18: 1550 [formule : None]
+A21: On remarque que le nombre d'unités en stock aux mois 4 et 5 dépasse la capacité de stockage de 12 000 unités équivalentes.
+A22: De plus, les pénuries sont supérieures à 5 000 pour les mois 9 et 10.
+A24: Le nombre d'employés nécessaire sera de 62,25.
+A25: La variation de main d'œuvre en début d'année sera de 24 % (12 / 50), ce qui est inférieur à 25%.
+A26: Il n'y aura pas de temps mort et très peu de temps supplémentaire (0,25 / 62 = 0,4 %)
+## xl/worksheets/sheet3.xml
+A1: Plan global de production synchrone
+A2: Plusieurs solutions possibles | B2: L'important est que votre solution respecte l'ensemble des contraintes.
+C3: Période
+B4: Initial | C4: 1 | D4: 2 | E4: 3 | F4: 4 | G4: 5 | H4: 6 | I4: 7 | J4: 8 | K4: 9 | L4: 10 | M4: 11 | N4: 12
+A5: Demande (en UE) | C5: 9800 [formule : 'Données du problème'!C24] | D5: 9000 [formule : 'Données du problème'!D24] | E5: 8300 [formule : 'Données du problème'!E24] | F5: 11000 [formule : 'Données du problème'!F24] | G5: 13300 [formule : 'Données du problème'!G24] | H5: 15800 [formule : 'Données du problème'!H24] | I5: 17500 [formule : 'Données du problème'!I24] | J5: 19500 [formule : 'Données du problème'!J24] | K5: 15300 [formule : 'Données du problème'!K24] | L5: 11900 [formule : 'Données du problème'!L24] | M5: 9800 [formule : 'Données du problème'!M24] | N5: 7900 [formule : 'Données du problème'!N24]
+A6: Production (en UE) | C6: 8550 [formule : C5-B7] | D6: 9000 [formule : D5] | E6: 8300 [formule : E5] | F6: 11000 [formule : None] | G6: 13300 [formule : None] | H6: 15800 [formule : None] | I6: 17500 [formule : None] | J6: 19500 [formule : None] | K6: 15300 [formule : None] | L6: 11900 [formule : None] | M6: 9800 [formule : None] | N6: 9450 [formule : N5+'Données du problème'!C17]
+A7: Stock (en UE) | B7: 1250 [formule : 'Données du problème'!C16] | C7: 0 [formule : B7+C6-C5] | D7: 0 [formule : C7+D6-D5] | E7: 0 [formule : None] | F7: 0 [formule : None] | G7: 0 [formule : None] | H7: 0 [formule : None] | I7: 0 [formule : None] | J7: 0 [formule : None] | K7: 0 [formule : None] | L7: 0 [formule : None] | M7: 0 [formule : None] | N7: 1550 [formule : None]
+A8: Nombre d'employés | B8: 50 [formule : 'Données du problème'!C15] | C8: 50 | D8: 50 | E8: 50 | F8: 60 | G8: 60 | H8: 75 | I8: 75 | J8: 90 | K8: 90 | L8: 70 | M8: 70 | N8: 55
+A9: Embauches (en nombre d'employés) | C9: 0 [formule : IF(C8>B8,C8-B8,0)] | D9: 0 [formule : IF(D8>C8,D8-C8,0)] | E9: 0 [formule : None] | F9: 10 [formule : None] | G9: 0 [formule : None] | H9: 15 [formule : None] | I9: 0 [formule : None] | J9: 15 [formule : None] | K9: 0 [formule : None] | L9: 0 [formule : None] | M9: 0 [formule : None] | N9: 0 [formule : None]
+A10: Mises à pied (en nombre d'employés) | C10: 0 [formule : IF(B8>C8,B8-C8,0)] | D10: 0 [formule : None] | E10: 0 [formule : None] | F10: 0 [formule : None] | G10: 0 [formule : None] | H10: 0 [formule : None] | I10: 0 [formule : None] | J10: 0 [formule : None] | K10: 0 [formule : None] | L10: 20 [formule : IF(K8>L8,K8-L8,0)] | M10: 0 [formule : None] | N10: 15 [formule : None]
+A11: Temps supplémentaire (en nombre d'employés) | C11: 0 [formule : IF(C14>C8,C14-C8,0)] | D11: 0 [formule : IF(D14>D8,D14-D8,0)] | E11: 0 [formule : None] | F11: 0 [formule : None] | G11: 6.5 [formule : None] | H11: 4 [formule : None] | I11: 12.5 [formule : None] | J11: 7.5 [formule : None] | K11: 0 [formule : None] | L11: 0 [formule : None] | M11: 0 [formule : None] | N11: 0 [formule : None]
+A12: Temps mort (en nombres d'employés) | C12: 7.25 [formule : IF(C8>C14,C8-C14,0)] | D12: 5 [formule : IF(D8>D14,D8-D14,0)] | E12: 8.5 [formule : None] | F12: 5 [formule : None] | G12: 0 [formule : None] | H12: 0 [formule : None] | I12: 0 [formule : None] | J12: 0 [formule : None] | K12: 13.5 [formule : None] | L12: 10.5 [formule : None] | M12: 21 [formule : None] | N12: 7.75 [formule : None]
+A14: Nombre d'employés nécessaires | C14: 42.75 [formule : C6/'Données du problème'!$C14] | D14: 45 [formule : D6/'Données du problème'!$C14] | E14: 41.5 [formule : E6/'Données du problème'!$C14] | F14: 55 [formule : F6/'Données du problème'!$C14] | G14: 66.5 [formule : G6/'Données du problème'!$C14] | H14: 79 [formule : H6/'Données du problème'!$C14] | I14: 87.5 [formule : I6/'Données du problème'!$C14] | J14: 97.5 [formule : J6/'Données du problème'!$C14] | K14: 76.5 [formule : K6/'Données du problème'!$C14] | L14: 59.5 [formule : L6/'Données du problème'!$C14] | M14: 49 [formule : M6/'Données du problème'!$C14] | N14: 47.25 [formule : N6/'Données du problème'!$C14]
+A15: Variation main d'œuvre (embauche) | C15: 0 [formule : C9/B8] | D15: 0 [formule : D9/C8] | E15: 0 [formule : None] | F15: 0.2 [formule : None] | G15: 0 [formule : None] | H15: 0.25 [formule : None] | I15: 0 [formule : None] | J15: 0.2 [formule : None] | K15: 0 [formule : None] | L15: 0 [formule : None] | M15: 0 [formule : None] | N15: 0 [formule : None]
+A16: Variation main d'œuvre (mise à pied) | C16: 0 [formule : C10/B8] | D16: 0 [formule : D10/C8] | E16: 0 [formule : None] | F16: 0 [formule : None] | G16: 0 [formule : None] | H16: 0 [formule : None] | I16: 0 [formule : None] | J16: 0 [formule : None] | K16: 0 [formule : None] | L16: 0.22222222222222221 [formule : None] | M16: 0 [formule : None] | N16: 0.21428571428571427 [formule : None]
+A17: Utilisation temps supplémentaire | C17: 0 [formule : C11/C8] | D17: 0 [formule : D11/D8] | E17: 0 [formule : None] | F17: 0 [formule : None] | G17: 0.10833333333333334 [formule : None] | H17: 5.3333333333333337E-2 [formule : None] | I17: 0.16666666666666666 [formule : None] | J17: 8.3333333333333329E-2 [formule : None] | K17: 0 [formule : None] | L17: 0 [formule : None] | M17: 0 [formule : None] | N17: 0 [formule : None]
+A18: Utilisation temps mort | C18: 0.14499999999999999 [formule : C12/C8] | D18: 0.1 [formule : D12/D8] | E18: 0.17 [formule : None] | F18: 8.3333333333333329E-2 [formule : None] | G18: 0 [formule : None] | H18: 0 [formule : None] | I18: 0 [formule : None] | J18: 0 [formule : None] | K18: 0.15 [formule : None] | L18: 0.15 [formule : None] | M18: 0.3 [formule : None] | N18: 0.1409090909090909 [formule : None]
+A20: Tableau des coûts associés
+C21: Période
+C22: 1 | D22: 2 | E22: 3 | F22: 4 | G22: 5 | H22: 6 | I22: 7 | J22: 8 | K22: 9 | L22: 10 | M22: 11 | N22: 12 | O22: Total
+A23: Stockage | C23: 0 [formule : C7*'Données du problème'!$C$6] | D23: 0 [formule : D7*'Données du problème'!$C$6] | E23: 0 [formule : E7*'Données du problème'!$C$6] | F23: 0 [formule : F7*'Données du problème'!$C$6] | G23: 0 [formule : G7*'Données du problème'!$C$6] | H23: 0 [formule : H7*'Données du problème'!$C$6] | I23: 0 [formule : I7*'Données du problème'!$C$6] | J23: 0 [formule : J7*'Données du problème'!$C$6] | K23: 0 [formule : K7*'Données du problème'!$C$6] | L23: 0 [formule : L7*'Données du problème'!$C$6] | M23: 0 [formule : M7*'Données du problème'!$C$6] | N23: 40300 [formule : N7*'Données du problème'!$C$6] | O23: 40300 [formule : SUM(C23:N23)]
+A24: Pénurie | C24: 0 | D24: 0 | E24: 0 | F24: 0 | G24: 0 | H24: 0 | I24: 0 | J24: 0 | K24: 0 | L24: 0 | M24: 0 | N24: 0 | O24: 0 [formule : SUM(C24:N24)]
+A25: Embauche | C25: 0 [formule : C9*'Données du problème'!$C$8] | D25: 0 [formule : D9*'Données du problème'!$C$8] | E25: 0 [formule : E9*'Données du problème'!$C$8] | F25: 31000 [formule : F9*'Données du problème'!$C$8] | G25: 0 [formule : G9*'Données du problème'!$C$8] | H25: 46500 [formule : H9*'Données du problème'!$C$8] | I25: 0 [formule : I9*'Données du problème'!$C$8] | J25: 46500 [formule : J9*'Données du problème'!$C$8] | K25: 0 [formule : K9*'Données du problème'!$C$8] | L25: 0 [formule : L9*'Données du problème'!$C$8] | M25: 0 [formule : M9*'Données du problème'!$C$8] | N25: 0 [formule : N9*'Données du problème'!$C$8] | O25: 124000 [formule : None]
+A26: Mise à pied | C26: 0 [formule : C10*'Données du problème'!$C$9] | D26: 0 [formule : D10*'Données du problème'!$C$9] | E26: 0 [formule : E10*'Données du problème'!$C$9] | F26: 0 [formule : F10*'Données du problème'!$C$9] | G26: 0 [formule : G10*'Données du problème'!$C$9] | H26: 0 [formule : H10*'Données du problème'!$C$9] | I26: 0 [formule : I10*'Données du problème'!$C$9] | J26: 0 [formule : J10*'Données du problème'!$C$9] | K26: 0 [formule : K10*'Données du problème'!$C$9] | L26: 46000 [formule : L10*'Données du problème'!$C$9] | M26: 0 [formule : M10*'Données du problème'!$C$9] | N26: 34500 [formule : N10*'Données du problème'!$C$9] | O26: 80500 [formule : None]
+A27: Salaire - heures régulières | C27: 197500 [formule : C8*'Données du problème'!$C$4] | D27: 197500 [formule : D8*'Données du problème'!$C$4] | E27: 197500 [formule : E8*'Données du problème'!$C$4] | F27: 237000 [formule : F8*'Données du problème'!$C$4] | G27: 237000 [formule : G8*'Données du problème'!$C$4] | H27: 296250 [formule : H8*'Données du problème'!$C$4] | I27: 296250 [formule : I8*'Données du problème'!$C$4] | J27: 355500 [formule : J8*'Données du problème'!$C$4] | K27: 355500 [formule : K8*'Données du problème'!$C$4] | L27: 276500 [formule : L8*'Données du problème'!$C$4] | M27: 276500 [formule : M8*'Données du problème'!$C$4] | N27: 217250 [formule : N8*'Données du problème'!$C$4] | O27: 3140250 [formule : None]
+A28: Salaire - heures supplémentaires | C28: 0 [formule : C11*'Données du problème'!$C$5] | D28: 0 [formule : D11*'Données du problème'!$C$5] | E28: 0 [formule : E11*'Données du problème'!$C$5] | F28: 0 [formule : F11*'Données du problème'!$C$5] | G28: 38512.5 [formule : G11*'Données du problème'!$C$5] | H28: 23700 [formule : H11*'Données du problème'!$C$5] | I28: 74062.5 [formule : I11*'Données du problème'!$C$5] | J28: 44437.5 [formule : J11*'Données du problème'!$C$5] | K28: 0 [formule : K11*'Données du problème'!$C$5] | L28: 0 [formule : L11*'Données du problème'!$C$5] | M28: 0 [formule : M11*'Données du problème'!$C$5] | N28: 0 [formule : N11*'Données du problème'!$C$5] | O28: 180712.5 [formule : None]
+A29: Total | C29: 197500 [formule : SUM(C23:C28)] | D29: 197500 [formule : SUM(D23:D28)] | E29: 197500 [formule : SUM(E23:E28)] | F29: 268000 [formule : None] | G29: 275512.5 [formule : None] | H29: 366450 [formule : None] | I29: 370312.5 [formule : None] | J29: 446437.5 [formule : None] | K29: 355500 [formule : None] | L29: 322500 [formule : None] | M29: 276500 [formule : None] | N29: 292050 [formule : None] | O29: 3565762.5 [formule : SUM(O23:O28)]
+## xl/worksheets/sheet4.xml
+A1: Le comité se demande s’il pourrait être souhaitable de hausser le plafond du nombre d’employés afin de diminuer l’utilisation du temps supplémentaire. 
+A2: À l’aide d’un calcul approprié, déterminez pour combien de mois il est économiquement préférable de payer du temps supplémentaire aux employés actuels
+A3: plutôt que d’embaucher des employés et de les mettre à pied par la suite. 
+A5: Option 1 : Embauche suivie d'une mise à pied d'un employé
+A6: Option 2 : Utilisation du temps supplémentaire pour l'équivalent d'un employé
+A7: Durée | B7: 1 mois | C7: 2 mois | D7: 3 mois | F7: OU
+A8: Coût d’embauche | B8: 3100 | C8: 3100 | D8: 3100 | F8: Prime de temps supplémentaire = 5 925 $ - 3 950 $ = 1 975 $ / mois
+A9: Salaire | B9: 3950 | C9: 7900 [formule : B9*2] | D9: 11850 [formule : B9*3] | F9: 1 975 $ / mois x = 3 100 $ + 2 300 $
+A10: Coût de mise à pied | B10: 2300 | C10: 2300 | D10: 2300 | F10: où x = 2,73 mois
+A11: Total Option 1 | B11: 9350 [formule : SUM(B8:B10)] | C11: 13300 [formule : SUM(C8:C10)] | D11: 17250 [formule : None]
+A12: Salaire TS | B12: 5925 [formule : B9*1.5] | C12: 2 X 5 925 $ | D12: 3 X 5 925 $
+A13: Total Option 2 | B13: 5925 [formule : B12] | C13: 11850 [formule : 2*B12] | D13: 17775 [formule : 3*B12]
+A15: Si on veut augmenter la capacité pour deux mois ou moins, il sera plus économique d'utiliser le temps supplémentaire (option 2).
+A16: Toutefois, si on veut augmenter la capacité pour trois mois consécutifs ou plus, il sera alors plus économique d’utiliser l'embauche suivie d'une mise à pied (option 1). 

@@ -1,0 +1,325 @@
+Calculatrice financière — BA II Plus
+🌙
+📌 Détacher
+🧮 Calculatrice financière — BA II Plus
+Réplique fonctionnelle de la calculatrice de référence en finance · clique sur les touches ou tape au clavier
+BA
+II
+PLUS™
+CALCULATRICE
+FINANCIÈRE
+2ND
+INV
+CPT
+ENTER
+SET
+BGN
+0
+2ND
+QUIT
+CPT
+▲
+▼
+RESET
+ON/OFF
+×P/Y
+N
+P/Y
+I/Y
+AMORT
+PV
+BGN
+PMT
+CLR TVM
+FV
+CF
+NPV
+IRR
+SET
+ENTER
+CLR WK
+CE|C
+7
+8
+9
+÷
+y
+x
+4
+5
+6
+×
+√x
+1
+ICONV
+2
+3
+−
+1/x
+0
+FORMAT
+.
++/−
++
+=
+Astuce : l'argent qui
+sort
+se saisit en négatif (touche +/−).
+📘 Comment l'utiliser (l'essentiel)
+La BA II Plus raisonne avec 5 variables de temps. Tu en connais 4, elle calcule la 5ᵉ.
+Touche
+Signifie
+N
+Nombre de périodes
+I/Y
+Taux d'intérêt par période (en %)
+PV
+Valeur actuelle (aujourd'hui)
+PMT
+Versement périodique (annuité)
+FV
+Valeur future
+CPT
+« Calcule » (CPT puis la variable cherchée)
+⚠️
+Convention de signes
+: un encaissement est positif, un décaissement est négatif. Si tu prêtes/places 100 $ (sortie), saisis
+−100
+en PV ; la FV ressortira positive.
+🎯 Recettes prêtes pour ton cours
+Chaque recette = la suite exacte de touches.
+Texte doré
+= appuie d'abord sur
+2ND
+.
+Ch.5
+Valeur future (VC) d'un montant
+▶
+100 $ placés à 10 %, pendant 5 ans → combien à la fin ?
+2ND
+CLR TVM
+(remet à zéro)
+5
+N
+·
+1
+0
+I/Y
+·
+1
+0
+0
++/−
+PV
+·
+0
+PMT
+CPT
+FV
+→
+161,05
+Ch.5
+Valeur actuelle (VA) d'un montant
+▶
+Recevoir 68 500 $ dans 2 ans à 9 % → valeur aujourd'hui ?
+2ND
+CLR TVM
+2
+N
+·
+9
+I/Y
+·
+6
+8
+5
+0
+0
+FV
+·
+0
+PMT
+CPT
+PV
+→
+−57 655,08
+Ch.5
+Trouver le taux (r) ou la durée (t)
+▶
+100 $ deviennent 200 $ en 8 ans → quel taux ?
+8
+N
+·
+1
+0
+0
++/−
+PV
+·
+2
+0
+0
+FV
+·
+0
+PMT
+CPT
+I/Y
+→
+9,05
+Pour la durée : saisis N inconnu et fais
+CPT
+N
+.
+Ch.6
+Valeur d'une annuité (versements égaux)
+▶
+Emprunt remboursé 632 $/mois pendant 48 mois à 1 %/mois → montant emprunté ?
+2ND
+CLR TVM
+4
+8
+N
+·
+1
+I/Y
+·
+6
+3
+2
++/−
+PMT
+·
+0
+FV
+CPT
+PV
+→
+23 999,54
+(≈ 24 000 $ dans le manuel, qui arrondit le facteur)
+Ch.6
+Épargne (VC d'une annuité) + mode début
+▶
+2 000 $/an pendant 30 ans à 8 %.
+3
+0
+N
+·
+8
+I/Y
+·
+2
+0
+0
+0
++/−
+PMT
+·
+0
+PV
+CPT
+FV
+→
+226 566,42
+Pour des dépôts en
+début
+de période :
+2ND
+BGN
+puis
+2ND
+SET
+(indicateur BGN), refais le calcul →
+244 691,74
+.
+Ch.6
+Taux nominal → taux EFFECTIF (ICONV)
+▶
+Carte de crédit : 18 % nominal, capitalisé 12×/an → taux effectif réel ?
+2ND
+ICONV
+À « NOM » :
+1
+8
+ENTER
+· ▼ à « C/Y » :
+1
+2
+ENTER
+▼ à « EFF » :
+CPT
+→
+19,56
+(L'inverse marche aussi : entre EFF, ▲ jusqu'à NOM,
+CPT
+.)
+Ch.6
+Tableau d'amortissement (AMORT)
+▶
+Après avoir résolu un prêt en TVM (ex. 5 000 $, 9 %, 5 ans → PMT), vois le détail :
+2ND
+AMORT
+« P1 »
+1
+ENTER
+▼ « P2 »
+1
+ENTER
+▼
+▼ lit « BAL » (solde), « PRN » (capital), « INT » (intérêts) de l'année 1.
+Change P1/P2 pour n'importe quelle plage d'années.
+Budget capital
+VAN & TRI (NPV / IRR)
+▶
+Projet : −1 000 aujourd'hui, puis +400, +500, +600. Taux 12 %.
+CF
+· « CF0 »
+1
+0
+0
+0
++/−
+ENTER
+▼
+« C01 »
+4
+0
+0
+ENTER
+▼ ▼ « C02 »
+5
+0
+0
+ENTER
+▼ ▼ « C03 »
+6
+0
+0
+ENTER
+NPV
+« I »
+1
+2
+ENTER
+▼
+CPT
+→
+VAN ≈ 182,81
+IRR
+CPT
+→
+TRI ≈ 21,65 %
+⌨️ Raccourcis clavier
+Chiffres
+0-9
+,
+. + − * /
+,
+Entrée
+= ENTER,
+=
+,
+Retour arrière
+efface un chiffre,
+Échap
+= CE|C.

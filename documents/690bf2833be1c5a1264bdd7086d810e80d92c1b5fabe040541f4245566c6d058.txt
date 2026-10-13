@@ -1,0 +1,677 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Gestion de la qualité
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+DiscussionComment définit-on la qualité?
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+Carte conceptuelle
+
+## Diapositive 5
+
+Les coûts totaux
+
+
+
+
+
+
+
+
+
+Coûts de la qualité
+
+Coûts de prévention
+(formation, surveillance, programmes d’amélioration)
+
+Coûts de contrôle
+(inspection, mesures,vérification)
+
+Coûts de la non-qualité
+
+Coûts de défaillance interne
+(avant livraison au client…, remise en fabrication, pertes, temps)
+
+Coûts de défaillance externe
+(après livraison au client… retours, rappels, garantie…)
+
+COÛTS TOTAUX QUALITÉ
+
+
+
+
+
+## Diapositive 6
+
+
+
+
+
+
+
+C
+
+
+
+
+
+Quoi
+
+Quand
+
+Combien
+
+Où
+
+Qui
+
+Comment
+
+Caractéristiques
+à contrôler
+
+Fréquence du
+contrôle
+
+Contrôle par 
+échantillonnage,
+exhaustif, ou
+aucun contrôle
+
+Opérateur,
+inspecteur,
+laboratoire
+
+Par essai, inspection,
+instruments,
+contrôle visuel
+
+Lors de la fabrication,
+de la réception,
+de l’expédition,
+etc.
+
+Source : Kelada, Nollet, Diorio, (1994), p 529
+
+Le plan de travail d’un système de contrôle de la qualité
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 7
+
+Le contrôle statistique de la qualité
+
+## Diapositive 8
+
+Plans d’échantillonnage
+
+Définition : Une procédure qui permet de déterminer si un lot doit être accepté ou refusé.
+
+En général, un plan d’échantillonnage est défini par n, c :
+Le nombre d’unités (n) à prélever dans le lot (taille = N)
+Le nombre maximal d’unités défectueuses (c) dans un échantillon pour que le lot soit accepté («c» est le critère d’acceptation)
+
+
+## Diapositive 9
+
+Les risques d’erreurs
+
+Échantillon de taille «n» MEILLEUR que 
+le lot dont il est tiré
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donc, on accepte un lot dont la qualité ne serait pas normalement tolérée :
+risque du client (ß)
+
+Échantillon de taille «n» PIRE que 
+le lot dont il est tiré
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donc, on rejette un lot dont la qualité
+serait normalement tolérée :
+risque du fournisseur (α )
+
+## Diapositive 10
+
+Cartes des moyennes - étendues
+
+Les cartes moyennes-étendues (en fonction des fabrications) sont les plus utilisées :
+X représente la moyenne;
+R représente l’étendue (R = range).
+
+
+Elles utilisent des variables mesurables telles que la longueur, le poids, la largeur, la température ou la vitesse.
+
+
+## Diapositive 11
+
+Démarche
+
+Prélever un nombre suffisamment élevé (au moins 30, idéalement 50 ou plus) de petits échantillons de taille n, répartis dans le temps;
+Pour chacun des échantillons, calculer la moyenne et l’étendue;
+Calculer la moyenne des moyenne et la moyenne des étendues;
+Calculer les limites de contrôle supérieures et inférieures pour la carte des moyennes et celle des étendues;
+Tracer les cartes (moyennes et étendues);
+Interpréter les cartes (sous-contrôle ou hors contrôle);
+Conclure sur le procédé (sous-contrôle ou hors contrôle).
+
+
+## Diapositive 12
+
+ | 1 /08 |  |  | 2/ 08 |  |  | 3/08 |  |  | 4/08 |  |  | 5/08 |  |  | 8/08 |  |  | 9/08 | 
+
+Ob.1 | 5 | 6 | 7 | 3 | 3 | 6 | 2 | 5 | 3 | 9 | 7 | 4 | 3 | 8 | 6 | 2 | 6 | 8 | 2 | 2
+
+Ob. 2 | 6 | 5 | 5 | 7 | 5 | 5 | 6 | 6 | 3 | 3 | 5 | 6 | 6 | 9 | 5 | 4 | 7 | 4 | 5 | 5
+
+Ob. 3 | 8 | 6 | 5 | 2 | 9 | 6 | 7 | 7 | 5 | 5 | 7 | 4 | 6 | 8 | 7 | 4 | 6 | 6 | 6 | 6
+
+Ob. 4 | 5 | 8 | 6 | 5 | 8 | 4 | 3 | 5 | 7 | 6 | 2 | 6 | 8 | 6 | 7 | 7 | 4 | 5 | 6 | 6
+
+Ob. 5 | 6 | 4 | 3 | 6 | 4 | 5 | 6 | 4 | 4 | 5 | 6 | 7 | 6 | 4 | 3 | 5 | 4 | 7 | 3 | 5
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+R |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+
+
+6,0    5,8   5,2   4,6    5,8    5,2     4,8    5,4   4,4    5,6   5,4   5,4     5,8    7,0    5,6    4,4    5,4    6,0    4,4    4,8 	
+
+ 3      4      4     5      6      2       5      3     4      6      5      3      5       5      4     5       3      4      4      4
+
+Étapes 1 à 3 :
+
+
+
+Des mesures sont prises pendant 7 jours
+On prélève 3 échantillons par jour
+Les échantillons sont de taille n = 5
+
+
+X = 5,35
+
+R = 4,2
+
+Exemple
+
+## Diapositive 13
+
+4. Calculer les limites de contrôle :
+
+Calcul des limites de contrôle
+
+Carte des moyennes
+
+LSCR = D4  
+
+LSC = 2,115  4,2
+LSC = 8,88
+
+
+
+LICR = D3  
+
+LIC = 0  4,2
+LIC = 0
+
+
+
+Carte des étendues
+
+Les limites calculées, pour les deux cartes, sont équivalentes à la moyenne (X ou R, selon le cas) ± 3 écarts-types 
+
+## Diapositive 14
+
+
+
+Table des coefficients
+
+## Diapositive 15
+
+LSC = 7,77
+
+LIC = 2,93
+
+Axe central = 5,35
+
+6.0   5.8   5.2  4.6  5.8  5.2   4.8   5.4  4.4   5.6   5.4   5.4   5.8   7.0   5.6    4.4  5.4   6.0  4.4  4.8
+
+
+
+5. Tracer la carte des moyennes
+
+Carte des moyennes
+
+## Diapositive 16
+
+LSC = 8,88
+
+LIC = 0
+
+Axe central = 4,2
+
+5. Tracer la carte des étendues
+
+Carte des étendues
+
+## Diapositive 17
+
+6. Interpréter les cartes : Tableau synthèse
+7. Conclure sur le procédé
+
+Critères | Carte des moyennes | Cartes des étendues
+
+Tous les points à l’intérieur des limites de contrôle |  | 
+
+Répartition symétrique autour de l’axe central |  | 
+
+Distribution centrée sur la moyenne |  | 
+
+Points distribués au hasard (pas de cycle, pas de tendance) |  | 
+
+Interprétation des cartes
+
+Conclusion :
+
+## Diapositive 18
+
+Interprétation des cartes - Suivi
+
+L’opérateur continue à prélever des échantillons aux intervalles prescrits;
+À chaque prélèvement, il calcule la moyenne et l’étendue, et ajoute les points au bout de la carte;
+À chaque nouveau point, il évalue si le procédé est toujours sous contrôle;
+En cas de doute, d’un point hors-limite ou de début de tendance, on peut accélérer la prise d’échantillons.
+
+On n’a pas à recalculer les limites de contrôle; elles demeurent les mêmes puisqu’elles indiquent le comportement naturel du procédé !
+
+ On les recalcule si le procédé a été modifié
+ On peut aussi les revérifier périodiquement
+
+
+## Diapositive 19
+
+
+
+
+
+VS
+
+VS
+
+Capacité opérationnelle
+
+## Diapositive 20
+
+Capacité opérationnelle
+
+Mesure de la capacité opérationnelle :
+
+
+
+C
+
+p
+
+=
+
+LTS - LTI
+
+ 
+
+ LTS : Limite de Tolérance Supérieure 
+ LTI : Limite de Tolérance Inférieure
+ _
+ R : Moyenne des étendues
+
+
+
+R
+
+d
+
+6
+
+2
+
+
+
+## Diapositive 21
+
+ExerciceCalculez la capacité opérationnelle - Cp
+
+Les exigences du clients sont de 5,35 ± 3.
+Le processus actuel est-il en mesure de respecter les spécifications du client?
+Répondez à l’aide du calcul approprié.
+
+## Diapositive 22
+
+Indice Cp | Interprétation
+
+Cp < 1,00 | Processus incapable de respecter les spécifications. Équivaut à un intervalle de confiance de moins de ± 3σ.
+
+1,00 < Cp < 1,33 | Capacité minime à respecter les spécifications. Équivaut à un intervalle de confiance de ± 3σ et plus.
+
+1,34 < Cp < 2,00 | Processus capable de respecter les spécifications. Équivaut à un intervalle de confiance de ± 4σ et plus.
+
+Cp > 2,00 | Processus capable de respecter les spécifications et de les dépasser. Équivaut à un intervalle de confiance de ± 6σ et plus.
+
+Interprétation des résultats
+
+## Diapositive 23
+
+Interprétation graphique
+
+## Diapositive 24
+
+Interprétation graphique
+
+## Diapositive 25
+
+Interprétation graphique
+
+## Diapositive 26
+
+Méthodologie Six Sigma 
+
+Fondée sur la variation des procédés et la capacité opérationnelle;
+Correspond à un Cp = 2;
+Vise à réduire la variation des procédés;
+Lorsque le procédé est centré sur la valeur nominale désirée, la proportion d’unités défectueuses est inférieure à 0,002 ppm;
+Lorsque le procédé dévie de 1,5 σ, la proportion d’unités défectueuses est de 3,4 ppm.
+
+
+Cette photo par Auteur inconnu est soumise à la licence CC BY-SA
+
+## Diapositive 27
+
+Dérive du processus
+
+
+
+
+
+Valeurs individuelles
+
+
+
+
+
+
+
+
+
+Tolérance
+
+
+
+
+
+
+
+Étendues des variations
+
+
+
+6 σ
+
+ |  |  |  |  | 
+
+
+
+Lorsque le processus dérive de 1,5 σ, le taux de défectuosités est de 3,4 ppm
+
+
+4,5 sigma
+
+7,5 sigma
+
+## Diapositive 28
+
+
+
+Source:  The Vision of Six Sigma: A Roadmap for Breakthrough, Fifth Edition, M.T. Harry.
+
+Le nombre de défauts produits (en unités par million) pour  différents degrés de dérive du procédé, en fonction de la capacité opérationnelle du procédé
+
+Méthodologie Six Sigma 
+
+3 sigma			  	            6 sigma
+
+
+
+
+
+## Diapositive 29
+
+Rendement global combiné (RGC) 
+
+Source :  The Six Sigma Handbook, 2003, Thomas Pyzdek.
+
+
+
+Équation pour calculer le RGC :
+
+Où DPMUN représente les défauts par millions d’unités pour l’étape N dans le processus.
+
+
+
+## Diapositive 30
+
+ExerciceCalculez le RGC
+
+Calculez le rendement global combiné de ce processus (RGC) :
+
+## Diapositive 31
+
+ISO 9000
+
+D’abord, dites ce que vous faites. Cela signifie mettre par écrit chacune de vos opérations et façons de faire pour assurer que tous vos employés suivent les mêmes lignes directrices.
+
+Ensuite, faites ce que vous dites. Cela veut dire suivre à la lettre les directives de son manuel-qualité et ne pas se contenter de principes jamais appliqués;
+
+Finalement, enregistrez ce que vous dites. Cela signifie faire des contrôles réguliers et conserver les résultats au classeur pour vérification. 
+
+
+Les normes ISO contrôlent donc les procédés de l’entreprise, sa façon de faire, et non le produit qui en sort.
+
+## Diapositive 32
+
+Questions…

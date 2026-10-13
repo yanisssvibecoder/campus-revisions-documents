@@ -1,0 +1,12 @@
+4 | Description et objectifs de la séance
+
+Des données aux interfaces : structurer, saisir, gouverner
+Description
+Les interfaces constituent le pont essentiel entre les utilisateurs et le système d'information en permettant la saisie, la consultation et la modification des données selon les besoins professionnels de chaque utilisateur. Elles jouent un rôle déterminant dans l'adoption du système en rendant son utilisation intuitive et efficace, tout en servant de point de contrôle pour implémenter les règles d'affaires, valider les données saisies et gérer la sécurité en limitant l'accès aux informations et fonctions selon les autorisations de chaque utilisateur.
+Une interface bien conçue personnalise l'expérience selon les rôles organisationnels et peut faire la différence entre le succès et l'échec d'un système d'information, peu importe la qualité de la technologie sous-jacente.
+Important!
+Airtable et Softr seront vos deux meilleurs alliés pour cette séance. Empressez-vous d'aller créer vos comptes et de transmettre vos preuves pour obtenir vos points de participation!
+Objectifs de la séance
+Construire un modèle conceptuel en identifiant les entités pertinentes et les règles d'affaires d'une organisation
+Expliquer comment les règles d'affaires du modèle conceptuel se traduisent en contraintes de saisie dans une interface
+Évaluer la convivialité d'un formulaire de saisie selon les meilleures pratiques en UX

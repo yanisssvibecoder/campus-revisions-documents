@@ -1,0 +1,105 @@
+QUESTIONS supplémentaires : Conversion de taux
+Formule disponible à l’examen sur la feuille de formules :
+Rappel de la méthode de résolution – séance 2
+Une obligation verse des coupons semestriels. Le rendement à l’échéance est de 6%. Quel taux doit être utilisé dans la formule suivante pour calculer le prix de l’obligation?
+Une obligation verse des coupons trimestriels. Le rendement à l’échéance nominal composé semestriellement, est de 8 %. Quel taux doit être utilisé dans la formule précédente pour calculer le prix de l’obligation?
+Une obligation américaine paie ses coupons deux fois par année. Le rendement à l’échéance nominal composé trimestriellement, est de 9 %. Quel taux doit être utilisé dans la formule précédente pour calculer le prix de l’obligation?
+Une obligation d’entreprise verse des coupons hebdomadaires. Son rendement à l’échéance nominal annuel, composé mensuellement, est de 8 %. Quel taux doit être utilisé dans la formule précédente pour calculer le prix de l’obligation?
+Une obligation verse des coupons annuels. Le rendement à l’échéance est de 8 % nominal composé trimestriellement. Quel taux doit être utilisé dans la formule précédente pour calculer le prix de l’obligation?
+Une action privilégiée verse des dividendes mensuels. Le taux de rendement exigé est de 9 % effectif annuel. Quel taux doit être utilisé dans la formule suivante pour calculer le prix de cette action?
+Une action privilégiée verse un dividende annuel de 4 $, mais payable en quatre versements trimestriels égaux. Le taux de rendement exigé est de 8 % annuel effectif. Quel taux doit être utilisé dans la formule suivante pour calculer le prix de cette action?
+Un investisseur exige un rendement effectif annuel de 7 %. 
+Quel est le taux semestriel équivalent?
+Quel est le taux nominal à capitalisation semestriel équivalent?
+Une rente verse des paiements trimestriels pendant 10 ans. Le taux nominal annuel composé mensuellement est de 12 %. Quel taux doit-on utiliser pour déterminer la valeur actuelle de la rente?
+Une rente viagère verse des paiements mensuels. Le taux de rendement exigé est de 6 % composé semestriellement. Quel taux doit-on utiliser pour actualiser les paiements?
+Convertir un taux nominal annuel de 12 % composé mensuellement en taux effectif annuel.
+Trouver le taux nominal annuel composé semestriellement équivalent à un taux effectif annuel de 6,14 %.
+Trouver le taux effectif annuel équivalent à un taux nominal annuel de 8 % composé trimestriellement.
+Convertir un taux nominal annuel composé trimestriellement en taux mensuel équivalent.
+Un investissement rapporte un taux effectif annuel de 5 %. Quel est le taux nominal composé mensuellement équivalent?
+SOLUTIONS
+Obligation avec coupons semestriels et rendement de 6 %
+Le rendement à l’échéance est nominal à capitalisation semestrielle (par défaut). Les coupons sont aussi semestriels, donc la fréquence des flux correspond à la fréquence de capitalisation.
+Formule : i_semi = 6 % / 2 = 3 %
+Taux à utiliser dans la formule du prix : 3 % par semestre 
+Explication : On utilise un taux périodique conforme à la fréquence des coupons. 
+Obligation avec coupons trimestriels et rendement nominal semestriel de 8 %
+La fréquence de capitalisation du rendement (semestrielle) ne correspond pas à la fréquence des coupons (trimestrielle). Il faut donc trouver le taux trimestriel équivalent.
+Méthode : égalité des valeurs finales sur un an.
+(1 + 0,08/2)^2 = (1 + i_tri)^4
+i_tri = (1,0816)^(1/4) - 1 = 0,0198 = 1,98 %
+Taux à utiliser dans la formule du prix : 1,98 % par trimestre (0,0198).
+Explication : Le rendement de 8 % nominal semestriel équivaut à environ 1,98 % par trimestre, obtenu en égalisant les valeurs finales sur un an.
+3. Obligation américaine avec coupons semestriels et rendement nominal trimestriel   de 9 %
+La fréquence des coupons est semestrielle, mais le rendement est nominal à capitalisation trimestrielle.
+Égalité des valeurs finales sur un an : (1 + 0,09/4)^4 = (1 + i_semi)^2
+i_semi = 4,55 %
+Taux à utiliser : 4,55 % par semestre 
+Explication : On convertit le rendement trimestriel en taux semestriel équivalent pour respecter la fréquence des flux de coupons.
+4. Obligation d’entreprise avec coupons hebdomadaires et rendement nominal mensuel de 8 %
+Les flux sont hebdomadaires et le rendement est composé mensuellement. On cherche le taux hebdomadaire équivalent.
+(1 + 0,08/12)^12 = (1 + i_heb)^52
+i_heb = (1,082999)^(1/52) - 1 = 0,00153 = 0,153 %
+Taux à utiliser : 0,153 % par semaine (0,00153).
+Explication : Le taux doit être aligné avec la fréquence hebdomadaire des paiements.
+5. Obligation avec coupons annuels et rendement nominal trimestriel de 8 %
+Les flux sont annuels mais le rendement est composé trimestriellement. On doit donc convertir le taux trimestriel en taux annuel équivalent.
+(1 + 0,08/4)^4 = 1,08243
+i_annuel = 1,08243 - 1 = 0,08243 = 8,243 %
+Taux à utiliser : 8,243 % par an (0,08243).
+Explication : On convertit le taux trimestriel pour obtenir le taux annuel équivalent à appliquer à un flux annuel.
+6. Action privilégiée avec dividendes mensuels et taux de rendement effectif annuel de 9 %
+Les flux sont mensuels, le taux donné est effectif annuel. Il faut convertir ce taux en taux mensuel équivalent.
+(1 + 0,09) = (1 + i_mensuel)^12
+i_mensuel = (1,09)^(1/12) - 1 = 0,00721 = 0,721 %
+Taux à utiliser : 0,721 % par mois (0,00721).
+Explication : Le taux périodique mensuel équivalent au 9 % effectif annuel permet d’actualiser correctement chaque versement mensuel.
+7. Action privilégiée avec dividende annuel payable trimestriellement et taux effectif annuel de 8 %
+Le dividende annuel de 4 $ est versé en quatre versements trimestriels. Le taux de rendement exigé est de 8 % effectif annuel.
+(1 + 0,08) = (1 + i_tri)^4
+i_tri = (1,08)^(1/4) - 1 = 0,0194 = 1,94
+Taux à utiliser : 1,94 % par trimestre 
+Explication : On convertit le taux effectif annuel en taux trimestriel équivalent pour refléter la fréquence des dividendes.
+8. Rendement effectif annuel de 7 % – Trouver le taux semestriel et le taux nominal équivalent
+Le taux de rendement effectif annuel est de 7 %. On veut connaître les équivalents semestriels.
+(1 + 0,07) = (1 + i_semi)^2
+i_semi = (1,07)^(1/2) - 1 = 0,0344 = 3,44 %
+Taux semestriel équivalent : 3,44 % (0,0344). Taux nominal équivalent = 2 × 3,44 % = 6,88 %.
+Explication : Un taux effectif annuel de 7 % correspond à un taux nominal de 6,88 % à capitalisation semestrielle.
+9. Rente trimestrielle avec taux nominal mensuel de 12 %
+La rente paie des flux trimestriels, mais le taux est nominal composé mensuellement. On cherche le taux trimestriel équivalent.
+(1 + 0,12/12)^12 = (1 + i_tri)^4
+i_tri = (1,1268)^(1/4) - 1 = 0,0303 = 3,03 %
+Taux à utiliser : 3,03 % par trimestre (0,0303).
+Explication : On convertit le taux mensuel en taux trimestriel pour refléter la fréquence des versements de la rente.
+10. Rente viagère mensuelle avec taux semestriel de 6 %
+Le taux est composé semestriellement mais les paiements sont mensuels. On cherche le taux mensuel équivalent.
+(1 + 0,06/2)^2 = (1 + i_mensuel)^12
+i_mensuel = (1,0609)^(1/12) - 1 = 0,00494 = 0,494 %
+Taux à utiliser : 0,494 % par mois (0,00494).
+Explication : On convertit le taux semestriel en taux mensuel pour aligner avec les paiements mensuels.
+11. Convertir un taux nominal annuel de 12 % composé mensuellement en taux effectif annuel
+(1 + 0,12/12)^12 - 1 = 0,1268 = 12,68 %
+Taux effectif annuel : 12,68 %.
+Explication : Le taux effectif annuel représente le rendement total sur 12 mois, incluant la capitalisation mensuelle.
+12. Trouver le taux nominal annuel semestriel équivalent à un taux effectif annuel de 6,14 %
+(1 + 0,0614) = (1 + i_semi)^2
+i_semi = (1,0614)^(1/2) - 1 = 0,03025 = 3,025 %
+Taux nominal équivalent = 2 × 3,025 % = 6,05 %.
+Explication : Un taux effectif annuel de 6,14 % équivaut à un taux nominal de 6,05 % composé semestriellement.
+13. Trouver le taux effectif annuel équivalent à un taux nominal de 8 % composé trimestriellement
+(1 + 0,08/4)^4 - 1 = 0,08243 = 8,243 %
+Taux effectif annuel : 8,243 %.
+Explication : Un taux nominal de 8 % trimestriel équivaut à un taux effectif de 8,24 %.
+14. Convertir un taux nominal annuel trimestriel en taux mensuel équivalent
+Exemple : taux nominal 8 % composé trimestriellement. On cherche le taux mensuel équivalent.
+(1 + 0,08/4)^4 = (1 + i_mensuel)^12
+i_mensuel = (1,08243)^(1/12) - 1 = 0,00662 = 0,662 %
+Taux mensuel équivalent : 0,662 %.
+Explication : On égalise la valeur finale sur un an pour trouver le taux mensuel équivalent au taux trimestriel.
+15. Trouver le taux nominal composé mensuellement équivalent à un taux effectif annuel de 5 %
+(1 + 0,05) = (1 + i_mensuel)^12
+i_mensuel = (1,05)^(1/12) - 1 = 0,004074 = 0,407 %
+Taux nominal équivalent = 12 × 0,407 % = 4,88 %.
+Explication : Un taux effectif annuel de 5 % correspond à un taux nominal de 4,88 % composé mensuellement.

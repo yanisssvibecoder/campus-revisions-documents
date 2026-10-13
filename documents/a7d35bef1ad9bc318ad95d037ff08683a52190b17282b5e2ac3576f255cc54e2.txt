@@ -1,0 +1,22 @@
+8-9.1 | Activités/ressources AVANT la séance
+
+Séances 8 et 9
+Travail préparatoire
+LECTURES :
+Livre
+Gestion financière (4e ou 5e édition)
+Chapitre 9 (La valeur actualisée nette et les autres critères d'investissement)
+Chapitre 10 (La prise de décision en matière d'investissement)
+Pour le chapitre 10, référez-vous davantage l'approche financière d'évaluation de projet présentée dans les documents du site (capsules). Le livre a une approche plus comptable des FMs d'un projet. Une approche ou l'autre donnera toutefois le même résultat final (même VAN).
+Pour certaines sections:
+10.5 Préférable de ne pas considérer cette section (approche différente des capsules)
+10.6 Exclure : Valeur de récupération de la FNACC (aucune fermeture de catégorie)
+10.7 Exclure : L'évaluation d'équipements à durée de vie différente
+Important !
+S8 : Chapitre 9_critères de décision de projet-HEC.pptx
+S9 : Chapitre 10_évaluation de projet-HEC.pptx
+S8 : Capsule 1 - Les critères d'évaluation de projet
+S8 : Capsule 2 - Conflit VAN & TRI
+S9 : Capsule 1 - Principes de base de l'évaluation de projet
+S9 : Capsule 2 - L'analyse marginale & les FMs pertinents à l'étude d'un projet
+S9 : Capsule 3 - Autres FMs & impact fiscal

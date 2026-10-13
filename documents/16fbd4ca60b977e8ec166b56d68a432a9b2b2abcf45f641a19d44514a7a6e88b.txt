@@ -1,0 +1,564 @@
+## Diapositive 1
+
+Mobiliser lestechnologies numériques 	
+
+TECH 10701
+
+Développé parMarie-Claude Trudel
+
+Notes : Photo Martin LESAGE
+
+## Diapositive 2
+
+## Diapositive 3
+
+Au cœur des systèmes d’information: des algorithmes et de l’intelligence artificielle
+
+Séance 6
+
+## Diapositive 4
+
+Expliquer le passage d’un processus d’affaires à un algorithme et créer une automatisation simple à l’aide d’un outil sans code
+Distinguer les quatre fonctions de l’IA dans les organisations et les deux principaux types d’outils (prédictif et génératif) en les illustrant avec des exemples concrets
+Évaluer les avantages et les risques d’un système d’IA pour différentes parties prenantes en justifiant le rôle incontournable de la supervision humaine
+
+
+
+
+
+
+
+## Diapositive 5
+
+Retours
+ 
+
+Assimilation		
+
+Application
+
+Synthèse
+
+Plan de la séance
+
+## Diapositive 6
+
+Retour sur la séance 5
+
+## Diapositive 7
+
+Retour sur les exemples de cybersécurité
+
+Suite des discussions de la fin de la séance 5
+Ce qu’on retient?
+Enjeux
+Cybersécurité et Gestion 	
+Cybersécurité et TI
+
+
+
+
+## Diapositive 8
+
+Enjeux
+
+Une menace réelle pour toutes les organisations
+Peu avoir des impacts très importants
+On doit avoir un cyber-hygiène et cyber-résilience
+On est tous responsables de nos actions et des actions de notre organisation
+
+
+
+
+## Diapositive 9
+
+Retour sur le parcours
+
+## Diapositive 10
+
+Du processus à l'algorithme
+
+Selon le parcours d’apprentissage, qu’est-ce qui distingue un processus d’affaires d’un algorithme?
+Donnez un exemple d’activité du processus de la pizzeria qui pourrait être codée comme un algorithme.
+
+
+
+Un processus décrit ce que font les personnes. 
+Un algorithme décrit ce que fait le système, selon des règles définies à l’avance.
+
+## Diapositive 11
+
+Composantes d'un algorithme
+
+lorsqu’une commande passe au statut «Livrée» 
+si la date de livraison est vide 
+inscrire la date du jour dans le champ Date_Livraison de la table Suivi
+
+
+
+
+
+
+
+## Diapositive 12
+
+Composantes d’un algorithme
+
+Composante | Rôle | Dans Airtable
+
+Déclencheur | Ce qui active l'algorithme | Un enregistrement est créé ou modifié
+
+Condition | La règle à vérifier | Si le champ Statut = « Livrée »
+
+Action | Ce que le système fait | Mettre à jour la date de livraison dans Suivi
+
+## Diapositive 13
+
+Passage conceptuel à logique avec lien ∞ à ∞ 
+
+Dans votre parcours, pourquoi ne suffit-il pas d’ajouter un champ Statut directement dans la table Commande?
+
+## Diapositive 14
+
+Assimilation du parcours
+
+## Diapositive 15
+
+Architecture informatique en 3 couches Rappel
+
+
+
+Serveur d’application
+
+Système de gestion de base de données
+
+Base de données
+
+Couche données
+
+Couche application
+
+Couche présentation
+
+Back-end
+
+Front-end
+
+Interface #1
+
+
+
+Interface #2
+
+Interface #3
+
+
+
+
+
+## Diapositive 16
+
+Synthèse et nouvelles notions sur Softr
+
+Créer ou réviser le formulaire Client et le formulaire Article à l’aide du fichier Airtable suivant : https://airtable.com/appHER5zD0vcMGKxn/shrUekn8BvubJbGZh 
+Créer un formulaire Commande
+Ajuster la page d’accueil pour pouvoir atteindre le formulaire Commande
+Pour chaque élément, faites tous les paramétrages pour personnaliser les boutons et les messages
+Ajuster la taille des champs dans les formulaires pour avoir une bonne mise en page
+
+
+
+## Diapositive 17
+
+Créer le formulaire d’ajout d’une Commande
+
+
+Saurez-vous arriver à ce résultat?
+
+Lorsque nous prévisualisons et testonsle formulaire, est-ce qu’il a le comportementsouhaité?
+
+
+## Diapositive 18
+
+Modification du champ principal
+
+L’application Softr synchronise systématiquement avec le champ principal de la table Airtable, qui est le champ Name. Lorsque ces champs sont vides, rien n’est retourné dans la liste déroulante. Si la fonction de concaténation de la séance 5 a été réussie, alors nous avons des clients à choisir.
+
+
+## Diapositive 19
+
+Modification du champ principal
+
+Retournons à Airtable pour automatiser la population de ce champ avec des éléments importants et parlants.
+
+## Diapositive 20
+
+Création du formulaire Détail commande
+
+Présenter les enjeux
+Faire les manipulations en démo
+
+Durée : 15 minutes
+
+
+
+## Diapositive 21
+
+Créer l'application Pizzeria avec l'IA Softr
+
+Utiliser l’IA de Softr pour générer une première version de l’application, puis évaluer et corriger ce qu’elle a produit
+Étape 1 — Décrire l’application (3 min) 
+Je gère une pizzeria. J’ai une base de données Airtable avec les tables suivantes : Client, Commande, Article, Detail_Commande, Suivi. Je veux une application web qui permet à un employé de saisir de nouvelles commandes, de consulter la liste des commandes en cours et de mettre à jour leur statut.
+Étape 2 — Observer ce que l’IA a produit (3 min)
+Les bonnes pages sont-elles créées? 
+Les liens entre tables sont-ils corrects? 
+Les droits d’accès sont-ils configurés? 
+La page Suivi est-elle utile?
+
+## Diapositive 22
+
+Créer l'application Pizzeria avec l'IA Softr
+
+Étape 3 — Corriger et compléter (10 min)
+Ajuster ce que l’IA a mal configuré ou omis. Connecter les tables manquantes, corriger les droits d’accès, ajouter la page Suivi si elle est absente.
+Étape 4 — Retour collectif (4 min)
+
+Question | Ce que l'IA décide | Ce que l'étudiant doit décider
+
+Les bonnes pages sont-elles créées? | Génère des pages à partir des tables | Ne sait pas quelles pages sont utiles pour un employé vs un gestionnaire
+
+Les liens entre tables sont-ils corrects? | Reprend les liens Airtable | Ne comprend pas la logique métier derrière les permissions
+
+Les droits d'accès sont-ils configurés? | Peut proposer des rôles génériques | Ne sait pas qui voit quoi dans ce contexte précis
+
+La page Suivi est-elle utile? | Génère une page si la table existe | Ne sait pas à quelle fréquence le statut doit être mis à jour
+
+## Diapositive 23
+
+Nouvelle matière
+
+## Diapositive 24
+
+Des algorithmes à l’intelligence artificielle
+
+À la base de l’intelligence artificielle, il y a des formes d’algorithmes plus complexes que ceux que nous avons vus jusqu’à maintenant.
+Dans ce cours, nous définissons l’intelligence artificielle comme l’ensemble des techniques permettant aux ordinateurs de simuler et de reproduire l’intelligence humaine.
+Autrement dit, il s’agit de la capacité d’une machine (ordinateur/robot) à automatiser ou à effectuer des tâches habituellement associées à un être humain.
+Le type d’algorithme qui sous‑tend l’intelligence artificielle moderne est appelé apprentissage automatique (machine learning).
+
+## Diapositive 25
+
+IA et apprentissage automatique (machine)
+
+L’apprentissage automatique désigne «des algorithmes capables d’apprendre les modèles présents dans les données d’entraînement et, par la suite, de formuler des inférences précises sur de nouvelles données. 
+Les algorithmes d’apprentissage automatique ne peuvent être efficaces que dans la mesure où les données utilisées pour leur apprentissage le sont :
+Intrants erronés, extrants erronés.
+Pensez à l’exemple de l’ourson bleu présenté dans les vidéos.
+
+
+
+## Diapositive 26
+
+Fonctions et finalités de l’IA
+
+Les organisations utilisent l’intelligence artificielle parce qu’elle les aide à répondre à quatre grands besoins d’affaires :
+Automatiser les processus opérationnels
+Effectuer un pré‑tri des CV de candidats
+Obtenir des insights grâce à l’analyse de données
+Recommander des produits à un client en fonction de ses achats
+Interagir avec les clients et les employés
+Utiliser un chatbot pour le service à la clientèle
+Générer rapidement des artefacts
+Résumé d’épisodes de série télévisée
+
+
+## Diapositive 27
+
+
+
+
+
+Outils d’IA prédictive et générative
+
+IA prédictive
+
+IA générative
+
+Effectuent des prédictions à partir de données historiques afin de fournir des recommandations, des prévisions et des diagnostics.
+
+Prend d’énormes ensembles de données et produit du «nouveau» contenu — texte, images, audio, code, vidéos, etc. — qui ressemble aux données d’entraînement ou les prolonge.
+
+## Diapositive 28
+
+IA prédictive
+
+L’IA prédictive utilise des données historiques et, grâce aux algorithmes d’apprentissage automatique ainsi qu’aux technologies et processus numériques de soutien, analyse les tendances passées afin de prédire à quoi l’avenir pourrait ressembler.
+
+
+
+
+Collecte de données
+
+Nettoyage des données
+
+Entraînement du modèle
+
+Déploiement
+
+Maintenance
+
+## Diapositive 29
+
+
+
+
+
+
+
+Exemples d’IA prédictive
+
+Détection des risques
+
+Analytique prédictive
+
+Systèmes de recommandation
+
+Détecter les connexions inhabituelles
+Reconnaître les anomalies dans les activités des utilisateurs
+Signaler les courriels, mots-clés et liens suspects
+Déceler des schémas de dépenses anormaux et des lieux de dépenses inhabituels
+
+Prévision des tendances sectorielles et des tendances du marché
+Prévision des pannes futures d’équipement pour la maintenance prédictive
+Prévision des résultats pour les patients
+Prévision météorologique
+
+Recommandations de candidats à l’emploi
+Recommandations de contenu pour les services de diffusion en continu
+Filtrage algorithmique sur les médias sociaux
+Entreprises de plateforme dans le covoiturage, la livraison de repas et les applications de rencontre
+
+## Diapositive 30
+
+
+
+IA générative
+
+L’IA générative utilise de vastes ensembles de données et des architectures neuronales, telles que les transformeurs pour apprendre des motifs probabilistes et créer du « nouveau contenu » comme du texte, des images, de l’audio ou de la vidéo.
+
+
+Génération de texte
+Génération d’images
+Génération audio
+Génération vidéo
+
+Requête
+
+Instructions
+
+Modèle
+
+TÂCHES
+
+INTRANTS
+Texte
+Images
+Paroles
+Données structurées
+
+Entraînement
+
+
+
+Génération
+
+## Diapositive 31
+
+
+
+
+
+
+
+Exemples d’IA générative
+
+Création de contenu
+
+Personnalisation
+
+Simulations
+
+Génération de texte par les modèles de langage (LLM)
+Création d’images
+Musique générée par l’IA
+Vibe coding
+Résumés automatiques
+Diapositives de présentation
+
+Support à la clientèle
+Assistants de réunion IA
+Tutorat, formation et développement assistés par l’IA
+Compagnons et outils de soutien IA
+Organisation et planification
+Divertissement
+
+Génération de scénarios pour la formation stratégique
+Humains numériques pour la modélisation et la formation des employés
+Jumeaux numériques à l’échelle d’une ville pour la gestion des risques «what‑if»
+Deepfakes
+Médias sociaux pour l’IA
+
+## Diapositive 32
+
+
+
+
+
+
+
+
+Rappel : les systèmes d’information incluent la technologie et les personnes (Semaine 1).
+Comme pour toute technologie, il est possible de réfléchir à la valeur que l’IA apporte aux différents acteurs, ainsi qu’aux risques qui peuvent se matérialiser lors de son utilisation.
+
+Évaluation critique des avantages et des risques
+
+L’IA peut automatiser ou augmenter le travail de manière nouvelle et marquante, et ne devrait pas être évaluée uniquement en termes techniques (p. ex. : qualité des données, exactitude du modèle, ou coût).
+Automatisation par l’IA : remplacement des travailleurs humains.
+Augmentation par l’IA : collaboration avec les travailleurs.
+
+## Diapositive 33
+
+	Évaluation critique des avantages et des risques
+
+En automatisant et en augmentant le travail, l’IA peut assumer différents rôles, entraînant des conséquences distinctes pour les parties prenantes
+Les activités «cœur métier» sont essentielles à la contribution d’un travailleur à l’organisation, contrairement aux activités périphériques.
+
+ |  | Mode d’utilisation | 
+
+ |  |        Augmentation |        Automatisation
+
+Tâche | Coeur métier | L’IA supporte des tâches au cœur du métier | L’IA prend en charge des tâches au cœur du métier
+
+ | Périphérique | L’IA supporte des tâches périphériques | L’IA prend en charge des tâches périphériques
+
+## Diapositive 34
+
+Évaluation critique des avantages et des risques
+
+Perspective | Bénéfices potentiels | Risques potentiels
+
+Société | Amélioration de l’accès aux services et à l’information numériques | Érosion de la confiance envers les institutions et l’information
+
+ | Productivité économique accrue et innovation | Pollution liée à l’infrastructure et à la demande énergétique
+
+ | Nouvelles industries et nouveaux types d’emplois | Surveillance accrue et mauvaise utilisation des données
+
+Organisation | Productivité et efficacité accrues | Coûts élevés de mise en œuvre et de maintenance
+
+ | Meilleure prise de décision basée sur les données | Dépendance à l’égard de la technologie et des fournisseurs
+
+ | Avantage concurrentiel | Risques juridiques ou réputationnels
+
+Employés | Soutien aux tâches et au traitement de l’information | Déplacement ou remplacement d’emplois
+
+ | Soutien à la prise de décision complexe | Surdépendance et mauvaises décisions si les modèles sont défaillants
+
+ | Réduction de la charge de travail pour les tâches répétitives | Perte de compétences, diminution de l’apprentissage, réduction de l’autonomie
+
+Clients | Services plus rapides et plus personnalisés | Préoccupations en matière de confidentialité
+
+ | Qualité de service plus uniforme | Biais algorithmiques ou résultats injustes
+
+ | Meilleur accès à l’information et aux services | Réduction des interactions humaines
+
+## Diapositive 35
+
+Application
+
+## Diapositive 36
+
+Coder l'algorithme de suivi dans Airtable
+
+Étape 1 — Identifier la règle d’affaires (3 min)
+Quelle règle d’affaires voulez-vous que votre système applique automatiquement sans qu’un employé ait à intervenir?
+Étape 2 — Traduire en déclencheur/condition/action (2 min)
+Étape 3 — Construire l’automatisation dans Airtable (15 min)
+Étape 4 — Tester (5 min)
+
+
+
+## Diapositive 37
+
+Questions de réflexion
+
+L’IA de Airtable a-t-elle pu créer cette automatisation à votre place? Pourquoi?
+Votre automatisation Airtable aurait-elle pu décider toute seule que c’est le statut «Livrée» qui doit déclencher l’enregistrement? Pourquoi?
+Qui a réellement pris les décisions dans ce système — vous, l’algorithme ou l’IA?
+
+
+
+
+## Diapositive 38
+
+Trois niveaux dans votre système
+
+
+
+ | Décide quoi? | Exécute quoi? | Peut se tromper?
+
+Vous (gestionnaire) | Les règles d’affaires | Rien — vous configurez | Oui, en définissant mal la règle
+
+L’algorithme (automatisation Airtable) | Rien — il suit les règles | La règle exactement | Indirectement, lorsque le déclencheur ou la condition est mal configuré
+
+L’IA (Softr, ChatGPT) | Propose une structure générique | Génère du contenu plausible | Oui, sans comprendre le contexte métier
+
+La valeur du gestionnaire en TI : Définir des règles que les systèmes peuvent exécuter de façon fiable.
+
+## Diapositive 39
+
+Synthèse
+
+## Diapositive 40
+
+Si vous souhaitez continuer à apprendre sur l’IA
+
+Pour approfondir votre compréhension de l’IA et de ses impacts sur les industries et les pratiques professionnelles, vous pouvez accéder à une formation en ligne conçue par le Tech3Lab et IVADO (consortium de recherche, de formation et de mobilisation des connaissances en intelligence artificielle) :
+ https://ivado.ca/en/2026/01/22/tech3lab-and-ivado-launch-professional-training-program-professional-practice-in-the-artificial-intelligence-ai-era/
+Inscrivez-vous à la formation pour obtenir l’accès.Vous pourrez ensuite consulter tout le matériel de formation et tester vos connaissances sur différents sujets liés à l’IA.
+La formation complète n’est pas au programme de l’examen; seul le matériel sélectionné pour ce cours est évalué.
+
+## Diapositive 41
+
+La suite du cours d’aujourd’hui dans la spécialisation
+
+TECH 20704	Savoir programmer : compétences essentielles
+TECH 20705 	Mobiliser l’intelligence artificielle dans les organisations
+TECH 20711	Développer un produit numérique
+
+
+
+## Diapositive 42
+
+Les métiers impliqués dans le cours d’aujourd’hui
+
+
+
+## Diapositive 43
+
+Les autres spécialisations dans le cours d’aujourd’hui
+
+Toutes les spécialisations sont touchées!!!
+
+
+
+
+
+
+## Diapositive 44
+
+À faire pour la semaine prochaine
+
+Lire le texte intitulé «Documentation sur les récits utilisateur en projets agiles»
+Poursuivre votre travail d’équipe #1, l’échéance arrive vite!
+
+

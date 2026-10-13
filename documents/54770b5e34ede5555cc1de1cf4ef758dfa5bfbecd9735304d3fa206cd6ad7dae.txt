@@ -1,0 +1,293 @@
+EXAMEN INTRA - SOLUTIONNAIRE
+Question 1	(24 points)
+Question 1.1 (4 points)
+Nommez les deux attributs stratégiques principaux de cette entreprise. Justifiez brièvement chacune de vos réponses.
+Volume : 3 024 producteurs laitiers au Québec. Un des plus grands transformateurs au monde
+Variété : vaste gamme de produits laitiers
+Qualité : produit naturel répondant aux plus hauts standards de qualité
+Question 1.2 (5 points)
+Donnez un exemple de chacun des éléments du système opérationnel d’Agropur pour la production d’un litre de lait au chocolat. Soyez spécifique et concret dans vos réponses.
+Intrants : lait, cacao, autres ingrédients 
+Transformation : mélange des ingrédients, fabrication du lait au chocolat
+Extrants : lait au chocolat prêt pour la vente
+Ressource : employés, équipements, installations
+Rétroaction : taux de retour, contrôle qualité mesurable
+Question 1.3 (9 points)
+Nommez et expliquez brièvement un élément de l’environnement politique/légal et un élément de l’environnement social pouvant influencer la demande pour cette entreprise.
+Politique / légal :
+Le prix du lait est réglementé au Québec
+Normes de salubrité des aliments
+Taxe sur les produits laitiers
+Économique : 
+Le taux d’inflation affecte la capacité d’achat des consommateurs 
+Compétition de d’autres types de lait (soya, amandes, etc.)
+Compétition internationale
+Social : 
+Volonté d’acheter québécois/canadien
+Goût des consommateurs pour les produits laitiers
+Population vieillissante (les enfants boivent plus de lait que les adultes)
+Montée du végétalisme
+Question 1.4 (6 points)
+La gestion des opérations nécessite plusieurs niveaux de décisions. Donnez un exemple relié à la GOL de décision stratégique, un exemple relié à la GOL de décision tactique et un exemple relié à la GOL de décision opérationnelle qui devront être prises par cette entreprise au cours des prochaines années, des prochains mois ou encore des prochains jours.
+Décision stratégique :
+Localisation de nouvelles usines / nouveaux centres de distribution
+Choix des fournisseurs principaux
+Développement de nouveaux produits
+Décision tactique :
+Choix des fournisseurs secondaires, réapprovisionnement
+Planification de la production (PGP, PDP, PBM)
+Embauche de personnel
+Gestion des stocks
+Décision opérationnelle :
+Gestion des clients insatisfaits
+Gestion des retours
+Assignation des tâches quotidiennes 
+Gestion des imprévus
+Question 2 (16 points) 
+Question 2.1 (3 points)
+Les dirigeants de Grande Récolte devraient-ils utiliser des méthodes de prévisions qualitatives ou quantitatives pour prévoir les ventes du cidre mousseux? Justifiez bien votre réponse. (2 points)
+Qualitatives. Nouveau produit donc pas de données historiques
+Proposez une méthode de prévision pour ce produit. (1 point)
+Analogie historique
+Question 2.2 (4 points)
+Question 2.3 (8 points)
+Trouvez les trois données demandées dans le tableau ci-dessus. Justifiez vos réponses à l’aide d’un calcul approprié. (6 points)
+7053 = 7 888 + 7021 + 6587 + A
+                           4
+A = 6716
+B doit être calculé en premier alors suivre l’erreur de B ici
+7457 = 8 332 + 7 888 + 7021 + B
+                            4
+B = 6 587
+Pjuin = Pmai + α (erreur de mai)
+6 870 = 6 769 + 252α
+α = 0,4
+Le même calcul peut être fait à l’aide de n’importe quelle période avec le même résultat. On peut aussi utiliser la formule sous l’autre forme ou le lissage exponentiel avec alpha = 0,4.
+Que nous indique l’écart moyen de chacune des méthodes? (2 points)
+Les deux méthodes sont biaisées. 
+Ou le lissage exponentiel est moins biaisé. 
+Quelle est la raison principale qui explique ce résultat? (1 point)
+Il y a une tendance à la hausse donc les deux méthodes sous-estiment la demande. 
+Question 3 (11 points) 
+Question 3.1 (5 points)
+Selon la méthode de la classification ABC vue en classe, répartissez les items ci-dessus dans chacune des classes ci-dessous. (3 points)
+Il est important d’avoir plus de C que de B et plus de B que de A. Avec seulement six articles, cette classification est la seule solution possible. 
+Quel système de gestion des stocks recommanderiez-vous pour les items de la classe A? Justifiez bien votre réponse. (2 points)
+Système à point de commande. A niveau de service égal, le stock de sécurité nécessaire étant plus petit, ce modèle coûte moins cher. 
+Question 3.2 (6 points)
+Le produit Ventilateur (du tableau de la page 6) a une demande annuelle relativement stable de 30 000 unités avec un écart type de 72 unités par semaine. L’entreprise doit débourser 25 $ à chaque fois qu’elle place une commande. Le délai de livraison est d’une semaine. On estime le coût annuel d’entreposage de cet item à 9 % du coût d’acquisition unitaire. On compte 52 semaines dans une année chez Angela Inc. On voudrait utiliser le réapprovisionnement périodique pour cet item. 
+Si l’objectif est de minimiser le coût total, à quelle fréquence (en semaines) devrait-on placer les commandes? (3 points)
+QEC = √ (2 x 30 000 x 25 / 2,70) = 745,4 soit 745 ou 746 			
+µ = 30 000 / 52 = 576,92 unités par semaine							
+Iopt = 745 / 576,92 = 1,3 semaine 
+Selon l’intervalle de commande calculé en a), quel niveau de stock de sécurité devra être conservé pour cet item si on désire maintenir un risque de pénurie de 3 %? (3 points)
+SS = 1,88 x √(1,3 + 1) x 72 = 205,28 soit 206.
+Question 4 (14 points)
+Combien de téléviseurs seront commandés aujourd’hui? (3 points)
+L’écart type étant exprimé en unités par mois, le délai de livraison doit être exprimé en mois (10 jours = 0,5 mois)
+Qc = 6 x (1 + 0,5) + (1,475 x √(1 + 0,5) x 1,5) – 5
+Qc =           9         +                 2,71                 - 5   = 6,71 soit 7 téléviseurs
+Quel est le coût total annuel de gestion des stocks (coût d’entreposage et coût de commande) des téléviseurs 50 pouces? (4 points)
+Qc moyenne = On place une commande par mois donc la quantité moyenne commandée est de 6 (ventes moyennes mensuelles).
+CT = (6/2 + 3) x 87 $ + (12 x 85 $) 
+CT =        522 $         +    1 020 $
+CT = 1 542 $
+Combien l’entreprise sauverait-elle annuellement si elle optait pour un système à point de commande? (7 points)
+QEC = √ (2 x 72 x 85 / 87) = 11,86 soit 12
+SS = 1,475 x √0,5 x 1,5 = 1,56 soit 2						
+CT = (12 / 2 + 2) x 87 $ + (72/12 x 85 $)
+CT =       696 $              +        510 $
+CT =  1 206 $
+Économie : 1 542 – 1 206 = 336 $
+Question 5 (14 points)
+5.1	a		   (la stratégie synchrone implique plusieurs mouvements de main-d’œuvre)
+5.2	e
+5.3	d		   (avoir plus d’espace ne donne pas les moyens de produire plus)
+5.4	b		
+5.5	b		
+5.6	c		   (3/26 = 11,5 % au mois 9)
+Question 6 (21 points)
+Question 6.1 (3 points)
+Taille de lot : min. 200
+Délai : 2 semaines
+Stock de début : 414
+Question 6.2 (7 points)
+Planification sommaire des capacités 
+Grille de PDP SOLUTION 1 DE 3
+Planification sommaire des capacités
+Grille de PDP SOLUTION 2 DE 3
+Planification sommaire des capacités
+Grille de PDP SOLUTION 3 DE 3
+Cette solution n’est optimale car elle coûtera plus cher d’entreposage
+Planification sommaire des capacités
+Question 6.3 (4 points)
+Dans cette nomenclature, identifiez le(s) article(s) dont la demande est dépendante?     (2 points)
+Tu, Fr, Qp, Mo, Sp, Ig 
+Quelle est l’horizon minimum de planification du composant Doo24?   (2 points) 
+6 semaines 
+Note : Le plan détaillé du Doo24 (haut de la page 15) montre qu’il y a un délai d’assemblage de une semaine pour le produit fini. 
+Question 6.4 (7 points)
+Éléments | Prévisions
+Oui / Non | Raison
+Élément 1 : bouteilles vides
+
+ | Non | Demande dépendante
+Élément 2 : bouteilles de cidre de glace prêtes à la vente
+ | Oui | Demande indépendante, vient du marché
+A | B | C
+Microprocesseur | Carte maîtresse
+Boîtier | Ventilateur
+Carte mémoire
+Souris
+5.7	  b	 | (Mise à pied + embauche = 5 000 $, salaire mensuelle = 2 000 $, on peut donc payer 2 mois de salaire. À partir de 3 mois, les coûts de salaire sont plus élevés que les coûts de variation da main d’œuvre).
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 | 150 | 150 | 225 | 375 | 
+Capacité requise pour le Doo44 |  |  | 40 | 40 | 80
+Total
+ | 150 | 150 | 265 | 415 | 80
+Capacité disponible
+ | 150 | 150 | 35 | (115) | 220
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo32 | X 25 | X 25 | 1 | 1 | 42 | 42 | 3 | 3
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 36 | 40 | 40 | 60 | 60 | 70 | 70 | 90
+Commandes acceptées
+ | 38 | 24 | 24 | 52 | 52 | 78 | 78 | 105
+Stock projeté
+ | 4 | 14 | 14 | 29 | 29 | 26 | 26 | 21
+Stock disponible à la vente | 4 | 26 | 26 | 23 15 | 23 15 | -3 0 | -3 0 | -5 0
+Réceptions planifiées
+ |  | 50 | 50 | 75 | 75 | 75 | 75 | 100
+Lancements planifiés
+ | 50 | 75 | 75 | 75 | 75 | 100 | 100 | 
+  |   |   |   |   |   |   |   |   |  
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo44 | X 20 | X 20 | 0 | 0 | 26 | 26 | 2 | 2
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 10 | 14 | 14 | 16 | 16 | 24 | 24 | 30
+Commandes acceptées
+ | 9 | 16 | 16 | 16 | 16 | 22 | 22 | 36
+Stock projeté
+ | 16 | 20 | 20 | 24 | 24 | 0 | 0 | 4
+Stock disponible à la vente | 17 3 | 4 0 | 4 0 | -18 0 | -18 0 |  |  | 4
+Réceptions planifiées
+ |  | 20 | 20 | 20 | 20 |  |  | 40
+Lancements planifiés
+ |  | 20 | 20 | 20 | 20 |  |  | 40
+  |   |   |   |   |   |   |   |   |   |  
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 | 150 | 225 | 225 | 300 | 
+Capacité requise pour le Doo44 |  | 40 | 40 |  | 80
+Total
+ | 150 | 265 | 265 | 300 | 80
+Capacité disponible
+ |  |  |  |  | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo32 | X 25 | X 25 | 1 | 1 | 42 | 42 | 3 | 3
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 36 | 40 | 40 | 60 | 60 | 70 | 70 | 90
+Commandes acceptées
+ | 38 | 24 | 24 | 52 | 52 | 78 | 78 | 105
+Stock projeté
+ | 4 | 14 | 14 | 4 | 4 | 26 | 26 | 21
+Stock disponible à la vente | 4 | 26 24 | 26 24 | -2 0 | -2 0 | 22 17 | 22 17 | -5 0
+Réceptions planifiées
+ |  | 50 | 50 | 50 | 50 | 100 | 100 | 100
+Lancements planifiés
+ | 50 | 50 | 50 | 100 | 100 | 100 | 100 | 
+  |   |   |   |   |   |   |   |   |  
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo44 | X 20 | X 20 | 0 | 0 | 26 | 26 | 2 | 2
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 10 | 14 | 14 | 16 | 16 | 24 | 24 | 30
+Commandes acceptées
+ | 9 | 16 | 16 | 16 | 16 | 22 | 22 | 36
+Stock projeté
+ | 16 | 40 | 40 | 24 | 24 | 0 | 0 | 4
+Stock disponible à la vente | 17 3 | -14 0 | -14 0 |  |  |  |  | 4
+Réceptions planifiées
+ |  | 40 | 40 | 0 | 0 | 0 | 0 | 40
+Lancements planifiés
+ |  | 40 | 40 | 0 | 0 | 0 | 0 | 40
+  |   |   |   |   |   |   |   |   |   |  
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 | 150 | 150 | 300 | 300 | 
+Capacité requise pour le Doo44 |  | 80 | 0 | 0 | 80
+Total
+ | 150 | 230 | 300 | 300 | 80
+Capacité disponible
+ |  |  |  |  | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo32 | X 25 | X 25 | 1 | 1 | 42 | 42 | 3 | 3
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 36 | 40 | 40 | 60 | 60 | 70 | 70 | 90
+Commandes acceptées
+ | 38 | 24 | 24 | 52 | 52 | 78 | 78 | 105
+Stock projeté
+ | 4 | 14 | 14 | 54 | 54 | 51 | 51 | 21
+Stock disponible à la vente | 4 | 26 | 26 | 48 15 | 48 15 | -3 0 | -3 0 | -30 0
+Réceptions planifiées
+ |  | 50 | 50 | 100 | 100 | 75 | 75 | 75
+Lancements planifiés
+ | 50 | 100 | 100 | 75 | 75 | 75 | 75 | 
+  |   |   |   |   |   |   |   |   |  
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | Unités équivalentes | Unités équivalentes
+Doo44 | X 20 | X 20 | 0 | 0 | 26 | 26 | 2 | 2
+Semaine | Jan. 1 | Jan. 2 | Jan. 2 | Jan. 3 | Jan. 3 | Jan. 4 | Jan. 4 | Fév. 1
+Prévisions
+ | 10 | 14 | 14 | 16 | 16 | 24 | 24 | 30
+Commandes acceptées
+ | 9 | 16 | 16 | 16 | 16 | 22 | 22 | 36
+Stock projeté
+ | 16 | 0 | 0 | 4 | 4 | 0 | 0 | 4
+Stock disponible à la vente | 1 |  |  | 4 2 | 4 2 | -2 0 | -2 0 | 4
+Réceptions planifiées
+ |  |  |  | 20 | 20 | 20 | 20 | 40
+Lancements planifiés
+ |  |  |  | 20 | 20 | 20 | 20 | 40
+  |   |   |   |   |   |   |   |   |   |  
+Semaine | Jan. 1 | Jan. 2 | Jan. 3 | Jan. 4 | Fév. 1
+Capacité requise pour le Doo32 | 150 | 300 | 225 | 225 | 
+Capacité requise pour le Doo44 |  | 0 | 40 | 40 | 80
+Total
+ | 150 | 300 | 265 | 265 | 80
+Capacité disponible
+ |  |  |  |  | 
+Article | Taille de lot | Délai | En stock
+Tu | X 125 | 1 | 120
+Semaine | 1 | 2 | 3 | 4 | 5 | 6
+ |  |  |  |  |  | 
+Doo24 x 1 |  |  |  |  |  | 
+ |  |  |  |  |  | 
+Besoin brut total |  | 20 | 40 | 160 | 200 | 
+Stock disp. projeté | 120 | 100 | 60 | 25 | 75 | 
+Besoin net |  |  |  | 100 | 175 | 
+Réception planifiée |  |  |  | 125 | 250 | 
+Lancement planifié |  |  | 125 | 250 |  | 
+Article | Taille de lot | Délai | En stock
+Qp | Min. 300 | 1 | 150
+Semaine | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 5 | 6
+ |  |  |  |  |  |  |  |  | 
+Tu x 3 |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | 
+Besoin brut total |  |  |  | 375 | 375 | 750 | 750 |  | 
+Stock disp. projeté | 150 | 150 | 150 | 75 | 75 | 0 | 0 |  | 
+Besoin net |  |  |  | 225 | 225 | 675 | 675 |  | 
+Réception planifiée |  |  |  | 300 | 300 | 675 | 675 |  | 
+Lancement planifié |  | 300 | 300 | 675 | 675 |  |  |  | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock
+Fr | 3 sem. | 3 sem. | 2 | 2 | 1 000 | 1 000
+Semaines | 1 | 2 | 3 | 4 | 5 | 6
+Doo24 x 2 |  | 40 | 80 | 320 | 400 | 
+Qp x 3 |  | 900 | 2 025 |  |  | 
+ |  |  |  |  |  | 
+Besoin brut total |  | 940 | 2 105 | 320 | 400 | 
+Stock disp. projeté | 1 000 | 60 | 720 | 400 | 0 | 
+Besoin net |  |  | 2 045 |  |  | 
+Réception planifiée |  |  | 2 765 |  |  | 
+Lancement planifié | 2 765 |  |  |  |  | 

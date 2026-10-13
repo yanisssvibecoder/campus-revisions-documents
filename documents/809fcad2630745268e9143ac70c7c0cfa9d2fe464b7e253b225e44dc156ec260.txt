@@ -1,0 +1,24 @@
+Prévision de la demande – Aquanova Québec (15 points) – Solution
+Question 1 (2 points)
+Ces deux graphiques permettent d’analyser les composantes de la demande :
+1) Demande mensuelle par année (une ligne par année) :
+2) Série temporelle complète (une seule ligne) :
+Question 2 (2 points)
+Composante résiduelle (aléatoire) : présente (variabilité mensuelle autour des profils saisonniers).
+Saisonnalité : présente (pics récurrents en fin d’été/début d’automne et creux au printemps).
+Tendance : baisse graduelle du niveau moyen au fil des années.
+Cycle : non apparent (la périodicité dominante est annuelle, donc saisonnière).
+Question 3 (6 points)
+Les prévisions mensuelles 2025 sont présentées dans le fichier Excel (onglet « Q3 – Q4 - Prévisions arrondies »).
+Question 4 (3 points)
+Comparaison des méthodes (EM et EQM sur 2025) :
+Tous les résultats d’écarts moyens étant négatifs, il est possible de conclure que toutes les méthodes surestiment la demande future. La demande moyenne mensuelle de 2025 étant de 5 554, on peut conclure que les quatre méthodes sont très peu biaisées.
+La méthode recommandée est « Lissage exponentiel 0,25 », puisqu’elle présente le plus petit écart quadratique moyen (EQM) sur l’année 2025, il s’agit donc de la méthode la plus précise.
+Question 5 (2 points)
+À la question 2, nous avons conclu qu’il y avait une tendance à la baisse pour la demande du polymère AQ-77. Il est donc normal que les méthodes de moyennes, qui utilisent les données du passé surestiment la demande future. Le choix d’un α relativement faible (0,25) est cohérent avec une demande où la variation aléatoire demeure importante : un α plus faible lisse davantage le bruit et évite de surréagir à des fluctuations mensuelles. Même si une saisonnalité et une tendance sont observables, les méthodes testées ici ne modélisent pas explicitement la saisonnalité; dans ce contexte, un lissage plus prudent peut améliorer la performance. Cela illustre l’importance de combiner analyse qualitative (composantes) et tests quantitatifs (mesures d’erreur) pour sélectionner une méthode de prévision.
+©OPER10500 Gestion des opérations, HEC Montréal, 2026
+Méthode | EM 2025 | EQM 2025
+Moyenne mobile, k = 6 | -20 | 49 602
+Moyenne mobile pondérée, k = 4 (10%-20%-30%-40%) | -12 | 41 231
+Lissage exponentiel, α = 0,25 | -21 | 38 692
+Lissage exponentiel, α = 0,75 | -8 | 40 578

@@ -1,0 +1,147 @@
+EXAMEN FINAL - SOLUTIONNAIRE
+Question 1  (15 points)
+« Le Caméléon est le premier d’une série de produits similaires. Pour ces derniers, nous devrions considérer une stratégie de production nivelée étant donné le haut niveau de qualification requis pour la main-d’œuvre ». 
+Vrai. La stratégie de nivellement ayant comme avantage une stabilité de la main-d’œuvre, elle est toute indiquée lorsqu’on veut conserver de la main-d’œuvre qualifiée.
+« Les boîtes qui serviront à emballer le Caméléon sont commandées selon le modèle du point de commande. Il semble que les coûts unitaires de commande aient été sous-estimés. Il faudra donc revoir à la hausse la quantité économique à commander ».
+Vrai. Étant donné les coûts de commande plus élevées, on voudra commander moins souvent, donc en lots plus grands.
+« Il faudrait se dépêcher à développer une méthode de prévision pour la composante XR-99. Les prévisions faites pour le Caméléon nous donne une petite idée des besoins mais on doit aussi faire des prévisions pour les composantes ».
+Faux. On ne fait pas de prévision pour les composantes étant donné que ce sont des items à demande dépendante. On calcule les besoins selon les lancements planifiés des items parents.
+« Cette composante devrait être commandée en « Lot pour Lot ». C’est la meilleure façon de s’assurer de limiter les coûts de commande et les coûts d’entreposage, étant donné que la pièce sera utilisée de façon régulière ».
+Faux. En L X L, on commande souvent donc on néglige de considérer les coûts de commande. Toutefois, il est vrai que cette technique de lotissement minimise les coûts d’entreposage. 
+« Le fournisseur que nous considérons pour cette pièce est certifié ISO 9000. Ce critère a été déterminant puisqu’il nous assure une qualité supérieure, ce qui est essentiel pour nous ».
+Faux. La certification ISO 9000 n’assure pas une qualité supérieure mais bien une qualité constante. Il faudra donc s’assurer que la qualité est satisfaisante avant de choisir ce fournisseur.
+Question 2 (22 points)
+2.1	Présentez un exemple concret d’entreprise de services pour chacun des processus ci-dessous. Bien justifier votre réponse à l’aide des variables pertinentes. (6 points)
+Atelier :
+Salon de coiffure, hôpital, cours privés ou semi-privés, consultation, etc.
+Variété : très grandes
+Volume : très petit
+Type de demande : sur commande
+Flux : interrompu
+Masse par lot :
+Voyage en avion, éducation, transport, voyages organisés, croisière, formation en entreprise, etc.
+Variété : moyenne
+Volume : moyen
+Type de demande : pour les stocks (variété déterminée par l’entreprise)
+Flux : interrompu
+Traitement :
+Câblodistribution, réseau hydro-électrique, eau potable, communication cellulaire, satellite, etc...
+Variété : faible
+Volume : élevé
+Type de demande : pour les stocks
+Flux : continu
+2.2	Quel est le type d’aménagement mis en place à l’usine de RAM? Cet aménagement vous semble-t-il approprié? Bien justifier votre réponse. (4 points)
+Aménagement cellulaire	 
+Volume : moyen
+Variété : moyenne à grande
+Type de demande : pour les stocks (vendus par les détaillants)
+Flux : interrompu
+Compte tenu de l’analyse des variables, cet aménagement est approprié 
+2.3	Voici un exemple de flux de deux types de produits, parmi plusieurs, fabriqués par l’entreprise Doal. Tous les produits sont fabriqués selon les spécifications des clients. Le plan ci-dessous montre les différentes étapes de production pour ces deux types de produit. 
+a)	Quel est le type d’aménagement présenté sur le dessin? (2 points)
+Fonctionnel
+b)	Quel type de processus est utilisé pour la fabrication des produits Doal. Justifiez brièvement votre réponse.  (2 points)
+Atelier 
+Volume : petit à moyen
+Variété : moyenne à grande
+Type de demande : sur commande
+Flux : interrompu
+c)	Proposez un autre type d’aménagement approprié à ce contexte de production et faites le dessin. (4 points)
+Type d’aménagement proposé : Cellulaire
+d)	Nommez et expliquez brièvement un avantage et un inconvénient de l’aménagement proposé ci-haut. (4 points) 
+Avantage :
+Système flexible
+Supervision générale requise et contrôle relativement facile
+Simplification des activités de planification de la production
+Autonomie et polyvalence des travailleurs ainsi que travail en équipe
+Diminution des stocks de produits en cours
+Moins de déplacement et manutention inutiles 
+Inconvénient :
+Peut nécessiter beaucoup d’espace
+Peut coûter plus cher si de l’équipement dispendieux est utilisé 
+Main d’œuvre polyvalente coûte plus cher 
+Question 3 (30 points)
+3.1	Quelle est l’étape du processus qui retarde la réalisation des commandes? Utilisez l’espace ci-dessous pour démontrer vos calculs et complétez le tableau de la page précédente. (8 points)
+L’étape 5 est l’étape avec la plus petite cadence (goulot), c’est donc elle qui retarde le processus.
+3.2	Un collègue du superviseur passe par son bureau et voit les résultats de l’étude de temps et mouvements. Il fait alors la recommandation suivante : « Nous devrions remplacer l’employé affecté à l’étape 5 puisqu’il est plus lent que la moyenne. » Que pensez-vous de cette proposition? Justifiez bien votre réponse. (2 points)
+Cette proposition n’est pas valable, puisque le facteur d’allure de 90 n’est pas nécessairement relié à l’employé qui effectue le travaille actuellement, mais plutôt à l’employé observé lors de la journée d’observations. Une fois le TS établi, on ne le change pas puisqu’il s’applique à tout travailleur moyen qualifié.
+3.3	Quelle est la capacité annuelle du processus de fabrication? Justifiez bien votre réponse en présentant vos calculs. (2 points)
+222,22 x 8 x 250 = 444 440
+3.4	La capacité calculée en 3.3 correspond-elle à la capacité de conception, la capacité réelle ou la production réelle? Justifiez bien votre réponse. (2 points)
+Capacité réelle, puisque dans le calcul du temps standard, on utilise les majorations pour tenir compte des arrêts prévus et contrôlés.
+3.5	
+Quelle est la cadence du processus actuel? Présentez l’ensemble de vos calculs. (3 points)
+Le goulot est à l’étape 5 avec une cadence de 60 / 1,62 = 37,04 unités par heure.
+Quelle sera la nouvelle cadence de ce processus si on adopte l’aménagement de type cellulaire tel que proposé (1 employé par cellule)? Présentez l’ensemble de vos calculs. (3 points)
+Somme des TS : 12,23 min. 
+	Cadence d’un employé : 60/12,23 : 4,91 unités à l’heure 
+	Cadence totale : 4,91 x 10 employés : 49,1 unités à l’heure
+3.6	Nommez et expliquez brièvement un avantage et deux inconvénients de l’organisation du travail proposée en 3.5 b). (6 points)
+Avantage :
+Capacité plus grande, pas de goulot
+Tâches plus intéressantes
+Possibilité de récompenser la performance individuelle
+Inconvénients :
+Demande plus de formation, polyvalence ($)
+Demande plus de matériel / équipement ($)
+Demande plus d’espace
+Isolement des travailleurs
+3.7	L’équipement utilisé dans l’usine exige une maintenance préventive mensuelle. 
+Combien de temps devra-t-on prévoir pour la maintenance du 16e mois si l’équipe reste la même? Justifiez votre réponse à l’aide d’un calcul approprié. (2 points)
+Coefficient d’apprentissage : 8,2 / 8,6 : 0,95 				
+		8e mois : 8,2 x 0,95 = 7,79 heures
+		16e mois : 7,79 x 0,95 = 7,4	heures
+Nommez et expliquez brièvement deux actions que pourrait prendre la direction de l’entreprise pour faciliter l’apprentissage de ses équipes de maintenance. (2 points)
+Formation, mentorat, meilleurs outils, meilleures méthodes, etc.
+Question 4 (21 points)
+À partir des données disponibles, déterminez la taille des échantillons utilisés pour tracer ces cartes de contrôles. Justifiez votre réponse à l’aide d’un calcul approprié. (3 points)
+n = 5 (la réponse peut être obtenue à partir du calcul des limites de la carte des moyennes ou de la limite supérieure de la carte des étendues).
+4.2	Le directeur de la qualité affirme que le processus était hors contrôle lors de la prise de ces données. Comment en est-il arrivé à cette conclusion? Justifiez votre réponse en analysant l’ensemble des variables pertinentes. (6 points)
+Puisqu’on note une tendance à la baisse sur la carte des étendues, alors le processus est hors contrôle.
+4.3	Expliquez sommairement en quoi consistent les différents coûts de qualité et de non-qualité pour Métal Précision et donnez un exemple pour chacun d’eux dans le contexte du contrat de la STM. (4 points)
+Coût de qualité : 
+Prévention (formation, etc.).
+Détection (instruments de mesure, etc.).
+Coût de non-qualité :
+Défaillance interne (rebuts, etc.).
+Défaillance externe (garantie, etc.).
+4.4	
+Le directeur prétend que le fournisseur A répondra mieux à ses besoins étant donné que son processus offre une plus petite variabilité. Êtes-vous d’accord avec lui? Justifiez votre réponse à l’aide d’un calcul approprié. (5 points)
+Pour le fournisseur A : Cp = 19,3 – 18,7 / 6 X 0,14 / 2,534 = 1,81
+Pour le fournisseur B : Cp = 19,3 – 18,7 / 6 X 0,192 / 3,472 = 1,81
+Le Cp = 1,81 dans les 2 cas. La qualité sera donc équivalente. 
+Le fournisseur B possède une certification ISO 9000 alors que le fournisseur A ne la possède pas. Cette information aura-t-elle un impact sur la décision à prendre? Bien justifier votre réponse. (3 points) 
+On pourrait favoriser le fournisseur B. Bien que la qualité soit la même, le fournisseur B nous garantit que celle-ci sera constante. 
+Question 5 (12 points)
+Déterminez si chacun des énoncés suivants est vrai ou faux en encerclant la réponse appropriée. Justifiez brièvement votre réponse. 
+Étape | TS par seringue | Temps de cycle | Cadence     (en seringues à l’heure)
+1 | 0,66 | 0,22 | 272,73
+2 | 0,12 | 0,12 | 500
+3 | 0,11 | 0,11 | 545,45
+4 | 1,512 | 0,252 | 238,10
+5 | 0,324 | 0,27 | 222,22
+6 | 0,072 | 0,09 | 666,67
+7 | 0,117 | 0,117 | 512,82
+Étape | TS par unité
+(en min) | Nombre d’employés | Cycle
+1 | 1,20 | 1 | 1,2
+2 | 3,42 | 3 | 1,14
+3 | 0,72 | 0,5 | 1,44
+4 | 1,48 | 1 | 1,48
+5 | 0,81 | 0,5 | 1,62
+6 | 4,60 | 4 | 1,15
+  | Carte des moyennes | Carte des étendues
+  Points extrêmes : |   |  
+Tous les points à l’intérieur des limites de contrôle | Respecté | Respecté
+  Symétrie : |  | 
+Répartition symétrique autour de l’axe central | Respecté | Respecté
+  Centré sur la moyenne : |  | 
+Distribution centrée sur la moyenne | Respecté | Respecté
+  Phénomène non aléatoire : |  | 
+Points distribués au hasard (pas de cycle, pas de tendance) | Respecté | Non respecté
+5.1 | F | Seule la demande du dernier maillon représente la véritable demande indépendante
+5.2 | F | La localisation des clients (marché) est le critère le plus important pour une entreprise de services
+5.3 | F | On ne réduit pas le niveau de service
+5.4 | V | Une grille pour chaque produit fini
+5.5 | F | 
+5.6 | V | 

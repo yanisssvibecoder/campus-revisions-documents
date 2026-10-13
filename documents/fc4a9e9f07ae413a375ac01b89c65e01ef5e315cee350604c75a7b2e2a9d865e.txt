@@ -1,0 +1,994 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Conception des produits, des processus et des aménagements
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+Décisions stratégiques
+
+## Diapositive 5
+
+Facteurs d’evolution des produits et processus
+
+https://www.core77.com/posts/80556/Charts-Showing-the-Evolution-of-Product-Design-Form-Factors-Continued
+
+## Diapositive 6
+
+
+
+
+
+Types de produits (biens ou services)
+
+Pour les stocks
+La conception est plus complexe, car il faut définir des biens qui vont satisfaire la majorité des clients. 
+La planification est simplifiée.
+
+Sur commande
+L’étape de la conception est facilitée, puisque le client y participe.
+
+La demande varie de façon aléatoire.
+
+https://mmasucka.com/2014/11/03/mini-will-make-turn-action-figure/
+
+6 inches, 1:12 scale: 340$
+
+## Diapositive 7
+
+Stratégies de conception de produits
+
+Standardisation
+
+Réduction du nombre de pièces et du nombre d’étapes de fabrication
+
+Conception modulaire
+
+Différenciation retardée
+
+Conception durable
+
+## Diapositive 8
+
+La standardisation réfère à l’uniformisation des produits (biens ou services), de même qu’à l’uniformisation des parties qui les composent. 
+La gestion des opérations et de la logistique : méthodes et principes fondamentaux, 2e édition, p.304
+
+1. Standardisation
+
+Avantages | Inconvénients
+
+Il y a moins de pièces à stocker et à fabriquer.
+Il y a réduction des coûts et du temps de formation.
+Les achats, la manutention et les procédures d’inspection sont faits de façon plus routinière.
+On peut répondre à la demande grâce aux stocks.
+Les longs cycles de production et l’automatisation sont possibles.
+Il y a accroissement des dépenses consacrées à l’amélioration de la conception et des procédures de contrôle de la qualité. | La recherche d’un produit répondant aux besoins de l’ensemble des clients exige des investissements énormes.
+Les coûts élevés des changements au produit initial font hésiter l’entreprise à l’améliorer.
+La diminution de la variété éloigne le consommateur.
+Il est difficile de répondre adéquatement au besoin d’un client spécifique.
+
+## Diapositive 9
+
+
+
+(b) Conception revue
+
+Une seule base &  élimination des boulons 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(c) Conception finale
+
+Conception «push and snap »
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(a) Conception originale
+
+Assemblage avec 
+plusieurs boulons
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright 2006 John Wiley & Sons, Inc.
+
+2. Réduction du nombre de pièces et du nombre d’étapes de fabrication
+
+24 pièces
+84 secondes 
+
+4 pièces
+12 secondes
+
+2 pièces
+4 secondes
+
+## Diapositive 10
+
+3. Conception modulaire
+
+Avantages | Inconvénients
+
+Facilite le diagnostic des problèmes, car il y a moins de pièces à analyser.
+Facile à réparer et remplacer.
+Simplifie la planification, l’approvisionnement, la gestion des stocks ainsi que la fabrication.
+Engendre des coûts de formation moins élevés. | Les modules doivent être compatibles entre eux. 
+Hausse des coûts de remplacement, car cela implique de changer le module en entier.
+
+Il s’agit d’une forme de standardisation.
+Les modules sont constitués de pièces en sous-montages.
+
+Ordinateur Dell	
+
+## Diapositive 11
+
+4. Différenciation retardée
+
+Stratégie qui consiste à standardiser au maximum les opérations de fabrication et à intégrer aussi tardivement que possible les éléments de personnalisation d'un produit dans la chaîne de production, de manière à dégager des économies d'échelle sur la majeure partie du processus.  
+Source : Grand dictionnaire terminologique
+
+M&M personnalisés
+
+
+## Diapositive 12
+
+5. Conception durable
+
+Conception à partir de matériel recyclable;
+Conception à partir de matériel recyclé;
+Conception en vue de faciliter la réparation;
+Minimisation de l’emballage;
+Minimisation du matériel et de l’énergie utilisés lors de la fabrication;
+Responsabilisation du producteur jusqu’à la fin de vie utile du produit.	
+
+https://ecoconception.eeq.ca/fr-ca	
+
+## Diapositive 13
+
+5. Conception durable – « Transportabilité »
+
+
+
+Notes : L’explosion récente des coûts de transports dus à l’augmentation du coût du prétrole et de celui des conteneurs fait en sorte qu’on pense à l’espace requis pour le transport dès la conception.
+
+Exemple : Arrosoir
+L’arrosoir est conçu de façon à être emplilable
+On peut maximiser l’espace sur une palette ou dans un conteneur.
+On voit la difference entre 4 arrosoirs à gauche et beaucoup plus dans le panier à droite. 
+
+## Diapositive 14
+
+5. Conception durable – « Transportabilité »
+
+26/05/20
+
+Notes : Exemple de gauche : les emballages en forme de L 
+
+Exemple de droite : Des meubles emballés dans une boîte plate (comme plusieurs marques de matelas aujourd’hui). Ceci facilite grandement la vente de ces produits par commerce électronique.
+
+## Diapositive 15
+
+Carte conceptuelle
+
+## Diapositive 16
+
+Variables de gestion des processus
+
+Volume : quantité de produits fabriqués à la fois (taille du lot);
+
+
+Variété de produits;
+
+
+Type de demande;
+
+
+Type de flux.
+
+
+
+
+
+
+
+
+
+## Diapositive 17
+
+Typologie des processus
+
+Processus de type atelier
+
+Processus de type masse par lot
+
+Processus de type masse en continu
+
+Processus de type traitement
+
+## Diapositive 18
+
+Atelier
+
+Variables de gestion | Produits | Services
+
+Volume :
+
+
+Variété :
+
+
+Type de demande :
+
+
+Type de flux :
+
+ |  | 
+
+## Diapositive 19
+
+Masse par lot
+
+Variables de gestion | Produits | Services
+
+Volume :
+
+
+Variété :
+
+
+Type de demande :
+
+
+Type de flux :
+
+ |  | 
+
+## Diapositive 20
+
+Masse en continu
+
+Variables de gestion | Produits | Services
+
+Volume :
+
+
+Variété :
+
+
+Type de demande :
+
+
+Type de flux :
+
+ |  | 
+
+## Diapositive 21
+
+Traitement
+
+Variables de gestion | Produits | Services
+
+Volume :
+
+
+Variété :
+
+
+Type de demande :
+
+
+Type de flux :
+
+ |  | 
+
+## Diapositive 22
+
+## Diapositive 23
+
+
+
+
+
+
+
+         FAIBLE               Volume            ÉLEVÉ
+
+FAIBLE          Variété         GRANDE
+
+Atelier
+
+Masse 
+par lot
+
+Discontinu
+
+ Masse en 
+continu
+
+Traitement
+(process)
+
+Continu
+
+Le tandem produit - processus
+
+Discontinu
+
+Semi-Continu
+
+ Personnalisation 
+de masse
+
+## Diapositive 24
+
+Personnalisation de produits standards de grande consommation adaptés de façon modulable selon des choix proposés au client.   
+
+
+
+
+Personnalisation de masse
+
+Conception modulaire 
+et/ou
+ différenciation retardée
+
+
+
+Masse en continu
+
+
+
+Personnalisation de masse
+
+## Diapositive 25
+
+Liens avec les décisions tactiques
+
+Prévision
+
+
+
+Planification globale
+Planification détaillée
+Planification des besoins matières
+
+
+
+Gestion des stocks
+
+
+
+Approvisionnement
+
+
+
+Gestion de la qualité
+
+
+
+## Diapositive 26
+
+1
+
+2
+
+3
+
+4
+
+Gâteau d’anniversaire préparé selon les spécifications du client
+
+Production d’électricité
+
+Usine de Forward Sports Ltd à Punjab au Pakistan.
+Production de ballons de soccer Adidas
+
+Usine de moto de Honda à Kumamoto au Japon qui produit  250,000 motos par année
+
+Identifiez le type de processus
+
+## Diapositive 27
+
+Carte conceptuelle
+
+## Diapositive 28
+
+Aménagement : Notions de base
+
+C’est la disposition dans l’espace des différents éléments du système opérationnel;
+
+Comprend la répartition des différentes sections d’une usine ainsi que l’agencement des postes de travail et de l’équipement;
+
+Comprend aussi l’agencement des espaces de bureaux et la disposition des lieux de service.
+
+
+## Diapositive 29
+
+Importance de l’aménagement
+
+L’aménagement a de nombreux impacts sur les facteurs concurrentiels de l’entreprise.  Ainsi, un aménagement inadéquat peut désavantager grandement une entreprise.
+
+Par exemple, un mauvais choix d’aménagement peut :
+Augmenter le risque de détérioration des produits;
+Diminuer la capacité de production;
+Augmenter les délais de livraison;       
+Augmenter les coûts de production;
+Augmenter les risques de blessures;       
+Détériorer le climat de travail.     
+
+
+## Diapositive 30
+
+L’aménagement stationnaire (fixe) 
+
+Déplacements du personnel et de l’équipement accrus
+
+Produits généralement complexes ou de grande taille
+
+Requiert une bonne coordination
+
+Contrôle assez complexe
+
+
+
+« Aménagement dans lequel le produit demeure fixe; on déplace les travailleurs, le matériel et l’équipement au besoin. »
+
+Construction de la dernière travée du pont Jacques-Cartier en 1929.
+PHOTO : ARCHIVES DE LA VILLE DE MONTRÉAL
+
+## Diapositive 31
+
+L’aménagement fonctionnel (processus)
+
+Système flexible dans l’allocation du personnel et des équipements
+
+Flux multidirectionnel et variable 
+
+Supervision spécialisée nécessaire et contrôle complexe
+
+Travailleurs spécialisés par type d’équipement
+
+
+« Les postes de travail et les équipements sont regroupés selon les opérations qu’ils réalisent. »
+
+## Diapositive 32
+
+L’aménagement fonctionnel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M
+
+M
+
+M
+
+M
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+P
+
+L
+
+L
+
+L
+
+L
+
+L
+
+L
+
+A
+
+A
+
+A
+
+Réception et 
+expédition
+
+Assemblage
+
+Coloration
+
+Fraisage
+
+Mouture
+
+Perçage
+
+Limage
+
+C
+
+C
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Diapositive 33
+
+L’aménagement fonctionnel
+
+## Diapositive 34
+
+L’aménagement linéaire (produit)
+
+Système assez coûteux et peu flexible
+Flux simple, logique, unique et unidirectionnel
+Un arrêt de machine peut provoquer l’arrêt de la ligne 
+Peu de produits en-cours et manutention réduite
+Supervision générale requise, le contrôle est simple
+Travail spécialisé et répétitif (personnel peu qualifié)
+
+
+« Les postes de travail et les équipements sont placés en enfilade, selon l’ordre dans lequel ils interviennent dans le processus. »
+
+
+## Diapositive 35
+
+Caisse
+
+Source : Adapté de Stevenson W., Benedetti C., (2001), p 208
+
+
+
+Caisse
+
+L’aménagement linéaire
+
+## Diapositive 36
+
+L’aménagement cellulaire 
+
+Système flexible
+Supervision générale requise et contrôle relativement facile
+Simplification des activités de pilotage, ordonnancement et planification de la production
+Autonomie et polyvalence des travailleurs ainsi que travail en équipe
+Typiquement, groupe d’employés impliqué dans la fabrication d’un bien de A à Z
+
+
+
+« Les postes de travail et les équipements sont regroupés en îlots (ou cellules) autour d’une équipe d’employés. »
+
+## Diapositive 37
+
+L’aménagement cellulaire
+
+Produit (ou gamme) A
+
+Produit (ou gamme) B
+
+Produit (ou gamme) C
+
+## Diapositive 38
+
+ExerciceL’aménagement dans les services
+
+Industrial laundry @Elis AG (Suisse)
+www.prohotel.ch 
+
+Coffee and laundry @The Lavendry Lounge (Philippines) 
+https://lavendrylounge.com  
+
+Quels aspects considériez-vous lors du choix de l’aménagement de ces deux services?
+
+## Diapositive 39
+
+
+
+Discontinu
+
+FAIBLE     Volume       ÉLEVÉ
+
+ÉLEVÉE   Variété        FAIBLE   
+
+Masse 
+en 
+continu
+
+Atelier
+
+Masse
+par lot
+
+Traitement
+
+Semi-continu
+
+Produit   Processus                   Aménagement
+
+Stationnaire
+
+Fonctionnel
+
+Cellulaire
+
+Linéaire
+
+
+
+
+
+
+
+
+
+
+
+© 2006  Michel Cloutier 
+
+Continu
+
+## Diapositive 40
+
+Questions…

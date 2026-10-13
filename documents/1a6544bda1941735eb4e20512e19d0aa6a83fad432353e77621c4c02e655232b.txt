@@ -1,0 +1,506 @@
+Séance 02 - Analyse coût-volume-résultat :
+La garderie éducative Cassiopée offre un service de garde aux enfants âgés de 12 mois à 5 ans. Pendant la période estivale, la garderie ne fonctionne pas à pleine capacité, car de nombreux enfants sont absents. Une partie des locaux pourrait ainsi accueillir d’autres enfants. 
+Pour accroître la rentabilité, la direction envisage de proposer un camp de jour. Ce camp serait offert exclusivement aux frères et sœurs des enfants déjà inscrits dans la garderie. La direction estime qu’elle a la capacité pour accueillir 20 enfants par semaine et pense qu’elle parviendra aisément à combler ces places. Le camp de jour sera offert pendant 8 semaines.
+Avant de lancer le projet, la direction souhaite toutefois analyser la rentabilité de ce projet et plus globalement sa viabilité. Elle vous fournit les informations suivantes :
+Le camp de jour serait proposé au prix de 225 $ par semaine. 
+La directrice de la garderie a déjà passé environ 5 heures à réfléchir à la possibilité d'offrir le camp de jour. 
+La directrice estime qu’il faudrait payer 16 heures une éducatrice au printemps pour qu’elle prépare le contenu et le calendrier des activités.
+Une éducatrice externe travaillera exclusivement pour le camp de jour pendant 37,5 heures par semaine. 
+Un animateur de camp de jour sera également embauché sur la même durée. 
+Du matériel devra être acheté spécifiquement pour le camp de jour et utilisé pour les 8 semaines du camp pour un total de 160 $.
+La directrice estime également que des frais de l’ordre de 40 $ par enfant par semaine seront nécessaires pour les différentes activités. 
+Le repas et les collations seront fournis. Les calculs réalisés dans le passé montrent que le coût des repas (incluant les aliments, le salaire du cuisinier et des aides-cuisiniers, les équipements et le loyer pour la portion du bâtiment occupée par la cuisine) s’élève à 8,00 $ par enfant par jour. Sur ce montant, les aliments représentent 3,50 $.
+Le loyer mensuel du bâtiment de la garderie est de 10 000 $. 
+Informations sur les salaires : on estime que la directrice est payée 50 $ l’heure, l’éducatrice 25 $ l’heure et l’animateur de camp de jour (15 $ l’heure). 
+Travail à faire :
+Réalisez une analyse CVR par semaine de camp de jour (incluant le calcul du point mort, de la marge de sécurité et du résultat potentiel) et commentez.
+Proposez des arguments qualitatifs pour supporter la décision
+Démarche proposée pour résoudre cet exercice
+La classification des coûts comme étant variables ou fixes est essentiel pour effectuer l’analyse coût-volume-résultat. 
+Pour cette analyse, nous prenons pour hypothèse que les coûts variables unitaires sont constants et que les coûts fixes totaux sont constants (même segment significatif). 
+Identifier les coûts variables par enfant par semaine 
+Identifier les coûts fixes par semaine: on cherche à faire une analyse CVR spécifiquement pour le projet du camp de jour. Il faudra donc identifier les coûts fixes communs (ceux de la garderie) et les coûts fixes spécifiques (ceux spécifiques au projet du camp de jour). Les coûts communs ne sont pas pertinents pour cette analyse, ils devront donc être exclus. 
+Analyse du texte
+Préparer les données pour effectuer les calculs de l’analyse coût-volume résultat
+Calculer la marge sur coûts variables par unité (par enfant par semaine)
+Calculer le total des coûts fixes spécifiques
+Effectuer les calculs de l’analyse coût-volume résultat (voir formules notes de cours)
+Analyser vos résultats quantitatifs. 
+Évaluer si le projet est risqué. 
+Identifier des facteurs non financiers (qualitatifs) qui peuvent influencer votre prise de décision. 
+D’un point de vue financier, le projet semble intéressant. Il pourrait permettre de dégager 14 240 $ de résultat additionnel au cours de l’été si toutes les places sont comblées (1 780 $ x 8 semaines). De plus, il ne semble pas très risqué puisque le point mort est de 10 enfants, soit 50 % de la capacité prévue. Même si les places sont moins faciles à combler que ce qu’estime la directrice, elle dispose d’une marge de sécurité intéressante avant de commencer à perdre de l’argent.
+Autres éléments à prendre en considération
+Au niveau stratégique, il est à noter que ce nouveau service éloigne la garderie de sa mission initiale : « offrir un service de garde qui contribue au développement positif des enfants (0 à 5 ans) en leur offrant un milieu de vie inclusif, stimulant et sécuritaire ».
+Il faudra d’ailleurs se questionner sur les aspects légaux qui entourent les camps de jour pour s’assurer que nous nous conformons à la législation avec cette nouvelle activité. 
+Le projet présente des avantages pour les parents clients de la garderie. Il leur offre une solution facile de garde pour leurs enfants scolarisés pendant la période estivale. Cela pourrait même devenir un argument de vente pour de nouveaux parents. 
+Il faudra toutefois veiller à ce que le camp de jour n’ait pas d’impact sur la qualité des services de garderie, au risque de créer du mécontentement chez certains parents. 
+Pour ce qui est du personnel, il faudra s’assurer que l’intégration à l’équipe de travail de la personne responsable du camp de jour soit réussie. Celle-ci doit certes détenir les qualifications pour ce poste, mais également être en accord avec les valeurs et les façons de faire de la garderie.
+Deux facteurs de risque peuvent être soulevés : 
+Il faut s’assurer que la garderie ne dépassera pas la capacité maximale. En effet, il faut se garder de la marge de manœuvre pour pallier des changements dans les plans estivaux des parents. 
+Il faut s’assurer que la directrice et le personnel administratif pourront réaliser les tâches liées au camp de jour dans le cadre de leurs horaires réguliers. Dans la négative, cela peut conduire à une baisse de la qualité du service (certaines activités ne seront pas réalisées ou moins bien réalisées) ou à une augmentation des coûts (besoin de rémunérer des heures supplémentaires).
+Commande spéciale et prise de décision 
+Partie 1
+Nature inc. est une société privée contrôlée par son fondateur et unique actionnaire, M. Elliot Carignan. L’entreprise fabrique des accessoires de camping et de plein air, elle se spécialise notamment dans la fabrication et la vente de tentes. Nature inc. a récemment ouvert une nouvelle usine spécifiquement dédiée à la fabrication de tentes. Pour le moment, un seul modèle (modèle Boréal+) est fabriqué à l’usine, voici les données relatives aux commandes du modèle Boréal+ :
+Tableau 1
+Données relatives aux commandes de Boréal+
+	Boréal+	
+Ventes prévues (unités)	 8 000	unités		
+Prix unitaire 		675	$	
+Coûts variables unitaires
+(incluant la commission):	425	$
+Frais fixes :		200	$	
+Heures-machine par unité:	3,5	hm	
+M. Carignan a reçu dernièrement une proposition (commande spéciale) concernant la fabrication de tentes Boréal+. Un nouveau client américain offre d’acheter 3 000 tentes Boréal+ pour l’année en vue du lancement de leur nouveau magasin de plein-air. Cependant, il propose un prix d’achat unitaire de 550 $ alors que le prix unitaire habituel est de 675 $. Si la commande satisfait le client, ce dernier prévoit continuer à s’approvisionner auprès de Nature+ pour les années à venir. 
+Pour ce qui est du paiement, le client américain souhaite payer 25 % du montant total à la signature du contrat et le 75 % restant dans 3 mois afin de s’assurer de la qualité de la commande, ce qui diffère des termes de paiement habituels de 45 jours exigés par Nature inc. L’entreprise a une capacité de production de 40 000 heures-machine avec les machines actuelles. Elle a l’option de louer une machine additionnelle au coût de 20 000 $ par année. Pour répondre aux commandes régulières et à la commande spéciale, les gestionnaires affirment qu’il faudra mettre les bouchées doubles pour tout fournir. 
+En effet, les coûts de MOD augmenteraient de 15 $ par unité en raison des heures payées en temps supplémentaires et il y aurait une augmentation des frais de maintenance des machines de 50 000 $ en raison du niveau élevé de production. De plus, il faudrait engager des coûts de 5 $ par unité pour appliquer le logo du client sur les modèles Boréal+. 
+Heureusement pour Nature inc., elle n’aura pas à payer de commissions aux vendeurs pour les unités de la commande, ce qui représente un coût économisé de 10 $ par unité.
+L’acceptation de la commande spéciale engendrerait automatiquement des frais supplémentaires liés aux frais de livraison. Les frais fixes de vente et d’administration augmenteraient de 60 000 $.
+M. Carignan hésite à accepter la commande, il se demande si elle sera lucrative malgré la baisse du prix de vente. Il se demande également s’il n’existe pas d’autres risques qui pourraient influencer les activités régulières de Nature inc.  Il vous demande donc une analyse de la situation ainsi qu’une recommandation bien appuyée par une analyse tant quantitative que qualitative.
+Travail pratique (Partie 1) :
+Déterminez si Nature inc. devrait accepter la commande spéciale d’un point de vue quantitatif.
+Identifiez trois facteurs qualitatifs (positifs ou négatifs) que M. Carignan devrait prendre en compte avant d’accepter ou refuser la commande.
+Démarche pour résoudre cet exercice
+Comprendre le contexte
+Est-ce que l’entreprise a la capacité de produire les unités additionnelles? 
+Si oui, procéder à l’analyse différentielle de la commande spéciale.
+Si non, considérer un coût de renonciation dans l’analyse différentielle.
+Pour calculer le coût de renonciation :
+Combien de produits l’entreprise vend-elle?
+Si elle vend qu’un seul produit, on renoncera aux unités des clients réguliers pour accepter 100 % des unités de la commande spéciale.
+Si elle vend plusieurs produits, on devra déterminer quels produits l’entreprise devra renoncer pour accepter 100 % des unités de la commande spéciale. Il faudra calculer la marge sur coûts variable par facteur de production (ex : MCV/h-mod) de chacun des produits pour déterminer quel(s) produit(s) on devra renoncer. On renoncera aux unités du produit avec la plus petite MCV/facteur de production.
+Attention, s’il y a des coûts fixes spécifiques, nous pourrions devoir calculer la marge sur coûts spécifiques afin de déterminer le(s) produit(s) le(s) moins rentable(s) (advenant qu’aucune unité d’un produit ne puisse être fabriquée avec la capacité de production actuelle).
+L’analyse différentielle
+Pour effectuer une analyse différentielle, il faut identifier les coûts pertinents à cette prise de décision. Exemples, prix de vente de la commande spéciale, coûts variables de la commande spéciale, coûts fixes spécifiques et coûts économisés.
+La classification des coûts comme étant variables et fixes est important pour l’analyse. Comme on cherche à comprendre l’impact sur le résultat d’exploitation, on travaillera avec des montants totaux.  
+Ce type d’analyse cherche à calculer l’impact sur le résultat d’exploitation d’accepter des unités additionnelles (augmentation du volume). À la séance 1, nous avons vu le comportement des coûts lorsqu’il y a un changement de volume. Les coûts variables totaux augmentent avec l’augmentation du volume tandis que les coûts fixes totaux restent constants (quand il n’y a pas de changement de segment significatif). Les coûts fixes communs (c’est-à-dire les coûts fixes déjà présents pour produire les unités des commandes régulières) sont donc non pertinents à la prise de décision. Attention, même si les coûts fixes communs sont présentés à l’unité dans certains exercices, ils sont non pertinents à la prise de décision (il ne faut pas le considérer dans vos calculs). 
+         Analyse de capacité
+Conclusion analyse de capacité : Nature inc. a la capacité disponible pour produire les unités de la commande spéciale. 
+il n’y a aucun coût de renonciation 
+vous pouvez procéder à une analyse différentielle.
+Analyse différentielle de la commande spéciale
+Conclusion analyse différentielle : d’un point de vue quantitatif, l’entreprise devrait accepter la commande spéciale, car le résultat d’exploitation augmenterait de 235 000 $.
+Autres éléments à considérer (arguments qualitatifs)
+M. Carignan a raison de ne pas simplement considérer la rentabilité de la commande spéciale avant de prendre une décision, en effet différents facteurs doivent être considérés :
+Si la gestion de la commande spéciale se passe bien, le client considérerait continuer à faire affaire avec Nature inc. dans le futur, ce qui pourrait contribuer à la croissance de l’entreprise.
+Les modalités de paiement exigées par le client américain risquent de mettre de la pression sur les liquidités de Nature inc. En effet, l’entreprise devra engager des coûts considérables pour répondre à la commande, mais recevra l’argent seulement plusieurs mois après.
+Le fait de répondre à une commande spéciale à un prix moindre que le prix habituel pourrait créer de la frustration chez les clients réguliers, ce qui pourrait faire perdre des ventes à Nature inc.
+Le fait de devoir faire des heures supplémentaires risque de créer de la frustration chez les employés, ce qui peut créer de la tension dans l’entreprise ou même résulter en un plus grand nombre de défauts.
+Partie 2 :
+Avec le succès du modèle Boréal+, Nature inc. connaît une croissance incroyable supportée par une augmentation de la demande pour les produits de plein air. Pour répondre à cette augmentation de la demande, Nature inc. décide de fabriquer deux autres modèles de tentes en plus du Boréal+, soit le modèle Toundra et le modèle Arctique. Voici les détails de ventes régulières et de production pour ces trois modèles :
+Tableau 2
+Données relatives aux commandes régulières
+
+	Boréal+	Toundra	Arctique
+Ventes prévues (demande en unités)	 4 000		3 000		2 000	
+Prix unitaire 		675	$	760	$	1 125	$
+Coûts variables unitaires
+(incluant la commission):	  425	$	515	$	745	$
+Frais communs		            20 $		     20 $		      20 $
+Frais fixes spécifiques:	715 000	$	555 000	$	380 000	$
+Heures-machine par unité:	3,5	h	5	h	7,5	h
+Malgré les changements amenés au processus de production pour l’ajout des 2 modèles, Nature inc. n’a pas suffisamment d’heures-machine pour remplir l’entièreté des commandes prévues. La capacité de l’usine s’établit maintenant à 43 000 heures-machine. L’entreprise se demande donc quel produit elle devra prioriser. 
+Travail pratique (Partie 2) :
+Après plusieurs rencontres et discussions afin de parler de l’optimisation de la production, des ressources et des conditions des employés, vous vous êtes proposé pour aider le directeur de production à déterminer le plan de production qui permettrait de maximiser le résultat d’exploitation.  (Votre réponse doit contenir le calcul du résultat d’exploitation de Nature inc.)
+En plus des commandes régulières, le nouveau client américain aimerait faire une commande unique de 1 000 tentes Boréal+. La MCV unitaire pour cette commande serait de 227,50 $ par tente et les coûts fixes additionnels seraient de 125 000 $. Considérant que l’entreprise fabrique maintenant trois modèles de tentes, serait-il plus rentable pour Nature inc. d’accepter ou de refuser la commande? 
+Quel serait le prix minimal demandé par Nature inc. pour accepter la commande unique de 1 000 tentes Boréal+ du client américain sachant que les coûts variables seront identiques aux tentes Boréal+ régulières ?
+         Question a) 
+Question b)
+Analyse  différentielle
+Actuellement nous n’avons pas la capacité de produire les 1 000 unités de la commande spéciale et les 9 000 unités prévues, l’entreprise devra renoncer à des unités d’un des produits actuels. Comme le produit Toundra a la marge par heure machine la plus faible nous allons renoncer à ces unités pour accepter la commande spéciale de 1 000 tentes Boréal +. 					
+Calcul du coût de renonciation :
+	Pour faire 1000 tentes Boréal + nous avons besoin de 3,5 h x 1 000 u. = 3 500 h
+	Nous devons renoncer à 3 500 h / 5 h = 700 unités de Toundra.
+      700 unités x MCV unitaire de 245 $ = 171 500 $ (gain auquel on renonce)
+OU
+Comme le produit Toundra présente des coûts fixes spécifiques de 555 000 $, nous pourrions envisager la décision d'abandonner la fabrication complète du modèle Toundra et évaluer l’effet de cette décision sur le résultat d’exploitation. 
+      Si l'on cesse la fabrication de toutes les unités du Toundra, on perdra la marge sur coûts spécifiques de ce produit qui s’élève à 131 000 $. D'un point de vue quantitatif, il est plus avantageux de perdre 131 000 $, soit la marge sur coûts spécifiques que de subir une perte de 171 500 $ correspondant à la marge sur coûts variables totale des 700 unités auxquels nous voulions renoncer.   
+(Note à l’étudiant : cette question est intéressante car elle montre comment il est possible d’intégrer les concepts de marges et des autres prises de décision, comme celle d’abandonner la fabrication d’un produit dans le cadre plus large d’une décision comme celle d’accepter ou refuser une commande spéciale.) 
+      Impact de la commande de 1000 unités : diminution du résultat actuel de 28 500 $.  
+Décision : refuser la commande spéciale
+Question c)
+Prix minimum
+   Coûts variables (425 $ x 1000 unités)	425 000 $
+   (+) Coûts spécifiques				125 000 $
+   (+) Coûts de renonciation			131 000 $
+							681 000 $ / 1000 unités = 681 $ l’unité
+Partie 3
+Un an plus tard, M. Carignan souhaite investir un montant de 50 000 $ dans une des divisions afin d’augmenter la qualité des tentes, ce qui permettrait d’augmenter les ventes du modèle amélioré. L’analyste de Nature inc. a fait des recherches sur le marché et est arrivé à différentes hypothèses par rapport à l’impact de l’investissement sur chacune des divisions :
+Selon vous, quel modèle devrait bénéficier de l’investissement de 50 000 $ que M. Carignan souhaite faire? Justifiez avec des calculs. Il n’y a pas de contrainte de capacité dans cette situation.
+Coût de fabrication unitaire - Imputation des FGF
+La société Cyclo inc. fabrique deux types de vélo pour les cyclistes amateurs : le modèle Sommet et le modèle Piste.
+Vous obtenez les informations suivantes concernant les prévisions pour le prochain exercice qui se terminera le 31 décembre 20X6 :
+Amortissement de la machinerie	50 000 $
+Amortissement du bâtiment	150 000 
+Commission des vendeurs	31 000 
+Électricité	44 500 
+Entretien de la machinerie	56 755 
+Frais de fabrication divers	 27 305 
+Frais de livraison des unités vendues	40 500 
+Fournitures de fabrication	31 650 
+Main-d'œuvre indirecte (MOI)	95 690 
+Réparation de la machinerie	34 600 
+Salaires de l'administration	76 200 
+Salaires des vendeurs	84 000 
+Total des coûts	722 200 $
+Voici les informations dont vous disposez :
+Durant le prochain exercice, Cyclo inc. prévoit fabriquer et vendre 825 modèles Sommet et 915 modèles Piste. 
+Les prix de vente respectifs seront de 1 500 $ pour le modèle Sommet et 2 000 $ pour le modèle Piste. 
+Les vélos étant minutieusement assemblés avec des pièces de haute qualité, la main-d’œuvre directe est une ressource centrale dans le processus de fabrication, plusieurs autres dépenses sont liées à l’utilisation de la MOD dans le processus de fabrication. La production a nécessité des coûts de MOD de 330 000 $ pour le modèle Sommet et de 388 875 $ pour le modèle Piste, pour un total de 14 378 heures de MOD. Une partie de la production est aussi automatisée, le modèle Sommet requiert 1,5 heure-machine par vélo tandis que le modèle Piste requiert 2 heures-machine par vélo.
+Le bâtiment est séparé en 2 parties : l’espace de fabrication et les bureaux administratifs. 65 % de l’espace est utilisé pour la fabrication tandis que le reste est occupé par les bureaux administratifs. Toutefois, l’électricité n’est pas consommée de la même façon, en effet la fabrication consomme 85 % de l’électricité, le reste est utilisé par l’administration.
+Pour la fabrication des vélos, Cyclo inc. doit acheter un certain nombre de composants pour chacun des vélos, ces composants sont modifiés et assemblés par la suite. Chaque composant coûte 85 $. Cyclo inc. a dû acheter 4 125 composants pour la production du modèle Sommet et 4 575 composants pour la production du modèle Piste.
+Travail pratique :
+Calculez le coût de fabrication unitaire des deux modèles en imputant les FGF selon les heures de MOD.
+Calculez le coût de fabrication unitaire des deux modèles en imputant les FGF selon les heures-machines.
+Selon vous, quelle base d’imputation semble la plus appropriée pour Cyclo inc.? Justifiez.
+Commentez la rentabilité individuelle de chacun des produits selon les différentes bases d’imputation, que remarquez-vous?
+Est-ce qu’il serait pertinent pour Cyclo inc. de calculer le coût de fabrication en utilisant plusieurs centres de coûts ? Justifiez. Énumérez les avantages et les inconvénients de cette méthode d’imputation.
+Calcul des frais généraux de fabrication
+Note : Dans la liste des postes fournis dans l’énoncé, certains sont des frais de ventes et d’administration. Ceux-ci ne sont par conséquent pas des FGF.
+Coût de fabrication unitaire selon les heures de main-d’œuvre directe (MOD) :
+Note : voir le détail des calculs en dessous du tableau
+Taux d’imputation : Total FGF / total base imputation = 431 325 $ / 14 378 h = 30,00 $/h
+Taux horaire de la MOD : (330 000 $ + 388 875 $) / 14 378 heures = 50 $/HMOD
+Calculs pour le produit Sommet :
+MP : (4 125 composants / 825 unités = 5 composants par unité x 85 $)
+MOD : (330 000 $ / 825 unités) 
+Taux de la MOD : Coût total / nombre d’heures total = 718 875 $ / 14 378 = 50 $/h
+Heure de MOD par unité = 330 000 $ / 50 $ par HMOD / 825 unités 
+= 8 heures MOD par unité
+FGF : 30 $/h x 8 HMOD
+Calculs pour le produit Piste :
+MP : (4 575 composants / 915 unités = 5 composants par unité x 85 $)
+MOD : (388 875 $ / 915 unités)
+Heure de MOD par unité = 388 875 $ / 50 $ par HMOD / 915 unités 
+= 8,5 heures MOD par unité
+FGF : 30 $/h x 8,5 HMOD
+Coût de fabrication unitaire selon les heures machine (H-M)
+Total de la base d’imputation (total heures machine)
+(1,5 HM x 825 unités) + (2 HM x 915 unités) = 3 067,5 HM
+Taux d’imputation : Total FGF / total base imputation = 
+431 325 $ / 3 067,50 HM = 140,61 $/HM
+Remarqué que le total des FGF ne change pas, c’est seulement le total de la base d’imputation qui change. 
+Sommaire coût de fabrication unitaire selon le choix de la base d’imputation
+Choix de la base d’imputation 
+Mais quelle base nous permet de calculer un coût de fabrication qui représente le mieux nos coûts de fabrication ? 
+Il faut regarder les critères pour choisir une base d’imputation.
+Est-ce que le choix de base est commun aux deux produits ?
+Ce critère est important, car si la base n’est pas commune, nous allons introduire un biais dans le calcul du coût de fabrication. Les heures machine et les heures de MOD sont deux bases communes aux produits. Laquelle choisir ? Pour choisir la base la plus appropriée, il faut analyser le processus de fabrication et faire des liens entre les FGF et le choix de la base.
+Quel est le processus de fabrication ?
+À la lecture du texte, le processus de fabrication est à la fois automatisé (utilise des h-m) et manuel (consomme des heures de MOD). Toutefois, le processus de production semble reposer principalement sur les activités manuelles (H-MOD). En effet, il est mentionné que la main-d’œuvre directe est une activité centrale qui est liée à l’utilisation de plusieurs autres coûts, par conséquent les heures de MOD pourraient être une base adéquate pour la répartition des FGF, mais est-ce que la majorité des frais sont déclenchés par l’utilisation de la main-d’œuvre ?
+Quel processus de fabrication déclenche le plus de charges ? Lorsqu’on analyse la liste des frais généraux, quelle est la proportion des FGF qui sont déclenchés par l’utilisation de la machinerie et qu’elle est la proportion en lien avec l’utilisation d’employés.  
+Une analyse des FGF nous démontre que 70 % (amortissement de la machinerie, électricité, entretien et réparation de la machinerie et l’amortissement du bâtiment, etc.) des charges sont déclenchées par l’utilisation de la machinerie. 
+Les heures machine est donc un choix plus approprié pour répartir les FGF aux produits (et ce même si le processus semble plutôt manuel). 
+Rentabilité des produits selon la base d’imputation
+À la lecture du tableau, on constate que la rentabilité des produits ne varie presque pas en fonction du choix de la base d’imputation. En effet la marge brute semble similaire. 
+Pourquoi ?
+* Marge brute = Prix de vente – coût de fabrication
+Parce que le processus de fabrication des produits est similaire. Le produit sommet utilise moins heures de MOD et moins d’heures machine que le produit piste
+Répartition par centre de coûts
+Il ne serait pas pertinent pour Cyclo inc. d’imputer les FGF selon plusieurs centres de coûts.
+Évaluer l’importance relative des charges indirectes par rapport à l’ensemble des charges. Pour un coût de fabrication, il faut regarder la proportion des FGF dans le total des charges de fabrication (MP + MOD + FGF). Les FGF représentent environ     23 % du coût de fabrication. Comme la proportion de charges indirectes est faible, le choix de la base d’imputation a moins d’impact sur le calcul du coût de fabrication.​
+Comprendre le processus de fabrication des produits​ : processus de fabrication similaire. 
+Identifier les risques associés à une mauvaise imputation (lien avec la prise de décision)​ Exemples: la rentabilité des produits est bien estimée 
+Avantages :
+La répartition par centre de coûts permet une imputation beaucoup plus représentative de la consommation des ressources lorsque les processus de fabrication sont différents.
+Une imputation plus représentative permet une meilleure prise de décision par rapport aux différents produits.
+Inconvénients :
+Faire ce type de répartition demande beaucoup plus de ressources (temps et argent)
+La répartition est plus complexe, ce qui crée un risque d’erreur ou d’incompréhension plus élevé.
+Révision (S06) – Évaluer la performance des centres d’investissement        (RCI-RNR)  
+Pour réviser les notions sur l’évaluation de la performance il est suggéré de revoir minimalement les éléments suivants :
+Relire les notes de cours des S11 et les exercices dans les notes faits en classe
+Comprendre pourquoi les entreprises se sont décentralisées et comment elles se sont organisées pour maintenir un contrôle.  
+Les centres de responsabilité
+Évaluer la performance des centres d’investissements (RCI-RNR)
+Prise de décision : comment le gestionnaire d’un centre d’investissement peut améliorer le RCI.
+Les limites des indicateurs financiers
+Tableau de bord de gestion (savoir construire un tableau de bord, identifier les faiblesses et les commenter)
+Faire les exercices suggérés d’après la séance.
+Indicateurs financiers (RCI-RNR)
+Le tableau qui suit présente des résultats du dernier exercice terminé le 31 décembre 20X0. Le résultat avant impôts de chacune des divisions tient compte des coûts du siège social, qui sont entièrement répartis entre les divisions au prorata de leur chiffre d’affaires respectif. Le coût du capital est de 12 %.
+Le nouveau directeur des ventes de la division A pense qu’on peut améliorer le rendement sans modifier le montant des ventes. ​
+Il suggère:​
+Nous pourrions acquérir un nouvel équipement au coût de 4 000 000 $.​ Cet équipement permettrait de réduire le coût variable de fabrication de 10%. Toutefois, le coût fixe de fabrication augmenterait annuellement de 2 000 000 $.​
+Travail à faire :
+Calculez le RCI et le RNR actuel de la division A. ​
+Calculez le RCI et le RNR si vous acceptez la proposition du directeur des ventes sachant que les coûts variables de fabrication représentent 30 % de ventes.
+Quelle sera la décision du directeur de la division A concernant la proposition du directeur des ventes ? Justifier.
+Calculez le RNR pour la division B et pour la division C (sans le projet). Que pouvez-vous conclure ?
+Actuellement l’évaluation de la performance de chacune des divisions est basée uniquement sur le RCI. Sachant que la division C est un centre de profit, commentez le choix de l’indicateur de performance.  
+Solution
+Calculez le RCI et le RNR actuel de la division A. ​
+RCI : 4 800 000 $ / 40 000 000 $​= 12 %
+RNR : 4 800 000 $ -  (12 % x 40 000 000 $) 4 800 000 = 0 $
+Calculez le RCI et le RNR de la division A si vous acceptez la proposition du directeur des ventes sachant que les coûts variables de fabrication représentent 30 % de ventes.
+   Nouveau résultat = Résultat actuel 4 800 000 $ + 550 000 $ = 5 350 000 $​
+   Nouveau capital investi = 40 000 000 + 4 000 000 = 44 000 000 $
+   Nouveau RCI = 5 350 000 $ / 44 000 000 $ = 12,16%​
+   Nouveau RNR = ​
+   Résultat avec le projet – rendement exigé (44 000 000 $ x 12 % = 5 280 000 $)​
+   5 350 000 – 5 280 000 $ = 70 000 $​
+Quelle sera la décision du directeur de la division A concernant la proposition du directeur des ventes ? Justifier.
+Le directeur de la division A prendra la décision d’investir dans le nouvel équipement, car le projet fait augmenter son RCI de 12 % à 12,16%. Le rendement du projet est donc supérieur au rendement qu’il génère actuellement avec ses actifs. S’il était évalué selon le RNR, il aurait également accepté le projet, car le rendement du projet est supérieur au rendement de 12% exigé (coût en capital) par l’entreprise. Le rendement actuel de la division est de 12%, soit l’équivalent du coût en capital, ce qui explique que le RNR actuel est de 0 $. En acceptant le projet, le nouveau RNR est de 70 000$. Comme il est supérieur à zéro, le directeur devrait accepter la proposition d’un point de vue quantitatif. 
+Calculez le RNR pour la division B et pour la division C. Que pouvez-vous conclure ?
+En utilisant l'approche du résultat net résiduel, les deux investissements sont égaux. Toutefois, cela ne tient pas compte du fait que la division C a besoin de moins d'actifs pour atteindre le même niveau de revenu résiduel.
+Actuellement l’évaluation de la performance de chacune des divisions est basée uniquement sur le RCI. Sachant que la division C est un centre de profit, commentez le choix de l’indicateur de performance.  
+Les unités d’affaires sont des centres de profits. Le RCI n’est pas cohérent avec la nature du centre puisque les responsables n’ont pas le contrôle sur les choix d’investissements qui sont faits. 
+Explication : Les gestionnaires des centres de profit sont responsables de générer des ventes et de contrôler les coûts, on les évalue donc sur le résultat d’exploitation qu’ils génèrent. Analyser les écarts budgétaires peut être un bon moyen d’évaluer la performance. 
+Les entreprises ne peuvent pas évaluer les centres d'investissement de la même manière qu'elles évaluent les centres de profit, car le résultat d'exploitation n'indique pas l'efficacité avec laquelle la division utilise ses actifs. Le RCI procure deux niveaux d’information : (1) le profit généré par la division (résultat d’exploitation) et (2) l'efficacité avec laquelle la division utilise ses actifs.
+Tableau de bord de gestion
+VisioWeb est une agence de design graphique et de stratégie-développement web, fondé par Susanna Oleart il y a 10 ans. Reconnue sur le marché pour ses innovations technologiques, VisioWeb a connu une croissance fulgurante, même si elle se situe sur un marché de niche. Son secret pour rester compétitive : attirer les meilleurs designers web. La croissance de l’activité de l’agence ces dernières années a incité Susana Oleart à déléguer une grande autonomie à ses responsables d’unités d’affaires. Ces derniers définissent les prestations proposées à leurs clients, les prix pratiqués et gèrent leurs coûts. Les responsables des unités d’affaires doivent atteindre un certain % de RCI chaque année (le % dépend de l’historique et de la situation de chaque unité), pour obtenir une prime équivalente à 20 % de leur salaire brut. Le RCI est calculé en divisant le résultat d’exploitation par l’actif immobilisé.  
+Cette année, avec la crise, le marché du design graphique s’est fortement contracté, les entreprises cherchent à investir dans des activités perçues comme strictement essentielles à leur survie. En outre, la concurrence sur le marché du design graphique s’est largement intensifiée, et seuls les joueurs les plus reconnus semblent tirer leur épingle du jeu, en captant les clients les plus rentables.  
+Considérant les difficultés auxquelles son entreprise fait face, Susanna souhaite moderniser ses technologies pour stimuler la croissance et rendre son entreprise plus concurrentielle. Les statistiques montrent que les entreprises investissent en moyenne 3 % à 6 % de leur chiffre d'affaires en nouvelles technologies.  
+Elle estime également qu’il est important de compléter son système de mesure de la performance avec des indicateurs de performance non financiers. Elle entame donc une démarche visant à développer, à terme, un tableau de bord complet. Toutefois, dans l’immédiat, elle préfère se concentrer sur la dimension qui est au cœur de la mission et du positionnement stratégique de VisioWeb : soit l’innovation et l'apprentissage. Elle souhaite également se limiter à deux objectifs afin de motiver ses équipes sur ces objectifs. Les cibles seront définies lorsqu’il y aura consensus sur les objectifs et les indicateurs. 
+Elle propose les éléments suivants :   
+TRAVAIL À FAIRE : 
+Commentez l’objectif et l’indicateur de performance proposé pour chaque élément du tableau de bord qui vous est proposé. Justifiez votre réponse.  
+Démarche proposée pour répondre à cette question
+Identifier la stratégie / mission de l’entreprise. Est-ce que les objectifs proposés permettent d’atteindre la mission et les objectifs de l’entreprise (les facteurs clés du succès) ?
+La dimension : connaitre le but visé par chaque dimension.
+La dimension innovation et apprentissage fait référence aux actifs incorporels (par exemple, les compétences et les aptitudes des employés) qui sont nécessaires pour maintenir les processus internes de l'organisation. Plus généralement, il s'agit des compétences des employés, des systèmes d'informations et de la culture d’entreprise.
+Est-ce que les éléments sont dans la bonne dimension ? Example : est ce que maintenir le niveau d’excellence parmi les designers web fait partie d’un objectif que l’on peut retrouver dans la dimension innovation et apprentissage. 
+Lien entre l’indicateur et l’objectif. Est-ce que l’indicateur permet d’atteindre et de mesurer l’objectif visé ?
+Le camp de jour serait proposé au prix de 225 $ par semaine. 
+ | Prix de vente pour calculer la MCV
+La directrice de la garderie a déjà passé environ 5 heures à réfléchir à la possibilité d'offrir le camp de jour. 
+ | Coût irrécupérable
+Non pertinent
+La directrice estime qu’il faudrait payer 16 heures une éducatrice au printemps pour qu’elle prépare le contenu et le calendrier des activités.
+ | Coût fixe spécifique
+16 hrs x 25 $ = 400 $
+Coût moyen par semaine 
+400 $ / 8 sem = 50 $ / sem
+Une éducatrice externe travaillera exclusivement pour le camp de jour pendant 37,5 heures par semaine. 
+Un animateur de camp de jour sera également embauché sur la même durée. 
+ | Coûts fixes spécifiques
+Employés
+Éducatrice = 37,5 hrs x 25 $ = 937,50 $ x 8 sem. = 7 500 $
+Animateur = 37,5 hrs x 15 $ = 562,50 $ x 8 sem. = 4 500 $
+Du matériel devra être acheté spécifiquement pour le camp de jour et utilisé pour les 8 semaines du camp pour un total de 160 $.
+ | Coût fixe spécifique = 160 $ 
+Coût moyen par semaine
+160 $ / 8 sem = 20 $
+La direction estime également que des frais de l’ordre de 40 $ par enfant par semaine seront nécessaires pour les différentes activités. 
+ | Coût variable par semaine
+Le repas et les collations seront fournis. Les calculs réalisés dans le passé montrent que le coût des repas (incluant les aliments, le salaire du cuisinier et des aides-cuisiniers, les équipements et le loyer pour la portion du bâtiment occupée par la cuisine) s’élève à 8,00 $ par enfant par jour. Sur ce montant, les aliments représentent 3,50 $.
+ | 8,00 $ coût total – non pertinent inclus coûts communs
+
+3,50 $ coût variable par jour
+3,50 $ x 5 jours = 17,50 $ / sem
+Le loyer mensuel du bâtiment de la garderie est de 10 000 $. 
+ | Coût commun - non pertinent
+Analyse des coûts (par semaine) |  
+  |  
+Coûts fixes spécifiques (pour l'ensemble du groupe) |   1 570,00 $ 
+Préparation du camp de jour |        50,00 $
+Salaire de l'éducatrice  |      937,50 $ 
+Salaire de l’animateur |      562,50 $ 
+Matériel |        20,00 $    
+  |  
+Coûts variables par enfant (par semaine) |        57,50 $ 
+Collations et dîners |        17,50 $ 
+Activités diverses  |        40,00 $ 
+  |  
+Analyse coût-volume-résultat (par semaine) |  
+  | 
+Marge sur coûts variables  | 167,50 $
+ | 
+Point mort  | 10 enfants
+ | 
+Marge de sécurité | 10 enfants
+  | 
+Résultat potentiel (par semaine) | 1 780,00 $
+Capacité totale:​ | ​Calculs | 40 000 h​
+Capacité actuellement utilisée: ​
+Production régulière Boréal+ | ​3,5 h x 8 000 unités =  | 28 000 h​
+Capacité disponible pour produire la commande spéciale:​ | ​40 000 h – 28 000 h | 12 000 h ​
+Capacité requise de la commande: ​ | ​3,5 h x 3 000 unités =   | 10 500 h​
+Capacité excédentaire :​ | ​12 000 h – 10 500 h | 1 500 h​
+Option A
+ | Option B |  | Différentiel
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Unités de la commande spéciale | 3 000 unités | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Prix de vente de la commande spéciale
+ | 550 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Coûts variables :  | 425 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ |  (+) augmentation coût de MOD | 15 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ |  (+) augmentation coût de MP (logo) | 5 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ |  (-) réduction commission (aucun) | (10 $) | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Marge sur coûts variables  | 115 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Marge sur coûts variables totale | 345 000 $ | 
+Refuser la commande
+Spéciale
+
+Ventes   0 $
+Coûts    0 $
+ | Coûts fixes spécifiques
+    Frais de maintenance
+    Frais de livraison | 
+50 000 $
+60 000 $ | 
+Résultat    0$ | Résultat d’exploitation | 235 000 $ | Augmentation du résultat 235 000 $
+ | Boréal+ | Toundra | Arctique | Total
+Prix | 675 $ | 760 $ | 1 125 $ | 
+Coûts variables | 425 $ | 515 $ | 745 $ | 
+MCV unitaire | 250 $ | 245 $ | 380 $ | 
+Nombre HM | 3,5 hm | 5 hm | 7,5 hm | 
+MCV par heure machine | 71,43 $ / hm | 49,00 $ / hm | 50,67 $ / hm | 
+Priorisation | 1 | 3 | 2 | 
+Dans la mesure où Nature inc. n’a pas la capacité nécessaire pour produire l’entièreté des commandes, l’entreprise devrait produire le modèle Boréal+ en premier, le modèle Arctique en deuxième et le modèle Toundra en dernier avec la capacité restante. | Dans la mesure où Nature inc. n’a pas la capacité nécessaire pour produire l’entièreté des commandes, l’entreprise devrait produire le modèle Boréal+ en premier, le modèle Arctique en deuxième et le modèle Toundra en dernier avec la capacité restante. | Dans la mesure où Nature inc. n’a pas la capacité nécessaire pour produire l’entièreté des commandes, l’entreprise devrait produire le modèle Boréal+ en premier, le modèle Arctique en deuxième et le modèle Toundra en dernier avec la capacité restante. | Dans la mesure où Nature inc. n’a pas la capacité nécessaire pour produire l’entièreté des commandes, l’entreprise devrait produire le modèle Boréal+ en premier, le modèle Arctique en deuxième et le modèle Toundra en dernier avec la capacité restante. | Dans la mesure où Nature inc. n’a pas la capacité nécessaire pour produire l’entièreté des commandes, l’entreprise devrait produire le modèle Boréal+ en premier, le modèle Arctique en deuxième et le modèle Toundra en dernier avec la capacité restante.
+Volume prévu | 4 000 unités | 3 000 unités | 2 000 unités | 9 000 unités
+ | 43 000 heures
+- (4 000 x 3,5 h) 14 000
+= 29 000 heures restantes | 14 000 h
+- (3 000 x 5) 15 000
+(1 000) h
+1 000 h / 5 h =
+ 200 unités
+(unités auxquelles on    renonce)
+ | 29 000 h
+- (2 000 x 7,5) 15 000
+= 14 000 heures | 
+Plan de production optimal | 4 000 unités | 3 000 – 200 = 2 800 unités | 2 000 unités | 8 800 unités
+MCV | 4 000 x 250 $
+= 1 000 000 $ | 2 800 x 245 $
+= 686 000 $ | 2 000 x 380 $
+= 760 000 $ | 
+Frais fixes spécifiques  | 715 000 $
+ | 555 000 $ | 380 000 $ | 
+Marge sur coûts spécifiques | 285 000 $ | 131 000 $ | 380 000 $ | 796 000 $
+Coûts communs | ** rappel S01 coût total / nombre d’unités = coût moyen 
+le coût total est donc 20 $ x 9 000 unités
+Le coût fixe total est constant à l’intérieur du segment significatif | ** rappel S01 coût total / nombre d’unités = coût moyen 
+le coût total est donc 20 $ x 9 000 unités
+Le coût fixe total est constant à l’intérieur du segment significatif | ** rappel S01 coût total / nombre d’unités = coût moyen 
+le coût total est donc 20 $ x 9 000 unités
+Le coût fixe total est constant à l’intérieur du segment significatif | 180 000 $
+Résultat d’exploitation | Résultat d’exploitation | Résultat d’exploitation | Résultat d’exploitation | 616 000 $
+Refuser 
+la commande spéciale 
+Option A | Accepter 
+la commande spéciale
+Option B | Analyse différentielle
+Impact sur le résultat d’exploitation
+Revenus    0 $  | MCV totale
+(227,50 $ x 1000 un.)         227 500 $
+(-) Coûts fixes spécifiques  125 000 $
+(-) Coût de renonciation      131 000 $ | 
+Coûts         0 $  | MCV totale
+(227,50 $ x 1000 un.)         227 500 $
+(-) Coûts fixes spécifiques  125 000 $
+(-) Coût de renonciation      131 000 $ | 
+Résultat d’exploitation     0 $ |                                             (28 500) $ | (28 500) $
+Produits | Boréal+ | Toundra | Arctique
+Ventes (demande actuelle) (unités) | 4 000 | 3 000 | 2 000
+Augmentation des ventes en % | 6 % | 8 % | 10 %
+MCV (unitaire) | 250 $ | 245 $ | 380 $
+Heures machines | 3,5 heures | 5 heures | 7,5 heures
+MCV supplémentaire
+
+MCV supplémentaire Boréal+ : (6 % x 4 000 unités x 250 $) – 50 000 $ = 10 000 $
+
+MCV supplémentaire Toundra : (8 % x 3 000 unités x 245 $) – 50 000 $ = 8 800 $
+
+MCV supplémentaire Arctique : (10 % x 2 000 unités x 380 $) – 50 000 $ = 26 000 $
+
+
+Il est plus avantageux de faire la publicité pour le modèle Arctique, car c’est lui qui génère la meilleure augmentation de bénéfice.
+Amortissement machinerie | 50 000 
+Amortissement bâtiment 150 000 $ x 65 % | 97 500 
+Électricité 44 500 $ x 85 % | 37 825 
+Entretien de la machinerie | 56 755 
+Frais de fabrication divers | 27 305 
+Fournitures de fabrication | 31 650 
+MOI | 95 690 
+Réparation machine | 34 600 
+TOTAL |                431 325 $              
+ | Sommet | Piste
+MP | 425 $ | 425 $
+
+MOD | 400 $
+ | 425 $
+
+FGF imputés |  240 $ | 255 $
+Coût fabrication unitaire | 1 065 $ | 1 105 $
+ | Sommet | Piste
+MP | 425 $ | 425 $
+
+MOD | 400 $
+ | 425 $
+
+FGF imputés |  210,92 $ | 281,22 $
+Coût fabrication unitaire | 1 035,92 $ | 1 131,22 $
+Calculs pour le produit Sommet :
+MP : 425 $ inchangé
+MOD : 400 $ inchangé 
+FGF : 140,61 $ x 1,5 HM
+ | Calcul pour le produit Piste :
+MP :425 $ inchangé
+MOD : 425 $ inchangé
+FGF : 140,61 $ x 2 HM
+
+ | 
+Sommet
+ | Piste
+Selon les heures de MOD
+ | 1 065 $ | 1 105 $
+Selon les heures machine
+ | 1 035,92 $ | 1 131,22 $
+Marge brute * | Sommet | Sommet | Piste | Piste
+Selon heures de MOD |   435,00 $ | 29 % | 895,00 $ | 44,75 %
+Selon heures de H-M | 464,08 $ | 30,9 % | 868,78 $ | 43,4 %
+ | Sommet | Piste
+Heures de MOD | 8 | 8,5
+Heures machine | 1,5 HM | 2 h-m
+ | Division A​ | Division B​ | Division C​
+Chiffre d’affaires​ | 85 000 000 $​ | 90 000 000 $​ | 70 000 000 $​
+Résultat avant impôts​ | 4 800 000 $​ | 7 800 000 $​ | 6 600 000 $​
+Capital investi​ | 40 000 000 $​ | 60 000 000 $​ | 50 000 000 $​
+Division B | Division C
+7 800 000 $​
+- 7 200 000 $
+600 000 $ | 6 600 000 $​
+- 6 000 000 $
+600 000 $
+  | Objectifs   | Indicateurs de performance 
+Innovation et apprentissage   | Maintenir le niveau d’excellence parmi les designers web  | Nombre d’années d’études postsecondaires moyen des employés.  
+Innovation et apprentissage   | Investir dans des technologies innovantes   | Montant en $ investi  

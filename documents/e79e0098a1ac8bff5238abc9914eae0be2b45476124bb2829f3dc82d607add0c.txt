@@ -1,0 +1,2118 @@
+Plan de révision — Quiz 1 Finance (lundi 28 sept.)
+🎯 Plan de révision — Quiz 1 de Finance
+FINA10200 — Gestion financière · Prépare-toi comme si tu n'avais jamais vu la matière. Tout est ici.
+📅
+Lundi 28 sept., 12h00
+— au DÉBUT de la séance
+📖 À
+livres fermés
+📋
+Feuille de formules fournie
+(même que l'intra)
+🛡️ Le quiz
+ne peut pas baisser
+ta note
+⏰ Horaire du jour
+📚 Banque d'exercices
+🧮 1. Calculatrice
+🏢 2. Intro finance
+💰 3. Math financières
+🏦 4. Obligations
+📈 5. Actions
+✍️ 6. Questions solutionnées
+📝 7. TP 1 & TP 2
+📋 8. Feuille de formules
+🎯 9. Stratégie & erreurs
+0 % complété
+🚀 Départ : ce que tu dois savoir sur ce quiz
+L'essentiel en 4 points
+(source : annonce officielle de la prof, Mélanie Caron-Harris, 22 sept.) :
+Quand :
+lundi 28 septembre,
+au tout début de la séance
+(la séance commence à 12h00).
+Arrive en avance
+— le quiz se passe au début, pas pendant!
+Format :
+à
+livres fermés
+. Une
+feuille de formules est attachée au quiz
+— c'est exactement la même que celle de l'examen intra (« 10200 - Feuille de formules - Intra MAJ 2025 »). Elle est téléchargée dans ton dossier
+Finance\ZoneCours
+et reproduite au
+module 8
+.
+Portée :
+TOUT ce qui précède la matière « Risque et MÉDAF » (qui commence lundi après le quiz) =
+Séances 1-2 (intro + math financières), Séance 3 (obligations), Séance 4 (actions)
+→ chapitres 1, 5, 6, 7, 8 du livre.
+Filet de sécurité :
+si ton % au quiz est
+inférieur
+à ton % à l'intra, la pondération du quiz est
+transférée à l'intra
+. Le quiz ne peut que t'aider. Absence = transfert automatique. Autrement dit :
+va-le-faire, tu ne risques rien.
+⚠️ La règle d'or de la prof (FAQ officielle) :
+les démarches doivent présenter
+tes formules en entier
+avec les valeurs substituées. Une réponse « N=28, PMT=30$, PV=850$, FV=1000$, I/Y=… »
+N'EST PAS ACCEPTÉE
+. Tu peux utiliser la calculatrice pour trouver le chiffre, mais tu dois écrire la formule complète sur ta feuille.
+Comment utiliser ce plan aujourd'hui
+Suis l'
+horaire
+bloc par bloc. Chaque bloc a son échéance. Coche les tâches : ta progression est
+sauvegardée automatiquement
+dans le navigateur.
+Les
+boutons « Révéler »
+cachent les réponses des exercices : essaie vraiment AVANT de cliquer.
+Les
+quiz QCM
+en fin de module te disent si tu as compris. Refais-les ce soir pour l'auto-test final.
+Pour chaque calcul, je te donne la
+séquence de touches BA II Plus
+(fonds sombres). En parallèle, refais le calcul sur TA calculatrice : c'est la seule façon que tes mains apprennent.
+⏰ Horaire du dimanche — version « réveil 13h » (13h00 → 22h45), prières incluses
+La ligne
+surlignée en orange
+est le bloc en cours selon l'heure de ton ordinateur. Les blocs passés deviennent pâles.
+Échéance = l'heure maximale où ce bloc doit être terminé.
+🕌
+Prières (dim. 27 sept., Montréal, convention IslamicFinder)
+: Fajr 5h25 · Dhuhr 12h46 · Asr 16h05 · Maghrib 18h47 · Isha 20h08 — chaque prière a son créneau dans l'horaire ci-dessous. Les horaires varient légèrement selon la convention de calcul : si ton application/mosquée diffère de 5-10 min, suis la tienne, les créneaux sont assez souples pour absorber.
+⚡ LE PROTOCOLE ANTI-RETARD (à suivre à la lettre) :
+pour CHAQUE exercice du livre :
+1)
+lis l'énoncé (lien direct dans la
+banque d'exercices
+) →
+2)
+schéma temporel + démarre le calcul
+sans regarder le corrigé
+→
+3)
+si bloqué plus de 2 minutes ou fini : ouvre le corrigé, termine WITH lui, coche l'exercice.
+6-8 min par exercice, pas plus.
+Le but n'est pas de tout réussir du premier coup, c'est de TOUCHER à chaque exercice avec correction immédiate. Si un bloc prend plus de 20 min de retard : saute au prochain bloc 🔴 et mets ce qui reste dans la
+file d'attente de lundi matin
+(8h00-11h30 avant le quiz de 12h00).
+🧠 LA LOGIQUE DE LA SÉLECTION (pourquoi ces exercices-là) :
+chaque exercice choisi représente un
+TYPE de problème unique
+— le maîtriser = maîtriser tous ses clones. Ce qu'on saute délibérément (et pourquoi) :
+ch. 5 :
+3, 9, 11, 14, 19, 20 (clones de 2/5/15 avec d'autres chiffres) ·
+ch. 6 :
+2, 5, 6, 8, 9, 10 (clones de VAA/PMT), 15, 17, 19, 22, 31, 33, 35 (clones de conversions/n), 25 (clone rapide de 13), 49, 52, 55, 61 (clones de 45/47), 59, 69, 72 →
+lundi matin à tête fraîche
+·
+ch. 7 :
+6 (clone de 3), 19 (couvert par la question solutionnée BDJ), 26-27 (rapides, si tu veux) ·
+ch. 8 :
+1 (couvert par la question solutionnée Entendus), 4, 12, 13 (clones de Gordon 2 étapes), 20 (clone de 19 → lundi). Si un type te semble encore flou après son exercice : fais UN clone de plus dans la
+banque
+, pas trois.
+Heure
+Bloc
+Contenu & échéance
+13h00 – 13h20
+🕌 + 🥐 Dhuhr + brunch
+🕌 Dhuhr en premier
+(tu étais endormi à 12h46 — sa fenêtre est ouverte jusqu'à ~16h05, aucun problème). Puis brunch léger, grand verre d'eau, café/thé si dispo, et F5 sur ce plan.
+13h20 – 13h35
+🧮 Calculatrice expresse
+Module 1 en mode rapide : les
+5 gestes
+uniquement, refaits sur TA machine (surtout le Geste E — obligations).
+Échéance 13h35.
+13h35 – 14h35
+💰 Théorie math fin COMPLÈTE
+Module 3 au complet : montant simple → annuité → perpétuité →
+conversions de taux
+→ croissance → valeur entre 2 dates + les 4 étapes de la démarche universelle. Les exemples A1-A15 : fais-en la moitié sur ta machine.
+C'est le socle de tout le quiz — ne le saute pas.
+Échéance 14h35.
+14h35 – 16h00
+📖 🔴 SÉLECTION ch. 5 + ch. 6 (un exercice par TYPE)
+Ch. 5 :
+2, 4, 5, 6, 15  ·
+Ch. 6 :
+4, 11, 13, 14, 24, 29, 41, 42, 45, 47, 54 —
+banque
+· corrigés ch.
+5
+/
+6
+. Protocole 5-6 min/ex.
+Échéance 16h00.
+16h00 – 16h10
+🕌 Asr
+🕌 Asr ~16h05
+— la fenêtre ferme bientôt (Maghrib ~18h47).
+16h10 – 17h00
+🍽️ SOUPER
+Ton souper, vraie coupure (50 min).
+17h00 – 17h45
+🏦 Théorie obligations
+Module 4 : prix, RAE, entre 2 dates, prime/escompte, clauses, Fisher, courbe, durée + exemples B1-B3.
+Échéance 17h45.
+17h45 – 18h55
+📖 🔴 SÉLECTION ch. 7 (types uniques)
+Exercices
+3, 7, 8, 17, 24, 31
++
+au moins 2 exercices supplémentaires — Obligations
+(essentiels selon la prof).
+Échéance 18h55.
+18h55 – 19h05
+🕌 Maghrib
+🕌 Maghrib ~18h47
+— coupure parfaite entre les obligations et les actions.
+19h05 – 19h45
+📈 Théorie actions
+Module 5 : privilégiées, Gordon (piège D₀/D₁!), 2 étapes, C/B + exemples.
+Échéance 19h45.
+19h45 – 20h05
+📖 🔴 ch. 8 (1/2)
+Exercices
+8, 10, 11
+—
+banque
+·
+corrigé
+.
+Échéance 20h05.
+20h05 – 20h15
+🕌 Isha
+(sert de pause)
+🕌 Isha ~20h08
+— 10 minutes de coupure avant le sprint final.
+20h15 – 20h45
+📖 🔴 ch. 8 (2/2)
+Exercices
+15, 16, 17, 23
+.
+Échéance 20h45.
+20h45 – 21h50
+📝 🔴 TP 1 + TP 2
+Les meilleurs prédicteurs du quiz.
+Tente chaque exercice 6-8 min au brouillon, puis étudie la solution (module 7 ou
+vidéos TP 1
+/
+TP 2
+).
+Échéance 21h50.
+21h50 – 22h20
+✍️ Questions solutionnées (mode étude)
+Module 6 :
+retraite, Chréphane, BDJ, Entendus, Villa
+— lis-les avec leur solution : elles couvrent exactement les types des exercices qu'on a sautés (Gordon simple, coupon d'une nouvelle obligation, prix avec temps écoulé…).
+Échéance 22h20.
+22h20 – 22h45
+🎯 Clôture
+Module 9 (les 7 erreurs fatales + routine de question) + feuille de formules (module 8) +
+1 QCM par module
+en test éclair.
+Échéance 22h45.
+😴 Dodo
+22h45 au lit — les chats DEHORS 😼
+Nuit critique : 8h+ de sommeil
+(réveil ~7h, quiz à 12h00). Après une nuit hachée par les chats, c'est CETTE nuit qui décide de ta performance de lundi. Porte fermée, téléphones loin, réveil 7h00.
+🎒 LUNDI MATIN (7h00 – 11h30) — les durs à tête reposée :
+① 8h00 : ch. 6 complexes
+59, 69, 72
+(Bilbo, Chicago Bulls) + ch. 8
+19, 20
+(Formula 51, Chartreuse), ② 9h00 : re-test des QCM ratés + TP non terminés, ③ 10h30 : relecture feuille de formules + module 9. Et arrive EN AVANCE :
+le quiz débute au début de la séance de 12h00.
+📌 La totalité des exercices demandés par la prof est accessible dans la
+📚 BANQUE D'EXERCICES COMPLÈTE
+(67 exercices du livre avec lien direct à la page exacte de TON manuel PDF + corrigé par chapitre + supplémentaires + TP + capsules + vidéos). Tout est là, tu n'as rien à chercher ailleurs.
+📚 Banque d'exercices complète — tout ce qui est demandé, cliquable
+Chaque ligne = un exercice officiellement demandé par la prof pour le quiz.
+Clique sur la page pour ouvrir l'énoncé directement dans ton manuel PDF (4e édition), clique sur « Corrigé » pour la solution complète. Coche au fur et à mesure — la barre du haut suit ta progression globale.
+💰
+Règle d'or de la prof :
+livre OUVERT pas nécessaire — au quiz, écris toujours la formule en entier avec les valeurs AVANT le résultat. Les corrigés montrent la démarche exigée.
+Chapitre 5 — Mathématiques financières : montant simple (12 exercices · bloc 8h15)
+Énoncés : manuel p. 150-151 ·
+📘 Corrigé complet ch. 5
+(tes solutions détaillées, déjà prêtes)
+Fait
+Ex.
+Énoncé (page du manuel)
+Thème
+2
+p. 150
+Valeurs capitalisées (série rapide)
+3
+p. 150
+Valeurs actualisées
+4
+p. 150
+Taux d'intérêt
+5
+p. 150
+Nombre de périodes
+6
+p. 150
+Taux d'intérêt (doubler un montant)
+7
+p. 150
+Nombre de périodes
+9
+p. 150
+Nombre de périodes (épargne études)
+11
+p. 150
+Valeurs actualisées (héritage)
+14
+p. 151
+Valeur actualisée (BD de Superman)
+15
+p. 151
+Taux de rendement (sculpture de Degas)
+19
+p. 151
+Valeur capitalisée (25 000 $ à placer)
+20
+p. 151
+Nombre de périodes (10 000 $ → 100 000 $)
+Chapitre 6 — Mathématiques financières : annuités, perpétuités, taux (32 exercices · blocs 11h00, 13h05, 14h40)
+Énoncés : manuel p. 180-188 ·
+📘 Corrigé complet ch. 6
+(couvre les 32, section par section)
+Fait
+Ex.
+Énoncé
+Fait
+Ex.
+Énoncé
+2
+p. 181
+24
+p. 183
+4
+p. 181
+25
+p. 183
+5
+p. 181
+29
+p. 183
+6
+p. 181
+31
+p. 183
+8
+p. 181
+33
+p. 183
+9
+p. 181
+35
+p. 183
+10
+p. 181
+41
+p. 184
+11
+p. 181
+42
+p. 184
+13
+p. 182
+45
+p. 184
+14
+p. 182
+47
+p. 185
+15
+p. 182
+49
+p. 185
+17
+p. 182
+52
+p. 185
+19
+p. 182
+54
+p. 185
+22
+p. 182
+55
+p. 185
+59
+p. 186
+(Bilbo!)
+61
+p. 186
+69
+p. 187
+(Chicago Bulls)
+72
+p. 188
+Chapitre 7 — Obligations (10 exercices · bloc 17h00) + supplémentaires
+Énoncés : manuel p. 220-225 ·
+📘 Corrigé complet ch. 7
+(énoncés réécrits + solutions pas à pas)
+Fait
+Ex.
+Énoncé
+Thème
+3
+p. 220
+Prix d'une obligation (CIR)
+6
+p. 220
+Prix avec temps écoulé (Simonato)
+7
+p. 220
+RAE à partir de la cote (Fleur)
+8
+p. 223
+Trouver le taux de coupon (Reznik)
+17
+p. 224
+Risque de taux FRA/CAN
+19
+p. 224
+Coupon d'une nouvelle obligation (CAT)
+24
+p. 224
+Théorie : prix, prime, escompte
+26
+(a-b)
+p. 225
+Zéro-coupon vs coupons (émission)
+27
+p. 225
+Échéance et pair
+31
+p. 225
+Obligations non conventionnelles (Tour Magne)
++ Exercices supplémentaires — Obligations
+:
+📄 document
+— la prof : « les exercices du livre sont insuffisants pour bien vous préparer au quiz » →
+essentiels
+. Travaille-les au bloc 17h00 (les concepts croisent les exercices du livre).
++ Exercices supplémentaires — conversion de taux
+:
+📄 document
++
+📄 extra avec solutions
+— à faire pendant le bloc CH. 6 si tu veux du volume en plus, sinon lundi matin.
+Chapitre 8 — Actions (13 exercices · bloc 19h15)
+Énoncés : manuel p. 260-262 ·
+📘 Corrigé complet ch. 8
+(énoncés réécrits + solutions pas à pas)
+Fait
+Ex.
+Énoncé
+Fait
+Ex.
+Énoncé
+1
+p. 260
+13
+p. 261
+4
+p. 260
+15
+p. 261
+8
+p. 261
+16
+p. 261
+10
+p. 261
+17
+p. 261
+11
+p. 261
+19
+p. 262
+12
+p. 261
+20
+p. 262
+23
+p. 262
+(croissance 4 paliers)
+Travaux pratiques + questions solutionnées (bloc 21h05)
+Fait
+Quoi
+Énoncé
+Solution
+TP 1
+— 3 exercices (math fin)
+📄 PDF
+Module 7 du plan
+·
+▶ vidéos officielles
+TP 2
+— 2 exercices (titres)
+📄 PDF
+Module 7 du plan
+·
+▶ vidéos officielles
+Q. solutionnée « retraite »
+Module 6 — Q1
+solution pas à pas incluse
+Q. solutionnées Chréphane & BDJ
+(obligations)
+Module 6 — Q2/Q3
+solutions pas à pas incluses
+Q. solutionnées Entendus & Villa
+(actions)
+Module 6 — Q4/Q5
+solutions pas à pas incluses
+Capsules : exercices A1-A15 + C1-C4 + B1-B3
+Module 3
++
+Module 4
+réponses officielles incluses (boutons 👁)
+Vidéos du cours (si tu veux revoir une notion à l'oral)
+▶ TP 1 — solutions officielles (playlist)
+▶ TP 2 — solutions officielles (playlist)
+Les capsules PPT (Séance 2 capsules 1-5, Ch. 7, Ch. 8) : dossier
+ZoneCours
+— le contenu essentiel est déjà retranscrit dans les modules 3-5.
+🧮 Module 1 — La calculatrice BA II Plus pour débutant total
+Pourquoi c'est le module 1 :
+au quiz, la calculatrice est ton outil de vitesse. Pour trouver un
+taux de rendement à l'échéance (RAE/TRE)
+d'une obligation, elle est même
+obligatoire
+(essai-erreur à la main = trop long, la prof le confirme dans la FAQ). Mais souviens-toi :
+la calculatrice trouve le chiffre, ta plume écrit la formule.
+🖩 SI TU UTILISES UNE SHARP EL-733A (calculatrice physique) :
+tout marche pareil avec cette traduction :
+2ND → 2ndf
+·
+2ND CLR TVM → 2ndf + CA
+(CA = Clear All, en orange au-dessus d'une touche d'effacement — vérifie avec le test : tape
+99 N
+,
+2ndf CA
+,
+RCL N
+→ doit afficher 0) ·
+I/Y → i
+·
+CPT → COMP
+·
++/− → +/−
+. N, PV, PMT, FV sont identiques. ⚠️
+CA efface AUSSI les mémoires
+: écris tes taux périodiques sur papier (6+ décimales) au lieu de les stocker. Pas de P/Y à gérer (le cours travaille au taux périodique manuel de toute façon). Toutes les séquences de ce plan se lisent alors : remplace simplement I/Y par i et CPT par COMP.
+1.1 Ton clavier décrypté (seulement ce qui compte)
+Touche
+Nom
+À quoi ça sert
+2ND
+(&)
+Seconde fonction
+Active la petite fonction écrite
+au-dessus
+d'une touche (ex.
+2ND CLR TVM
+au-dessus de FV).
+N
+Nombre de périodes
+Combien de versements/périodes AU TOTAL.
+I/Y
+Taux par période
+Le taux
+périodique
+(celui qui matche la période de tes versements).
+PV
+Valeur actuelle
+Montant au début (aujourd'hui). Tu l'entres en
+négatif
+si c'est toi qui paies.
+PMT
+Versement
+Le montant récurrent ÉGAL (annuité).
+FV
+Valeur future
+Montant à la fin.
+CPT
+(%)
+Compute
+« Calcule-moi la case vide » — tu appuies dessus PUIS la touche cherchée.
+2ND CLR TVM
+Effacer TVM
+Remet N, I/Y, PV, PMT, FV à zéro.
+À faire avant CHAQUE problème.
+🚨 La convention des signes (l'erreur #1 des débutants) :
+la calculatrice voit l'argent comme des flux : ce qui
+sort de ta poche = négatif
+, ce qui
+entre dans ta poche = positif
+. Un seul signe par problème, sinon « Error 5 ». Ex. tu places −1 000 (sortie) aujourd'hui pour recevoir +1 500 (entrée) plus tard.
+1.2 Réglages à faire UNE fois
+Nombre de décimales (4 suffit, 8 pour vérifier)
+2ND
+. (le point = FORMAT) → tape
+4
+→
+ENTER
+→
+2ND
+CPT
+(QUIT)
+→ l'écran affichera DEC = 4.0000. La prof exige de la précision : garde le maximum de décimales dans tes calculs intermédiaires (utilise la touche
+STO 1
+pour mémoriser un résultat,
+RCL 1
+pour le rappeler).
+1.3 L'approche du cours : le taux périodique MANUEL
+Le guide BA II Plus du cours (dans ton dossier ZoneCours) utilise la méthode suivante, et c'est celle-ci que tu dois maîtriser :
+tu calcules TOI-MÊME le taux périodique
+(aligné sur la fréquence des versements), puis tu le mets dans I/Y. Pas de magie P/Y : tu gardes le contrôle. (Si tu connais déjà P/Y, tu peux l'utiliser, mais l'approche manuelle colle aux démarches écrites exigées.)
+1.4 Les 5 gestes de base — avec exemples complets
+Geste A — Montant simple : capitaliser (VA → VC)
+1 000 $ placés 2 ans à 3 % nominal capitalisation semestrielle. VC = ?
+Taux semestriel : 3 %/2 = 1,5 %. Périodes : 2 ans × 2 = 4 semestres.
+Formule à écrire : VC = 1 000 × (1,015)
+4
+=
+1 061,36 $
+2ND CLR TVM
+· 4
+N
+· 1.5
+I/Y
+· 1000
++/−
+PV
+· 0
+PMT
+·
+CPT
+FV
+→ 1 061,3636
+Geste B — Montant simple : actualiser (VC → VA)
+1 000 $ à recevoir dans 1 an, taux nominal 6 % capitalisation mensuelle. VA = ?
+Taux mensuel : 0,5 %. Périodes : 12 mois.
+Formule : VA = 1 000 × (1,005)
+−12
+=
+941,91 $
+2ND CLR TVM
+· 12
+N
+· 0.5
+I/Y
+· 0
+PV
+· 0
+PMT
+· 1000
+FV
+·
+CPT
+PV
+→ −941,9053 (le signe est une convention d'entrée/sortie)
+Geste C — Conversion de taux (l'arme secrète)
+Quel est le taux mensuel équivalent à un taux effectif de 6 % ?
+Formule : (1 + i
+eff
+) = (1 + i
+mens
+)
+12
+→ i
+mens
+= (1,06)
+1/12
+− 1 =
+0,486755 % par mois
+1.06
+y^x
+( 1 ÷ 12 )
+=
+→ 1.0048675 ·
+−
+1
+=
+→ 0.0048675
+Geste D — Annuité : VAA et VFA
+12 versements mensuels de 100 $, taux effectif 6 % (donc i
+mens
+= 0,486755 %, calculé au Geste C). Valeur acquise au dernier versement ?
+Formule : VFA = PMT × [(1+i)
+n
+− 1]/i = 100 × [(1,0048675)
+12
+− 1]/0,0048675 =
+1 232,71 $
+(valeur affichée par le guide du cours; le calcul exact sans arrondir le taux donne 1 232,65 $ — l'écart vient de l'arrondi du taux dans le guide)
+2ND CLR TVM
+· 12
+N
+· 0.486755
+I/Y
+· 0
+PV
+· 100
++/−
+PMT
+·
+CPT
+FV
+→ 1 232.7070
+Geste E — Obligation : prix (PV) et RAE (I/Y)
+VN 1 000 $, coupon 5 % (25 $ semestriel), 12 ans (24 périodes), TRE 8 % (4 % sem.). Prix ?
+Formule : P = 25 × [1 − (1,04)
+−24
+]/0,04 + 1 000 × (1,04)
+−24
+=
+771,30 $
+2ND CLR TVM
+· 24
+N
+· 4
+I/Y
+· 25
+PMT
+· 1000
+FV
+·
+CPT
+PV
+→ −771.30
+Même obligation achetée 1 040 $. RAE nominal ?
+On cherche le taux semestriel i tel que 1 040 = 25 × [1−(1+i)
+−24
+]/i + 1000(1+i)
+−24
+. La calculatrice le trouve par itération :
+2ND CLR TVM
+· 24
+N
+· 1040
++/−
+PV
+· 25
+PMT
+· 1000
+FV
+·
+CPT
+I/Y
+→ ≈ 2,526 (% semestriel) × 2 =
+≈ 5,05 % nominal sem.
+(C'est le seul calcul réellement IMPOSSIBLE à faire à la main dans un temps raisonnable — d'où la calculatrice obligatoire.)
+1.5 Les pièges qui coûtent des points
+Begin/End :
+si le premier versement est
+immédiat (début de période)
+, calcule l'annuité normale (fin) puis
+multiplie par (1+i)
+. C'est l'approche du cours (plus simple que le mode BGN de la calculatrice).
+Oublier 2ND CLR TVM
+entre deux problèmes → les vieux N/PV contaminent le calcul.
+I/Y est un POURCENTAGE
+: tu entres 4.5 pour 4,5 % (pas 0.045). Mais dans les formules écrites, tu utilises 0,045.
+N doit matcher la période de I/Y
+: mois avec mois, semestres avec semestres.
+Precision :
+convertis les taux avec un maximum de décimales (STO/RCL), arrondis seulement à la fin.
+À retenir :
+2ND CLR TVM → N, I/Y (périodique!), PV, PMT, FV → CPT. Signes cohérents. Début de période = ×(1+i). Pour le RAE d'une obligation : N, ±PV, PMT (coupon), FV (VN) → CPT I/Y, puis ×2 (nominal semestriel).
+🏢 Module 2 — Séance 1 : Introduction à la finance (concepts)
+Partie théorique du quiz : pas de calcul, mais des définitions à connaître froid. Lis ce module en 15 minutes, fais le quiz, et relis-le ce soir.
+2.1 Les deux branches de la finance
+Finance d'entreprise (gestion financière)
+Finance de marché
+Porte sur
+La gestion et la prise de décisions
+en entreprise
+Les
+marchés de capitaux
+: placement, gestion de portefeuille, gestion des risques dans les institutions financières
+Ton cours
+← FINA10200 est principalement axé sur
+cette branche
+→
+2.2 Le gestionnaire financier : les 3 grandes décisions
+Décision d'investissement
+: dans quels projets/actifs mettre l'argent de la firme?
+Décision de financement
+: d'où vient l'argent (dette, actions, bénéfices réinvestis)?
+Décision de dividende
+: distribuer les bénéfices aux actionnaires ou les réinvestir?
+Objectif de la gestion financière :
+maximiser la richesse des actionnaires (la valeur de l'action).
+2.3 Les problèmes d'agence ⭐ (grand classique de quiz)
+L'histoire :
+les
+actionnaires
+élisent le
+conseil d'administration
+, qui délègue la gestion à des
+gestionnaires
+(conseil exécutif). Or, l'intérêt des gestionnaires ≠ l'intérêt des actionnaires. Ce désalignement s'appelle le
+problème d'agence
+.
+Exemples de coûts d'agence :
+compte de dépenses discrétionnaire utilisé à des fins personnelles; actifs de l'entreprise pour le bien-être du gestionnaire (limousine, jet privé); acquisitions injustifiées pour le prestige; refus de projets à valeur ajoutée pour ne pas augmenter le risque; dépenses de contrôle pour surveiller les dirigeants (vérificateur interne).
+2.4 Les marchés de capitaux
+Marché primaire
+Marché secondaire
+Nouvelles émissions
+de titres. L'argent va
+à l'émetteur
+(l'entreprise qui se finance).
+Revente
+de titres entre investisseurs. L'argent va
+d'un investisseur à l'autre
+— l'émetteur ne touche rien.
+Analogie :
+le marché primaire, c'est la boutique qui vend une voiture neuve (l'argent va au fabricant). Le marché secondaire, c'est Kijiji (l'argent va au propriétaire précédent).
+2.5 Les formes d'organisation d'une entreprise
+Société par actions vs entreprise individuelle vs société de personnes : avantages/désavantages (responsabilité limitée, double imposition, transférabilité, capacité de lever des fonds). Retiens surtout : la
+société par actions
+= responsabilité limitée + vie illimitée + financement facilité, mais double imposition des dividendes et coûts d'agence.
+Quiz éclair — Intro
+1. Un gestionnaire utilise le jet privé de l'entreprise pour ses vacances. On parle de…
+Un coût de transaction
+Un coût d'agence
+Une prime de risque
+2. Tu achètes une action lors du passage de l'entreprise en Bourse (IPO). Ton argent va…
+À l'investisseur qui te la revend
+Au courtier uniquement
+À l'entreprise émettrice (marché primaire)
+3. Le problème d'agence oppose…
+Les actionnaires et les gestionnaires
+Les créanciers et les débiteurs
+Le gouvernement et les entreprises
+4. L'objectif de la gestion financière est de…
+Maximiser les profits à court terme
+Maximiser la richesse des actionnaires
+Minimiser les impôts
+💰 Module 3 — Séances 1-2 : Mathématiques financières (LE cœur du quiz)
+La phrase qui résume tout le cours :
+« Un dollar gagné aujourd'hui vaut plus qu'un dollar gagné demain. »
+Pourquoi? Parce que ton dollar d'aujourd'hui peut
+gagner des intérêts
+en attendant. Toute la finance de ce quiz découle de cette seule idée.
+3.1 Intérêt simple vs intérêt composé (la base de la base)
+Tu prêtes 100 $ à 10 % par année, pendant 2 ans.
+Intérêt simple
+(les intérêts ne rapportent rien) : 100 + 10 + 10 =
+120 $
+Intérêt composé
+(les intérêts rapportent à leur tour des intérêts) : 100 × (1,10)² =
+121 $
+Le 1 $ de différence? C'est
+10 % du 10 $
+gagné en année 1. C'est l'« intérêt sur l'intérêt ».
+En finance, on compose TOUJOURS.
+3.2 Le montant simple — LA formule universelle
+VA × (1 + r)
+t
+= VC
+VA = valeur actuelle (aujourd'hui) · VC = valeur capitalisée (future) · r = taux PÉRIODIQUE · t = nombre de périodes
+Tout problème de finance se ramène à
+déplacer un montant dans le temps
+:
+capitaliser
+= aller vers le futur (multiplier);
+actualiser
+= revenir vers aujourd'hui (diviser). Le taux d'actualisation tient compte du
+risque
+des flux.
+La ligne du temps à mémoriser
+(exemple r = 5 %) : 86,38 (t=−3) · 90,70 (t=−2) · 95,24 (t=−1) ·
+100,00 (aujourd'hui)
+· 105,00 (t=1) · 110,25 (t=2) · 115,76 (t=3). Remarque : les montants passés sont des actualisations (95,24 × 1,05 = 100).
+Exercices d'entraînement (exercices des capsules du cours)
+A1
+Valeur future de 100 $ dans 5 ans à 8 % par année?
+👁 Révéler
+VC = 100 × (1,08)
+5
+=
+146,93 $
+A2
+Valeur actuelle de 500 $ à recevoir dans 2 ans à 5,5 %?
+👁 Révéler
+VA = 500 / (1,055)² =
+449,23 $
+A3
+Valeur future dans 3 ans d'un montant de 100 000 $ reçu il y a 2 ans à 3 %?
+(piège : on CAPITALISE sur 5 ans au total)
+👁 Révéler
+VC = 100 000 × (1,03)
+5
+=
+115 927,41 $
+(le « il y a 2 ans » et « dans 3 ans » = 5 périodes de capitalisation au total)
+A4
+Dans un an, combien « coûtera » un montant de 700 000 $ à recevoir 22 années plus tard, à 4,5 %?
+(on actualise de 22 → 1, donc 21 périodes)
+👁 Révéler
+VA
+t=1
+= 700 000 / (1,045)
+21
+=
+277 751,20 $
+(attention au piège inverse : actualiser de 22 périodes donnerait 265 793 $ — c'est de t=22 à t=1, donc 21 périodes)
+3.3 L'annuité — regrouper des versements ÉGAUX
+VAA = PMT × [1 − (1 + r)
+−t
+] / r     VFA = PMT × [(1 + r)
+t
+− 1] / r
+PMT = versement constant · t = NOMBRE de versements · r = taux périodique (même période que les versements)
+🚨 LA règle d'or (la prof la répète partout) :
+le résultat d'une annuité (VAA) est
+TOUJOURS trouvé une période avant le premier versement
+. Si le premier versement est dans 1 mois, la VAA est « posée » à aujourd'hui. S'il est dans 13 mois, elle est posée au mois 12 — et il faut ensuite l'actualiser pour l'amener à aujourd'hui.
+Toujours dessiner le schéma temporel avant de calculer!
+Annuité de DÉBUT de période
+(premier versement immédiat) : calcule la VAA normale (fin de période) puis
+multiplie par (1 + r)
+. Ex. des capsules : un retraité veut 5 000 $/mois (début) pendant 25 ans à 3 % → VAA
+fin
+× (1 + i
+mens
+).
+A5
+Prêt hypothécaire : paiements mensuels de 1 500 $ pendant 25 ans, 3 % nominal capitalisation semestrielle. Valeur du prêt?
+Étape 1 — taux :
+i
+sem
+= 1,5 % → i
+mens
+= (1,015)
+2/12
+− 1 = 0,24845 % par mois.
+Étape 2 — périodes :
+25 × 12 = 300.
+Étape 3 — formule écrite :
+VAA = 1 500 × [1 − (1,0024845)
+−300
+]/0,0024845
+👁 Révéler
+VAA = 1 500 × 211,31 =
+≈ 316 960 $
+(arrondi; l'hypothèque canadienne standard = nominal semestriel)
+A6
+Vous placez 250 $ aux 2 semaines pendant 3 ans à 2,6 % nominal capitalisation hebdomadaire. Valeur acquise au dernier versement?
+i
+hebdo
+= 2,6 %/52 = 0,05 % → i
+2sem
+= (1,0005)² − 1 = 0,100025 %. n = 78.
+VFA = 250 × [(1,00100025)
+78
+− 1]/0,00100025
+👁 Révéler
+VFA = 250 × 81,08 =
+≈ 20 271 $
+3.4 La perpétuité — des versements ÉGAUX à l'infini
+VAP = PMT / r
+Le résultat est AUSSI trouvé une période avant le premier versement
+S'il n'y a pas d'échéance (rente à vie, action privilégiée), on ne peut pas actualiser chaque flux un à un jusqu'à l'infini. Heureusement : la somme infinie se simplifie en une division. L'analogie : combien dois-je mettre à la banque pour que les intérêts paient exactement le versement, à jamais?
+A7
+Loterie A : 5 M$ immédiatement OU B : 12 500 $/mois à l'infini, à 3 % effectif. Laquelle choisir?
+i
+mens
+= (1,03)
+1/12
+− 1 = 0,24663 % → VAP = 12 500/0,0024663
+👁 Révéler
+VAP =
+≈ 5 068 000 $
+→ la loterie B (à l'infini) bat légèrement le 5 M$ immédiat. (Si le taux était plus élevé, A gagnerait — c'est le genre de comparaison que le quiz adore.)
+A8
+Valeur de CETTE loterie dans 4 semaines? Et dans 5 ans? (la VAP est posée une période avant le 1er versement)
+👁 Révéler
+La perpétuité « vit » au moment de son calcul : dans 4 semaines, il restera TOUJOURS les mêmes versements à l'infini → même valeur (≈ 5,07 M$, en fait exactement la VAP × (1+i)⁴ si le premier versement reste fixe).
+Dans 5 ans, valeur = VAP × (1 + i
+mens
+)
+60
+: une perpétuité capitalise comme un montant simple. Le point clé du cours :
+une fois regroupés, tous les FMs deviennent UN montant simple
+qu'on peut déplacer librement dans le temps.
+3.5 L'équivalence de taux — le traducteur de périodes
+Le problème :
+le taux est « nominal semestriel » mais les paiements sont mensuels. On ne peut PAS diviser par 12! Il faut
+convertir
+.
+Terme
+Définition simple
+Exemple
+Taux nominal
+(à capitalisation X)
+livre : « taux périodique annuel », « taux spécifié »
+Le taux périodique × le nombre de périodes par année (une simple ADDITION des taux périodiques)
+« 12 % nominal semestriel » = 6 % par semestre × 2
+Taux effectif
+(annuel)
+Le vrai rendement d'une année COMPLÈTE, avec capitalisation des intérêts en cours de route
+12 % nominal sem. → (1,06)² − 1 =
+12,36 % effectif
+Taux périodique
+Le taux d'UNE période de versement — LE SEUL qu'on met dans les formules
+8 % nominal trimestriel → 2 % par trimestre
+(1 + i
+1
+)
+m1
+= (1 + i
+2
+)
+m2
+L'équation magique : chaque côté = le taux EFFECTIF. « L'effort d'une année » est égal des deux côtés.
+La règle du cours : le taux s'ajuste aux paiements, et non l'inverse.
+Exemple officiel : 12 % nominal semestriel avec paiements mensuels → (1,06)² = (1 + i
+mens
+)
+12
+→ i
+mens
+= 0,9758… %. Autre exemple : 8 % nominal trimestriel avec paiements hebdomadaires → (1,02)⁴ = (1 + i
+hebdo
+)
+52
+→ i
+hebdo
+= 0,1524… %.
+Classement des taux (question classique)
+Ordonne du plus petit au plus grand : 6 % effectif · 6 % nominal cap. quotidien · 6 % nominal cap. semestriel · 6 % nominal cap. annuelle
+👁 Révéler
+Annuel (6,00 %) < Semestriel (6,09 %) < Quotidien (≈ 6,18 %) < Effectif… attention!
+Non — l'effectif de 6 % est simplement 6 % :
+nominal annuel = effectif = 6,00 %
+(une seule capitalisation par année). Donc : annuel = effectif (6,00 %) < semestriel (6,09 %) < quotidien (≈ 6,18 %).
+Plus ça capitalise souvent, plus le vrai rendement est élevé
+— même taux nominal affiché.
+Exercices de conversion (à faire SANS calculatrice en tête, puis vérifie)
+A10
+2,6 % nominal cap. hebdomadaire → taux périodique mensuel?
+👁 Révéler
+(1 + 0,026/52)
+52
+= (1 + i
+mens
+)
+12
+→ i
+mens
+= (1,0005)
+52/12
+− 1 =
+0,21711 %/mois
+A11
+9 % nominal cap. semestrielle → taux périodique trimestriel?
+👁 Révéler
+(1,045)² = (1 + i
+trim
+)⁴ → i
+trim
+= (1,045)
+1/2
+− 1 =
+2,2252 %/trimestre
+A12
+5,2 % nominal cap. aux 2 semaines → taux périodique semestriel?
+👁 Révéler
+(1 + 0,052/26)
+26
+= (1 + i
+sem
+)² → i
+sem
+= (1,002)
+13
+− 1 =
+2,6373 %/semestre
+3.6 Les formules avec croissance (perpétuité et annuité croissantes)
+VAP
+croissante
+= PMT
+1
+/ (r − g)      VAAC = PMT
+1
+/(r−g) × [1 − ((1+g)/(1+r))
+t
+]
+PMT₁ = premier versement (déjà grown!) · r − g = l'écart rendement/croissance · résultat TOUJOURS une période avant le 1er versement
+⚠️ g doit être UN PÉRIODE PAR PÉRIODE
+: si les dividendes sont trimestriels, g doit être trimestrique. Et
+r > g
+obligatoirement, sinon la formule explose.
+A13
+(Exemple du cours) Rente indexée : à 60 ans, premier versement IMMÉDIAT de 7 500 $/mois, indexé 3 % (nominal mensuel : g = 0,25 %/mois), jusqu'à 85 ans (300 mois), rendement 9 % nominal mensuel (i = 0,75 %/mois). Coût?
+VAAC (une période avant le 1er versement — ici le versement est immédiat, donc la formule donne la valeur à t = −1 mois) :
+VAAC = 7 500/(0,0075−0,0025) × [1 − (1,0025/1,0075)
+300
+] = 7 500/0,005 × [1 − 0,2247] = 1 500 000 × 0,7753
+👁 Révéler
+VAAC
+t=−1
+≈ 1 162 799 $ → on la ramène à aujourd'hui (début de période) : × (1,0075) =
+≈ 1 171 520 $
+3.7 La valeur entre deux dates de versement (méthode officielle en 2 étapes)
+Problème :
+on est ENTRE deux coupons/dividendes (ex. le dernier coupon remonte à 1 mois, le prochain est dans 5 mois). Méthode du cours (plus rigoureuse que le « clean price » du livre, point 7.5.3 — la prof privilégie CETTE approche) :
+Actualiser normalement
+tous les FMs à la
+dernière date de versement
+(l'annuité/perpétuité tombe naturellement une période avant le prochain versement = pile sur cette date);
+Capitaliser
+ce total pour la
+fraction de période écoulée
+: × (1 + i)
+fraction
+.
+A14
+(Exemple du cours) Le dernier coupon date d'1 mois. Il reste 9 coupons. TC = 8 %, TRE = 5 % (tous deux nominaux semestriels), VN = 1 000 $. Valeur aujourd'hui?
+Étape 1 :
+i
+TRE
+= 2,5 %/sem; coupon = 4 % × 1 000 / 2 = 40 $. À la dernière date de coupon (une période avant le prochain coupon) :
+P = 40 × [1 − (1,025)
+−9
+]/0,025 + 1 000 × (1,025)
+−9
+= 318,84 + 800,73 = 1 119,56 $
+Étape 2 :
+1 mois écoulé sur 6 = fraction 1/6 → 1 119,56 × (1,025)
+1/6
+👁 Révéler
+P
+aujourd'hui
+= 1 119,56 × 1,00412 =
+≈ 1 124,18 $
+A15
+(Exemple du cours) Dernier dividende trimestriel de 0,30 $ versé il y a 2 mois. r = 12 % nominal trim (3 %), g = 6 % nominal trim (1,5 %). Valeur intrinsèque?
+Étape 1 :
+à la dernière date de versement : P = D₁/(r−g) = 0,30 × 1,015/(0,03 − 0,015) = 0,3045/0,015 = 20,30 $
+Étape 2 :
+2 mois écoulés = 2/3 de trimestre → 20,30 × (1,03)
+2/3
+👁 Révéler
+P = 20,30 × 1,0199 =
+≈ 20,70 $
+3.8 La démarche universelle en 4 étapes (à faire pour CHAQUE problème)
+1. DESSINE le schéma temporel
+(t=0, t=1, … les flux, en + ou −). —
+« Toujours faire le schéma temporel pour ne pas faire d'erreur de période » (FAQ officielle)
+2. ALIGNE le taux
+: convertis en taux périodique de la fréquence des versements (§3.5).
+3. REGROUPE
+chaque série (montant simple / annuité / perpétuité [+ croissance]) — chaque formule « pose » son résultat à une date précise (une période avant le 1er versement).
+4. DÉPLACE
+tous les résultats à la date demandée (capitaliser/actualiser en montant simple), puis additionne les + et les −.
+3.9 Les 5 grands exercices des capsules (avec les réponses officielles du cours)
+C1
+Exercice 1 officiel :
+Hypothèque à 5 % nominal cap. semestrielle. a) taux semestriel? b) taux effectif? c) taux mensuel? d) nominal mensuel équivalent? e) montant du prêt avec paiements de 900 $/mois (fin) pendant 25 ans?
+👁 Révéler
+a) 5/2 =
+2,5 %
+· b) (1,025)² − 1 =
+5,0625 %
+· c) (1,025)
+2/12
+− 1 =
+0,41239 %
+· d) 0,41239 × 12 =
+4,9487 % nominal mensuel
+· e) VAA = 900 × [1 − (1,0041239)
+−300
+]/0,0041239 =
+154 744,20 $
+(réponse officielle)
+C2
+Exercice 2 officiel :
+Deux offres pour un voilier (taux effectif 5 %).
+Offre 1 :
+10 000 $ immédiatement + 500 $/mois (fin) pendant 4 ans.
+Offre 2 :
+150 $/semaine (DÉBUT immédiat) pendant 3 ans + 14 000 $ dans 5 ans. Laquelle choisir?
+👁 Révéler
+Offre 1 :
+i
+mens
+= 1,05
+1/12
+−1 = 0,407412 % ; VAA(48) = 500 × 43,518 = 21 759 →
+31 758,98 $
+(réponse officielle; l'erratum du cours confirme l'exposant 48)
+Offre 2 :
+i
+hebdo
+= 1,05
+1/52
+−1 = 0,093871 % ; VAA(156, fin) = 150 × 145,05 = 21 758 → début ×(1,000939) = 21 778 ; + 14 000/1,05⁵ = 10 969 →
+32 747,63 $
+(exactement la réponse officielle)
+→ Choisir l'Offre 2
+(réponse officielle).
+C3
+Exercice 3 officiel :
+L'œuf de 1,5 M$ OU la poule qui pond 1 000 $/semaine à vie (premier dans 1 semaine), à 3 % nominal cap. trimestrielle. Et si la poule ne vit que 25 ans?
+👁 Révéler
+i
+trim
+= 0,75 % → i
+hebdo
+= (1,0075)
+4/52
+− 1 = 0,057494 %
+À vie :
+VAP = 1 000/0,00057494 =
+1 739 325,29 $
+(officiel) → prends la POULE.
+25 ans (1 300 sem.) :
+VAA = 1 000 × [1 − (1,00057494)
+−1300
+]/0,00057494 =
+915 423,72 $
+(officiel) → prends l'ŒUF (1,5 M$).
+C4
+Exercice 5 officiel :
+Tu épargnes 100 $/semaine pendant exactement 84 semaines + un montant de 400 $ reçu aujourd'hui, à 2,6 % nominal cap. hebdomadaire. Somme totale au bout des 84 semaines?
+👁 Révéler
+i
+hebdo
+= 0,05 %. VFA = 100 × [(1,0005)
+84
+−1]/0,0005 = 8 576,79 $ ; le 400 $ capitalise : 400 × (1,0005)⁸⁴ = 417,15 $. Total =
+8 993,94 ≈ 8 993,86 $
+(réponse officielle)
+Quiz QCM — Mathématiques financières (10 questions)
+1. Actualiser, c'est…
+Trouver la valeur future d'un montant d'aujourd'hui
+Trouver la valeur d'aujourd'hui d'un montant futur
+Convertir un taux nominal en effectif
+2. La VAA d'une annuité dont le premier versement est dans exactement 13 mois (versements mensuels) est trouvée…
+Aujourd'hui
+Au mois 13
+Au mois 12
+3. Pour convertir un taux nominal semestriel de 6 % en taux mensuel :
+(1,03)² = (1 + i
+mens
+)¹²
+6 % / 12 = 0,5 %
+(1,06)¹² = (1 + i
+mens
+)²
+4. Quel est le VRAI rendement le plus élevé?
+6 % nominal capitalisation annuelle
+6 % nominal capitalisation quotidienne
+6 % effectif
+5. La valeur finale (VFA) d'une annuité de fin de période est située…
+Une période avant le premier versement
+Une période après le dernier versement
+Au moment du dernier versement
+6. Une annuité de DÉBUT de période (premier versement immédiat) vaut…
+La VAA de fin de période ÷ (1 + i)
+La VAA de fin de période × (1 + i)
+Exactement la VAA de fin de période
+7. Une action privilégiée verse 2 $ par année à perpétuité, rendement exigé 8 %. Sa valeur (une période avant le prochain versement) :
+25 $
+2 / 0,08 × 1,08
+16 $
+8. Une fois qu'une annuité est regroupée en un seul montant, pour connaître sa valeur à une autre date…
+On doit refaire toute la formule de l'annuité
+On la traite comme un montant simple (× ou ÷ (1+i)ⁿ)
+On ne peut plus la déplacer
+9. Des versements qui croissent de 2 % par période, pendant exactement 10 périodes : on utilise…
+La perpétuité simple PMT/r
+La perpétuité croissante PMT/(r−g)
+L'annuité en croissance VAAC (ou la décomposition en montants simples)
+10. Le dernier coupon date de 2 mois (coupons semestriels). Après avoir actualisé à la dernière date de coupon, tu…
+Actualises encore de 2 mois
+Capitalises pour 2 mois : × (1 + i
+sem
+)^(2/6)
+Capitalises pour 4 mois (jusqu'au prochain coupon)
+🏦 Module 4 — Séance 3 : Les obligations
+4.1 C'est quoi, une obligation? (vocabulaire à connaître froid)
+Une obligation, c'est un
+titre de dette
+: TU prêtes de l'argent (tu es le créancier), l'émetteur (gouvernement ou entreprise) s'engage à te rembourser le capital + les intérêts. Le contrat légal s'appelle l'
+acte de fiducie
+. Si aucun actif n'est donné en garantie, on parle plutôt de
+débenture
+. Les émissions gouvernementales sont garanties par la capacité de taxation de l'État.
+Valeur nominale (VN)
+Le capital emprunté, remboursé à l'échéance — habituellement
+1 000 $
+.
+Coupon (TC)
+L'intérêt versé périodiquement. Obligation « nord-américaine » standard =
+2 coupons par année
+→ le TC est un
+taux nominal à capitalisation semestrielle
+(coupon semestriel = TC × VN / 2).
+Échéance
+La date où la VN est remboursée.
+TRE / RAE (taux de rendement à l'échéance)
+Le rendement EXIGÉ par le marché pour ce titre = le taux d'actualisation du prix. Lui aussi, en Amérique du Nord :
+nominal semestriel
+(taux périodique = TRE/2).
+Sauf indication contraire de l'énoncé!
+Cote
+Le prix exprimé en
+% de la VN
+. Cote de 102 % = prix de
+1 020 $
+. (Précision officielle de la prof!)
+Points de base
+1 pb = 0,01 %. Une hausse de 50 pb = +0,50 %.
+4.2 Le prix d'une obligation conventionnelle (LE calcul à maîtriser)
+Un obligation =
+deux flux
+à actualiser au taux périodique du TRE : ① les coupons = une
+annuité
+; ② la VN = un
+montant simple
+à l'échéance.
+P₀ = TC/2 × [1 − (1 + i)
+−n
+]/i + VN × (1 + i)
+−n
+i = TRE/2 (taux semestriel) · n = nombre de SEMESTRES jusqu'à l'échéance · coupon semestriel = TC × VN/2
+Exemple officiel du cours :
+VN 1 000 $, TC 5 %, échéance exactement 12 ans, TRE exigé 8 %. Prix?
+Coupon sem. = 5 % × 1 000/2 =
+25 $
+· i = 8/2 =
+4 %
+· n = 12 × 2 =
+24
+P = 25 × [1 − (1,04)
+−24
+]/0,04 + 1 000 × (1,04)
+−24
+= 25 × 15,2470 + 1 000 × 0,3901 = 381,17 + 390,12
+2ND CLR TVM
+· 24
+N
+· 4
+I/Y
+· 25
+PMT
+· 1000
+FV
+·
+CPT
+PV
+→ −771.30
+P =
+771,30 $
+(réponse officielle) — l'obligation se vend à escompte (TRE > TC).
+4.3 Par, prime, escompte (question théorique ultra-fréquente)
+Situation
+Prix
+Analogie
+TRE = TC
+Par
+: prix = VN (1 000 $)
+Le marché exige exactement ce que le coupon paie.
+TRE < TC
+Prime
+: prix > VN
+Le coupon paie PLUS que ce que le marché exige → on paie un bonus.
+TRE > TC
+Escompte
+: prix < VN
+Le coupon paie MOINS que requis → on achète à rabais.
+4.4 Le zéro-coupon
+Aucun coupon : tout le rendement vient de la différence entre le prix d'achat (bas) et la VN remboursée. Prix =
+VC actualisée en montant simple
+: P = VN/(1+i)ⁿ.
+4.5 Obligations non conventionnelles (le niveau « expert » du quiz)
+Capital remboursé en tranches
+(ex. du TP2 : 250 $ aux 3 ans pendant 12 ans) → chaque tranche est un montant simple à sa date + les coupons restent une annuité pleine.
+Coupons différés
+(ex. officiel : le 1er coupon dans 3 ans) → l'annuité est « posée » une période avant le premier coupon, PUIS actualisée jusque-là. Voir l'exercice B2 ci-dessous.
+4.6 Le RAE quand on connaît le prix (calculatrice obligatoire)
+On ne peut pas isoler i algébriquement : la calculatrice le trouve par itération (c'est le « tâtonnement » du livre, mais automatique et instantané). Voir le
+Geste E
+du module 1.
+4.7 Clauses optionnelles et leur effet sur le prix
+Clause
+Qui a l'option?
+Effet sur le prix (toutes choses égales par ailleurs)
+Rétractable
+(puttable)
+Le détenteur peut « retourner » le titre (prix/période fixés)
++
+(avantage à l'acheteur)
+Rachetable
+(callable)
+L'émetteur peut racheter le titre (prix/période fixés)
+−
+(risque pour l'acheteur)
+Convertible
+Le détenteur peut convertir en actions
++
+Liquidité élevée
+—
++
+Meilleure cote de crédit
+—
++
+4.8 Risque de crédit et cotes
+Le
+risque de crédit
+= probabilité que l'émetteur fasse défaut. Les agences (
+S&P, Moody's, Fitch
+) publient des cotes, révisées selon la firme et l'économie. Deux catégories :
+qualité investissement
+(investment grade) vs
+pacotille
+(non-investment grade / high-yield / junk bonds).
+4.9 Effet Fisher (l'inflation) ⭐
+(1 + r
+nominal
+) = (1 + r
+réel
+) × (1 + inflation)
+Approximation rapide : r
+nominal
+≈ r
+réel
++ inflation
+Exemple du cours : tu places 10 $ à 8 % pour un an; le sac de lait à 10 $ coûtera 10,30 $ dans un an (inflation 3 %).
+Ton 10,80 $ de l'an prochain achète l'équivalent de 10,80/1,03 = 10,49 $ d'aujourd'hui → rendement RÉEL = (1,08/1,03) − 1 =
+4,85 %
+(et non 8 − 3 = 5 %, l'approximation).
+4.10 La structure à terme des taux (la courbe)
+La courbe des taux = niveau des TRE selon l'échéance. Elle reflète
+inflation + taux réel + prime de risque
+, et « représente en quelque sorte l'anticipation des taux futurs » :
+Forme
+Anticipation du marché
+Normale
+(croissante)
+Hausse anticipée des taux
+Pentification
+(elle se redresse)
+La hausse sera PLUS marquée qu'initialement anticipé
+Aplatissement
+La hausse sera MOINS marquée qu'anticipé (ou aucune hausse)
+Inversée
+(décroissante)
+BAISSE anticipée des taux
+4.11 La durée (concepts SEULEMENT — « aucun calcul de durée n'est requis »)
+La durée mesure la
+volatilité du prix
+par rapport aux taux d'intérêt (les FMs « moyens pondérés par le temps » — le point d'équilibre de la balançoire des flux). Règles :
+À
+même taux de coupon
+: échéance élevée → durée
+élevée
+;
+À
+même échéance
+: coupon élevé → durée
+faible
+(les gros coupons reviennent vite).
+Application stratégique officielle :
+si tu anticipes une
+baisse des taux
+, achète la duration la plus LONGUE (ex. : coupon 3 %, échéance lointaine) pour maximiser le gain de prix. Si tu anticipes une
+hausse
+, la plus COURTE (coupon élevé, échéance proche).
+4.12 Les exercices officiels des capsules obligations
+B1
+Exercice 1 officiel
+(avec le correctif de la FAQ) : il y a
+7 ans
+[l'énoncé des diapos dit 6, mais la FAQ confirme la lecture à 7 ans → 13 ans restants, 26 semestres], obligation nord-américaine : échéance 20 ans, TRE 8 %, VN 1 000 $. a) taux de coupon probable? b) prix à l'émission? c) prix si le TRE passe à 9,5 %? d) TRE pour que le prix soit 1 030 $?
+👁 Révéler
+a) Émise au pair probablement :
+TC = TRE = 8 %
+→ b) prix =
+1 000 $
+(par).
+c) Coupon 40 $, i = 4,75 %, n = 26 : P = 40 × [1 − (1,0475)
+−26
+]/0,0475 + 1 000 × (1,0475)
+−26
+= 590,06 + 299,20 =
+889,35 $
+(officiel) — escompte, cohérent (TRE>TC).
+d) 1 030 = 40 × [1−(1+i)
+−26
+]/i + 1000(1+i)
+−26
+→ par calculatrice (N=26, PV=−1030, PMT=40, FV=1000, CPT I/Y = 3,816 %) → TRE nominal =
+7,632 %
+(officiel). Prix > par → TRE < TC : cohérent!
+B2
+Exercice 2 officiel :
+obligation dont les coupons semestriels ne débutent que dans exactement 3 ans; TC = TRE = 8 %; échéance totale 10 ans. a) Prix à l'émission? b) Et si c'était un zéro-coupon (10 ans)?
+👁 Révéler
+a) Coupons : premier à t = 6 semestres, dernier à t = 20 →
+15 coupons
+de 40 $. L'annuité se pose une période avant le premier = t = 5 : 40 × [1 − (1,04)
+−15
+]/0,04 = 444,74. On l'actualise à t=0 : ÷(1,04)⁵ = 365,47. VN : 1 000/(1,04)²⁰ = 456,39.
+Total = 821,93 $
+(officiel).
+b) Zéro-coupon : P = 1 000/(1,04)²⁰ =
+456,39 $
+(officiel).
+B3
+Exercice 4 officiel :
+4 obligations du gouvernement du Canada — A : coupon 6 %, échéance proche · B : 3 %, échéance proche · C : 6 %, échéance lointaine · D : 3 %, échéance lointaine. On anticipe une BAISSE uniforme des taux : laquelle privilégier? Et si on anticipait une HAUSSE?
+👁 Révéler
+Baisse → D
+(faible coupon + longue échéance = durée maximale = prix qui monte le plus).
+Hausse → A
+(coupon élevé + courte échéance = durée minimale = prix qui baisse le moins). (Réponses officielles.)
+Quiz QCM — Obligations (8 questions)
+1. VN 1 000 $, TC 6 %. Le coupon semestriel vaut…
+60 $
+30 $
+6 $
+2. TC 5 %, TRE 7 %. L'obligation se transige…
+Au pair
+À prime
+À escompte
+3. Le prix d'un zéro-coupon se calcule avec…
+Un montant simple (VN actualisée)
+Une annuité + montant simple
+Une perpétuité
+4. Une obligation VN 1 000 $ affichée à la cote 102 %. Son prix :
+102 $
+1 020 $
+1 002 $
+5. Clause rachetable (callable) : effet sur le prix vs obligation traditionnelle?
+Prix plus élevé
+Prix moins élevé
+Aucun effet
+6. Rendement nominal 8 %, inflation 3 %. Rendement réel exact :
+5,00 %
+4,76 %
+4,85 %
+7. Une courbe des taux inversée signifie que le marché anticipe…
+Une baisse des taux d'intérêt
+Une hausse des taux d'intérêt
+Une récession boursière uniquement
+8. Tu anticipes une baisse des taux. Quelle obligation privilégier?
+Coupon 8 %, échéance 2 ans
+Coupon 3 %, échéance 20 ans
+Coupon 8 %, échéance 20 ans
+📈 Module 5 — Séance 4 : L'évaluation des actions
+Même principe universel :
+le prix d'un titre = la valeur actualisée de TOUS ses flux monétaires futurs
+. Pour une action, les flux = les
+dividendes
+. On n'a besoin que des 3 formules déjà apprises (montant simple, annuité, perpétuité).
+5.1 Action ordinaire vs privilégiée (théorie)
+Action ORDINAIRE
+Action PRIVILÉGIÉE
+Droit de vote
+Oui
+(élire le conseil d'administration)
+Non
+(sauf contingences : report prolongé du dividende, nouvelles émissions…)
+Dividendes
+Variables, croissants (bénéfices résiduels versés ou réinvestis — BNR)
+Constants
+, habituellement
+cumulatifs
+(les dividendes non versés sont reportés)
+Rang en faillite
+Dernier
+Senior aux ordinaires, subordonné à la dette
+Évaluation
+Perpétuité/growth (Gordon)
+Perpétuité simple
+5.2 Actions privilégiées = perpétuité
+P₀ = D / r
+D = dividende constant (par période) · r = rendement exigé PAR PÉRIODE (même fréquence que D) · valeur une période avant le prochain dividende
+Exemple officiel 1 :
+privilégiée BDB, dividende annuel 1 $, rendement exigé 8 %.
+P = 1/0,08 =
+12,50 $
+(réponse officielle)
+Exemple officiel 2 :
+privilégiée BDB, dividende TRIMESTRIEL de 0,25 $, rendement exigé EFFECTIF 8 %.
+⚠️ Piège : les dividendes sont trimestriels → il faut le taux TRIMESTRIEL : i
+trim
+= (1,08)
+1/4
+− 1 = 1,94265 %
+P = 0,25/0,0194265 =
+12,87 $
+(réponse officielle)
+5.3 Actions ordinaires — le modèle de Gordon-Shapiro (croissance constante)
+P₀ = D₁ / (r − g) = D₀ × (1 + g) / (r − g)
+D₁ = PROCHAIN dividende (une période plus tard!) · r = rendement exigé par période · g = croissance par période · r > g
+🚨 LE piège du quiz : D₁ vs D₀.
+« Vient tout juste de verser un dividende de 1 $ » = c'est D₀ → D₁ = 1 × (1+g). « Le prochain dividende sera de X » = c'est déjà D₁, ne multiplie PAS. (FAQ officielle : « vient tout juste d'être versé » ou « prochain dividende dans exactement une période » → premier flux à t=1.)
+Exemple officiel :
+IBN vient de verser 1 $ (D₀). Croissance prévue 5 %, rendement exigé 14 %. Prix?
+D₁ = 1 × 1,05 = 1,05 $ → P₀ = 1,05/(0,14 − 0,05) = 1,05/0,09 =
+11,67 $
+Sources du rendement si tes anticipations sont correctes (question officielle du PPT) : le
+dividende
+(rendement du dividende) + le
+gain en capital
+(le prix croît au même rythme g que les dividendes).
+5.4 Croissance non constante (le « modèle en 2 étapes ») — décomposition
+Méthode officielle (décomposition de la structure des FMs) :
+Dessine les dividendes avec leurs croissances spécifiques (ex. 20 %, 15 %, puis 5 % à l'infini);
+Actualise les dividendes « anormaux » un à un en
+montants simples
+;
+À la date où la croissance devient constante, pose le
+Gordon
+(P
+t
+= D
+t+1
+/(r−g)) — cette valeur « vit » à cette date-là;
+Actualise ce prix de fin en montant simple et
+additionne tout
+.
+Le cours préfère cette décomposition à la formule d'annuité en croissance — mais les deux donnent le même résultat.
+Exemple officiel (suite IBN) :
+croissance 20 % (an 1), 15 % (an 2), puis 5 % à l'infini. r = 14 %, D₀ = 1 $.
+D₁ = 1,20 · D₂ = 1,38 · D₃ = 1,449 (croissance normale 5 %)
+Gordon à t=2 : P₂ = D₃/(r−g) = 1,449/0,09 = 16,10 $
+P₀ = 1,20/1,14 + (1,38 + 16,10)/1,14² = 1,0526 + 17,48/1,2996
+👁 Révéler
+P₀ = 1,0526 + 13,45 =
+≈ 14,50 $
+(on peut aussi décomposer avec P₃ = D₄/(r−g) actualisé d'une période de plus — même résultat)
+5.5 L'évaluation par multiple C/B (P/E)
+Méthode
+simplifiée
+, moins d'hypothèses que les dividendes : on compare la société à son industrie.
+C/B = Cours / Bénéfices des 4 derniers trimestres   →   Valeur intrinsèque = C/B
+industrie
+× BPA
+Autres multiples : P/B, EV/EBIT, EV/EBITDA, P/clic…
+Exemple officiel :
+cours 90 $, bénéfices 4 trimestres = 2 + 1,50 + 2,50 + 1,50 = 7,50 $. Multiple de l'industrie : 14.
+C/B = 90/7,50 = 12 fois (< 14 → l'action semble sous-évaluée)
+Valeur intrinsèque = 14 × 7,50 =
+105 $
+(réponse officielle)
+Quiz QCM — Actions (7 questions)
+1. L'action privilégiée s'évalue typiquement avec…
+Le modèle de Gordon avec croissance
+Une perpétuité à dividende constant
+Le multiple C/B uniquement
+2. « Le dividende de 2 $ vient tout juste d'être versé », g = 4 %, r = 10 %. Au numérateur de Gordon, tu mets…
+2,08 $
+2,00 $
+2 × 0,10
+3. Dividende trimestriel constant de 0,50 $, r effectif 8 %, à perpétuité. P = ?
+0,50/0,08 = 6,25 $
+2,00/0,08 = 25,00 $
+0,50/0,0194265 = 25,74 $
+4. Croissance non constante puis stabilisation : on évalue en…
+Appliquant Gordon directement avec le g initial
+Actualisant chaque dividende anormal + Gordon à la date de stabilisation
+Utilisant le multiple C/B obligatoirement
+5. Dans l'ordre de priorité en cas de faillite, l'actionnaire ordinaire est…
+Le dernier servi
+Avant les privilégiés
+Avant les créanciers
+6. C/B de l'industrie 14, BPA de la firme 7,50 $. Valeur intrinsèque par le multiple :
+90 $
+7,50/14 = 0,54 $
+105 $
+7. Les bénéfices résiduels d'une société vont…
+Toujours entièrement en dividendes
+En dividendes et/ou en bénéfices non répartis (réinvestis)
+Aux créanciers en premier
+✍️ Module 6 — Les 5 questions solutionnées officielles du cours
+Ce sont les questions que la prof a publiées dans les pages « APRÈS la séance » avec leur capsule vidéo de solution.
+Protocole (16h50-18h20) :
+cache la solution, essaie 10 minutes sur papier avec schéma temporel, puis compare. Ces questions sont du niveau quiz.
+Q1 — Le problème de retraite (math fin, chap. 5-6)
+Énoncé officiel
+Une amie fête ses 35 ans aujourd'hui. Elle veut retirer
+80 000 $ par année
+de son compte, le jour de ses
+66 ans, et ce pendant 15 ans
+(dernier retrait à 80 ans). Taux :
+9 % par année
+.
+a) Versements égaux
+de 36 à 65 ans inclusivement
+(dernier le jour des 65 ans) : quel montant annuel?
+b) Montant
+forfaitaire le jour de ses 36 ans
+pour combler le même objectif?
+c) Idem que a), mais l'employeur verse
+1 500 $/an
+dans le compte et elle recevra
+30 000 $ à 55 ans
+: quel versement annuel personnel?
+👁 Révéler la solution complète
+Étape 1 — la cible (à 65 ans) :
+les retraits forment une annuité de 15 × 80 000 $, dont le premier est à 66 ans → VAA « posée » une période avant = à 65 ans :
+VA
+65
+= 80 000 × [1 − (1,09)
+−15
+]/0,09 = 80 000 × 8,0607 =
+644 855 $
+a)
+À 35 ans, elle commence des versements de fin de période de 36 à 65 ans = 30 versements, dont la VAA tombe à 35 ans. Il faut la
+capitaliser 30 ans
+jusqu'à 65 ans (ou : VFA à 65 ans) :
+644 855 = PMT × [(1,09)
+30
+− 1]/0,09 = PMT × 136,31 → PMT =
+≈ 4 731 $/an
+b)
+Forfaitaire à 36 ans → capitalise 29 ans jusqu'à 65 ans :
+Montant = 644 855/(1,09)
+29
+= 644 855/12,1713 =
+≈ 52 980 $
+c)
+Les aides de l'employeur capitalisent elles aussi vers 65 ans :
+1 500 $/an pendant 30 ans : VFA = 1 500 × 136,31 = 204 461 $
+30 000 $ à 55 ans → × (1,09)
+10
+= 71 021 $
+Reste à combler : 644 855 − 204 461 − 71 021 =
+369 373 $
+→ PMT = 369 373/136,31 =
+≈ 2 710 $/an
+Concepts : la ligne du temps règne; une annuité « tombe » à une date précise; on déplace tout à la même date avant de comparer.
+Q2 — Chréphane : trouver le COUPON à partir de la cote (obligations)
+Énoncé officiel
+Il y a
+5 ans et demi
+, Chréphane a émis des obligations à
+20 ans
+d'échéance initiale. Le TRE actuel est de
+9 %
+et les titres se vendent à une
+cote de 85 %
+. Quel était le taux de coupon offert à l'émission?
+(La prof demande de le trouver à la calculatrice plutôt qu'Excel.)
+👁 Révéler la solution complète
+Décorticage :
+émise il y a 5,5 ans sur 20 → reste
+14,5 ans = 29 semestres
+. TRE 9 % nominal sem. → i = 4,5 %. Cote 85 % × VN 1 000 $ =
+prix 850 $
+. Inconnue : le coupon semestriel PMT.
+Équation écrite :
+850 = PMT × [1 − (1,045)
+−29
+]/0,045 + 1 000 × (1,045)
+−29
+= PMT × 16,0212 + 279,05
+→ PMT = (850 − 279,05)/16,0212 =
+35,64 $/semestre
+→ TC = 35,64 × 2/1 000 =
+≈ 7,13 % nominal semestriel
+2ND CLR TVM
+· 29
+N
+· 4.5
+I/Y
+· 850
++/−
+PV
+· 1000
+FV
+·
+CPT
+PMT
+→ 35.64 (×2 = 71,28 → TC ≈ 7,13 %)
+Cohérence : cote 85 % (escompte) → TC < TRE (7,13 % < 9 %) ✓
+Q3 — BDJ : le coupon d'une NOUVELLE obligation vendue au pair (obligations)
+Énoncé officiel
+BDJ veut émettre une nouvelle obligation de
+10 ans
+. Elle possède déjà des obligations au coupon de
+8 %
+(semestriel, 10 ans) qui se vendent
+1 095 $
+. Quel devrait être le taux de coupon de la nouvelle obligation pour qu'elle se vende
+à la valeur nominale
+?
+👁 Révéler la solution complète
+Étape 1 — le TRE du marché
+(c'est lui qui fixera le coupon d'une émission au pair) : obligation existante : 1 095 = 40 × [1−(1+i)
+−20
+]/i + 1000(1+i)
+−20
+→ par calculatrice :
+2ND CLR TVM
+· 20
+N
+· 1095
++/−
+PV
+· 40
+PMT
+· 1000
+FV
+·
+CPT
+I/Y
+→ ≈ 3,34 % semestriel
+Étape 2 —
+Pour vendre au pair, TC = TRE →
+TC = 2 × 3,34 % ≈ 6,68 % nominal semestriel
+.
+Logique clé : au pair ⇔ TC = TRE. Le prix de 1 095 $ (prime) nous révèle le TRE du marché pour cette échéance/risque.
+Q4 — Entendus inc. : Gordon simple + prix futur (actions)
+Énoncé officiel
+Entendus vient de verser un dividende annuel de
+1,75 $
+. Croissance constante
+6 %
+à l'infini, rendement exigé
+12 %
+. Cours actuel? Cours dans 3 ans? Dans 15 ans?
+(Erratum officiel : à t=15, on utilise D₁₆ — pas D₁₄.)
+👁 Révéler la solution complète
+P₀ = D₁/(r−g) = 1,75 × 1,06/0,06 = 1,855/0,06 =
+30,92 $
+P₃ = D₄/(r−g) = 1,75 × (1,06)⁴/0,06 = 2,2093/0,06 =
+36,82 $
+P₁₅ = D₁₆/(r−g) = 1,75 × (1,06)¹⁶/0,06 = 4,4456/0,06 =
+74,09 $
+Concept : à chaque date t, le prix = valeur des dividendes FUTURS à partir de t+1 → le prix croît au rythme g. (P₃ = P₀ × 1,06³ ✓)
+Q5 — Villa : croissance en 2 étapes (actions)
+Énoncé officiel
+Villa versera : 6,50 $ (an 1), 5,00 $ (an 2), 3,00 $ (an 3), 2,00 $ (an 4), puis croissance constante de
+5 % à l'infini
+. Rendement exigé
+16 %
+. Cours actuel?
+👁 Révéler la solution complète
+Décomposition :
+dividendes explicites D₁–D₃ en montants simples; Gordon posé à t=3 (une période avant D₄) : P₃ = D₄/(r−g) = 2,00/0,11 =
+18,18 $
+P₀ = 6,50/1,16 + 5,00/(1,16)² + (3,00 + 18,18)/(1,16)³
+= 5,6034 + 3,7159 + 21,18/1,5609 = 5,6034 + 3,7159 + 13,5715 =
+≈ 22,89 $
+Concept : peu importe la forme des premiers dividendes (même décroissants!), la méthode ne change jamais : montants simples + Gordon à la stabilisation.
+📝 Module 7 — TP 1 et TP 2 (les entraînements les plus proches du quiz)
+Les TP sont les seuls « examens complets » dont tu disposes. Solutions officielles en vidéo (liens dans la zone cours). Les solutions ci-dessous sont mes démarches rédigées — si un chiffre diffère légèrement de la vidéo, c'est de l'arrondi : la méthode compte davantage.
+TP 1 — Exercice 1 : l'hypothèque de Sandy et Danny (math fin)
+Énoncé officiel (résumé)
+Taux :
+7 % nominal à capitalisation semestrielle
+(52 semaines/an exactement). Sandy :
+150 $/semaine
+(fin, 1er dans 1 semaine). Danny :
+250 $ aux 2 semaines
+(fin, 1er dans 2 semaines). Échéance
+20 ans
+, aucune mise de fonds.
+1)
+Valeur de l'emprunt?
+2)
+Et si l'« hypothèque perpétuelle » (mêmes paiements à l'infini)?
+👁 Révéler la solution
+Taux :
+i
+sem
+= 3,5 % → i
+2sem
+= (1,035)
+1/26
+− 1 = 0,132401 % → i
+hebdo
+= (1,035)
+2/52
+− 1 = 0,132401 % (les deux semaines = 2 semaines : normal, l'hebdomadaire composé 2 fois = le bihebdomadaire).
+Sandy :
+n = 20 × 52 = 1 040 versements : VAA = 150 × [1 − (1,00132401)
+−1040
+]/0,00132401 = 150 × 564,52 =
+≈ 84 677 $
+Danny :
+n = 20 × 26 = 520 versements : VAA = 250 × [1 − (1,00132401)
+−520
+]/0,00132401 = 250 × 375,70 =
+≈ 93 925 $
+1) Emprunt total = ≈ 178 604 $
+2) Perpétuités :
+Sandy : 150/0,00132401 = 113 292 $; Danny : 250/0,00132401 = 188 821 $ →
+total ≈ 302 113 $
+Concepts : deux profils de paiements différents = deux annuités distinctes qu'on additionne à la même date (t=0).
+TP 1 — Exercice 2 : la loterie de Sami (math fin)
+Énoncé officiel (résumé)
+Loterie à échéance 20 ans : ① 75 $/semaine (fin, 1er dans 1 semaine, dernier dans 20 ans); ② 10 000 $ immédiatement; ③ 1 000 $/an en
+début
+d'année pendant 20 ans (1er aujourd'hui). Rendement exigé
+effectif 10 %
+. Combien vaut la loterie?
+👁 Révéler la solution
+①
+i
+hebdo
+= (1,10)
+1/52
+− 1 = 0,183457 %; n = 1 040 :
+VAA = 75 × [1 − (1,00183457)
+−1040
+]/0,00183457 = 75 × 464,06 =
+≈ 34 805 $
+②
+10 000 $ (dès aujourd'hui, aucune actualisation) =
+10 000 $
+③
+annuité annuelle début : VAA
+fin
+= 1 000 × [1 − (1,10)
+−20
+]/0,10 = 1 000 × 8,5136 = 8 513,56 → ×(1,10) =
+≈ 9 364,9 $
+Valeur totale = ≈ 54 170 $
+Concepts : trois « blocs » de FMs (annuité hebdo, montant immédiat, annuité début) additionnés à t=0.
+TP 1 — Exercice 3 : vendre la loterie, plan A ou B? (math fin)
+Énoncé officiel (résumé)
+Sami te PROPOSE de te vendre sa loterie (valeur ≈ 54 170 $, incluant les flux d'aujourd'hui).
+Plan A :
+tu lui donnes 20 000 $ aujourd'hui + 12 000 $/an (fin) pendant 5 ans.
+Plan B :
+30 000 $ dans 1 an + 6 000 $/semestre pendant 3 ans (6 versements, 1er AUJOURD'HUI). Taux effectif 10 %. Faut-il acheter? Quel plan?
+👁 Révéler la solution
+Coût du plan A :
+20 000 + 12 000 × [1 − (1,10)
+−5
+]/0,10 = 20 000 + 12 000 × 3,7908 =
+≈ 65 489 $
+Coût du plan B :
+i
+sem
+= (1,10)
+1/2
+− 1 = 4,8809 %; annuité début 6 × 6 000 :
+VAA
+fin
+= 6 000 × [1 − (1,048809)
+−6
+]/0,048809 = 6 000 × 5,0951 = 30 570,4 → ×(1,048809) = 32 062,5
++ PV de 30 000 $ dans 1 an : 30 000/1,10 = 27 272,7 →
+total ≈ 59 335 $
+Verdict :
+la loterie vaut ≈ 54 170 $ mais les deux plans coûtent PLUS cher (65 489 $ et 59 335 $) →
+n'est PAS avantageux d'acheter
+. Si Sami insiste, le plan B est le « moins pire ».
+Concept : comparer ce que tu reçois (VA des flux) à ce que tu paies (VA des déboursés) À LA MÊME DATE.
+TP 2 — Exercice 1 : ED inc. et MC inc. (obligations + actions)
+Énoncé officiel (résumé)
+ED
+: obligation conventionnelle, TC 5,5 % semestriel, VN 1 000 $, 12 ans.
+MC
+: mêmes caractéristiques MAIS capital remboursé en 4 tranches de 250 $ (fin des années 3, 6, 9, 12). TRE exigé : 6 % nominal sem.
+1.1
+Prix max des deux obligations?
+1.2
+ED se vend 1 040 $ : RAE nominal?
+1.3
+ED émet des actions (prix = 104 $ = 1/10 de 1 040 $) : aucun dividende pendant 3 ans, puis dividende TRIMESTRIEL croissant 3 %/trim à l'infini; r = 15 % nominal trim. Premier dividende?
+👁 Révéler la solution
+1.1 ED :
+coupon 27,50 $; i = 3 %; n = 24 : P = 27,50 × [1 − (1,03)
+−24
+]/0,03 + 1 000 × (1,03)
+−24
+= 27,50 × 16,9355 + 491,93 = 465,73 + 491,93 =
+≈ 957,66 $
+1.1 MC :
+mêmes coupons (24 × 27,50 $) + 4 tranches de 250 $ actualisées à leur semestre (6, 12, 18, 24) :
+250 × (0,83748 + 0,70138 + 0,58739 + 0,49193) = 250 × 2,61819 = 654,55 →
+total ≈ 1 120,28 $
+1.2
+N=24, PV=−1040, PMT=27,50, FV=1000 → CPT I/Y ≈ 2,52 %/sem →
+RAE ≈ 5,05 % nominal semestriel
+1.3
+Gordon trimestriel : i = 3,75 %, g = 3 % → écart 0,75 %. Premier dividende à t = 12 trimestres (après 3 ans), donc la formule pose sa valeur à t = 11 :
+P₀ = [D₁/(0,0375 − 0,03)]/(1,0375)¹¹ = 104 → D₁ = 104 × 0,0075 × 1,4991 =
+≈ 1,17 $
+Concepts : obligation à remboursement échelonné = annuité de coupons + montants simples multiples; action « retardée » = Gordon décalé dans le temps.
+TP 2 — Exercice 2 : Pink (actions) et Birds (obligation modifiée)
+Énoncé officiel (résumé) — 27 mai 2007
+Pink (action)
+: dernier dividende 0,50 $
+versé aujourd'hui
+, trimestriel, croissance 3 %/trim à l'infini, prix 25,00 $.
+2.1
+Taux de rendement EFFECTIF annuel exigé?
+2.2
+Nouveau plan : 0,50 $ dans 6 mois + 0,50 $ dans 1 an, puis reprise trimestrielle avec croissance 3 % (le premier « normal » = 0,50 × 1,03 trois mois après). Nouveau prix?
+Birds (obligation)
+: VN 1 000 $, coupon 15 % nominal sem (75 $), TRE 15 % nominal sem, échéance 27 mai 2010.
+2.3
+Nouveau plan : coupon réduit de moitié (37,50 $), prochain coupon RETARDÉ au 27 février 2008, puis semestriel (27 août / 27 fév), échéance avancée au 27 février 2010. Nouveau prix? (Taux exigés inchangés.)
+👁 Révéler la solution
+2.1
+25 = D₁/(r−g) = 0,50 × 1,03/(r
+trim
+− 0,03) → r
+trim
+− 0,03 = 0,515/25 = 0,0206 → r
+trim
+= 5,06 % → effectif annuel = (1,0506)⁴ − 1 =
+≈ 21,8 %
+2.2
+FMs : 0,50 $ à t=2 trimestres; 0,50 $ à t=4; puis à partir de t=5, croissance 3 % : le Gordon des FMs « normaux » se pose une période avant leur 1er versement = t=4 : P₄ = 0,515/(0,0506−0,03) = 25,00 $ (normal : le marché ne change pas ses exigences).
+P₀ = 0,50/(1,0506)² + (0,50 + 25,00)/(1,0506)⁴ = 0,4531 + 25,50/1,21829 = 0,4531 + 20,9310 =
+≈ 21,38 $
+2.3
+i = 7,5 %/semestre. Nouveaux coupons de 37,50 $ aux dates (en semestres à partir du 27 mai 2007) : 27 fév 2008 = 9 mois = t=1,5; puis t=2,5; 3,5; 4,5; et 5,5 (27 fév 2010) où la VN est aussi remboursée :
+P = 37,50 × [1/(1,075)
+1,5
++ … + 1/(1,075)
+5,5
+] + 1 000/(1,075)
+5,5
+= 146,33 + 671,83 =
+≈ 818,16 $
+Concepts : Gordon inversé pour trouver r; décomposition quand le patron des dividendes change; obligation avec coupons irréguliers = somme de montants simples (fraction de période exposant non-entier!).
+📋 Module 8 — Ta feuille de formules (celle qui sera attachée au quiz)
+Le quiz est à livres fermés
+MAIS cette feuille est fournie
+(c'est la même que celle de l'intra — « 10200 - Feuille de formules - Intra MAJ 2025 », aussi dans ton dossier
+ZoneCours
+). Voici ce qu'elle contient, avec mes annotations sur la façon de t'en servir :
+Formule sur la feuille
+En clair
+Ma note d'utilisation
+VA = VC/(1+r)ⁿ
+(valeur actuelle d'un FM)
+Actualiser un montant unique
+Écris-la à chaque fois — c'est la brique de base.
+VAA = PMT[1−(1+r)⁻ᵗ]/r
+Valeur actuelle d'une annuité
+Le résultat « tombe » une période avant le 1er versement. t = nombre de versements.
+VFA = PMT[(1+r)ᵗ−1]/r
+Valeur future d'une annuité
+Tombe au moment du dernier versement (fin de période).
+VAP = PMT/r
+Perpétuité
+Actions privilégiées, rentes à vie.
+VAP croissance = PMT₁/(r−g)
+Perpétuité croissante
+= Gordon. Attention : PMT₁ (premier versement futur), r>g.
+VAAC = PMT₁/(r−g) × [1 − ((1+g)/(1+r))ᵗ]
+Annuité en croissance
+Optionnelle : le cours préfère la décomposition en montants simples.
+(1+i₁)^m₁ = (1+i₂)^m₂
+Équivalence de taux
+LE réflexe conversion. Chaque côté = taux effectif.
+P₀ = coupon[1−(1+i)⁻ⁿ]/i + VN(1+i)⁻ⁿ
+Prix d'une obligation
+i = TRE/2, n = semestres, coupon = TC×VN/2.
+P₀ = D₁/r
+Action dividendes constants
+Privilégiées. r par période = fréquence des dividendes.
+P₀ = D₁/(r−g)
+Gordon
+Ordinaires à croissance stable.
+Rendement espéré, variance, portefeuille 2 titres, corrélation, MÉDAF, bêta
+→ Pour l'EXAMEN INTRA (pas le quiz de lundi : cette matière commence après le quiz)
+⚠️ Ce qui n'est PAS sur la feuille (à savoir par cœur) :
+Les
+définitions
+: nominal vs effectif vs périodique; cote = % de la VN;
+La convention
+obligation nord-américaine
+: 2 coupons/an, TC et TRE nominaux semestriels;
+Par = prime = escompte
+(TRE vs TC); clauses optionnelles et leur effet;
+Fisher
+: (1+r
+nom
+) = (1+r
+réel
+)(1+infl);
+Les formes de la
+courbe des taux
+et leur signification; le concept de
+durée
+;
+Le
+multiple C/B
+; le vocabulaire des actions (cumulative, BNR, etc.);
+L'annuité de
+début de période
+= formule × (1+i) — pas écrite noir sur blanc!
+🎯 Module 9 — Stratégie de quiz + les erreurs fatales
+9.1 Les 7 erreurs fatales (chacune coûte des points à chaque quiz de ce cours)
+N'écrire que les touches de la calculatrice.
+La prof est formelle : « N=28, PMT=30$, PV=850$… NE SONT PAS ACCEPTÉES ». Écris : formule → valeurs substituées → résultat.
+Oublier le schéma temporel.
+Il détermine où tombent tes annuités et repère les débuts de période. 30 secondes qui valent de l'or.
+Diviser un taux nominal par le mauvais nombre.
+6 % nominal semestriel avec paiements mensuels ≠ 0,5 %/mois. Il faut l'équivalence : (1,03)² = (1+i)¹².
+Confondre D₀ et D₁.
+« Vient tout juste de verser » → multiplie par (1+g) pour avoir D₁.
+Se tromper de N.
+N = nombre de VERSEMENTS (pas d'années), dans la MÊME unité que I/Y. Obligation : années × 2.
+Arrondir trop tôt.
+Garde 6+ décimales dans les taux intermédiaires (STO/RCL), arrondis à la fin.
+Arriver en retard lundi.
+Le quiz est AU DÉBUT de la séance (12h00). La veille : vérifie piles, crayons, ta carte étudiante.
+9.2 Ta routine face à chaque question de calcul lundi
+1.
+Lis DEUX fois l'énoncé en surlignant : les montants, les dates, le type de taux (nominal? effectif? capitalisation?), la date demandée.
+2.
+Schéma temporel.
+3.
+Convertis le taux si nécessaire (aligne sur les versements).
+4.
+Choisis les blocs de formules (simple / annuité / perpétuité / Gordon / obligation).
+5.
+Écris les formules EN ENTIER avec valeurs → calcule à la BA II Plus → encadre la réponse avec le $ et une phrase (« Le prix de l'obligation est de 771,30 $ »).
+6.
+Vérification de cohérence 5 secondes : prime/escompte logique? VAA posée au bon endroit? signes?
+9.3 Question théorique? La banque probable
+Agence et coûts d'agence · marché primaire vs secondaire · les 3 décisions du gestionnaire financier · formes d'organisation · nominal/effectif/périodique et classement de taux · par/prime/escompte · clauses optionnelles (+/− sur le prix) · cotes de crédit (S&P, Moody's, Fitch; investment grade vs pacotille) · points de base · Fisher · courbe des taux (normale/pentification/aplatissement/inversion) · durée (aucun calcul) · privilégiée vs ordinaire · C/B · sources de rendement d'une action (dividende + gain en capital).
+9.4 Checklist finale (22h50 ce soir)
+Tous les quiz QCM de ce plan refaits sans erreur (sinon relis le module concerné)
+Feuille de formules parcourue une dernière fois + liste « à mémoriser » (module 8)
+Calculatrice prête (piles), crayons, montre
+Réveil réglé pour arriver EN AVANCE lundi (le quiz débute au début de la séance, 12h00)
+Rappelle-toi : le quiz ne peut pas nuire à ta note. Zéro stress = meilleur rendement.
+9.5 Tes fichiers (tout est déjà sur ton ordinateur)
+Dossier
+Finance\ZoneCours
+: les 19 fichiers officiels du cours (PPT des séances, notes de cours, TP, feuille de formules, exercices supplémentaires, guide BA II Plus, guide de lecture).
+Corrigé chapitre 5
+·
+Corrigé chapitre 6
+(déjà dans ton dossier Finance)
+Corrigé chapitre 7 (obligations)
+·
+Corrigé chapitre 8 (actions)
+(générés cette nuit)
+Solutions officielles des TP en vidéo (zone cours) :
+TP 1 — Mathématiques financières (Solution)
+·
+TP 2 — Évaluation de titres (Solution)
+.
+Exercices supplémentaires — Obligations (dossier ZoneCours) : la prof les juge essentiels pour le quiz.
+Généré automatiquement le samedi 26 sept. 2026 à partir de TOUTE ta zone cours (nouveau ZoneCours Canvas, FINA10200 A2026 F21) — séances 1-4, annonces, FAQ, TP, capsules et feuille de formules officielle.
+Bonne révision. Demain midi, tu arrives en avance, tu respires, tu écris tes formules en entier. 💪

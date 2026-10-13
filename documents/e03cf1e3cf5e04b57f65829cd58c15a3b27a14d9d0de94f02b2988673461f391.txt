@@ -1,0 +1,27 @@
+3.1 | Activités/ressources AVANT la séance
+
+Séance 3
+Travail préparatoire
+LECTURES
+: Livre
+Gestion financière (4e ou 5e édition)
+Chapitre 7 (Les obligations)
+Notes:
+Pour trouver le taux de rendement à l'échéance (RAE ou TRE), plutôt que fonctionner par tâtonnement (essai-erreur), utilisez la calculatrice financière pour un calcul rapide et précis (la calculatrice fait aussi par mode itératif (essai-erreur), mais beaucoup plus rapidement que nous.
+Pour les obligations de type nord-américain (versement de deux coupons par année) le standard de présentation du RAE (TRE) et du taux de coupon est un taux nominal à capitalisation semestrielle. Sauf indication contraire, vous devez considérer 2 versements de coupons par année (le RAE (TRE) et le taux de coupon sont alors nominal à capitalisation semestrielle).
+Important !
+Chapitre 7 Le marché obligataire-HEC.pptx
+Capsule 1 - L'obligation
+Capsule 2 - Autres caractéristiques des obligations
+Capsule 3 - La courbe (structure à terme) des taux d'intérêt
+Capsule 4 - La durée (volatilité) des obligations
+Sujet couvert à l'annexe A (l'annexe B n'est pas sujet à l'étude).
+Capsule 5 - Exercices sur les obligations
+Capsule 6 - Le taux d'intérêt & l'inflation
+Question 1 : après 7 ans, il ne reste que
+28
+26 coupons/semestres (13 ans, donc 889,35$). Sinon, après 6 ans il resterait bien 28 semestres, mais le prix serait de 885,16$.
+Question 2 : le premier résultat est de 821,93$ et non 790,31$.
+Important !
+Retour sur les mathématiques financières-HEC.pptx
+Capsule - La valeur entre 2 dates de versement

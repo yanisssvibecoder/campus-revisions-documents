@@ -1,0 +1,522 @@
+## Diapositive 1
+
+Mobiliser lestechnologies numériques	
+
+TECH 10701
+
+Présenté parMarie-Claude Trudel
+
+Notes : Photo Martin LESAGE
+
+## Diapositive 2
+
+s01.91_d1V0c.pdm
+
+
+
+
+
+Comment/avec quoi vous êtes-vous réveillés?
+Avez-vous demandé la météo à Alexa, Siri, Google ou un autre assistant personnel?
+Avez-vous regardé vos médias sociaux?
+Comment vous êtes-vous déplacés pour venir jusqu’à HEC?
+En transport en commun, comment avez-vous payé?
+Avez-vous eu besoin de Transit/Chrono?
+En voiture, avez-vous eu besoin de Waze ou une autre aide à la navigation?
+Avez-vous eu besoin d’acheter de l’essence ou de vous brancher à une borne électrique?
+Vous êtes-vous arrêtés acheter un café ou à déjeuner?
+Connaissiez-vous déjà la salle où se donnait le cours?
+
+## Diapositive 3
+
+Ces technologies, quelqu'un dans une organisation a décidé de les déployer. 
+Ce n'était pas un informaticien — c'était un gestionnaire.
+
+## Diapositive 4
+
+Une directrice marketing centralise les données clients dans un Google Sheet partagé. Pratique, gratuit, efficace. 
+Dix-huit mois plus tard, une brèche expose 47 000 clients. L'enquête révèle que personne n'avait évalué les risques. 
+« Je ne savais pas que c'était mon problème. »
+
+Un analyste financier demande à une IA de construire un tableau de bord pour son équipe. Ça fonctionne. Tout le monde l'utilise. 
+Il quitte l'organisation. Personne ne sait comment ça fonctionne, ni comment le corriger. 
+Retour à Excel…
+
+Ces deux personnes ne travaillaient pas en TI, 
+elles prenaient des décisions en TI
+
+## Diapositive 5
+
+Comprendre assez pour décider
+Évaluer une solution technologique, savoir énoncer ses besoins et poser les bonnes questions à une équipe TI. Reconnaître un risque avant qu'il devienne une crise. Travailler avec les TI sans en dépendre aveuglément. C’est l’affaire de tous!
+
+
+Ces deux ambitions commencent au même endroit,c’est-à-dire ici !
+
+POUR VOUS TOUS
+
+POUR CERTAINS D’ENTRE VOUS
+
+Faire de ça votre métier
+L'analyste d'affaires TI fait exactement ce travail, en travaillant étroitement avec l’ensemble de l’organisation. Si les notions vues dans ce cours vous allument, il existe une spécialisation construite autour d’elles.
+
+## Diapositive 6
+
+Votre père vient d'obtenir la gestion d'un stationnement urbain d'une cinquantaine de places dans le centre-ville. Fier de vos études en technologies de l'information, il vous appelle : « Tu pourrais m'aider à m'organiser avec ça ?
+
+Phase 1 – Papier crayon seulement ( 5 min.)
+Avant de consulter quoi que ce soit, notez par vous-même : quelles informations pensez-vous qu’un gestionnaire de stationnement devrait gérer ? Quelles questions poseriez-vous à votre père pour mieux comprendre ses besoins ?
+
+## Diapositive 7
+
+Phase 2 — avec un collègue, comparer vos informations (5 min.)
+Phase 3 — Avec deux outils d’IA (10 min.)
+Posez la même question à deux outils d’IA : « Quelles informations devrais-je gérer pour exploiter efficacement un stationnement urbain d'une cinquantaine de places ? »
+Phase 4 — Analyse comparative 
+Comparez les résultats à l'aide de ces trois questions :
+Qu'est-ce que les deux IA ont dit que vous n'aviez pas mentionné en Phase 1 ?
+Qu'est-ce que vous aviez mentionné que les deux IA ont omis ?
+Comment vérifieriez-vous l'une des recommandations obtenues ?
+
+Notes : Si l'IA peut répondre à cette question en 30 secondes, quelle est votre valeur ajoutée en tant que gestionnaire?
+
+## Diapositive 8
+
+Phase 5 — Réflexion
+En une phrase, qu'est-ce que cet exercice vous apprend sur la façon dont vous devriez utiliser les outils d'IA dans ce cours ?
+Si l'IA peut répondre à cette question en 30 secondes, quelle est votre valeur ajoutée en tant que gestionnaire?
+
+## Diapositive 9
+
+Ou n’importe quel autre outil IA basé sur des grands modèles de langage?
+
+## Diapositive 10
+
+
+
+Utiliser l’IA de façon ciblée
+S01 · S02 · S04 · S05 · S10
+Évaluer ce que l’IA produit
+S04 · S05 · S06
+Comprendre comment l’IA fonctionne
+S06
+
+Votre progression en littératie IA dans ce cours
+
+## Diapositive 11
+
+
+
+
+
+À la base d’une transformation numérique réussie : une stratégie et une architecture
+
+Séance 1
+
+## Diapositive 12
+
+Savoir comment utiliser des solutions technologiques simples mais robustes et avoir le réflexe d’aller vers celles-ci plutôt que vers des chiffriers (tableurs) pour concevoir des applications qui aideront dans les tâches et ce, peu importe la fonction occupée
+Expérimenter l’utilisation d’un progiciel de gestion intégré, similaire à ceux retrouvés dans plusieurs grandes organisations
+
+Connaître l’existence d’une panoplie de métiers fortement en demande et liés à l’analyse des besoins d’affaires pour améliorer la performance des organisations à l’aide des leviers technologiques
+Comprendre comment structurer les données de l’organisation pour améliorer l’efficacité et l’efficience des opérations au quotidien
+Comprendre comment assurer l’intégrité des données tout au long de leur cycle de vie afin de mieux soutenir les décisions opérationnelles, tactiques et stratégiques (et assurer une reddition de compte)
+
+À la fin du cours, la personne étudiante devrait...
+
+## Diapositive 13
+
+Expliquer pourquoi les décisions en technologies de l'information relèvent des gestionnaires, pas uniquement des spécialistes TI
+Distinguer les systèmes d'information de l'informatique et appliquer les quatre principes qui guident leur mobilisation
+Décrire les obstacles à la prise de décision rencontrés lors de l'exécution d'un processus d'affaires manuel.
+
+## Diapositive 14
+
+Définitions
+
+ 
+
+Principes
+
+Logistique
+
+Exercice pratique
+
+Plan de la séance
+
+## Diapositive 15
+
+
+
+
+
+Définitions
+
+## Diapositive 16
+
+Mobiliser – Une définition
+
+Mobiliser consiste à faire appel à quelque chose, mettre en action des personnes, des idées [ou dans notre cas, des technologies numériques].
+On aurait pu utiliser l’expression « tirer parti » qui est la traduction habituelle de « to leverage » dans le titre anglais.
+
+
+Notes : Dictionnaire Le Robert en ligne
+
+## Diapositive 17
+
+Technologies numériques – Une définition
+
+La technologie numérique fait référence aux outils électroniques ou aux systèmes automatiques conçus pour stocker et traiter des données. Des milliers de processus chaque jour sont possibles grâce à la technologie numérique. Les exemples de technologie numérique comprennent les téléphones intelligents, les médias sociaux, les jeux en ligne et le multimédia. Ils fonctionnent grâce aux systèmes d’information.
+
+Notes : https://inovency.fr/technologies/technologie-numerique-et-entreprise/
+
+## Diapositive 18
+
+Pourquoi mobiliser les technologies numériques?
+
+Le but de toute progression technologique est d’améliorer un procédé. Les technologies numériques ne sont pas différentes. Leur mobilisation permet de rendre les processus plus efficaces, évolutifs et plus avantageux pour les utilisateurs finaux.
+
+
+Notes : https://inovency.fr/technologies/technologie-numerique-et-entreprise/
+
+## Diapositive 19
+
+Que sont les TI dans une organisation ?
+
+Les TI ne sont pas le département qui répare ton ordinateur — c'est la fonction qui décide comment l'information circule dans l'organisation et quels outils la soutiennent.
+
+## Diapositive 20
+
+Un système d’information est un ensemble bien défini de tâches élémentaires qui saisissent, stockent, transforment et diffusent des données
+
+
+
+
+
+
+
+Il sera réalisé physiquement grâce aux personnes, aux procédures, aux données, aux logiciels et au matériel informatique et de télécommunication
+
+Systèmes d’information – Une définition
+
+## Diapositive 21
+
+Principes
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Diapositive 22
+
+Principe #1 – Utiliser la pensée informatique
+
+La pensée informatique est composée de quatre axes :
+Décomposition
+Reconnaissance des schémas
+Pensée abstraite 
+Algorithmes
+Comment relier ces axes à l’exercice du stationnement fait en début de séance?
+
+
+
+Notes : fais le lien explicite avec l'exercice du stationnement que les étudiants viennent de vivre. Décomposer le problème du stationnement en sous-problèmes, reconnaître que certaines informations se retrouvent dans tous les stationnements (schémas), abstraire ce qui est spécifique à ce cas — ils viennent de faire de la pensée informatique sans le savoir. Ce retour réflexif est plus puissant que n'importe quelle définition.
+
+L’utilisation de la pensée informatique est composée de quatre axes. 
+La décomposition met de l’avant l’idée que chaque problème est constitué de plus petites parties qui peuvent à leur tour être divisées pour qu’on les comprenne mieux. 
+La reconnaissance de schémas stipule que chaque phénomène, expérience, stimulus, problème ou circonstance suit généralement un schéma que nous pouvons identifier. 
+La pensée abstraite est un type de raisonnement propre à l’être humain. Grâce à lui, nous pouvons créer des idées originales, et déterminer comment nous pourrions agir face à des scénarios hypothétiques. 
+Finalement, les algorithmes sont des ensembles d’étapes, des schémas qui nous permettent de résoudre un problème étape par étape, en proposant une solution finale qui est une combinaison des solutions de chaque portions du problème initialement décomposé. 
+
+
+## Diapositive 23
+
+Principe #2 – Ne pas perdre de vue la stratégie
+
+Notes : un exemple court et brutal. Une entreprise investit 2 millions dans un CRM. Trois ans plus tard, les vendeurs utilisent encore Excel. Pourquoi? La technologie n'était pas alignée sur la façon dont les gens travaillent réellement. La leçon : la technologie ne résout pas les problèmes organisationnels, elle les amplifie — en bien comme en mal.
+
+## Diapositive 24
+
+Principe #3 – Séparer l’église de l’état
+
+les données
+
+
+
+                          de leurs traitements
+
+Votre répertoire téléphonique (données) peut être consulté (traitement) dans votre application de contacts, dans votre application de messagerie, dans votre application de courriel, et ce sans que les contacts changent.
+
+## Diapositive 25
+
+Principe #4 – Avoir une vision d’ensemble
+
+
+
+ | DonnéesQuoi? | Fonctions
+Comment? | Lieux
+Où? | Personnes
+Qui? | TempsQuand? | Motivations
+Pourquoi?
+
+Niveau contextuel | Liste des entités d’affaires | Liste des processus d’affaires | Liste des localisations géographiques | Liste des unités d’affaires | Liste des événements d’affaires | Liste des objectifs stratégiques et des règles d’affaires
+
+Niveau conceptuel | Entités d’affaires | Processus d’affaires​ | Localisations des unités​ | Unités d’affaires​ | Événements d’affaires | Objectifs d’affaires​
+
+Niveau logique | Entité de données | Application/système d’information | Fonctions nodales​ | Rôles et interfaces​ | Événements système​ | Critères​
+
+Niveau technique | Ligne (dans une table)​ | Algorithmes programmés | Localisation des système​s | Utilisateurs​ | Exécutions | Conditions​
+
+Notes : ton système de paie parle à ton système RH qui parle à ton système comptable. Une décision prise dans l'un se répercute dans les autres. L'architecture d'entreprise, c'est la carte de ces connexions. Un gestionnaire qui ne la comprend pas prend des décisions localement rationnelles et globalement désastreuses.
+
+Le contenu de chaque cellule doit être cohérent en ligne et en colonne (inspiré de Zachman)
+
+## Diapositive 26
+
+Logistique
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Diapositive 27
+
+Principe de la classe inversée
+
+La classe inversée est une approche pédagogique qui se déroule en deux moments distincts mais d’égale importance: elle débute par une phase d’échauffement qui vous expose à la matière de façon autonome, qui est suivie par une phase d’entraînement, en classe, qui vous permet d’approfondir la matière avec vos pairs
+Pendant la phase d’échauffement, vous devrez…
+… consulter les différentes ressources de façon asynchrone, afin de découvrir les contenus du cours et de réaliser des activités d’exploration
+Pendant la phase d’entraînement, vous devrez…
+…ancrer et consolider vos apprentissages à travers divers exercices en classe où vous aurez l’occasion de poser vos questions et de clarifier ce que vous aurez moins bien compris
+
+## Diapositive 28
+
+Une session, deux perspectives
+
+Avant l’intra, vous verrez les notions de base des gens qui œuvrent en TI, comme vous apprenez les bases dans votre premier cours de Finance, Marketing, Comptabilité, GOL, RH, etc.
+Après l’intra, vous vous mettrez dans la peau de l’utilisateur, et l’accent sera alors placé sur ce que font les TI pour que les utilisateurs aient les bons outils et soient performants.
+
+
+## Diapositive 29
+
+## Diapositive 30
+
+Charge de travail
+
+Voici pour rappel, un extrait du Guide du nouvel admis au B.A.A. de HEC Montréal
+https://www.hec.ca/etudiants/nouvel-admis/guide/guide-nouvel-admis-baa.html
+
+
+Notes : 90 heures de travail personnel équivaut à entre 6 et 8 heures par semaine, considérant que pour la première séance, il n’y a rien à préparer, et qu’il y a 12 séances de cours plus deux examens donc 90/14 = 6,42
+
+## Diapositive 31
+
+Attentes de l’enseignant / responsabilités de l’étudiant
+
+Travail préparatoire effectué sérieusement
+Participation et intérêt lors des séances en classe
+Climat propice aux apprentissages
+Respect mutuel 
+
+
+
+## Diapositive 32
+
+Pondération des évaluations
+
+ÉVALUATIONS INDIVIDUELLES | 
+
+Nombre de points | Description
+
+5 | Preuves création de comptes/installation des solutions technologiques
+
+5 | Une évaluation orale liée au premier travail d’équipe
+
+30 | Examen intra
+
+25 | Examen final
+
+ÉVALUATIONS EN ÉQUIPES DE 4 OU 5 (MAX) | 
+
+Nombre de points | Description
+
+15 | Développement d’une application pour intégrer les apprentissages
+
+20 | Développement d’un tableau de bord pour soutenir la dernière simulation
+
+## Diapositive 33
+
+Détail des travaux et examens
+
+Participation
+Preuves de création de comptes, d’installation et/ou d’accès réussi aux solutions utilisées (vous devrez fournir vos preuves aux séance 4, 5, 8, 9 et 10 – présences requise à ces cours)
+Travaux d’équipe
+Travail #1 – Application intégrant les concepts vus avant l’intra sur Airtable et Softr
+Remise à la séance 8
+Travail #2 – Tableau de bord pour améliorer votre performance à la simulation
+Remise deux jours après la séance 12
+Évaluation orale individuelle
+Liée au premier travail d’équipe (mécanique et horaire précis à venir)
+Examen intra et final
+Surveillés par le registrariat
+QCM basé sur un cas
+Examens papier à lecture optique
+Une page de notes manuscrites (taille 8,5/11 recto-verso permise)
+
+## Diapositive 34
+
+Garder à l’esprit tout au long de la session
+
+TECH 10701 est un cours coordonné
+Cela signifie qu'en tant que professeur, je peux :
+modifier légèrement la structure des diapositives, 
+ajouter ou supprimer des exemples,
+décider de la manière de noter les devoirs
+Cependant, je ne peux pas : 
+modifier la structure de ZoneCours, le contenu des cours …
+accorder des dérogations concernant les dates limites, les devoirs, etc.
+Nous devons être équitables envers tous les étudiants de toutes les classes !
+
+## Diapositive 35
+
+Communications avec votre enseignant
+
+Chaque enseignant a ses préférences quant au mode de communication à privilégier, certains préfèrent la messagerie Teams, d’autre le courriel, merci de respecter ce choix
+Dans chaque communication avec un enseignant, merci de spécifier le nom du cours et le numéro de section afin d’en préciser le contexte
+
+
+
+## Diapositive 36
+
+Outils et matériel requis
+
+Licence ERPSim (60$ + taxes – 68,99$, voir diapo suivante)
+Le non-paiement de cette licence pourrait entraîner la retenue de votre note pour le travail d’équipe
+Compte Airtable étudiant gratuit
+Compte Softr gratuit
+Application Tableau Desktop gratuite (code fourni sur Zone Cours)
+
+
+
+## Diapositive 37
+
+Coût du matériel – 68,99$
+
+Le laboratoire ERPsim est une OBNL faisant partie de HEC Montréal depuis plusieurs années. Son simulateur, très populaire, a formé plus de 30 000 étudiants dans le monde depuis 2015. 
+Tous les fonds amassés servent à faire la promotion de la recherche en TI, à maintenir des serveurs d’HEC Montréal à la fine pointe de la technologie et à offrir de l’expérience et des emplois aux étudiants de l’université.
+Avec cet accès, vous obtiendrez
+Plein accès aux livres du laboratoire et matériel de support
+Un accès aux simulations, à SAP Analytic Cloud, à Business Builders et à SAP Signavio
+
+## Diapositive 38
+
+Exercice pratique
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Diapositive 39
+
+https://erpsim.hec.ca/en/learning/games/card-game/instructions
+
+Simulation d’un processus d’affaires manuel
+
+## Diapositive 40
+
+Leçons apprises
+
+Quel était l'objectif de ton équipe dans le jeu?
+Qu'est-ce qui t'a empêché de l'atteindre?
+À quel moment as-tu manqué d'information pour prendre une décision? 
+Quelle information te manquait?
+Comment ton équipe communiquait-elle? 
+Qu'est-ce qui a bien fonctionné? 
+Qu'est-ce qui a coincé?
+Si tu avais pu concevoir un outil pour faciliter ce processus, à quels besoins aurait-il répondu en priorité?
+Comment énoncer ces éléments sous la forme QUI, QUOI, POURQUOI?
+
+## Diapositive 41
+
+Liste des besoins
+
+No besoin | Énoncé du besoin
+
+ | 
+
+ | 
+
+ | 
+
+ | 
+
+Qui, dans une organisation réelle, aurait le mandat de concevoir cet outil?
+
+
+Notes : Retrouver facilement les contraintes du marché pour la semaine courante (nb max de barils à acheter, prix du baril, nb max de bouteilles à vendre, prix de la bouteille, AUTRES?) 
+Suivre les transactions financières pour connaître son cash flow en tout temps
+Prendre des décisions qui respectent ces contraintes (achat nb baril X et vente nb bouteilles Y vs. nb en inventaire et argent disponible)
+
+## Diapositive 42
+
+Synthèse
+
+
+
+
+
+Mobiliser les technologies numériques
+
+## Diapositive 43
+
+Le cours d’aujourd’hui dans la vision d’ensemble
+
+
+
+ | DonnéesQuoi? | Fonctions
+Comment? | Lieux
+Où? | Personnes
+Qui? | TempsQuand? | Motivations
+Pourquoi?
+
+Niveau contextuel | Liste des entités d’affaires | Liste des processus d’affaires | Liste des localisations géographiques | Liste des unités d’affaires | Liste des événements d’affaires | Liste des objectifs stratégiques et des règles d’affaires
+
+Niveau conceptuel | Entités d’affaires | Processus d’affaires​ | Localisations des unités​ | Unités d’affaires​ | Événements d’affaires | Objectifs d’affaires​
+
+Niveau logique | Entité de données | Application/système d’information | Fonctions nodales​ | Rôles et interfaces​ | Événements système​ | Critères​
+
+Niveau technique | Ligne (dans une table)​ | Algorithmes programmés | Localisation des système​s | Utilisateurs​ | Exécutions | Conditions​
+
+## Diapositive 44
+
+La suite du cours d’aujourd’hui dans la spécialisation
+
+
+
+
+## Diapositive 45
+
+Les métiers impliqués dans le cours d’aujourd’hui
+
+International institute of Business Analysis - IIBA (en français, l’Institut international de l'analyse d'affaires)
+Association professionnelle à but non lucratif ayant pour but de soutenir et de promouvoir la discipline de l'analyse d'affaires
+
+Traduction libre
+IIBA https://shorturl.at/tyRBn 
+
+## Diapositive 46
+
+À faire pour la semaine prochaine
+
+Visionner les capsules vidéo du parcours  d’apprentissage de la séance 2
+54 minutes en tout
+Lire le cas Groupe-Agro
+1 seule page
+Ouvrir un compte Airtable gratuit à l’adresse https://www.airtable.com/ 
+Ouvrir un compte Softr gratuit à l’adresse https://www.softr.io/ 

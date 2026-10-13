@@ -1,0 +1,15 @@
+## xl/worksheets/sheet1.xml
+A1: Exemple : Analyse de la demande
+A3: Mois | B3: Ventes 2022 | C3: Ventes 2023 | D3: Ventes 2024 | E3: Ventes 2025
+A4: Janvier | B4: 994 | C4: 1191 | D4: 1565 | E4: 1810
+A5: Février | B5: 1654 | C5: 1820 | D5: 2333 | E5: 2659
+A6: Mars | B6: 2210 | C6: 2395 | D6: 3110 | E6: 3560
+A7: Avril | B7: 2801 | C7: 3120 | D7: 3860 | E7: 4478
+A8: Mai | B8: 3130 | C8: 3785 | D8: 4710 | E8: 5320
+A9: Juin | B9: 3119 | C9: 3710 | D9: 4680 | E9: 5670
+A10: Juillet | B10: 2101 | C10: 2321 | D10: 3119 | E10: 3611
+A11: Août | B11: 2045 | C11: 2396 | D11: 2980 | E11: 3490
+A12: Septembre | B12: 1630 | C12: 2102 | D12: 2300 | E12: 2558
+A13: Octobre | B13: 1621 | C13: 1879 | D13: 2500 | E13: 2768
+A14: Novembre | B14: 2139 | C14: 2404 | D14: 3109 | E14: 3509
+A15: Décembre | B15: 2421 | C15: 3568 | D15: 4902 | E15: 5412

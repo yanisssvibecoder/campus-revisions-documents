@@ -1,0 +1,12 @@
+6 | Description et objectifs de la séance
+
+Au cœur des systèmes d’information : des algorithmes et de l'intelligence artificielle
+Description
+L'algorithmique, c'est apprendre à penser de façon logique et structurée pour résoudre des problèmes en décomposant les tâches complexes en étapes simples et claires. C'est comme suivre une recette de cuisine ou des instructions de montage, mais pour n'importe quel type de problème. Cette façon de penser aide à mieux organiser le travail, à identifier les causes de problèmes et à trouver des solutions efficaces, que ce soit pour planifier un projet, analyser une situation ou améliorer un processus.
+Dans le monde des systèmes d'information, cette compréhension est essentielle, car elle permet de communiquer clairement avec les développeurs, de comprendre les possibilités et les limites des technologies, et surtout de concevoir des solutions qui fonctionnent vraiment. Cette base logique devient d'autant plus importante avec l'essor de l'intelligence artificielle, car comprendre comment décomposer et structurer les problèmes permet de mieux collaborer avec les outils d'IA et d'évaluer la pertinence des solutions proposées.
+Important!
+Cette semaine, vous explorez les bases qui permettent de comprendre et d’utiliser l’automatisation et l’intelligence artificielle. Entre logique, déclencheurs, boucles et outils sans code, vous verrez comment créer de petites automatisations et surtout comment évaluer ce que l’IA peut apporter… et les risques qu’elle peut poser. Une excellente occasion d’apprendre en construisant, en testant et en réfléchissant.
+Objectifs de la séance
+Expliquer le passage d'un processus d'affaires à un algorithme et créer une automatisation simple à l'aide d'un outil sans code
+Distinguer les quatre fonctions de l'IA dans les organisations et les deux principaux types d'outils (prédictif et génératif) en les illustrant avec des exemples concrets
+Évaluer les avantages et les risques d'un système d'IA pour différentes parties prenantes en justifiant le rôle incontournable de la supervision humaine

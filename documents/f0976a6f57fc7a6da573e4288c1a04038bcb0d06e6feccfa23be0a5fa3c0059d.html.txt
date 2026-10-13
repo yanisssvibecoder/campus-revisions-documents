@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Calculatrice financière — BA II Plus</title>
+<style>
+:root{
+  --page:#e9e7e2; --page2:#f4f2ee; --ink:#1b1b1b; --muted:#6b6b6b;
+  --body:#2a2d34; --body2:#3a3e47; --bezel:#20232a; --accent:#0d9488;
+  --key:#40454f; --key-h:#4c525d; --keytop:#565c68; --keytxt:#f2f2f2;
+  --gold:#e8b04b; --lcd:#b9c4a8; --lcd2:#aab596; --lcddig:#14241a;
+  --white:#eef0f2; --red:#e15b5b;
+  --shadow:0 20px 60px -20px rgba(0,0,0,.6);
+  --mono:"SFMono-Regular",Consolas,"Liberation Mono",Menlo,monospace;
+  --sans:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;
+}
+[data-theme="dark"]{--page:#15151a;--page2:#1e1e24;--ink:#eee;--muted:#9a9a9a;}
+*{box-sizing:border-box}
+body{margin:0;background:var(--page);color:var(--ink);font-family:var(--sans);
+  min-height:100vh;padding:24px 14px 60px;line-height:1.6}
+.head{max-width:960px;margin:0 auto 20px;text-align:center}
+.head h1{font-size:clamp(1.4rem,4vw,2rem);margin:0 0 4px}
+.head p{color:var(--muted);margin:0;font-size:.95rem}
+.layout{max-width:960px;margin:0 auto;display:grid;grid-template-columns:340px 1fr;gap:26px;align-items:start}
+@media(max-width:800px){.layout{grid-template-columns:1fr;justify-items:center}}
+
+/* ---------- Corps de la calculatrice ---------- */
+.calc{width:340px;background:linear-gradient(180deg,var(--body2),var(--body));
+  border-radius:26px;padding:16px 16px 22px;box-shadow:var(--shadow);
+  border:1px solid rgba(255,255,255,.06);position:sticky;top:16px}
+.brandbar{display:flex;justify-content:space-between;align-items:center;padding:2px 6px 12px;color:#cfd3da}
+.brandbar .b1{font-weight:800;letter-spacing:.03em;font-size:.95rem}
+.brandbar .b1 b{color:var(--accent)}
+.brandbar .b2{font-size:.62rem;color:#8a909b;text-align:right;letter-spacing:.05em}
+
+/* ---------- Écran LCD ---------- */
+.lcd{background:linear-gradient(180deg,var(--lcd),var(--lcd2));border-radius:10px;
+  padding:9px 12px 10px;margin-bottom:16px;border:2px solid #1a1c22;
+  box-shadow:inset 0 2px 6px rgba(0,0,0,.35);font-family:var(--mono)}
+.lcd .top{display:flex;justify-content:space-between;font-size:.6rem;color:#41513e;
+  height:12px;letter-spacing:.06em;font-weight:700}
+.lcd .top .on{opacity:1} .lcd .top .off{opacity:.18}
+.lcd .main{display:flex;align-items:baseline;justify-content:flex-end;gap:8px;margin-top:3px}
+.lcd .label{font-size:.9rem;color:#33432f;font-weight:700;min-width:52px;text-align:left}
+.lcd .value{font-size:1.75rem;font-weight:700;color:var(--lcddig);letter-spacing:.02em;
+  text-shadow:0 1px 0 rgba(255,255,255,.15);white-space:nowrap;overflow:hidden}
+
+/* ---------- Clavier ---------- */
+.pad{display:grid;grid-template-columns:repeat(5,1fr);gap:8px 7px}
+.key{position:relative;border:0;border-radius:9px;cursor:pointer;
+  background:linear-gradient(180deg,var(--keytop),var(--key));color:var(--keytxt);
+  font-family:var(--sans);font-size:.82rem;font-weight:700;padding:12px 2px 9px;
+  box-shadow:0 2px 0 #22252c,0 3px 5px rgba(0,0,0,.35);transition:.05s;user-select:none;
+  display:flex;align-items:center;justify-content:center;min-height:42px;line-height:1.05;text-align:center}
+.key:hover{background:linear-gradient(180deg,var(--key-h),var(--key))}
+.key:active,.key.press{transform:translateY(2px);box-shadow:0 0 0 #22252c,0 1px 3px rgba(0,0,0,.4)}
+.key .g{position:absolute;top:-13px;left:0;right:0;font-size:.56rem;color:var(--gold);
+  font-weight:700;letter-spacing:.01em;text-align:center;white-space:nowrap}
+.key.gold{background:linear-gradient(180deg,#f0bd5c,var(--gold));color:#3a2a05;box-shadow:0 2px 0 #9c7420,0 3px 5px rgba(0,0,0,.35)}
+.key.wide{grid-column:span 1}
+.key.num{background:linear-gradient(180deg,#5b616d,#474d58);font-size:1.05rem}
+.key.op{background:linear-gradient(180deg,#4a5058,#3a3f47)}
+.key.eq{background:linear-gradient(180deg,var(--accent),#0b7c72);color:#fff;box-shadow:0 2px 0 #075049,0 3px 5px rgba(0,0,0,.35)}
+.key.tvm{background:linear-gradient(180deg,#52596a,#3f4658)}
+.key small{font-size:.7em}
+.rowlab{grid-column:1/-1;height:2px}
+
+/* ---------- Panneau d'aide ---------- */
+.side{max-width:560px}
+.card{background:var(--page2);border:1px solid rgba(0,0,0,.08);border-radius:16px;padding:18px 20px;margin-bottom:16px;
+  box-shadow:0 1px 3px rgba(0,0,0,.06)}
+.card h3{margin:0 0 10px;font-size:1.08rem;display:flex;align-items:center;gap:8px}
+.card h4{margin:14px 0 6px;font-size:.92rem;color:var(--accent)}
+.recipe{border:1px solid rgba(0,0,0,.1);border-radius:11px;margin:8px 0;background:var(--page);overflow:hidden}
+.recipe>summary{cursor:pointer;padding:11px 14px;font-weight:700;font-size:.92rem;list-style:none;display:flex;gap:10px;align-items:center}
+.recipe>summary::-webkit-details-marker{display:none}
+.recipe>summary .chev{margin-left:auto;transition:.3s;color:var(--muted)}
+.recipe[open]>summary .chev{transform:rotate(90deg)}
+.recipe .rb{padding:2px 14px 14px;font-size:.88rem;color:#333}
+[data-theme="dark"] .recipe .rb{color:#cfcfcf}
+.keys{font-family:var(--mono);font-size:.82rem;background:var(--body);color:#e8ead0;border-radius:8px;
+  padding:10px 12px;margin:8px 0;line-height:1.9;overflow-x:auto}
+.keys kbd{background:#3f4658;color:#fff;border-radius:5px;padding:1px 7px;font-size:.8em;border:1px solid #565c68;
+  box-shadow:0 1px 0 #22252c;white-space:nowrap}
+.keys .r{color:var(--gold);font-weight:700}
+.res{color:#7fe3d3;font-weight:700}
+.mini{font-size:.82rem;color:var(--muted)}
+.tag{display:inline-block;font-size:.7rem;font-weight:800;padding:2px 8px;border-radius:6px;background:#d9f2ee;color:#0b7c72}
+[data-theme="dark"] .tag{background:#0f2f2b;color:#5eead4}
+table.conv{width:100%;border-collapse:collapse;font-size:.82rem;margin-top:6px}
+.conv td,.conv th{padding:5px 8px;border-bottom:1px solid rgba(0,0,0,.1);text-align:left}
+.tbtn{position:fixed;top:14px;right:16px;border:1px solid rgba(0,0,0,.15);background:var(--page2);color:var(--ink);
+  width:38px;height:38px;border-radius:10px;cursor:pointer;font-size:16px}
+.hintline{font-size:.8rem;color:var(--muted);text-align:center;margin-top:10px}
+/* ---- Détacher / fenêtre flottante ---- */
+.detbtn{position:fixed;top:14px;left:16px;z-index:60;border:0;cursor:pointer;font-weight:700;font-size:.9rem;
+  color:#fff;background:linear-gradient(180deg,var(--accent),#0b7c72);padding:9px 15px;border-radius:11px;
+  box-shadow:0 8px 20px -6px rgba(13,148,136,.75)}
+.detbtn:hover{filter:brightness(1.08)} .detbtn:active{transform:translateY(1px)}
+.pipbody{margin:0;background:var(--page);display:grid;place-items:start center;padding:8px;min-height:100vh}
+.pipbody .calc{position:static;top:auto;margin:0}
+.detached-note{width:340px;background:var(--page2);border:2px dashed var(--accent);border-radius:20px;
+  padding:34px 22px;text-align:center;font-weight:700;color:var(--accent);line-height:1.6}
+.detached-note span{display:block;margin-top:10px;font-weight:500;font-size:.85rem;color:var(--muted)}
+.toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,20px);background:#23262d;color:#fff;
+  padding:12px 18px;border-radius:12px;font-size:.9rem;max-width:90vw;text-align:center;
+  box-shadow:0 12px 34px rgba(0,0,0,.45);opacity:0;transition:.3s;z-index:999}
+.toast.show{opacity:1;transform:translate(-50%,0)}
+/* ---- Mode compact (fenêtre-appli) ---- */
+.mini .head,.mini .side,.mini .tbtn{display:none}
+.mini{padding:6px 0}
+.mini .layout{grid-template-columns:1fr;gap:0;justify-items:center}
+.mini .calc{position:static;margin:0 auto}
+.mini .detbtn{top:auto;bottom:12px;left:50%;transform:translateX(-50%);font-size:.78rem;padding:6px 12px}
+</style>
+</head>
+<body>
+<button class="tbtn" id="theme" title="Clair / sombre">🌙</button>
+<button class="detbtn" id="detach" title="Ouvrir en fenêtre flottante toujours au-dessus">📌 Détacher</button>
+
+<div class="head">
+  <h1>🧮 Calculatrice financière — BA II Plus</h1>
+  <p>Réplique fonctionnelle de la calculatrice de référence en finance · clique sur les touches ou tape au clavier</p>
+</div>
+
+<div class="layout">
+  <!-- ======= CALCULATRICE ======= -->
+  <div class="calc" id="calc">
+    <div class="brandbar">
+      <div class="b1">BA <b>II</b> PLUS™</div>
+      <div class="b2">CALCULATRICE<br>FINANCIÈRE</div>
+    </div>
+
+    <div class="lcd">
+      <div class="top">
+        <span id="an2nd" class="off">2ND</span>
+        <span id="anInv" class="off">INV</span>
+        <span id="anCpt" class="off">CPT</span>
+        <span id="anEnter" class="off">ENTER</span>
+        <span id="anSet" class="off">SET</span>
+        <span id="anWs" class="off">&nbsp;</span>
+        <span id="anBgn" class="off">BGN</span>
+      </div>
+      <div class="main">
+        <span class="label" id="lcdLabel"></span>
+        <span class="value" id="lcdValue">0</span>
+      </div>
+    </div>
+
+    <div class="pad" id="pad">
+      <!-- Rangée contrôle -->
+      <button class="key gold" data-k="2nd">2ND</button>
+      <button class="key" data-k="cpt"><span class="g">QUIT</span>CPT</button>
+      <button class="key" data-k="up">▲</button>
+      <button class="key" data-k="down">▼</button>
+      <button class="key" data-k="onoff"><span class="g">RESET</span>ON/OFF</button>
+
+      <!-- Rangée TVM -->
+      <button class="key tvm" data-k="N"><span class="g">×P/Y</span>N</button>
+      <button class="key tvm" data-k="IY"><span class="g">P/Y</span>I/Y</button>
+      <button class="key tvm" data-k="PV"><span class="g">AMORT</span>PV</button>
+      <button class="key tvm" data-k="PMT"><span class="g">BGN</span>PMT</button>
+      <button class="key tvm" data-k="FV"><span class="g">CLR TVM</span>FV</button>
+
+      <!-- Rangée flux monétaires -->
+      <button class="key" data-k="CF">CF</button>
+      <button class="key" data-k="NPV">NPV</button>
+      <button class="key" data-k="IRR">IRR</button>
+      <button class="key" data-k="enter"><span class="g">SET</span>ENTER</button>
+      <button class="key" data-k="clr"><span class="g">CLR WK</span>CE|C</button>
+
+      <!-- Pavé numérique -->
+      <button class="key num" data-k="7">7</button>
+      <button class="key num" data-k="8">8</button>
+      <button class="key num" data-k="9">9</button>
+      <button class="key op" data-k="div">÷</button>
+      <button class="key op" data-k="pow">y<small>x</small></button>
+
+      <button class="key num" data-k="4">4</button>
+      <button class="key num" data-k="5">5</button>
+      <button class="key num" data-k="6">6</button>
+      <button class="key op" data-k="mul">×</button>
+      <button class="key op" data-k="sqrt">√x</button>
+
+      <button class="key num" data-k="1">1</button>
+      <button class="key num" data-k="2"><span class="g">ICONV</span>2</button>
+      <button class="key num" data-k="3">3</button>
+      <button class="key op" data-k="sub">−</button>
+      <button class="key op" data-k="inv">1/x</button>
+
+      <button class="key num" data-k="0">0</button>
+      <button class="key num" data-k="dot"><span class="g">FORMAT</span>.</button>
+      <button class="key" data-k="neg">+/−</button>
+      <button class="key op" data-k="add">+</button>
+      <button class="key eq" data-k="eq">=</button>
+    </div>
+    <div class="hintline">Astuce : l'argent qui <b>sort</b> se saisit en négatif (touche +/−).</div>
+  </div>
+
+  <!-- ======= AIDE ======= -->
+  <div class="side">
+    <div class="card">
+      <h3>📘 Comment l'utiliser (l'essentiel)</h3>
+      <p style="font-size:.9rem;margin-top:0">La BA II Plus raisonne avec 5 variables de temps. Tu en connais 4, elle calcule la 5ᵉ.</p>
+      <table class="conv">
+        <tr><th>Touche</th><th>Signifie</th></tr>
+        <tr><td><b>N</b></td><td>Nombre de périodes</td></tr>
+        <tr><td><b>I/Y</b></td><td>Taux d'intérêt par période (en %)</td></tr>
+        <tr><td><b>PV</b></td><td>Valeur actuelle (aujourd'hui)</td></tr>
+        <tr><td><b>PMT</b></td><td>Versement périodique (annuité)</td></tr>
+        <tr><td><b>FV</b></td><td>Valeur future</td></tr>
+        <tr><td><b>CPT</b></td><td>« Calcule » (CPT puis la variable cherchée)</td></tr>
+      </table>
+      <p class="mini" style="margin-bottom:0">⚠️ <b>Convention de signes</b> : un encaissement est positif, un décaissement est négatif. Si tu prêtes/places 100 $ (sortie), saisis <b>−100</b> en PV ; la FV ressortira positive.</p>
+    </div>
+
+    <div class="card">
+      <h3>🎯 Recettes prêtes pour ton cours</h3>
+      <p class="mini" style="margin-top:0">Chaque recette = la suite exacte de touches. <span class="r">Texte doré</span> = appuie d'abord sur <kbd>2ND</kbd>.</p>
+
+      <details class="recipe"><summary><span class="tag">Ch.5</span> Valeur future (VC) d'un montant <span class="chev">▶</span></summary>
+        <div class="rb">100 $ placés à 10 %, pendant 5 ans → combien à la fin ?
+          <div class="keys">
+            <kbd>2ND</kbd> <span class="r">CLR TVM</span> &nbsp;(remet à zéro)<br>
+            <kbd>5</kbd> <kbd>N</kbd> · <kbd>1</kbd><kbd>0</kbd> <kbd>I/Y</kbd> · <kbd>1</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> · <kbd>0</kbd> <kbd>PMT</kbd><br>
+            <kbd>CPT</kbd> <kbd>FV</kbd> → <span class="res">161,05</span>
+          </div>
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.5</span> Valeur actuelle (VA) d'un montant <span class="chev">▶</span></summary>
+        <div class="rb">Recevoir 68 500 $ dans 2 ans à 9 % → valeur aujourd'hui ?
+          <div class="keys">
+            <kbd>2ND</kbd> <span class="r">CLR TVM</span><br>
+            <kbd>2</kbd> <kbd>N</kbd> · <kbd>9</kbd> <kbd>I/Y</kbd> · <kbd>6</kbd><kbd>8</kbd><kbd>5</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>FV</kbd> · <kbd>0</kbd> <kbd>PMT</kbd><br>
+            <kbd>CPT</kbd> <kbd>PV</kbd> → <span class="res">−57 655,08</span>
+          </div>
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.5</span> Trouver le taux (r) ou la durée (t) <span class="chev">▶</span></summary>
+        <div class="rb">100 $ deviennent 200 $ en 8 ans → quel taux ?
+          <div class="keys">
+            <kbd>8</kbd> <kbd>N</kbd> · <kbd>1</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>+/−</kbd> <kbd>PV</kbd> · <kbd>2</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>FV</kbd> · <kbd>0</kbd> <kbd>PMT</kbd><br>
+            <kbd>CPT</kbd> <kbd>I/Y</kbd> → <span class="res">9,05</span>
+          </div>
+          Pour la durée : saisis N inconnu et fais <kbd>CPT</kbd> <kbd>N</kbd>.
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.6</span> Valeur d'une annuité (versements égaux) <span class="chev">▶</span></summary>
+        <div class="rb">Emprunt remboursé 632 $/mois pendant 48 mois à 1 %/mois → montant emprunté ?
+          <div class="keys">
+            <kbd>2ND</kbd> <span class="r">CLR TVM</span><br>
+            <kbd>4</kbd><kbd>8</kbd> <kbd>N</kbd> · <kbd>1</kbd> <kbd>I/Y</kbd> · <kbd>6</kbd><kbd>3</kbd><kbd>2</kbd> <kbd>+/−</kbd> <kbd>PMT</kbd> · <kbd>0</kbd> <kbd>FV</kbd><br>
+            <kbd>CPT</kbd> <kbd>PV</kbd> → <span class="res">23 999,54</span> &nbsp;(≈ 24 000 $ dans le manuel, qui arrondit le facteur)
+          </div>
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.6</span> Épargne (VC d'une annuité) + mode début <span class="chev">▶</span></summary>
+        <div class="rb">2 000 $/an pendant 30 ans à 8 %.
+          <div class="keys">
+            <kbd>3</kbd><kbd>0</kbd> <kbd>N</kbd> · <kbd>8</kbd> <kbd>I/Y</kbd> · <kbd>2</kbd><kbd>0</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>+/−</kbd> <kbd>PMT</kbd> · <kbd>0</kbd> <kbd>PV</kbd><br>
+            <kbd>CPT</kbd> <kbd>FV</kbd> → <span class="res">226 566,42</span>
+          </div>
+          Pour des dépôts en <b>début</b> de période : <kbd>2ND</kbd> <span class="r">BGN</span> puis <kbd>2ND</kbd> <span class="r">SET</span> (indicateur BGN), refais le calcul → <span class="res">244 691,74</span>.
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.6</span> Taux nominal → taux EFFECTIF (ICONV) <span class="chev">▶</span></summary>
+        <div class="rb">Carte de crédit : 18 % nominal, capitalisé 12×/an → taux effectif réel ?
+          <div class="keys">
+            <kbd>2ND</kbd> <span class="r">ICONV</span><br>
+            À « NOM » : <kbd>1</kbd><kbd>8</kbd> <kbd>ENTER</kbd> · ▼ à « C/Y » : <kbd>1</kbd><kbd>2</kbd> <kbd>ENTER</kbd><br>
+            ▼ à « EFF » : <kbd>CPT</kbd> → <span class="res">19,56</span>
+          </div>
+          (L'inverse marche aussi : entre EFF, ▲ jusqu'à NOM, <kbd>CPT</kbd>.)
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Ch.6</span> Tableau d'amortissement (AMORT) <span class="chev">▶</span></summary>
+        <div class="rb">Après avoir résolu un prêt en TVM (ex. 5 000 $, 9 %, 5 ans → PMT), vois le détail :
+          <div class="keys">
+            <kbd>2ND</kbd> <span class="r">AMORT</span><br>
+            « P1 » <kbd>1</kbd> <kbd>ENTER</kbd> ▼ « P2 » <kbd>1</kbd> <kbd>ENTER</kbd> ▼<br>
+            ▼ lit « BAL » (solde), « PRN » (capital), « INT » (intérêts) de l'année 1.<br>
+            Change P1/P2 pour n'importe quelle plage d'années.
+          </div>
+        </div>
+      </details>
+
+      <details class="recipe"><summary><span class="tag">Budget capital</span> VAN &amp; TRI (NPV / IRR) <span class="chev">▶</span></summary>
+        <div class="rb">Projet : −1 000 aujourd'hui, puis +400, +500, +600. Taux 12 %.
+          <div class="keys">
+            <kbd>CF</kbd> · « CF0 » <kbd>1</kbd><kbd>0</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>+/−</kbd> <kbd>ENTER</kbd> ▼<br>
+            « C01 » <kbd>4</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>ENTER</kbd> ▼ ▼ « C02 » <kbd>5</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>ENTER</kbd> ▼ ▼ « C03 » <kbd>6</kbd><kbd>0</kbd><kbd>0</kbd> <kbd>ENTER</kbd><br>
+            <kbd>NPV</kbd> « I » <kbd>1</kbd><kbd>2</kbd> <kbd>ENTER</kbd> ▼ <kbd>CPT</kbd> → <span class="res">VAN ≈ 182,81</span><br>
+            <kbd>IRR</kbd> <kbd>CPT</kbd> → <span class="res">TRI ≈ 21,65 %</span>
+          </div>
+        </div>
+      </details>
+    </div>
+
+    <div class="card">
+      <h3>⌨️ Raccourcis clavier</h3>
+      <p class="mini" style="margin:0">Chiffres <kbd>0-9</kbd>, <kbd>. + − * /</kbd>, <kbd>Entrée</kbd> = ENTER, <kbd>=</kbd>, <kbd>Retour arrière</kbd> efface un chiffre, <kbd>Échap</kbd> = CE|C.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+/* =========================================================================
+   MOTEUR BA II PLUS
+   ========================================================================= */
+const S = {
+  reg:{N:0,IY:0,PV:0,PMT:0,FV:0,PY:1,CY:1,bgn:false},
+  iconv:{NOM:0,CY:1,EFF:0},
+  cf:{CF0:0,flows:[],I:0,NPV:null,IRR:null},
+  amort:{P1:1,P2:1},
+  mode:'STD',            // STD, ICONV, PY, AMORT, CF, NPV, IRR, BGN
+  fields:[], ptr:0,
+  entry:'', editing:false,
+  second:false, computePending:false, setPending:false,
+  acc:null, pending:null, // arithmétique standard
+  label:'', value:0, valStr:null,
+  lastKey:null
+};
+
+let DOCROOT=document;              // racine active (document principal, ou la fenêtre flottante)
+let pipWin=null, pipActive=false;  // fenêtre Picture-in-Picture
+const el=id=>DOCROOT.getElementById(id);
+const pad=el('pad');
+
+/* ---- formatage nombre style calculatrice (point décimal, pas de séparateur) ---- */
+function fmt(v){
+  if(v===null||v===undefined) return '0';
+  if(typeof v==='number' && !isFinite(v)) return 'Error';
+  if(v==='Error') return 'Error';
+  let n=Number(v);
+  if(isNaN(n)) return 'Error';
+  // 10 chiffres significatifs, on retire les zéros inutiles
+  let s=Number(n.toPrecision(10)).toString();
+  if(s.includes('e')) s=n.toFixed(6);
+  return s;
+}
+
+/* ---- rendu de l'écran ---- */
+function render(){
+  el('an2nd').className=S.second?'on':'off';
+  el('anCpt').className=S.computePending?'on':'off';
+  el('anSet').className=S.setPending?'on':'off';
+  el('anEnter').className=(S.mode!=='STD')?'on':'off';
+  el('anBgn').className=S.reg.bgn?'on':'off';
+  const wsName={ICONV:'ICONV',PY:'P/Y',AMORT:'AMORT',CF:'CF',NPV:'NPV',IRR:'IRR',BGN:'BGN'}[S.mode]||'';
+  el('anWs').textContent=wsName||' ';
+  el('anWs').className=wsName?'on':'off';
+  el('lcdLabel').textContent=S.label||'';
+  el('lcdValue').textContent = S.editing ? (S.entry||'0') : (S.valStr!==null?S.valStr:fmt(S.value));
+}
+function show(label,val){ S.label=label; S.value=val; S.valStr=null; S.editing=false; render(); }
+function showStr(label,str){ S.label=label; S.valStr=str; S.editing=false; render(); }
+
+/* ---- taux périodique (convention BA II Plus) ---- */
+function periodRate(){
+  const iy=S.reg.IY/100;
+  if(S.reg.CY===S.reg.PY) return iy/S.reg.PY;
+  return Math.pow(1+iy/S.reg.CY, S.reg.CY/S.reg.PY)-1;
+}
+function iyFromPeriod(i){
+  if(S.reg.CY===S.reg.PY) return i*S.reg.PY*100;
+  return S.reg.CY*(Math.pow(1+i, S.reg.PY/S.reg.CY)-1)*100;
+}
+function annFactor(i,N,bgn){ if(i===0) return N; let A=(1-Math.pow(1+i,-N))/i; if(bgn)A*=(1+i); return A; }
+
+/* ---- solveurs TVM ---- */
+const R=S.reg;
+function solveFV(){const i=periodRate(),a=Math.pow(1+i,-R.N),A=annFactor(i,R.N,R.bgn);R.FV=-(R.PV+R.PMT*A)/a;}
+function solvePV(){const i=periodRate(),a=Math.pow(1+i,-R.N),A=annFactor(i,R.N,R.bgn);R.PV=-(R.PMT*A+R.FV*a);}
+function solvePMT(){const i=periodRate(),a=Math.pow(1+i,-R.N),A=annFactor(i,R.N,R.bgn);if(A===0)throw'e';R.PMT=-(R.PV+R.FV*a)/A;}
+function solveN(){
+  const i=periodRate();
+  if(i===0){R.N=-(R.PV+R.FV)/R.PMT;return;}
+  const g=R.bgn?(1+i):1, k=R.PMT*g/i;
+  const a=(R.PV+k)/(k-R.FV);
+  if(a<=0)throw'e';
+  R.N=-Math.log(a)/Math.log(1+i);
+}
+function solveIY(){
+  const N=R.N,PV=R.PV,PMT=R.PMT,FV=R.FV,bgn=R.bgn;
+  const f=i=>{ if(Math.abs(i)<1e-12) return PV+PMT*N+FV; const a=Math.pow(1+i,-N); let A=(1-a)/i; if(bgn)A*=(1+i); return PV+PMT*A+FV*a; };
+  let lo=-0.9999,hi=1,flo=f(lo),fhi=f(hi),t=0;
+  while(flo*fhi>0 && hi<1e7 && t<200){hi*=1.6;fhi=f(hi);t++;}
+  if(flo*fhi>0){ // essaie côté négatif fin
+    lo=-0.9999; hi=0; flo=f(lo); fhi=f(hi);
+    if(flo*fhi>0) throw'e';
+  }
+  let mid=0;
+  for(let k=0;k<300;k++){mid=(lo+hi)/2;const fm=f(mid);if(Math.abs(fm)<1e-11)break;if(flo*fm<0){hi=mid;fhi=fm;}else{lo=mid;flo=fm;}}
+  R.IY=iyFromPeriod(mid);
+}
+
+/* ---- ICONV ---- */
+function iconvEFF(){const c=S.iconv.CY;S.iconv.EFF=(Math.pow(1+(S.iconv.NOM/100)/c,c)-1)*100;}
+function iconvNOM(){const c=S.iconv.CY;S.iconv.NOM=(Math.pow(1+S.iconv.EFF/100,1/c)-1)*c*100;}
+
+/* ---- AMORT (utilise le registre TVM résolu) ---- */
+function amortRange(){
+  const i=periodRate();
+  const pv=Math.abs(R.PV), pmt=Math.abs(R.PMT);
+  const p1=Math.max(1,Math.round(S.amort.P1)), p2=Math.max(p1,Math.round(S.amort.P2));
+  // solde après k versements (modèle prêt positif)
+  const bal=k=> pv*Math.pow(1+i,k) - pmt*((Math.pow(1+i,k)-1)/ (i||1) );
+  const balStart=i===0? pv-pmt*(p1-1) : bal(p1-1);
+  const balEnd  =i===0? pv-pmt*p2      : bal(p2);
+  const PRN=balStart-balEnd;
+  const INT=pmt*(p2-p1+1)-PRN;
+  return {BAL:balEnd, PRN, INT};
+}
+
+/* ---- NPV / IRR ---- */
+function npvAt(rate){
+  let t=0,acc=S.cf.CF0;
+  for(const fl of S.cf.flows){for(let j=0;j<fl.f;j++){t++;acc+=fl.c/Math.pow(1+rate/100,t);}}
+  return acc;
+}
+function solveNPV(){S.cf.NPV=npvAt(S.cf.I);}
+function solveIRR(){
+  const f=r=>{let t=0,acc=S.cf.CF0;for(const fl of S.cf.flows){for(let j=0;j<fl.f;j++){t++;acc+=fl.c/Math.pow(1+r/100,t);}}return acc;};
+  let lo=-99.99,hi=1000,flo=f(lo),fhi=f(hi),t=0;
+  while(flo*fhi>0 && t<400){hi= (hi<1e6)?hi*1.3:hi; if(hi>=1e6){throw'e';} fhi=f(hi);t++;}
+  let mid=0;
+  for(let k=0;k<300;k++){mid=(lo+hi)/2;const fm=f(mid);if(Math.abs(fm)<1e-9)break;if(flo*fm<0){hi=mid;fhi=fm;}else{lo=mid;flo=fm;}}
+  S.cf.IRR=mid;
+}
+
+/* =========================================================================
+   NAVIGATION DES WORKSHEETS
+   ========================================================================= */
+function buildFields(){
+  if(S.mode==='ICONV') S.fields=['NOM','CY','EFF'];
+  else if(S.mode==='PY') S.fields=['PY','CY'];
+  else if(S.mode==='AMORT') S.fields=['P1','P2','BAL','PRN','INT'];
+  else if(S.mode==='NPV') S.fields=['I','NPV'];
+  else if(S.mode==='IRR') S.fields=['IRR'];
+  else if(S.mode==='BGN') S.fields=['BGN'];
+  else if(S.mode==='CF'){
+    S.fields=['CF0'];
+    S.cf.flows.forEach((f,i)=>{S.fields.push('C'+String(i+1).padStart(2,'0'),'F'+String(i+1).padStart(2,'0'));});
+  }
+}
+function fieldLabel(f){ return f; }
+function fieldValue(f){
+  switch(f){
+    case 'NOM':return S.iconv.NOM; case 'EFF':return S.iconv.EFF;
+    case 'CY': return S.mode==='ICONV'?S.iconv.CY:S.reg.CY;
+    case 'PY':return S.reg.PY;
+    case 'P1':return S.amort.P1; case 'P2':return S.amort.P2;
+    case 'BAL':return amortRange().BAL; case 'PRN':return amortRange().PRN; case 'INT':return amortRange().INT;
+    case 'I':return S.cf.I; case 'NPV':return S.cf.NPV;
+    case 'IRR':return S.cf.IRR;
+    case 'CF0':return S.cf.CF0;
+    default:
+      if(f[0]==='C'){const k=+f.slice(1)-1;return S.cf.flows[k]?S.cf.flows[k].c:0;}
+      if(f[0]==='F'){const k=+f.slice(1)-1;return S.cf.flows[k]?S.cf.flows[k].f:0;}
+  }
+  return 0;
+}
+function renderField(){
+  const f=S.fields[S.ptr];
+  if(S.mode==='BGN'){ showStr('', S.reg.bgn?'BGN':'END'); return; }
+  const v=fieldValue(f);
+  if(v===null){ showStr(f,'---'); } else { show(fieldLabel(f), v); }
+}
+function enterWorksheet(mode){
+  S.mode=mode; S.ptr=0; S.second=false; S.computePending=false; S.setPending=false; S.editing=false;
+  if(mode==='CF' && S.cf.flows.length===0){ /* commence sur CF0 */ }
+  buildFields(); renderField();
+}
+function quitWorksheet(){ S.mode='STD'; S.editing=false; S.computePending=false; S.setPending=false; render(); }
+
+/* commit de l'entrée dans le champ courant d'un worksheet */
+function commitField(){
+  if(!S.editing) return;
+  const val=parseFloat(S.entry); if(isNaN(val)){S.editing=false;return;}
+  const f=S.fields[S.ptr];
+  switch(f){
+    case 'NOM':S.iconv.NOM=val;break;
+    case 'EFF':S.iconv.EFF=val;break;
+    case 'CY':if(S.mode==='ICONV')S.iconv.CY=Math.max(1,Math.round(val));else S.reg.CY=Math.max(1,Math.round(val));break;
+    case 'PY':S.reg.PY=Math.max(1,Math.round(val));S.reg.CY=S.reg.PY;break;
+    case 'P1':S.amort.P1=Math.round(val);break;
+    case 'P2':S.amort.P2=Math.round(val);break;
+    case 'I':S.cf.I=val;break;
+    case 'CF0':S.cf.CF0=val;break;
+    default:
+      if(f[0]==='C'){const k=+f.slice(1)-1; if(!S.cf.flows[k])S.cf.flows[k]={c:0,f:1}; S.cf.flows[k].c=val;}
+      if(f[0]==='F'){const k=+f.slice(1)-1; if(!S.cf.flows[k])S.cf.flows[k]={c:0,f:1}; S.cf.flows[k].f=Math.max(1,Math.round(val));}
+  }
+  S.editing=false; buildFields(); renderField();
+}
+function navField(dir){
+  commitField();
+  if(S.mode==='CF'){
+    // en descendant au-delà du dernier champ, on crée un nouveau flux
+    if(dir>0 && S.ptr===S.fields.length-1){
+      S.cf.flows.push({c:0,f:1}); buildFields();
+    }
+  }
+  S.ptr=Math.min(S.fields.length-1,Math.max(0,S.ptr+dir));
+  S.editing=false; renderField();
+}
+
+/* =========================================================================
+   ARITHMÉTIQUE STANDARD
+   ========================================================================= */
+function currentNumber(){ return S.editing?parseFloat(S.entry||'0'):S.value; }
+function doOp(op){
+  const x=currentNumber();
+  if(S.pending!==null && S.acc!==null){
+    S.acc=applyOp(S.acc,x,S.pending);
+  } else { S.acc=x; }
+  S.pending=op; S.editing=false; show('',S.acc);
+}
+function applyOp(a,b,op){switch(op){case'add':return a+b;case'sub':return a-b;case'mul':return a*b;case'div':return b===0?NaN:a/b;}return b;}
+function equals(){
+  const x=currentNumber();
+  if(S.pending!==null && S.acc!==null){S.acc=applyOp(S.acc,x,S.pending);show('',S.acc);S.acc=null;S.pending=null;}
+  else show('',x);
+  S.editing=false;
+}
+
+/* =========================================================================
+   TOUCHES TVM (mode standard)
+   ========================================================================= */
+function tvmKey(k){
+  // 2nd-fonctions
+  if(S.second){
+    S.second=false;
+    if(k==='FV'){ R.N=R.IY=R.PV=R.PMT=R.FV=0; show('',0); return; }        // CLR TVM
+    if(k==='PV'){ enterWorksheet('AMORT'); return; }                        // AMORT
+    if(k==='IY'){ enterWorksheet('PY'); return; }                           // P/Y
+    if(k==='PMT'){ enterWorksheet('BGN'); return; }                         // BGN
+    if(k==='N'){ const v=S.editing?parseFloat(S.entry):R.N; R.N=v*R.PY; show('N',R.N); S.editing=false; return; } // ×P/Y
+  }
+  if(S.computePending){
+    S.computePending=false;
+    try{
+      if(k==='N')solveN(); if(k==='IY')solveIY(); if(k==='PV')solvePV(); if(k==='PMT')solvePMT(); if(k==='FV')solveFV();
+      show(labelFor(k), R[k]);
+    }catch(e){ showStr(labelFor(k),'Error'); }
+    return;
+  }
+  if(S.editing){ R[k]=parseFloat(S.entry)||0; show(labelFor(k),R[k]); S.editing=false; return; }
+  show(labelFor(k), R[k]); // rappel
+}
+function labelFor(k){return {N:'N',IY:'I/Y',PV:'PV',PMT:'PMT',FV:'FV'}[k];}
+
+/* =========================================================================
+   DISPATCH PRINCIPAL
+   ========================================================================= */
+function digit(d){
+  if(S.computePending && S.mode==='STD') S.computePending=false;
+  if(!S.editing){ S.entry=''; S.editing=true; }
+  if(S.entry==='0') S.entry='';
+  S.entry+=d; S.valStr=null; render();
+}
+function dot(){ if(!S.editing){S.entry='0';S.editing=true;} if(!S.entry.includes('.'))S.entry+='.'; render(); }
+function neg(){
+  if(S.editing){ S.entry = S.entry.startsWith('-')?S.entry.slice(1):'-'+S.entry; }
+  else { S.entry=String(-(S.value||0)); S.editing=true; }
+  render();
+}
+function backspace(){ if(S.editing){S.entry=S.entry.slice(0,-1); if(S.entry===''||S.entry==='-'){S.entry='0';} render();} }
+
+function press(k){
+  flash(k);
+  // 2ND : bascule
+  if(k==='2nd'){ S.second=!S.second; render(); return; }
+
+  // ICONV via 2nd + 2
+  if(S.second && k==='2'){ S.second=false; enterWorksheet('ICONV'); return; }
+  // FORMAT via 2nd + . (ignoré, affichage déjà flottant) ; RESET via 2nd + onoff
+  if(S.second && k==='onoff'){ S.second=false; resetAll(); return; }
+  if(S.second && k==='dot'){ S.second=false; render(); return; }
+
+  // QUIT (2nd + CPT)
+  if(S.second && k==='cpt'){ S.second=false; quitWorksheet(); return; }
+  // SET (2nd + ENTER) : dans BGN, bascule ; ailleurs, toggle set
+  if(S.second && k==='enter'){
+    S.second=false;
+    if(S.mode==='BGN'){ S.reg.bgn=!S.reg.bgn; renderField(); render(); return; }
+    return;
+  }
+  // CLR WK (2nd + CE|C)
+  if(S.second && k==='clr'){
+    S.second=false;
+    if(S.mode==='CF'){S.cf={CF0:0,flows:[],I:0,NPV:null,IRR:null};enterWorksheet('CF');}
+    else if(S.mode==='ICONV'){S.iconv={NOM:0,CY:1,EFF:0};enterWorksheet('ICONV');}
+    else { show('',0); }
+    return;
+  }
+
+  // chiffres
+  if(/^[0-9]$/.test(k)){ if(S.second&&k!=='2'){S.second=false;} digit(k); return; }
+  if(k==='dot'){ dot(); return; }
+  if(k==='neg'){ neg(); return; }
+
+  // touches TVM
+  if(['N','IY','PV','PMT','FV'].includes(k)){
+    if(S.mode!=='STD' && !S.second){ /* dans un worksheet, ces touches ne s'appliquent pas */ }
+    tvmKey(k); return;
+  }
+
+  // CPT
+  if(k==='cpt'){
+    S.second=false;
+    if(S.mode==='STD'){ S.computePending=true; render(); return; }
+    // dans un worksheet : calcule le champ courant
+    const f=S.fields[S.ptr];
+    try{
+      if(S.mode==='ICONV'){ if(f==='EFF'){iconvEFF();} else if(f==='NOM'){iconvNOM();} }
+      if(S.mode==='NPV' && f==='NPV'){ commitField(); solveNPV(); }
+      if(S.mode==='IRR'){ solveIRR(); }
+      buildFields(); renderField();
+    }catch(e){ showStr(f,'Error'); }
+    return;
+  }
+  // ENTER
+  if(k==='enter'){
+    S.second=false;
+    if(S.mode!=='STD'){ commitField(); return; }
+    equals(); return;
+  }
+  // Flèches
+  if(k==='up'){ if(S.mode!=='STD') navField(-1); return; }
+  if(k==='down'){ if(S.mode!=='STD') navField(1); return; }
+
+  // CE|C
+  if(k==='clr'){
+    S.second=false;
+    if(S.editing){ S.entry='0'; S.editing=false; S.value=0; render(); return; }
+    if(S.mode!=='STD'){ quitWorksheet(); return; }
+    S.value=0;S.acc=null;S.pending=null;show('',0); return;
+  }
+  if(k==='onoff'){ S.second=false; show('',0); return; }
+
+  // worksheets financiers
+  if(k==='CF'){ S.second=false; enterWorksheet('CF'); return; }
+  if(k==='NPV'){ S.second=false; enterWorksheet('NPV'); return; }
+  if(k==='IRR'){ S.second=false; enterWorksheet('IRR'); try{solveIRR();}catch(e){} buildFields(); if(S.cf.IRR!=null)showStr('IRR',fmt(S.cf.IRR)); else renderField(); return; }
+
+  // opérations arithmétiques
+  if(['add','sub','mul','div'].includes(k)){ S.second=false; if(S.mode==='STD') doOp(k); return; }
+  if(k==='eq'){ S.second=false; if(S.mode==='STD') equals(); return; }
+  if(k==='pow'){ S.second=false; if(S.mode==='STD'){ doOp('pow'); } return; }
+  if(k==='sqrt'){ S.second=false; const x=currentNumber(); show('',Math.sqrt(x)); return; }
+  if(k==='inv'){ S.second=false; const x=currentNumber(); show('',x===0?NaN:1/x); return; }
+}
+// yˣ
+const _apply=applyOp;
+applyOp=(a,b,op)=>op==='pow'?Math.pow(a,b):_apply(a,b,op);
+
+function resetAll(){
+  // ⚠️ muter en place (R est un alias de S.reg) au lieu de réassigner les objets
+  Object.assign(S.reg,{N:0,IY:0,PV:0,PMT:0,FV:0,PY:1,CY:1,bgn:false});
+  Object.assign(S.iconv,{NOM:0,CY:1,EFF:0});
+  Object.assign(S.amort,{P1:1,P2:1});
+  S.cf.CF0=0; S.cf.flows.length=0; S.cf.I=0; S.cf.NPV=null; S.cf.IRR=null;
+  S.mode='STD';S.editing=false;S.entry='';S.acc=null;S.pending=null;S.second=false;S.computePending=false;
+  show('',0);
+}
+
+/* =========================================================================
+   INTERFACE
+   ========================================================================= */
+function flash(k){ const b=pad.querySelector(`[data-k="${k}"]`); if(b){b.classList.add('press');setTimeout(()=>b.classList.remove('press'),90);} }
+pad.addEventListener('click',e=>{const b=e.target.closest('.key'); if(b) press(b.dataset.k);});
+
+function onKey(e){
+  const map={'0':'0','1':'1','2':'2','3':'3','4':'4','5':'5','6':'6','7':'7','8':'8','9':'9',
+    '.':'dot','+':'add','-':'sub','*':'mul','/':'div','=':'eq'};
+  if(map[e.key]){ e.preventDefault(); press(map[e.key]); }
+  else if(e.key==='Enter'){ e.preventDefault(); press('enter'); }
+  else if(e.key==='Backspace'){ e.preventDefault(); backspace(); }
+  else if(e.key==='Escape'){ e.preventDefault(); press('clr'); }
+  else if(e.key==='ArrowUp'){ e.preventDefault(); press('up'); }
+  else if(e.key==='ArrowDown'){ e.preventDefault(); press('down'); }
+}
+document.addEventListener('keydown',onKey);
+
+/* thème */
+const tb=el('theme');
+function setTheme(t){document.documentElement.setAttribute('data-theme',t);
+  if(pipWin)pipWin.document.documentElement.setAttribute('data-theme',t);
+  tb.textContent=t==='dark'?'☀️':'🌙';try{localStorage.setItem('baii-theme',t)}catch(e){}}
+(function(){let t='light';try{t=localStorage.getItem('baii-theme')||'light'}catch(e){}setTheme(t);})();
+tb.onclick=()=>setTheme(document.documentElement.getAttribute('data-theme')==='dark'?'light':'dark');
+
+/* ========================================================================
+   FENÊTRE FLOTTANTE (Document Picture-in-Picture) — reste au-dessus de tout
+   ======================================================================== */
+if(location.hash.includes('mini')||location.search.includes('mini')) document.body.classList.add('mini');
+const calcEl=el('calc');
+let placeholder=null;
+function toast(msg){const d=document.createElement('div');d.className='toast';d.innerHTML=msg;document.body.appendChild(d);
+  requestAnimationFrame(()=>d.classList.add('show'));setTimeout(()=>{d.classList.remove('show');setTimeout(()=>d.remove(),320);},4600);}
+async function detach(){
+  if(pipActive){ if(pipWin) pipWin.focus(); return; }
+  if(!('documentPictureInPicture' in window)){
+    toast('🔎 Fenêtre flottante indisponible ici.<br>Ouvre ce fichier dans <b>Google Chrome</b> ou <b>Microsoft Edge</b> (version récente), ou utilise le lanceur « Calculatrice flottante ».');
+    return;
+  }
+  try{
+    const pip=await documentPictureInPicture.requestWindow({width:372,height:690});
+    // recopier les styles dans la fenêtre flottante
+    document.querySelectorAll('style,link[rel="stylesheet"]').forEach(n=>pip.document.head.appendChild(n.cloneNode(true)));
+    pip.document.documentElement.setAttribute('data-theme',document.documentElement.getAttribute('data-theme')||'light');
+    pip.document.body.className='pipbody';
+    // laisser un mot à la place de la calculatrice
+    placeholder=document.createElement('div');placeholder.className='detached-note';
+    placeholder.innerHTML='📌 Calculatrice ouverte en <b>fenêtre flottante</b>.<br>'+
+      '<span>Glisse-la où tu veux — elle reste au-dessus de tes autres applications et sites.<br>Ferme la petite fenêtre pour la ramener ici.</span>';
+    calcEl.replaceWith(placeholder);
+    calcEl.style.position='static';calcEl.style.top='auto';
+    pip.document.body.appendChild(calcEl);
+    DOCROOT=pip.document; pipWin=pip; pipActive=true;
+    pip.document.addEventListener('keydown',onKey);
+    render();
+    pip.addEventListener('pagehide',()=>{
+      calcEl.style.position='';calcEl.style.top='';
+      if(placeholder&&placeholder.parentNode) placeholder.replaceWith(calcEl);
+      DOCROOT=document; pipWin=null; pipActive=false; render();
+    });
+  }catch(e){ toast('Impossible d\'ouvrir la fenêtre flottante.'); }
+}
+const detBtn=el('detach'); if(detBtn) detBtn.onclick=detach;
+
+render();
+</script>
+</body>
+</html>

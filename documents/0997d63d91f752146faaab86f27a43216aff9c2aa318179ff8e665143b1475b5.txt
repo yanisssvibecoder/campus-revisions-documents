@@ -1,0 +1,9 @@
+No vendeur;Nom vendeur
+1;Sterling
+2;Lana
+3;Cheryl
+4;Pamela
+5;Cyril
+6;Mallory
+7;Ray
+8;Barry

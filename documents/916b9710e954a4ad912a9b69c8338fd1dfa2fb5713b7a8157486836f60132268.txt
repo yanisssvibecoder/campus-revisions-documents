@@ -1,0 +1,112 @@
+La Société du Mérite (SM) 
+La Société du Mérite (SM) a débuté ses activités le 1er août 20X0 et vient de terminer sa première année d'exploitation. SM vend et fabrique des encadrements pour diplôme en deux modèles, soit le modèle Standard et le modèle De luxe. Ces deux produits sont fabriqués à l'aide de la même machinerie, du même personnel et de la même matière première.
+George Bilodeau, contrôleur de l'entreprise, a quitté l'entreprise quelques jours après la fin de l'exercice financier.   Le président de SM, M. Raoul Lachance, paniqué par ce départ hâtif, vous embauche alors à titre de nouveau contrôleur. M. Lachance aimerait connaître la rentabilité de chaque produit. Vous avez recueilli les informations suivantes des livres comptables, des représentants des ventes et du directeur de l'usine.
+Voici les informations dont vous disposez :
+Le bâtiment abrite l'usine et les bureaux administratifs. Ces derniers occupent près de 20 % de l'espace tandis que les activités de fabrication utilisent environ 80 % de la superficie du bâtiment. Par contre, l'énergie est pratiquement consommée entièrement par la machinerie. L'énergie utilisée par les bureaux administratifs est négligeable.
+Au cours de l'exercice, l'entreprise a acheté pour 1 855 000 $ de matières premières au prix 3,50 $ le kilo.  L'analyse des réquisitions montre que la fabrication des deux produits a nécessité 465 000 kilos de matières premières. La fabrication du produit Standard a exigé   300 000 kilos de matières premières alors que le produit De luxe a nécessité 165 000 kilos.
+Le taux horaire moyen de la main-d'œuvre directe a été de 15 $ de l'heure incluant les avantages sociaux.  La fabrication du produit Standard a nécessité un total de 30 000 heures de main-d'œuvre directe et 0,2 heure de machinerie par produit et celle du produit De luxe 110 000 heures de main-d’œuvre directe et 0,4 heure de machinerie par produit.
+Le prix de vente du produit Standard est de 22,00 $ et celui du Deluxe est de 70,00 $.
+SM a fabriqué 120 000 unités du produit Standard et 50 000 unités du produit Deluxe. 
+En plus des renseignements précédents, vous avez obtenu les soldes des comptes de charges suivants du grand livre général au 31 juillet 20X1 :
+Amortissement - équipement de bureau	15 500	$
+Amortissement - machinerie	98 000
+Amortissement du bâtiment portion de l’usine	69 000
+Assurances, taxes et entretien - bâtiment	180 000
+Entretien et réparation - machinerie	100 000
+Énergie	108 000
+Fourniture de fabrication	346 000
+Frais d'administration divers	77 500
+Frais de fabrication divers	92 000 
+Frais de livraison des unités vendues	55 000
+Frais de vente et publicité	83 200
+Intérêts et frais financiers	40 300
+Main d'œuvre indirecte	200 000
+Salaire - vendeurs	90 000
+Salaire - administration	170 000
+Salaire du directeur d'usine	75 000
+Total	1 799 500	$
+	Travail pratique :	
+Analysez la rentabilité de chaque produit pour l’exercice terminé le 31 juillet 20X1.
+En répartissant les frais généraux de fabrication selon les heures d'utilisation de la machinerie
+En répartissant les frais généraux de fabrication selon les heures de main-d’œuvre directe
+Quelle base d’imputation suggérez-vous à M. Lachance ? Justifier. 
+Voir la page suivante pour les étapes afin de réaliser ce travail.
+NE PAS REGARDER LA SOLUTION AVANT D’AVOIR TERMINÉ TOUTES LES ÉTAPES
+Étapes pour réaliser ce travail.
+Question 1  
+Identifier les frais généraux de fabrication parmi la liste des charges du grand livre général au 31 juillet 20X1. (Noter que certaines charges peuvent être partagées entre l’usine et les bureaux administratifs).
+Calculer le taux d’imputation selon les heures machines et le taux d’imputation selon les heures de main-d’œuvre directe. 
+(Rappel formule : total des FGF pour la période (trouvé à l’étape 1) ÷ total de la base d’imputation)
+Calculer le coût de fabrication (MP + MOD + FGF) unitaire de chaque produit. 
+(Rappel : coût total / nombre d’unités total = coût unitaire)
+(Rappel : quantité totale / nombre d’unités total = quantité unitaire)
+Coût unitaire = quantité unitaire x prix 
+Calculer la marge brute de chaque produit en dollars et en pourcentage des ventes.  
+Rappel formule marge brute : Prix de vente – coût de fabrication
+Marge brute en $ / Prix de vente $ = Marge brute %
+Question 2
+L’imputation consiste à attribuer une portion des FGF à chaque produit pour pouvoir calculer un coût de fabrication. Le choix de la base d’imputation à un effet sur le calcul du coût de fabrication. La base de répartition doit être commune à tous les produits afin d’éviter d’introduire des biais dans le calcul. Une analyse du processus de fabrication ou de la composition des frais généraux de fabrication permet donc de déterminer le choix de base approprié. 
+Laquelle entre les deux bases permet de calculer un coût de fabrication qui représente le mieux la réalité. Analyser la liste des frais généraux de fabrication pour identifier l’élément (heures de MOD ou heures machine) qui déclenche le plus de charges.
+Justifier : lorsqu’on vous demande de justifier votre réponse, on vous demande d’énoncer les raisons qui appuient votre réponse. Il faut donc fournir des éléments du texte qui permettent d’appuyer votre raisonnement par exemple en présentant des chiffres spécifiques au cas ou en effectuant un calcul. 
+Solution :
+La Société du Mérite
+Coût de fabrication unitaire
+* Répartition des frais généraux de fabrication selon les heures d'utilisation de la machinerie
+								   Standard	                  De luxe		       
+Matières premières (Note 1)   			               8,75 $		                 11,55 $
+Main-d'œuvre directe (Note 2)				   3,75 $		     33,00 $
+Frais généraux de fabrication (Note 3)			   5,60 $		     11,20 $
+Coût de fabrication unitaire       			18,10 $		    55,75 $
+* Répartition des frais généraux de fabrication selon les heures de MOD
+Les coûts de MP et MOD ne changent pas. Ils sont constants, peu importe le choix de la base d’imputation. 
+Coût de fabrication unitaire       			14,70 $		    63,91 $
+Note 1 : 
+Standard : 300 000 kg / 120 000 unités produites = 2,5 kg  x 3,50$/kg = coût unitaire 8,75$
+   De luxe : 165 000 kg / 50 000 unités produites= 3,3 kg x 3,50$/kg = coût unitaire 11,55$ 
+Note 2 : 
+Standard : 30 000 heures MOD / 120 000 unités produites = 0,25 hr  x 15$/h = 3,75 $
+   De luxe : 110 000 heures / 50 000 unités produites= 2,2 hr x 15$/h = 33,00 $ 
+Note 3 :   
+Total de la base d’imputation = (0,2 h-m x 120 000 unités) + (0,4 h-m x 50 000 unités) = 44 000 h-m
+Taux d’imputation = 1 232 000 $ / 44 000 hm = 28,00 $ / hm
+Répartition par produit (Taux d’imputation X Volume de la base d’imputation) :
+Standard : 28,00 $ x 0,2 h-m = 5,60 $
+   De luxe : 28,00 $ x 0,4 h-m = 11,20 $
+Taux d’imputation = 1 232 000 $ / 140 000 hmod = 8,80 $ / hmod
+Répartition par produit (Taux d’imputation X Volume de la base d’imputation) :
+Standard :8,80 $ x 0,25 h-mod = 2,20 $
+   De luxe : 8,80 $ / 2,2 h-mod = 19,36 $
+RENTABILITÉ PAR PRODUIT – Si on utilise les heures de machinerie comme base d’imputation 
+RENTABILITÉ PAR PRODUIT – Si on utilise les heures de main-d’œuvre directe comme base d’imputation
+CONCLUSION :
+On constate que le choix de la base d’imputation a un impact sur le calcul de rentabilité individuelle de chacun des produits, alors que la rentabilité globale n’est pas affectée. 
+Peu importe la base d’imputation privilégiée, la répartition des coûts de MP et MOD ne seront pas affectés, car ce sont des coûts directs.
+Par contre, un changement dans la base d’imputation utilisée a un impact sur la répartition des FGF particulièrement quand les produits consomment les ressources (FGF) de façon différente. 
+On peut ainsi présumer que les décisions sont directement influencées par le choix d’une base d’imputation plutôt qu’une autre. 
+Le choix de la base d’imputation : 
+Les heures machine et les heures de MOD sont deux bases communes aux produits. Laquelle choisir ? Il faut analyser le processus de fabrication et faire des liens entre les FGF et le choix de la base. 
+Le processus de fabrication : le processus de fabrication est à la fois automatisé (utilise des h-m) et manuel (consomme des hrs-MOD). Pour les fabricants qui ont automatisé une partie de leur processus de production, les heures-machines peuvent constituer une base de répartition appropriée, car le temps passé à faire fonctionner les machines détermine les frais généraux de fabrication comme les coûts d'entretien et d'amortissement des équipements. La base d’imputation doit avoir un lien étroit avec les FGF.
+Lien entre les FGF et la base :  suite à l’analyse des FGF, on constate que la majorité des FGF sont déclenché par l’utilisation de la MOD et que moins que 30 % sont déclenchés par l’utilisation de la machinerie et la balance par d’autres déclencheurs. Les heures de MOD est donc un choix approprié pour répartir les FGF aux produits.
+Frais généraux de fabrication | Montant $ | Déclencheur
+Amortissement - machinerie | 98 000 | Heures machine
+Amortissement du bâtiment - usine | 69 000 | Superficie
+Assurances, taxes et entretien – bâtiment (80%) | 180 000 x 80% = 144 000  | Superficie
+Entretien et réparation - machinerie | 100 000 | Heures machine
+Énergie | 108 000 | Heures machine
+Fourniture de fabrication | 346 000 | Heures de MOD
+Frais de fabrication divers | 92 000 | Unités produites
+Main d'œuvre indirecte | 200 000 | Heures de MOD
+Salaire du directeur d'usine | 75 000 | Heures de MOD 
+Frais généraux de fabrication total | 1 232 000 $ | 
+ | Standard | Deluxe | Total
+Prix de vente | 22,00 $ | 70,00 $ | 6 140 000 $
+Coût de fabrication | 18,10 $ | 55,75 $ | 4 959 500 $
+Marge bénéficiaire brute (en $) | 3,90 $ | 14,25 $ | 1 180 500 $
+Marge bénéficiaire brute (en %)
+(Résultat brut / Ventes) | 17,73 % | 20,36 % | 19,22 %
+ | Standard | Deluxe | Total
+Prix de vente | 22,00 $ | 70,00 $ | 6 140 000 $
+Coût de fabrication | 14,70 $ | 63,91 $ | 4 959 500 $
+Marge bénéficiaire brute (en $) | 7,30 $ | 6,09 $ | 1 180 500 $
+Marge bénéficiaire brute (en %)
+(Résultat brut / Ventes) | 33,2 % | 8,70 % | 19,22 %

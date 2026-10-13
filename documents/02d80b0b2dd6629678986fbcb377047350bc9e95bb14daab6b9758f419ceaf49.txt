@@ -1,0 +1,18 @@
+8-9.3 | Activités/ressources APRÈS la séance
+
+Séances 8 et 9
+Exercices :
+Livre Gestion financière, 5e édition
+Chapitre 9 :
+Aucun exercice à faire.
+Pour les critères d'investissement autres que la VAN (soit TRI, Taux de rendement comptable, délai de récupération, indice de rentabilité), vous devez connaitre leur définition, leur interprétation, leurs forces et faiblesses, mais vous n'avez pas à les calculer. Le seul critère que vous devrez calculer est la VAN.
+Chapitre 10 (pages 317-327) :
+Exercices 1, 2, 4, 5, 10, 12, 13, 16, 22, 23, 25, 26, 32, 38, 38, 40
+NOTE: Le livre utilise l'ancienne formule de VAEIACC (avec la règle du demi-taux, soit multiplié le r par 0,5).
+Livre Gestion financière, 4e édition
+Chapitre 9 :
+Aucun exercice à faire.
+Pour les critères d'investissement autres que la VAN (soit TRI, Taux de rendement comptable, délai de récupération, indice de rentabilité), vous devez connaitre leur définition, leur interprétation, leurs forces et faiblesses, mais vous n'avez pas à les calculer. Le seul critère que vous devrez calculer est la VAN.
+Chapitre 10 (pages 337-346) :
+Exercices 1, 2, 7, 8, 10, 16, 18, 19, 20, 21, 24, 33, 34, 36, 37, 43, 47, 51
+NOTE: Le livre utilise l'ancienne formule de VAEIACC (avec la règle du demi-taux, soit multiplié le r par 0,5).

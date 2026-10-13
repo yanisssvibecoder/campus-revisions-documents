@@ -1,0 +1,58 @@
+## xl/worksheets/sheet1.xml
+A2: Liste des coûts | I2: Liste des contraintes
+A4: Salaire régulier | C4: 3950 | D4: par employé par période | I4: Variation de main d'œuvre* | L4: 0.25
+A5: Temps supplémentaire | C5: 5925 [formule : C4*1.5] | D5: par employé par période | I5: Temps supplémentaire | L5: 0.2
+A6: Stockage | C6: 26 | D6: par UE par période | I6: Temps mort | L6: 0.3
+A7: Pénuries reportées | C7: 58 | D7: par UE par période | I7: Capacité d'entreposage | L7: 12000 | M7: UE
+A8: Embauche | C8: 3100 | D8: par employé embauché | I8: Pénurie | L8: 5000 | M8: UE
+A9: Mise à pied | C9: 2300 | D9: par employé licencié | I9: Nombre minimum d'employés | L9: 50 | M9: employés
+I10: Nombre maximum d'employés | L10: 90 | M10: employés
+A12: Autres données du problème | I12: *Les variations de main-d'œuvre ne peuvent avoir lieu deux mois 
+I13: consécutifs.
+A14: Production par employé | C14: 200 | D14: UE par période
+A15: Nombre initial d'employés | C15: 50 | D15: employés
+A16: Stock initial | C16: 1250 | D16: UE
+A17: Stock final | C17: 1550 | D17: UE
+C19: Période
+B20: UE | C20: 1 | D20: 2 | E20: 3 | F20: 4 | G20: 5 | H20: 6 | I20: 7 | J20: 8 | K20: 9 | L20: 10 | M20: 11 | N20: 12
+A21: Compact | B21: 1 | C21: 2600 | D21: 2400 | E21: 2100 | F21: 2800 | G21: 3300 | H21: 3600 | I21: 3900 | J21: 4500 | K21: 3100 | L21: 2500 | M21: 2000 | N21: 1700
+A22: Confort | B22: 2 | C22: 1800 | D22: 1600 | E22: 1500 | F22: 2200 | G22: 2600 | H22: 3100 | I22: 3400 | J22: 3700 | K22: 2900 | L22: 2100 | M22: 1700 | N22: 1200
+A23: Grand froid | B23: 4 | C23: 900 | D23: 850 | E23: 800 | F23: 950 | G23: 1200 | H23: 1500 | I23: 1700 | J23: 1900 | K23: 1600 | L23: 1300 | M23: 1100 | N23: 950
+A24: Demande prévue (en UE)
+## xl/worksheets/sheet2.xml
+A1: a) Quelle sera la production mensuelle pour l'année 2027, si l'entreprise adopte une stratégie de nivellement?
+A2: Présentez vos calculs.
+A13: b) Si la stratégie de nivellement était choisie, est-ce que l’ensemble des contraintes du problème seraient respectées? 
+A14: Si certaines d’entre elles ne sont pas respectées mentionner lesquelles.
+## xl/worksheets/sheet3.xml
+A1: Plan global de production synchrone
+A2: Plusieurs solutions possibles | B2: L'important est que votre solution respecte l'ensemble des contraintes.
+C3: Période
+B4: Initial | C4: 1 | D4: 2 | E4: 3 | F4: 4 | G4: 5 | H4: 6 | I4: 7 | J4: 8 | K4: 9 | L4: 10 | M4: 11 | N4: 12
+A5: Demande (en UE) | C5: 0 [formule : 'Données du problème'!C24] | D5: 0 [formule : 'Données du problème'!D24] | E5: 0 [formule : 'Données du problème'!E24] | F5: 0 [formule : 'Données du problème'!F24] | G5: 0 [formule : 'Données du problème'!G24] | H5: 0 [formule : 'Données du problème'!H24] | I5: 0 [formule : 'Données du problème'!I24] | J5: 0 [formule : 'Données du problème'!J24] | K5: 0 [formule : 'Données du problème'!K24] | L5: 0 [formule : 'Données du problème'!L24] | M5: 0 [formule : 'Données du problème'!M24] | N5: 0 [formule : 'Données du problème'!N24]
+A6: Production (en UE)
+A7: Stock (en UE) | B7: 1250 [formule : 'Données du problème'!C16]
+A8: Nombre d'employés | B8: 50 [formule : 'Données du problème'!C15]
+A9: Embauches (en nombre d'employés)
+A10: Mises à pied (en nombre d'employés)
+A11: Temps supplémentaire (en nombre d'employés)
+A12: Temps mort (en nombres d'employés)
+A14: Nombre d'employés nécessaires | C14: 0 [formule : C6/'Données du problème'!$C14] | D14: 0 [formule : D6/'Données du problème'!$C14] | E14: 0 [formule : E6/'Données du problème'!$C14] | F14: 0 [formule : F6/'Données du problème'!$C14] | G14: 0 [formule : G6/'Données du problème'!$C14] | H14: 0 [formule : H6/'Données du problème'!$C14] | I14: 0 [formule : I6/'Données du problème'!$C14] | J14: 0 [formule : J6/'Données du problème'!$C14] | K14: 0 [formule : K6/'Données du problème'!$C14] | L14: 0 [formule : L6/'Données du problème'!$C14] | M14: 0 [formule : M6/'Données du problème'!$C14] | N14: 0 [formule : N6/'Données du problème'!$C14]
+A15: Variation main d'œuvre (embauche)
+A16: Variation main d'œuvre (mise à pied)
+A17: Utilisation temps supplémentaire
+A18: Utilisation temps mort
+A20: Tableau des coûts associés
+C21: Période
+C22: 1 | D22: 2 | E22: 3 | F22: 4 | G22: 5 | H22: 6 | I22: 7 | J22: 8 | K22: 9 | L22: 10 | M22: 11 | N22: 12 | O22: Total
+A23: Stockage
+A24: Pénurie
+A25: Embauche
+A26: Mise à pied
+A27: Salaire - heures régulières
+A28: Salaire - heures supplémentaires
+A29: Total
+## xl/worksheets/sheet4.xml
+A1: Le comité se demande s’il pourrait être souhaitable de hausser le plafond du nombre d’employés afin de diminuer l’utilisation du temps supplémentaire. 
+A2: À l’aide d’un calcul approprié, déterminez pour combien de mois il est économiquement préférable de payer du temps supplémentaire aux employés actuels
+A3: plutôt que d’embaucher des employés et de les mettre à pied par la suite. 

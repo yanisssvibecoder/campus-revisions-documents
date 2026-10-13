@@ -1,0 +1,43 @@
+Planification globale : Les sacs Matagami (15 points)
+Il y a quelques années, Sophie Tremblay lança la gamme de sacs de couchage Matagami. À la suite d’ententes avec plusieurs détaillants de plein air et d’une forte progression des ventes en ligne, la demande pour ces produits a fortement augmenté. On a dû agrandir l’atelier afin d’augmenter la capacité de production. Aujourd’hui, l’entreprise se porte très bien et on planifie la production pour l’an prochain. 
+À la suite de plusieurs discussions, le comité de planification établit ses prévisions pour l’année 2027 pour ses trois modèles vedettes. Ce plan est présenté ci-dessous.
+Dépendamment de la complexité de chacun des produits, la valeur en unités équivalentes est la suivante :
+Ces données sont disponibles dans le fichier Excel : A26 – PGP - Matagami.xlsx
+Le responsable des opérations doit maintenant préparer un plan global de production pour l’année 2027. 
+Les employés de l’usine étant syndiqués, certaines règles doivent être suivies concernant l’utilisation des ressources humaines :
+Il y aura 50 employés assignés à l’atelier au début de l’année 2027.
+Un employé produit 200 unités équivalentes par mois en temps régulier.
+En temps régulier, un employé travaille 40 heures par semaine, 4 semaines par mois.
+Afin de ne pas bousculer les opérations, les variations de main-d’œuvre ne doivent pas excéder 25 % et ne peuvent avoir lieu deux mois consécutifs.
+Le nombre d’employés doit, en tout temps, se situer entre 50 et 90. 
+Les heures supplémentaires sont limitées à 20 % du temps régulier.
+L’équivalent du nombre d’employés en temps mort ne doit jamais excéder 30 % du nombre d’employés en temps régulier.
+Étant donné la baisse des ventes en début d’année, on ne doit pas avoir trop de stock à la fin décembre, et ce, année après année. En 2026, on prévoit un stock de fin de 1 250 unités équivalentes et on désire un stock de 1 550 unités équivalentes à la fin de 2027. L’entrepôt ne peut contenir plus de 12 000 unités équivalentes et il est hors de question d’avoir à subir une pénurie de plus de 5 000 unités équivalentes.
+La directrice des finances a fourni l’information suivante concernant les coûts d’opération :
+Coût d’entreposage			26 $ par unité équivalente par mois
+Coût de pénurie			58 $ par unité équivalente
+Salaire mensuel en temps régulier	3 950 $ par employé
+Prime de temps supplémentaire	50 %
+Coût d’embauche			3 100 $ par employé
+Coût de mise à pied			2 300 $ par employé
+Question 1 (4 points)
+Quelle sera la production mensuelle pour l’année 2027 si l’entreprise décide d’adopter une stratégie de nivellement? Répondez dans l’onglet « Question 1 » du fichier Excel fourni sur ZoneCours et présentez vos calculs. (2 points)
+Si la stratégie de nivellement était choisie, est-ce que l’ensemble des contraintes du problème seraient respectées? Si certaines d’entre elles ne sont pas respectées, mentionner lesquelles. (2 points)
+Question 2 (8 points)
+En utilisant l’onglet « Question 2 » du fichier Excel fourni sur ZoneCours, présentez un plan de production synchrone pour l’année 2027.
+Attention! Votre plan synchrone devra respecter l’ensemble des contraintes tout en minimisant le plus possible les coûts. Vous n’avez pas besoin de fournir la solution optimale, mais un effort pour réduire les coûts est nécessaire.
+Question 3 (3 points)
+Vous devez répondre à cette question dans l’onglet « Question 3 » du fichier Excel fourni sur ZoneCours et présentez vos calculs.
+Le comité se demande s’il pourrait être souhaitable de hausser le plafond du nombre d’employés afin de diminuer l’utilisation du temps supplémentaire. À l’aide d’un calcul approprié, déterminez pour combien de mois il est économiquement préférable de payer du temps supplémentaire aux employés actuels plutôt que d’embaucher des employés et de les mettre à pied par la suite.
+ | Janvier | Février | Mars | Avril | Mai | Juin
+Compact | 2 600 | 2 400 | 2 100 | 2 800 | 3 300 | 3 600
+Confort | 1 800 | 1 600 | 1 500 | 2 200 | 2 600 | 3 100
+Grand froid | 900 | 850 | 800 | 950 | 1 200 | 1 500
+ | Juillet | Août | Sept. | Oct. | Nov. | Déc.
+Compact | 3 900 | 4 500 | 3 100 | 2 500 | 2 000 | 1 700
+Confort | 3 400 | 3 700 | 2 900 | 2 100 | 1 700 | 1 200
+Grand froid | 1 700 | 1 900 | 1 600 | 1 300 | 1 100 | 950
+ | U.É.
+Compact | 1
+Confort | 2
+Grand froid | 4

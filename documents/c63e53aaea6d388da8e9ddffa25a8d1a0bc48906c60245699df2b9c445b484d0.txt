@@ -1,0 +1,79 @@
+## Page 1
+ 2-200-96               Finance
+
+         Travail pratique #4 – le coût du capital
+
+
+
+ Exercice #1
+
+ L'action de la firme PGJL se transige actuellement sur les marchés au prix de
+ 45$.
+
+ Vous avez recueilli les informations suivantes:
+
+   Coefficient de corrélation de PGJL avec le marché: 0.6
+  Variance du titre PGJL: 0.08
+  Prochain dividende trimestriel de PGJL prévu: 0,62$
+  Taux de croissance prévu du dividende (taux nominal à capitalisation
+    trimestrielle): 2%
+  Prime de risque du marché: 6%
+  Écart-type des rendements du portefeuille de marché : 25%
+  Taux des Bons du Trésor: 2%
+
+ Évaluez la valeur intrinsèque du titre. Quelle est votre recommandation
+ d’investissement ?
+
+
+
+
+
+                                                                  Page 1 de 2
+
+## Page 2
+Exercice #2
+
+Vous souhaitez débuter votre entreprise de rénovation. Pour savoir  s’il s’agit
+d’une bonne idée du point de vue financier, vous voulez calculer la VAN du
+projet.  Vous avez estimez les différents FM liés à votre projet. Vous hésitez
+toutefois quant au taux de rendement que vous devriez exiger pour le projet.
+Vous  souhaitez  utiliser  le CMPC en termes  effectif mais comme  votre
+entreprise n’existe pas encore, vous n’avez pas les données nécessaires pour le
+calculer. Vous décidez donc de vous référer à Réno-Repos, une entreprise cotée
+à la bourse, qui œuvre exclusivement dans le secteur de la rénovation et qui a
+une structure de capital identique à celle que vous voulez donner à votre
+entreprise.  Voici  les données que vous avez  recueillies  sur Réno-Repos
+aujourd’hui, soit le 10 décembre 2006 :
+
+     -   L’entreprise se finance par trois sources : des actions ordinaires, des
+       actions privilégiées et des obligations.
+     -     Il y a 12 000 actions ordinaires d’émises, 5 000 actions privilégiées, et 300
+       obligations nord-américaines.
+     -  Le prix des actions ordinaires est de 12,29 $.
+     -  Les actions ordinaires ne versent pas de dividendes actuellement. Les
+      analystes estiment que dans cette industrie, les actionnaires ordinaires
+       exigent un taux correspondant à 1,5 fois le taux effectif exigé par les
+       actionnaires privilégiées.
+     -  Les obligations viennent à échéance le 25 décembre 2016. Les coupons
+       semestriels sont versés au 25 juin et au 25 décembre de chaque année.
+     Le taux de coupons est de 8 % et le taux de rendement à l’échéance est
+     de 9,5 %.
+     -  Les actions privilégiées versent des dividendes trimestriels de 0,50 $. Le
+      prochain dividende sera versé le 10 mars 2007. L’entreprise annonce
+       qu’elle versera des dividendes privilégiés constant, à l’exception du 10
+      septembre 2007 où elle devra s’abstenir de verser des dividendes dus à
+     un manque dans les liquidités de l’entreprise. Toutefois, pour compenser,
+       l’entreprise versera un dividende de 1 $ au 10 décembre 2007. Tous les
+      autres dividendes prévus seront de 0,50 $.
+     -  Le taux exigé par les actionnaires privilégiées est de 11 % nominal,
+       capitalisation trimestrielle.
+     -  Le taux d’imposition payée par Réno-Repos est de 30 %.
+
+Quel taux de rendement devriez-vous utiliser pour calculer la VAN de votre
+projet? Fournissez vos calculs à l’appui.
+
+
+
+
+
+                                                                 Page 2 de 2

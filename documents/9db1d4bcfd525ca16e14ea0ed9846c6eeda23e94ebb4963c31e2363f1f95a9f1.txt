@@ -1,0 +1,574 @@
+## Diapositive 1
+
+OPER10500Gestion des opérations
+
+Approvisionnement et logistique
+
+© 2025 Département de gestion des opérations et de la logistique
+
+## Diapositive 2
+
+Carte conceptuelle
+
+## Diapositive 3
+
+Carte conceptuelle
+
+## Diapositive 4
+
+La fonction approvisionnement
+
+En fonction des besoins
+
+## Diapositive 5
+
+L’importance stratégique de l’approvisionnement
+
+Une importance croissante :
+1950 : Un produit fini était composé de 20 % de coûts d’approvisionnement et de 80 % de coûts de fabrication (main d’œuvre).
+
+Aujourd’hui : Un produit fini est composé de 60 à 80 % de coûts d’approvisionnement et de 20 à 40 % de coûts de fabrication (automatisation).
+
+On a réduit les coûts de main-d’œuvre et augmenté les coûts d’achat et de sous-traitance.
+
+## Diapositive 6
+
+L’importance stratégique de l’approvisionnement
+
+L’effet de levier de l’approvisionnement
+
+Les coûts des achats peuvent représenter une proportion importante, entre 60 et 80%, du coût de revient total d’un produit fini. 
+
+
+
+Les variations de coûts d’achat ont donc des impacts directs sur les bénéfices.
+
+Image : Adobe Stock
+
+## Diapositive 7
+
+Effet de levier de l’approvisionnement
+
+ | Coût unitaire | Total | Ratio
+
+Ventes | 6,00 $ | 600 000 $ | 
+
+Achat de casquettes | (3,00 $) | (300 000 $) | (50 %)
+
+Coûts d’impression / de broderie | (0,60 $) | (60 000 $) | (10 %)
+
+Bénéfice brut | 2,40 $ | 240 000 $ | 40 %
+
+Frais d’exploitation | (1,30 $) | (130 000 $) | (21,7 %)
+
+Profit net avant impôts | 1,10 $ | 110 000 $ | 18,3 %
+
+ | Coût unitaire | Total | Ratio
+
+Ventes | 6,00 $ | 600 000 $ | 
+
+Achat de casquettes | (2,85 $) | (285 000 $) | (47,5 %)
+
+Coûts d’impression / de broderie | (0,60 $) | (60 000 $) | (10 %)
+
+Bénéfice brut | 2,55 $ | 255 000 $ | 42,5 %
+
+Frais d’exploitation | (1,30 $) | (130 000 $) | (21,7 %)
+
+Profit net avant impôts | 1,25 $ | 125 000 $ | 20,8 %
+
+## Diapositive 8
+
+Exercice : Effet de levier de l’approvisionnement
+
+8
+
+La production annuelle du produit X est de 14 750 unités.  On demande au gestionnaire des approvisionnements de négocier des réductions de coûts avec les fournisseurs de matières premières (MP) afin d’augmenter la marge bénéficiaire. Calculez l'impact d’une réduction de 10% du coûts des matières premières sur la valeur annuelle du profit net avant impôts.
+
+Situation initiale | Coût unitaire | Total
+
+Ventes | 20,00 $ | 295 000,00 $
+
+Coût des matières premières (70 % du prix de vente) | 14,00 $ | 206 500,00 $
+
+Coûts de main d’œuvre | 2,00 $ | 29 500,00 $
+
+Coûts indirects | 1,25 $ | 18 437,50 $
+
+Profit net avant impôts | 2,75 $ | 40 562,50 $
+
+Pourcentage des ventes |  | 13,75 %
+
+Après négociation | Coût unitaire | Total
+
+Ventes | 20,00 $ | 295 000,00 $
+
+Coût des matières premières |  | 
+
+Coûts de main d’œuvre | 2,00 $ | 29 500,00 $
+
+Coûts indirects | 1,25 $ | 18 437,50 $
+
+Profit net avant impôts |  | 
+
+Pourcentage des ventes |  | 
+
+Augmentation du profit net avant impôts : 
+
+## Diapositive 9
+
+Objectifs de la fonction approvisionnement
+
+La gestion des approvisionnements vise à satisfaire les besoins en biens et en services des demandeurs au sein de l’entreprise, selon :
+
+Le niveau de qualité exigé;
+La quantité requise;
+Le délai ou le temps fixé;
+L’endroit ou le lieu voulu;
+Au moindre coût possible. 
+
+La fonction approvisionnement a ainsi une dimension stratégique et couvre diverses activités tactiques et opérationnelles. 
+
+
+
+## Diapositive 10
+
+Service juridique
+
+Opérations
+
+Finances
+
+Système d’information
+
+Conception
+
+Réception
+
+Fournisseurs
+
+APPROVISIONNEMENT
+
+
+
+L’entreprise
+
+Source :Adapté de Stevenson W., Benedetti C., (2001), p 595
+
+La place de l’approvisionnement
+
+## Diapositive 11
+
+Le cycle d’approvisionnement
+
+Système PBM (MRP)
+Système à point de commande
+Demande non-reliée à la production (fournitures, services, immobilisations)
+Sous-traitance (reliée à la production)
+Nouvelle pièce
+
+## Diapositive 12
+
+Le cycle d’approvisionnement
+
+Prix,
+Qualité et assurance qualité,
+Délais de livraison et respect des délais
+
+Flexibilité à l’égard du client,
+Localisation,
+Réputation et stabilité financière,
+etc.
+
+## Diapositive 13
+
+L’approvisionnement à différents niveaux
+
+## Diapositive 14
+
+Gestion de crise en approvisionnement
+
+Augmentation des coûts des matières premières
+Augmentation des coûts de transport et de logistique
+Accroissement majeur des délais de livraison des intrants
+Imprévisibilité des livraisons
+Pénuries de certaines matières
+Augmentation des inventaires
+Délestage des plus petits clients par des fournisseurs 
+
+
+
+
+14
+
+La fonction d’approvisionnement et de gestion des achats est devenue stratégique.
+
+## Diapositive 15
+
+Tendances Lean en approvisionnement
+
+Relations à long terme 
+Critères de sélection autre que le prix 
+Emphase sur le coût total de possession 
+Inspection de la qualité à la source
+Automatisation des processus et partage d’information
+
+
+## Diapositive 16
+
+Réduire les coûts
+Absence de fournisseurs compétents
+Garder le contrôle sur la qualité et les délais
+Préserver des secrets technologiques 
+Garder l’expertise à l’interne
+
+Réduction des coûts
+Se concentrer sur ses activités stratégiques
+Manque d’expertise à l’interne
+Manque de capacité
+Plus de flexibilité
+
+Faire, faire faire ou acheter?
+
+SOUS-CONTRACTER et/ou ACHETER
+
+FAIRE
+
+## Diapositive 17
+
+Carte conceptuelle
+
+## Diapositive 18
+
+Logistique
+
+Définition : Ensemble des méthodes et des techniques ayant pour objet d’assurer le flux efficient des matières premières, des produits en cours et des produits finis, depuis leur source d’approvisionnement jusqu’au service après-vente, en passant par l’ensemble des points d’entreposage et de distribution.
+
+
+Objectifs de livrer (5 B’s) :
+Le bon produit;
+Au bon endroit;
+Au bon moment;
+En bon état;
+Au bon prix.
+
+
+## Diapositive 19
+
+
+
+Les activités de la logistique
+
+Entreposage et transport
+
+Prévision de la demande
+
+Plan global
+
+Plan directeur
+
+Gestion des stocks / Emballage / Manutention
+
+Plan des besoins-matières
+
+Traitement des commandes
+
+Service à la clientèle
+
+Retours
+
+
+
+## Diapositive 20
+
+Entreposage
+
+Choix des technologies d’entreposage
+Choix des technologies de manutention
+Exemple: https://www.porttechnology.org/news/wef_selects_warehouse_automation_technology_pioneer/
+
+
+Cycle de commande
+
+Gestion des retours
+Gestion de la main-d’œuvre
+Contrôle des stocks
+
+https://ventor.tech/warehouse-management/overview-of-picking-optimization-methods-for-your-warehouse/
+
+## Diapositive 21
+
+Transport
+
+Sélection des modes de transport
+Gestion de notre propre flotte ou impartition
+Sélection du transporteur ou planification des routes de livraisons
+Consolidation des marchandises
+Programmation des rendez-vous
+Suivi des expéditions
+Mesure de performance
+
+## Diapositive 22
+
+La logistique à rebours Reverse logistics
+
+Retours de marchandises :
+Peuvent coûter de 4 à 5 fois plus cher que la logistique régulière;
+Peuvent nécessiter jusqu’à 12 étapes supplémentaires au processus.
+
+
+Si bien intégrée, cette information peut permettre d’identifier les causes des problèmes et de les régler rapidement.
+
+## Diapositive 23
+
+
+
+
+
+ERP
+Gestion des 
+commandes
+
+WMS
+Gestion de 
+l’entreposage
+
+TMS
+Gestion du 
+transport
+
+Progiciels
+ERP : Enterprise Resource Planning
+WMS : Warehouse Management System
+TMS : Transportation Management System
+
+La logistique et les T.I.
+
+## Diapositive 24
+
+Chaîne logistique
+
+Définition : Réseau d’organisations qui, d’amont en aval, sont engagées dans des activités et des processus créateurs de valeurs qui prennent la forme de produits et de services acheminés au consommateur final.
+
+Gestion intégrée de la chaîne : Coordination de l'ensemble des actions de tous les partenaires du réseau logistique pour éliminer toutes activités qui n'ajoutent aucune valeur au produit.
+
+Flux d’informations efficaces
+Flux des matières efficaces
+Flux monétaires efficaces
+
+
+
+## Diapositive 25
+
+Chaîne logistique
+
+logistique
+
+## Diapositive 26
+
+La localisation
+
+Focus on COSTS
+Revenues vary little between locations, but
+Shipping costs up to 25 %of total cost
+Labor costs
+Costs vary greatly between locations
+
+Usine Lego à Billund, Denmark
+
+Magasin official Lego à Queensland, Australia
+
+## Diapositive 27
+
+La localisation des secteurs industriels et des services
+
+Emphase sur les COÛTS :
+
+Les revenues ne sont par influences par la localisation, mais
+Coût du transport (jusqu’à 25 % du prix).
+Coût de la main-d'œuvre.
+Les coûts peuvent varier beaucoup d’un endroit à l’autre.
+
+Emphase sur les REVENUS : 
+ 
+Les coûts varient peu d’un secteur de marché à l’autre, mais
+La localisation influence le nombre de contacts potentiels avec les clients et le volume des activités
+
+
+Usine LEGO à Billund, Denmark
+
+Magasin LEGO à Queensland, Australia
+
+## Diapositive 28
+
+Source d’approvisionnement
+-  poids des matières
+-  diversité et dispersion
+   des sources
+
+
+Transport
+-  moyens de transport
+-  coût du transport
+-  routes et autoroutes
+
+
+Marché
+-  potentiel
+-  centralisé ou dispersé
+-  concurrence
+
+
+Main d’oeuvre
+-  qualification
+-  disponibilité
+-  coûts
+-  productivité
+-  stabilité
+
+
+Étude du milieu
+-  taxes foncières
+-  aides financières
+-  services publics
+-  écoles, logements, 
+   hôpitaux,
+-  contraintes juridiques
+
+
+International
+-  technologie
+-  fiscalité
+-  communication
+-  stabilité sociale
+-  stabilité politique
+
+
+Eau
+-  de service
+-  potable
+
+
+Climat
+-  température
+-  précipitation
+
+
+Énergie
+-  types d’énergie
+-  types de services
+-  fiabilité des sources
+-  capacité
+-  coûts
+
+
+Principaux critères de localisation
+
+## Diapositive 29
+
+Produits 
+
+Factures
+
+Produits 
+
+Produits 
+
+Paiement
+
+Commandes
+
+Détaillant
+
+?
+
+?
+
+?
+
+?
+
+Distributeur
+
+Manufacturier
+
+Fournisseur
+
+CONSOMMATEUR
+
+Commandes
+
+Commandes
+
+Factures
+
+Factures
+
+Paiement
+
+Paiement
+
+Chaîne logistique traditionnelle – non intégrée
+
+## Diapositive 30
+
+Comment intégrer la chaîne logistique?
+
+Engagements à long terme
+Mise en commun de l’information 
+Saisies au point de consommation (POS) 
+Élimination d’intermédiaires (maillons)
+Réduction des délais
+Optimisation des transports
+
+
+
+
+
+## Diapositive 31
+
+CONSOMMATEUR
+
+Détaillant
+
+Distributeur
+
+Manufacturier
+
+Fournisseur
+
+Chaîne logistique traditionnelle - INTÉGRATION
+
+?
+
+?
+
+?
+
+?
+
+x
+
+x
+
+x
+
+PrévisionsDemande indépendante
+
+Flux intégrésDemande dépendante
+
+
+
+Information remplace les stocks
+
+## Diapositive 32
+
+ExerciceGriffin Manufacturing (p. 294)
+
+## Diapositive 33
+
+ExerciceGriffin Manufacturing (p. 294)
+
+## Diapositive 34
+
+Questions…

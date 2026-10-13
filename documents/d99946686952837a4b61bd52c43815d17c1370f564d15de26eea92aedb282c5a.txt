@@ -1,0 +1,29 @@
+## xl/worksheets/sheet1.xml
+A1: Mois | B1: A2017 | C1: A2018 | D1: A2019 | E1: A2020 | F1: A2021 | G1: A2022 | H1: A2023 | I1: A2024 | J1: A2025
+A2: Janvier | B2: 6036 | C2: 5873 | D2: 5895 | E2: 5761 | F2: 5704 | G2: 5534 | H2: 5607 | I2: 5446 | J2: 5503
+A3: Février | B3: 6049 | C3: 5991 | D3: 5976 | E3: 5825 | F3: 5831 | G3: 5672 | H3: 5584 | I3: 5591 | J3: 5569
+A4: Mars | B4: 5810 | C4: 5807 | D4: 5639 | E4: 5669 | F4: 5585 | G4: 5419 | H4: 5358 | I4: 5377 | J4: 5297
+A5: Avril | B5: 6100 | C5: 6076 | D5: 5905 | E5: 5890 | F5: 5677 | G5: 5733 | H5: 5628 | I5: 5505 | J5: 5530
+A6: Mai | B6: 6013 | C6: 5905 | D6: 5895 | E6: 5737 | F6: 5697 | G6: 5591 | H6: 5563 | I6: 5525 | J6: 5401
+A7: Juin | B7: 6204 | C7: 5976 | D7: 5931 | E7: 5848 | F7: 5836 | G7: 5709 | H7: 5616 | I7: 5502 | J7: 5532
+A8: Juillet | B8: 6068 | C8: 5997 | D8: 5861 | E8: 5896 | F8: 5732 | G8: 5622 | H8: 5490 | I8: 5591 | J8: 5495
+A9: Août | B9: 6254 | C9: 6182 | D9: 6181 | E9: 6055 | F9: 5948 | G9: 5917 | H9: 5894 | I9: 5781 | J9: 5805
+A10: Septembre | B10: 6629 | C10: 6418 | D10: 6355 | E10: 6378 | F10: 6208 | G10: 6131 | H10: 6165 | I10: 6072 | J10: 5999
+A11: Octobre | B11: 6137 | C11: 6177 | D11: 6028 | E11: 5998 | F11: 5845 | G11: 5869 | H11: 5677 | I11: 5700 | J11: 5538
+A12: Novembre | B12: 6050 | C12: 6037 | D12: 5888 | E12: 5842 | F12: 5724 | G12: 5704 | H12: 5548 | I12: 5465 | J12: 5445
+A13: Décembre | B13: 6159 | C13: 5948 | D13: 5954 | E13: 5796 | F13: 5794 | G13: 5627 | H13: 5686 | I13: 5610 | J13: 5535
+## xl/worksheets/sheet2.xml
+A1: Question 1
+A2: Insérez ici les deux graphiques demandés.
+## xl/worksheets/sheet3.xml
+A1: Question 2
+A2: Analysez l'ensemble des composantes de la demande vues en classe, qu'elles soient présentes ou non.
+## xl/worksheets/sheet4.xml
+A1: Question 3
+## xl/worksheets/sheet5.xml
+A1: Question 3
+A2: Ne présentez ici que les prévisions mensuelles arrondies de l'année 2025
+## xl/worksheets/sheet6.xml
+A1: Question 4
+## xl/worksheets/sheet7.xml
+A1: Question 5

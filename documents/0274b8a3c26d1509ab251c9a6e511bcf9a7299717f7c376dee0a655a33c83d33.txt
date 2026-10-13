@@ -1,0 +1,15 @@
+10 | Description et objectifs de la séance
+
+Séance 10
+Description
+Mesure du travail
+Calcul des temps normalisés et des temps standards;
+Équilibrage des opérations;
+Identification du goulot;
+Élimination du gaspillage.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer en quoi consiste l’organisation du travail et quels sont ses objectifs;
+d’expliquer l’importance de la mesure du travail et de choisir les méthodes de mesure appropriées à chaque situation;
+de calculer le temps standard à partir de données obtenues par chronométrage;
+de calculer la cadence et le temps de cycle des étapes d’un processus séquentiel, d’identifier correctement le goulot d’étranglement et de mettre en application les principes de base de l’organisation de ce type de processus.

@@ -1,0 +1,583 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2027
+
+Comptabilité de gestion(10904) – Séance 4Séance en classe
+
+1
+
+(c) 10904 / S04 - Version A2024
+
+## Diapositive 2
+
+État des résultats (révision) (enseignants)
+
+Ventes (prix de vente x unités)
+(-) Coûts variables 
+MP        (Prix x Qté/u x unités)
+MOD     (Taux x Hr/u x unités)
+FGF var ($/un x unités)
+FV var   ($/un x unités) 
+Marge sur les coûts variables totale (MCV) (MCV/un x unités)
+(-) Coûts fixes spécifiques (FGF, FVA)
+(-) Coûts fixes communs (FGF, FVA)
+Résultat d’exploitation
+
+2
+
+(c) 10904 / S04 
+
+## Diapositive 3
+
+Retour séance 3 - L’analyse différentielle Le cas de la commande spéciale
+
+L’entreprise PommeD'or vend 200 000 unités par année d’ours géants en peluche au prix de 45 $. Le coût de fabrication de chaque ours est composé de 12 $ de coûts variables et de 9 $ de coûts fixes. Un grossiste propose d’acheter 8 000 unités à 20 $ chacune. PommeD'or devra supporter des frais de livraison supplémentaires de 1,25 $ par ours.  
+
+Travail à faire : Sachant que l’entreprise dispose de la capacité de production nécessaire pour produire les 8 000 unités, déterminez le résultat différentiel que l’entreprise réalisera en acceptant la commande spéciale. 
+
+
+3
+
+(c) 10904 / S04 
+
+## Diapositive 4
+
+Retour séance 3 - L’analyse différentielle Le cas de la commande spéciale
+
+Situation A (statu quo)	Situation B (accepter la commande)   Analyse différentielle
+
+4
+
+(c) 10904 / S04 
+
+Analyse de la capacité de production
+Calcul du résultat différentiel	
+
+## Diapositive 5
+
+La prise de décision d’exploitation et les marges
+
+Séance 4
+
+(c) 10904 / S04 
+
+5
+
+## Diapositive 6
+
+Diriger (effectuer des analyses)
+(S02) L’analyse coût-volume-résultat (CVR)
+(S03) L’analyse différentielle 
+Exemples de décisions d’exploitation:
+Commande spéciale
+Fabriquer ou sous-traiter un produit
+Continuer ou abandonner un produit
+
+(S04-S05) L’analyse des marges : 
+diagnostic financier et prises de décisions
+Marge sur coûts variables
+Marge sur coûts spécifiques
+Marge par facteur de production contraignant
+
+Séance 04
+
+(S06) Analyser la rentabilité par produit
+Marge brute
+(S07) Mesurer la performance
+
+6
+
+(c) 10904 / S04 
+
+
+
+Gestionnaire veut agir sur le
+Résultat d’exploitation
+
+
+
+
+
+
+
+
+Planifier  (S09-S10)
+Budget d’exploitation
+Budget de caisse
+
+Contrôler  (S08 & S11)
+Préparer les états financiers
+Contrôle budgétaire
+
+## Diapositive 7
+
+PLAN DE LA SÉANCE 4
+
+
+Marge sur coûts spécifiques
+
+
+
+Marge par facteur de production contraignant
+Illustration Eléctrolux
+(Situation ressources limitées)
+
+Prises de décisions diverses
+Analyse de marges
+Exercice 10B.1
+Pub du plateau 
+
+(c) 10904 / S04 
+
+7
+
+## Diapositive 8
+
+Objectifs de la séance
+
+Être en mesure de supporter les prises de décision associées au plan de production dans un contexte de ressources limitées.  
+Savoir calculer et interpréter les différentes marges pour suivre la rentabilité.
+
+
+
+(c) 10904 / S04 
+
+8
+
+## Diapositive 9
+
+Les décisions d’exploitation
+
+Les décisions d’exploitation:
+sont généralement liées à des opérations courantes
+les décisions de ce type se présentent sous forme d’un choix entre deux ou plusieurs propositions. 
+l’analyse différentielle permet d’analyser rapidement l’effet sur le résultat d’exploitation en identifiant seulement les coûts pertinents. 
+utiliser la méthode des coûts variables qui classe les coûts comme étant variables ou fixes.
+les facteurs qualitatifs doivent également être considérés lors de la prise de décision
+
+
+
+(c) 10904 / S04 
+
+9
+
+## Diapositive 10
+
+Coûts spécifiques
+Coûts pouvant être associés spécifiquement à un objet de coûts.
+
+
+
+
+Coûts communs
+Coûts ne pouvant pas être associés spécifiquement à un seul objet de coûts .
+
+
+
+
+
+SUPPRESSION DES COÛTS SPÉCIFIQUES
+
+ MAINTIEN DES COÛTS COMMUNS
+
+SI ARRÊT de L’ACTIVITÉ…
+
+
+
+Coûts spécifiques et Coûts communs (rappel)
+
+(c) 10904 / S04 
+
+10
+
+## Diapositive 11
+
+Les marges et la prise de décision
+
+(c) 10904 / S04 - Version A2024
+
+11
+
+## Diapositive 12
+
+Question de révision 
+
+La ferme Deschamps et Fils est une entreprise agricole qui cultive les champs l'été et fait du déneigement pour les cours des particuliers l'hiver. La ferme possède 4 tracteurs qui sont utilisés été comme hiver et entreposés dans les bâtiments de l'entreprise. De plus, l'entreprise possède des équipements utilisés uniquement pendant la saison d'hiver (souffleuse à neige) et d'autres qui servent uniquement lors des travaux d'été. 
+Voici trouverez dans le tableau ci-contre, quelques informations sur les revenus et les coûts de la ferme.
+
+
+ | Été | Hiver | Total 
+
+Ventes | 415 000 $ | 130 000 $ | 545 000 $
+
+Coûts variables
+Pesticides, engrais, etc.
+MOD
+Essence | 
+  50 000 $
+  75 000 $
+100 000 $ | 
+
+  75 000 $
+  30 000 $ | 
+
+330 000 $
+
+Coûts fixes
+Bâtiment
+Tracteurs
+Équipement - été
+Équipement - hiver | 
+  20 000 $
+  24 000 $
+  10 000 $
+          - | 
+  20 000 $
+  24 000 $
+         -
+  12 000 $ | 
+110 000 $
+
+Résultat d’exploitation | 136 000 $ | (31 000) $ | 105 000 $
+
+Monsieur Deschamps se demande s’il devrait continuer d’offrir le service de déneigement l’hiver. Qu’en pensez-vous?
+
+(c) 10904 / S04 
+
+12
+
+## Diapositive 13
+
+Piste de solution (étudiant)
+
+## Diapositive 14
+
+Piste de solution (étudiant)
+
+ | Hiver | Analyse de rentabilité (marges) Activité hiver
+
+Ventes | 130 000 $ | 
+
+Coûts variables
+Pesticides, engrais, ...
+MOD
+Essence | 
+
+  75 000 $
+  30 000 $ | 
+
+Coûts fixes
+Équipement - été
+Équipement - hiver
+Bâtiment
+Tracteurs
+ | 
+         -
+12 000 $
+20 000 $
+24 000 $ | 
+
+Résultat d’exploitation | (31 000) $ | 
+
+## Diapositive 15
+
+La marge sur coûts spécifiques d’un objet de coût
+
+
+
+
+
+Sont considérés comme des coûts fixes spécifiques, seulement les coûts fixes pouvant être reliés à un objet de coût précis
+Il ne doit pas y avoir de répartition arbitraire, car dans un tel cas, on parlera plutôt de coûts fixes communs.
+Théoriquement, si l’objet de coût disparaît, les coûts fixes spécifiques disparaissent.
+
+
+Marge sur coûts spécifiques = 
+MCV totale – Coûts fixes spécifiques
+
+Déterminer la contribution d’un objet de coûts (produit, activité, service, projet…) à la couverture des coûts fixes communs et au résultat​
+
+* La marge sur coûts spécifiques est nommée « marge nette » dans le manuel. 
+
+(c) 10904 / S04 
+
+15
+
+## Diapositive 16
+
+Calcul de la marge sur coûts spécifiques
+
+Ventes |  | XX
+
+Moins : Coûts variables totaux |  | (XX)
+
+      Matières premières | XX | 
+
+      Main-d’œuvre directe | XX | 
+
+      FGF variables | XX | 
+
+      Frais de vente variables | XX | (XX)
+
+Marge sur coûts variables totale |  | XX
+
+Moins: Coûts fixes spécifiques |  | (XX)
+
+Marge sur coûts spécifiques |  | XX
+
+(c) 10904 / S04 
+
+16
+
+Cette marge contribuera à la couverture des coûts fixes communs et au résultat​
+
+## Diapositive 17
+
+Choisir parmi une gamme de produits
+
+Contexte :
+Dans une entreprise, il peut arriver que la demande finisse par dépasser la capacité de production disponible (facteur contraignant). 
+   (exemple: une entreprise en croissance). 
+On peut alors : 
+Prioriser certains produits / services pour maximiser le résultat (contexte de ressources limitées) = décision court terme
+Accroître la capacité de production = décision long terme
+Lorsque l’on décide de prioriser, d’un point de vue financier, comment établir l’ordre de priorité ? 
+
+
+(c) 10904 / S04 
+
+17
+
+## Diapositive 18
+
+Exemples de facteurs contraignants 
+
+(c) 10904 / S04 
+
+18
+
+## Diapositive 19
+
+Illustration Eléctroflux
+
+Eléctroflux fabrique et commercialise des « solutions éclairantes ». Sa ligne de production de Sainte-Dorothée est la seule à pouvoir fabriquer des néons et des ampoules incandescentes. 
+Le service marketing a établi les prévisions de ventes suivantes : 41 000 boîtes de néons et 164 000 boîtes d’ampoules. 
+La direction de la production nous indique qu’il faut 2 heures de MOD pour fabriquer une boîte de néons et 1 heure de MOD pour fabriquer une boîte d’ampoules.
+Après discussion avec la direction et les RH, on arrive au constat suivant : en période de pénurie de MOD au Québec, il sera difficile d’embaucher des employés additionnels.
+Pour l’année à venir, 240 000 heures de MOD (incluant les heures supplémentaires) seront disponibles. Électroflux aura toutefois besoin de 246 000 heures pour répondre à la demande prévue. L’entreprise fait donc face à un manque de capacité de 6 000 heures de MOD.
+
+(c) 10904 / S04 
+
+19
+
+## Diapositive 20
+
+RÉFLEXION : 
+
+Si on souhaite réduire l’impact du manque de capacité (6 000 hrs MOD) sur notre profit  : 
+Quelle production doit-on réduire (néons ou ampoules) ? 
+Combien de chaque produit devrait-on produire ?
+Quel sera le plan de production optimal ? 
+Compte tenu des MCV unitaires des deux produits, le contrôleur propose de diminuer la production de boîtes d’ampoules. 
+Qu’en pensez-vous ?  
+
+
+
+(c) 10904 / S04 
+
+20
+
+ | Néons | Ampoules
+
+Volume | 41 000 | 164 000
+
+Heures MOD | 2 hrs | 1 hr
+
+Prix de vente | 325 $ | 250 $
+
+Coûts variables | 175 $ | 130 $
+
+Marge sur coûts variables | 150 $ | 120 $
+
+## Diapositive 21
+
+La marge sur coûts variables totales
+
+(c) 10904 / S04 - Version A2024
+
+21
+
+ | Néons | Ampoules
+
+Volume | 41 000 | 164 000
+
+Heures MOD | 2 hrs | 1 hr
+
+Prix de vente | 325 $ | 250 $
+
+Coûts variables | 175 $ | 130 $
+
+Marge sur coûts variables | 150 $ | 120 $
+
+Si on souhaite réduire l’impact du manque de capacité (6 000 hrs MOD) sur notre profit  :
+
+Les 6 000 heures de MOD correspondent à combien d’unités pour chacun des produits ?
+
+## Diapositive 22
+
+La marge par unité d’un facteur de production contraignant
+
+Marge utilisée dans une situation où il existe plusieurs produits et où l'entreprise dispose d’une ressource limitée en matière de production (capacité de production limitée)
+Marge par facteur de production (formule générale) :
+
+
+Les facteurs de production sont les ressources utilisées pour la production. (kg de MP, heures de MOD, heures- machine, etc.)
+Dans ce cas, d’un point de vue quantitatif, le produit qui rapporte la plus grande marge par unité du facteur de production contraignant est celui qui sera favorisé pour optimiser le résultat.
+
+Marge sur coûts variables du produit   
+Nombre d’unités requises de ce facteur de production
+
+(c) 10904 / S04 
+
+22
+
+## Diapositive 23
+
+La marge par unité d’un facteur de production contraignant
+
+Marge par facteur de production (formule générale) 
+
+
+
+
+
+
+ | Néons | Ampoules
+
+Prix de vente | 325 $ | 250 $
+
+Moins : Coûts variables | 175 $ | 130 $
+
+Marge sur coûts variables | 150 $ | 120 $
+
+Heures de MOD par unité | ÷  2 h | ÷ 1 h
+
+MCV par facteur de production |  | 
+
+Il faut prioriser le produit avec la marge sur coûts variables par facteur de production contraignant (MCV/heure de MOD) la plus élevée. 
+
+(c) 10904 / S04 
+
+23
+
+## Diapositive 24
+
+Établir le plan de production optimal (en unités) pour maximiser le résultat d’exploitation
+
+3 000 boîtes de néons ne seront pas produites
+
+Heures totales disponibles (facteur contraignant) |         240 000 heures
+
+
+Heures pour produire 164 000 ampoules
+(max de la demande) | 
+
+Heures disponibles pour produire les néons | 
+
+Nombre de boîtes de Néons produites
+(demande actuelle 41 000 boîtes) | 
+
+(c) 10904 / S04 
+
+24
+
+Plan de production en unités | Ampoules :
+ | Néons: 
+
+## Diapositive 25
+
+Les marges étudiées jusqu’à présent (sommaire)
+
+(c) 10904 / S04 
+
+25
+
+## Diapositive 26
+
+Analyse des marges - objectifs
+
+Jusqu`à présent nous avons étudié comment les marges peuvent être utilisées dans le cadre d’une décision d’exploitation.
+
+Une organisation peut calculer des marges pour mener une analyse complète de la profitabilité de ses objets de coûts (produits/services ou gammes de produits/services, unités d’exploitation, divisions, secteurs géographiques…)
+Ce calcul peut être récurrent et constituer un système de veille.
+Ce calcul peut être ponctuel pour analyser la contribution des différents objets de coûts à la rentabilité de l’entreprise, revoir le mix de vente, aider à la révision de la politique tarifaire (fixation du prix de vente).
+Ce calcul peut permettre de faire des analyses prédictives permettant de voir rapidement l’impact d’une variation du volume d’activité sur le résultat.
+(….)
+
+
+(c) 10904 / S04 
+
+26
+
+## Diapositive 27
+
+Exercice Pub du plateau 10B.1
+
+Analyse de marges pour mener une analyse complète de la profitabilité de ses objets de coûts
+
+(c) 10904 / S04 
+
+27
+
+## Diapositive 28
+
+Les décisions d’exploitation (sommaire)
+
+
+
+Résultat différentiel
+La différence entre les deux propositions. 
+- Augmentation ou diminution du résultat. 
+
+Calcul de marges pour effectuer l’analyse
+
+Coûts directs = coûts variables + coûts fixes spécifiques
+
+(c) 10904 / S04 
+
+28
+
+## Diapositive 29
+
+Conclusion – Séance 4
+
+Prise de décision d’exploitation et analyse de marges
+
+Idée  
+
+Informations pertinentes
+
+coût pertinent
+coût de renonciation
+résultat différentiel
+
+∙ Produire l’information pertinente pour prendre certaines décisions d’exploitation
+∙ Comprendre la contribution de différents objets de coûts à la profitabilité de l’organisation 
+
+Comment
+
+∙ Analyse différentielle
+∙ Calcul de marges selon la prise de décision : MCV unitaire, MCV totale, marge sur coûts spécifiques, marge par facteur de production contraignant … 
+
+(c) 10904 / S04 
+
+29
+
+## Diapositive 30
+
+QUESTIONS…
+
+(c) 10904 / S04 
+
+30

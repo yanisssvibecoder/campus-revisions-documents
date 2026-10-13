@@ -1,0 +1,792 @@
+## Page 1
+            MOBILISER LES TECHNOLOGIES NUMÉRIQUES
+                      TECH 10701
+
+                  Examen intra – Hiver 2026
+
+                                Directives
+
+•  Cet examen comprend 50 questions en tout, dont une question de contrôle. Certaines
+   questions sont purement théoriques, d’autres portent sur le cas LBM. Celles-ci
+   mentionnent alors « selon le cas, dans la compagnie LBM », ou une autre formulation
+    similaire pour les distinguer.
+
+•  Chaque question vaut un (1) point.
+
+•  Toutes vos réponses doivent être consignées sur la feuille de lecture optique.
+   o    Seule la feuille-réponses sera corrigée.
+   o     Utilisez seulement un crayon à mine sur la feuille-réponses. Si vous utilisez un
+          stylo, vos réponses ne seront pas enregistrées.
+   o    Noircissez complètement les ovales appropriés.
+   o    Effacez proprement tout ovale noirci par erreur.
+   o    Assurez-vous d’inscrire à la section A vos noms et prénoms.
+   o    Assurez-vous d’inscrire à la section B votre numéro de matricule.
+   o    Lisez bien les notes « Important » et « Directives » qui se trouvent sur la feuille de
+         lecture optique (en haut à droite de la feuille).
+
+•  À la fin de l’examen, vous devez remettre les trois documents suivants :
+    o   Ce questionnaire.
+    o   Le cahier contenant le cas et deux annexes.
+    o   Votre feuille-réponses à lecture optique correctement identifiée.
+
+
+
+   Mises en garde importantes
+
+   La simple possession d’un document ou appareil électronique non autorisé (téléphone,
+   montre, lunettes intelligentes…) durant l’examen (y compris lors de la sortie aux toilettes)
+    entraine automatiquement au minimum un échec à l’évaluation.
+
+      Il est également strictement interdit de communiquer avec vos pairs. Si vous avez un
+    besoin, vous devez appeler la personne qui surveille l’examen. Le simple fait d’échanger
+   des propos avec une autre personne conduit à un signalement auprès du comité
+    d’intégrité.
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra           Page 1 sur 16
+
+## Page 2
+Cas Les Beaux Moments (LBM)
+La compagnie Les Beaux Moments (LBM) est une compagnie spécialisée dans les
+événements réalisés à l’extérieur. LBM loue des chapiteaux qui peuvent être utilisés à
+l’année. Ils peuvent accueillir de 50 à 2500 personnes.
+
+LBM est en croissance depuis sa création il y a sept ans. Elle souhaite améliorer ses outils
+informatiques et ses processus afin de soutenir la croissance et optimiser sa performance.
+Dans le cadre de sa transition numérique, elle souhaite modéliser le processus de
+planification des événements clé en main.
+
+Un événement clé en main permet au client d’avoir un chapiteau aménagé avec tous les
+services pour l’événement. LBM prend alors en charge les services d’éclairage, de
+projection, de musique, de location du mobilier (chaises, tables, vestiaires, etc.) et le service
+de traiteur complet. Les événements clé en main sont très prisés par les entreprises qui
+organisent des événements, par les festivals, par les organisations à but non lucratif qui font
+des levées de fonds et pour les mariages.
+
+Le processus de planification des événements clé en main débute lorsque le client accepte
+une soumission. À la réception de la soumission acceptée, un concepteur analyse la
+soumission reçue en mettant à jour le progiciel Événements (PE) afin d’avoir toutes les
+informations pour gérer l’événement. L’analyse  lui permet de  vérifier  si toutes les
+informations sont présentes. S’il constate que des informations sont manquantes,  il
+demande des précisions au client par courriel. Celui-ci répond au courriel en moyenne
+18 heures plus tard. À la réception de la réponse, le concepteur met à jour le PE en notant
+les précisions envoyées. Lorsqu’il a toutes les informations pour un événement, il compile
+les équipements dans le PE afin de créer une fiche d’événement.
+
+Après cette action, le magasinier poursuit le traitement, il doit réserver les équipements
+nécessaires en mettant à jour le système de gestion des stocks à partir des informations de
+la fiche d’événement. Ensuite, il téléphone à un électricien partenaire de LBM, la discussion
+lui permet d’avoir les équipements électriques adéquats. Après l’appel, il finalise le devis
+technique en ajoutant les équipements électriques dans le système de gestion des stocks.
+Il envoie alors le devis technique au concepteur.
+
+Le concepteur doit attendre deux semaines avant le début de l’événement pour demander
+au chef cuisinier le menu final. Comme LBM offre des menus du terroir, les recettes sont
+adaptées selon la saison et les ingrédients disponibles. Toutefois, il est important de noter
+que les recettes sont susceptibles d’être réalisées plusieurs fois dans la saison. Pour ce
+faire, le chef cuisinier ajuste le menu du client dans le PE selon les ingrédients disponibles
+dans la liste mensuelle des ingrédients. Chaque menu est composé de mets. Chaque mets
+correspond à une recette composée de plusieurs ingrédients de la liste dans des quantités
+déterminées. Une fois le menu ajusté, le système imprime automatiquement le menu. Le
+chef cuisinier envoie le menu au concepteur. Dès que le concepteur reçoit le menu, il envoie
+le menu et le devis technique au client ; ce qui complète le processus de planification des
+événements.
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra           Page 2 sur 16
+
+## Page 3
+Annexe 1 — Symboles de base du BPMN
+
+
+
+
+
+Annexe 2 — Arbre de décision de la valeur ajoutée
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 3 sur 16
+
+## Page 4
+1. On compare souvent l’analyste d’affaires à un médecin de l’organisation. Celui-ci s’intéresse aux
+    « défis organisationnels » et utilise l’observation ou l’animation d’ateliers pour acquérir une
+   compréhension globale de l’état actuel de l’entreprise. Chez LBM, il existe un délai de deux semaines
+   pour obtenir le menu final, et le concepteur doit souvent attendre les réponses des clients par courriel.
+
+    Si l’analyste adopte une approche de « spécialiste en relation d’aide » pour résoudre le problème du
+    délai de planification chez LBM, quelle serait sa première intervention ?
+    a)  Programmer immédiatement, en compagnie du concepteur, un algorithme de réponse (le « soin
+       médical ») automatique pour les clients
+    b)  Imposer une nouvelle règle d’affaires obligeant le chef à remettre ses menus en 48 heures sous
+       peine de sanction (la « thérapie »)
+    c)  Remplacer le Progiciel Événements (PE) par une solution plus moderne sans consulter les
+      employés
+    d)  Organiser un atelier avec le concepteur et le chef cuisinier pour observer leurs interactions et
+      comprendre les causes profondes (les « symptômes ») des délais de deux semaines
+
+2.  L’analyste d’affaires agit comme un traducteur entre les fonctions de l’entreprise et l’informatique.
+   Chez LBM, le processus de planification du menu par le chef cuisinier est complexe : il doit lier des
+   mets à des recettes, elles-mêmes composées d’ingrédients spécifiques dans des quantités
+   déterminées ?
+   Dans ce contexte, quelle action illustre le mieux le rôle de « traducteur » de l’analyste ?
+
+    a)  Expliquer au chef cuisinier comment imprimer à la ﬁn de la planiﬁcation des menus
+    b)  Valider avec le cuisinier l’ajout d’une fonctionnalité demande au client de répondre plus
+       rapidement aux courriels du concepteur aﬁn de gagner du temps
+    c)  Rédiger une spéciﬁcation logique pour les développeurs décrivant comment la base de données
+        doit lier l’entité « Ingrédient » à l’entité « Recette » pour répondre au besoin de constance du chef
+    d)  Négocier les tarifs avec le fournisseur d’ingrédients du terroir pour augmenter la marge de proﬁt
+
+3.  La compagnie LBM est en croissance et souhaite améliorer ses outils informatiques et ses processus
+    afin de soutenir cette performance. L’amélioration des procédés est le but de toute progression
+    technologique. Quel est le bénéfice principal que LBM cherche à obtenir en mobilisant les
+    technologies numériques dans ses processus de planification d’événements ?
+
+    a)  Stocker et traiter uniquement les données
+    b)  Rendre les processus plus efficaces, évolutifs et plus avantageux pour les utilisateurs ﬁnaux
+     (comme le concepteur ou le magasinier)
+    c)  Remplacer complètement toutes les procédures et personnes (concepteur, chef cuisinier,
+       magasinier) par des systèmes automatiques
+    d)  Déﬁnir et concevoir uniquement l’architecture technique du progiciel Événements (PE)
+
+4.  Quel choix énumère adéquatement les piscines qui devraient être représentées dans la modélisation
+   du cas en BPMN ?
+
+    a)  Client, Électricien
+    b)  Client, Électricien, processus étudié (Planification des événements)
+    c)  Client, Électricien, Concepteur, Magasinier, Chef cuisinier
+    d) Uniquement le processus étudié (Planification des événements)
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 4 sur 16
+
+## Page 5
+5.  Quelle illustration représente adéquatement l’événement de début du cas ?
+
+
+
+
+
+              a)                                       b)
+
+
+
+
+
+               c)                                       d)
+
+
+
+6.  Suite à la première activité, Analyser la soumission, une transaction peut passer par différents
+    parcours, selon que des informations sont manquantes ou non. Quelle illustration représente
+   adéquatement le choix du parcours que suivra la transaction ? (Les noms des activités ont été
+   volontairement masqués afin de ne pas donner la réponse à d’autres questions de l’examen.)
+
+
+
+
+
+        a)                                            b)
+
+
+                                                       d) Aucune de ces réponses
+
+         c)
+
+
+7.  Quelle illustration représente adéquatement le type de la première activité du processus : un
+   concepteur analyse la soumission reçue en mettant à jour le progiciel Événements (PE) afin d’avoir
+    toutes les informations pour gérer l’événement ?
+
+
+
+
+                                                       b)              a)
+
+
+
+               c)                                       d)
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 5 sur 16
+
+## Page 6
+8. Dans le cas, une transaction se met en pause, puis elle reprend deux semaines avant l’événement.
+   Quelle illustration représente adéquatement cette situation présentée dans cette phrase du cas : Le
+   concepteur doit attendre deux semaines avant le début de l’événement pour demander au chef
+    cuisinier le menu final ?
+
+
+
+
+
+     a)                                                b)
+
+
+
+
+
+     c)                                                d)
+
+9.  Quelle illustration représente adéquatement cette partie du processus : Il demande des précisions au
+    client par courriel. Celui-ci répond au courriel en moyenne 18 heures plus tard. À la réception de la
+   réponse, le concepteur met à jour le PE en notant les précisions envoyées (on ne tient pas compte des
+    objets et magasins de données dans la question) ?
+
+
+
+
+
+              a)                                                       b)
+
+
+
+
+
+               c)                                       d)
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 6 sur 16
+
+## Page 7
+10. Quelle illustration représente adéquatement l’interaction entre le magasinier et l’électricien présenté
+   à la phrase suivante du cas : Ensuite, il téléphone à un électricien partenaire de LBM, la discussion lui
+   permet d’avoir les équipements électriques adéquats ?
+
+
+
+
+
+            a)                                                       b)
+
+
+
+
+
+            c)                                         d)
+
+11. Comment doit-on représenter les objets et les magasins de données pour l’activité suivante : Lorsqu’il
+   a toutes les informations pour un événement, il compile les équipements dans le Progiciel Événements
+    (PE) afin de créer une fiche d’événement ?
+
+
+
+
+
+     a)                                                       b)
+
+
+
+
+
+                                                       d)     c)
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 7 sur 16
+
+## Page 8
+12. Dans le cadre du cours, nous avons vu le Sous-processus fermé. Quand doit-
+   on utiliser ce symbole dans une modélisation BPMN ?
+
+    a)  Pour mettre l’accent sur les activités les plus importantes du processus
+    b)  Pour présenter les grandes étapes du processus lorsqu’une modélisation
+      a plus de 10 activités
+    c)  Pour présenter les processus qui sont interreliés au processus illustré dans la modélisation
+    d)  Pour illustrer une activité qui doit être analysée ultérieurement
+
+13. Laquelle des illustrations représente adéquatement la fin du processus présentée à la phrase suivante
+   du cas : Dès que le concepteur reçoit le menu, il envoie le menu et le devis technique au client, ce qui
+   complète le processus de planification des événements ?
+
+
+
+
+
+              a)                                       b)
+
+
+
+
+
+               c)                                       d)
+
+
+Pour les questions 14 à 16, vous devez identifier la valeur ajoutée de l’activité présentée. Pour ce
+faire, vous devez utiliser l’arbre de décision vue dans le cours et disponible en annexe de l’examen.
+
+14. Le cas présente les deux activités suivantes : Une fois le menu ajusté, le système imprime
+   automatiquement le menu. Le chef cuisinier envoie le menu au concepteur. Ces deux activités
+   (Imprimer et envoyer), ont la même nature de valeur ajoutée, quelle est-elle ?
+
+    a)  Valeur Ajoutée Réelle (VAR)
+    b)  Valeur Ajoutée d’affaires (VAA)
+    c) Sans Valeur Ajoutée (SVA)
+
+15. En début de processus, la phrase suivante présente la première activité du processus : À la réception
+   de la soumission acceptée, un concepteur analyse la soumission reçue en mettant à jour le progiciel
+   Événements (PE) afin d’avoir toutes les informations pour gérer l’événement. Quelle est la nature de la
+    valeur ajoutée pour cette activité ?
+
+    a)  Valeur Ajoutée Réelle (VAR)
+    b)  Valeur Ajoutée d’affaires (VAA)
+    c) Sans Valeur Ajoutée (SVA)
+
+16. Dans le cas, la première activité réalisée par le magasinier est présentée à la phrase suivante du cas : Il
+    doit réserver les équipements nécessaires en mettant à jour le système de gestion des stocks à partir
+   des informations de la fiche d’événement. Quelle est la nature de la valeur ajoutée pour cette activité ?
+
+    a)  Valeur Ajoutée Réelle (VAR)
+    b)  Valeur Ajoutée d’affaires (VAA)
+    c) Sans Valeur Ajoutée (SVA)
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 8 sur 16
+
+## Page 9
+17. Dans le cadre de la transition numérique de la compagnie LBM, l’analyste doit structurer les données
+   nécessaires à la création de la « fiche d’événement ». Laquelle des actions suivantes illustre une étape
+    qui appartient exclusivement au modèle logique de données par opposition au modèle conceptuel ?
+    a)  Identiﬁer que les « Équipements » (chaises, tables, vestiaires) constituent une entité d’affaires sur
+        laquelle l’organisation doit impérativement conserver des données
+    b)  Établir graphiquement une association entre l’entité « Client » et l’entité « Soumission » pour
+       représenter la règle d’affaires stipulant qu’un client peut accepter plusieurs soumissions
+    c)  Déterminer que pour chaque « Fiche d’événement » créée, le système doit permettre de lier
+       plusieurs équipements via l’insertion d’une clé lointaine dans une table de réservation
+    d)  Regrouper les services d’éclairage, de projection et de musique autour de l’idée générale de
+        « Services techniques » pour simpliﬁer la réalité à l’étude
+
+18. Selon ce qui est mentionné dans le cas, quel est le modèle conceptuel représentant adéquatement les
+    clients, les soumissions et les événements, de même que leurs associations ?
+
+
+
+
+
+ a)                                                    b)
+
+
+
+
+ c)                                                    d)
+
+19. Laquelle des règles s’applique au modèle conceptuel suivant :
+
+
+
+
+
+    a)   Il n’y a qu’un seul événement par type et un événement est d’un seul type
+    b) Un événement a plusieurs types et un type n’est que pour un seul événement
+    c)   Il y a plusieurs événements d’un même type et chaque événement n’a qu’un seul type
+    d) Aucune de ces réponses
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                       Page 9 sur 16
+
+## Page 10
+20. Quel modèle conceptuel représente adéquatement l’extrait du cas suivant : Chaque menu est
+   composé de mets offerts sur plusieurs menus au fil du temps. Chaque mets correspond à une recette
+   composée de plusieurs ingrédients de la liste dans des quantités déterminées, plusieurs recettes
+    utilisent les mêmes ingrédients ?
+
+
+
+
+
+ a)                                                      b)
+
+
+
+
+
+ c)                                                      d)
+
+
+21. Les informations suivantes avaient été notées par le commis de LBM lors de l’appel initial du client
+    (avant le processus présenté dans le cas).
+
+     NomClient  Telephone   NomEvenement  Date     Type      Ville         Services
+     Pablo      4445553333  Cérémonie des   2026-    Levée    Longueuil   Chapiteau
+                                luminaires       06-26    de fond                Mobilier
+                                         17 h                             Éclairage
+                                                                  Sono (pas de
+                                                                          musique)
+     Cynthia    4445552222  Mariage Johnny   2026-    Mariage  Repentigny  Chapiteau
+                                  et Cynthia       07-11                            Mobilier
+                                         15 h                             Éclairage
+                                                                                     Projection
+                                                                      Musique
+                                                                                         Traiteur
+    Meriam    4445556666  Course 1-2-5     2026-    Levée    Montréal    Chapiteau
+                     km             07-19    de fond                Mobilier
+                                         10 h 30                          Éclairage
+                                                                  Sono (pas de
+                                                                          musique)
+
+   Cette liste ne respecte pas la première forme normale. Pourquoi ?
+
+    a)   Il n’y a pas de clé lointaine (étrangère)
+    b)  Certains types d’événements se répètent
+    c)  Certains attributs ne sont pas liés à la clé
+    d) Les éléments contenus dans les cellules ne sont pas atomiques
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 10 sur 16
+
+## Page 11
+22. La table suivante sert à conserver les informations sur les fournisseurs comme les électriciens
+    partenaires. Combien contient-elle de clé(s) primaire(s) ?
+
+
+
+
+
+    a) 0
+    b) 1
+    c)  2
+    d) 4
+
+23. Dans la table DetailService, pourquoi noArticle est-il souligné ?
+
+
+
+
+
+    a)  Parce qu’il fait partie de la clé primaire concaténée
+    b)  Parce que c’est une clé lointaine
+    c)  Parce que c’est une des deux clés primaires
+    d) Aucune de ces réponses
+
+24. Quel modèle logique correspond au modèle conceptuel suivant :
+
+
+
+
+
+    a)                                                 b)
+
+
+
+
+
+    c)                                                 d)
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 11 sur 16
+
+## Page 12
+25. Quel modèle logique correspond au modèle conceptuel suivant :
+
+
+
+
+
+ a)                                                    b)
+
+
+
+
+ c)                                                    d)
+
+
+
+
+
+26. La clé primaire de la table événement est le numéro de l’événement. Quel serait le meilleur type
+    d’attribut à choisir dans Airtable pour ce champ ?
+
+    a)  Texte sur une seule ligne
+    b)  Numérotation automatique
+    c) Numéro
+    d) Clé primaire unitaire
+
+27. Il existe tout au plus une douzaine de types d’événements auxquels LBM participe. Quel serait le
+    meilleur type à choisir dans Airtable pour l’attribut nommé nomType dans la table TypeEvenement ?
+
+    a)  Recherche
+    b)  Texte sur une seule ligne
+    c)  Sélection multiple
+    d)  Sélection unique
+
+28. Le type d’événement est une clé lointaine dans la table Evenement. Quel serait le meilleur type
+    d’attribut à choisir dans Airtable pour l’attribut noType dans la table Evenement ?
+
+    a) Numéro
+    b)  Lier à une entrée
+    c)  Recherche
+    d) Numéro automatique
+
+29. Pour recopier automatiquement la valeur d’un autre attribut dans le champ obligatoire Name d’une
+    table, quel serait le meilleur type d’attribut à choisir dans Airtable ?
+
+    a)  Recopie
+    b) Cumul
+    c)  Formule
+    d)  Texte sur une seule ligne
+
+30. Comment, dans l’application Airtable, associe-t-on les concepts d’entité, d’attribut et
+    d’enregistrement ?
+
+    a) Une entité correspond à un formulaire, un attribut à un champ, et un enregistrement à une
+       soumission
+    b) Une entité correspond à une base de données, un attribut à un tableau, et un enregistrement à une
+      colonne
+    c) Une entité correspond à une colonne, un attribut à une ligne, et un enregistrement à un tableau
+    d) Une entité correspond à un tableau, un attribut à une colonne, et un enregistrement à une ligne
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 12 sur 16
+
+## Page 13
+31. Comment assurer l’intégrité référentielle dans Airtable lorsque l’on relie une clé lointaine à une clé
+    primaire ?
+    a)   Il faut « Autoriser l’établissement d’un lien vers plusieurs entrées »
+    b)   Il ne faut pas « Autoriser l’établissement d’un lien vers plusieurs entrées »
+    c)   Il faut s’assurer que la clé lointaine est unique
+    d)   Il faut utiliser un champ de type Recherche
+
+32. Le magasinier finalise le devis technique après avoir discuté avec l’électricien partenaire. Si un bogue
+   dans le système de gestion des stocks permet à un utilisateur non autorisé de modifier les quantités
+   d’équipements électriques sans laisser de trace dans l’historique, quel pilier de la triade CIA est
+   compromis et quelle est la conséquence pour LBM ?
+
+    a)  La disponibilité, car le concepteur ne pourra plus envoyer le devis au client à temps
+    b)  La conﬁdentialité, car l’électricien pourrait voir le prix des tentes louées par LBM
+    c)  L’intégrité, car les données erronées pourraient poser des risques importants pour le déroulement
+      des événements
+    d)  La cyberhygiène, car le mot de passe du magasinier n’était pas assez complexe
+
+33. Parmi les exemples suivants, lequel est explicitement cité comme un renseignement personnel
+   protégé par la Loi 25 ?
+
+    a) Une préférence de couleur pour un produit
+    b) Un code postal
+    c) Un nom de compagnie
+    d) Une adresse IP
+
+34. Quel droit, stipulé par la Loi 25, permet à un citoyen de demander la suppression de ses informations
+   personnelles détenues par une organisation ?
+
+    a) Le droit à la portabilité
+    b) Le droit à l’oubli
+    c)  Le droit à la transparence dans l’automatisation
+    d) Le droit à la notification des incidents
+
+35. L’analyste souhaite créer un formulaire dans Softr pour que le chef cuisinier saisisse les nouveaux
+    ingrédients du terroir. Le chef doit choisir entre quatre catégories : « Entrée », « Plat principal »,
+    « Dessert » et « Breuvage ».
+   En respectant les meilleures pratiques UX, comment l’analyste devrait-il configurer ce champ ?
+    a)  Utiliser un champ de type « Texte court » pour laisser le chef écrire librement la catégorie
+    b)  Utiliser un marque-place à l’intérieur d’une case vide pour suggérer les choix au chef
+    c)  Utiliser un bloc de sélection unique présentant les quatre choix verticalement, sans mettre
+        l’étiquette en majuscules
+    d)  Créer une ligne horizontale avec les quatre options pour économiser de l’espace sur l’écran de la
+        tablette du chef
+
+36. Le chef cuisinier de LBM doit ajuster le menu dans le Progiciel Événements (PE) en fonction de la liste
+   mensuelle des ingrédients du terroir. Pour l’aider à être plus performant et limiter les erreurs,
+    l’analyste propose de revoir l’interface de saisie des ingrédients et des quantités.
+
+   Selon les meilleures pratiques UX présentées dans le cours, quelle recommandation l’analyste
+    devrait-il appliquer pour cette interface ?
+
+    a)  Si la liste mensuelle ne contient que quatre ingrédients disponibles, il est préférable de les
+       présenter sur une seule ligne horizontale pour économiser de l’espace à l’écran
+    b)  Pour le champ où le chef doit saisir la quantité (ex. : « 50 » pour 50 grammes), il faut utiliser une
+      case de saisie qui occupe toute la largeur de l’écran afin d’assurer une visibilité maximale
+    c)  Pour bien marquer l’importance des étapes, toutes les étiquettes du formulaire devraient être
+        écrites en LETTRES MAJUSCULES (ex. : NOM DU METS)
+    d)   Il faut utiliser des étiquettes courtes placées au-dessus des champs (ex. : « Quantité ») et éviter
+         d’utiliser uniquement des marque-places à l’intérieur des cases pour guider le chef
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 13 sur 16
+
+## Page 14
+37. Le concepteur veut lier une soumission acceptée à un client spécifique dans son formulaire Softr.
+   Quelle notion technique, vue au travers de l’usage de Softr, permet de sélectionner une valeur
+   provenant d’une autre liste (clé primaire) ?
+
+    a) Une requête de cybersécurité
+    b) Un champ de texte libre sans validation
+    c)  L’utilisation d’une liste déroulante liée à une clé lointaine
+    d) Un bouton pour afficher les clients
+
+38. Dans le cadre de sa transition numérique, LBM envisage d’utiliser Softr pour la saisie et la diffusion des
+   données. Selon les principes de cyberhygiène, il est crucial de limiter les accès et les privilèges aux
+    seuls besoins nécessaires des utilisateurs.
+
+   Comment la plateforme Softr permet-elle à LBM de renforcer la sécurité de son système d’information
+    lors de la planification d’un événement ?
+
+    a) En cryptant automatiquement les courriels envoyés aux clients pour réduire le délai de réponse de
+      18 heures
+    b) En permettant d’attribuer des rôles spécifiques (ex. : Chef, Magasinier, Concepteur) pour
+        restreindre l’accès à certaines pages ou certains blocs de données selon les responsabilités de
+      chacun
+    c) En installant un antivirus puissant directement sur les tablettes utilisées par les magasiniers sur le
+        terrain
+    d) En supprimant systématiquement les données des clients dès que la soumission est acceptée
+       pour respecter le droit à l’oubli de la Loi 25
+
+39. Pour optimiser la performance de LBM, l’analyste propose d’intégrer une fonction de recherche dans
+    l’interface de Softr pour le magasinier. Quel est l’avantage principal de cette fonction lors de la saisie
+   de données ?
+
+    a) Empêcher le magasinier de téléphoner à l’électricien
+    b)  Réduire les erreurs de saisie en permettant de choisir rapidement une information déjà existante
+    c)  Remplacer le besoin d’avoir une connexion Internet
+    d)  Avoir la liste des magasiniers
+
+40. Le processus de LBM implique que le concepteur envoie fréquemment des courriels aux clients pour
+   demander des précisions ou envoyer le menu final et le devis technique. L’utilisation du courriel
+   expose potentiellement les employés de LBM aux menaces véhiculées par ce moyen. Selon les bonnes
+    pratiques de cyberhygiène, quel comportement de l’utilisateur est essentiel pour qu’il ne devienne pas
+   un maillon faible dans l’organisation lorsqu’il interagit avec les communications numériques
+    externes ?
+
+    a)  S’assurer que le trafic sur le réseau est surveillé et filtré
+    b)  Naviguer sur le web et cliquer sur les liens de courriels de façon sécuritaire
+    c)  Toujours utiliser le même mot de passe (même si complexe) pour le progiciel Événements (PE) et la
+       messagerie électronique
+    d)  Toutes ces réponses
+
+41. LBM est en croissance et en transition numérique. La cybersécurité doit être une préoccupation
+    constante. Dans le contexte où le concepteur envoie le menu final et le devis technique au client, et où
+    les données de l’événement et de l’inventaire sont partagées entre les systèmes (PE et système de
+    gestion des stocks), à qui incombe la responsabilité d’assurer la sécurité des données dans la chaîne
+   de responsabilités de LBM ?
+
+    a)  Tout le monde dans l’organisation
+    b) Uniquement le concepteur
+    c)  Uniquement le magasinier
+    d) Uniquement le chef cuisinier
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 14 sur 16
+
+## Page 15
+42. Lequel n’est pas un avantage d’un PGI mentionné dans le cours ?
+
+    a)   Il aide avec la standardisation des processus
+    b)   Il assure la cohérence des données en utilisant une base de données centrale
+    c)   Il permet de gérer le processus de développement des logiciels
+    d)   Il établit des liens entre les documents, le début et la fin du processus
+
+43. Qui suis-je : je conçois, développe et maintiens un progiciel de gestion intégré (PGI) ?
+
+    a)  Éditeur
+    b) Programmeur
+    c)  Intégrateur
+    d)  Ingénieur
+
+44. Dans le cadre de simulation ERPsim MAPLE jouée à la séance 6, vous devez commander vos produits.
+   Pour commander des produits au fournisseur, vous devez d’abord identifier la quantité souhaitée en
+    stock. Ensuite, vous exécutez le MRP. Le MRP permet de calculer la quantité de chaque produit
+   commandé. Si la quantité désirée pour le produit ZZ-S01 est 1000, que votre inventaire au moment
+    d’exécuter le MRP est 500, et que vous n’avez pas de commande en attente de livraison, quelle
+    quantité du produit ZZ-S01 sera générée par la fonction MRP du PGI ?
+
+    a) 0
+    b) 500
+    c)  1000
+    d) 1500
+
+45. Quelle caractéristique principale distingue un projet du travail opérationnel ?
+
+    a)   Il implique l’utilisation de ressources limitées
+    b)   Il est de nature temporaire et crée un résultat unique
+    c)   Il implique des ressources humaines et est planifié
+    d)   Il est exécuté et contrôlé pour atteindre ses objectifs
+
+46. Lequel des énoncés suivants représente l’une des quatre valeurs fondamentales du Manifeste Agile ?
+
+    a)  La négociation contractuelle plus que la collaboration avec les clients
+    b) Une documentation exhaustive plus que des logiciels opérationnels
+    c)  Les processus et les outils plus que les individus et leurs interactions
+    d)  L’adaptation au changement plus que le suivi d’un plan
+
+47. Lors de l’élaboration d’un récit pour le système de traiteur, l’analyste organise un atelier avec le Chef
+    cuisinier. Quel est l’objectif principal de cette conversation ?
+
+    a) Remplacer les critères d’acceptation par une discussion informelle
+    b)  Présenter un prototype afin de gérer les recettes dans le futur système
+    c)  Arriver à une compréhension partagée de la valeur du récit et des détails nécessaires à sa
+        réalisation
+    d)  Convaincre le chef de ne plus utiliser d’ingrédients du terroir
+
+48. Dans la carte narrative de LBM, que devrait-on retrouver sur la première ligne (l’axe horizontal) ?
+
+    a)  La liste des équipements électriques
+    b)  Les thèmes ou activités du parcours linéaire (ex. : Analyse, Logistique, Menu)
+    c)  Les noms des employés (Concepteur, Magasinier, Chef)
+    d)  L’ordre de priorité des tâches techniques
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 15 sur 16
+
+## Page 16
+49. Si on considère le récit suivant : « En tant que chef cuisinier, je veux ajuster le menu selon la liste
+   mensuelle des ingrédients afin de respecter la disponibilité des produits du terroir », quel serait un
+    critère d’acceptation pertinent pour LBM ?
+
+    a) Le système est codé en langage Python
+    b) Le chef cuisinier aime la couleur de l’interface
+    c)  Le système empêche la validation du menu si un ingrédient n’est pas dans la liste mensuelle
+    d) Le système assure un nombre limité de produits du terroir lors de la sélection mensuelle des
+       ingrédients
+
+50. L’analyste identifie que la « Gestion du traiteur » est trop vaste. Il décide de la considérer comme une
+    Fonctionnalité Minimale Commercialisable (FMC). Quel est l’objectif d’un tel regroupement ?
+
+    a)  Créer une base de données technique complexe
+    b)  Présenter une vue d’ensemble de la solution qui apporte un incrément de valeur justifiant une mise
+       sur le marché
+    c)  Remplacer le besoin de discuter avec le chef cuisinier
+    d)  Éliminer le délai de 18 heures de réponse du client
+
+
+
+
+
+TECH10701               Examen de pratique pour l’intra                      Page 16 sur 16

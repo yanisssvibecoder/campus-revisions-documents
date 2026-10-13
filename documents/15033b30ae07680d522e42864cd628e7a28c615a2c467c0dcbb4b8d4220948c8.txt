@@ -1,0 +1,12 @@
+11 | Description et objectifs de la séance
+
+À l’avant scène des systèmes d’information : un outil bien conçu (atelier pratique)
+Description
+L'expérience utilisateur est cruciale en informatique décisionnelle, car même les analyses les plus sophistiquées deviennent inutiles si les gestionnaires ne savent pas comment interpréter les indicateurs de gestion. Une bonne expérience utilisateur demande que les données complexes soient présentées en histoires claires et compréhensibles, pour permettre aux décideurs d'identifier rapidement les tendances importantes, les problèmes urgents et les opportunités cachées sans avoir besoin d'une formation technique approfondie.
+La mise en récit aide les utilisateurs à comprendre non seulement les faits présentés, mais aussi leur signification et les mesures à prendre en conséquence. Sans cette attention à l'expérience utilisateur, les investissements coûteux en intelligence d'affaires risquent d'être sous-utilisés ou mal interprétés, compromettant ainsi la qualité des décisions organisationnelles et le retour sur investissement de ces projets.
+Important!
+Vous êtes tout près du but ! Cette séance est l’occasion idéale de donner vie à vos données en racontant des histoires percutantes — car ce n’est pas seulement ce que disent les chiffres qui compte, mais la manière dont vous les faites parler!
+Objectifs de la séance
+Reconnaître les notions du cours dans des situations professionnelles concrètes, en établissant des liens entre les apprentissages des séances 1 à 10
+Évaluer son tableau de bord en conditions de simulation réelles, en appliquant les principes de conception et la tétralogie OICA
+Ajuster son tableau de bord à partir des observations faites pendant la simulation, en vue de la séance 12

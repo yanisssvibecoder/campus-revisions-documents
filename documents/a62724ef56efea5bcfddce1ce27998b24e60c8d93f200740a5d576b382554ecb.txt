@@ -1,0 +1,23 @@
+Luc est un passionné de plein air. Il y a cinq ans, il a ouvert son atelier de fabrication de raquettes à neige. À ses débuts, Luc offrait deux modèles de raquettes : le Traditionnel et le Randonneur. Encore aujourd’hui, le modèle Traditionnel est fabriqué selon une méthode artisanale, c'est-à-dire presque entièrement à la main, à l’exception de la courroie en cuir qui est fixée au corps de la raquette de bois à l’aide d’une machine spécialisée. Ce dernier procédé est aussi utilisé pour la fabrication du modèle Randonneur. 
+L’hiver dernier, Luc a introduit le nouveau modèle Coureur des bois et a été très déçu des ventes. Il croyait pouvoir en vendre facilement plus de 50 000 paires, étant donné la demande croissante pour ce type de raquettes. Toutefois, ses ventes se sont limitées à 35 000 paires. Selon Luc, les faibles ventes du modèle Coureur des bois sont attribuables à l’arrivée d’un compétiteur qui offre un modèle similaire sur le marché au prix de 64 $ la paire, ce qui est bien inférieur au prix actuellement demandé par Luc. Luc songe d’ailleurs à retirer le modèle Coureur des bois de sa gamme de produits, car selon lui, il est impossible d’égaler le prix de la compétition. Luc a toujours établi son prix de vente de façon à dégager une marge bénéficiaire brute de 20 %. La seule bonne nouvelle est sans contredit les ventes phénoménales du modèle Traditionnel qui ont atteint 100 000 paires l’hiver dernier! 
+Tous les modèles de raquettes sont fabriqués dans l’unique usine de Luc situé dans le petit village de Barraute, en bordure des sentiers de raquettes. Le contrôle de la qualité de chaque modèle est similaire entre les produits à l’exception du modèle Traditionnel qui demande davantage de travail d’inspection dû au cadre en bois qui est beaucoup plus fragile que le cadre en carbone des modèles Randonneur et Coureur des bois. En ce moment, tous les frais généraux de fabrication sont imputés en fonction des heures-machines. 
+Voici quelques données prévisionnelles concernant la production des différents modèles ainsi que les volumes de ventes pour le prochain exercice : 
+Le cousin de Luc, Antoine, étudie en comptabilité et a passé quelques semaines avec son cousin pour apprendre l’art de fabriquer des raquettes. Il a toutefois préféré occuper son temps à développer un modèle d’imputation par centres de coûts pour aider son cousin à mieux comprendre ses coûts de production. 
+Après l’analyse d’Antoine, les frais généraux de fabrication prévus pour le prochain exercice se détaillent ainsi : 	
+(Note 1) : La finition est le centre de coûts par lequel le modèle Traditionnel seulement est enduit de vernis pour éviter que le bois ne soit terni par la neige. 
+Travail pratique :	
+Calculez le coût de fabrication unitaire des modèles Traditionnel et Coureur des bois selon la méthode de répartition des frais généraux de fabrication présentement utilisée par Luc. 
+Calculez le coût de fabrication unitaire des modèles Traditionnel et Coureur des bois selon la méthode de l’imputation par centres de coûts en utilisant les données fournies par Luc. Prenez soin de présenter le taux d’imputation pour chacun des ateliers. 
+Mentionnez deux raisons expliquant la différence entre les coûts de fabrication unitaire calculés.
+Déterminez si la marge bénéficiaire brute de 20 % espérée par Luc pour le modèle Coureur des bois a été atteinte durant l’exercice sachant que le prix de vente est de 74,00$. Prenez soin de justifier votre réponse 
+  | Traditionnel | Randonneur | Coureur des bois
+Matières premières par paire | 30,00 $ / paire | 32,00 $ / paire | 24,00 $ / paire
+Main-d'œuvre directe par paire | 36,00 $ / paire | 15,30 $ / paire | 13,50 $ / paire
+Volume de ventes et de production (nombre de paires) | 100 000 paires | 20 000 paires | 35 000 paires
+Heures de main-d’œuvre directe par paire | 2,00 | 0,85 | 0,75
+Heures-machine par paire | 0,20 | 0,50 | 0,40
+Centres de coûts | Coût total par centre | Bases d’imputation
+Centre 1 - Moulage et Découpage  | 2 135 200 $ | Heures-machine
+Centre 2 = Assemblage et contrôle qualité |  394 050 $ | Heures de main d’œuvre directe
+Centre 3 - Finition (note 1)  | 220 500 $ | Nombre de paires fabriquées
+Total des frais généraux de fabrication | 2 749 750 $ | 

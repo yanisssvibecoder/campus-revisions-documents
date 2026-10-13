@@ -1,0 +1,445 @@
+## Diapositive 1
+
+Chapitre 16
+
+Décision de financement
+
+## Diapositive 2
+
+Décision : structure de capital
+
+Une fois les actifs choisis (déc. d’investissement), on doit prendre la décision du financement :
+
+
+
+
+Se prend à l’échelle de l’entreprise (finance l’ensemble des actifs)
+Ne devrait pas influencer les choix d’investissement
+Doit trouver le meilleur mixte dette/FP
+
+
+
+
+
+=
+
+Actifs
+
+Dette
+
+Fonds
+propres
+
+
+
+Décision
+
+
+
+
+
+## Diapositive 3
+
+Décision : structure de capital
+
+Pour les actionnaires, la décision doit maximiser leur richesse (but de la finance)
+On cherche donc la SC optimale permettant de maximiser la valeur de la firme
+
+
+
+Quels sont les avantages et inconvénients de prendre de l’endettement?
+
+## Diapositive 4
+
+Décision : structure de capital
+
+Quels sont les avantages et inconvénients de prendre de l’endettement?
+
+
+## Diapositive 5
+
+Décision : structure de capital
+
+Avantages de taxation
+
+Intérêts = charges déductibles d’impôt, donc réduction des impôts à payer
+
+Les dividendes sont pris à même les bénéfices nets (donc, non déductible d’impôt)
+
+Économies d’impôt = taux d’impôt * charge d’intérêt
+
+Règle 1 : Toutes choses étant égales par ailleurs, un plus grand taux d’imposition marginal impliquera souvent une plus grande proportion de dettes dans la structure de capital.
+
+
+## Diapositive 6
+
+Décision : structure de capital
+
+
+
+
+Discipline l’exécutif
+
+La présence de charge incontournable induit une approche de prudence et de discipline auprès des dirigeants afin de s’assurer de ne pas se retrouver en situation de faillite
+
+Les détenteurs d’emprunt exercent une surveillance de leurs investissements (obligation ou autres types de dette), leur présence est une sorte de « vérificateur externe » sur le niveau de risque que prend la firme
+
+
+## Diapositive 7
+
+Décision : structure de capital
+
+Coûts de faillite
+
+Les coûts espérés de faillite dépendent de deux variables :
+ Les coûts de faire faillite
+Coûts directs : Coûts légaux et pertes sèches.
+Coûts indirects : Coûts émanant du fait que le monde vous voit en détresse financière.
+La probabilité de faire faillite. Cela dépend de l’incertitude des flux monétaires.
+
+Plus vous empruntez, plus la probabilité de faire faillite sera grande. Ainsi, le coût de faillite espéré sera plus élevé.
+
+
+
+
+## Diapositive 8
+
+Décision : structure de capital
+
+
+Règle 2 : Toutes choses étant égales par ailleurs, plus les coûts indirects et la probabilité de faillite sont élevés, moins la compagnie pourra se permettre d’emprunter.
+
+Ce qui implique:
+Les firmes œuvrant dans des lignes d’affaires très incertaines devraient utiliser moins de dette que d’autres compagnies ayant des flux monétaires plus stables. 
+Si les firmes peuvent structurer leur dette de façon à ce que les flux monétaires de la dette soient en fonction des flux monétaires opérationnels elles peuvent alors emprunter davantage. 
+Si une entité externe (tels que le gouvernement ou autre) fournit une protection contre la faillite au travers d’assurances ou plan de sauvetage, les compagnies auront alors tendance à augmenter l’effet de levier . 
+Les firmes ayant des actifs facilement divisibles et vendables devraient emprunter plus que les firmes ayant des actifs moins liquides.
+
+
+
+
+## Diapositive 9
+
+Décision : structure de capital
+
+Donc, les coûts indirects de faillite devraient être plus élevés pour :
+Les entreprises vendant des produits durables ayant une durée de vie relativement longue et demandant un bon service après-vente
+Les entreprises fournissant des produits pour lesquels la qualité est un enjeu clé et étant difficile de prédire à l’avance
+Les entreprises faisant des produits pour lesquels la valeur dépend aussi des services complémentaires fournis par d’autres firmes
+Les entreprises vendant des produits demandant un support continu du constructeur (ex.: les avions…)
+
+Classez les compagnies suivantes en fonction de leurs coûts de faillite respectifs (en prenant en compte les coûts directs et indirects):
+Un supermarché
+Un constructeur de voitures
+Une compagnie de haute technologie
+
+## Diapositive 10
+
+Décision : structure de capital
+
+Coûts d’agence
+Un coût d’agence apparaît quand l’on engage quelqu’un afin d’accomplir quelque chose pour vous. Les intérêts de la personne embauchée (agent) peuvent dévier de vos propres intérêts (principal)
+Quand l’on prête de l’argent à une entreprise, l’on autorise les actionnaires à utiliser cet argent pour faire fonctionner l’entreprise. Les intérêts des actionnaires peuvent différer parce que :
+Vous en tant que prêteur êtes intéressés à récupérer votre argent
+Les actionnaires sont intéressés à maximiser leur richesse
+Dans certains cas, les différents intérêts peut conduire les actionnaires à :
+Investir dans des projets plus risqués que ce que l’on voudrait
+Se payer de grands dividendes quand il serait mieux de garder les liquidités dans l’entreprise 
+
+Règle 3 : Toutes choses étant égales par ailleurs, de forts coûts d’agence associés à l’emprunt réduisent la capacité d’endettement de la firme
+
+## Diapositive 11
+
+Décision : structure de capital
+
+Perte de flexibilité future
+
+Quand une entreprise emprunte jusqu’au maximum de sa capacité, elle perd sa flexibilité de financement par la dette
+
+Règle 4: Toutes choses étant égales par ailleurs, une plus grande incertitude sur le financement des projets futurs amène la firme à utiliser moins de dettes pour ses nouveaux projets
+
+
+
+## Diapositive 12
+
+Décision : structure de capital
+
+Sondage auprès des VP finance de grandes entreprises américaines au sujet des facteurs jugés importants dans la prise de décision du financement :
+
+
+
+Facteur	Rang (0-5)
+1. Maintenir une flexibilité financière	       4.55
+2. S’assurer de la survie à long terme	       4.55
+3. Maintenir une source de financement 	       4.05
+4. Maximiser le prix de l’action	       3.99
+5. Maintenir une indépendance financière	       3.88
+6. Maintenir sa cote de crédit	       3.56
+7. Maintenir la comparabilité avec ses pairs      		   2.47
+
+
+
+
+
+## Diapositive 13
+
+Décision : structure de capital
+
+En somme, la décision de financement est une question d’équilibre en le risque opérationnel (actif) et risque d’endettement (passif-CP)
+
+
+
+Actifs 
+
+=
+
+Risque d’opération
+(levier opérationnel)
+
+
+
+Risque total de l’entreprise
+
+## Diapositive 14
+
+## Diapositive 15
+
+Chapitre 16
+
+Démonstration de Modigliani & Miller
+
+## Diapositive 16
+
+Démonstration de M&M
+
+Si vous vous retrouvez éventuellement gestionnaire d’une entreprise, comment allez-vous prendre la décision d’investissement?
+
+Entre 1958 et 1963, Modigliani et Miller (M&M) ont élaboré la théorie quant à la SC optimale.
+Auparavant, les gestionnaires prenaient cette décision au mieux de:
+leurs connaissances financières
+leurs connaissances de l’entreprise
+leurs connaissances de l’économie et du secteur
+leurs connaissances des compétiteurs
+etc.
+
+## Diapositive 17
+
+Démonstration de M&M
+
+La structure de capital optimale
+
+Démonstration de Modigliani & Miller (M&M)
+Étape 1 : Contexte: ≠ impôt ≠ coûts de faillite
+Étape 2 : Contexte: = impôt ≠ coûts de faillite
+Étape 3 : Contexte: = impôt = coûts de faillite
+Conclusion :
+
+
+## Diapositive 18
+
+Démonstration de M&M
+
+La structure de capital optimale
+
+Démonstration de Modigliani & Miller (M&M)
+Étape 1 : Contexte: ≠ impôt ≠ coûts de faillite
+Étape 2 : Contexte: = impôt ≠ coûts de faillite
+Étape 3 : Contexte: = impôt = coûts de faillite
+Conclusion :
+
+## Diapositive 19
+
+Étape 1 : sans impôt ni coût de faillite
+
+Proposition I : La SC n’a pas d’importance
+
+
+En conclusion, le mixte entre dette et F.P. ne change en rien la valeur de l’entreprise
+
+## Diapositive 20
+
+Étape 1 : sans impôt ni coût de faillite
+
+Proposition II : le coût des F.P. est fonction de la SC
+
+
+La hausse de RE compense exactement la diminution de la moyenne due à l’augmentation de la pondération de RD
+En somme, l’avantage de la dette est compensé par le fait que les actionnaires sont plus exigeants (plus de risque)
+
+## Diapositive 21
+
+Démonstration de M&M
+
+La structure de capital optimale
+
+Démonstration de Modigliani & Miller (M&M)
+Étape 1 : Contexte: ≠ impôt ≠ coûts de faillite
+Étape 2 : Contexte: = impôt ≠ coûts de faillite
+Étape 3 : Contexte: = impôt = coûts de faillite
+Conclusion :
+
+
+## Diapositive 22
+
+Étape 2 : avec impôt, sans coût de faillite
+
+Les économies d’impôts (ÉÎ) augmente la valeur de la firme :
+
+
+
+
+
+
+
+
+L’utilisation de l’effet de levier permet des économies d’impôt sur les charges d’intérêts qui permettent d’augmenter la valeur de l’entreprise.
+
+## Diapositive 23
+
+Étape 2 : avec impôt, sans coût de faillite
+
+Proposition II : Le coût des F.P. est en fonction de la SC, la déductibilité des intérêts permet la réduction du CMPC
+
+
+## Diapositive 24
+
+Démonstration de M&M
+
+La structure de capital optimale
+
+Démonstration de Modigliani & Miller (M&M)
+Étape 1 : Contexte: ≠ impôt ≠ coûts de faillite
+Étape 2 : Contexte: = impôt ≠ coûts de faillite
+Étape 3 : Contexte: = impôt = coûts de faillite
+Conclusion :
+
+
+## Diapositive 25
+
+Étape 3 : avec impôt et coût de faillite
+
+Coûts de faillite (CDF) : probabilité de ne pas honorer les intérêts dus aux détenteurs de dette (voir définition précédente)
+
+Plus l’endettement augmente, plus les coûts de détresse financière augmentent…
+
+
+
+Niveau d’endettement
+
+EÎ > CDF
+
+EÎ < CDF
+
+EÎ = CDF
+
+
+
+*
+
+## Diapositive 26
+
+Étape 3 : avec impôt et coût de faillite
+
+En terme de valeur d’entreprise, on trouve donc que :
+
+
+
+
+
+
+
+
+
+
+
+Valeur de la firme
+
+Niveau d’endettement
+
+
+
+
+
+
+
+
+
+
+
+V*
+
+SC*
+
+
+
+
+
+EÎ
+
+CDF
+
+## Diapositive 27
+
+Étape 3 : avec impôt et coût de faillite
+
+En terme de coût du capital :
+
+
+
+
+
+Coût du capital
+
+D/E
+
+RD(1-Tc)
+
+
+
+
+
+CMPC
+
+
+
+
+
+
+
+
+
+
+
+CMPC*
+
+D/E*
+
+RE
+
+## Diapositive 28
+
+Démonstration de M&M
+
+La structure de capital optimale
+
+Démonstration de Modigliani & Miller (M&M)
+Étape 1 : Contexte: ≠ impôt ≠ coûts de faillite
+Étape 2 : Contexte: = impôt ≠ coûts de faillite
+Étape 3 : Contexte: = impôt = coûts de faillite
+Conclusion :
+
+
+## Diapositive 29
+
+Conclusion
+
+Il existe donc une structure de capital optimale! 
+	Cependant, celle-ci est difficile à déterminer en pratique… Les dirigeants doivent donc se fier à :
+leurs connaissances de la théorie financière
+leurs connaissances de l’entreprise
+leurs connaissances de l’économie et du secteur
+leurs connaissances des compétiteurs
+etc.
+
+
+## Diapositive 30

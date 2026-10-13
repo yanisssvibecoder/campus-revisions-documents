@@ -1,0 +1,139 @@
+## Page 1
+2-200-96                      Finance
+
+          Travail pratique #2 – Évaluation de titres
+
+
+
+Exercice #1
+
+Vous venez de décrocher un emploi dans une boîte de consultants. Votre
+spécialité est la question financière sous toutes ses formes. Déjà à votre
+première journée, un client vous présente la possibilité d’investir dans des
+obligations de firmes privées.
+
+     L’obligation de la compagnie ED inc. est de type conventionnel. Elle
+      porte un taux de coupon de 5,5 %, coupons semestriels, une valeur
+     nominale de 1 000 $ et une échéance de 12 ans.
+
+     L’obligation de la compagnie MC inc. est moins conventionnelle. Elle
+     présente les mêmes caractéristiques (coupon de 5,5 %, coupons
+      semestriels et échéance 12 ans) à la différence que le capital de
+     1 000 $ est remboursé en quatre parties égales (250 $) à tous les 3
+     ans (i.e. à la fin de la 3e, 6e, 9e et 12e année).
+
+Question 1.1
+
+Votre client vous demande de l’aider à déterminer le montant maximal qu’il
+devrait débourser pour se procurer l’obligation ED inc. et l’obligation MC
+inc. Notez qu’il exige un taux de rendement de 6 % nominal, capitalisation
+semestrielle, pour chacune de ces deux obligations.
+
+Question 1.2
+
+Ensuite, votre client vous mentionne que le prix de l’obligation de ED est
+présentement de 1 040 $. Calculez le taux de rendement à l’échéance
+(RAE) nominal annuel pour cette obligation.
+
+
+
+
+2-200-96 H12 – Travail pratique #2                                  Page 1 sur 4
+
+## Page 2
+Question 1.3
+
+Votre  client a appris que  l’entreprise ED désire émettre des actions
+ordinaires  sur  le marché  boursier.  L’entreprise ne  verserait pas de
+dividendes pendant les trois premières années. Par la suite, elle verserait
+un dividende trimestriel qui augmenterait à un taux trimestriel constant de
+3 %.
+
+Le rendement exigé par les actionnaires pour ce genre de  titres est
+actuellement de 15 % nominal, capitalisation trimestrielle.
+
+Si l’entreprise désire émettre aujourd’hui des actions ordinaires à un prix
+représentant le dixième du prix actuel des obligations de ED, soit 1040 $,
+quel devrait être le montant du premier dividende versé?
+
+
+
+
+
+2-200-96 H12 – Travail pratique #2                                  Page 2 sur 4
+
+## Page 3
+Exercice #2
+
+Nous sommes le 27 mai 2007.  Sandy et Danny ont accumulé un peu
+d’argent qu’ils souhaitent mettre de côté pour leur retraite.  Ils s’intéressent à
+deux titres : les actions de l’entreprise Pink et les obligations de l’entreprise
+Birds. Voici quelques informations sur ces deux titres.
+
+Actions de l’entreprise Pink :
+
+     Date du dernier dividende versé : 27 mai 2007
+     Montant du dernier dividende versé : 0,50 $
+     Les dividendes sont versés trimestriellement
+    Taux de croissance des dividendes prévue jusqu’à  l’infini: 3 % par
+      trimestre
+     Prix au 27 mai 2007: 25,00 $
+
+
+Obligation de l’entreprise Birds :
+
+     Date de versement des coupons : 27 mai et 27 novembre
+     Valeur nominale : 1000 $
+    Échéance : 27 mai 2010
+    Taux de coupon : 15 % nominal, capitalisation semestrielle
+    Rendement à l’échéance : 15 % nominal, capitalisation semestrielle
+     Prix au 27 mai 2007 : 1000 $
+
+
+Sandy et Danny ont appris de leur bonne amie Rizzo, analyste financier
+pour une grande institution, que l’entreprise annoncera prochainement des
+changements pour ces deux titres. Voici la description des changements :
+
+     Pour les actions de l’entreprise Pink, un dividende de 0,50 sera versé
+     dans six mois et un dividende de 0,50 dans un an.  Par la suite, la
+      société recommencera à verser des dividendes  trimestriels  et à
+      appliquer un taux de croissance trimestriel constant de 3%.
+
+     Pour les obligations de Birds, le taux de coupon sera diminué de
+      moitié et ce, jusqu’à la nouvelle échéance fixée le 27 février 2010. De
+      plus, la société retardera le versement du prochain coupon jusqu’au
+     27 février 2008. Par la suite, les coupons recommenceront à être
+     versés à tous les semestres, c’est-à-dire le 27 août et le 27 février de
+     chaque année.
+
+
+
+2-200-96 H12 – Travail pratique #2                                  Page 3 sur 4
+
+## Page 4
+Il est à noter que ces changements n’auraient aucun d’impact sur le taux
+exigé par les différents investisseurs pour ces titres.
+
+
+Question 2.1
+
+Quel est  le taux de rendement  effectif exigé par  les actionnaires de
+l’entreprise Pink ?
+
+
+Question 2.2
+
+Si l’entreprise procède aux changements, quel serait le nouveau prix des
+actions en date du 27 mai 2007 ?
+
+
+Question 2.3
+
+Si l’entreprise procède aux changements, quel serait le nouveau prix des
+obligations en date du 27 mai 2007 ?
+
+
+
+
+
+2-200-96 H12 – Travail pratique #2                                  Page 4 sur 4

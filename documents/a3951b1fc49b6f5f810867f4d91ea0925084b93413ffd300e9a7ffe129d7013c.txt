@@ -1,0 +1,50 @@
+Énoncé : 
+La société Soleil Brûlant inc. est une jeune entreprise québécoise qui fabrique et distribue en exclusivité une lotion de bronzage appelée RX-20 et destinée aux salons de bronzage.
+Les prévisions laissent entrevoir que pour le prochain exercice financier, le niveau des ventes devrait atteindre 440 000 contenants, et les spécifications relatives à la fabrication seraient les suivantes :
+Le coût de la matière première devrait être constant au cours de la prochaine année, à 1,80 $ par contenant.
+Le procédé de fabrication permet d'obtenir 40 contenants de lotion à l'heure, et le taux horaire de la main-d'œuvre directe est de 25 $.
+La supervision des opérations est sous la responsabilité d'un gestionnaire dont la rémunération annuelle est de 72 000 $.
+La fabrication s'échelonne sur une période de 10 mois, le personnel bénéficiant de 8 semaines de vacances payées au cours des 2 premiers mois de l'année. Il n'y a pas de vacances durant l'été.
+L'entreprise a comme politique de ne conserver aucun stock de matières premières, de produits en cours ou de produits finis.
+L'entreprise occupe un bâtiment dont le loyer mensuel s'élève à 12 000 $, auquel s'ajoute une prime égale à 7 % des ventes annuelles excédant 3 millions de dollars. La fabrication utilise la moitié du bâtiment.
+En début d'année, un client de longue date contacte les dirigeants de Soleil Brûlant afin de leur proposer d'acheter une quantité de 200 000 contenants de lotion au prix unitaire de 5,25 $, soit 1,50 $ de moins que le prix de vente normal. Puisque la productivité actuelle suffisait à peine à combler les ventes régulières, la proposition ne peut être acceptée qu'après avoir analysé sa rentabilité et ses impacts.
+Pour vous aider dans votre analyse, vous recueillez les renseignements suivants :
+La production de la commande spéciale serait répartie sur une période de 20 semaines au cours des mois d'été et s'ajouterait à la fabrication courante.
+Le niveau de productivité ne pouvant être haussé pour satisfaire aux besoins supplémentaires, il faudra engager des employés temporaires, à un taux horaire de 22 $. 40 contenants à l'heure seront fabriqués par cette équipe.
+Les frais généraux de fabrication seront haussés de 65 000 $.
+Il faudra louer deux mélangeurs supplémentaires pour satisfaire aux besoins de fabrication de la commande spéciale. Le coût de location de chacun de ces mélangeurs est de 950 $ par semaine.
+La superficie actuellement utilisée pour la fabrication pourrait accueillir sans difficulté les installations temporaires et il ne serait pas nécessaire d'engager du personnel de supervision supplémentaire. 
+Les charges administratives de 330 000 $ prévues pour l'exercice ne devraient pas être affectées de façon significative par l'acceptation de la commande.
+TRAVAIL À FAIRE : 
+À l'aide d'une analyse quantitative, conseillez les dirigeants de Soleil Brûlant quant à la viabilité financière de la commande spéciale.
+Énoncez trois facteurs qualitatifs que devraient considérer les dirigeants avant d'accepter la commande spéciale.
+Solution
+Analyse quantitative
+Calcul de la marge sur coûts variables associée à l'acceptation de la commande spéciale
+Coûts fixes spécifiques
+Aucun coût de renonciation : l'entreprise n'a pas de limite de capacité pour cette commande (elle a recours à des employés temporaires plutôt que de renoncer à des ventes régulières).
+Résultat différentiel
+Résultat si refuse vs Résultat si accepte
+0$                                  405 600 $ 
+L'acceptation de la commande permettrait d'augmenter le résultat de 405 600 $.
+Facteurs qualitatifs et prise de décision
+Avant de prendre sa décision, l'entreprise pourrait se poser les questions suivantes :
+Les nouveaux employés temporaires auront-ils la productivité suffisante dès leur entrée en poste ?
+Les employés actuels risquent-ils d'être insatisfaits par l'arrivée d'employés temporaires ou par des heures supplémentaires ?
+Y a-t-il un risque de non-recouvrement des comptes clients pour ce nouveau volume de vente ?
+L'augmentation du volume de production et l'inexpérience des nouveaux employés pourraient-elles affecter la qualité du produit ?
+Les clients réguliers pourraient-ils être insatisfaits d'apprendre que ce client obtient un prix inférieur au leur ?
+Les fournisseurs de mélangeurs peuvent-ils livrer à temps pour la période estivale ?
+(…)
+ |  | Explications
+Prix de vente | 5,25 $ | Prix offert par le client, soit 1,50 $ de moins que le prix de vente régulier (6,75 $). | Prix offert par le client, soit 1,50 $ de moins que le prix de vente régulier (6,75 $).
+(-) MP | 1,80 $ | Coût constant par contenant, donné dans l'énoncé. | Coût constant par contenant, donné dans l'énoncé.
+(-) MOD (25$-3 = 22 $ / 40 unités) | 0,55 $ | Taux réduit des employés temporaires, 40 contenants produits à l'heure. | Taux réduit des employés temporaires, 40 contenants produits à l'heure.
+(-) FGF variables | 0 $ | Aucun FGF variable additionnel pour cette commande. | Aucun FGF variable additionnel pour cette commande.
+(-) FV variables | 0 $ | Aucune commission ni frais de vente variable sur cette commande. | Aucune commission ni frais de vente variable sur cette commande.
+= MCV unitaire | 2,90 $ | 5,25 $ − 1,80 $ − 0,55 $ − 0 $ − 0 $ | 5,25 $ − 1,80 $ − 0,55 $ − 0 $ − 0 $
+MCV totale | 580 000 $ | 2,90 $ x 200 000 unités | 2,90 $ x 200 000 unités
+Hausse des FGF | 65 000 $
+Location des mélangeurs (2 x 20 sem. x 950 $) | 38 000 $
+Prime de loyer additionnelle (7 % x (4 020 000 $ - 3 000 000 $)) | 71 400 $
+Résultat d’exploitation | 405 600 $

@@ -1,0 +1,27 @@
+## xl/worksheets/sheet1.xml
+B1: Les vélos Lucky Mountain (C), page 390 : Calculez les valeurs manquantes pour chacune des opérations (colonnes G, H et I) puis calculer le temps standard total de finition d'un cadre et la cadence du processus dans son ensemble. 
+B2: Description de l'opération | C2: Unité de référence | D2: Temps observé moyen
+(en  minutes) | E2: Facteur d'allure | F2: Nombre de postes de travail assignés à cette tâche | G2: Temps standard par cadre
+(en minutes) | H2: Temps de cycle
+(en minutes) | I2: Cadence (en cadres par heure) | J2: Taux d'utilisation | K2: Majorations
+B3: Contrôle de la rigidité
+(opération automatisée)  | C3: Par cadre | D3: 10 | E3: 100 | F3: 1 | G3: 11 | H3: 11 [formule : G3/F3] | I3: 5.4545454545454541 [formule : 60/H3] | J3: 0.55555555555555558 [formule : $I$6/I3] | K3: Étapes automatisées ou robotisées | L3: 0.1
+B4: Limage
+(opération manuelle) | C4: Par cadre | D4: 25 | E4: 80 | F4: 2 | G4: 24 | H4: 12 [formule : G4/F4] | I4: 5 [formule : 60/H4] | J4: 0.60606060606060608 [formule : $I$6/I4] | K4: Étapes manuelles | L4: 0.2
+B5: Sablage
+(opération manuelle) | C5: Par cadre | D5: 20 | E5: 120 | F5: 2 | G5: 28.8 | H5: 14.4 [formule : None] | I5: 4.166666666666667 [formule : None] | J5: 0.72727272727272718 [formule : None]
+B6: Nettoyage
+(opération automatisée) | C6: Par lot de 5 cadres | D6: 90 | E6: 100 | F6: 1 | G6: 19.8 | H6: 19.8 [formule : None] | I6: 3.0303030303030303 [formule : None] | J6: 1 [formule : None]
+B7: Application de l’apprêt
+(opération manuelle) | C7: Par cadre | D7: 12 | E7: 110 | F7: 2 | G7: 15.84 | H7: 7.92 [formule : None] | I7: 7.5757575757575761 [formule : None] | J7: 0.39999999999999997 [formule : None]
+B8: Peinture des cadres
+(opération robotisée) | C8: Par lot de 10 cadres | D8: 150 | E8: 100 | F8: 1 | G8: 16.5 | H8: 16.5 [formule : None] | I8: 3.6363636363636362 [formule : None] | J8: 0.83333333333333337 [formule : None]
+B9: Vérification de la peinture
+(opération manuelle, un cadre sur dix) | C9: Par cadre contrôlé | D9: 30 | E9: 90 | F9: 1 | G9: 3.24 | H9: 3.24 [formule : None] | I9: 18.518518518518519 [formule : None] | J9: 0.16363636363636364 [formule : None]
+F11: Temps standard total par cadre (en minutes) | G11: 119.17999999999999 [formule : SUM(G3:G9)] | I11: 3.0303030303030303 [formule : MIN(I3:I9)] | J11: Cadence du processus (en cadres par heure)
+B15: Question supplémentaire : Que faudrait-il faire pour augmenter la cadence de ce processus à 5 cadres à l'heure? Présentez vos calculs.
+B17: 1) Ajouter une machine de nettoyage | D17: La cadence de ce poste est maintenant de 6,06 cadres à l'heure. Le goulot est maintenant à l'étape de la peinture.
+B18: 2) Ajouter une machine à l'étape de la peinture | D18: La cadence de ce poste est maintenant de 7,28 cadres à l'heure. Le goulot est maintenant à l'étape du sablage.
+B19: 3) L'employé assigné à la vérification peut être assigné au sablage 50 % de son temps. La cadence du poste sablage est maintenant de 5,21 et le goulot est au limage à 5 cadres à l'heure.
+B21: Veuillez noter qu'on peut ajouter un % de ressource ou une ressource complète à l'étape sablage puisqu'il s'agit de ressources humaines. Toutefois, on doit ajouter une ressource complète
+B22: aux étapes automatisées étant donné qu'il s'agit de machines.

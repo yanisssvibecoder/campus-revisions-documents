@@ -1,0 +1,69 @@
+## xl/worksheets/sheet1.xml
+A1: PLANS PRÉLIMINAIRES
+A2: Nom du produit | C2: Stock au départ | D2: Taille de lot | E2: UÉ | F2: Délai
+A5: Semaine | C5: 1 | D5: 2 | E5: 3 | F5: 4 | G5: 5 | H5: 6 | I5: 7 | J5: 8
+A6: Prévisions
+A7: Commandes acceptées
+A8: Stock projeté | B8: 0 [formule : C3]
+A9: Stock disponible à la vente | B9: 0 [formule : C3]
+A10: Réception planifiée
+A11: Lancement planifié
+A13: Nom du produit | C13: Stock au départ | D13: Taille de lot | E13: UÉ | F13: Délai
+A16: Semaine | C16: 1 | D16: 2 | E16: 3 | F16: 4 | G16: 5 | H16: 6 | I16: 7 | J16: 8
+A17: Prévisions
+A18: Commandes acceptées
+A19: Stock projeté | B19: 0 [formule : C14]
+A20: Stock disponible à la vente | B20: 0 [formule : C14]
+A21: Réception planifiée
+A22: Lancement planifié
+A24: Nom du produit | C24: Stock au départ | D24: Taille de lot | E24: UÉ | F24: Délai
+A27: Semaine | C27: 1 | D27: 2 | E27: 3 | F27: 4 | G27: 5 | H27: 6 | I27: 7 | J27: 8
+A28: Prévisions
+A29: Commandes acceptées
+A30: Stock projeté | B30: 0 [formule : C25]
+A31: Stock disponible à la vente | B31: 0 [formule : C25]
+A32: Réception planifiée
+A33: Lancement planifié
+A35: PLANIFICATION SOMMAIRE DES CAPACITÉS (UNITÉS ÉQUIVALENTES)
+A37: Semaine | C37: 1 | D37: 2 | E37: 3 | F37: 4 | G37: 5 | H37: 6 | I37: 7 | J37: 8
+B38: 0 [formule : A3]
+B39: 0 [formule : A14]
+B40: 0 [formule : A25]
+A41: Capacité totale requise
+A42: Capacité totale disponible
+## xl/worksheets/sheet2.xml
+A1: PLANS FINAUX
+A2: Nom du produit | C2: Stock au départ | D2: Taille de lot | E2: UÉ | F2: Délai
+A3: 0 [formule : 'Plans préliminaires'!A3]
+A5: Semaine | C5: 1 | D5: 2 | E5: 3 | F5: 4 | G5: 5 | H5: 6 | I5: 7 | J5: 8
+A6: Prévisions
+A7: Commandes acceptées
+A8: Stock projeté | B8: 0 [formule : C3]
+A9: Stock disponible à la vente | B9: 0 [formule : C3]
+A10: Réception planifiée
+A11: Lancement planifié
+A13: Nom du produit | C13: Stock au départ | D13: Taille de lot | E13: UÉ | F13: Délai
+A14: 0 [formule : 'Plans préliminaires'!A14]
+A16: Semaine | C16: 1 | D16: 2 | E16: 3 | F16: 4 | G16: 5 | H16: 6 | I16: 7 | J16: 8
+A17: Prévisions
+A18: Commandes acceptées
+A19: Stock projeté | B19: 0 [formule : C14]
+A20: Stock disponible à la vente | B20: 0 [formule : C14]
+A21: Réception planifiée
+A22: Lancement planifié
+A24: Nom du produit | C24: Stock au départ | D24: Taille de lot | E24: UÉ | F24: Délai
+A25: 0 [formule : 'Plans préliminaires'!A25]
+A27: Semaine | C27: 1 | D27: 2 | E27: 3 | F27: 4 | G27: 5 | H27: 6 | I27: 7 | J27: 8
+A28: Prévisions
+A29: Commandes acceptées
+A30: Stock projeté | B30: 0 [formule : C25]
+A31: Stock disponible à la vente | B31: 0 [formule : C25]
+A32: Réception planifiée
+A33: Lancement planifié
+A35: PLANIFICATION SOMMAIRE DES CAPACITÉS (UNITÉS ÉQUIVALENTES)
+A37: Semaine | C37: 1 | D37: 2 | E37: 3 | F37: 4 | G37: 5 | H37: 6 | I37: 7 | J37: 8
+B38: 0 [formule : A3]
+B39: 0 [formule : A14]
+B40: 0 [formule : A25]
+A41: Capacité totale requise
+A42: Capacité totale disponible

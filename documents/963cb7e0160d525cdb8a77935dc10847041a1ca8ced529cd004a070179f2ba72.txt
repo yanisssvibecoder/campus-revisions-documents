@@ -1,0 +1,28 @@
+Errata du livre – 2e édition
+P. 142 – Meubles Ste-Marie inc.
+Dans le plan B aux mois de novembre et de décembre, le temps mort est de 28,625 et 10,613 respectivement. 
+P.152 – Les petits électroménagers
+Sous le tableau des ventes prévues, on devrait lire : « Le stock en début d’année sera de 2 000 unités équivalentes et on ne veut pas avoir de stock en fin d’année. 
+Chaque employé produit 250 unités équivalentes par mois. »
+P. 180 – Figure 5.7 (voir pages suivantes)
+P. 219 et 220 – L’entreprise Rollem
+Les commandes acceptées du produit Tout-Terrain à la semaine 6 sont de 800 et non de 8 000. La même erreur apparaît dans les tableaux des pages 219 et 220. 
+P. 387 – La brasserie Dieu du Monde
+À la question 6.3, on devrait lire : La capacité réelle calculée en 6.2… et à la question 6.4, on devrait lire « telle que définies en 6.3.
+P. 394 – La chaîne de production
+À la question 6.6, on devrait lire « S’il y a un écart avec votre réponse de la question 6.5… »
+P. 447 – Les vélos Lucky Mountain (A)
+La moyenne du mois d’août est de 2 436,3 et non 2 463,3.
+P. 457 – La banque des Laurentides
+La solution de la question 7.2 est la suivante :
+Ctc = (365 jours par année / 10 jours) × 47 $ = 1 715,50 $ 
+Qc moyenne commandée = 156 000 / 36,5 commandes = 4 273,97   
+Cte = (4 273,97 / 2) × 0,80 $ = 1 709,59 $
+Ct = 1 715,50 $ + 1 709,59 $ = 3 425,09 $
+P. 461 – Solution de l’exercice Roulex Inc.
+La note en bas du dernier tableau devrait se lire : « La production mensuelle est calculée en faisant la somme de la demande des six mois, moins le stock de début, plus le stock souhaité à la fin; le tout divisé par 6 ». 
+P. 483 – Solution de l’exercice La fraisage de la pièce 2630
+Les données masquées dans le tableau ci-dessous ne devraient pas faire partie du tableau de réponses de la page 483
+Figure 5.7 – Le plan des besoins matières pour les planches à roulettes
+PDP
+PBM

@@ -1,0 +1,6 @@
+Montant simple
+Annuité
+Perpétuité
+Perpétuité avec croissance (Gordon)
+Annuité avec croissance
+Conversion de taux	Tx effectif = Tx effectif

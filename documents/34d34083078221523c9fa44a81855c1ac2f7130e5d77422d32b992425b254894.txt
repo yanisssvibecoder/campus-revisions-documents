@@ -1,0 +1,13 @@
+2 | Description et objectifs de la séance
+
+Au cœur des systèmes d'information : des processus d'affaires
+Description
+Les systèmes d'information ne sont pas des entités isolées - ils existent pour soutenir et automatiser les activités concrètes de l'organisation. Étudier les processus d'affaires permet de comprendre comment le travail s'effectue réellement, en précisant les étapes, les acteurs impliqués et les flux d'information nécessaires.
+L'analyse des processus d'affaires existants permet de révéler les inefficacités et les goulots d'étranglement que les systèmes d'information peuvent corriger de même que les opportunités d'amélioration que les technologies numériques peuvent procurer.
+Enfin, les processus d'affaires reflètent la stratégie et les objectifs de l'organisation. En les étudiant, on s'assure que les solutions technologiques développées soutiennent véritablement les buts organisationnels plutôt que d'être des outils déconnectés des besoins réels.
+Important!
+La complétion du parcours d'apprentissage est cruciale pour votre apprentissage!
+Objectifs de la séance
+Distinguer les processus d'affaires d'une organisation, leurs interactions et leur rôle dans la transformation numérique
+Analyser la valeur ajoutée des activités d'un processus d'affaires
+Appliquer les symboles de base du BPMN à la lecture et à l'interprétation d'un processus modélisé

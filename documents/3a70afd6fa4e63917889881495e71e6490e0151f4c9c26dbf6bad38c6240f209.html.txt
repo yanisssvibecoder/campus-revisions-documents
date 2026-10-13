@@ -1,0 +1,1144 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Plan de révision — Quiz 1 Comptabilité de gestion (vendredi 9 oct.)</title>
+<style>
+  :root{
+    --bleu:#154e6f; --bleu2:#1f6f9c; --teal:#0e8f8f; --orange:#e67e22; --rouge:#c0392b;
+    --vert:#1e8449; --jaune:#f39c12; --gris:#f4f6f8; --gris2:#e5e9ee; --encre:#22303c;
+  }
+  *{box-sizing:border-box; margin:0; padding:0;}
+  body{font-family:'Segoe UI', system-ui, -apple-system, Arial, sans-serif; color:var(--encre); background:var(--gris); line-height:1.65;}
+  .wrap{max-width:980px; margin:0 auto; padding:14px;}
+  header.hero{background:linear-gradient(135deg,#0d3a54,#1f6f9c 60%,#0e8f8f); color:#fff; padding:34px 20px 26px; text-align:center;}
+  header.hero h1{font-size:1.9em; margin-bottom:6px;}
+  header.hero .sous{opacity:.92; font-size:1.05em;}
+  .badges{display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-top:14px;}
+  .badge{background:rgba(255,255,255,.16); border:1px solid rgba(255,255,255,.35); border-radius:20px; padding:4px 14px; font-size:.86em;}
+  .badge b{color:#ffd8a8;}
+  nav#menu{position:sticky; top:0; z-index:50; background:#0d3a54; box-shadow:0 2px 8px rgba(0,0,0,.25);}
+  nav#menu .in{max-width:980px; margin:0 auto; display:flex; gap:4px; overflow-x:auto; padding:8px 10px; flex-wrap:nowrap;}
+  nav#menu a{color:#cfe8f5; text-decoration:none; font-size:.82em; padding:5px 10px; border-radius:14px; white-space:nowrap;}
+  nav#menu a:hover, nav#menu a.actif{background:#1f6f9c; color:#fff;}
+  #barre-prog{position:sticky; top:40px; z-index:49; background:#fff; border-bottom:2px solid var(--gris2); padding:6px 14px; display:flex; align-items:center; gap:10px; font-size:.85em;}
+  #barre-prog .rail{flex:1; height:10px; background:var(--gris2); border-radius:6px; overflow:hidden;}
+  #barre-prog .fill{height:100%; width:0%; background:linear-gradient(90deg,var(--teal),var(--vert)); transition:width .4s;}
+  section{background:#fff; border-radius:14px; padding:26px 28px; margin:18px 0; box-shadow:0 1px 6px rgba(16,40,60,.08);}
+  section h2{color:var(--bleu); font-size:1.45em; padding-bottom:8px; border-bottom:3px solid var(--gris2); margin-bottom:16px;}
+  section h3{color:var(--bleu2); font-size:1.15em; margin:22px 0 8px;}
+  section h4{color:var(--teal); margin:16px 0 6px; font-size:1.02em;}
+  p{margin:8px 0;}
+  ul,ol{margin:8px 0 8px 24px;}
+  li{margin:4px 0;}
+  .encadre{background:#eef7f7; border-left:5px solid var(--teal); border-radius:0 10px 10px 0; padding:12px 16px; margin:12px 0;}
+  .attention{background:#fdf0e7; border-left:5px solid var(--orange);}
+  .danger{background:#fdecea; border-left:5px solid var(--rouge);}
+  .formule{background:#0d3a54; color:#eaf6ff; border-radius:10px; padding:14px 18px; margin:12px 0; font-size:1.12em; text-align:center; font-family:'Cambria Math',Georgia,serif;}
+  .formule small{display:block; color:#9fc6e0; font-size:.72em; margin-top:6px; font-family:'Segoe UI',sans-serif;}
+  .exemple{background:#f8fbfd; border:1px solid var(--gris2); border-radius:10px; padding:14px 16px; margin:12px 0;}
+  .exemple .titre-ex{font-weight:700; color:var(--bleu2); margin-bottom:6px;}
+  table{border-collapse:collapse; width:100%; margin:12px 0; font-size:.94em;}
+  th{background:var(--bleu); color:#fff; padding:8px 10px; text-align:left;}
+  td{border:1px solid var(--gris2); padding:7px 10px; vertical-align:top;}
+  tr:nth-child(even) td{background:#f7fafc;}
+  .rep{background:#eafaf1; border:2px solid var(--vert); border-radius:10px; padding:10px 14px; margin-top:8px; font-weight:600;}
+  .clic{cursor:pointer;}
+  button.reveler{background:var(--bleu2); color:#fff; border:none; border-radius:8px; padding:7px 16px; font-size:.9em; cursor:pointer; margin:6px 0;}
+  button.reveler:hover{background:var(--bleu);}
+  .cache{display:none;}
+  .qcm{background:#fffdf5; border:1px solid #f0dfae; border-radius:10px; padding:14px 16px; margin:14px 0;}
+  .qcm .q{font-weight:600; margin-bottom:8px;}
+  .qcm button.opt{display:block; width:100%; text-align:left; background:#fff; border:1.5px solid var(--gris2); border-radius:8px; padding:8px 12px; margin:5px 0; cursor:pointer; font-size:.95em;}
+  .qcm button.opt:hover{border-color:var(--bleu2); background:#f2f8fc;}
+  .qcm button.opt.bonne{background:#eafaf1; border-color:var(--vert); font-weight:600;}
+  .qcm button.opt.mauvaise{background:#fdecea; border-color:var(--rouge);}
+  .qcm .feedback{margin-top:8px; padding:9px 12px; border-radius:8px; display:none; font-size:.93em;}
+  .qcm .feedback.ok{display:block; background:#eafaf1; border:1px solid var(--vert);}
+  .qcm .feedback.ko{display:block; background:#fdecea; border:1px solid var(--rouge);}
+  #horaire table{font-size:.9em;}
+  #horaire td.heure{white-space:nowrap; font-weight:700; color:var(--bleu); width:120px;}
+  #horaire td.jour{white-space:nowrap; font-weight:700; color:#fff; background:var(--teal) !important; width:120px;}
+  tr.maintenant td{background:#fff8e1 !important; box-shadow:inset 4px 0 0 var(--orange);}
+  tr.passe td{opacity:.45;}
+  .cle{font-size:.8em; color:#777;}
+  .tache{display:flex; gap:9px; align-items:flex-start; padding:5px 0;}
+  .tache input[type=checkbox]{width:18px; height:18px; margin-top:3px; accent-color:var(--vert);}
+  .tache label{cursor:pointer;}
+  .num-exo{display:inline-block; background:var(--teal); color:#fff; border-radius:6px; padding:1px 8px; font-size:.78em; margin-right:6px;}
+  .retiens{background:#f4ecfb; border-left:5px solid #8e44ad; border-radius:0 10px 10px 0; padding:10px 14px; margin:12px 0;}
+  .retiens b{color:#6c3483;}
+  footer{color:#666; font-size:.85em; text-align:center; padding:22px 10px 30px;}
+  @media print{ nav#menu,#barre-prog,button{display:none;} section{box-shadow:none; border:1px solid #ccc;} }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <h1>🎯 Plan de révision — Quiz 1 de Comptabilité de gestion</h1>
+  <div class="sous">COMP10904 — Comptabilité de gestion · Séances 1 à 6 + TP1 · Prépare-toi comme si tu n'avais jamais vu la matière. Tout est ici.</div>
+  <div class="badges">
+    <span class="badge">📅 <b>Vendredi 9 octobre, 8h30</b> — séance 7, en classe</span>
+    <span class="badge">✅ <b>QCM</b> individuel, écrit sur papier</span>
+    <span class="badge">🤖 <b>IA générative INTERDITE</b></span>
+    <span class="badge">⚖️ <b>2 quiz = 10 %</b> de la note finale</span>
+    <span class="badge">💚 Le QCM est <b>plus gentil que les examens</b> (note officielle du plan de cours)</span>
+  </div>
+</header>
+
+<nav id="menu"><div class="in">
+  <a href="#horaire">⏰ Plan jour par jour</a>
+  <a href="#exercices">📚 Banque d'exercices</a>
+  <a href="#m1">🔧 1. Notions de coûts</a>
+  <a href="#m2">📊 2. Analyse CVR</a>
+  <a href="#m3">⚖️ 3. Analyse différentielle</a>
+  <a href="#m4">🏭 4. Marges &amp; production</a>
+  <a href="#m5">🧮 5. Imputation FGF</a>
+  <a href="#m6">📈 6. Performance</a>
+  <a href="#tp">✍️ 7. TP1 &amp; questions type</a>
+  <a href="#formules">📋 8. Formules à connaître</a>
+  <a href="#strategie">🎯 9. Stratégie &amp; erreurs</a>
+</div></nav>
+
+<div id="barre-prog"><span id="prog-txt">0 % complété</span><div class="rail"><div class="fill" id="prog-fill"></div></div></div>
+
+<div class="wrap">
+
+<!-- ══════════════════ 0. DÉPART ══════════════════ -->
+<section id="depart">
+  <h2>🚀 Départ : ce que tu dois savoir sur ce quiz</h2>
+  <div class="encadre">
+    <b>L'essentiel en 5 points</b> (source : plan de cours officiel + ZoneCours Canvas) :
+    <ol>
+      <li><b>Quand :</b> <b>vendredi 9 octobre 2026, 8h30</b>, pendant la séance 7 (à confirmer dans HEC en ligne). <b>Arrive en avance</b> — le quiz se passe en classe, sur papier.</li>
+      <li><b>Format :</b> <b>QCM individuel, écrit</b>. <b>IA générative interdite.</b> Note officielle du cours : « le type de question au quiz n'est pas représentatif du niveau de difficulté des examens » — autrement dit, <b>le QCM est plus gentil que l'intra</b>. Une occasion en or de ramasser des points.</li>
+      <li><b>Portée :</b> tout ce qui précède la matière de la séance 7 = <b>séances 1 à 6 + TP1</b> (notions de coûts, CVR, analyse différentielle, marges/plan de production, imputation, performance).</li>
+      <li><b>Pondération :</b> les <b>2 quiz = 10 %</b> (quiz 2 à la séance 12). Grille complète : Exercices formatifs 10 % · Quiz 10 % · <b>Examens 80 %</b> (intra le 20 oct.).</li>
+      <li><b>Pas de feuille de formules annoncée pour le quiz</b> → <a href="#formules">mémorise les formules</a> (module 8). Les calculs en QCM restent simples : c'est la reconnaissance du concept et le bon réflexe qui comptent.</li>
+    </ol>
+  </div>
+  <div class="attention"><b>⚠️ Ton meilleur entraînement QCM :</b> les <b>Révisions formatives S01 à S06</b> sur Canvas (Questionnaires → TESTS &amp; QUIZ). Elles valent 1 point chacune (10 % au total), se reprennent <b>à volonté jusqu'au 20 octobre</b>, et sont <b>exactement dans le format du quiz</b>. Fais-les et refais-les — c'est la seule banque de QCM officielle du cours.</div>
+  <h3>Comment utiliser ce plan (on a 10 jours)</h3>
+  <ul>
+    <li>Tu ne révises pas tout aujourd'hui : suis le <a href="#horaire">plan jour par jour</a> — un module de cours par jour + ses exercices, ~2-3h par jour, avec des pauses. Chaque bloc a une échéance.</li>
+    <li>Coche les tâches au fur et à mesure : ta progression est <b>sauvegardée automatiquement</b> dans le navigateur (localStorage).</li>
+    <li>Les <b>boutons « Révéler »</b> cachent les réponses des mini-exercices : essaie vraiment AVANT de cliquer.</li>
+    <li>Les <b>quiz QCM</b> en fin de module (38 questions au total) te disent si tu as compris. Refais-les à froid les jours suivants.</li>
+    <li>Chaque exemple chiffré est <b>tiré de tes notes de cours et exercices officiels</b> (Cercle Délices, le party, Étoile ltée, Nordet, Mme Bolduc, Électroflux, FLYREST, PizzaNord, Véliko, Vélos Devini…) : ce sont exactement les chiffres qui peuvent tomber au quiz.</li>
+  </ul>
+  <div class="encadre"><b>🧭 La carte du cours en une phrase :</b> S01 tu apprends à <b>classer les coûts</b> · S02 tu analyse comment le <b>volume</b> fait varier le résultat (CVR) · S03-S04 tu prends des <b>décisions</b> (commande spéciale, fabriquer/acheter, abandonner, prioriser) · S05 tu calcule le <b>coût et la marge brute par produit</b> (imputation) · S06 tu mesure la <b>performance</b> (RCI, RNR, tableau de bord). Six séances, une seule histoire : <b>produire la bonne info pour décider</b>.</div>
+</section>
+
+<!-- ══════════════════ HORAIRE / PLAN JOUR PAR JOUR ══════════════════ -->
+<section id="horaire">
+  <h2>⏰ Plan de révision sur 10 jours — mardi 29 sept. → vendredi 9 oct.</h2>
+  <p class="cle">Le bloc <b>surligné en orange</b> est celui en cours selon la date et l'heure de ton ordinateur. Les blocs passés deviennent pâles. <b>Chaque jour = ~2-3h réparties en blocs</b>, jamais de marathon : c'est la répétition espacée qui ancre, pas la douleur. Si tu sautes un jour, le plan « rattrapage » du mardi 6 et du mercredi 7 octobre est ta marge de sécurité.</p>
+  <div class="encadre"><b>⚡ LE PROTOCOLE POUR CHAQUE EXERCICE :</b> <b>1)</b> lis l'énoncé (lien direct dans la <a href="#exercices">banque d'exercices</a>) → <b>2)</b> tente le calcul <b>sans regarder la solution</b> (10-12 min max) → <b>3)</b> ouvre la solution, compare ligne par ligne, comprends l'écart, coche l'exercice. Le but n'est pas de tout réussir du premier coup : c'est de <b>toucher chaque type de problème avec correction immédiate</b>.</div>
+  <table id="tab-horaire">
+    <tr><th>Heure</th><th>Jour</th><th>Contenu &amp; échéance</th></tr>
+
+    <tr><td class="heure">19h30 – 22h00</td><td class="jour">MAR 29 sept.<br><small>(aujourd'hui)</small></td><td><div class="tache"><input type="checkbox" data-k="j1a" id="j1a"><label for="j1a"><b>Lancement + Module 1 (S01)</b> : lis ce plan en entier (10 min), puis le <a href="#m1">module 1 — notions de coûts</a> au complet (classifications, exemple GoPUR, l'avion, Cercle Délices). Termine par les 6 QCM du module. <b>Échéance : ce soir 22h00.</b></label></div></td></tr>
+    <tr><td class="heure">22h00 – 22h20</td><td class="jour">MAR 29 sept.</td><td><div class="tache"><input type="checkbox" data-k="j1b" id="j1b"><label for="j1b"><b>Formatif Canvas « Révision S01 »</b> (Questionnaires → TESTS &amp; QUIZ) — même format que le quiz. Reprenable à volonté : refais-le 100 %.</label></div></td></tr>
+
+    <tr><td class="heure">10h00 – 12h30</td><td class="jour">MER 30 sept.</td><td><div class="tache"><input type="checkbox" data-k="j2a" id="j2a"><label for="j2a"><b>Exercices S01</b> : <a href="ZoneCours/S01 - Exercice 11A.6 supp Cercle Delices (enonce+solution).docx">Cercle Délices (11A.6 supp)</a> au complet (classification + tableau + les 4 mises en situation) + exercice du livre <b>2A.1</b> (i+ en ligne). <b>Échéance : 12h30.</b></label></div></td></tr>
+    <tr><td class="heure">19h30 – 22h00</td><td class="jour">MER 30 sept.</td><td><div class="tache"><input type="checkbox" data-k="j2b" id="j2b"><label for="j2b"><b>Module 2 (S02) — théorie CVR complète</b> : <a href="#m2">marge sur coûts variables, point mort, marge de sécurité, résultat cible/potentiel, seuil d'indifférence, MCV pondérée</a> + l'exemple du party pas à pas + les 6 QCM. <b>C'est le cœur du quiz — ne le bâcle pas.</b> <b>Échéance : 22h00.</b></label></div></td></tr>
+
+    <tr><td class="heure">19h30 – 22h00</td><td class="jour">JEU 1er oct.</td><td><div class="tache"><input type="checkbox" data-k="j3a" id="j3a"><label for="j3a"><b>Exercices S02</b> : <a href="ZoneCours/S02 - Exercice CVR(CG).1 Etoile Ltee.docx">Étoile ltée (point mort, seuil d'indifférence, marge de sécurité)</a> → <a href="ZoneCours/S02 - Exercice CVR(CG).3 Nordet (plusieurs produits).docx">Nordet (multi-produits, MCV pondérée)</a> → <a href="ZoneCours/S02 - Exercice 11B.3 supp Jean et Jeannette (enonce-solution).docx">Jean et Jeannette (état des résultats en coûts complets)</a> + livre <b>11A.4</b> + formatif <b>Révision S02</b>. <b>Échéance : 22h00.</b></label></div></td></tr>
+
+    <tr><td class="heure">Matin 8h30</td><td class="jour">VEN 2 oct.</td><td><b>🎓 SÉANCE 6 EN CLASSE</b> (performance : RCI, RNR, tableau de bord) — la matière du quiz s'arrête aujourd'hui. Profite du cours : pose tes questions au prof, c'est la dernière séance avant le quiz.</td></tr>
+    <tr><td class="heure">20h00 – 21h00</td><td class="jour">VEN 2 oct.</td><td><div class="tache"><input type="checkbox" data-k="j4a" id="j4a"><label for="j4a"><b>Soirée légère (1h max)</b> : relis tes notes de la séance 6, puis parcours le <a href="#m6">module 6 du plan</a> pendant que c'est frais. Formatif <b>Révision S06</b> dès qu'il est ouvert sur Canvas.</label></div></td></tr>
+
+    <tr><td class="heure">10h00 – 12h30</td><td class="jour">SAM 3 oct.</td><td><div class="tache"><input type="checkbox" data-k="j5a" id="j5a"><label for="j5a"><b>Module 3 (S03) — coûts pertinents &amp; commande spéciale</b> : <a href="#m3">pertinents/évitables/irrécupérables, prix minimum, Mme Bolduc, PommeD'or</a> + 6 QCM. Pause, puis <b>fabriquer ou acheter</b> + <b>abandonner ou continuer</b> (ferme Deschamps). <b>Échéance : 12h30.</b></label></div></td></tr>
+    <tr><td class="heure">15h00 – 17h00</td><td class="jour">SAM 3 oct.</td><td><div class="tache"><input type="checkbox" data-k="j5b" id="j5b"><label for="j5b"><b>Exercices S03</b> : <a href="ZoneCours/S03 - Exercice Mme Bolduc.doc">Mme Bolduc</a> (refais-le seul) → <a href="ZoneCours/S03 - Exercice 12B.3 Ubois commande speciale.docx">Ubois 12B.3 (fait en classe — le refaire est ton meilleur test)</a> → <a href="ZoneCours/S03 - Exercices prises de decisions.docx">Prises de décisions (multi-mises en situation)</a> → <a href="ZoneCours/S03 - Exercice supp 12B.1 Soleil Brulant.docx">Soleil Brûlant 12B.1 (énoncé+solution)</a> + livre <b>12A.2</b> + formatif <b>Révision S03</b>.</label></div></td></tr>
+
+    <tr><td class="heure">10h00 – 12h30</td><td class="jour">DIM 4 oct.</td><td><div class="tache"><input type="checkbox" data-k="j6a" id="j6a"><label for="j6a"><b>Module 4 (S04) — marges &amp; plan de production</b> : <a href="#m4">marge sur coûts spécifiques, marge par facteur contraignant, plan optimal</a> (Électroflux pas à pas, FLYREST) + 6 QCM. <b>Échéance : 12h30.</b></label></div></td></tr>
+    <tr><td class="heure">15h00 – 16h30</td><td class="jour">DIM 4 oct.</td><td><div class="tache"><input type="checkbox" data-k="j6b" id="j6b"><label for="j6b"><b>Exercices S04</b> : <a href="ZoneCours/S04 - Exercice revision facteur contraignant (niveau facile).doc">Révision facteur contraignant (facile — commence par lui)</a> → <a href="ZoneCours/S04 - Exercice 10CG.1 FLYREST (enonce-solution).doc">FLYREST 10CG.1</a> → <a href="ZoneCours/S04 - Exercice 10B.1 Pub du plateau (enonce).docx">Pub du plateau 10B.1</a> (question 1 + question 2 avec la contrainte d'embouteillage) + livre <b>10B.3</b> + formatif <b>Révision S04</b>.</label></div></td></tr>
+
+    <tr><td class="heure">19h30 – 22h00</td><td class="jour">LUN 5 oct.</td><td><div class="tache"><input type="checkbox" data-k="j7a" id="j7a"><label for="j7a"><b>Module 5 (S05) — imputation des FGF</b> : <a href="#m5">centres de coûts, taux d'imputation, coût de fabrication unitaire, marge brute par produit</a> (PizzaNord pas à pas, Société du Mérite, Guerlain) + 6 QCM. <b>Échéance : 22h00.</b></label></div></td></tr>
+    <tr><td class="heure">22h00 – 22h30</td><td class="jour">LUN 5 oct.</td><td><div class="tache"><input type="checkbox" data-k="j7b" id="j7b"><label for="j7b"><b>Exercices S05</b> : <a href="ZoneCours/S05 - Exercice suggere 4CG.1 taux imputation.docx">4CG.1 (taux — niveau facile, fais-le d'abord)</a> + <a href="ZoneCours/S05 - Pratique calcul taux imputation.xlsx">Pratique taux (xlsx)</a>. Les gros (<a href="ZoneCours/S05 - Exercice suggere 4CG.2 imputation (solution par etapes).docx">4CG.2</a>, <a href="ZoneCours/S05 - Exercice application TOC imputation (enonce).docx">TOC</a>) : demain.</label></div></td></tr>
+
+    <tr><td class="heure">19h30 – 21h00</td><td class="jour">MAR 6 oct.</td><td><div class="tache"><input type="checkbox" data-k="j8a" id="j8a"><label for="j8a"><b>Fin des exercices S05</b> : <a href="ZoneCours/S05 - Exercice suggere 4CG.2 imputation (solution par etapes).docx">4CG.2 Société du Mérite (solution par étapes)</a> → <a href="ZoneCours/S05 - Exercice application TOC imputation (enonce).docx">TOC</a> + <a href="ZoneCours/S05 - Exercice TOC gabarit solution.xlsx">gabarit Excel de solution</a>. Formatif <b>Révision S05</b>. <b>Échéance : 21h00.</b></label></div></td></tr>
+    <tr><td class="heure">21h00 – 22h00</td><td class="jour">MAR 6 oct.</td><td><div class="tache"><input type="checkbox" data-k="j8b" id="j8b"><label for="j8b"><b>Cas Véliko (S06)</b> : <a href="ZoneCours/S06 - Cas Veliko solution trouee.doc">solution trouée</a> à compléter à la main, puis valide avec la <a href="ZoneCours/S06 - Cas Veliko solution.doc">solution complète</a> + livres <b>17A.2 et 17B.8</b>. (Partie B = après la séance 12 : ignore-la.)</label></div></td></tr>
+
+    <tr><td class="heure">19h30 – 22h00</td><td class="jour">MER 7 oct.</td><td><div class="tache"><input type="checkbox" data-k="j9a" id="j9a"><label for="j9a"><b>🔴 TP1 au complet + grande boucle blanche</b> : <a href="#tp">module 7 (Vélos Devini + Autobus Bégin, méthode + réponses vérifiées)</a>, puis refais les fichiers TP1 <b>sans les solutions</b>. Ensuite : <b>reprends les 6 formatifs Canvas S01-S06 d'affilée</b> et note chaque question ratée → va relire le module correspondant. <b>C'est ta répétition générale.</b></label></div></td></tr>
+
+    <tr><td class="heure">20h00 – 21h30</td><td class="jour">JEU 8 oct.<br><small>(veille — LÉGER)</small></td><td><div class="tache"><input type="checkbox" data-k="j10a" id="j10a"><label for="j10a"><b>Veille douce — 1h30 MAXIMUM, pas plus.</b> ① <a href="#formules">Feuille de formules</a> lue deux fois en entier. ② Les 38 QCM du plan refaits en éclair (ceux ratés ces derniers jours en priorité). ③ <a href="#strategie">Module 9 — les erreurs fatales</a> + checklist. ④ Tout prêt pour demain : carte étudiante, crayons, montre. <b>Au lit tôt : 8h de sommeil.</b></label></div></td></tr>
+
+    <tr><td class="heure">7h15 – 8h15</td><td class="jour">VEN 9 oct.<br><small>🎯 JOUR J</small></td><td><div class="tache"><input type="checkbox" data-k="j11a" id="j11a"><label for="j11a"><b>Matin du quiz</b> : ① 7h15 — réveil, déjeuner normal, eau. ② 7h45 — relis UNIQUEMENT la <a href="#formules">feuille de formules</a> + les <a href="#strategie">erreurs fatales</a> (rien de nouveau). ③ 8h00 — depart. <b>Arrive 8h15 : le quiz commence à 8h30.</b> Respire : le QCM est plus gentil que les examens, et tu as 10 jours de travail dans les jambes.</label></div></td></tr>
+  </table>
+  <div class="attention"><b>🔁 Si tu sautes un jour :</b> le mercredi 7 octobre est ton filet de sécurité — tout ce qui n'est pas coché s'y récupère. Priorité en cas de retard : <b>M2 (CVR) &gt; M3 (différentielle) &gt; M5 (imputation) &gt; M4 &gt; M1 &gt; M6</b> — les trois premiers sont les plus « calculables » et donc les plus bankables en QCM.</div>
+</section>
+<!-- ══════════════════ BANQUE D'EXERCICES ══════════════════ -->
+<section id="exercices">
+  <h2>📚 Banque d'exercices complète — tout ce qui existe pour ce quiz, cliquable</h2>
+  <p><b>Chaque ligne = un exercice officiel de la zone cours.</b> Clique pour ouvrir le fichier (tout est déjà dans ton dossier <code>Comptabilité de gestion\ZoneCours</code>). Les exercices du livre (i+) sont en ligne uniquement. Coche au fur et à mesure — la barre du haut suit ta progression.</p>
+  <div class="encadre">📖 <b>Règle d'or :</b> la mention <b>« solution incluse »</b> signifie que la solution est DANS le fichier (ou dans le gabarit Excel). Protocole : tente 10-12 min seul → solution → comprends l'écart → coche.</div>
+
+  <h3>Séance 1 — Notions de coûts</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S01 - Notes de cours - La notion de cout.pptx">📘 Notes de cours S01 (PPT)</a> · <a href="ZoneCours/S01 - Cheminement - comptabilite de gestion.pptx">📘 Cheminement du cours</a></p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s01f" id="e-s01f"></td><td>Révision S01 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b> (reprise à volonté jusqu'au 20 oct)</td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s01a" id="e-s01a"></td><td>Cercle Délices (11A.6 supp)</td><td><a href="ZoneCours/S01 - Exercice 11A.6 supp Cercle Delices (enonce+solution).docx">📄 énoncé+solution</a></td><td>Classification + résultat d'exploitation</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s01b" id="e-s01b"></td><td>2A.1</td><td>Livre i+ en ligne (code d'accès)</td><td>Terminologie des coûts</td></tr>
+  </table>
+
+  <h3>Séance 2 — Analyse coût-volume-résultat (CVR)</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S02 - Notes de cours - Analyse CVR.pptx">📘 Notes de cours S02 (PPT)</a></p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s02f" id="e-s02f"></td><td>Révision S02 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b></td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s02a" id="e-s02a"></td><td>CVR(CG).1 — L'Étoile ltée</td><td><a href="ZoneCours/S02 - Exercice CVR(CG).1 Etoile Ltee.docx">📄 énoncé+solution</a></td><td>Robotisation : point mort, seuil d'indifférence, marge de sécurité</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s02c" id="e-s02c"></td><td>CVR(CG).3 — Nordet</td><td><a href="ZoneCours/S02 - Exercice CVR(CG).3 Nordet (plusieurs produits).docx">📄 énoncé+solution</a></td><td>Multi-produits : MCV pondérée, résultat potentiel</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s02b" id="e-s02b"></td><td>Jean et Jeannette (11B.3 supp)</td><td><a href="ZoneCours/S02 - Exercice 11B.3 supp Jean et Jeannette (enonce-solution).docx">📄 énoncé-solution</a></td><td>État des résultats en coûts complets vs coûts variables</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s02d" id="e-s02d"></td><td>11A.4</td><td>Livre i+ en ligne</td><td>CVR</td></tr>
+  </table>
+
+  <h3>Séance 3 — Analyse différentielle (décisions d'exploitation)</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S03 - Notes de cours - Analyse differentielle.pptx">📘 Notes de cours S03 (PPT)</a></p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s03f" id="e-s03f"></td><td>Révision S03 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b></td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s03a" id="e-s03a"></td><td>Ubois (12B.3)</td><td><a href="ZoneCours/S03 - Exercice 12B.3 Ubois commande speciale.docx">📄 énoncé (fait en classe)</a></td><td>Commande spéciale : CV de la commande, paliers de CF, capacité</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s03b" id="e-s03b"></td><td>Mme Bolduc</td><td><a href="ZoneCours/S03 - Exercice Mme Bolduc.doc">📄 énoncé+solution</a></td><td>Commande spéciale (service, niveau facile) + coût de renonciation</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s03c" id="e-s03c"></td><td>Exercices prises de décisions</td><td><a href="ZoneCours/S03 - Exercices prises de decisions.docx">📄 document</a></td><td>Multi-mises en situation (toutes les décisions S03)</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s03d" id="e-s03d"></td><td>Soleil Brûlant (12B.1 supp)</td><td><a href="ZoneCours/S03 - Exercice supp 12B.1 Soleil Brulant.docx">📄 énoncé+solution</a></td><td>Commande spéciale</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s03e" id="e-s03e"></td><td>12A.2</td><td>Livre i+ en ligne</td><td>Analyse différentielle</td></tr>
+  </table>
+
+  <h3>Séance 4 — Marges et plan de production</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S04 - Notes de cours - Les marges et la prise de decision.pptx">📘 Notes de cours S04 (PPT)</a> · capsule vidéo YuJa sur la zone cours</p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s04f" id="e-s04f"></td><td>Révision S04 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b></td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s04a" id="e-s04a"></td><td>Pub du plateau (10B.1)</td><td><a href="ZoneCours/S04 - Exercice 10B.1 Pub du plateau (enonce).docx">📄 énoncé (utilisé en classe)</a></td><td>Analyse de marges + contrainte d'embouteillage</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s04b" id="e-s04b"></td><td>Révision facteur contraignant</td><td><a href="ZoneCours/S04 - Exercice revision facteur contraignant (niveau facile).doc">📄 énoncé+solution</a></td><td>Plan de production (niveau facile — parfait pour commencer)</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s04c" id="e-s04c"></td><td>FLYREST (10CG.1)</td><td><a href="ZoneCours/S04 - Exercice 10CG.1 FLYREST (enonce-solution).doc">📄 énoncé-solution</a></td><td>Plan optimal + augmentation de capacité</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s04d" id="e-s04d"></td><td>10B.3</td><td>Livre i+ en ligne</td><td>Marges</td></tr>
+  </table>
+
+  <h3>Séance 5 — Imputation des FGF et marge brute par produit</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S05 - Notes de cours - Marge brute par produit.pptx">📘 Notes de cours S05 (PPT)</a> · pas d'exercice du livre pour cette séance</p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s05f" id="e-s05f"></td><td>Révision S05 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b></td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s05a" id="e-s05a"></td><td>4CG.1 — taux d'imputation</td><td><a href="ZoneCours/S05 - Exercice suggere 4CG.1 taux imputation.docx">📄 énoncé+solution</a></td><td>3 hypothèses de base d'imputation (niveau facile)</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s05b" id="e-s05b"></td><td>Pratique calcul taux d'imputation</td><td><a href="ZoneCours/S05 - Pratique calcul taux imputation.xlsx">📊 xlsx</a></td><td>Drill de calcul de taux</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s05c" id="e-s05c"></td><td>4CG.2 — Société du Mérite</td><td><a href="ZoneCours/S05 - Exercice suggere 4CG.2 imputation (solution par etapes).docx">📄 solution par étapes</a></td><td>Choix de la base d'imputation + marge brute par produit</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s05d" id="e-s05d"></td><td>Exercice TOC (imputation)</td><td><a href="ZoneCours/S05 - Exercice application TOC imputation (enonce).docx">📄 énoncé</a> + <a href="ZoneCours/S05 - Exercice TOC gabarit solution.xlsx">📊 gabarit Excel solution</a></td><td>Application complète + capsules énoncé/solution commentées (zone cours)</td></tr>
+  </table>
+
+  <h3>Séance 6 — Mesure et évaluation de la performance</h3>
+  <p class="cle">Théorie : <a href="ZoneCours/S06 - Notes de cours - Evaluation de la performance.pptx">📘 Notes de cours S06 (PPT)</a></p>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier / lien</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-s06f" id="e-s06f"></td><td>Révision S06 <span class="num-exo">formatif</span></td><td>Canvas → Questionnaires → <b>TESTS &amp; QUIZ</b></td><td>QCM officiel — 1 pt</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s06a" id="e-s06a"></td><td>Cas Véliko — énoncé</td><td><a href="ZoneCours/S06 - Cas Veliko enonce.doc">📄 énoncé</a></td><td rowspan="3">RCI, choix de projets, primes, tableau de bord (partie A pour le quiz; partie B après la séance 12)</td></tr>
+    <tr><td><input type="checkbox" data-k="e-s06b" id="e-s06b"></td><td>Cas Véliko — solution trouée</td><td><a href="ZoneCours/S06 - Cas Veliko solution trouee.doc">📄 à compléter</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e-s06c" id="e-s06c"></td><td>Cas Véliko — solution</td><td><a href="ZoneCours/S06 - Cas Veliko solution.doc">📄 solution complète</a></td></tr>
+    <tr><td><input type="checkbox" data-k="e-s06d" id="e-s06d"></td><td>17A.2 · 17B.8</td><td>Livre i+ en ligne</td><td>RCI / RNR</td></tr>
+  </table>
+
+  <h3>TP1 (fait le mardi 22 sept. — les exercices étaient à faire AVANT la séance)</h3>
+  <table>
+    <tr><th>Fait</th><th>Exercice</th><th>Fichier</th><th>Thème</th></tr>
+    <tr><td><input type="checkbox" data-k="e-tp1a" id="e-tp1a"></td><td>Vélos Devini (11 SupC.4)</td><td><a href="ZoneCours/TP1 - Exercice Velos Devini 11SupC.4 (enonce).docx">📄 énoncé (+démarche de solution)</a></td><td>CVR complet : point mort, marge de sécurité, seuil d'indifférence</td></tr>
+    <tr><td><input type="checkbox" data-k="e-tp1b" id="e-tp1b"></td><td>Autobus Bégin (12 SupC.3)</td><td><a href="ZoneCours/TP1 - Exercice Autobus Begin 12SupC.3 (enonce).docx">📄 énoncé (+solution)</a></td><td>Commande spéciale + facteur contraignant multi-produits</td></tr>
+  </table>
+  <div class="tache"><input type="checkbox" data-k="e-conc" id="e-conc"><label for="e-conc"><b>Fichier bonus</b> : « (0) _10904_concordance termes.docx » (annonce du 1<sup>er</sup> sept. sur Canvas) — concordance des termes FR-EN utile si tu lis le manuel dans une des deux langues.</label></div>
+</section>
+
+<!-- ══════════════════ MODULE 1 : NOTIONS DE COÛTS (S01) ══════════════════ -->
+<section id="m1">
+  <h2>🔧 Module 1 — Séance 1 : La comptabilité de gestion et les notions de coûts</h2>
+  <p><b>Pourquoi ce module existe :</b> toute la compabilité de gestion (S02-S06) repose sur une seule habileté : <b>savoir classer un coût</b>. Variable ou fixe? Fabrication ou vente/admin? Direct ou indirect? Réponds à ces trois questions et le reste du cours devient mécanique.</p>
+
+  <h3>1.1 Comptabilité financière vs comptabilité de gestion (question théorique classique)</h3>
+  <table>
+    <tr><th></th><th>Comptabilité <b>financière</b></th><th>Comptabilité de <b>gestion</b> (ton cours)</th></tr>
+    <tr><td><b>Destinée à</b></td><td>Tiers externes (investisseurs, banques, impôts)</td><td>Gestionnaires <b>internes</b></td></tr>
+    <tr><td><b>Règles</b></td><td>Réglementée (IFRS/NCECF)</td><td>Flexible, sur mesure</td></tr>
+    <tr><td><b>Données</b></td><td>Financières, <b>historiques</b>, entité entière, exercice</td><td>Financières ET non financières, <b>prévisionnelles</b>, analytiques, cycle de vie</td></tr>
+    <tr><td><b>But</b></td><td>Informations fidèles et fiables</td><td>Informations <b>utiles et pertinentes à la prise de décision</b></td></tr>
+  </table>
+
+  <h3>1.2 Le coût et l'objet de coût</h3>
+  <div class="encadre"><b>Définitions du cours :</b> un <b>coût</b> = « la valeur totale des ressources engagées pour obtenir l'<b>objet de coût</b> ». Un <b>objet de coût</b> = ce dont on veut mesurer le coût <b>pour répondre à un besoin donné / prendre une décision</b> : un produit (Train à haute vitesse de Bombardier), un modèle (Learjet 45), un département (RH, ventes), une division (Aérospatiale), un segment géographique, un client, un service…</div>
+  <p><b>Types d'entreprises</b> (repérables au bilan) : <b>commerciale</b> (achète pour revendre — un seul stock), <b>manufacturière</b> (fabrique — <b>trois stocks</b> : matières premières, produits en cours, produits finis), <b>de service</b> (aucun stock de produits). Question piège parfaite en QCM : l'entreprise avec « stocks de MP + produits en cours + produits finis » est manufacturière.</p>
+
+  <h3>1.3 La classification manufacturière — où chaque coût va-t-il?</h3>
+  <table>
+    <tr><th>Catégorie</th><th>Définition simple</th><th>Exemples du cours</th></tr>
+    <tr><td><b>MP</b> — matières premières</td><td>Matériaux/pièces qui deviennent le produit</td><td>Pommes et bouteilles (jus GoPUR); farine et emballage (bagels — <b>l'emballage fait partie du produit → MP!</b>)</td></tr>
+    <tr><td><b>MOD</b> — main-d'œuvre directe</td><td>Employés qui <b>transforment</b> la MP en produit fini</td><td>Rouleurs de bagels; employés sur la chaîne de production</td></tr>
+    <tr><td><b>FGF</b> — frais généraux de fabrication</td><td>Tout le reste des coûts de l'<b>usine</b> (indirects)</td><td>Amortissement machinerie, entretien/réparation, loyer portion usine, <b>salaire des superviseurs</b>, électricité usine, fournitures</td></tr>
+    <tr><td><b>FVA</b> — frais de vente et d'administration</td><td>Coûts hors usine</td><td>Commissions des vendeurs, publicité, salaire du comptable, livraison</td></tr>
+  </table>
+  <div class="formule">Coût de fabrication = MP + MOD + FGF
+    <small>Les FVA ne sont JAMAIS dans le coût de fabrication (règle d'or en QCM)</small>
+  </div>
+  <div class="danger"><b>🚨 Les trois pièges de classement :</b> ① le <b>superviseur de production</b> n'est pas de la MOD — c'est de la main-d'œuvre <b>indirecte</b> → <b>FGF</b> (fixe). ② l'<b>emballage</b> intégré au produit = <b>MP</b>, pas frais de vente. ③ les <b>commissions et la livraison</b> = <b>FVA variables</b>, jamais des coûts de fabrication.</div>
+
+  <h3>1.4 La variabilité : fixes, variables, mixtes (cœur de tout le cours)</h3>
+  <div class="exemple"><div class="titre-ex">GoPUR (jus de pomme) — l'exemple des notes de cours : classer chaque coût</div>
+    <table>
+      <tr><th>Coût</th><th>4 000 unités</th><th>8 000 unités</th><th>Verdict</th></tr>
+      <tr><td>Pommes</td><td>10 000 $</td><td>20 000 $</td><td><b>Variable</b> (double avec le volume)</td></tr>
+      <tr><td>Salaire des superviseurs</td><td>5 500 $</td><td>5 500 $</td><td><b>Fixe</b> (ne bouge pas)</td></tr>
+      <tr><td>Électricité (éclairage + force motrice)</td><td>3 000 $</td><td>5 000 $</td><td><b>Mixte</b> (monte, mais pas du double)</td></tr>
+    </table>
+  </div>
+  <table>
+    <tr><th></th><th>Coût <b>total</b></th><th>Coût <b>unitaire</b></th></tr>
+    <tr><td><b>Coûts variables</b></td><td>Varie <b>proportionnellement</b> au volume</td><td><b>CONSTANT</b> (10 000/4 000 = 20 000/8 000 = 2,50 $)</td></tr>
+    <tr><td><b>Coûts fixes</b></td><td><b>CONSTANT</b> (dans le segment significatif)</td><td><b>Varie</b> inversement au volume (se dilue)</td></tr>
+  </table>
+  <div class="exemple"><div class="titre-ex">L'avion des notes de cours — 100 passagers → 200 passagers (coûts fixes 50 000 $, CV 30 $/passager)</div>
+    Coût total à 100 : 50 000 + 30×100 = <b>53 000 $</b> → coût moyen 530 $.<br>
+    À 200 : 50 000 + 30×200 = <b>56 000 $</b> → coût moyen <b>280 $</b>.<br>
+    → <b>CF total : 50 000 → 50 000 (inchangé)</b> · <b>CF unitaire : 500 → 250 (divisé par 2)</b> · <b>CV unitaire : 30 → 30 (inchangé)</b> · CV total : 3 000 → 6 000.
+    <div class="retiens"><b>À retenir :</b> quand le volume double, le coût MOYEN baisse uniquement parce que le coût fixe unitaire se dilue. Le coût variable unitaire, lui, ne change pas.</div>
+  </div>
+  <div class="exemple"><div class="titre-ex">ABC inc. (notes S01) — CV 1 $/u, CF 7,5 M$/an. Coût total et moyen à 15 M u, puis à 18 M u?</div>
+    À 15 M u : 7 500 000 + 1×15 000 000 = 22 500 000 $ → moyen = <b>1,50 $</b>.<br>
+    À 18 M u : 7 500 000 + 18 000 000 = 25 500 000 $ → moyen = 25,5 M ÷ 18 M = <b>≈ 1,42 $</b>.
+    <button class="reveler" data-cible="r1-1">👁 Révéler l'explication</button>
+    <div id="r1-1" class="cache rep">Le coût moyen diminue parce que les 7,5 M$ de coûts fixes se répartissent sur plus d'unités (0,50 $/u → 0,4167 $/u). Le coût variable unitaire reste 1 $. C'est le principe de <b>dilution des coûts fixes</b>.</div>
+  </div>
+  <div class="formule">Y = a + bX
+    <small>Y = coût total · a = coûts fixes · b = coût variable unitaire · X = volume — valable à l'intérieur du SEGMENT SIGNIFICATIF (la zone de volume plausible)</small>
+  </div>
+  <p><b>Coûts mixtes</b> : une partie fixe + une partie variable (ex. vendeur = base + commission; électricité = éclairage fixe + force motrice variable). Pour les séparer, le cours mentionne deux modèles : la <b>méthode des points extrêmes</b> (les 2 observations limites) et la <b>régression linéaire simple</b> (plus précise, utilise toutes les observations).</p>
+  <p><b>Coût total vs coût moyen vs coût marginal</b> : total = tout; moyen = total ÷ unités; <b>marginal = coût de la DERNIÈRE unité</b> (ex. des notes : stable à 50 $ pour les unités 5 001-5 004, puis bondit à 10 050 $ à l'unité 5 005 — nouveau palier de coûts fixes).</p>
+
+  <h3>1.5 Direct vs indirect (rappel S01, approfondi en S05)</h3>
+  <ul>
+    <li><b>Coût direct</b> : affecté <b>sans ambiguïté</b> à un objet de coût (ex. l'acier d'une voiture, la MOD sur la chaîne).</li>
+    <li><b>Coût indirect</b> : consommé par <b>plusieurs</b> objets de coût — il faut poser une <b>hypothèse de répartition</b> (ex. loyer de l'usine, superviseur, amortissement des machines). Les FGF sont indirects.</li>
+    <li>Attention : direct ≠ variable! Une machine dédiée à un seul produit = coût fixe <b>spécifique</b> mais <b>direct</b> pour ce produit.</li>
+  </ul>
+
+  <h3>Quiz éclair — Module 1</h3>
+  <div class="qcm" data-rep="c" data-ok="Le superviseur ne travaille pas directement sur le produit : main-d'œuvre INDIRECTE → FGF. Et son salaire ne varie pas avec le volume : fixe." data-ko="Il ne touche pas à la transformation du produit (donc pas MOD) et il travaille à l'usine (donc pas FVA).">
+    <div class="q">1. Dans une boulangerie industrielle, le salaire du superviseur de production est…</div>
+    <button class="opt" data-i="a">de la MOD (main-d'œuvre directe)</button>
+    <button class="opt" data-i="b">des FVA (vente/administration)</button>
+    <button class="opt" data-i="c">des FGF fixes</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Électricité passe de 3 000 $ à 5 000 $ quand le volume double : ni fixe (changerait pas), ni variable (serait 6 000 $). Une portion fixe (éclairage/chauffage) + une portion variable (force motrice) = mixte." data-ko="Relis l'exemple GoPUR : mixte = monte avec le volume, mais pas proportionnellement.">
+    <div class="q">2. (GoPUR) L'électricité coûte 3 000 $ pour 4 000 unités et 5 000 $ pour 8 000 unités. Ce coût est…</div>
+    <button class="opt" data-i="a">mixte</button>
+    <button class="opt" data-i="b">variable</button>
+    <button class="opt" data-i="c">fixe</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Coût fixe total constant (50 000 $) → le fixe unitaire passe de 500 $ à 250 $. Le variable unitaire reste 30 $." data-ko="C'est l'inverse qui est vrai : seul le fixe UNITAIRE change quand le volume change.">
+    <div class="q">3. (L'avion, 100 → 200 passagers) Quelle grandeur est divisée par deux quand le nombre de passagers double?</div>
+    <button class="opt" data-i="a">Le coût fixe unitaire</button>
+    <button class="opt" data-i="b">Le coût fixe total</button>
+    <button class="opt" data-i="c">Le coût variable unitaire</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Coûts variables = 56 000 − 16 000 = 40 000 $ → 10 $/u. Vendre à 11 $ > 10 $ : chaque unité rapporte 1 $ de plus. Le directeur a tort d'utiliser le coût MOYEN (14 $) qui contient les coûts fixes." data-ko="Refais le calcul : CV = coût total − coûts fixes = 56 000 − 16 000 = 40 000 $ pour 4 000 u = 10 $/u. Le prix de 11 $ couvre largement.">
+    <div class="q">4. (Exemple des notes S03) 4 000 unités vendues 20 $; coûts totaux 56 000 $ dont 16 000 $ fixes. Vendre 1 000 unités de plus à 11 $ est…</div>
+    <button class="opt" data-i="a">non rentable : 11 $ &lt; coût moyen de 14 $</button>
+    <button class="opt" data-i="b">rentable : le coût variable unitaire n'est que 10 $</button>
+    <button class="opt" data-i="c">impossible à évaluer avec ces données</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Cercle Délices : l'emballage fait partie intégrante du produit vendu → classé MP (variable) par la solution officielle." data-ko="L'emballage qui entre dans le produit vendu n'est pas un frais de vente : c'est un ingrédient du produit.">
+    <div class="q">5. (Cercle Délices) Les sacs de papier kraft et étiquettes dans lesquels les bagels sont vendus sont classés…</div>
+    <button class="opt" data-i="a">frais de vente variables (FVA)</button>
+    <button class="opt" data-i="b">FGF variables</button>
+    <button class="opt" data-i="c">matières premières (MP)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Prévisionnelle, analytique, flexible, utile à la décision interne : c'est la définition de la comptabilité de gestion." data-ko="Historique, réglementée, destinée aux tiers = comptabilité FINANCIÈRE.">
+    <div class="q">6. La comptabilité de gestion se distingue de la comptabilité financière parce qu'elle est…</div>
+    <button class="opt" data-i="a">prévisionnelle et utile à la prise de décision interne</button>
+    <button class="opt" data-i="b">réglementée et historique</button>
+    <button class="opt" data-i="c">destinée uniquement aux tiers externes</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 2 : CVR (S02) ══════════════════ -->
+<section id="m2">
+  <h2>📊 Module 2 — Séance 2 : L'analyse coût-volume-résultat (CVR)</h2>
+  <p><b>L'idée en une phrase :</b> l'analyse CVR mesure <b>l'effet des variations de coûts, de volume et de prix sur le résultat d'exploitation</b>. Elle repose entièrement sur la classification fixes/variables de la S01. C'est LA matière la plus calculable du quiz.</p>
+
+  <h3>2.1 L'équation du résultat (le socle de tout)</h3>
+  <div class="formule">Résultat d'exploitation = (MCV unitaire × Volume) − Coûts fixes totaux = MCV totale − Coûts fixes
+    <small>Ventes − (coûts variables + coûts fixes) · les coûts fixes ne changent JAMAIS avec le volume (dans le segment significatif)</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">L'exemple des notes de cours (1 produit) : PV 500 $; CVu = MP 185 + MOD 75 + FGF var 15 + FV var 25 = 300 $; CF = FGF fixes 60 000 + FVA fixes 160 000 = 220 000 $; volume 1 600 unités.</div>
+    MCV unitaire = 500 − 300 = <b>200 $</b> (taux = 200/500 = <b>40 %</b>).<br>
+    Ventes = 1 600 × 500 = 800 000 $ · MCV totale = 1 600 × 200 = 320 000 $ · Résultat = 320 000 − 220 000 = <b>100 000 $</b>.<br>
+    Vérification par l'équation : 500V = 300V + 220 000 + 0 → 200V = 220 000 → même base que le point mort.
+  </div>
+  <div class="attention"><b>⚠️ Les hypothèses de l'analyse CVR</b> (question théorique probable) : tous les coûts classables fixes OU variables · le volume reste <b>dans le segment significatif</b> · <b>les stocks restent constants</b> (tout ce qui est produit est vendu) · le <b>mix de ventes demeure constant</b> · le changement d'activité est le seul facteur qui affecte les coûts.</div>
+
+  <h3>2.2 Le point mort (seuil de rentabilité) — en unités et en dollars</h3>
+  <div class="formule">Point mort (unités) = Coûts fixes ÷ MCV unitaire &nbsp;&nbsp;·&nbsp;&nbsp; Point mort ($) = Coûts fixes ÷ MCV %
+    <small>MCV % = MCV unitaire ÷ prix de vente · Le point mort est le volume où le résultat = 0 $ (ni profit, ni perte)</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Le party des notes de cours (option 1) : billet 25 $, combo 20 $/personne, salle 400 $.</div>
+    MCV unitaire = 25 − 20 = <b>5 $</b> · Point mort = 400 ÷ 5 = <b>80 billets</b>.<br>
+    Option 2 (salle 1 000 $, combo 15 $) : MCV 10 $ → PM = 1 000 ÷ 10 = <b>100 billets</b>.
+  </div>
+  <div class="exemple"><div class="titre-ex">Point mort en dollars — exemple des notes : CF 220 000 $, MCV % = 40 % → PM = 220 000 ÷ 0,40 = 550 000 $.</div>
+    Vérif : en unités, PM = 220 000 ÷ 200 = 1 100 unités × 500 $ = 550 000 $. Les deux chemins donnent la même réponse.
+  </div>
+
+  <h3>2.3 Le résultat cible et le résultat potentiel</h3>
+  <div class="formule">Unités pour un résultat cible = (Coûts fixes + Résultat cible) ÷ MCV unitaire
+    <small>Résultat potentiel = (MCV unitaire × volume à PLEINE capacité) − coûts fixes : le résultat MAXIMUM espéré</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Le party : ① profit de 200 $ souhaité → (400 + 200) ÷ 5 = 120 billets. ② 150 personnes (max) → résultat = 150×5 − 400 = 350 $ (option 1) ou 150×10 − 1 000 = 500 $ (option 2).</div>
+    <button class="reveler" data-cible="r2-1">👁 Révéler la lecture</button>
+    <div id="r2-1" class="cache rep">Le « résultat potentiel » se calcule TOUJOURS à pleine capacité (150 personnes max ici). Si le résultat cible est exprimé <b>après impôts</b>, remonte d'abord à l'avant-impôt : cible avant impôt = cible après impôt ÷ (1 − taux d'imposition).</div>
+  </div>
+
+  <h3>2.4 La marge de sécurité</h3>
+  <div class="formule">Marge de sécurité = Ventes prévues (ou réelles) − Point mort
+    <small>En unités, en dollars, ou en % (MS ÷ ventes) : c'est la baisse de ventes que l'entreprise peut absorber sans perte</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Le party : 100 billets prévus, PM à 80 → MS = 20 billets (20 %). Option 2 : PM à 100 → MS = 0 billet : zéro marge d'erreur.</div>
+    <button class="reveler" data-cible="r2-2">👁 Révéler la lecture stratégique</button>
+    <div id="r2-2" class="cache rep">Plus la marge de sécurité (%) est élevée, moins le projet est risqué. Option 1 = plus sûr (MS 20 %), option 2 = plus payant au-delà de 120 personnes. C'est exactement le genre d'interprétation demandée en QCM.</div>
+  </div>
+
+  <h3>2.5 Le seuil d'indifférence (comparer deux structures de coûts)</h3>
+  <div class="formule">(MCV₁×V) − CF₁ = (MCV₂×V) − CF₂ &nbsp;⇒&nbsp; V* = (CF₁ − CF₂) ÷ (MCV₂ − MCV₁)
+    <small>Le volume où deux propositions donnent le MÊME résultat. Avant V* → la structure aux CF plus bas gagne; après V* → celle à la MCV plus élevée gagne.</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Le party : V* = (1 000 − 400) ÷ (10 − 5) = 600 ÷ 5 = 120 billets.</div>
+    À 120 billets : option 1 = 120×5 − 400 = 200 $; option 2 = 120×10 − 1 000 = 200 $. Identiques ✓.<br>
+    À 121 billets : option 2 gagne (210 $ vs 205 $ — chaque billet de plus rapporte 10 $ au lieu de 5 $).<br>
+    À 100 billets : option 1 gagne (100 $ vs 0 $).
+  </div>
+  <div class="exemple"><div class="titre-ex">L'Étoile ltée (exercice officiel S02, chiffres vérifiés) : PV 70 $; statu quo MCV 40 $, CF 450 000 $; robotisation MCV 55 $ (CV divisés par 2 : 30 → 15), CF 675 000 $.</div>
+    PM statu quo = 450 000 ÷ 40 = <b>11 250 u</b> · PM robotisé = 675 000 ÷ 55 = <b>≈ 12 273 u</b> (le PM se dégrade de 1 023 u).<br>
+    Seuil d'indifférence : 40V − 450 000 = 55V − 675 000 → 225 000 = 15V → <b>V* = 15 000 u</b>.<br>
+    Or l'entreprise vend exactement 15 000 u → les deux options donnent 150 000 $ de résultat → <b>indifférent quantitativement</b>.<br>
+    Marge de sécurité à 15 000 u : 3 750 u (<b>25 %</b>) vs 2 727 u (<b>18,2 %</b>) → la robotisation réduit la marge de sécurité = plus risqué.
+  </div>
+
+  <h3>2.6 Multi-produits : la MCV pondérée</h3>
+  <div class="formule">MCV pondérée = MCV totale de tous les produits ÷ Volume total
+    <small>NE PAS confondre avec la moyenne arithmétique (MCV₁+MCV₂+MCV₃)÷3 — la pondération tient compte de l'importance relative de chaque produit</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Tartes/gâteaux/biscuits (notes de cours) : volumes 1 000 / 600 / 2 000; MCV 3 $ / 20 $ / 1,50 $; CF = 3 500 FGF + 2 000 FVA = 5 500 $.</div>
+    MCV totale = 3 000 + 12 000 + 3 000 = 18 000 $ pour 3 600 unités → <b>MCV pondérée = 5,00 $</b> (PAS la moyenne (3+20+1,5)/3 = 8,17 $!).<br>
+    Point mort = 5 500 ÷ 5,00 = <b>1 100 unités</b> (au mix constant).
+    <button class="reveler" data-cible="r2-3">👁 Révéler le piège du mix</button>
+    <div id="r2-3" class="cache rep">Ce calcul suppose que le <b>mix de vente demeure constant</b> (hypothèse CVR). Si le mix change, la MCV pondérée change, et le point mort avec elle.</div>
+  </div>
+  <div class="exemple"><div class="titre-ex">Nordet (exercice officiel, chiffres vérifiés) : drapeaux 4 $×30 000 + casquettes 9 $×20 000 + capuchons 25 $×15 000 + maillots 52,50 $×10 000 = MCV totale 1 200 000 $; CF 900 000 $; capacité 100 000 u; résultat 300 000 $.</div>
+    MCV pondérée = 1 200 000 ÷ 75 000 = <b>16,00 $</b> · PM = 900 000 ÷ 16 = <b>56 250 unités</b> · MS = 75 000 − 56 250 = <b>18 750 u (25 %)</b>.<br>
+    Résultat potentiel = 16 × 100 000 − 900 000 = <b>700 000 $</b>.<br>
+    Astuce de la solution officielle : MCV totale = Résultat + CF = 300 000 + 900 000 = 1 200 000 $ (l'équation du résultat à l'envers!).
+  </div>
+
+  <h3>2.7 Les 3 décisions CVR types (questions des notes)</h3>
+  <ul>
+    <li><b>Rabais sur le PV de 10 %</b> (PV 800 $, CVu 300 $, CF 300 000) : MCV passe de 500 $ à 0,90×800 − 300 = 420 $ → PM passe de 600 u (480 000 $) à 300 000 ÷ 420 ≈ 715 u (≈ 514 300 $) → <b>le point mort se dégrade</b> (il faut vendre ~19 % d'unités en plus pour simplement ne rien perdre).</li>
+    <li><b>Hausse du coût des MP</b> (CVu 300 → 320 $, PV 800 $ inchangé, ventes 1 300 u) : MCV 500 → 480 $ → nouveau PM = 300 000 ÷ 480 = 625 u. Résultat actuel = 1 300×500 − 300 000 = 350 000 $; nouveau résultat = 1 300×480 − 300 000 = 324 000 $. Pour maintenir 350 000 $ : (300 000 + 350 000) ÷ 480 = <b>1 354,2 → ≈ 1 355 unités</b> (≈ 55 unités additionnelles).</li>
+    <li><b>Investissement machine</b> (nouvelle machine : CF +125 000 $, économie MOD 50 $/u) : c'est un seuil d'indifférence déguisé — 125 000 ÷ 50 = <b>2 500 unités</b> : au-delà de 2 500 u, la machine gagne. Si la demande prévue est de 3 000 u &gt; 2 500 → <b>acheter la machine</b>.</li>
+  </ul>
+
+  <h3>Quiz éclair — Module 2</h3>
+  <div class="qcm" data-rep="a" data-ok="Frais de vente variables = 112 500 × 40 % = 45 000 $ pour 15 000 tables = 3 $/u. MCV = 50 − 6 − 8 − 1 − 3 = 32 $." data-ko="Tu as probablement oublié la portion variable des frais de vente : 40 % de 112 500 $ = 45 000 $ ÷ 15 000 u = 3 $/u.">
+    <div class="q">1. (XYZ, notes de cours) Tables à 50 $; MP 6 $; MOD 8 $; FGF var 1 $; frais de vente totaux 112 500 $ (40 % variables) pour 15 000 unités. MCV unitaire?</div>
+    <button class="opt" data-i="a">32 $</button>
+    <button class="opt" data-i="b">35 $</button>
+    <button class="opt" data-i="c">29 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="PM = CF ÷ MCVu = 400 ÷ 5 = 80 billets." data-ko="Il faut diviser les coûts fixes par la MCV unitaire (5 $), pas par le prix (25 $).">
+    <div class="q">2. (Party option 1 : billet 25 $, combo 20 $, salle 400 $) Point mort?</div>
+    <button class="opt" data-i="a">80 billets</button>
+    <button class="opt" data-i="b">100 billets</button>
+    <button class="opt" data-i="c">16 billets</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="PM$ = CF ÷ MCV% = 220 000 ÷ 0,40 = 550 000 $ (équivalent à 1 100 unités × 500 $)." data-ko="Soit tu as divisé par la MCV unitaire sans multiplier par le prix, soit tu as confondu CF et MCV totale.">
+    <div class="q">3. CF 220 000 $; PV 500 $; CVu 300 $. Point mort en dollars de ventes?</div>
+    <button class="opt" data-i="a">440 000 $</button>
+    <button class="opt" data-i="b">1 100 $</button>
+    <button class="opt" data-i="c">550 000 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="(CF + cible) ÷ MCVu = (400 + 200) ÷ 5 = 120 billets." data-ko="La cible s'ajoute AUX coûts fixes au numérateur avant de diviser par la MCV.">
+    <div class="q">4. (Party option 1) Combien de billets pour dégager exactement 200 $ de profit?</div>
+    <button class="opt" data-i="a">48 billets</button>
+    <button class="opt" data-i="b">120 billets</button>
+    <button class="opt" data-i="c">140 billets</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="V* = (1 000 − 400) ÷ (10 − 5) = 120 billets. À 150 &gt; 120, l'option 2 (MCV 10 $) rapporte plus : 500 $ vs 350 $." data-ko="Vérifie le seuil : 120 billets. En bas de 120 → option 1; en haut → option 2. À 150, c'est l'option 2 qui gagne.">
+    <div class="q">5. (Party) Seuil d'indifférence entre les deux salles, et choix si 150 personnes viennent?</div>
+    <button class="opt" data-i="a">100 billets → option 1</button>
+    <button class="opt" data-i="b">120 billets → option 1 même à 150 personnes</button>
+    <button class="opt" data-i="c">120 billets → option 2 (résultat 500 $ vs 350 $)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="MCV pondérée = (1 000×3 + 600×20 + 2 000×1,50) ÷ 3 600 = 18 000 ÷ 3 600 = 5,00 $. La moyenne arithmétique (8,17 $) ignore le mix — erreur classique." data-ko="Tu as fait la moyenne arithmétique (3+20+1,5)÷3. La pondération passe par les MCV TOTALES de chaque produit.">
+    <div class="q">6. (Tartes/gâteaux/biscuits) La MCV pondérée est de…</div>
+    <button class="opt" data-i="a">5,00 $</button>
+    <button class="opt" data-i="b">8,17 $</button>
+    <button class="opt" data-i="c">3,00 $</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 3 : ANALYSE DIFFÉRENTIELLE (S03) ══════════════════ -->
+<section id="m3">
+  <h2>⚖️ Module 3 — Séance 3 : L'analyse différentielle et les coûts pertinents</h2>
+  <p><b>L'idée en une phrase :</b> pour décider (accepter une commande, fabriquer ou acheter, abandonner un produit), on ne compare PAS tout : on ne regarde que ce qui <b>change</b> entre les options. « Différentiel » = la différence entre deux propositions.</p>
+
+  <h3>3.1 Coûts pertinents vs non pertinents (la base de TOUT)</h3>
+  <table>
+    <tr><th></th><th>Définition</th><th>Exemples</th></tr>
+    <tr><td><b>PERTINENTS</b></td><td>Coûts <b>futurs</b> qui <b>diffèrent</b> d'une proposition à l'autre</td><td>CV de la commande, <b>coûts fixes spécifiques</b> ajoutés, <b>coût de renonciation</b></td></tr>
+    <tr><td><b>NON pertinents</b></td><td>Identiques quelle que soit l'alternative → on les ignore</td><td><b>Coûts irrécupérables (sunk)</b>, <b>coûts fixes communs</b></td></tr>
+  </table>
+  <div class="danger"><b>🚨 Le coût irrécupérable (sunk cost) — l'erreur fatale #1 du quiz :</b> décision passée, irrévocable, <b>JAMAIS pertinente</b>. Exemple des notes : 600 000 $ d'études déjà engagées sur un projet; terminer coûte 900 000 $ de plus et rapporte 1 300 000 $. On compare 1 300 000 vs 900 000 → <b>+400 000 $ → on termine</b>, peu importe le million déjà dépensé. (Exemples types : stock désuet, immobilisation qu'on remplace, R&amp;D déjà encourue.)</div>
+  <div class="encadre"><b>Coûts fixes spécifiques vs communs :</b> <b>spécifique</b> = associé à UN objet de coût, il <b>disparaît si l'objet disparaît</b> (ex. amortissement de l'équipement utilisé uniquement pour le produit Z, équipement d'hiver de la ferme Deschamps) → PERTINENT. <b>Commun</b> = partagé par plusieurs objets (amortissement du bâtiment, taxes, chauffage, salaire du directeur d'usine) → reste même si on arrête un produit → NON pertinent.</div>
+  <div class="encadre"><b>Le coût de renonciation (opportunity cost) :</b> le <b>manque à gagner</b> de la meilleure option à laquelle on renonce. <b>Toujours pertinent</b>. Pas de déboursé, aucune transaction — mais il se calcule comme un vrai coût (ex. : la machine qui peut faire le produit A ou B; choisir A = renoncer à la marge de B).</div>
+
+  <h3>3.2 La commande spéciale — la recette en 4 étapes</h3>
+  <div class="retiens"><b>La recette officielle :</b> ① <b>Analyse de capacité</b> (peut-on produire les unités additionnelles?) → ② <b>MCV de la commande</b> (PV offert − CV <b>de la commande</b>, qui peuvent différer des commandes régulières) → ③ soustraire <b>coûts fixes spécifiques</b> et <b>coût de renonciation</b> → ④ <b>résultat différentiel</b> = impact sur le résultat (+ on accepte, − on refuse) + arguments qualitatifs.</div>
+  <div class="formule">Résultat différentiel = MCV totale de la commande − Coûts fixes spécifiques − Coût de renonciation
+    <small>Prix de vente MINIMUM = (CV de la commande + CF spécifiques + coût de renonciation) ÷ unités de la commande — le prix qui donne un impact de 0 $</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">PommeD'or (retour S03/S04 des notes) : 200 000 ours/an à 45 $; CV 12 $; un grossiste veut 8 000 ours à 20 $, frais de livraison supplémentaires 1,25 $/ours; capacité disponible.</div>
+    MCV de la commande = (20 − 12 − 1,25) × 8 000 = 6,75 × 8 000 = <b>+54 000 $ → accepter</b>.
+    <button class="reveler" data-cible="r3-1">👁 Révéler pourquoi c'est un piège</button>
+    <div id="r3-1" class="cache rep">Le prix (20 $) est bien inférieur au prix courant (45 $) et même au « coût total » (12 + 9 = 21 $) — mais les 9 $ de coûts fixes sont déjà payés (communs) : seuls les CV (12 + 1,25) comptent. <b>Ne JAMAIS utiliser le coût complet unitaire pour juger une commande spéciale.</b></div>
+  </div>
+  <div class="exemple"><div class="titre-ex">Mme Bolduc — Hôtel Dominic (exercice officiel, chiffres vérifiés) : 100 chambres, 80 % d'occupation habituelle, PV 100 $/jour, entretien 35 $/jour louée. Gosselin offre 25 chambres à 80 $/jour.</div>
+    <b>① Capacité :</b> 80 + 25 = 105 &gt; 100 → <b>déficit de 5 chambres</b> → il faudra refuser 5 clients réguliers (coût de renonciation!).<br>
+    <b>② MCV congrès :</b> (80 − 35) × 25 = 45 × 25 = 1 125 $.<br>
+    <b>③ Renonciation :</b> 5 × (100 − 35) = 5 × 65 = <b>325 $</b>.<br>
+    <b>④ Résultat différentiel = 1 125 − 325 = +800 $ → accepter</b> (puis peser les facteurs qualitatifs : clients réguliers déçus, qualité du service, futur congrès…).
+  </div>
+  <div class="exemple"><div class="titre-ex">Ubois (12B.3, fait en classe) — les 3 subtilités de l'énoncé à retenir :</div>
+    ① Le <b>rabais de 4 $ sur le matériel de recouvrement</b> ne s'applique QU'AUX unités de la commande → CVu recouvrement = 16 − 4 = 12 $.<br>
+    ② La <b>commission de 10 % ne s'applique pas</b> à la commande spéciale → frais de vente variables = 0 $.<br>
+    CVu de la commande = bois 15 + rembourrure 3 + recouvrement 12 + MOD 36 + FGF var 5 = <b>71 $</b> (vs 75 $ + commission pour les régulières).<br>
+    ③ Les <b>paliers de coûts fixes</b> : 24 000 u produites + 9 000 u commandées = 33 000 u &gt; 30 000 → CF passent de 840 000 $ à 1 080 000 $ (palier suivant) → +240 000 $ de CF <b>spécifiques</b> déclenchés par la commande. Ça change tout le calcul du prix minimum!
+  </div>
+
+  <h3>3.3 Fabriquer ou acheter (sous-traiter)</h3>
+  <div class="exemple"><div class="titre-ex">ABC pédales (notes de cours, chiffres vérifiés) : fabriquer 50 000 pédales coûte MP 125 000 + MOD 62 500 + FGF var 87 500 + FGF fixes (dont 25 000 spécifiques à la machine des pédales, 150 000 communs) = 450 000 $ (9 $/u). Le fournisseur offre 7,75 $/u.</div>
+    <b>Coûts pertinents de FABRIQUER</b> = 125 000 + 62 500 + 87 500 + 25 000 (spécifiques) = <b>300 000 $</b> — les 150 000 $ communs sont payés de toute façon.<br>
+    <b>Coût pertinent d'ACHETER</b> = 7,75 × 50 000 = <b>387 500 $</b>.<br>
+    Sans autre opportunité : fabriquer économise <b>87 500 $</b>.<br>
+    <b>Avec le produit L900</b> (si on achète, la capacité libérée rapporte +100 000 $ de résultat) : fabriquer coûte 300 000 + 100 000 (renonciation, car la machine est occupée) = <b>400 000 $</b> vs acheter 387 500 $ → <b>acheter</b>, économie nette de <b>12 500 $</b>. La solution officielle aboutit au même 12 500 $.
+    <button class="reveler" data-cible="r3-2">👁 Révéler la morale</button>
+    <div id="r3-2" class="cache rep">Le coût de renonciation se place du côté de l'option qui <b>occupe la ressource</b> (fabriquer). Dès qu'une capacité libérée a de la valeur, la décision peut basculer. Facteurs qualitatifs ensuite : qualité du fournisseur, délais de livraison, dépendance…</div>
+  </div>
+
+  <h3>3.4 Continuer ou abandonner un produit</h3>
+  <div class="formule">Marge sur coûts spécifiques = MCV totale − Coûts fixes spécifiques
+    <small>Si elle est POSITIVE, le produit contribue à payer les coûts fixes communs → on le GARDE, même s'il montre une « perte » à l'état des résultats complets</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Ferme Deschamps (notes S03/S04, chiffres vérifiés) : l'hiver affiche une perte de 31 000 $. Ventes hiver 130 000; CV 105 000; équipement hiver (spécifique) 12 000; bâtiment 20 000 et tracteurs 24 000 = communs été/hiver.</div>
+    MCV hiver = 130 000 − 105 000 = 25 000 $ − CF spécifiques 12 000 = <b>marge sur coûts spécifiques +13 000 $</b> → <b>continuer le déneigement</b>. Abandonner l'hiver ferait perdre 13 000 $ de couverture des coûts communs.
+  </div>
+  <div class="exemple"><div class="titre-ex">Produit X (notes) : ventes 32 000; CV 24 000; CF totales 12 000 (dont 3 900 spécifiques) → perte affichée 4 000 $. Faut-il l'abandonner?</div>
+    <button class="reveler" data-cible="r3-3">👁 Révéler l'analyse</button>
+    <div id="r3-3" class="cache rep">MCV = 8 000 $; CF spécifiques = 3 900 $ → marge sur coûts spécifiques = <b>+4 100 $</b>. Si on abandonne : on perd 8 000 $ de MCV mais on n'économise que 3 900 $ → le résultat global chute de 4 100 $ (19 000 → 14 900). <b>On garde le produit X</b> — sa « perte » vient des coûts fixes communs qu'on lui a arbitrairement répartis.</div>
+  </div>
+  <div class="attention"><b>⚠️ Facteurs qualitatifs (toujours demandés)</b> : effet sur les employés restants, lien du produit avec les ventes d'autres produits, possibilité de récupérer les ventes perdues, qualité, fournisseurs, trésorerie, image… Une bonne réponse en cite 2-3 LIÉS AU CAS, pas une liste générique.</div>
+
+  <h3>Quiz éclair — Module 3</h3>
+  <div class="qcm" data-rep="a" data-ok="600 000 $ déjà engagés = irrécupérables → on les ignore. Comparer 1 300 000 $ de revenus aux 900 000 $ restants → +400 000 $ → terminer." data-ko="Les 600 000 $ du passé ne peuvent pas être « récupérés » en terminant : c'est un sunk cost, hors de l'analyse.">
+    <div class="q">1. Projet : 600 000 $ déjà dépensés en études; 900 000 $ pour terminer; revenus prévus 1 300 000 $. On…</div>
+    <button class="opt" data-i="a">termine : gain différentiel de 400 000 $</button>
+    <button class="opt" data-i="b">abandonne : 1 300 000 &lt; 600 000 + 900 000</button>
+    <button class="opt" data-i="c">est indifférent</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="(20 − 12 − 1,25) × 8 000 = +54 000 $. Les 9 $ de coûts fixes par ours sont communs → ignorés." data-ko="Le coût fixe unitaire (9 $) ne doit PAS être déduit : il est déjà couvert, identique qu'on accepte ou non.">
+    <div class="q">2. (PommeD'or) Résultat différentiel de la commande de 8 000 ours à 20 $ (CV 12 $, livraison 1,25 $, capacité disponible)?</div>
+    <button class="opt" data-i="a">−8 000 $ (prix &lt; coût total unitaire de 21 $)</button>
+    <button class="opt" data-i="b">+160 000 $</button>
+    <button class="opt" data-i="c">+54 000 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Coût de renonciation = 5 chambres × MCV régulière (100 − 35 = 65 $) = 325 $." data-ko="On renonce à des chambres RÉGULIÈRES : leur marge est de 65 $ (100 − 35), pas 45 $.">
+    <div class="q">3. (Mme Bolduc) Le coût de renonciation vaut…</div>
+    <button class="opt" data-i="a">325 $ (5 × 65 $)</button>
+    <button class="opt" data-i="b">225 $ (5 × 45 $)</button>
+    <button class="opt" data-i="c">0 $ (l'hôtel a assez de chambres)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Fabriquer 300 000 + renonciation 100 000 = 400 000 $ vs acheter 387 500 $ → acheter, économie de 12 500 $." data-ko="Sans le L900, fabriquer gagne (300 000 vs 387 500). Mais la capacité libérée vaut 100 000 $ — le coût de renonciation bascule la décision.">
+    <div class="q">4. (ABC pédales) AVEC la possibilité de produire le L900 (+100 000 $ de résultat si la capacité est libérée), que fait-on?</div>
+    <button class="opt" data-i="a">Fabriquer : économie de 87 500 $</button>
+    <button class="opt" data-i="b">Acheter : économie nette de 12 500 $</button>
+    <button class="opt" data-i="c">Acheter : économie de 112 000 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="MCV hiver 25 000 $ − CF spécifiques (équipement hiver 12 000 $) = +13 000 $ : l'hiver aide à payer le bâtiment et les tracteurs → continuer." data-ko="La perte de 31 000 $ mélange les coûts fixes COMMUNS (bâtiment, tracteurs) qui resteraient à payer quand même.">
+    <div class="q">5. (Ferme Deschamps) Faut-il abandonner le déneigement l'hiver?</div>
+    <button class="opt" data-i="a">Non : marge sur coûts spécifiques de +13 000 $</button>
+    <button class="opt" data-i="b">Oui : l'hiver perd 31 000 $</button>
+    <button class="opt" data-i="c">Oui : les coûts fixes de l'hiver sont évitables en totalité</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Un coût fixe commun est identique entre les deux options → jamais pertinent. (Irrécupérable non plus, mais c'est un concept différent : passé vs partagé.)" data-ko="Spécifique = disparaît avec l'objet → pertinent. Renonciation = manque à gagner → pertinent. Seul le commun reste quoi qu'on décide.">
+    <div class="q">6. Dans une commande spéciale, quel élément n'entre JAMAIS dans le calcul du résultat différentiel?</div>
+    <button class="opt" data-i="a">Les coûts fixes spécifiques déclenchés par la commande</button>
+    <button class="opt" data-i="b">Le coût de renonciation sur les ventes régulières</button>
+    <button class="opt" data-i="c">La quote-part des coûts fixes communs de l'usine</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 4 : MARGES & PLAN DE PRODUCTION (S04) ══════════════════ -->
+<section id="m4">
+  <h2>🏭 Module 4 — Séance 4 : Marges et plan de production optimal</h2>
+  <p><b>L'idée en une phrase :</b> quand une ressource est <b>limitée</b> (heures de MOD, heures-machines, capacité), on ne peut pas tout produire — il faut <b>prioriser les produits qui rapportent le plus PAR UNITÉ DE RESSOURCE LIMITÉE</b>, pas ceux qui ont la plus grosse marge unitaire.</p>
+
+  <h3>4.1 La marge sur coûts spécifiques (rappel structurant)</h3>
+  <div class="formule">Marge sur coûts spécifiques = MCV totale − Coûts fixes spécifiques
+    <small>Elle mesure la contribution d'un objet de coût à la couverture des coûts fixes COMMUNS et au résultat. (Dans le manuel, on l'appelle « marge nette ».)</small>
+  </div>
+  <div class="retiens"><b>La colonne vertébrale du cours (à mémoriser) :</b> Ventes − CV = <b>MCV</b> ; MCV − coûts fixes SPÉCIFIQUES = <b>marge sur coûts spécifiques</b> ; − coûts fixes COMMUNS = résultat d'exploitation. Et <b>coûts directs = coûts variables + coûts fixes spécifiques</b>.</div>
+
+  <h3>4.2 Le facteur contraignant et la marge par facteur</h3>
+  <div class="formule">MCV par facteur de production = MCV unitaire ÷ nombre d'unités du facteur requises par produit
+    <small>Facteur contraignant = la ressource limitée (heures de MOD, heures-machines, kg de MP…). On PRIORISE le produit à la plus grande MCV par unité de facteur.</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Électroflux (notes de cours, chiffres vérifiés) : néons (MCV 150 $, 2 h MOD/boîte, demande 41 000) et ampoules (MCV 120 $, 1 h MOD/boîte, demande 164 000). 240 000 h MOD disponibles; besoin total = 41 000×2 + 164 000×1 = 246 000 h → manque 6 000 h.</div>
+    MCV par heure : néons 150 ÷ 2 = <b>75 $/h</b> · ampoules 120 ÷ 1 = <b>120 $/h</b> → <b>prioriser les ampoules</b>.<br>
+    <b>Le piège du contrôleur :</b> il propose de couper les ampoules (MCV unitaire 120 $ &lt; 150 $) — <b>FAUX</b> : par heure, les ampoules rapportent 120 $ vs 75 $.<br>
+    <b>Plan optimal :</b> ampoules au max (164 000 boîtes = 164 000 h) → reste 240 000 − 164 000 = 76 000 h → néons = 76 000 ÷ 2 = <b>38 000 boîtes</b> (3 000 boîtes de néons sacrifiées = exactement les 6 000 h manquantes ÷ 2 h).
+  </div>
+  <div class="exemple"><div class="titre-ex">Révision facteur contraignant (exercice officiel « niveau facile », chiffres vérifiés) : X (MCV 8 $, 1 h), Y (MCV 18 $, 3 h), Z (MCV 14 $, 2 h); demandes 6 000 / 5 200 / 5 000; MOD limitée à 30 000 h.</div>
+    MCV/heure : X = <b>8 $</b> · Y = <b>6 $</b> · Z = <b>7 $</b> → ordre <b>X (1<sup>er</sup>) → Z (2<sup>e</sup>) → Y (3<sup>e</sup>)</b> — même si Y a la plus grosse MCV unitaire!<br>
+    Besoin total : 6 000 + 15 600 + 10 000 = 31 600 h &gt; 30 000 h → déficit 1 600 h.<br>
+    Plan optimal : X 6 000 u (6 000 h) + Z 5 000 u (10 000 h) → reste 14 000 h pour Y = 14 000 ÷ 3 = <b>4 666 unités de Y</b>.
+  </div>
+  <div class="exemple"><div class="titre-ex">FLYREST (exercice officiel, chiffres vérifiés) : TIR (PV 100, CV 78, MCV 22 $, 1,0 hm/u, demande 50 000) et BAH (PV 70, CV 56,50, MCV 13,50 $, 0,5 hm/u, demande 150 000). Capacité 100 000 hm.</div>
+    Besoin : 50 000 + 75 000 = 125 000 hm &gt; 100 000 → manque 25 000 hm.<br>
+    MCV/hm : TIR 22 ÷ 1,0 = <b>22 $/hm</b> · BAH 13,50 ÷ 0,5 = <b>27 $/hm</b> → <b>BAH prioritaire</b> (pourtant TIR a le résultat unitaire ET la MCV les plus élevés!).<br>
+    Plan optimal : <b>BAH 150 000 u</b> (75 000 hm) + <b>TIR 25 000 u</b> (25 000 hm restantes).<br>
+    Bonus (question b) : louer un équipement (+300 000 $ CF, +25 000 hm, MOD −2 $/h sur ces unités) → MCV additionnelle 25 000×22 = 550 000 + économie MOD 50 000 − 300 000 = <b>+300 000 $ → rentable</b>.
+  </div>
+  <div class="danger"><b>🚨 La règle des 3 étapes (toujours la même) :</b> ① <b>Analyse de capacité</b> : besoin (demande × facteur/u) vs disponible → déficit? ② <b>MCV par unité de facteur</b> pour classer les produits ③ <b>Plan optimal</b> : produire au max les priorités, le produit le moins rentable/heure absorbe la coupe. Si AUCUN facteur n'est limité → produire au maximum de la DEMANDE de chaque produit.</div>
+
+  <h3>4.3 Multi-produits + renonciation (lien S03-S04)</h3>
+  <p>Quand une commande spéciale dépasse la capacité <b>avec plusieurs produits</b>, on renonce d'abord aux produits à la <b>plus petite MCV par facteur contraignant</b> (ou à la plus faible marge sur coûts spécifiques). C'est exactement la logique de l'Autobus Bégin (TP1, <a href="#tp">module 7</a>) : la pénurie de MOD <b>spécialisée</b> force à choisir entre Touriste, Deluxe et Voyageur.</p>
+
+  <h3>Quiz éclair — Module 4</h3>
+  <div class="qcm" data-rep="b" data-ok="Néons 150÷2 = 75 $/h vs ampoules 120÷1 = 120 $/h → les ampoules rapportent le plus PAR HEURE : on les priorise." data-ko="La MCV UNITAIRE (150 vs 120) trompe : ce qui compte est la marge PAR HEURE DE MOD, la ressource limitée.">
+    <div class="q">1. (Électroflux) Quel produit prioriser quand la MOD manque?</div>
+    <button class="opt" data-i="a">Les néons (MCV unitaire 150 $)</button>
+    <button class="opt" data-i="b">Les ampoules (120 $ par heure de MOD)</button>
+    <button class="opt" data-i="c">Les deux à parts égales</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Ampoules au max : 164 000 h. Reste 240 000 − 164 000 = 76 000 h ÷ 2 h = 38 000 néons (3 000 sacrifiés)." data-ko="Reprends la capacité : après les 164 000 ampoules (1 h chacune), il reste 76 000 h pour les néons à 2 h la boîte.">
+    <div class="q">2. (Électroflux) Plan de production optimal?</div>
+    <button class="opt" data-i="a">41 000 néons + 158 000 ampoules</button>
+    <button class="opt" data-i="b">38 000 néons + 152 000 ampoules</button>
+    <button class="opt" data-i="c">38 000 néons + 164 000 ampoules</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="MCV/hm : BAH 13,50 ÷ 0,5 = 27 $ vs TIR 22 ÷ 1,0 = 22 $ → BAH d'abord, même si sa MCV unitaire est plus petite." data-ko="Compare les marges PAR HEURE-MACHINE, pas par unité.">
+    <div class="q">3. (FLYREST) Quel modèle prioriser?</div>
+    <button class="opt" data-i="a">BAH (27 $/hm)</button>
+    <button class="opt" data-i="b">TIR (MCV unitaire 22 $)</button>
+    <button class="opt" data-i="c">TIR (résultat unitaire 6,00 $)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="BAH au max (150 000 u = 75 000 hm) puis 25 000 hm restantes ÷ 1,0 hm = 25 000 TIR." data-ko="Le produit prioritaire est toujours produit à son maximum de DEMANDE avant de passer au suivant.">
+    <div class="q">4. (FLYREST) Plan optimal?</div>
+    <button class="opt" data-i="a">50 000 TIR + 75 000 BAH</button>
+    <button class="opt" data-i="b">150 000 BAH + 25 000 TIR</button>
+    <button class="opt" data-i="c">50 000 TIR + 150 000 BAH (il suffit d'embaucher)</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="MCV/heure : X = 8, Z = 7, Y = 6 → X, puis Z, puis Y (4 666 unités de Y avec les 14 000 h restantes)." data-ko="Classe par MCV/heure : 8 (X) &gt; 7 (Z) &gt; 6 (Y). La plus grosse MCV unitaire (Y, 18 $) est produite en DERNIER.">
+    <div class="q">5. (Révision facteur contraignant) Ordre de priorité de production?</div>
+    <button class="opt" data-i="a">Y → Z → X</button>
+    <button class="opt" data-i="b">X → Y → Z</button>
+    <button class="opt" data-i="c">X → Z → Y</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="MCV totale − coûts fixes spécifiques : c'est la contribution de l'objet de coût à la couverture des coûts fixes communs et au résultat." data-ko="Ni la MCV (on n'a pas encore ôté les CF spécifiques), ni le résultat (on n'a pas encore ôté les CF communs).">
+    <div class="q">6. La marge sur coûts spécifiques se calcule…</div>
+    <button class="opt" data-i="a">Ventes − coûts variables − coûts fixes totaux</button>
+    <button class="opt" data-i="b">MCV totale − coûts fixes spécifiques</button>
+    <button class="opt" data-i="c">MCV unitaire ÷ heures de MOD</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 5 : IMPUTATION (S05) ══════════════════ -->
+<section id="m5">
+  <h2>🧮 Module 5 — Séance 5 : Imputation des FGF et marge brute par produit</h2>
+  <p><b>Le problème à résoudre :</b> MP et MOD se rajoutent facilement à un produit (coûts <b>directs</b>). Mais les <b>FGF</b> (loyer, amortissement, superviseur…) sont <b>indirects</b> — partagés par tous les produits. Comment répartir 10 000 $ de FGF entre des pâtes fraîches et des pizzas? Réponse : <b>l'imputation</b>, à l'aide d'un taux et d'une base.</p>
+
+  <h3>5.1 Les 4 étapes officielles</h3>
+  <div class="retiens"><b>Étape 1 :</b> choisir une <b>base d'imputation</b> commune aux produits (unités, heures de MOD, heures-machines, coût de MOD, nombre de composants…) · <b>Étape 2 :</b> calculer le <b>taux d'imputation</b> · <b>Étape 3 :</b> répartir les FGF aux produits (taux × volume de base par unité) · <b>Étape 4 :</b> coût de fabrication unitaire = MP + MOD + FGF imputés.</div>
+  <div class="formule">Taux d'imputation = FGF totaux (du centre de coûts) ÷ Volume total de la base d'imputation (du centre)
+    <small>FGF imputés par unité = taux × quantité de base requise par unité (ex. taux $/hmod × 0,15 hmod/u)</small>
+  </div>
+  <div class="formule">Coût de fabrication unitaire = MP + MOD + FGF imputés &nbsp;&nbsp;·&nbsp;&nbsp; Marge brute = Prix de vente − Coût de fabrication
+    <small>JAMAIS de frais de vente/administration dans la marge brute — ils sont après</small>
+  </div>
+
+  <h3>5.2 Un produit d'abord (simple) : PizzaNord 1 produit</h3>
+  <div class="exemple"><div class="titre-ex">PizzaNord (notes de cours) : 5 000 pâtes à 6,00 $. MP = farine 0,70 + levure 0,20 + emballage 0,30 = 1,20 $ · MOD = 0,05 h × 20 $/h = 1,00 $ · FGF variables 0,40 + 0,20 = 0,60 $ · FGF fixes = amortissement 2 500 + superviseur 2 000 + loyer usine 1 500 = 6 000 $.</div>
+    FGF fixes imputés = 6 000 ÷ 5 000 u = <b>1,20 $/u</b> → FGF totaux unitaires = 0,60 + 1,20 = 1,80 $.<br>
+    <b>Coût de fabrication = 1,20 + 1,00 + 1,80 = 4,00 $</b> → <b>marge brute = 6,00 − 4,00 = 2,00 $</b>.<br>
+    (La commission 5 % = 0,30 $ et la livraison 0,30 $ sont des FVA : hors du coût de fabrication. La marge sur coûts variables serait 6,00 − 1,20 − 1,00 − 0,60 − 0,60 = 2,60 $.)
+  </div>
+
+  <h3>5.3 L'imputation par centres de coûts : PizzaNord 3 produits (l'exemple ROI de la séance)</h3>
+  <p><b>Centre de coûts</b> = un lieu physique où se déroulent des activités (usine, atelier, département…). Chaque produit qui <b>passe</b> par un centre doit absorber sa juste part des coûts du centre → <b>un taux d'imputation PAR centre</b>, avec la base qui a du sens pour ce centre.</p>
+  <div class="exemple"><div class="titre-ex">PizzaNord 3 produits (chiffres officiels vérifiés) — 3 ateliers : A1 Préparation (manuel, 4 700 $, base heures-MOD), A2 Fabrication (automatisé, 4 125 $, base heures-machines), A3 Emballage (1 175 $, base unités). Volumes : pâtes 4 000 u (200 hmod), margarita 3 000 u (450 hmod, 750 hm), toute-garnie 3 000 u (525 hmod, 900 hm).</div>
+    <b>Taux :</b> A1 = 4 700 ÷ (200+450+525 = 1 175 hmod) = <b>4,00 $/hmod</b> · A2 = 4 125 ÷ (750+900 = 1 650 hm) = <b>2,50 $/hm</b> · A3 = 1 175 ÷ 10 000 u = <b>0,1175 $/u</b>.<br>
+    <b>FGF imputés/unité :</b> pâtes = 4×0,05 + 0 + 0,1175 = <b>0,3175 $</b> · margarita = 4×0,15 + 2,50×0,25 + 0,1175 = <b>1,3425 $</b> · toute-garnie = 4×0,175 + 2,50×0,30 + 0,1175 = <b>1,5675 $</b>.<br>
+    <b>Marges brutes :</b> pâtes = 6,00 − (1,50+1,00+0,3175) = <b>3,18 $</b> · margarita = 12,00 − 8,3425 = <b>3,66 $</b> · toute-garnie = 14,00 − 10,0675 = <b>3,93 $</b>.<br>
+    <b>Leçon officielle :</b> répartis « selon les unités », les pâtes montraient 2,50 $ de marge brute; par centres, 3,18 $ — les pâtes ne passent PAS par la machine à pizza (A2) : elles absorbaient une part injuste de FGF. <b>Plusieurs centres = répartition plus juste quand les processus diffèrent.</b>
+  </div>
+
+  <h3>5.4 Choisir la base : les critères (question théorique probable)</h3>
+  <ul>
+    <li><b>Base commune</b> à tous les produits du centre (indispensable).</li>
+    <li><b>Un seul produit</b>, ou plusieurs produits qui consomment les ressources de façon <b>similaire</b> → base = <b>nombre d'unités</b>.</li>
+    <li><b>Produits qui consomment différemment</b> (gâteaux vs biscuits : cuisson différente) → heures-machines, heures de MOD… selon le <b>déclencheur de coûts</b>.</li>
+    <li><b>Processus automatisé</b> → heures-machines (l'amortissement/entretien des machines suit leur utilisation); <b>processus manuel</b> → heures de MOD.</li>
+    <li>Analyser la <b>liste des FGF</b> : qu'est-ce qui déclenche le plus de charges?</li>
+  </ul>
+  <div class="exemple"><div class="titre-ex">4CG.1 (exercice officiel, chiffres vérifiés) : 9 000 000 $ de FGF; produit P (100 000 u, MOD 50 $/u, 2 composants) et Q (200 000 u, MOD 100 $/u, 3 composants). Trois bases testées :</div>
+    Selon le coût de MOD : 9 M ÷ (5 M + 20 M) = <b>0,36 $ par 1 $ de MOD</b> → P : 1,8 M$ · Q : 7,2 M$.<br>
+    Selon les unités : 9 M ÷ 300 000 u = <b>30 $/u</b> → P : 3 M$ · Q : 6 M$.<br>
+    Selon les composants : 9 M ÷ (200 000 + 600 000) = <b>11,25 $/composant</b> → P : 2,25 M$ · Q : 6,75 M$.<br>
+    <b>Leçon officielle : le TOTAL imputé (9 M$) est toujours le même — seule la RÉPARTITION entre produits change</b>, et avec elle les coûts, les marges, les prix… et les décisions.
+  </div>
+  <div class="exemple"><div class="titre-ex">Société du Mérite / 4CG.2 (chiffres officiels vérifiés) : FGF = 1 232 000 $ (dont 144 000 $ = 80 % des assurances/taxes/entretien du bâtiment à l'usine; les 20 % bureaux sont exclus). Standard : 0,2 hm/u, 0,25 hmod/u; De luxe : 0,4 hm/u, 2,2 hmod/u.</div>
+    Base heures-machines : 1 232 000 ÷ (24 000 + 20 000 = 44 000 hm) = <b>28,00 $/hm</b> → FGF Standard 5,60 $, De luxe 11,20 $ → coût de fabrication 18,10 $ vs 55,75 $ → <b>marge brute 3,90 $ (17,7 %) vs 14,25 $ (20,4 %)</b>.<br>
+    Base heures-MOD : 1 232 000 ÷ (30 000 + 110 000 = 140 000 h) = <b>8,80 $/hmod</b> → FGF 2,20 $ vs 19,36 $ → marges brutes <b>7,30 $ (33,2 %) vs 6,09 $ (8,7 %)</b>.<br>
+    <b>Même entreprise, mêmes ventes (6 140 000 $), même marge brute TOTALE (1 180 500 $) — mais le portrait par produit est complètement inversé!</b> La base recommandée : la majorité des FGF sont déclenchés par la MOD → heures de MOD.
+  </div>
+  <div class="exemple"><div class="titre-ex">Guerlain / produit Abeille (notes de cours, chiffres vérifiés) : FGF totaux 2 275 000 $. Avec UN taux (base hmod, 11 375 h) : taux = 200 $/hmod → Abeille (2,5 h) absorbe 500 $ → marge brute 3 000 − 100 − 150 − 500 = <b>2 250 $ (75 %)</b>. Avec DEUX centres (A1 automatisé 1 950 000 $ ÷ 1 300 hm = 1 500 $/hm — Abeille n'y passe pas; A2 manuel 325 000 $ ÷ 6 500 hmod = 50 $/h × 2,5 h = 125 $) → marge brute <b>2 625 $ (≈ 88 %)</b>. La méthode traditionnelle unique <b>surchargeait</b> le produit fait main.</div>
+  </div>
+
+  <h3>5.5 Les limites de la méthode traditionnelle (théorie)</h3>
+  <ul>
+    <li>Plus la <b>proportion de charges indirectes est importante</b>, plus le risque de <b>biais</b> est grand (ex. des notes : FGF = 85 % des coûts → la répartition TOUT déforme).</li>
+    <li>Une <b>base unique</b> quand les produits consomment différemment → coûts biaisés → mauvaises décisions (prix de vente, rentabilité, abandon erroné d'un produit).</li>
+    <li>Le coût complet (avec FGF imputés) sert à la <b>rentabilité par produit</b> (marge brute) et à l'<b>évaluation des stocks</b> — PAS aux décisions court terme (S02-S04 utilisent la MCV).</li>
+    <li>Frais de vente et d'administration : <b>interdits</b> dans l'évaluation des stocks; on peut les imputer pour un coût de revient complet à des fins de gestion.</li>
+    <li>Le taux d'imputation utilise des FGF <b>budgétés</b> et une base <b>budgétée</b>; si le volume réel diffère du budgété, il y a sous/sur-imputation (surtout développé à la S08 — sache juste reconnaître le terme).</li>
+  </ul>
+
+  <h3>Quiz éclair — Module 5</h3>
+  <div class="qcm" data-rep="b" data-ok="A1 = 4 700 $ ÷ 1 175 hmod totales = 4,00 $/hmod." data-ko="Divise les FGF du centre par le VOLUME TOTAL de sa base (1 175 hmod), pas par autre chose.">
+    <div class="q">1. (PizzaNord) Le taux d'imputation de l'atelier 1 Préparation (4 700 $, base hmod; total 1 175 hmod)?</div>
+    <button class="opt" data-i="a">2,35 $/hmod</button>
+    <button class="opt" data-i="b">4,00 $/hmod</button>
+    <button class="opt" data-i="c">0,1175 $/hmod</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="9 000 000 ÷ 300 000 unités = 30 $ par unité assemblée." data-ko="Hypothèse 2 = base « unités assemblées » : 300 000 unités au total (100 000 P + 200 000 Q).">
+    <div class="q">2. (4CG.1) Taux d'imputation selon le nombre d'unités assemblées?</div>
+    <button class="opt" data-i="a">11,25 $/unité</button>
+    <button class="opt" data-i="b">45 $/unité</button>
+    <button class="opt" data-i="c">30 $/unité</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Le total des FGF imputés est toujours le même (9 M$); seule la répartition entre P et Q change — mais ça suffit à changer les marges et les décisions." data-ko="Le total ne change jamais : c'est toute la subtilité de l'exercice officiel 4CG.1.">
+    <div class="q">3. (4CG.1) Quand on passe d'une base d'imputation à l'autre, qu'est-ce qui change?</div>
+    <button class="opt" data-i="a">Seule la répartition des FGF entre produits change</button>
+    <button class="opt" data-i="b">Le total des FGF imputés change</button>
+    <button class="opt" data-i="c">Les coûts directs (MP, MOD) changent aussi</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="FGF 0,3175 $ → coût 2,8175 $ → marge brute = 6,00 − 2,8175 = 3,18 $. (2,50 $ était le résultat avec la répartition uniforme par unités.)" data-ko="3,18 $ = imputation par centres (les pâtes ne passent pas par la machine à pizza). 2,50 $ = ancienne méthode.">
+    <div class="q">4. (PizzaNord 3 produits) Marge brute unitaire des pâtes fraîches avec l'imputation par centres?</div>
+    <button class="opt" data-i="a">2,50 $</button>
+    <button class="opt" data-i="b">3,18 $</button>
+    <button class="opt" data-i="c">4,00 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="Atelier automatisé → les FGF (amortissement, entretien des machines) suivent l'utilisation des machines → heures-machines." data-ko="Un atelier automatisé consomme des heures-MACHINES, peu de MOD : la base doit suivre le déclencheur de coûts.">
+    <div class="q">5. Pour un centre de coûts dont le processus est entièrement AUTOMATISÉ, la base d'imputation la plus logique est…</div>
+    <button class="opt" data-i="a">les heures-machines</button>
+    <button class="opt" data-i="b">les heures de main-d'œuvre directe</button>
+    <button class="opt" data-i="c">le nombre de composants</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="MP + MOD + FGF imputés = coût de fabrication. Les frais de vente et d'administration sont HORS du coût de fabrication (et interdits dans les stocks)." data-ko="Le coût de fabrication ne contient que des coûts d'USINE : MP, MOD, FGF.">
+    <div class="q">6. Le coût de fabrication unitaire comprend…</div>
+    <button class="opt" data-i="a">MP + MOD + FGF + frais de vente variables</button>
+    <button class="opt" data-i="b">Coûts variables seulement</button>
+    <button class="opt" data-i="c">MP + MOD + FGF imputés</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+<!-- ══════════════════ MODULE 6 : PERFORMANCE (S06) ══════════════════ -->
+<section id="m6">
+  <h2>📈 Module 6 — Séance 6 : Mesure et évaluation de la performance</h2>
+  <p><b>L'idée en une phrase :</b> une fois les décisions prises, il faut <b>mesurer</b> si les gestionnaires et les unités performent — avec des indicateurs financiers (RCI, RNR) ET non financiers (tableau de bord), et en distinguant la performance <b>du dirigeant</b> de celle de <b>l'organisation</b>.</p>
+
+  <h3>6.1 La performance est multidimensionnelle</h3>
+  <ul>
+    <li>La performance n'est pas que financière : respect de l'environnement, capacité à innover, satisfaction de la clientèle…</li>
+    <li><b>Indicateurs financiers</b> (coûts, revenus, rentabilité — ex. analyse des écarts, RCI) : renseignent sur la performance <b>PASSÉE</b>.</li>
+    <li><b>Indicateurs non financiers</b> (taux de satisfaction clientèle, % de capacité utilisée, taux de rétention…) : éclairent la performance <b>FUTURE</b>. Question de quiz ultra-classique.</li>
+    <li>Pourquoi mesurer? Faire connaître la stratégie et coordonner · décider et améliorer (allouer aux entités à potentiel) · <b>inciter</b> les employés (rémunérer la performance) · <b>contrôler</b> (comparer les entités).</li>
+  </ul>
+
+  <h3>6.2 Décentralisation et centres de responsabilité</h3>
+  <p><b>Décentralisation</b> = déléguer un degré d'autonomie décisionnelle à des subdivisions (centres de responsabilité). <b>Avantages :</b> décisions plus rapides, meilleure réponse aux besoins locaux, motivation des cadres. <b>Désavantages :</b> dédoublement de tâches, perte d'économies d'échelle, <b>perte de contrôle</b> (plus risqué), absence de coordination, objectifs des directeurs ≠ objectifs de l'entreprise.</p>
+  <table>
+    <tr><th>Centre de…</th><th>Le gestionnaire contrôle</th><th>Objectif</th><th>Exemple du cours</th></tr>
+    <tr><td><b>coûts</b></td><td>Les coûts seulement</td><td>Contrôler les coûts</td><td>Département de production ou de service</td></tr>
+    <tr><td><b>revenus</b></td><td>Les revenus seulement</td><td>Maximiser les revenus</td><td>Département des ventes</td></tr>
+    <tr><td><b>profit</b></td><td>Revenus ET coûts</td><td>Maximiser les profits</td><td>Département des bijoux de la Baie d'Hudson</td></tr>
+    <tr><td><b>investissement</b></td><td>Revenus + coûts + <b>investissements</b></td><td>Maximiser profits ET rendement des investissements</td><td>Lignes de produits de General Mills</td></tr>
+  </table>
+
+  <h3>6.3 Le RCI — rendement sur capital investi ⭐</h3>
+  <div class="formule">RCI = Résultat d'exploitation ÷ Capital investi
+    <small>Définitions DU COURS 10904 : résultat net = résultat d'EXPLOITATION (avant impôts et frais financiers) · capital investi = ACTIF UTILISÉ (actifs générant des revenus). Ne mélange pas avec ventes÷actif ou résultat net après impôt!</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Division beauté de B&amp;G (notes de cours, chiffres vérifiés) : ventes 2 000 000 $; MCV 45 % = 900 000 $; CF spécifiques 300 000 $ → résultat d'exploitation 600 000 $; capital investi 5 000 000 $.</div>
+    RCI = 600 000 ÷ 5 000 000 = <b>12 %</b> — le gestionnaire génère 12 ¢ de résultat par dollar d'actif utilisé.
+  </div>
+  <div class="retiens"><b>Trois leviers pour améliorer le RCI :</b> ① <b>accroître les revenus</b> (ex. nouvelle campagne) ② <b>réduire les coûts/dépenses</b> ③ <b>réduire le capital investi</b> (actif utilisé). — <b>Avantages du RCI :</b> données accessibles, tient compte des investissements (pas juste le résultat), permet de comparer des placements. <b>Inconvénient clé :</b> ignore le <b>taux de rendement minimal requis</b> (coût du capital) → c'est pour ça qu'existe le RNR.</div>
+
+  <h3>6.4 Le RNR — résultat net résiduel ⭐</h3>
+  <div class="formule">RNR = Résultat net (d'exploitation) − (Taux de rendement minimal requis × Capital investi)
+    <small>Le RNR est un MONTANT EN $ (pas un %). Positif = l'entité dépasse le résultat exigé (profit au-delà des « intérêts fictifs »).</small>
+  </div>
+  <div class="exemple"><div class="titre-ex">Exemple des notes : résultat 1 600 000 $, capital investi 8 000 000 $, coût du capital 12 % → RNR = 1 600 000 − (12 % × 8 000 000) = 1 600 000 − 960 000 = <b>+640 000 $</b>.</div>
+  </div>
+  <div class="exemple"><div class="titre-ex">RCI vs RNR devant un projet (notes, chiffres vérifiés) : Division A — résultat 360 000 $, capital 3 000 000 $ → RCI 12 %, RNR = 360 000 − 10 %×3 000 000 = 60 000 $. Projet : investir 1 000 000 $ au rendement de 11 % (coût du capital 10 %).</div>
+    <b>Avec le projet :</b> résultat 360 000 + 110 000 = 470 000 $; capital 4 000 000 $.<br>
+    RCI = 470 000 ÷ 4 000 000 = <b>11,75 % &lt; 12 %</b> → un gestionnaire jugé sur le RCI <b>refuse</b> le projet (son ratio baisse).<br>
+    RNR = 470 000 − 400 000 = <b>70 000 $ &gt; 60 000 $</b> → jugé sur le RNR, il <b>accepte</b>.<br>
+    <b>Morale du cours :</b> le RCI pousse à rejeter des projets rentables pour l'entreprise (rendement 11 % &gt; coût du capital 10 %) dès qu'ils diluent le ratio. Le RNR, lui, accepte tout projet au-dessus du taux minimal.
+  </div>
+
+  <h3>6.5 Les limites du RCI/RNR + dirigeants vs organisation</h3>
+  <ul>
+    <li>Mesures <b>historiques</b>, perspective <b>court terme</b>, n'expliquent pas les causes de la performance.</li>
+    <li>Dépendent souvent de <b>décisions antérieures</b> hors du contrôle du responsable actuel.</li>
+    <li>Peuvent pousser à des comportements nuisibles à long terme : <b>couper la recherche, l'entretien, ne pas investir</b> dans les immobilisations.</li>
+    <li><b>Principe de contrôlabilité :</b> évalue un gestionnaire seulement sur ce qu'il <b>contrôle</b> (ex. Véliko : les divisions sont des centres de PROFIT, mais le RCI les juge sur des INVESTISSEMENTS qu'elles ne contrôlent pas → incohérence, comportements dysfonctionnels).</li>
+    <li><b>Performance des dirigeants ≠ performance organisationnelle :</b> Véliko — pour l'entreprise, le projet « pâtes feuilletées » (+675 000 $ global) bat les « chaussons » (+350 000 $); mais pour le directeur de la viennoiserie, les chaussons (+350 000 $ pour SA division, RCI 9,50 % → 10,67 %, prime déclenchée) battent les pâtes (+25 000 $, RCI 9,58 %, pas de prime). <b>La mesure de performance doit aligner les intérêts.</b></li>
+  </ul>
+  <div class="exemple"><div class="titre-ex">Véliko en chiffres (solution officielle vérifiée) : RCI viennoiserie = 2 850 000 ÷ 30 000 000 = 9,50 %. Pâtes : +25 000 $ → RCI 9,583 % (&lt; 10 % → prime 0 $). Chaussons : +350 000 $ → RCI 10,666 % (&gt; 10 % → prime 5 000 $). Résultat global : tartes/pâtes 675 000 $ vs chaussons 350 000 $.</div>
+  </div>
+
+  <h3>6.6 Le tableau de bord de gestion équilibré (Kaplan et Norton)</h3>
+  <div class="encadre"><b>Définition :</b> « un ensemble organisé et synthétique d'indicateurs financiers et non financiers qui reflètent les objectifs d'une organisation » — il traduit la stratégie en indicateurs et sert de système de pilotage. Il est <b>contingent</b> à l'organisation (mission, vision, stratégie, culture).</div>
+  <table>
+    <tr><th>Dimension</th><th>Exemples d'objectifs → indicateurs (notes de cours)</th></tr>
+    <tr><td><b>Financière</b></td><td>Améliorer le rendement → <b>RCI, RNR</b> · accroître les revenus → variation du chiffre d'affaires · rentabilité par produit/marché/client</td></tr>
+    <tr><td><b>Client</b></td><td>Satisfaction → % clients satisfaits, nombre de plaintes, livraisons dans les délais · fidélisation → achats par client · parts de marché</td></tr>
+    <tr><td><b>Processus internes</b></td><td>Contrôler les coûts → standards MP/MOD · productivité → standards h-MOD/h-M par produit · qualité → taux de rejet · ressources → % capacité utilisée · stocks → rotation</td></tr>
+    <tr><td><b>Innovation et apprentissage</b></td><td>Nouveaux produits → nombre de lancements, ventes des nouveaux produits · compétences → formations suivies · systèmes d'information</td></tr>
+  </table>
+  <div class="retiens"><b>Le trio à connaître :</b> <b>OBJECTIF</b> (ce qu'on veut sur une dimension) → <b>INDICATEUR</b> (quantitatif, mesurable, formule précise) → <b>CIBLE</b> (valeur chiffrée cohérente). Ex. des Biscuiteries de Montmagny : Financière / développer ses parts de marché / RCI / 20 %. On peut intégrer l'environnement : 5<sup>e</sup> dimension dédiée, indicateurs intégrés aux 4 dimensions, ou tableau de bord parallèle.</div>
+
+  <h3>Quiz éclair — Module 6</h3>
+  <div class="qcm" data-rep="c" data-ok="600 000 ÷ 5 000 000 = 12 %." data-ko="Divise le résultat d'exploitation par le CAPITAL INVESTI (5 M$), pas par les ventes.">
+    <div class="q">1. (B&amp;G) Résultat d'exploitation 600 000 $; capital investi 5 000 000 $. RCI?</div>
+    <button class="opt" data-i="a">30 %</button>
+    <button class="opt" data-i="b">83 %</button>
+    <button class="opt" data-i="c">12 %</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="RNR = 1 600 000 − (12 % × 8 000 000) = 1 600 000 − 960 000 = 640 000 $ (un montant, pas un %)." data-ko="Le RNR est un MONTANT en dollars : résultat moins la charge fictive de capital.">
+    <div class="q">2. Résultat 1 600 000 $; capital 8 000 000 $; coût du capital 12 %. RNR?</div>
+    <button class="opt" data-i="a">20 %</button>
+    <button class="opt" data-i="b">1 920 000 $</button>
+    <button class="opt" data-i="c">640 000 $</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="RCI chute à 11,75 % (470 000/4 000 000) mais RNR monte à 70 000 $. Jugé sur le RCI → refus; jugé sur le RNR → acceptation. Le projet (11 % &gt; 10 %) est pourtant bon pour l'entreprise." data-ko="Recalcule : (360 000+110 000)/(3 000 000+1 000 000) = 11,75 % — le ratio DILUÉ baisse même si le projet est rentable.">
+    <div class="q">3. (Division A) Projet : +1 M$ de capital, rendement 11 %, coût du capital 10 %. Effet sur RCI et RNR?</div>
+    <button class="opt" data-i="a">RCI baisse (12 % → 11,75 %), RNR augmente (60 k$ → 70 k$)</button>
+    <button class="opt" data-i="b">RCI augmente et RNR augmente</button>
+    <button class="opt" data-i="c">RCI baisse et RNR baisse</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Les lignes de produits de General Mills : quasi-autonomes, responsables des profits ET du rendement des investissements = centres d'investissement." data-ko="Centre de profit = revenus + coûts SANS les investissements (ex. : département bijoux de la Baie d'Hudson).">
+    <div class="q">4. Une entité quasi autonome responsable des revenus, des coûts ET des investissements est…</div>
+    <button class="opt" data-i="a">un centre de profit</button>
+    <button class="opt" data-i="b">un centre d'investissement</button>
+    <button class="opt" data-i="c">un centre de revenus</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="b" data-ok="Financiers = passé (résultats obtenus); non financiers = futur (satisfaction, capacité, innovation) — distinction clé des notes." data-ko="C'est l'inverse de la logique du cours.">
+    <div class="q">5. Selon le cours, les indicateurs financiers informent sur la performance… et les non financiers sur…</div>
+    <button class="opt" data-i="a">future / passée</button>
+    <button class="opt" data-i="b">passée / future</button>
+    <button class="opt" data-i="c">présente / présente</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="c" data-ok="Financière, client, processus internes, innovation et apprentissage — les 4 dimensions de Kaplan et Norton." data-ko="Il n'y a pas de dimension « fournisseurs » ni « environnement » de base dans les 4 dimensions du tableau de bord équilibré.">
+    <div class="q">6. Les 4 dimensions du tableau de bord équilibré sont…</div>
+    <button class="opt" data-i="a">financière, fournisseurs, employés, environnement</button>
+    <button class="opt" data-i="b">revenus, coûts, profits, investissements</button>
+    <button class="opt" data-i="c">financière, client, processus internes, innovation et apprentissage</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 7 : TP1 & QUESTIONS TYPE ══════════════════ -->
+<section id="tp">
+  <h2>✍️ Module 7 — TP1 et questions type : la méthode complète</h2>
+  <p>Le TP1 condense tout le quiz : <b>Vélos Devini = CVR complet</b> (S02), <b>Autobus Bégin = commande spéciale + facteur contraignant</b> (S03-S04). Voici la démarche et les chiffres clés — <b>tous recalculés et vérifiés</b>. Fais l'exercice d'abord, compare ensuite.</p>
+
+  <h3>7.1 Vélos Devini (11 SupC.4) — analyse CVR</h3>
+  <div class="encadre"><b>Les données à extraire toi-même (c'est ÇA l'exercice) :</b> 20X1 : ventes 20 000 000 $ à 500 $/vélo → <b>40 000 vélos</b>. CVu 20X1 : aluminium 4 kg × 2,50 $ = 10 $ · carbone 0,5 kg × 150 $ = 75 $ · autres pièces 106 $ · MOD = 25 $/h × 7 h/jour ÷ 5 vélos = <b>35 $</b> · FGF variables = 3 200 000 × 30 % ÷ 40 000 = <b>24 $</b> · commission 5 % × 500 = 25 $.</div>
+  <div class="exemple"><div class="titre-ex">① MCV 20X1</div>
+    MCV = 500 − (10 + 75 + 106 + 35 + 24 + 25) = 500 − 275 = <b>225 $/vélo</b> · MCV totale = 40 000 × 225 = 9 000 000 $.<br>
+    Coûts fixes 20X2 (pour la suite) : FGF fixes 2 240 000 (70 % de 3 200 000) + superviseur 65 000 + publicité 650 000 (500 000 + 150 000) + administration 2 148 000 = <b>5 103 000 $</b>.
+  </div>
+  <div class="exemple"><div class="titre-ex">② Point mort 20X2 (PV 450 $; aluminium 16 $; MOD 35 × 1,04 = 36,40 $; commission 22,50 $)</div>
+    CVu 20X2 = 16 + 75 + 106 + 36,40 + 24 + 22,50 = 279,90 $ → MCV = 450 − 279,90 = <b>170,10 $</b>.<br>
+    PM = 5 103 000 ÷ 170,10 = <b>30 000 vélos</b> = <b>13 500 000 $</b> de ventes (30 000 × 450).
+    <button class="reveler" data-cible="r7-1">👁 Révéler les deux erreurs classiques</button>
+    <div id="r7-1" class="cache rep">① Oublier que la commission (5 %) suit le NOUVEAU prix (450 × 5 % = 22,50 $, pas 25 $). ② Oublier la hausse de salaire de 4 % sur la MOD (35 × 1,04 = 36,40 $) ou la hausse de l'aluminium (4 $/kg × 4 kg = 16 $).</div>
+  </div>
+  <div class="exemple"><div class="titre-ex">③ Marge de sécurité 20X2 : ventes prévues = 40 000 × 1,15 = 46 000 vélos</div>
+    MS = 46 000 − 30 000 = <b>16 000 vélos</b> = 16 000 × 450 = <b>7 200 000 $</b> (≈ 34,8 % des ventes prévues).
+  </div>
+  <div class="exemple"><div class="titre-ex">⑤ Seuil d'indifférence — fournisseur chinois (aluminium 2,85 $ + transport 0,50 $ = 3,35 $/kg → 13,40 $/vélo; CF +60 000 + 52 000 = 5 215 000 $)</div>
+    MCV option chinois = 450 − (13,40 + 75 + 106 + 36,40 + 24 + 22,50) = 450 − 277,30 = <b>172,70 $</b>.<br>
+    Seuil = (5 215 000 − 5 103 000) ÷ (172,70 − 170,10) = 112 000 ÷ 2,60 = <b>≈ 43 077 vélos</b>.<br>
+    Ventes prévues 46 000 &gt; 43 077 → <b>quantitativement, le fournisseur chinois gagne</b>… mais le président tient aux fournisseurs locaux → arguments qualitatifs (approvisionnement local, réputation, risque de transport) à peser.
+  </div>
+
+  <h3>7.2 Autobus Bégin (12 SupC.3) — commande spéciale + contrainte</h3>
+  <div class="exemple"><div class="titre-ex">① Le refus de la commande de 2 Deluxe à 560 000 $ — le président a-t-il eu raison?</div>
+    Le « coût total de 574 700 $ » inclut des <b>quote-parts de coûts fixes communs</b> (1 567 000 ÷ 32 × 2 = 97 937,50 $ + 348 200 ÷ 32 × 2 = 21 762,50 $) et des commissions — mais la commission de 5 % S'APPLIQUE à la commande (31 000 $), et les CF communes sont payées de toute façon.<br>
+    <b>Analyse pertinente (2 bus) :</b> ventes 620 000 − MP 220 000 − MOD 145 000 − FGF var 62 000 − commissions 31 000 = <b>MCV = +162 000 $</b>.<br>
+    → <b>Le refus a coûté environ 162 000 $ de résultat.</b> Le −14 700 $ du président mélangeait coûts communs et coûts pertinents.
+  </div>
+  <div class="exemple"><div class="titre-ex">② Le lancement du Voyageur — la méthode (à compléter avec la solution trouée)</div>
+    <b>Contrainte :</b> 27 750 heures de MOD <b>spécialisées</b> en 20X2. Besoin : Touriste 20 × 600 = 12 000 h + Deluxe 10 × 1 500 = 15 000 h = 27 000 h → <b>seulement 750 h libres</b>, or le Voyageur exige 5 × 1 050 = 5 250 h → <b>il faut sacrifier des Deluxe</b>.<br>
+    <b>Classement par heure spécialisée :</b> Touriste MCV 1 497 000 ÷ 20 = 74 850 $/u ÷ 600 h = <b>124,75 $/h (1<sup>er</sup>)</b> · Deluxe 972 000 ÷ 12 = 81 000 $/u ÷ 1 500 h = <b>54,00 $/h (2<sup>e</sup>)</b> → on garde tous les Touriste, on rogne les Deluxe.<br>
+    <b>MCV du Voyageur à construire :</b> PV 225 000 − MP 73 000 − MOD (1 050 × 35 + 450 × 20 = 45 750) − FGF var (FGF var dépendent des heures : 620 000 ÷ 50 000 h = 12,40 $/hmod × 1 500 h = 18 600) − commission 11 250 (5 % × 225 000) = CVu 148 600 → <b>MCV ≈ 76 400 $/bus</b>.<br>
+    Termine avec la <a href="ZoneCours/S06 - Cas Veliko solution trouee.doc">solution trouée</a> puis la <a href="ZoneCours/TP1 - Exercice Autobus Begin 12SupC.3 (enonce).docx">solution du fichier TP1</a> : compare combien de Deluxe sacrifier (chaque Deluxe perdu = 81 000 $ de MCV) et tranche.
+    <button class="reveler" data-cible="r7-2">👁 Révéler le réflexe à retenir</button>
+    <div id="r7-2" class="cache rep">Avec plusieurs produits et une ressource partagée, la décision se prend en <b>MCV par heure du facteur contraignant</b> : chaque heure donnée au Voyageur (≈ 72,76 $/h spécialisée : 76 400 ÷ 1 050) est prise au Deluxe (54 $/h) et non au Touriste (124,75 $/h). Le lancement est rentable SI les heures viennent des Deluxe.</div>
+  </div>
+
+  <h3>7.3 Questions type QCM (entraînement final)</h3>
+  <div class="qcm" data-rep="b" data-ok="MCV 20X2 = 170,10 $; CF = 5 103 000 $ → PM = 30 000 vélos exactement." data-ko="Si tu obtiens autre chose, revérifie la commission au nouveau prix (22,50 $) et la MOD indexée (36,40 $).">
+    <div class="q">1. (Devini) Le point mort 20X2 est de…</div>
+    <button class="opt" data-i="a">22 680 vélos</button>
+    <button class="opt" data-i="b">30 000 vélos</button>
+    <button class="opt" data-i="c">33 000 vélos</button>
+    <div class="feedback"></div>
+  </div>
+  <div class="qcm" data-rep="a" data-ok="La MCV de la commande (162 000 $) est le véritable impact : les coûts fixes communs étaient engagés de toute façon." data-ko="Le calcul du président mélange coûts pertinents et non pertinents : les quote-parts de frais fixes sont communs.">
+    <div class="q">2. (Bégin) Refuser la commande de 2 Deluxe a eu quel effet sur le résultat 20X1?</div>
+    <button class="opt" data-i="a">−162 000 $ (une MCV perdue)</button>
+    <button class="opt" data-i="b">+14 700 $ (une perte évitée)</button>
+    <button class="opt" data-i="c">0 $ (l'entreprise n'a rien perdu)</button>
+    <div class="feedback"></div>
+  </div>
+</section>
+
+<!-- ══════════════════ MODULE 8 : FORMULES ══════════════════ -->
+<section id="formules">
+  <h2>📋 Module 8 — Toutes les formules à connaître (aucune feuille fournie au quiz)</h2>
+  <p><b>Le cours n'a annoncé AUCUNE feuille de formules pour le quiz</b> (contrairement à la finance). Prépare-toi au pire : <b>tout mémoriser</b>. Bonne nouvelle : en QCM, tu dois surtout <b>reconnaître</b> la bonne formule et faire des calculs simples — cette table suffit.</p>
+  <table>
+    <tr><th>Formule</th><th>Usage</th><th>Le piège à éviter</th></tr>
+    <tr><td><b>Coût total = CF + (CVu × volume)</b> · Y = a + bX</td><td>Toute la S01</td><td>Valable seulement dans le segment significatif</td></tr>
+    <tr><td><b>Coût moyen = coût total ÷ unités</b></td><td>S01</td><td>Il contient du coût fixe : ne JAMAIS l'utiliser pour décider</td></tr>
+    <tr><td><b>Résultat = (MCVu × volume) − CF</b></td><td>Équation du résultat (S02)</td><td>Les CF ne changent pas avec le volume</td></tr>
+    <tr><td><b>MCVu = PV − CVu</b> · MCV% = MCVu ÷ PV</td><td>S02</td><td>CVu inclut les frais de vente variables</td></tr>
+    <tr><td><b>PM unités = CF ÷ MCVu</b> · <b>PM $ = CF ÷ MCV%</b></td><td>Point mort (S02)</td><td>PM$ = PM unités × PV — les deux doivent concorder</td></tr>
+    <tr><td><b>Unités cibles = (CF + résultat cible) ÷ MCVu</b></td><td>Résultat cible (S02)</td><td>Cible après impôt → diviser par (1 − t) AVANT</td></tr>
+    <tr><td><b>Résultat potentiel = MCVu × capacité max − CF</b></td><td>S02</td><td>Toujours à PLEINE capacité</td></tr>
+    <tr><td><b>MS = ventes − PM</b> (unités, $, %)</td><td>Marge de sécurité (S02)</td><td>% = MS ÷ ventes (pas ÷ PM)</td></tr>
+    <tr><td><b>Seuil d'indifférence : (CF₁ − CF₂) ÷ (MCVu₂ − MCVu₁)</b></td><td>2 structures de coûts (S02)</td><td>Le prix doit être le même; sinon utiliser l'équation complète</td></tr>
+    <tr><td><b>MCV pondérée = Σ MCV totales ÷ Σ volumes</b></td><td>Multi-produits (S02)</td><td>PAS la moyenne arithmétique des MCV</td></tr>
+    <tr><td><b>Prix minimum = (CV + CF spéc. + renonciation) ÷ unités commandées</b></td><td>Commande spéciale (S03)</td><td>CV DE LA commande (rabais, commissions exclus?)</td></tr>
+    <tr><td><b>Résultat différentiel = MCV commande − CF spéc. − renonciation</b></td><td>Commande spéciale (S03)</td><td>Renonciation = unités sacrifiées × MCVu RÉGULIÈRE</td></tr>
+    <tr><td><b>Marge sur coûts spécifiques = MCV totale − CF spécifiques</b></td><td>Abandonner/continuer (S03-S04)</td><td>Positive = on garde (il aide à payer les communs)</td></tr>
+    <tr><td><b>MCV par facteur = MCVu ÷ unités du facteur requises par unité</b></td><td>Ressource limitée (S04)</td><td>Classer par facteur, PAS par MCV unitaire</td></tr>
+    <tr><td><b>Taux d'imputation = FGF du centre ÷ volume de la base</b></td><td>Imputation (S05)</td><td>Un taux PAR centre de coûts</td></tr>
+    <tr><td><b>Coût fabrication = MP + MOD + FGF imputés</b> · <b>Marge brute = PV − coût fabrication</b></td><td>S05</td><td>Jamais de FVA dans le coût de fabrication</td></tr>
+    <tr><td><b>RCI = résultat d'exploitation ÷ capital investi</b></td><td>S06</td><td>Résultat AVANT impôts; capital = actif utilisé</td></tr>
+    <tr><td><b>RNR = résultat d'exploitation − (taux minimal × capital investi)</b></td><td>S06</td><td>Montant en $ (le RCI est un %)</td></tr>
+  </table>
+  <div class="attention"><b>⚠️ À savoir PAR CŒUR en plus des formules (théorie QCM) :</b> les définitions fixes/variables/mixtes (unitaire vs total!) · MP/MOD/FGF/FVA avec exemples · direct/indirect · objet de coût · segment significatif · coûts pertinents/évitables/irrécupérables/spécifiques/communs/renonciation · les hypothèses CVR · les 4 centres de responsabilité avec exemples · les 4 dimensions du tableau de bord + objectif/indicateur/cible · financier = passé, non financier = futur.</div>
+</section>
+
+<!-- ══════════════════ MODULE 9 : STRATÉGIE ══════════════════ -->
+<section id="strategie">
+  <h2>🎯 Module 9 — Stratégie QCM + les erreurs fatales</h2>
+
+  <h3>9.1 Les 10 erreurs fatales (chacune est une question-piège probable)</h3>
+  <ol>
+    <li><b>Confondre coût fixe total et coût fixe unitaire.</b> Total = constant; unitaire = varie avec le volume (se dilue). Question la plus rentable du quiz : réponds-la à 100 %, toujours.</li>
+    <li><b>Inclure des coûts irrécupérables (sunk) dans une décision.</b> Le passé ne compte JAMAIS : 600 000 $ déjà dépensés = hors analyse.</li>
+    <li><b>Inclure les coûts fixes communs dans une commande spéciale.</b> Seuls comptent : CV de la commande + CF SPÉCIFIQUES déclenchées + coût de renonciation.</li>
+    <li><b>Utiliser le coût complet/moyen pour décider.</b> Le directeur de PommeD'or et le président de Bégin se trompent tous les deux avec le coût complet — la MCV est l'outil des décisions court terme.</li>
+    <li><b>Oublier le coût de renonciation quand la capacité manque.</b> Dès que besoin &gt; capacité : unités régulières sacrifiées × leur MCV (Bolduc : 5 × 65 $).</li>
+    <li><b>Confondre MCV et marge brute.</b> MCV = PV − TOUS les CV (fabrication + vente) · Marge brute = PV − coût de FABRICATION (MP+MOD+FGF, incluant des coûts fixes imputés).</li>
+    <li><b>Classer par MCV unitaire au lieu de MCV par facteur contraignant.</b> Le contrôleur d'Électroflux tombe dans le piège; FLYREST le piége aussi (TIR 22 $/u perd contre BAH 27 $/hm).</li>
+    <li><b>MCV pondérée ≠ moyenne arithmétique.</b> Pondérer par les VOLUMES (5,00 $, pas 8,17 $).</li>
+    <li><b>RCI : mauvais numérateur/dénominateur.</b> Numérateur = résultat d'EXPLOITATION (avant impôts, pas les ventes); dénominateur = CAPITAL INVESTI (actif utilisé). Et RNR = un montant en $.</li>
+    <li><b>Mettre des FVA dans le coût de fabrication.</b> Coût de fabrication = MP + MOD + FGF. Point final.</li>
+  </ol>
+
+  <h3>9.2 Ta routine face à chaque question (45-60 secondes)</h3>
+  <div class="retiens">
+    <b>1.</b> Lis la question EN ENTIER; identifie le TYPE (définition? calcul? classement? interprétation?).<br>
+    <b>2.</b> Question de calcul → écris la formule sur ton brouillon AVANT de regarder les options (évite de te faire piéger par des réponses « plausibles »).<br>
+    <b>3.</b> Élimine les options absurdes (mauvaise unité, mauvais sens, chiffre impossible). Entre deux restantes → choisis celle qui respecte la théorie du cours.<br>
+    <b>4.</b> Vérification éclair : unités cohérentes? CF total constant? sunk cost exclu? total FGF imputé = FGF totaux?<br>
+    <b>5.</b> Bloqué plus de 90 secondes → marque, passe à la suivante, reviens à la fin. Un QCM se joue sur le volume de bonnes réponses, pas sur l'héroïsme.
+  </div>
+
+  <h3>9.3 La banque probable de questions théoriques</h3>
+  <p>Comptabilité financière vs de gestion · les 3 types d'entreprises (les 3 stocks!) · MP/MOD/FGF/FVA et exemples · variable/fixe/mixte, unitaire vs total · segment significatif · coûts mixtes (points extrêmes vs régression) · direct/indirect · objet de coût · hypothèses CVR · interprétation PM/MS/seuil d'indifférence · coûts pertinents/évitables/irrécupérables/spécifiques/communs/renonciation · facteurs qualitatifs · centres de coûts · bases d'imputation et critères de choix · limites de la méthode traditionnelle · décentralisation (av./désav.) · 4 centres de responsabilité · RCI (avantages/limites) · RNR · tableau de bord (4 dimensions, objectif/indicateur/cible) · dirigeants vs organisation · comportements dysfonctionnels et éthique.</p>
+
+  <h3>9.4 Checklist de la veille (jeudi 8 oct., soir)</h3>
+  <div class="tache"><input type="checkbox" data-k="f1" id="f1"><label for="f1">Les 38 QCM de ce plan refaits sans erreur (sinon relis le module concerné)</label></div>
+  <div class="tache"><input type="checkbox" data-k="f2" id="f2"><label for="f2">Les 6 Révisions formatives Canvas repassées à 100 % chacune</label></div>
+  <div class="tache"><input type="checkbox" data-k="f3" id="f3"><label for="f3">Feuille de formules (module 8) lue deux fois en entier</label></div>
+  <div class="tache"><input type="checkbox" data-k="f4" id="f4"><label for="f4">Les 10 erreurs fatales relues — je sais les repérer en une seconde</label></div>
+  <div class="tache"><input type="checkbox" data-k="f5" id="f5"><label for="f5">Carte étudiante, crayons (2), montre — tout prêt sur la table</label></div>
+  <div class="tache"><input type="checkbox" data-k="f6" id="f6"><label for="f6">Réveil réglé — au lit tôt, 8 h de sommeil (la mémoire se consolide en dormant)</label></div>
+
+  <h3>9.5 Checklist du matin (vendredi 9 oct.)</h3>
+  <div class="tache"><input type="checkbox" data-k="g1" id="g1"><label for="g1">7h15 : réveil, déjeuner normal, eau — pas de révision avant 7h45</label></div>
+  <div class="tache"><input type="checkbox" data-k="g2" id="g2"><label for="g2">7h45-8h05 : UNIQUEMENT la feuille de formules + les 10 erreurs fatales. Rien de nouveau.</label></div>
+  <div class="tache"><input type="checkbox" data-k="g3" id="g3"><label for="g3">8h00 : départ. <b>Arrivée 8h15</b> — le quiz commence à 8h30, individuel, sur papier, IA interdite.</label></div>
+  <div class="tache"><input type="checkbox" data-k="g4" id="g4"><label for="g4">Pendant le quiz : formule au brouillon AVANT les options · élimination · gestion du temps · revoir les questions marquées. Respire : le QCM est plus gentil que les examens.</label></div>
+
+  <h3>9.6 Tes fichiers (tout est déjà sur ton ordinateur)</h3>
+  <ul>
+    <li>Dossier <code>Comptabilité de gestion\ZoneCours</code> : les 28 fichiers officiels (7 PPT, 13 DOCX, 2 XLSX, 6 DOC) — tous accessibles depuis la <a href="#exercices">banque d'exercices</a>.</li>
+    <li>Canvas → Questionnaires : les Révisions formatives S01-S06, reprises à volonté <b>jusqu'au 20 octobre</b> — ta banque de QCM officielle (et 10 % de la note!).</li>
+    <li>Livre i+ (Boisvert &amp; Hugue 2019, ERPI — code d'accès) : exercices 2A.1, 11A.4, 12A.2, 10B.3, 17A.2, 17B.8.</li>
+    <li>Rappel de l'échéancier : <b>quiz 1 le ven. 9 oct.</b> · intra le 20 oct. (40 %) · quiz 2 à la séance 12 (lundi 30 nov.) · final 40 %.</li>
+  </ul>
+</section>
+
+<footer>
+  Généré automatiquement le mardi 29 sept. 2026 à partir de TOUTE ta zone cours (Canvas 10413, COMP10904 A2026 section F21) — plan de cours officiel, notes PPT S01-S06, 13 exercices, 2 gabarits Excel, TP1 et annonces.<br>
+  Tous les exemples chiffrés proviennent des documents officiels du cours et ont été recalculés. Bonne révision — vendredi 8h30, tu arrives en avance, tu écris ta formule, tu coches. 💪
+</footer>
+</div>
+
+<script>
+/* ===== Progression + persistance ===== */
+function sauver(k,v){ try{ localStorage.setItem('cq1_'+k, v?'1':''); }catch(e){} }
+function charger(k){ try{ return localStorage.getItem('cq1_'+k)==='1'; }catch(e){ return false; } }
+function majProgression(){
+  const cbs=[...document.querySelectorAll('input[type=checkbox][data-k]')];
+  const tot=cbs.length, fait=cbs.filter(c=>c.checked).length;
+  const pct= tot? Math.round(fait/tot*100):0;
+  document.getElementById('prog-fill').style.width=pct+'%';
+  document.getElementById('prog-txt').textContent=pct+' % complété ('+fait+'/'+tot+' tâches)';
+}
+document.querySelectorAll('input[type=checkbox][data-k]').forEach(cb=>{
+  cb.checked=charger(cb.dataset.k);
+  cb.addEventListener('change',()=>{ sauver(cb.dataset.k,cb.checked); majProgression(); });
+});
+majProgression();
+
+/* ===== Révéler / cacher ===== */
+function brancherRevelers(){
+  document.querySelectorAll('button.reveler:not([data-pret])').forEach(b=>{
+    b.setAttribute('data-pret','1');
+    b.addEventListener('click',()=>{
+      const cible=document.getElementById(b.dataset.cible);
+      if(cible){ cible.classList.toggle('cache'); b.textContent = cible.classList.contains('cache') ? '👁 Révéler' : '🙈 Cacher'; }
+    });
+  });
+}
+brancherRevelers();
+
+/* ===== QCM ===== */
+function brancherQcm(){
+  document.querySelectorAll('.qcm:not([data-pret])').forEach(q=>{
+    q.setAttribute('data-pret','1');
+    const bonne=q.dataset.rep;
+    const fb=q.querySelector('.feedback');
+    q.querySelectorAll('button.opt').forEach((opt)=>{
+      opt.addEventListener('click',()=>{
+        if(q.dataset.verrouille) return;
+        q.querySelectorAll('button.opt').forEach(o=>o.disabled=true);
+        const num=opt.dataset.i;
+        if(num===bonne){
+          opt.classList.add('bonne');
+          fb.className='feedback ok';
+          fb.innerHTML='✅ <b>Bravo!</b> '+(q.dataset.ok||'');
+        }else{
+          opt.classList.add('mauvaise');
+          q.querySelector('button.opt[data-i="'+bonne+'"]').classList.add('bonne');
+          fb.className='feedback ko';
+          fb.innerHTML='❌ Pas tout à fait. La bonne réponse est surlignée en vert. '+(q.dataset.ko||'');
+        }
+        q.dataset.verrouille='1';
+      });
+    });
+  });
+}
+brancherQcm();
+
+/* ===== Horaire : bloc en cours (multi-jours) ===== */
+function minDepuisMinuit(h){ const [H,M]=h.split(':').map(Number); return H*60+M; }
+function dateISO(d){ return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0'); }
+function majHoraire(){
+  const maintenant=new Date();
+  const aujourdhui=dateISO(maintenant);
+  const cur=maintenant.getHours()*60+maintenant.getMinutes();
+  document.querySelectorAll('#tab-horaire tr[data-jour]').forEach(tr=>{
+    tr.classList.remove('maintenant','passe');
+    const cell=tr.querySelector('td.heure');
+    const m=cell ? cell.textContent.match(/(d{1,2})h(d{2})s*[–-]s*(d{1,2})h(d{2})/) : null;
+    if(tr.dataset.jour===aujourdhui){
+      if(m){
+        const d=(+m[1])*60 + (+m[2]), f=(+m[3])*60 + (+m[4]);
+        if(cur>=d && cur<f) tr.classList.add('maintenant');
+        else if(cur>=f) tr.classList.add('passe');
+      }
+    }else if(tr.dataset.jour < aujourdhui){
+      tr.classList.add('passe');
+    }
+  });
+}
+/* Associer chaque ligne à sa date via le texte de la case Jour */
+(function(){
+  const jours={'MAR 29':'2026-09-29','MER 30':'2026-09-30','JEU 1er':'2026-10-01','VEN 2':'2026-10-02','SAM 3':'2026-10-03','DIM 4':'2026-10-04','LUN 5':'2026-10-05','MAR 6':'2026-10-06','MER 7':'2026-10-07','JEU 8':'2026-10-08','VEN 9':'2026-10-09'};
+  document.querySelectorAll('#tab-horaire tr').forEach(tr=>{
+    const td=tr.querySelector('td.jour'); if(!td) return;
+    const texte=td.textContent.trim();
+    for(const cle in jours){ if(texte.startsWith(cle)){ tr.dataset.jour=jours[cle]; break; } }
+  });
+})();
+majHoraire(); setInterval(majHoraire, 30000);
+
+/* ===== Menu actif au défilement ===== */
+const liens=[...document.querySelectorAll('nav#menu a')];
+window.addEventListener('scroll',()=>{
+  let actif=null;
+  liens.forEach(a=>{ const s=document.querySelector(a.getAttribute('href')); if(s&&s.getBoundingClientRect().top<120) actif=a; });
+  liens.forEach(a=>a.classList.toggle('actif', a===actif));
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,50 @@
+Travail de fin de séance 2
+
+Bonjour à tous,
+J’ai remarqué que plusieurs équipes avaient commis des erreurs similaires dans l’interprétation de l’erreur moyenne (EM) et de l’erreur quadratique moyenne (EQM) dans le cadre du travail de fin de séance 2. J’aimerais clarifier ces deux concepts à l’aide d’un exemple simple.
+Supposons que nous disposions des données suivantes concernant la demande réelle et les prévisions pour trois périodes :
+Période 1
+Demande réelle : 5 000
+Prévision : 4 900
+Erreur individuelle = 5 000 - 4 900 = 100
+Période 2
+Demande réelle : 5 500
+Prévision : 5 600
+Erreur individuelle = 5 500 - 5 600 = -100
+Période 3
+Demande réelle : 6 000
+Prévision : 5 950
+Erreur individuelle = 6 000 - 5 950 = 50
+Erreur moyenne (EM)
+Commencez par calculer la demande moyenne :
+Demande moyenne = (5 000 + 5 500 + 6 000) / 3 = 5 500
+Ensuite, calculons l’erreur moyenne :
+EM = (100 - 100 + 50) / 3 = 16,67
+Il est important de noter que le simple fait d’avoir une erreur moyenne différente de zéro ne signifie PAS nécessairement qu’il y a un biais significatif.
+Nous devons comparer l’erreur moyenne à la demande moyenne :
+16,67 / 5 500 = 0,0030 = 0,30 %
+Ainsi, l’erreur moyenne ne représente que 0,30 % de la demande moyenne. Ce chiffre est extrêmement faible; nous ne considérerions donc pas qu’il s’agit d’un biais significatif.
+Pour cet exercice, à titre indicatif, nous considérons qu’un biais est significatif lorsque l’erreur moyenne est d’environ 10 % ou plus de la demande moyenne.
+Par exemple :
+10 % de 5 500 = 550
+Par conséquent, si l’erreur moyenne était d’environ +550 ou plus, ou de -550 ou moins, on pourrait alors dire qu’il y a un biais significatif.
+N’oubliez donc pas :
+Ne vous contentez pas de vérifier si l’erreur moyenne est différente de zéro. Comparez son amplitude à la demande moyenne.
+Erreur quadratique moyenne (EQM)
+En reprenant le même exemple :
+Période 1 : Erreur = 100 → Erreur quadratique = 10 000
+Période 2 : Erreur = -100 → Erreur quadratique = 10 000
+Période 3 : Erreur = 50 → Erreur au carré = 2 500
+EQM = (10 000 + 10 000 + 2 500) / 3 = 7 500
+Il ne suffit pas de dire :
+« L'EQM est très élevée, donc la méthode de prévision commet beaucoup d’erreurs. »
+La question est : élevé par rapport à quoi?
+L’erreur quadratique moyenne (EQM) devrait principalement servir à comparer les méthodes de prévision entre elles.
+Par exemple :
+Méthode A : EQM = 7 500
+Méthode B : EQM = 12 000
+Méthode C : EQM = 5 000
+D’après la EQM, la méthode C est la meilleure des trois, car elle présente la EQM la plus faible.
+Alors, n’oubliez pas :
+Plus l’erreur quadratique moyenne (EQM) est faible, mieux c’est, mais vous devez comparer les valeurs de EQM des différentes méthodes de prévision plutôt que de simplement dire qu’une EQM est « élevée » ou « faible ».
+Assurez-vous de bien comprendre ces interprétations! Si quelque chose n’est pas clair, n’hésitez pas à me poser des questions en classe, par courriel ou lors d’une réunion sur Teams.

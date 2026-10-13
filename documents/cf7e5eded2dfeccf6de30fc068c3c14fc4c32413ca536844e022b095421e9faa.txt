@@ -1,0 +1,399 @@
+## Page 1
+EXAMEN FINAL DE PRATIQUE — CAS ÉRABLIÈRE BOISVERT
+
+1. Laquelle des propositions suivantes n’est pas une raison pour laquelle Amélie
+    extrait les données vers un système analytique distinct plutôt que de faire ses
+   rapports directement dans Airtable ?
+       a) Le modèle transactionnel n’est pas optimal pour traiter un grand volume
+        de données.
+       b) Le passage à un modèle dimensionnel permet de nettoyer les données et
+        de réparer les incohérences de saisie pour faciliter l’interprétation.
+       c) Contrairement au système transactionnel, le système décisionnel est
+          optimisé pour traiter un grand nombre de champs calculés et de
+        données historiques.
+       d) Le système analytique est indispensable pour permettre à Marcel de
+          modifier en temps réel le prix des bouteilles et d’enregistrer ses ventes
+          quotidiennes.
+
+2.  Si Amélie crée un modèle en étoile pour aider Marcel à analyser le rendement de
+   ses barils d’eau d’érable, quel élément constituerait une dimension (une
+   perspective d’analyse) ?
+       a) La somme totale du montant payé pour les barils durant la saison.
+       b) La provenance géographique ou le nom du fournisseur du baril (le « Qui »
+        ou le « Où »).
+       c) Le ratio de pureté de l’eau d’érable contenu dans un baril spécifique.
+       d) La quantité totale de bouteilles produites en moyenne.
+
+3. Dans l’analyse des performances de l’Érablière, Amélie souhaite comparer le
+   pourcentage de profit réalisé par transaction. Comment        classer ce type
+   de mesure dans un modèle dimensionnel ?                                                          doit‑on       a)  Additive dans toutes les dimensions.
+       b)             seulement dans les dimensions textuelles.
+       c) Non additive, car une simple addition ne donne aucun sens.          Semi‑additive       d) Additive dans le temps, mais pas dans les produits.
+
+4. Marcel souhaite que ses rapports analytiques affichent le « Nom complet » de
+   ses fournisseurs de barils plutôt que d’avoir le prénom et le nom dans deux
+   colonnes distinctes, comme dans son système transactionnel. Selon les
+   notions vues dans le cours, comment doit être présentée la formule pour avoir
+    le résultat ?
+    a) CONCAT([Prénom], [Nom]).
+    b) [Prénom] + « » + [Nom].
+    c) SUM([Prénom]) + SUM([Nom]).
+    d) Aucune de ces réponses
+
+
+
+
+TECH 10701    Final de pratique        p. 1
+
+## Page 2
+5. Amélie souhaite construire une table de fait pour Marcel afin d’analyser le
+   rendement des barils d’eau d’érable par fournisseur. Dans Tableau Prep, quelle
+   est l’étape essentielle pour lier la liste des « Barils reçus » (détails) à la liste des
+   « Commandes de livraison » (entêtes) ?
+    a)  Utiliser une étape de « Script » pour coder une fonction de recherche.
+    b) Réaliser une « Jointure » en utilisant une clé commune, comme le « No
+      commande », présente dans les deux fichiers.
+    c)  Effectuer une « Union » pour mettre les deux listes l’une en dessous de
+        l’autre.
+    d) Créer une étape de « Sortie » pour exporter les données vers Softr avant
+       l’analyse.
+
+6. Dans le modèle analytique de Marcel, le « Montant encaissé » pour chaque
+   vente peut être additionné pour obtenir un total saisonnier. Cette mesure est
+   considérée comme additive.
+              a) Vrai.                      b) Faux.
+
+7. Une fois que la table de fait FAIT_Production est nettoyée et agrégée avec les
+   mesures de rendement souhaitées par Marcel, quelle est la dernière action
+    critique qu’Amélie doit poser dans Tableau Prep ?
+    a) Masquer les colonnes de prix unitaires pour simplifier la vue.
+    b) Ajouter une étape de « Sortie », paramétrer le nom du fichier (ex. : .csv) et
+       cliquer sur « Exécuter le flux ».
+    c) Envoyer une capture d’écran du volet « Profil » à Marcel par texto.
+    d) Revenir dans Airtable pour supprimer les doublons manuellement.
+
+8. Dans la relation entre la table FAIT_Production et la table DIM_Fournisseur,
+   pourquoi la dimension         être définie avec une cardinalité « un seul
+   enregistrement » ?                             doit‑elle    a) Pour garantir que chaque fournisseur n’apparaisse qu’une fois dans la
+      dimension.
+    b) Pour fusionner automatiquement les noms similaires.
+    c) Pour forcer Tableau à générer des valeurs par défaut.
+    d) Toutes ces réponses
+
+9.  Si Amélie active l’option « Tous les enregistrements correspondent » lors du lien
+   FAIT ↔ FOURNISSEUR, que suppose Tableau Desktop ?
+    a) Que chaque baril livré possède un fournisseur valide dans la dimension.
+    b) Que les barils inconnus doivent être ignorés.
+    c) Que seuls les fournisseurs ayant livré plus de dix barils seront conservés.
+    d) Que les barils créés par erreur seront automatiquement supprimés.
+
+
+
+
+
+TECH 10701    Final de pratique        p. 2
+
+## Page 3
+10. Pour permettre à Marcel d’analyser la fiabilité de ses fournisseurs en ayant une
+    ligne par fournisseur, Amélie doit placer l’attribut « Nom du fournisseur »
+   directement au centre de son modèle, dans la table de faits.
+              a) Vrai.                      b) Faux.
+
+11. Marcel veut voir d’un seul coup d’œil si ses revenus cumulés ont dépassé son
+    objectif. Selon les sources sur les supports graphiques, quel élément Amélie
+    devrait-elle ajouter pour rendre cette analyse intuitive ?
+    a) Un diagramme à secteurs illustrant la proportion de l’objectif atteint.
+    b) Un support graphique de type « feux de circulation » (vert/rouge) pour
+       signaler l’atteinte ou non du seuil.
+    c) Un graphique de dispersion pour montrer la relation entre le temps et
+        l’argent.
+    d) Aucune de ces réponses
+
+12. Pour visualiser l’accumulation des revenus au fil des semaines, quel type
+   d’opération Amélie doit-elle appliquer dans Tableau Desktop ?
+    a) Un tri décroissant.
+    b) Un regroupement hiérarchique.
+    c) Un calcul de table cumulatif.
+    d) Une moyenne glissante.
+
+13. Marcel veut comparer la production moyenne des bouteilles selon trois types de
+   produits. Quel visuel facilite cette comparaison ?
+    a) Diagramme en anneau.
+    b) Courbe logarithmique.
+    c) Boîtes à moustaches.
+    d) Graphique à barres.
+
+14. Lorsqu’elle glisse un champ de date dans Tableau et que         s’affiche sous
+   forme d’« année » avec un + devant « année », que peut automatiquement faire                                                                 celui‑ci   Amélie pour avoir les mois ?
+    a)  Faire un champ calculé
+    b) Déployer (étendre) le champ pour obtenir les trimestres, dans la hiérarchie
+      de la date qui débute avec l’année.
+    c) Fusionner les dates selon les fournisseurs.
+    d) Calculer une corrélation.
+
+15. Dans quelles situations le diagramme en secteurs          inadapté ?
+    a) Lorsqu’on compare des proportions simples.                                                          devient‑il    b)  Lorsqu’il y a plusieurs catégories ou des valeurs très proches.
+    c) Lorsqu’on veut montrer un total de 100 %.
+    d) Lorsqu’on travaille avec des données financières.
+
+
+TECH 10701    Final de pratique        p. 3
+
+## Page 4
+16. Pour illustrer le rendement de l’eau d’érable (variable quantitative continue)
+   regroupé par tranches de pourcentage, le cadre théorique recommande
+    l’utilisation d’un histogramme plutôt qu’un graphique en secteurs.
+              a) Vrai.                      b) Faux.
+
+17. Le « taux de conformité » n’existe pas dans la base originale, mais les mesures
+    existent pour le calculer. Comment Amélie          créer cette mesure ?
+    a) En convertissant un champ texte en nombre.                                               peut‑elle    b) En créant un champ calculé basé sur une formule.
+    c) En changeant la couleur des barres.
+    d) En créant un groupe de champs.
+
+18. Pour visualiser la répartition des niveaux de pureté des barils (variable
+   continue), quel type de graphique est le plus approprié ?
+    a) Diagramme à secteurs (pointe de tarte).
+    b) Histogramme.
+    c) Graphique en barres empilées.
+    d) Diagramme en toile d’araignée.
+
+19. Amélie constate que Tableau Desktop additionne les valeurs de pureté.
+  Comment obtenir la pureté moyenne par fournisseur ?
+    a)  Convertir la pureté en dimension.
+    b) Appliquer un filtre sur les valeurs extrêmes.
+    c)  Modifier l’agrégation pour « Moyenne » au lieu de « Somme ».
+    d) Créer une union entre les tables.
+
+20. Pour analyser la relation entre la pureté des barils et le rendement obtenu, quel
+   graphique convient le mieux ?
+    a) Diagramme à secteurs (pointe de tarte).
+    b) Histogramme.
+    c) Courbe cumulative.
+    d) Diagramme de dispersion.
+
+21. Quel principe résume le « syndrome du              dans la conception
+   d’un tableau de bord ?                                          tout‑important »    a) Les données doivent être colorées intensivement.
+    b) Toutes les métriques doivent être affichées.
+    c) Les graphiques doivent occuper tout l’espace.
+    d) Trop d’éléments mis en valeur annulent l’importance réelle.
+
+
+
+
+
+TECH 10701    Final de pratique        p. 4
+
+## Page 5
+22. Selon les bonnes pratiques de visualisation, en combien de temps un tableau
+   de bord doit-il permettre à l’utilisateur de saisir l’essentiel ?
+    a) En cinq secondes ou moins.
+    b) En 30 secondes.
+    c) En deux minutes.
+    d) Après lecture d’une légende complète.
+
+23. Selon le contenu lié aux tableaux de bord utilisé dans le cours, dont les textes
+   présentés pour le travail de session, quels sont les quatre types de tableau de
+   bord ?
+    a) Opérationnel, Stratégique, Analytique et Tactique
+    b) Opérationnel, Décisionnel, Prédictif et Stratégique
+    c)  Indicatif, prédictif, Décisionnel, Opérationnel
+    d)  Prédictif, Stratégique, Tactique, opérationnel
+
+24. Selon le contenu lié aux tableaux de bord utilisé dans le cours, dont les textes
+   présentés pour le travail de session, quelle est l’utilité d’un tableau de bord
+   opérationnel
+    a)  Explorer les données en profondeur, souvent par des analystes de données
+     ou des équipes de veille stratégique.
+    b) Se concentrent sur les éléments suivants les indicateurs clés de
+      performance de haut niveau de haut niveau et les objectifs à long terme.
+    c)  Fournir des données quasi réelles, aidant les équipes de première ligne à
+        surveiller les activités quotidiennes, telles que les performances de vente,
+       les niveaux de stock ou le trafic sur le site web
+    d) Soutenir les cadres moyens en assurant le suivi des performances par
+       rapport aux objectifs du département, en aidant à traduire la stratégie de
+      haut niveau en exécution au niveau de l’équipe.
+
+25. Marcel aime bien que son nouveau système ne nécessite pas l’installation et
+    l’entretien de serveurs physiques encombrants et coûteux directement dans sa
+   cabane à sucre. Puisque ses outils (Airtable, Softr) sont fournis via Internet par
+   des fournisseurs tiers, quel type de service informatique utilise-t-il ?
+    a) Une infrastructure sur les lieux (on-premises).
+    b) Un ordinateur portable.
+    c) Une architecture à deux niveaux.
+    d) L’infonuagique (cloud).
+
+
+
+
+
+TECH 10701    Final de pratique        p. 5
+
+## Page 6
+26. Marcel a une opportunité d’acheter deux nouvelles érablières, avec des salles à
+   manger, dans le cadre d’une succession. Amélie informe Marcel, que
+   l’augmentation de la taille de la compagnie exigera de nouvelles
+   responsabilités, comme la gestion des employés, la gestion de la cuisine, etc.
+    Elle explique à Marcel qu’il peut toujours développer avec des outils no-code
+  comme il l’a fait. Cependant, il pourrait opter pour une solution générique que
+   plusieurs acériculteurs utilisent pour soutenir ces processus ; il bénéficierait
+   alors d’une application développée par un éditeur qui soutiendrait tous les
+   processus. Comment se nomme la solution proposée par Amélie suite à
+    l’acquisition ?
+    a) Un logiciel infonuagique
+    b) Un progiciel
+    c) Un développement sur mesure
+    d) Une application Open source
+
+27. En lien avec la même discussion que la question 24, Amélie explique à Marcel
+    qu’il y a des applications de ce type pour supporter plusieurs types
+   d’organisation. Dans le cadre du cours, quels critères ont été utilisés pour
+   comparer ce type de solutions ?
+    a) La taille de l’entreprise et le niveau de généralité de l’entreprise (Général à
+       manufacturier)
+    b) La taille de l’entreprise et le nombre de transactions mensuelles
+    c) Le nombre de transactions mensuelles et niveau de généralité de
+       l’entreprise (Général à manufacturier)
+    d) La taille de l’entreprise et le type d’hébergement de la solution
+
+28. Toujours en lien avec la question 24, Amélie explique à Marcel qu’il pourrait
+    avoir une seule solution supportant la majorité de ses processus. Cela sera
+   simple à maintenir et il aura toujours une interface similaire dans chaque
+   module. Comment définit-on ce choix d’acquisition :
+    a)  Application Cloud
+    b)  Installation sur place (On-Premise)
+    c) Assemblage des meilleurs modules (Best of breed)
+    d) Solution tout-en-un (Best of suite)
+
+
+
+
+
+TECH 10701    Final de pratique        p. 6
+
+## Page 7
+29. Dans le cadre du cours, nous avons comparé la gestion de projet Agile qui
+   donne de bons résultats pour le développement d’applications à la gestion en
+   cascade, qui est de moins en moins utilisée et qui donne moins de résultats.
+   Quelle affirmation présente le mieux la différence entre ces deux approches de
+   gestion de projet
+    a) Cascade implique une documentation exhaustive alors qu’Agile vise la
+       réalisation de logiciels opérationnels.
+    b)  Agile favorise l’adaptation au changement alors que Cascade mise sur le
+        suivi du plan.
+    c) Cascade implique de compléter chaque étape en entier avant de passer à la
+       suivante, alors qu’Agile est basé sur de courtes itérations avec un artefact à
+        la fin de chacune
+    d) Toutes ces réponses sont vraies
+
+30. Quel récit respecte les critères INVEST permettant d’avoir de bons récits avec la
+   méthode Agile ?
+    a) Comme acériculteur, je veux connaître le prix des matières premières et des
+      coûts d’énergie pour fabriquer le sirop
+    b) Comme acériculteur, je veux connaître le nom des fournisseurs avec qui je
+       transige
+    c) Comme acériculteur, je veux connaître le taux de sucre de l’eau d’érable afin
+       d’évaluer le nombre de bouteilles que chaque baril pourra produire
+    d) Toutes ces réponses sont vraies
+
+31. Les caractéristiques suivantes correspondent-ils aux caractéristiques d’un
+    projet ou du travail opérationel? 1 - Implique les humains, 2 - Ressources
+    limitées, 3 - Planifié, exécuté et contrôlé, 4 - Continu et 5 - Répétitif
+    a) Un projet
+    b) Le travail opérationnel
+
+32. Quel est l’ordre de la hiérarchie des récits utilisateurs utilisés en Agile
+    a) Récits détaillés, Récits utilisateurs, Épopées
+    b) Épopée, Récits détaillés, Récits utilisateurs
+    c) Épopée, Récits utilisateurs, Récits détaillés
+    d) Passage du temps, Récits utilisateurs, récits détaillés,
+
+
+
+
+
+TECH 10701    Final de pratique        p. 7
+
+## Page 8
+33. Selon Tableau Software qui est l’éditeur de Tableau Prep et de Tableau Desktop,
+   quelles affirmations présentent des caractéristiques permettant d’avoir un bon
+   tableau de bord.
+    a) Pensez à votre public, adapter le tableau de bord selon les buts et le niveau
+      de compréhension du sujet
+    b)  Utilisez l’endroit idéal, Les gens regardent normalement à partir du haut à
+      gauche, on devrait mettre les points importants à cet endroit
+    c)  Éviter d’utiliser trop de vues et de couleurs
+    d) Toutes les réponses sont vraies
+
+34. Dans le cours, nous avons présenté des données de la pizzeria à Springfield
+   dans une carte de la ville. Comment avons-nous fait l’intégration de la carte
+   dans Tableau Desktop ?
+    a) Avec une image où l’on superposait les données en les glissant au bon
+       endroit
+    b) Avec un fichier de données spéciales relié à une dimension avec un champ
+     commun
+    c) Avec une extension Google Map intégrée dans Tableau Desktop
+    d) Aucune de ces réponses
+
+35. Avec Tableau Desktop, il est possible de faire un champ calculé qui utilise un
+   autre champ calculé :
+    a)  Vrai
+    b) Faux
+
+36. Dans Tableau Desktop, il est possible d’avoir une variable dans une formule.
+  Comment doit-on créer cette variable ?
+    a) En créant une formule qui génère une variable
+    b) En ajoutant un champ pour la variable dans Airtable et en l’intégrant lors du
+      nettoyage avec ETL
+    c) En créant un paramètre
+    d) Aucune de ces réponses
+
+37. Pour le travail de session, nous avons mis l’accent sur Objectif, Indicateur,
+   Cible et Alerte. Quel terme avons-nous utilisé pour illustrer la dynamique et les
+    interrelations entre ces éléments ?
+    a) Quartet d’Anscombe
+    b) Transformation ETL (Extract Transforme Charge [Load])
+    c) Dynamique PODC (Planifier Organiser, Diriger, Contrôler)
+    d)  Tétralogie OICA
+
+
+
+
+
+TECH 10701    Final de pratique        p. 8
+
+## Page 9
+38. Cette définition correspond à quel élément lié à la conception d’un tableau de
+   bord que vous avez expliqué dans votre travail de session : Présente la variable
+   qui sera mesurée, mais ne présente pas la valeur de celle-ci ?
+    a)  Objectif
+    b) Indicateur
+    c) Cible
+    d) Mesure
+
+39. SAP est un Progiciel de Gestion Intégré (PGI). Son fonctionnement est similaire à
+   plusieurs autres PGI. Dans le cadre de la simulation ERPsim, quelle est
+   l’approche d’implantation utilisée par le Laboratoire ERPsim pour SAP ?
+    a) Implantation par couche logiciel
+    b) Implantation vanille
+    c) Implantation personnalisée
+    d) Aucune de ces réponses
+
+40. SAP est un Progiciel de Gestion Intégré (PGI). Son fonctionnement est similaire à
+   plusieurs autres PGI. Quelle est l’une des contraintes d’utilisation de ce type
+   d’application que chaque équipe devait respecter lors de la simulation ?
+    a) Une seule personne pouvait faire des opérations dans une fonctionnalité,
+      car pour certaines fonctionnalités, la dernière sauvegarde efface les
+      sauvegardes précédentes
+    b) Une seule personne pouvait faire des opérations dans une fonctionnalité,
+      car pour certaines fonctionnalités, dès qu’une personne est dans une
+       fonctionnalité, le progiciel bloque l’accès aux autres personnes
+    c)   Il est possible de voir les autres utilisateurs qui sont dans une fonction
+       lorsqu’on l’ouvre, cela permet de travailler en collaboration
+    d) Les réponses a) et b) sont vraies
+
+
+
+
+
+TECH 10701    Final de pratique        p. 9

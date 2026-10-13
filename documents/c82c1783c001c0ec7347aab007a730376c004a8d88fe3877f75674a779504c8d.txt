@@ -1,0 +1,67 @@
+Liste des formules et des tables pouvant servir à l’examen intra
+			Classification ABC
+Table de la loi normale
+Moyenne mobile
+ |                                      P  t + 1  =  Prévision pour la période t + 1
+      k =  Nombre d’obs. utilisées dans le calcul
+D i    =  Demande de la période i
+Moyenne mobile pondérée | 
+αi = Poids donné à chacune des périodes
+Lissage exponentiel simple | 
+D i  =  Demande pour la période i
+P i  =  Prévision pour la période i
+α  =  Facteur de pondération (paramètre de lissage) 
+
+Mesures d’erreur | 
+Écart :                                              
+
+Écart moyen :                                       
+
+Écart quadratique moyen :                   
+
+QÉC | QÉC =
+avec : DT = demande annuelle
+Cc = coût d’une commande
+Ce = coût de stockage annuel d’une unité
+QÉC = quantité économique à commander
+
+Coût total annuel de gestion des stocks | 
+CT = 
+
+
+avec : DT = demande annuelle
+QC = quantité commandée
+SS = stock de sécurité 
+Ce = Coût de stockage annuel d’une unité
+Cc = Coût d’une commande
+
+Réapprovisionnement à intervalle variable et quantité fixe | 
+PC = µ 
+SS = 
+
+avec : µ = taux de consommation moyen (demande moyenne par unité de temps)
+d = délai de livraison
+SS = stock de sécurité
+Z = facteur correspondant au niveau de service désiré
+ = écart type de la demande durant une unité de temps
+
+Réapprovisionnement à intervalle fixe et quantité variable | 
+QC = µ - Sa
+SS = 
+
+avec : µ = taux de consommation moyen (demande moyenne par unité de temps)
+d = délai de livraison
+i = intervalle de temps entre deux commandes
+Z = facteur correspondant au niveau de service désiré
+ = écart type de la demande durant une unité de temps
+SS = stock de sécurité
+Sa = stock en main au moment de la commande
+QC = quantité de commande
+
+Réapprovisionnement à intervalle fixe et quantité variable
+ | 
+i opt. = QÉC / µ
+
+avec : i opt. = intervalle de temps optimal entre deux commandes
+           QÉC = quantité économique à commander
+           µ = taux de consommation moyen (demande moyenne par unité de temps)

@@ -1,0 +1,18 @@
+7 | Description et objectifs de la séance
+
+Séance 7
+Description
+Planification des besoins-matières (PBM)
+Objectifs et structure de l'information d'un système PBM;
+Élaboration du plan des besoins-matières (PBM) :
+Les intrants;
+La nomenclature des produits;
+L'horizon minimum de planification;
+Élaboration d'un PBM.
+Objectifs de la séance
+À la fin de cette séance, l'étudiant devrait être capable :
+d’expliquer ce qu’est la planification des besoins matières et sa place dans l’ensemble du processus de planification;
+d’expliquer la différence et les liens possibles entre la planification des besoins matières et les modèles de gestion des stocks en contexte de demande indépendante;
+de lire une structure de produit et d’en déduire les grandes étapes de fabrication et d’assemblage du produit;
+d’expliquer la notion de jalonnement en amont et de calculer l’horizon minimum de planification nécessaire à la réalisation du produit fini;
+d’établir un plan des besoins matières (PBM) pour l’ensemble des composants à demande dépendante constituant le produit fini, et ce, en respectant la nomenclature, les différents délais et les politiques de lotissement.

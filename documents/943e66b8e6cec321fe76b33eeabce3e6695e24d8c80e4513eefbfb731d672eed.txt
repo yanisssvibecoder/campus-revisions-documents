@@ -1,0 +1,292 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2026 – 2027
+
+Comptabilité de gestion(10904)Séance 7
+
+(c) 10904 / S07 
+
+1
+
+## Diapositive 2
+
+Objectifs de la séance
+
+Être en mesure de traiter un cas complexe en utilisant les notions vues dans les séances 1 à 7;
+Savoir intégrer les notions vues dans les séances 1 à 7 dans différentes situations.
+
+
+(c) 10904 / S07 
+
+
+
+2
+
+## Diapositive 3
+
+Révision avant l’intra
+
+Séance 7
+
+(c) 10904 / S07 
+
+3
+
+## Diapositive 4
+
+Vue globale du cours (séances 1 à 7)
+
+(c) 10904 / S01
+
+4
+
+PRÉPARATION, PRÉSENTATION ET ANALYSE DE L’INFORMATION
+
+Séance 4 : Les marges 
+
+## Diapositive 5
+
+La classification des coûts
+
+Méthode des coûts variables
+
+(c) 10904 / S07 
+
+5
+
+Méthode des coûts complets
+
+## Diapositive 6
+
+État des résultats (coûts variables)
+
+
+ | S02
+Analyse CVR | S03-S04
+Prise de décision CT
+Analyse des marges
+Analyse différentielle | S05 
+Imputation
+Rentabilité unitaire des produits | S07
+L’évaluation de la performance
+
+Ventes (prix de vente x unités) |  |  | Prix de vente | 
+Mesures financières
+RCI = résultat d’exploitation
+               capital investi
+RNR =Résultat d’exploitation (-) résultat exigé
+
+Mesures non-financières
+Tableau de bord de gestion
+
+(-) Coûts variables 
+      MP (Prix x Qté/u x unités)
+      MOD (Taux x Hr/u x unités)
+      FGF var ($/un x unités)
+      FV var (Taux com x PV x u.)  |  PM
+Résultat cible
+Résultat potentiel
+Marge de sécurité
+Seuil d’indifférence
+    RE1 = RE2 | Exemples:
+Commande spéciale
+Fabriquer ou sous-traiter
+Abandonner ou Continuer
+Plan de production | (-) Coûts fabrication
+   MP (prix x quantité/u.)
+   MOD (taux x hr/u.)
+   FGF (variables et fixes)
+    Imputation des FGF
+ | 
+
+Marge sur coûts variables  (MCV) |  MCV unitaire
+ MCV pondérée
+
+
+ |  MCV totale
+ MCV par facteur de production 
+Marge sur coûts spécifiques | Marge brute (unitaire) par produit
+ | 
+
+(-) Coûts fixes spécifiques 
+      (FGF, FVA) | 
+
+
+
+
+
+
+
+
+
+
+ |  Coût de renonciation
+ Coûts économisés (économie d’échelle- rabais sur la quantité de MP des clients réguliers)
+ |  | 
+
+Marge sur coûts spécifiques |  |  |  | 
+
+(-) Coûts fixes communs 
+      (FGF, FVA) |  |  |  | 
+
+Résultat d’exploitation |  | Résultat d’exploitation (impact) |  | 
+
+## Diapositive 7
+
+La prise de décisions d’exploitation à court terme et l’analyse de la rentabilité
+
+
+
+
+
+
+
+
+
+
+
+(c) 10904 / S07 
+
+7
+
+Accepter ou refuser commande spéciale | Acheter (sous-traiter) ou fabriquer
+ | Conserver (ajouter) ou abandonner un produit (une division) 
+ | Choisir parmi une gamme de produits 
+Contexte ressources limitées | Rentabilité des produits dans l’entreprise manufacturière
+
+Analyse de capacité
+Analyse différentielle
+Prix de vente minimum
+Marge par facteur de production (si plusieurs produits réguliers)   | Analyse différentielle 
+Sit A  vs  Sit B  Impact 
+                         Résultat | Analyse différentielle
+Analyse de marges  | Analyse de marges
+Marge par facteur de production 
+ | Marge brute
+
+Prix de vente
+Coûts variables
+Coûts fixes spécifiques
+Coût de renonciation 
+Résultat d’exploitation | Coûts variables
+Coûts fixes spécifiques
+Coût de renonciation | Ventes
+Coûts variables
+Coûts fixes spécifiques
+ | Plan de production (maximiser le résultat d’exploitation)
+ | Ventes
+Coût de fabrication
+(MP + MOD + FGF)
+
+## Diapositive 8
+
+S05: Coût de fabrication unitaire des produits - révision des étapes
+
+Choix d’un système avec un ou plusieurs centres de coûts 
+voir la liste des critères
+
+Processus d’imputation en 4 étapes
+Choix de la base d’imputation pour chaque centre de coûts
+voir la liste des critères
+Calculer les taux d’imputation pour chaque centre de coûts
+	Formule = FGF  / Volume de la base d’imputation
+Répartir les FGF de chaque centre de coûts entre les produits
+	Formule = Taux d’imputation X Volume de la base d’imputation par unité
+4.    Calculer le coût de fabrication unitaire des produits
+	Formule = MP + MOD + FGF
+
+
+(c) 10904 / S07 
+
+8
+
+## Diapositive 9
+
+Comment calculer le coût de fabrication ?
+
+Révision du coût de fabrication unitaire (Imputation)
+Le coût de fabrication unitaire se calcul en suivant la logique suivante: prix x quantité/unité
+
+
+(c) 10904 / S07 
+
+9
+
+ | Prix |  | Quantité | Coût unitaire
+
+Matières premières (MP) | Prix de la MP 
+ex: 5 $/kg | X | Quantité de MP par unité 0,5 kg | 
+2,50 $
+
+(+) Main d’œuvre directe (MOD) | Taux horaire
+20 $/h | X | Heures de MOD par unité 2 heures | 40,00 $
+
+(+) Frais généraux de fabrication (FGF) (imputation pour chacun des centres de coûts) | Taux d’imputation
+4 $/hmod | X | Volume de la base d’imputation par unité
+2 heures | 8,00 $
+
+Coût de fabrication unitaire |  |  |  | 50,50 $
+
+## Diapositive 10
+
+Activités de révision
+
+
+
+(c) 10904 / S07 
+
+10
+
+## Diapositive 11
+
+Informations pour l’intra
+
+(c) 10904 / S07 
+
+11
+
+## Diapositive 12
+
+Informations pour l’intra
+
+Date : Voir HEC en ligne
+La durée est ajustée pour les personnes à besoins particuliers
+Lieu : en présentiel, à HEC 
+Consignes : 
+Documentation non permise
+Examen papier  
+Calculatrice autorisée
+Contenu : 
+L'examen est composé de cas pratiques comprenant des sous-questions de nature quantitative et qualitatives (analyse, justification et interprétation). Les étudiants doivent démontrer leur démarche pour les calculs et justifier leurs réponses.
+Matière des séances 1 à 7
+
+
+(c) 10904 / S07 
+
+12
+
+## Diapositive 13
+
+Se préparer à l’examen
+
+Programme de révisions :
+Comprendre les principales notions théoriques 
+Se pratiquer ! (faire des exercices)
+Autres conseils : Escudier F., Debas K., (2020) « Savoir apprendre pour réussir - Les meilleures stratégies d'étude validées par la science », ERPI. 
+Consulter le site web des services aux étudiants de HEC Montréal (SAÉ)
+
+Consultations : m’écrire si vous avez une question, on pourrait aussi prévoir une rencontre au besoin.
+
+
+(c) 10904 / S07 
+
+13
+
+## Diapositive 14
+
+QUESTIONS…
+
+(c) 10904 / S07 
+
+14

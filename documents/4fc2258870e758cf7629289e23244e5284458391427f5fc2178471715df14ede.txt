@@ -1,0 +1,41 @@
+Gestion des stocks : Produits pour bébés (15 points)
+Madame Béatrice Bertrand est responsable des stocks pour une entreprise possédant plusieurs magasins de produits pour bébés. Les ventes quotidiennes sont enregistrées dans un système informatique. Toutefois, les informations fournies par le système doivent être analysées par madame Bertrand. 
+Aujourd’hui, madame Bertrand travaille sur le fichier des ventes de l’année dernière. Elle souhaite revoir la gestion des stocks de plusieurs articles. Le tableau suivant présente les neuf catégories de produit que l’entreprise doit gérer en tant que détaillant.
+Consultez le fichier Excel disponible sur ZoneCours : A26 - Ventes de l’année 2025. Il est à noter que ces données sont fictives et qu’elles ne correspondent pas aux ventes réelles d’un détaillant de produits pour bébés.
+Note : 	Le code article est un code à 5 chiffres. Les 4 premiers caractères représentent le code du produit et le dernier caractère représente la catégorie à laquelle le produit appartient.
+Question 1 (8 points)
+Effectuez la classification ABC des produits – une classification pour l’ensemble des produits, toutes catégories confondues. 
+Veuillez remettre votre fichier Excel dûment complété qui inclura les tableaux croisés dynamiques suivants :
+Tableau 1 : Nombre d’articles par catégorie et par classe
+Tableau 2 : Valeurs totales ($) par catégorie et par classe
+Note : Vous devez aussi inclure le pourcentage de chaque classe au bas de vos tableaux, selon le modèle ci-dessous et soumettre votre fichier Excel. 
+Question 2 (7 points) 
+Cette question porte sur l’article 0363-6. Ce produit d’hygiène est très populaire auprès de la clientèle. Il est donc important de toujours en avoir en stock, puisque la demande est constante tout au long de l’année. À cette fin, on conserve un stock de sécurité équivalent à six jours de vente. Le centre de distribution est ouvert 260 jours par année. 
+Madame Bertrand estime que le coût annuel d’entreposage de cette catégorie est de 10 % du coût unitaire d’acquisition. De plus, le coût de placer une commande est de 52 $. 
+Quelle est la quantité économique à commander pour l’article 0363-6? (2 points)
+Si elle commande la QEC, quel sera alors le stock moyen de ce produit? (2 points)
+Si elle commande la QEC, combien de commandes seront effectuées en moyenne par année? (1 point)
+Si elle commande la QEC, quel sera alors le coût total annuel de gestion des stocks de ce produit? (2 points)
+Note : Vous devez présenter l’ensemble de vos réponses dans le fichier Excel qui vous est fourni.
+Catégorie | Identification
+1 | Poussette
+2 | Literie et Décoration
+3 | Meuble
+4 | Repas
+5 | Éveil
+6 | Hygiène
+7 | Sécurité
+8 | Vêtements
+9 | Siège d'auto et accessoire
+Catégorie | A | B | C | Total
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+Total |  |  |  | 
+Pourcentage (%) |  |  |  | 

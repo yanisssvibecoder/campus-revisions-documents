@@ -1,0 +1,939 @@
+## Diapositive 1
+
+Département de sciences comptables
+Année universitaire 2025 – 2026 
+
+Comptabilité de gestion(10904) – Séance 4Séance en classe
+
+1
+
+## Diapositive 2
+
+Retour séance 3 - L’analyse différentielle Le cas de la commande spéciale
+
+L’entreprise PommeD'or vend 200 000 unités par année d’ours géants en peluche au prix de 45 $. Le coût de fabrication de chaque ours est composé de 12 $ de coûts variables et de 9 $ de coûts fixes. Un grossiste propose d’acheter 8 000 unités à 20 $ chacune. PommeD'or devra supporter des frais de livraison supplémentaires de 1,25 $ par ours.  
+
+Travail à faire : Sachant que l’entreprise dispose de la capacité de production nécessaire pour produire les 8 000 unités, déterminez le résultat différentiel que l’entreprise réalisera en acceptant la commande spéciale. 
+
+
+2
+
+(c) 10904 / S04 
+
+## Diapositive 3
+
+Retour séance 3 - L’analyse différentielle Le cas de la commande spéciale
+
+Situation A (statu quo)	Situation B (accepter la commande)   Analyse différentielle
+
+3
+
+(c) 10904 / S04 
+
+Analyse de la capacité de production
+Calcul du résultat différentiel	
+
+## Diapositive 4
+
+Diriger (analyse d’aide à la prise de décision)
+(S02) L’analyse coût-volume-résultat (CVR)
+Prise de décision à court terme
+(S03-S04) L’analyse différentielle : consiste à faire ressortir les divers éléments de revenu et de coûts sur lesquels influe chaque décision et permet de la comparer à une situation de référence.
+Exemples de décisions d’exploitation:
+Commande spéciale
+Fabriquer ou sous-traiter un produit
+Continuer ou abandonner un produit
+
+(S04) L’analyse des marges : diagnostic financier
+Choisir parmi une gamme de produits (plan de production optimal) contexte ressources limitées
+Prises de décisions diverses
+(
+
+S04
+
+Méthodes pour la comptabilité de gestion | Classification des coûts | Types de marges calculées
+
+Méthode des coûts variables | Variables ou Fixes | Marge sur coûts variables (MCV)
+Marge par facteur de production
+
+Méthode des coûts spécifiques | Variables ou Fixes
+Fixes : communs ou spécifiques | Marge sur coûts spécifiques
+
+Méthode des coûts complets  | Coût de fabrication et frais d’exploitation | Marge brute
+
+Méthode des coûts standards  |  | 
+
+Gestionnaire veut agir sur
+Résultat d’exploitation
+Total ou unitaire
+
+(S06) Contrôler la rentabilité dans l’entreprise manufacturière
+État des résultats réels (État du coût de fabrication)
+(S08-S09) Planification 
+Établir des prévisions
+(S10-S11) Contrôle 
+Mesurer la performance et 
+calculer les écarts
+
+(S05) Analyse la rentabilité par produit
+Coût de fabrication unitaire
+
+4
+
+(c) 10904 / S04 
+
+## Diapositive 5
+
+La prise de décision d’exploitation et les marges
+
+Séance 4
+
+(c) 10904 / S04 
+
+5
+
+## Diapositive 6
+
+PLAN DE LA SÉANCE 4
+
+(Suite) Prise de décision d’exploitation
+Analyse différentielle
+Sous-traiter ou fabriquer un produit
+Continuer ou abandonner un produit
+Marge sur coûts spécifiques
+
+
+Situation ressources limitées
+MCV vs Marge par facteur de production contraignant
+Illustration Eléctrolux
+
+Prises de décisions diverses
+Analyse de marges
+Exercice 10B.1 
+
+(c) 10904 / S04 
+
+6
+
+## Diapositive 7
+
+Objectifs de la séance
+
+Utiliser l’approche différentielle pour analyser des décisions d’exploitation. 
+Fabriquer ou sous-traiter un produit, 
+Continuer ou abandonner un produit
+Être en mesure de supporter les prises de décision associées au plan de production dans un contexte de ressources limitées.  
+Savoir calculer et interpréter les différentes marges pour suivre la rentabilité.
+
+
+
+(c) 10904 / S04 
+
+7
+
+## Diapositive 8
+
+Les décisions d’exploitation
+
+Les décisions d’exploitation:
+sont généralement liées à des opérations courantes
+les décisions de ce type se présentent sous forme d’un choix entre deux ou plusieurs propositions. 
+l’analyse différentielle permet d’analyser rapidement l’effet sur le résultat d’exploitation en identifiant seulement les coûts pertinents. 
+utiliser la méthode des coûts variables qui classe les coûts comme étant variables ou fixes.
+les facteurs qualitatifs doivent également être considérés lors de la prise de décision
+
+
+
+(c) 10904 / S04 
+
+8
+
+## Diapositive 9
+
+Coûts spécifiques
+Coûts pouvant être associés spécifiquement à un objet de coûts.
+
+
+
+
+Coûts communs
+Coûts ne pouvant pas être associés spécifiquement à un seul objet de coûts .
+
+
+
+
+
+SUPPRESSION DES COÛTS SPÉCIFIQUES
+
+ MAINTIEN DES COÛTS COMMUNS
+
+SI ARRÊT de L’ACTIVITÉ…
+
+
+
+Coûts spécifiques et Coûts communs  (rappel)
+
+(c) 10904 / S04 
+
+9
+
+## Diapositive 10
+
+Concepts clés (rappel)
+
+Coûts irrécupérables
+Coûts fixes communs - intervient dans la production de plusieurs biens ou services. Coût non-pertinent pour la prise de décision. 
+
+Coûts pertinents
+Coûts variables (MP, MOD, FGF variables, FV variables)
+Coûts fixes spécifiques – coût pertinent à la prise de décision, car ces coûts sont directement imputables à la production d'un bien ou service donné
+Coût de renonciation
+
+
+(c) 10904 / S04 
+
+10
+
+## Diapositive 11
+
+Des exemples de décisions d’exploitation
+
+(c) 10904 / S04 
+
+11
+
+## Diapositive 12
+
+Exemple 1: 
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+(c) 10904 / S04 
+
+12
+
+## Diapositive 13
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+Coût total pour 50 000 unités du BK200 | 
+
+Matières premières (MP) | 125 000 $
+
+Salaires des employés de production (MOD) | 62 500 $
+
+Frais généraux de fabrication variables | 87 500 $
+
+Frais généraux de fabrication fixes | 175 000 $
+
+Coût total | 450 000 $
+
+Nombre d’unités du BK200 |  ÷ 50 000
+
+Coût unitaire 450 000 $ / 50 000 u. | 9,00 $
+
+Le détail du coût complet unitaire pour la production du BK200 par ABC est présenté dans le tableau ci-contre
+Un fournisseur externe offre à ABC de lui vendre ce produit à un prix de 7,75 $ l’unité
+Le directeur de production pense à sous-traiter la production du BK200 pour l’acheter de ce fournisseur
+Qu’en pensez-vous ? 
+
+(c) 10904 / S04 
+
+13
+
+## Diapositive 14
+
+Éléments à prendre en considération
+
+Situation 1: Les coûts fixes sont communs
+Comment nos coûts variables se comparent-ils aux coûts de sous-traitance (prix proposé par le fournisseur = coût variable) ? 
+
+Situation 2: Les coûts fixes sont communs et spécifiques
+Certains coûts fixes sont-ils des coûts fixes spécifiques à l’objet de coût?
+
+Situation 3: Calcul d’un coût de renonciation
+Que pourrions-nous faire avec la capacité de production libérée ?
+
+14
+
+(c) 10904 / S04 
+
+## Diapositive 15
+
+Acheter (sous-traiter) ou fabriquer un produit Analyse différentielle (situation 1)
+
+ | Alternative A
+Fabriquer | Alternative B
+Acheter | Analyse Différentielle
+Impact sur le résultat si achat: 
+Augmentation ou (diminution)
+
+Matières premières |  |  | 
+
+Salaires des employés de production |  |  | 
+
+FGF variables |  |  | 
+
+Achat du fournisseur |  |  | 
+
+     (7,75 $ x 50 000 unités) |  |  | 
+
+FGF fixes
+ |  |  | 
+
+Coût total du BK200 | 450 000 $ | 562 500 $ | (112 500) $
+
+Si les coûts fixes sont communs, comment réaliser une analyse différentielle ?
+
+(c) 10904 / S04 
+
+15
+
+## Diapositive 16
+
+Fabriquer ou acheter (sous-traiter) un produitAnalyse différentielle (situation 2)
+
+ | Alternative A
+Fabriquer | Alternative B
+Acheter | Analyse Différentielle
+Impact sur le résultat si achat: 
+Augmentation ou (diminution)
+
+Matières premières | 125 000 $ |  | 125 000 $
+
+Salaires des employés de production |   62 500 $ |  |   62 500 $
+
+FGF variables |   87 500 $ |  |   87 500 $
+
+Achat du fournisseur |  |  | 
+
+     (7,75 $ x 50 000 unités) |  | 387 500 $ | (387 500) $
+
+FGF fixes spécifiques
+
+FGF fixes communs | 25 000 $
+
+150 000 $ | 0 $
+
+150 000 $ |   25 000 $
+  
+0 $
+
+Coût total du BK200 | 450 000 $ | 537 500 $ | (87 500) $
+
+Amortissement de la machinerie utilisée seulement pour la production du BK200
+
+(c) 10904 / S04 
+
+16
+
+## Diapositive 17
+
+Fabriquer ou acheter (sous-traiter) un produitSituation 3 avec un Coût de renonciation
+
+S'il existe une autre opportunité d'utiliser la capacité de production dégagée par le fait que nous avons sous-traité une partie de la production, alors il faut considérer un coût de renonciation dans notre prise de décision. 
+Dans le cas où ABC achète le BK200 du fournisseur, l'entreprise pourrait utiliser la capacité de production libérée pour générer un résultat additionnel de 100 000 $ en produisant 50 000 unités du L900, un autre produit qu’elle fabrique déjà.
+Rappel : un coût de renonciation est un manque à gagner causé par la renonciation à une option considérée comme la meilleure après celle qui a été choisie.
+
+
+(c) 10904 / S04 
+
+17
+
+## Diapositive 18
+
+Fabriquer ou acheter (sous-traiter) un produitAnalyse différentielle (situation 3)
+
+ | Alternative A
+Fabriquer | Alternative B
+Acheter | Analyse Différentielle
+Impact sur le résultat si achat: 
+Augmentation ou (diminution)
+
+Matières premières | 125 000 $ |  | 125 000 $
+
+Salaires des employés de production |   62 500 $ |  |   62 500 $
+
+FGF variables |   87 500 $ |  |   87 500 $
+
+Achat du fournisseur |  |  | 
+
+     (7,75 $ x 50 000 unités) |  | 387 500 $ | (387 500) $
+
+FGF fixes spécifiques
+FGF fixes communs  | 25 000 $
+150 000 $ | 0 $
+150 000 $ |   25 000 $
+  0 $
+
+Coût de renonciation  | 100 000 $ | - |  100 000 $
+
+Coût total du BK200 | 550 000 $ | 537 500 $ | 12 500 $
+
+Comment réaliser une analyse différentielle si nous avons un coût de renonciation ? 
+
+(c) 10904 / S04 
+
+18
+
+## Diapositive 19
+
+Fabriquer ou acheter (sous-traiter) un produit
+
+À noter : 
+Évidemment, les facteurs qualitatifs doivent toujours être considérés pour prendre une décision éclairée
+Par exemple: 
+Est-ce que le fournisseur sera en mesure de fabriquer avec le  même niveau de qualité que si nous fabriquons nous-mêmes ?
+Est-ce que le fournisseur sera en mesure de livrer dans les délais nécessaires à notre production?
+(…)
+
+
+
+
+(c) 10904 / S04 
+
+19
+
+## Diapositive 20
+
+Exemple 2:
+
+Continuer (ajouter) ou abandonner un produit
+
+(c) 10904 / S04 
+
+20
+
+## Diapositive 21
+
+Continuer (ajouter) ou abandonner un produit
+
+En $ | Produit X | Produit Y | Produit Z | Total
+
+Ventes | 32 000 | 50 000 | 45 000 | 127 000
+
+Coûts variables | (24 000) | (25 000) | (23 000) | (72 000)
+
+Coûts fixes | (12 000) | (13 000) | (11 000) | (36 000)
+
+Résultat d’exploitation  | (4 000) | 12 000 | 11 000 | 19 000
+
+Une entreprise fabrique trois produits dont les résultats sont présentés dans le tableau ci-contre.
+Le directeur de production veut arrêter la production du produit X
+Qu’en pensez-vous ? 
+
+
+(c) 10904 / S04 
+
+21
+
+## Diapositive 22
+
+Éléments à prendre en considération
+
+Situation 1: Les coûts fixes sont communs
+Est-ce que le produit dégage une marge sur coûts variables positive ? 
+Les coûts fixes continueront-ils d'exister même si nous abandonnons le produit ? 
+
+Situation 2: Les coûts fixes sont communs et spécifiques
+Est-ce que le produit dégage une marge sur coûts variables positive ? 
+Certains coûts fixes sont-ils des coûts fixes spécifiques au produit ?
+
+
+(c) 10904 / S04 
+
+22
+
+## Diapositive 23
+
+Continuer (ajouter) ou abandonner un produitSituation 1
+
+En $ | Total entreprise
+
+Ventes | 127 000 $
+
+Coûts variables | (72 000 $)
+
+Coûts fixes communs | (36 000 $)
+
+Résultat d’exploitation  | 19 000 $
+
+Analyse différentielle (coûts communs)
+
+(c) 10904 / S04 
+
+23
+
+En $ | Continue
+Produit x | Abandonne
+Produit x | Analyse différentielle
+
+Ventes | 32 000 $ | 0 $ | (32 000) $
+
+- Coûts variables | 24 000 $ | 0 $ | 24 000  $
+
+- Coûts fixes communs | 12 000 $ | 12 000 $ | 0 $
+
+Résultat d’exploitation  | (4 000 $) | (12 000) $ | (8 000) $
+
+## Diapositive 24
+
+Continuer (ajouter) ou abandonner un produitSituation 2
+
+Analyse différentielle (coûts spécifiques et communs)
+
+(c) 10904 / S04 
+
+24
+
+En $ | Continue | Abandonne | Analyse différentielle
+Augmentation ou diminution du résultat d’exploitation
+
+Ventes | 32 000 $ | 0 $ | (32 000) $
+
+- Coûts variables | 24 000 $ | 0 $ | 24 000  $
+
+- Coûts fixes spécifiques | 3 900 $ | 0 $ | 3 900 $
+
+- Coûts fixes communs | 8 100 $ | 8 100 $ | 0 $
+
+Résultat d’exploitation  | (4 000 $) | (8 100) $ | (4 100) $
+
+## Diapositive 25
+
+Continuer (ajouter) ou abandonner un produitAnalyse de rentabilité (les marges)
+
+(c) 10904 / S04 
+
+25
+
+En $ | Continue | Abandon | Analyse différentielle
+
+Ventes | 32 000 $ | 0 $ | (32 000) $
+
+- Coûts variables | 24 000 $ | 0 $ | 24 000  $
+
+- Coûts fixes spécifiques | 3 900 $ | 0 $ | 3 900 $
+
+- Coûts fixes communs | 8 100 $ | 8 100 $ | 0 $
+
+Résultat d’exploitation  | (4 000 $) | (8 100) $ | (4 100) $
+
+En $ | Analyse Rentabilité
+
+Ventes | 32 000 $
+
+- Coûts variables | 24 000 $
+
+Marge sur coûts variables (MCV)  | 8 000 $
+
+- Coûts fixes spécifiques | 3 900 $
+
+Marge sur coûts spécifiques | 4 100 $
+
+- Coûts fixes communs | 8 100 $
+
+Résultat d’exploitation  | (4 000) $
+
+Continue  car le produit X contribue à payer les coûts fixes communs
+
+Continue…  car si on abandonne, le résultat d’exploitation diminuera de 4 100 $.
+
+## Diapositive 26
+
+Continuer (ajouter) ou abandonner un produit
+
+À noter :
+Évidemment, les facteurs qualitatifs doivent toujours être considérés pour prendre une décision éclairée
+Quel sera l’effet sur les employés qui resteront à leur poste ?
+Est-ce que le produit est lié aux ventes d’un autre produit ? 
+Pourrons-nous récupérer les ventes perdues par les autres produits offerts ?
+(…)
+
+
+
+
+(c) 10904 / S04 
+
+26
+
+## Diapositive 27
+
+La marge sur coûts spécifiques d’un objet de coût
+
+
+
+
+
+Sont considérés comme des coûts fixes spécifiques, seulement les coûts fixes pouvant être reliés à un objet de coût précis
+Il ne doit pas y avoir de répartition arbitraire, car dans un tel cas, on parlera plutôt de coûts fixes communs.
+Théoriquement, si l’objet de coût disparaît, les coûts fixes spécifiques disparaissent.
+
+
+Marge sur coûts spécifiques = 
+MCV totale – Coûts fixes spécifiques
+
+Déterminer la contribution d’un objet de coûts (produit, activité, service, projet…) à la couverture des coûts fixes communs et au résultat​
+
+* La marge sur coûts spécifiques est nommée « marge nette » dans le manuel. 
+
+(c) 10904 / S04 
+
+27
+
+## Diapositive 28
+
+Calcul de la marge sur coûts spécifiques
+
+Ventes |  | XX
+
+Moins : Coûts variables totaux |  | (XX)
+
+      Matières premières | XX | 
+
+      Main-d’œuvre directe | XX | 
+
+      FGF variables | XX | 
+
+      Frais de vente variables | XX | (XX)
+
+Marge sur coûts variables totale |  | XX
+
+Moins: Coûts fixes spécifiques |  | (XX)
+
+Marge sur coûts spécifiques |  | XX
+
+Cette marge contribuera à la couverture des coûts fixes communs et au résultat​
+
+(c) 10904 / S04 
+
+28
+
+## Diapositive 29
+
+Question de révision – analyse différentielle et analyse de rentabilité (les marges)
+
+La ferme Deschamps et Fils est une entreprise agricole qui cultive les champs l'été et fait du déneigement pour les cours des particuliers l'hiver. La ferme possède 4 tracteurs qui sont utilisés été comme hiver et entreposés dans les bâtiments de l'entreprise. De plus, l'entreprise possède des équipements utilisés uniquement pendant la saison d'hiver (souffleuse à neige) et d'autres qui servent uniquement lors des travaux d'été. 
+Voici trouverez dans le tableau ci-contre, quelques informations sur les revenus et les coûts de la ferme.
+
+
+ | Été | Hiver | Total 
+
+Ventes | 415 000 $ | 130 000 $ | 545 000 $
+
+Coûts variables
+Pesticides, engrais, etc.
+MOD
+Essence | 
+  50 000 $
+  75 000 $
+100 000 $ | 
+
+  75 000 $
+  30 000 $ | 
+
+330 000 $
+
+Coûts fixes
+Bâtiment
+Tracteurs
+Équipement - été
+Équipement - hiver | 
+  20 000 $
+  24 000 $
+  10 000 $
+          - | 
+  20 000 $
+  24 000 $
+         -
+  12 000 $ | 
+110 000 $
+
+Résultat d’exploitation | 136 000 $ | (31 000) $ | 105 000 $
+
+Monsieur Deschamps se demande s’il devrait continuer d’offrir le service de déneigement l’hiver. Qu’en pensez-vous?
+
+(c) 10904 / S04 
+
+29
+
+## Diapositive 30
+
+Piste de solution (étudiant)
+
+## Diapositive 31
+
+Piste de solution (étudiant)
+
+ | Hiver | Analyse de rentabilité (marges) Activité hiver | Analyse différentielle
+
+Ventes | 130 000 $ |  | Continue    Abandon                   Différentiel
+
+Coûts variables
+Pesticides, engrais, ...
+MOD
+Essence | 
+
+  75 000 $
+  30 000 $ |  | 
+
+Coûts fixes
+Équipement - été
+Équipement - hiver
+Bâtiment
+Tracteurs
+ | 
+         -
+12 000 $
+20 000 $
+24 000 $ |  | 
+
+Résultat d’exploitation | (31 000) $ |  | 
+
+## Diapositive 32
+
+Exemple 3: 
+
+Choisir parmi une gamme de produits
+
+(c) 10904 / S04 
+
+32
+
+## Diapositive 33
+
+Choisir parmi une gamme de produits
+
+Contexte :
+Dans une entreprise, il peut arriver que la demande finisse par dépasser la capacité de production disponible (facteur contraignant). 
+   (exemple: une entreprise en croissance). 
+On peut alors : 
+Prioriser certains produits / services pour maximiser le résultat (contexte de ressources limitées) = décision court terme
+Accroître la capacité de production = décision long terme
+Lorsque l’on décide de prioriser, d’un point de vue financier, comment établir l’ordre de priorité ? 
+
+
+(c) 10904 / S04 
+
+33
+
+## Diapositive 34
+
+Illustration Eléctroflux
+
+Eléctroflux fabrique et commercialise des « solutions éclairantes ». Sa ligne de production de Sainte-Dorothée est la seule à pouvoir fabriquer des néons et des ampoules incandescentes. 
+Le service marketing a établi les prévisions de ventes suivantes : 41 000 boîtes de néons et 164 000 boîtes d’ampoules. 
+La direction de la production nous indique qu’il faut 2 heures de MOD pour fabriquer une boîte de néons et 1 heure de MOD pour fabriquer une boîte d’ampoules.
+Après discussion avec la direction et les RH, on arrive au constat suivant : en période de pénurie de MOD au Québec, il sera difficile d’embaucher des employés additionnels.
+Pour l’année à venir, 240 000 heures de MOD (incluant les heures supplémentaires) seront disponibles. Électroflux aura toutefois besoin de 246 000 heures pour répondre à la demande prévue. L’entreprise fait donc face à un manque de capacité de 6 000 heures de MOD.
+
+(c) 10904 / S04 
+
+34
+
+## Diapositive 35
+
+QUESTIONS : 
+
+Si on souhaite réduire l’impact du manque de capacité (6 000 hrs MOD) sur notre profit  : 
+Quelle production doit-on réduire (néons ou ampoules) ? 
+Combien de chaque produit devrait-on produire ?
+Quel sera le plan de production optimal ? 
+Compte tenu des MCV unitaires des deux produits, le contrôleur propose de diminuer la production de boîtes d’ampoules. 
+Qu’en pensez-vous ?  
+
+
+
+(c) 10904 / S04 
+
+35
+
+ | Néons | Ampoules
+
+Volume | 41 000 | 164 000
+
+Heures MOD | 2 hrs | 1 hr
+
+Prix de vente | 325 $ | 250 $
+
+Coûts variables | 175 $ | 130 $
+
+Marge sur coûts variables | 150 $ | 120 $
+
+## Diapositive 36
+
+La marge par unité d’un facteur de production contraignant
+
+Marge par facteur de production (formule générale) 
+
+
+
+
+
+
+ | Néons | Ampoules
+
+Prix de vente | 325 $ | 250 $
+
+Moins : Coûts variables | 175 $ | 130 $
+
+Marge sur coûts variables | 150 $ | 120 $
+
+Heures de MOD par unité | ÷  2 h | ÷ 1 h
+
+MCV par facteur de production |  | 
+
+Il faut prioriser le produit avec la marge sur coûts variables par facteur de production contraignant (MCV/heure de MOD) la plus élevée. 
+
+(c) 10904 / S04 
+
+36
+
+## Diapositive 37
+
+La marge par unité d’un facteur de production contraignant
+
+Marge utilisée dans une situation où il existe plusieurs produits et où l'entreprise dispose d’une ressource limitée en matière de production (capacité de production limitée)
+Marge par facteur de production (formule générale) :
+
+
+Les facteurs de production sont les ressources utilisées pour la production. (kg de MP, heures de MOD, heures- machine, etc.)
+Dans ce cas, d’un point de vue quantitatif, le produit qui rapporte la plus grande marge par unité du facteur de production contraignant est celui qui sera favorisé pour optimiser le résultat.
+
+Marge sur coûts variables du produit   
+Nombre d’unités requises de ce facteur de production
+
+(c) 10904 / S04 
+
+37
+
+## Diapositive 38
+
+Exemples de facteurs contraignants 
+
+(c) 10904 / S04 
+
+38
+
+## Diapositive 39
+
+Établir le plan de production optimal (en unités)
+
+ | Ampoules | Néons
+
+Demande (boîtes) | 164 000 u. | 41 000 u.
+
+HMOD / boîte d’ampoules | 1 heure | 2 heures
+
+Priorité de production | 1 | 2
+
+Plan de production (en unités) |  | 
+
+3 000 boîtes de néons ne seront pas produites
+
+Heures totales disponibles |         240 000 heures
+
+Heures pour produire 164 000 ampoules | 
+
+Heures disponibles pour produire les néons | 
+
+Boîtes de Néons produites | 
+
+(c) 10904 / S04 
+
+39
+
+## Diapositive 40
+
+Les marges et la prise de décision
+
+(c) 10904 / S04 - Version A2024
+
+40
+
+## Diapositive 41
+
+Analyse des marges - objectifs
+
+Jusqu`à présent nous avons étudié comment les marges peuvent être utilisées dans le cadre d’une décision d’exploitation.
+
+Une organisation peut calculer des marges pour mener une analyse complète de la profitabilité de ses objets de coûts (produits/services ou gammes de produits/services, unités d’exploitation, divisions, secteurs géographiques…)
+Ce calcul peut être récurrent et constituer un système de veille.
+Ce calcul peut être ponctuel pour analyser la contribution des différents objets de coûts à la rentabilité de l’entreprise, revoir le mix de vente, aider à la révision de la politique tarifaire (fixation du prix de vente).
+Ce calcul peut permettre de faire des analyses prédictives permettant de voir rapidement l’impact d’une variation du volume d’activité sur le résultat.
+(….)
+
+
+(c) 10904 / S04 
+
+41
+
+## Diapositive 42
+
+Les marges étudiées jusqu’à présent (sommaire)
+
+(c) 10904 / S04 
+
+42
+
+## Diapositive 43
+
+Exercice Pub du plateau 10B.1
+
+Analyse de marges pour mener une analyse complète de la profitabilité de ses objets de coûts
+
+(c) 10904 / S04 
+
+43
+
+## Diapositive 44
+
+Les décisions d’exploitation (sommaire)
+
+
+
+Résultat différentiel
+La différence entre les deux propositions. 
+- Augmentation ou diminution du résultat. 
+
+Calcul de marges pour effectuer l’analyse
+
+Coûts directs = coûts variables + coûts fixes spécifiques
+
+(c) 10904 / S04 
+
+44
+
+## Diapositive 45
+
+Conclusion – Séance 4
+
+Prise de décision d’exploitation et analyse de marges
+
+Idée  
+
+Informations pertinentes
+
+coût pertinent
+coût de renonciation
+résultat différentiel
+
+∙ Produire l’information pertinente pour prendre certaines décisions d’exploitation
+∙ Comprendre la contribution de différents objets de coûts à la profitabilité de l’organisation 
+
+Comment
+
+∙ Analyse différentielle
+∙ Calcul de marges selon la prise de décision : MCV unitaire, MCV totale, marge sur coûts spécifiques, marge par facteur de production contraignant … 
+
+(c) 10904 / S04 
+
+45
+
+## Diapositive 46
+
+QUESTIONS…
+
+(c) 10904 / S04 
+
+46

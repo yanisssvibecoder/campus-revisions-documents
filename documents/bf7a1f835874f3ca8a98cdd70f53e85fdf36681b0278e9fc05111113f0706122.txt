@@ -1,0 +1,21 @@
+Mise en situation
+Depuis 7 ans, la compagnie Ernesto inc. vend des vêtements haut de gamme pour homme. Un nouveau projet est sur la table alors que la compagnie a l’intention d’investir dans une nouvelle gamme de produits de soin de la peau pour homme. Nous savons déjà que ce projet nécessiterait des dépenses totales de 3,5M$ pour couvrir l’ensemble des frais liés à ce projet.
+Vous venez d’être engagé par la compagnie pour votre expertise dans la prise de décision financière et on s’en remet à vous pour la prise de décision quant à ce projet.
+Partie A : Évaluation du projet
+Vous proposez d’évaluer le projet selon le modèle des flux monétaires actualisés. Pour cela, vous cherchez le taux d’actualisation approprié pour son évaluation : le CMPC vous semble la meilleure des approches. Comme les dirigeants ne sont pas tellement habitués à ce type d’évaluation, vous leur présentez une grille possible afin de modifier le CMPC pour qu’il soit le plus représentatif du risque encouru :
+Les dirigeants, même en étant confiant de la demande pour ce nouveau produit, considèrent ce projet comme étant d’un niveau de risque élevé pour l’entreprise.
+À partir des états financiers disponibles et de vos recherches sur l’entreprise, vous en ressortez les données suivantes :
+Un dividende de 0.75$ par action vient tout juste d’être payé. Tous les dividendes sont annuels. Les dirigeants s’attendent à ce que les dividendes augmentent à un taux de 40% pour la première année et ensuite à un taux de 6% pour les années subséquentes. Présentement, le rendement requis par les actionnaires est de 12% et il y a 300 000 actions en circulation.
+Les comptes fournisseurs de l’entreprise s’élèvent présentement à 225 000$.
+Il y a 5 ans, l’entreprise a émis une obligation particulière. Afin de ne pas mettre trop de pression sur les liquidités alors que l’entreprise en était encore à ses débuts, les dirigeants ont vendu sur les marchés 1000 obligations dont le taux de coupon augmente tous les 5 ans. D’une échéance de 15 ans à l’émission, l’obligation portait un taux de coupon de 2% pour les 5 premières années, de 5% pour les 5 années suivantes et de 8% pour les 5 dernières années. Les obligations ont présentement un taux de rendement à l’échéance de 7%.
+Il y a deux ans, 500 autres obligations ont été émises sur les marchés. De type beaucoup plus conventionnel, ces obligations portent un taux de coupon de 5% pour toute la durée de l’émission. Ces obligations viennent à échéance dans 8 ans et se transigent actuellement à un prix de 982$ sur les marchés.
+Les dirigeants ont déjà fait évaluer le projet par une firme de consultant (avant votre arrivée) et les résultats démontrent que le taux de rendement interne du projet est de 16.5%.
+Le taux d’imposition de l’entreprise est de 30%.
+À partir des informations que vous détenez, déterminez le coût moyen pondéré du capital (CMPC) de l’entreprise Ernesto inc.
+Déterminez, selon les critères de la direction de l’entreprise, si elle devrait ou non entreprendre le projet.
+Niveau de risque | Prime pour le risque
+Très faible | -5%
+Faible | -2%
+Moyen | 0%
+Élevé | 3%
+Très élevé | 6%

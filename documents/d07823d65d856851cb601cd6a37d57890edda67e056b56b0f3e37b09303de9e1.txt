@@ -1,0 +1,146 @@
+
+
+Énoncé : 
+
+SITUATION 1 – Choisir parmi une gamme de produits
+
+Une entreprise fabrique quatre produits et détermine son mix de production en fonction des données suivantes :
+
+
+ | Produit X
+ | Produit Y
+ | Produit Z
+ | 
+ | Prix de vente ($)
+ | 38
+ | 64
+ | 50
+ | 
+ | Matières premières ($)
+ | 18
+ | 10
+ | 12
+ | 
+ | MOD ($)
+ | 12
+ | 36
+ | 24
+ | 
+ | MCV unitaire ($)
+ | 8
+ | 18
+ | 14
+ | 
+ | Ventes maximales selon la demande (unités)
+ | 6 000
+ | 5 200
+ | 5 000
+ | 
+ | 
+Le taux horaire de la MOD est de 12$ /h. 
+
+Quel sera le plan de production optimal ?
+
+
+SITUATION 2 – Choisir parmi une gamme de produits en situation de ressources limitées
+
+L’entreprise n’est finalement pas parvenue à embaucher suffisamment d’ouvriers et les heures de MOD sont limitées à 30 000 heures. 
+Quel sera le plan de production optimal ?
+
+
+
+	
+Solution – Exercice d’application 1
+
+SITUATION 1 
+
+Comme il n’est pas spécifiée qu’un facteur de production est limité, l’entreprise devrait produire au maximum de ce que le marché est en mesure d’absorber. Le plan de production optimal est le suivant : 
+Produits X : 6000
+Produits Y : 5 200
+Produits Z = 5 000
+
+
+
+SITUATION 2 
+
+On indique que le nombre d’heures de MOD est limité à 30 000 heures. Nous avons donc un facteur de production contraignant. La démarche à suivre est donc la suivante : 
+
+Analyse de la capacité (en heures MOD) : à combien s’élève le déficit de capacité (le cas échéant) ? 
+	
+Heures de MOD par unité		
+
+ | Produit X
+ | Produit Y
+ | Produit Z
+ | 
+ | MOD ($)
+ | 12 $ ÷ 12 $/h = 
+1 HMOD
+ | 36 $ ÷ 12 $/h = 
+3 HMOD
+ | 24 ÷ 12 $/h = 
+2 HMOD
+ | 
+ | 
+		
+Capacité nécessaire pour produire les produits X		1 HMOD * 6000  = 	6 000 h
+Capacité nécessaire pour produire les produits Y		3 HMOD * 5200  = 	15 600 h
+Capacité nécessaire pour produire les produits Z		2 HMOD * 5 000 =	10 000 h
+
+Besoin total 										31 600 
+Capacité totale disponible								30 000
+Déficit de capacité 									(1 600)
+
+
+Il manque 1 600 heures de MOD pour pouvoir produire l’ensemble des produits. Pour déterminer les produits à fabriquer en priorité, nous allons calculer la marge par heure de MOD (le facteur contraignant) pour chacun des produits. 
+
+
+Calcul de la marge par facteur contraignant (les heures de MOD)
+
+ | Produit X
+ | Produit Y
+ | Produit Z
+ | 
+ | MCV unitaire ($)
+ | 8
+ | 18
+ | 14
+ | 
+ | Heures de MOD nécessaires à la production 
+ | 1
+ | 3
+ | 2
+ | 
+ | MCV par heure de MOD
+ | 8
+ | 6
+ | 7
+ | 
+ | 
+Pour maximiser le résultat, il faut en priorité produire et vendre les produits X, puis les produits Z et enfin les produits Y.
+
+
+3) Déterminer le plan de production optimal
+
+ | Produit X
+ | Produit Y
+ | Produit Z
+ | 
+ | Ordre de priorité
+ | 1
+ | 3
+ | 2
+ | 
+ | Heures de MOD utilisées
+ | 6 000
+ | 14 000 *
+ | 10 000
+ | 
+ | Volume de production 
+(plan de production optimal)
+ | 6 000
+ | 4 666 
+ | 5 000
+ | 
+ | 
+* Pour produire les produits Y, il reste 14 000 heures de MOD (30 000 – 6 000 – 10 000). Avec 14 000 heures de MOD, il est possible de produire 4 666 produits Z. 

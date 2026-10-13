@@ -1,0 +1,31 @@
+TP1 MARK 10100 — BENI (Mondo Robotics) : CE QU'IL RESTE À FAIRE AVANT LA REMISE
+==============================================================================
+Le travail complet est dans : TP1_Beni_MARK10100.docx  (Arial 11, interligne 1,5,
+corps du travail = 5 pages, limite 6. Format Word exigé. Il ne dépasse pas.)
+
+À COMPLÉTER PAR L'ÉQUIPE (2 minutes) :
+1. Page de présentation : remplacer [Nom de l'étudiant·e 1 à 4], [Nom de l'enseignant·e]
+   et [date — avant la séance 7]. La séance 7 tombe autour du 12 octobre 2026 (à confirmer
+   dans l'horaire de ta section) : remettre AVANT cette séance, onglet Tâches de ZoneCours,
+   un seul dépôt par équipe, format Word.
+2. Relire une fois à voix haute (ça aide vraiment à attraper les phrases plates).
+3. ANNEXE IA : la question à poser est déjà écrite en Annexe 1. Si vous voulez refaire
+   l'échange vous-mêmes sur chatgpt.com (2 minutes) et coller votre sortie à la place,
+   c'est toujours mieux pour l'oral (le prof peut poser des questions sur cette étape).
+
+CE QUI A DÉJÀ ÉTÉ FAIT :
+- Audit complet du cours ZoneCours (Canvas) : voir ZoneCours\extraction_notes.md
+  (structure des 12 séances, grille d'évaluation, règles du TP1/TP2/oral, intra du 17 oct.)
+- Tout le matériel téléchargé dans ZoneCours\ (PPT séances 1-5, énoncé TP1, TP2, etc.)
+- Recherche Kickstarter : le produit choisi est BENI de Mondo Robotics (7 M$ CA amassés,
+  7 868 contributeurs, 8 juill.-6 sept. 2026) — détails dans extraction_notes.md
+- Le TP1 rédigé au complet : intro, tableau FFOM, justifications (PESTEL Canada),
+  2 enjeux avec le cadre « Puisque… et que… », 2 objectifs SMART, bibliographie,
+  annexe IA + fiche technique — puis révisé une première fois par un agent réviseur.
+
+RAPPELS DE CONSIGNES :
+- Pénalité retard : -5 % le jour même après le cours, -10 % le lendemain, 0 après.
+- Sources mal citées : jusqu'à -15 % (chaque élément du texte est déjà cité).
+- Évaluation orale (10 %) à la séance 10 sur CE travail : sois capable d'expliquer
+  chaque case du FFOM, les 2 enjeux et pourquoi les objectifs sont SMART.
+- Règle du double seuil : moyenne ≥ 55 % aux évaluations individuelles pour réussir.

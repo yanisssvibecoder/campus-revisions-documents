@@ -1,0 +1,533 @@
+Importance des chapitres – Livre Gestion Financière 4e édition
+		: Très important, concepts à maîtriser
+		: Assez important, concepts à connaitre sommairement
+		: Pas important, n’est pas matière à examen
+Chapitre 1 : Une introduction à la finance des entreprises |  |  | 
+La finance des entreprises et le gestionnaire financier
+Qu’est-ce que la finance des entreprises
+Le gestionnaire financier
+Les décisions en matière de gestion financière | 
+√
+√
+√ |  | 
+1.2 Les formes d’organisation des entreprises |  |  | √
+1.3 L’objectif de la gestion financière
+       Les objectifs possibles
+       L’objectif de la gestion financière
+       Un objectif plus général | 
+√
+√
+√ |  | 
+1.4 Le problème d’agence et le contrôle de la société de capitaux
+      Les relations d’agence
+      Les objectifs de la direction
+      Les dirigeants agissent-ils dans l’intérêt des actionnaires  | 
+√
+√
+√ |  | 
+1.5 Les marchés financiers et l’entreprise
+      Les flux monétaires de l’entreprise
+      Le marché monétaire et le marché financier
+      Le marché primaire et le marché secondaire | 
+√
+√
+√ |  | 
+1.6 Les institutions financières |  | √ | 
+1.7 La tendance sur les marchés de capitaux et en gestion financière |  | √ | 
+Chapitre 5 : Une initiation à l’évaluation : la valeur de l’argent dans le temps |  |  | 
+5.1 La valeur capitalisée et le calcul des intérêts composés
+       Un investissement sur une seule période
+       Un investissement pour plus d’une période 
+       Une remarque sur le taux de croissance des intérêts composés | 
+√
+√
+√ |  | 
+5.2 La valeur actualisée et l’actualisation
+       La période simple
+       La valeur actualisée pour plusieurs périodes | 
+√
+√ |  | 
+5.3 Les valeurs actualisées et capitalisées plus en détail
+       La valeur actualisée par rapport à la valeur capitalisée
+       La détermination du taux d’actualisation
+       Trouver le nombre de périodes | 
+√
+√
+√ |  | 
+Chapitre 6 : La valeur des flux monétaires actualisés |  |  | 
+6.1 Les valeurs capitalisées et actualisées de flux monétaires multiples   
+       La valeur capitalisée de flux monétaires multiples
+       La valeur actualisée de flux monétaires multiples
+       Les versements de flux monétaires : notes supplémentaires | 
+√
+√
+√ |  | 
+6.2 L’évaluation des FM constants : l’annuité et la perpétuité
+       La valeur actualisée des annuités
+       La valeur capitalisée des annuités
+       Les annuités de début de période : notes supplémentaires
+       Les perpétuités
+       Les perpétuités à valeur croissante
+       L’annuité à valeur croissante | 
+√
+√
+√
+√
+√
+√ |  | 
+6.3 La comparaison des taux : l’effet des intérêts composés
+       Le taux d’intérêt annuel effectif et les intérêts composés
+       Le calcul et la comparaison des taux d’intérêt annuels réels
+       Les hypothèques
+       Le taux d’intérêt annuel effectif et le taux périodique annuel
+       La limite extrême : l’intérêt à capitalisation continue | 
+√
+√
+√
+√
+ |  | 
+
+
+
+
+√
+6.4 Les divers types de prêts et l’amortissement des prêts |  |  | √
+Chapitre 7 : Les taux d’intérêt et la valeur des obligations |  |  | 
+7.1 Les obligations et la valeur
+       Les caractéristiques et les cours des obligations
+       La valeur et le rendement des obligations
+       Le risque de taux d’intérêt
+       Le calcul du rendement à l’échéance | 
+√
+√
+√
+√ |  | 
+7.2 Quelques caractéristiques des obligations
+       La façon de différencier les créances des capitaux
+       Quelques notions de base sur la dette à l.t. | √
+ | 
+√
+√ | 
+7.3 La cotation des obligations | √ |  | 
+7.4 Les caractéristiques de certaines obligations
+       L’ingénierie financière
+       Les obligations à coupons détachés
+       Les obligations à taux variables
+       Les autres types d’obligations | 
+
+√ | 
+√
+
+√
+√ | 
+7.5 Le marché obligataire (ou marché des obligations)
+       La vente et l’achat d’obligations
+       Comment lire le cours des obligations
+       D’autres informations sur le cours des obligations | 
+
+√ | 
+√
+
+√ | 
+7.6 L’inflation et les taux d’intérêts |  |  | √
+7.7 Les déterminants du rendement des obligations
+       La structure à terme des taux d’intérêt
+       Les rendements des obligations et la courbe de rendement |  | 
+√
+√ | 
+Chapitre 8 : L’évaluation du capital-actions |  |  | 
+8.1 L’évaluation des actions ordinaires
+       Les flux monétaires des actions ordinaires
+       Quelques situations particulières
+       Les taux de croissance multiples
+       Les composantes du taux exigé | 
+√
+√
+
+√ | 
+
+
+√
+ | 
+8.2 Les caractéristiques des actions ordinaires
+      Les droits des actionnaires
+      Les dividendes
+      Les catégories d’actions | 
+√
+√
+√ |  | 
+8.3 Les caractéristiques des actions privilégiées
+       La valeur nominale
+       Les dividendes cumulatifs ou non cumulatifs
+       Les actions privilégiées sont-elles des créances ?
+       Les actions privilégiées et l’impôt
+       Au-delà de l’impôt | 
+√
+√
+√
+ |  | 
+
+
+
+√
+√
+8.4 La publication des cours du marché
+       Les occasions de croissance
+       Une application : le ratio cours-bénéfice |  | 
+√
+√ | 
+Chapitre 9 : La valeur actualisée nette et les autres critères |  |  | 
+9.1 La valeur actualisée nette
+       Le principe de base
+       L’estimation de la valeur actualisée nette | 
+√
+√ |  | 
+9.2 Le critère du délai de récupération
+       Définition
+       L’analyse du critère de délai de récupération
+       Les aspects positifs
+       Résumé 
+       Le critère du délai de récupération actualisé | 
+√
+√
+√
+√
+√ |  | 
+9.3 Le rendement comptable moyen | √ |  | 
+9.4 Le taux de rendement interne
+       Les problèmes inhérents
+       Les bons côtés | √
+√
+√ |  | 
+9.5 L’indice de rentabilité | √ |  | 
+9.6 Le choix des investissements en pratique |  | √ | 
+Chapitre 10 : La prise de décision en matière d’investissement |  |  | 
+10.1 Les flux monétaires d’un projet – un aperçu
+         Les flux monétaires pertinents
+         Le principe de la valeur intrinsèque | 
+√
+√ |  | 
+10.2 Les flux monétaires différentiels
+         Les coûts irrécupérables
+         Les coûts de renonciation
+         Les effets secondaires ou les externalités
+         Le fonds de roulement
+         Les coûts de financement
+         L’inflation
+         L’intervention gouvernementale
+         D’autres facteurs | 
+√
+√
+√
+√
+√
+√
+√
+√ |  | 
+10.3 Les états financiers et les flux monétaires des projets |  |  | √
+10.4 Les flux monétaires : information supplémentaire
+         Le fonds de roulement scruté à la loupe
+         L’amortissement fiscal ou l’amortissement du coût en capital
+         Un exemple : Engrais magestic inc. | 
+√
+√ | 
+
+
+√ | 
+10.5 D’autres définitions du FM provenant de l’exploitation  |  |  | √
+10.6 La méthode de l’avantage fiscal dans le cas de Engrais majestic |  |  | √
+10.7 Des cas particuliers
+         L’évaluation de propositions de réduction des coûts
+         Le remplacement d’un élément d’actif
+         L’évaluation d’équipements ayant des durées de vie différentes
+         L’établissement d’un montant de soumission | 
+√
+√
+
+√ |  | 
+
+
+√
+Chapitre 12 : Quelques leçons à tirer de l’histoire des marchés financiers |  |  | 
+12.1 Le rendement
+         Le rendement en dollars
+         Le rendement en pourcentage | √
+√
+√ |  | 
+12.2 Les données historiques
+         Un aperçu
+         Un examen plus approfondi | √
+√
+√ |  | 
+12.3 Le rendement moyen : la première leçon
+         Le calcul du taux de rendement moyen
+         Le rendement moyen : le relevé historique
+         Les primes de risque
+         La première leçon | √
+√
+√
+√
+√ |  | 
+12.4 La variabilité des rendements : la deuxième leçon
+         La distribution des fréquences et la variabilité
+         La variance et l’écart-type dans le temps
+         Les données historiques
+         La loi normale
+         La valeur à risque
+         La deuxième leçon
+         La crise de 2008
+         L’utilisation de l’histoire des marchés financiers | √
+√
+√
+√
+
+
+√
+
+√ | 
+
+
+
+√
+√
+
+√ | 
+12.5 Plus de détails concernant les rendements moyens
+          La moyenne arithmétique vs la moyenne géométrique
+          Le calcul des rendements moyens géométriques¸
+          Le rendement arithmétique moyen et le rendement géométrique moyen | √
+√
+√
+√ |  | 
+12.6 L’efficience du marché financier
+         Le comportement des prix sur un marché efficient
+         L’hypothèse du marché efficient
+         L’efficience de marché – les formes et les preuves | √
+√
+√
+√ |  | 
+Chapitre 13 : Le rendement, le risque, la courbe risque-rendement |  |  | 
+13.1 Les rendements espérés et les variances
+         Le rendement espéré
+         Le calcul de la variance | √
+√
+√ |  | 
+13.2 Les portefeuilles
+         Les poids d’un portefeuille
+         Les rendements espérés du portefeuille
+         La variance d’un portefeuille
+         L’écart-type et la diversification d’un portefeuille
+         La diversification et l’ensemble efficient
+         Les corrélations durant la crise de 2007-2009 | √
+√
+√
+√
+√
+ | 
+
+
+
+
+√
+√ | 
+13.3 Les annonces, les imprévus et le rendement espéré |  |  | √
+13.4 Le risque systématique et le risque non systématique | √ |  | 
+13.5 La diversification et le risque du portefeuille
+         L’effet de la diversification : une autre leçon de l’histoire
+         Le principe de la diversification
+         La diversification et le risque non systématique
+         La diversification et le risque systématique
+         Le risque et l’investisseur avisé | √
+√
+√
+√
+√
+√ |  | 
+13.6 Le risque systématique et le coefficient bêta
+         Le principe du risque systématique
+         La mesure du risque systématique
+         Le coefficient beta du portefeuille | √
+√
+√
+√ |  | 
+13.7 La courbe risque-rendement
+         Le coefficient bêta et la prime de risque
+         Le calcul du coefficient bêta
+         La courbe rendement-risque | √
+√
+√
+√ |  | 
+13.8 Le modèle d’évaluation par arbitrage |  |  | √
+Chapitre 14 : Le coût du capital |  |  | 
+14.1 Le coût du capital : introduction
+         Le rendement exigé et le coût du capital
+         La politique financière et le coût du capital | √
+√
+√ |  | 
+14.2 Le coût des fonds propres
+         Le modèle de croissance du dividende
+         L’approche liée à la courbe risque-rendement | √
+√
+√ |  | 
+14.3 Le coût de l’endettement et des actions privilégiées
+         Le coût de l’endettement
+         Le coût des actions privilégiées | √
+√
+√ |  | 
+14.4 Le coût moyen pondéré du capital
+         Les proportions de la structure de capital
+         L’impôt et le coût moyen pondéré du capital
+         La résolution du problème de l’entrepôt
+         L’évaluation du rendement | √
+√
+√
+√
+ | 
+
+
+
+√ | 
+14.5 Le coût du capital par projet ou par division
+         La courbe risque-rendement et le coût moyen pondéré du capital
+         Le coût du capital des divisions
+         Les sociétés non diversifiées
+         L’approche subjective | √
+√
+√
+√
+√ |  | 
+14.6 Les frais d’émission et le coût moyen pondéré du capital
+         L’approche de base
+         Les frais d’émission et la valeur actualisée nette | √
+√
+√ |  | 
+14.7 Le coût du CMPC de Loblaw |  | √ | 
+Chapitre 15 : La réunion des capitaux |  |  | 
+15.1 Le cycle de vie du financement d’une entreprise
+         Le capital de risque
+         Quelques observations sur le capital de risque
+         Le choix d’un investisseur de capital de risque
+         Conclusion | √
+ | 
+√
+ √
+√
+√ | 
+15.2 L’émission publique | √ |  | 
+15.3 Le processus d’émission
+         L’enregistrement des titres
+         Les autres méthodes d’émission | √
+√
+ | 
+
+√ | 
+15.4 L’offre d’achat au comptant
+         Les types de conventions de placement
+         L’achat ferme
+         Une enchère au prix uniforme
+         La période de vente
+         L’option de placement excessif
+         La convention de blocage
+         La période d’attente
+         Les courtiers en valeurs mobilières | √
+√
+√
+√
+√
+√
+√
+√
+√ | 
+
+
+
+
+
+
+
+ | 
+15.5 Le prix de l’offre et la sous-tarification
+         La sous-tarification des PAPE : l’expérience 1999-2000
+         Les raisons de la sous-tarification | √
+√
+√ |  | 
+15.6 La vente de nouveaux fonds propres et la valeur de la société | √ |  | 
+15.7 Les frais d’émission de valeurs mobilières
+         Un exemple de PAPE : Athabasca Oil Sands |  | √
+√ | 
+15.8 Les droits |  |  | √
+15.9 La dilution
+         La dilution en pourcentage de propriété
+         La dilution de la valeur : la valeur aux livres et la valeur marchande | √
+√
+√ |  | 
+15.10 L’émission de dette à l.t. |  | √ | 
+Chapitre 16 : Le levier financier et la structure du capital |  |  | 
+16.1 La structure du capital
+         La valeur de la société et la valeur des actions : un exemple
+         La structure de capital et le coût du capital | √
+√
+√ |  | 
+16.2 L’effet de levier financier
+         L’effet de levier financier : notions essentielles
+         Les emprunts des sociétés et le levier artisanal | √
+√
+ | 
+
+√ | 
+16.3 La structure de capital et le coût des fonds propres
+         La proposition I de M&M : le diagramme à secteurs
+              Note : les formules ne sont pas matière à examen
+         Le coût des fonds propres et le levier financier : la proposition II de M & M
+              Note : les formules ne sont pas matière à examen
+         Le risque d’affaires et le risque financier | √
+√
+
+√
+ |  | 
+
+
+
+
+√
+16.4 Les propositions I et II et les impôts des sociétés
+         L’avantage fiscal que procurent les intérêts
+         Les impôts et la proposition I de M&M
+               Note : les formules ne sont pas matière à examen
+         Les impôts, le CMPC et la proposition II de M&M
+                Note : les formules ne sont pas matière à examen | √
+√
+√
+
+√
+ |  | 
+16.5 Les coûts de faillite
+         Les coûts directs de la faillite
+         Les coûts indirects de la faillite
+         Les coûts d’agence associés aux fonds propres | √
+√
+√
+ | 
+
+
+√ | 
+16.6 La structure de capital optimale
+         La théorie du compromis statique de la structure de capital
+         La structure optimale du capital et le coût du capital
+         La structure optimale du capital : récapitulation
+         La structure du capital : quelques recommandations de gestion | √
+√
+√
+√
+√ |  | 
+16.7 Le diagramme à secteurs, revu et corrigé
+         Le diagramme à secteurs étendu
+         Les droits marchands et les droits non marchands |  | √
+√
+ | 
+
+√
+16.8 La théorie du financement hiérarchique |  |  | √
+16.9 Quelques exemples de structures de capital |  | √ | 
+16.10 Le financement à long terme en cas de détresse financière et de faillite |  |  | √
+Chapitre 18 : La finance personnelle | √ |  | 

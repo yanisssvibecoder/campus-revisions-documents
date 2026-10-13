@@ -1,0 +1,896 @@
+Corrigé du chapitre 6
+🌙
+Finance · Chapitre 6 · pages 180–188
+Les flux monétaires
+actualisés
+Corrigé pas-à-pas de 32 exercices : annuités, perpétuités, prêts et taux d'intérêt (effectif, nominal, périodique). Pour chacun : la méthode, le calcul chiffré, la réponse — et les touches BA II Plus quand c'est utile.
+Les 3 nouvelles formules du chapitre
+au ch.5 il y avait UNE somme ; ici, ce sont des versements RÉPÉTÉS
+Imagine un
+abonnement
+: au lieu d'un seul montant, tu reçois (ou paies)
+la même somme, plusieurs fois de suite
+. Ça s'appelle une
+annuité
+. Le symbole
+C
+= le versement de chaque période.
+Valeur aujourd'hui
+VA d'une annuité
+Combien valent aujourd'hui tous ces versements ?
+VA = C × [1 − (1+r)⁻ᵗ] / r
+Valeur à la fin
+VC d'une annuité
+Combien auras-tu accumulé au bout du temps ?
+VC = C × [(1+r)ᵗ − 1] / r
+Versements à vie
+Perpétuité
+Des versements qui ne s'arrêtent jamais.
+VA = C / r
+Deux pièges récurrents du chapitre :
+🕐
+Début vs fin de période
+— si les versements sont en
+début
+de période (annuité « due »), on multiplie le résultat par
+(1 + r)
+.
+📊
+Taux effectif (EAR)
+— un taux « 12 % capitalisé mensuellement » ne coûte pas vraiment 12 %. Le vrai taux est :
+EAR = (1 + i
+nom
+/m)
+m
+− 1
+, où m = nombre de capitalisations par an.
+Sur la BA II Plus
+: maintenant
+PMT
+n'est plus 0 ! C'est ton versement. Tu remplis
+N
+,
+I/Y
+,
+PMT
+(+
+PV
+ou
+FV
+), puis
+CPT
+sur l'inconnue. Pour les taux effectifs, utilise
+2ND
+ICONV
+. Pour le début de période :
+2ND
+BGN
+puis
+2ND
+SET
+.
+Notions de base · exercices 2 à 29
+application directe des formules d'annuité, de perpétuité et de taux
+2
+Comparer deux annuités (X et Y)
+VA annuité
+X
+= 7 000 $/an pendant 8 ans.
+Y
+= 9 000 $/an pendant 5 ans. Lequel a la plus grande VA ? On calcule chacun avec
+VA = C × [1−(1+r)⁻ᵗ]/r
+.
+Taux
+VA de X (8 ans)
+VA de Y (5 ans)
+Gagnant
+5 %
+45 242,49 $
+38 965,29 $
+X
+22 %
+25 334,87 $
+25 772,76 $
+Y
+Leçon : à taux
+faible
+(5 %), la longue durée de X gagne. À taux
+élevé
+(22 %), l'argent lointain vaut peu → recevoir plus (Y) l'emporte. Le taux change le gagnant !
+4
+Annuité 4 600 $/an à 8 %, selon la durée
+VA annuité
+Même versement (4 600 $), même taux (8 %), mais on allonge la durée — et finalement « pour toujours » (perpétuité).
+Durée
+15 ans
+40 ans
+75 ans
+∞ (perpétuité)
+VA
+39 373,60 $
+54 853,22 $
+57 320,99 $
+57 500,00 $
+Perpétuité = C / r = 4 600 ÷ 0,08 =
+57 500 $
+Remarque : de 75 ans à l'infini, ça ne bouge presque plus (57 321 → 57 500). Les versements très lointains ne valent presque rien aujourd'hui.
+5
+Versement annuel d'un prêt de 25 000 $
+Chercher C (PMT)
+Un ami emprunte 25 000 $ (c'est la VA), remboursés en 10 versements annuels égaux, taux 9 %. On isole C :
+C = VA ÷ [1−(1+r)⁻ᵗ]/r
+.
+C = 25 000 ÷ 6,4177 =
+3 895,50 $/an
+Réponse — PMT
+3 895,50
+$/an
+BA II Plus
+2ND
+FV
+·
+10
+N
+·
+9
+I/Y
+·
+25000
+PV
+·
+0
+FV
+·
+CPT
+PMT
+→ 3 895,50
+6
+VA de revenus futurs
+VA annuité
+Revenu de
+65 000 $/an
+pendant
+8 ans
+, taux
+8,5 %
+. Valeur actuelle ?
+VA = 65 000 × [1−(1,085)⁻⁸]/0,085 = 65 000 × 5,6392 =
+366 546,89 $
+Réponse — VA
+366 546,89
+$
+BA II Plus
+2ND
+FV
+·
+8
+N
+·
+8.5
+I/Y
+·
+65000
+PMT
+·
+0
+FV
+·
+CPT
+PV
+8
+Épargner pour avoir 80 000 $ dans 10 ans
+Chercher C (PMT)
+Objectif
+80 000 $
+(c'est une VC), versements égaux en fin d'année, taux
+6,5 %
+. On isole C :
+C = VC ÷ [(1+r)ᵗ−1]/r
+.
+C = 80 000 ÷ 13,4944 =
+5 928,38 $/an
+Réponse — PMT
+5 928,38
+$/an
+BA II Plus
+2ND
+FV
+·
+10
+N
+·
+6.5
+I/Y
+·
+80000
+FV
+·
+0
+PV
+·
+CPT
+PMT
+9
+Remboursement d'un prêt de 35 000 $
+Chercher C (PMT)
+Prêt de
+35 000 $
+sur
+8 ans
+, taux effectif
+5 %
+. Paiement annuel ?
+C = 35 000 ÷ [1−(1,05)⁻⁸]/0,05 = 35 000 ÷ 6,4632 =
+5 415,26 $/an
+Réponse — PMT
+5 415,26
+$/an
+10
+Location : 1 059 $/trimestre en début de période
+VA annuité (début)
+Paiements de
+1 059 $ au DÉBUT de chaque trimestre
+, 6 ans (= 24 trimestres), taux
+5 % nominal capitalisé mensuellement
+. Deux pièges : convertir le taux, et c'est du
+début
+de période.
+Taux trimestriel :
+i = (1 + 0,05/12)³ − 1 =
+1,2552 %
+VA = 1 059 × [1−(1,012552)⁻²⁴]/0,012552 ×
+(1,012552)
+=
+22 101,66 $
+Réponse — VA
+22 101,66
+$
+On multiplie par
+(1 + i)
+à la fin parce que les versements sont en
+début
+de trimestre (mode
+BGN
+sur la calculatrice).
+11
+Police d'assurance à vie (perpétuité)
+Perpétuité
+20 000 $/an à vie
+, taux
+8 %
+. Combien payer ? Une perpétuité :
+VA = C / r
+.
+VA = 20 000 ÷ 0,08 =
+250 000 $
+Réponse — VA
+250 000,00
+$
+13
+Trouver le taux effectif (EAR)
+Taux
+On passe du taux
+spécifié
+(nominal) au taux
+effectif
+réel :
+EAR = (1 + i/m)
+m
+− 1
+(m = nb de capitalisations/an ; « à l'infini » = continu → e
+i
+−1).
+Taux spécifié
+7 % trimestriel
+18 % mensuel
+10 % quotidien
+14 % continu
+Effectif
+7,19 %
+19,56 %
+10,52 %
+15,03 %
+BA II Plus — ex. 18 % mensuel
+2ND
+ICONV
+·
+NOM =
+18
+ENTER
+·
+▼ C/Y =
+12
+ENTER
+·
+▼ EFF
+CPT
+→ 19,56
+14
+Trouver le taux spécifié (nominal)
+Taux
+L'inverse de l'ex. 13 : on connaît le taux
+effectif
+, on remonte au
+nominal
+:
+i
+nom
+= m × [(1+EAR)
+1/m
+− 1]
+(continu → ln(1+EAR)).
+Effectif
+12,2 % semestriel
+9,4 % mensuel
+8,6 % hebdo
+23,8 % continu
+Nominal
+11,85 %
+9,02 %
+8,26 %
+21,35 %
+15
+Quelle banque choisir pour emprunter ?
+Taux
+Dominion
+: 14,2 % composé semestriellement.
+Canada britannique
+: 14 % composé mensuellement. On compare les taux
+effectifs
+(le plus BAS = le moins cher pour emprunter).
+Dominion : (1+0,142/2)² − 1 =
+14,70 %
+Canada britannique : (1+0,14/12)¹² − 1 =
+14,93 %
+Choix — moins cher
+Dominion
+14,70 %
+Le 14 % mensuel (14,93 % effectif) coûte en réalité
+plus
+que le 14,2 % semestriel (14,70 %) : plus on capitalise souvent, plus le vrai coût monte.
+17
+VC avec taux nominal semestriel
+VC (somme unique)
+1 400 $
+pendant
+20 ans
+, taux
+9,6 % nominal capitalisé semestriellement
+. Taux par semestre = 9,6/2 = 4,8 % ; nombre de périodes = 20×2 = 40.
+VC = 1 400 × (1,048)⁴⁰ = 1 400 × 6,5231 =
+9 132,28 $
+Réponse — VC
+9 132,28
+$
+BA II Plus
+2ND
+FV
+·
+40
+N
+·
+4.8
+I/Y
+·
+1400
++/−
+PV
+·
+0
+PMT
+·
+CPT
+FV
+19
+VA avec capitalisation journalière
+VA (somme unique)
+45 000 $ dans 6 ans
+, taux
+11 % nominal capitalisé quotidiennement
+. Taux/jour = 11/365 % ; nombre de jours = 6×365 = 2 190.
+VA = 45 000 ÷ (1 + 0,11/365)²¹⁹⁰ = 45 000 ÷ 1,9346 =
+23 260,62 $
+Réponse — VA
+23 260,62
+$
+22
+Combien de temps pour rembourser ?
+Chercher N
+Solde
+17 000 $
+, versements de
+300 $/mois
+, intérêt
+0,9 %/mois
+. On cherche N dans : 17 000 = 300 × [1−(1,009)⁻ᴺ]/0,009.
+Réponse — N
+79,62
+mois
+≈
+79,62 mois
+, soit environ
+6 ans et 8 mois
+. En pratique : 79 versements complets + un dernier plus petit.
+BA II Plus
+2ND
+FV
+·
+0.9
+I/Y
+·
+17000
+PV
+·
+300
++/−
+PMT
+·
+0
+FV
+·
+CPT
+N
+24
+Perpétuité à l'envers : trouver le taux
+Taux
+Perpétuité de
+1 200 $/mois
+vendue
+63 000 $
+. Comme VA = C/i, on isole i :
+i = C / VA
+.
+i
+mensuel
+= 1 200 ÷ 63 000 =
+1,9048 %/mois
+Taux périodique annuel (APR) = 1,9048 × 12 =
+22,86 %
+Taux effectif (EAR) = (1,019048)¹² − 1 =
+25,41 %
+Mensuel
+1,9048
+%
+APR / Effectif
+22,86 / 25,41
+%
+25
+Épargne-retraite : dépôts mensuels
+VC annuité
+Dépôts de
+250 $/mois
+, taux
+10 % nominal capitalisé mensuellement
+, pendant
+30 ans
+(= 360 mois). Taux/mois = 10/12 %.
+VC = 250 × [(1+0,10/12)³⁶⁰ − 1]/(0,10/12) = 250 × 2 260,49 =
+565 121,98 $
+Réponse — VC
+565 121,98
+$
+BA II Plus
+2ND
+FV
+·
+360
+N
+·
+0.8333
+I/Y
+·
+250
++/−
+PMT
+·
+0
+PV
+·
+CPT
+FV
+Astuce : au lieu de calculer 10/12, tu peux régler
+P/Y
+= 12 et taper
+10
+I/Y
+: la calculatrice divise pour toi.
+29
+VA de flux inégaux
+Flux multiples
+Flux :
+2 800 · 0 · 5 600 · 1 940
+(années 1 à 4), taux
+8,45 %
+. On actualise chaque flux séparément et on additionne.
+VA = 2 800/1,0845 + 0 + 5 600/1,0845³ + 1 940/1,0845⁴
+= 2 581,84 + 0 + 4 391,76 + 1 401,02 =
+8 374,62 $
+Réponse — VA
+8 374,62
+$
+Notions intermédiaires · exercices 31 à 55
+annuités différées, taux max, hypothèques…
+31
+D'un taux effectif vers les taux périodiques
+Taux
+Taux
+effectif 18 %
+. On cherche le taux
+par période
+équivalent :
+i = (1,18)
+1/m
+− 1
+.
+Période
+Semestriel (m=2)
+Trimestriel (m=4)
+Mensuel (m=12)
+Taux
+8,63 %
+4,22 %
+1,39 %
+33
+Deux comptes puis retrait à la retraite
+VC puis PMT
+Pendant 30 ans :
+600 $/mois
+en actions (12 % nom. mens.) +
+300 $/mois
+en obligations (7 %). À la retraite, on combine, puis on retire pendant
+25 ans
+à 9 %.
+1) VC des deux comptes après 360 mois :
+Actions = 600 × fvF(1 %, 360) =
+2 096 978,48
+Obligations = 300 × fvF(0,5833 %, 360) =
+365 991,30
+Total =
+2 462 969,78 $
+2) Retrait mensuel (VA annuité, 300 mois à 0,75 %) :
+C = 2 462 969,78 ÷ 119,162 =
+20 669,15 $/mois
+Retrait mensuel
+20 669,15
+$/mois
+35
+Devenir millionnaire : le coût d'attendre
+Chercher C (PMT)
+Objectif
+1 000 000 $
+dans
+40 ans
+, rendement
+11 % nom. mensuel
+. Combien par mois ? Et si on retarde le premier dépôt ?
+On commence…
+Tout de suite (40 ans)
+Après 10 ans (30 ans)
+Après 20 ans (20 ans)
+Dépôt/mois
+116,28 $
+356,57 $
+1 155,22 $
+💥 Attendre 20 ans multiplie l'effort par
+10
+(de 116 $ à 1 155 $/mois) ! C'est toute la magie des intérêts composés : le temps fait le travail à ta place.
+41
+Combien de versements pour atteindre 20 000 $ ?
+Chercher N
+Versements de
+225 $/mois
+, taux
+9 % nom. mensuel
+(0,75 %/mois). On cherche N dans : 20 000 = 225 × [(1,0075)ᴺ−1]/0,0075.
+Réponse — N
+68,37
+versements
+Il faudra donc
+69 versements
+(le 69ᵉ fait franchir les 20 000 $).
+42
+Taux d'intérêt maximal supportable
+Chercher I/Y
+Emprunter
+55 000 $
+, rembourser
+1 120 $/mois max
+sur
+60 mois
+. Quel est le taux nominal
+maximal
+que tu peux te permettre ?
+On résout i dans : 55 000 = 1 120 × [1−(1+i)⁻⁶⁰]/i
+→ i =
+0,6818 %/mois
+→ APR = 0,6818 × 12 =
+8,18 %
+Réponse — APR max
+8,18
+%
+BA II Plus (I/Y donne le taux mensuel → ×12)
+2ND
+FV
+·
+60
+N
+·
+55000
+PV
+·
+1120
++/−
+PMT
+·
+0
+FV
+·
+CPT
+I/Y
+→ 0,6818
+45
+Retrouver un flux manquant
+Flux multiples
+On sait que la VA totale =
+7 000 $
+à
+10 %
+. Flux : 1 300 · 2 100 ·
+?
+· 2 750 (années 1 à 4). On isole le « ? ».
+7 000 = 1 300/1,1 + 2 100/1,1² + ?/1,1³ + 2 750/1,1⁴
+7 000 = 1 181,82 + 1 735,54 + ?/1,331 + 1 878,29
+?/1,331 = 2 204,35 → ? =
+2 934,00 $
+Flux année 3
+2 934,00
+$
+47
+Hypothèque : APR et taux effectif
+Chercher I/Y
+Emprunt =
+80 % de 2 400 000 = 1 920 000 $
+, paiements
+13 000 $/mois
+sur
+30 ans
+(360). On trouve le taux mensuel, puis APR et effectif.
+i mensuel : 1 920 000 = 13 000 × [1−(1+i)⁻³⁶⁰]/i → i =
+0,5979 %
+APR = 0,5979 × 12 =
+7,17 %
+· EAR = (1,005979)¹² − 1 =
+7,42 %
+APR / Effectif
+7,17 / 7,42
+%
+49
+Annuité différée (paiements lointains)
+VA annuité différée
+2 000 $/an
+, taux
+10 %
+, premier versement
+dans 9 ans
+, dernier
+dans 25 ans
+→ 17 versements (années 9 à 25).
+1) Valeur au début (année 8) :
+2 000 × [1−(1,10)⁻¹⁷]/0,10 =
+16 043,11 $
+2) On ramène 8 ans en arrière :
+16 043,11 ÷ (1,10)⁸ =
+7 484,23 $
+Réponse — VA
+7 484,23
+$
+🕐
+Le truc des annuités différées :
+la formule d'annuité te donne la valeur
+une période avant le 1ᵉʳ versement
+(ici année 8). Il faut ensuite l'actualiser jusqu'à aujourd'hui.
+52
+Perpétuité différée
+Perpétuité différée
+Perpétuité de
+5 000 $
+qui débute au temps
+t = 15
+, taux
+5,7 %
+. On veut sa valeur au temps
+t = 7
+.
+1) Valeur une période avant le 1ᵉʳ versement (t = 14) :
+5 000 ÷ 0,057 =
+87 719,30 $
+2) On ramène de t=14 à t=7 (7 périodes) :
+87 719,30 ÷ (1,057)⁷ =
+59 507,30 $
+Valeur en t = 7
+59 507,30
+$
+54
+Annuité semestrielle différée, à 3 dates
+VA annuité différée
+10 versements semestriels de 6 000 $
+, premier dans
+9,5 ans
+, taux
+10 % nom. mensuel
+. Taux/semestre = (1+0,10/12)⁶−1 =
+5,1053 %
+.
+Valeur une période avant le 1ᵉʳ versement (année 9) :
+6 000 × [1−(1,051053)⁻¹⁰]/0,051053 =
+46 094,33 $
+On ramène à…
+dans 5 ans (t=5)
+dans 3 ans (t=3)
+aujourd'hui (t=0)
+Valeur
+30 949,21 $
+25 360,08 $
+18 810,58 $
+On actualise la valeur de l'année 9 avec le taux
+mensuel
+(0,8333 %) sur le bon nombre de mois : 48, 72 et 108 mois respectivement.
+55
+Annuité de fin vs de début de période
+VA annuité
+Versements de
+950 $
+,
+8 ans
+, taux effectif
+9,5 %
+. a) fin de période ; b) début de période.
+a) fin : 950 × [1−(1,095)⁻⁸]/0,095 =
+5 161,76 $
+b) début : 5 161,76 × (1,095) =
+5 652,13 $
+Fin de période
+5 161,76
+$
+Début de période
+5 652,13
+$
+La version « début » vaut toujours
+(1 + r)
+fois plus : chaque versement arrive une période plus tôt, donc travaille un an de plus.
+Problèmes complexes · exercices 59 à 72
+plusieurs étapes combinées — on décompose en petits morceaux
+59
+Le plan de retraite de Bilbo
+Multi-étapes
+Bilbo veut : ① une retraite de
+20 000 $/mois pendant 20 ans
+(dès l'an 30) ; ② un chalet de
+325 000 $
+à l'an 10 ; ③ un héritage de
+750 000 $
+à l'an 50. Il épargne
+2 000 $/mois pendant 10 ans
+, puis
+X $/mois
+de l'an 11 à 30. Taux : 11 % (avant retraite), 8 % (après).
+Tout ramené à l'an 30 (date de la retraite) :
+Épargne des 10 premières années →
+3 395 689,68
+Il faut financer : chalet
+2 620 251,25
++ retraite
+2 441 554,61
++ héritage
+160 911,16
+X × fvF(0,8735 %, 240) = (total besoins − épargne déjà accumulée)
+→ X =
+2 259,65 $/mois
+Épargne mensuelle an 11–30
+2 259,65
+$/mois
+Méthode : on choisit
+une seule date de référence
+(ici l'an 30) et on y ramène TOUS les montants (ce qu'on a, ce qu'on doit). Puis on résout pour l'inconnue.
+61
+Renégocier le contrat des Chicago Bulls
+Multi-étapes
+Contrat initial (M$) : an 0 →
+6
+, an 1 → 3, an 2 → 4, an 3 → 4,7, an 4 → 5,2, an 5 → 8. Le joueur veut : une prime de
+7,5 M$
+aujourd'hui, une valeur totale
++600 000 $
+, et un salaire mensuel égal (1ᵉʳ dans 1 mois). Taux :
+4,4 % nom. quotidien
+.
+1) VA du contrat initial
+(EAR = 4,498 %) =
+27,4339 M$
+2) Cible
+= 27,4339 + 0,6 =
+28,0339 M$
+3) Reste à couvrir par le salaire
+= 28,0339 − 7,5 = 20,5339 M$
+4) Salaire mensuel
+(72 mois, i = 0,3673 %/mois) =
+325 085,56 $
+Salaire mensuel
+325 085,56
+$/mois
+Hypothèse : contrat de
+6 ans = 72 versements mensuels
+(durée du contrat initial). Si l'énoncé de ton prof précise une autre durée, seul le dernier calcul (÷ facteur d'annuité) change.
+69
+La retraite du frère (dépôts + héritage)
+Multi-étapes
+30 ans aujourd'hui, retraite à 68 ans. Veut retirer
+40 000 $/an pendant 17 ans
+(1ᵉʳ retrait à 69 ans), taux
+6 %
+. Dépôts annuels de 31 à 68 ans (38 dépôts).
+Besoin au jour de ses 68 ans
+= 40 000 × [1−(1,06)⁻¹⁷]/0,06 =
+419 090,39 $
+Scénario
+Résultat
+a) Dépôt annuel (38 dépôts)
+3 083,72 $/an
+b) Un seul montant à 31 ans
+48 527,81 $
+c) Dépôt annuel avec aide employeur*
+707,59 $/an
+*c) L'employeur ajoute 2 000 $/an + 10 000 $ à 40 ans → ces apports valent 322 925 $ à 68 ans, ce qui réduit énormément l'effort du frère (de 3 084 $ à 708 $/an).
+72
+Hypothèque avec versement forfaitaire (balloon)
+Solde restant
+Hypothèque
+450 000 $
+, APR
+8,5 %
+, versements mensuels calculés sur
+30 ans
+, mais tout doit être remboursé
+après 8 ans
+. Quel est le versement forfaitaire final ?
+1) Versement mensuel (sur 360 mois, 0,7083 %/mois) :
+450 000 ÷ 130,05 =
+3 460,11 $/mois
+2) Solde après 8 ans (96 mois) = VA des 264 versements restants :
+3 460,11 × 119,27 =
+412 701,01 $
+Versement forfaitaire final
+412 701,01
+$
+Le solde baisse à peine (450 000 → 412 701) en 8 ans : au début, presque tout le versement paie les
+intérêts
+, très peu le capital. C'est normal pour une hypothèque.
+En gros, retiens que…
+👉
+Annuité
+= versements égaux répétés. VA = C×[1−(1+r)⁻ᵗ]/r · VC = C×[(1+r)ᵗ−1]/r ·
+perpétuité
+= C/r.
+👉
+Toujours convertir le taux
+à la bonne période (mensuel, trimestriel…) AVANT de calculer. Un « 12 % capitalisé mensuellement » = 1 %/mois, mais un effectif de 12,68 %.
+👉
+Annuité différée
+: la formule donne la valeur
+une période avant le 1ᵉʳ versement
+. N'oublie pas de l'actualiser ensuite jusqu'à la date voulue.
+👉
+Début vs fin
+de période : « début » = × (1 + r), ou mode
+BGN
+sur la calculatrice.
+👉
+Problèmes complexes
+: choisis
+une seule date de référence
+, ramènes-y tout, puis résous l'inconnue.
+✏️
+Petit test :
+tu déposes 500 $/mois pendant 20 ans à 6 % nominal capitalisé mensuellement. Quelle formule ? Combien à la fin ?
+(Indice : VC d'annuité, 240 mois à 0,5 %/mois → ≈ 231 020 $.)
+Corrigé — Chapitre 6 · La valeur des flux monétaires actualisés · pages 180–188

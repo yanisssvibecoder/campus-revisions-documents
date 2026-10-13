@@ -1,0 +1,268 @@
+## Page 1
+                                                                       travail
+                    du
+                                                                                                                                              l'amélioration
+                    et                                             capacité
+           la                                           produit-processus           de                                                              processus                                                                                                                                              L'organisation               Tandem      Aménagement    Gestion   desstratégiques
+Décisions                                                                       Amélioration
+
+                            tactiques
+                            Décisions                                          demande   stocks   (PGP)   (PDP)   (PBM)               qualitéla                       des
+            la                 de
+            de                                                                                           production     production    matières                                                     Gestion                  la la                                                                                                                                                                                                                                         Approvisionnement    gestion
+                  de de                               La                                                      Prévision                                    besoins
+                                     des                                                                globale     détaillée
+                                                                                                                                                  Planiﬁcation                                                                                                             Planiﬁcation                                                                                                                                Planiﬁcation
+
+## Page 2
+                                 Qualité   Délai    Volume   Prix     Variété       Flexibilité                                                                                      ajoutée
+                                                                          valeur
+                         et
+                                                                                                                                                          opérations                                                                                                                                                   productivité                                                                                       stratégiques                     des
+                                                                 Attributs                                    Eﬃcience,   PESTEL     Stratégie
+                                                                                                                       stratégique         Historique                                    Rôle
+
+
+opérationnel                                                                                      Contextes
+Système                                                          industriel                                                                             services
+                                                 des
+                                        Secteur                                                                                                                   Secteur
+                                       fabrication                                                                        fabrications                                                       services       de            de                     des               commercial
+                                Processus                              Types                                                                                                                                                                                        production          Secteur
+                                          produit                       de            du                                  fabrication                                        production
+                    la                              de                     Processus        Distributeurs       Détaillants                    de
+                                                            Type                                                                                                Caractéristiques
+                                                            lots                                                                                                                                    Déclenchement                l'unité             à  par     continue
+
+                                                   stocks                                                                                                                                      Production       Production       Production                                          Standard        spéciﬁcations                         les                                                                                 commande     commande
+                     Sur   pour  sur  sur
+                                                                                             Fabrication       Fabrication       Assemblage
+
+## Page 3
+                                                                                                              pondérée     simple
+                                                             naïves     mobile     mobile                                                                                                                                                                           exponentiel
+                                                                                                     Prévisions      Moyenne      Moyenne      Lissage
+
+                                                                                 moyen                    Delphi       historiques     causale               d'experts                                                                                                           chronologiques
+                                                              SériesEnquêtes     Opinion     Méthode      Analogies     Analyse                                                                         moyen      quadratique
+                                                                 Écart   Écart   Écart
+                       Qualitatives                                                    Quantitatives
+                                                                                                              d'erreur
+                                     Méthodes                                                         Mesures
+
+
+
+                demande                                                                                                                     prévision
+    de                          de
+         Type                                                                                           Composantes                                                                                                                                                   Processus
+                                          marché
+              du                                                                                                      bien/service     endogènes                                 données                      Indépendante                               Saisonnalité                                                                                                                  problème                             méthodes    méthodes                 du                   les       exploratoire
+                             du           des  des                          vie                                                                                 Facteurs           résiduelle/aléatoire                                                                      Conditions de                                                                                               Choix                                                                                                                                                               Recueillir    Analyse                                                                                                                                 Déﬁnition                                           Cycle                                                                                                                                                                                                                                  Application                                                                                                                    Composante
+
+## Page 4
+                indépendante
+         Demande
+                                                                    dépendante
+                                                Demande              Opération                                                                                                              sécurité    transit                                                                                                                               d'anticipation     cycliques    tampons de de
+                               cours                 Réparation,                                                      Stocks   Stocks   Stocks   Stocks   Stocks                            premières    enﬁnis
+Produits      Entretien,    Matières     Composants    Produits                                                                      stocks
+                                   des           ABC
+                    stocks
+       de                                                                                                        Fonctions                 Types                                                                                                                                                             Classiﬁcation
+
+
+
+
+
+               sécurité
+    de
+           Stocks                                                                                                                                                                                                                                                                                                                            possession-pénurie                                                                                                                                                     Réapprovisionnement                                                              commande-stock                                                                                                                                                              Arbitrage                                                                                                                        Arbitrage
+                                                  variable       ﬁxe                                                                                                                                             stockage        pénurie                                                                    période                                        de          à                    stockage       de                                            période            de    commande      à               de         Coûts     Coûts
+                                                               cible         Coûts                                                                             optimal                        Coûts
+                                                                                                                                                                Interne     Externe                                                commande  QEC    casier       Intervalle    niveau                                                        double            de     Combien?         à                       QEC                                                                                                                 Atteindre
+                              Point                        Quand?                                                    (NS)                                                                 Système                                                                                                     Combien?                                    Quand?                                                                                                                                     service
+                                                       de
+                                                                                                                                                                    Niveau
+
+## Page 5
+                         d'oeuvre
+            main                                     d'oeuvre
+      de                      l'organisation                   main
+   de         lademande                                          capacité                                 partiel                      matière dela            de     ﬁnancières      en                                                                                                   souﬀrancede
+                              en                 stratégique                                                                                                             inutilisée                                          pied
+
+          àPrévision  Plan     Politiques       Disponibilité      Contraintes      Contraintes                                                                                                                                                                                                                                               supplémentaire/temps        morts/capacité                                requises                                                               Embauche/mise   Temps   Temps          Pénuries/commandes        Sous-traitance
+                                                 Informations                                              Moyens
+
+
+                                                                    équivalentes                                      Stratégies
+                                  Unités
+                                                                                     Synchrone   Nivelé    Hybride
+
+## Page 6
+                                                                   vente
+                           la
+
+             à                                                                                capacités
+                           des                                                    plans                                                                                                                                       disponible     ﬁxe    minimale                   des
+lot           ﬁxe                                       stock         taille   taille                                      sommaire
+                           dupour de de                                          préliminaires                  ﬁnauxLot  Lot  Lot    Période                                    Plans    Analyse       Modiﬁcations   Plans   Calcul
+                             Lotissement                                                   Démarche
+
+
+                                        indépendante                                   requises
+                                                                                                        Informations                       Demande
+                                                                  Prévisions    clients    initiaux     disponible
+                                                          Stocks
+                                                                               globale                                                                         Commandes
+                                                                                          Capacité
+
+## Page 7
+                     amont
+         en
+         et
+                 aval
+         en
+                                               Jalonnement
+                                                     planiﬁcationdépendante
+         de
+Demande                        Horizon
+
+
+
+                                      requises
+                                                         Informations
+
+               production    produitdu      disponibles        lotsde   de                                    Tailles
+                            Stocks                            structure                                                                                                                     d'approvisionnement
+      et              directeur       et
+      Plan                                        fabrication                                     Nomenclature    de
+                                     Délais
+
+                                                                                          articles
+                                  des
+                                                                                                                                                             Fichier-maître
+
+## Page 8
+                                                                               stocker
+                      et                                                                                       relations
+                             des                                                                                                     commander                                                                    gestion à                   et                 services                                                                                                                                                                            fournisseurs                          et
+                                           aux                                                                                                     quantités
+                                  des    produits                                                                                                                    fournisseurs                                                                                                    retours                          de
+                             des                                           des
+                                                     Dépendante       Indépendante                Sélection       Détermination      Acquisition    Gestion
+
+                                           Demande                                       Fonctions
+
+
+
+
+
+                              sélection                                                                     d'achat
+       de                                                                       Cycle
+                           Critères
+                                                     besoin    L'objet    sources                          relance    contrôle                     2.                                                                                                                          L'analyse                                                                                                                                                              paiement                                 La                                                                                                                                                                                                                     post-achat                                    le                           4.    commande                                    Les                  1.                                       Le                                 6.        total   Délai          Le                                    et
+                        3.    La       8.Qualité                      Volume     Fiabilité
+                              5.      Coût                                                                                                                                                                    réception                         L'évaluation
+                                    La    9.
+                                    7.
+
+## Page 9
+                                                                                                   conformité                    de                                                                                                                                                                      Non-qualité
+                                                                     Qualité
+                                                                                                                                                Qualité                  conception
+    de                                                                                                               internes    externes
+            Qualité
+                                                                         9001                                                                                                                                                                      défaillances       défaillances      ISO                                                                                                            prévention    contrôle
+                      de de  des  des
+                                                      Coûts   Coûts   Coûts   Coûts                                                                                                                        qualitéBesoins/attentes       Spéciﬁcations               Processus/Procédés/Méthodes          Ressources/Matières     Production            Livraison/Installation                  la
+                                                                                       qualité       de
+                         la                                                                                                                        gestion                            qualité                         de        la                        de
+        de                                                              Coûts                    Cycle                                                                                     Système
+
+
+
+                         contrôles
+     de                                                                                                       procédé                                                                                                                                                                                                                                                                     échantillonage                                                                                        variations          du              Carte          de                          par
+                                                     Causes                                                                      Contrôle                                                                                                                                                                                                              opérationnelle
+                                                                                                                   client               de    Machines    d'oeuvre                                 Capacité                                                      premières    travail                                         moyennes-étendues                                                                                                 environnant                                                                                   fournisseur                                           Main                                             Risque
+            Carte                                                     Milieu                                                Matières    Méthodes                                                                         Risque
+                                                                                                                                     naturelle       Spéciﬁcations                  contrôle     contrôle
+    de de                                                                                                                                                                   Variabilité
+                      supérieure       inférieure
+                       Limite             Limite
+
+## Page 10
+                                                                                                                                                                 manutentionamont        aval                                                                                                                     d'entreposage de   stocks                                                                                                                                              commandeen    interne en                                                 des
+                                   Camion   Train   Avion   Bateau                                d'unelogistique     logistique     logistique                                                                                                            Technologies       Technologies    Contrôle   Cycle
+Chaîne   Chaîne   Chaîne
+                                                                       Transport          Types                                                                                                                               Entreposage
+
+
+
+                   Flux                                                                       Localisation
+                                Monétaires       Informations    Matières                                                                                                   Critères
+                                                                                                     Proximité                 environnante   Coûts       potentiels     d'oeuvre                                                                          Main
+                                                                                                                                       Revenues
+                                                                                           Clients          Fournisseurs                                                                                                                                                                                              Infrastructure
+
+## Page 11
+                                           instantannées      processus
+                                                                  capacité                    la                     prédéterminés       des   coûts                         performance
+                la
+                    des de deChronométrage   Temps        Observations                                                           Amélioration    Calcul    Calcul    Mesure
+          Méthodes                       Usages
+
+                           travail
+        du
+                       Mesure
+
+
+
+
+
+                                                   travail
+               du
+                                     Étude
+                                                    méthodes                                                Amélioration                    des                                                  Représentation
+             et
+                                       tâches                                                                                                Impacts
+                    des                                 d'opérations       déroulement       cheminement
+         de de                                                                                                          Objectifs       Processus       Personnes      Matières      courant      Sociétal      pervers                                                                 processus,                                                          Eﬀets                         Graphique             du                                        Graphique      Graphique                                                                                                                                                                                                                                                                          Fonctionnement                                              Analyse
+
+## Page 12
+                                    lot                     (process)                                                                                                continu
+                                    par en                                                                                                                                                                                                                                                                                                                                                                                                  demande/Flexibilité  ﬂux
+                                         de de                                                                         Atelier   Masse   Masse      Traitement                                                                                                                                        Quantité     Variété   Type   Type                                                       Discontinu        Semi-continu     Continu
+                  ﬂux                                   processus
+            de        de                             Types                   Types                                                                         Caractéristiques
+
+                                                                                               Processus
+
+
+
+
+
+                                        Produit
+
+   Types          viede                                                     conception                        Cycle
+commande     Standard                  de                                                 déclinSur                                             maturité de                                Stratégies                              lancement      croissance             de
+       de de                                         Phase                                 Phase 4.                Phase   Phase 3.
+       1. 2.
+                                                                                                                                                    Standardisation        Simpliﬁcation     durable      modulaire     retardée                                                                                                                                    Conception                                                                                                                                                    Conception                                                                                                                                                                                                                                       Diﬀérenciation
+
+## Page 13
+            Goulot
+                                                                                     système
+                        duParallèle     Séquentiel                                 conception                                                      réelle            de   réelle                                                                                                         d'eﬃcacité       d'utilisation
+                              Cadence    Capacité    Capacité     Production   Ratio  Taux           processus
+   de
+     Type                                        Calculs
+
+## Page 14
+                                                                                variables
+                  et
+                                    ﬁxes
+                                                                                 Flexibilité   Coûts      Complexité
+Linéaire      Fonctionnel      Cellulaire       Stationnaire
+             Types                                                                               Caractéristiques

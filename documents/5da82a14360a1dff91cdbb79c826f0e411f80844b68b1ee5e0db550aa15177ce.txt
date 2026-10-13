@@ -1,0 +1,158 @@
+## Diapositive 1
+
+Chapitre 9: les critères d’évaluation de projet
+
+
+
+## Diapositive 2
+
+Les critères d’évaluation de projet
+
+Il existe plusieurs méthodes pour évaluer un projet. 
+En guise d’exemple, prenons le projet suivant :
+
+
+
+
+
+	
+	Vous exigez 10 % (considérant le risque de ce projet)
+
+	Reste maintenant à évaluer ce projet…
+
+Temps | t = 0 | t = 1 | t = 2
+
+Flux monétaires prévus | -300 000$ | +200 000$ | +200 000$
+
+## Diapositive 3
+
+1)	Le délai de récupération
+
+Définition: temps nécessaire afin de récupérer l’investissement initial
+
+Pour atteindre le retour d’investissement de 300 000 $, il faut attendre :   
+		Délai de récupération = 1,5 an
+La décision dépend de la limite établie subjectivement. Mais,
+	
+Aucun maximum ou minimum objectif
+FMs après le délai non considéré
+Le risque du projet n’est pas clairement adressé
+
+Le délai de récupération ne semble pas être le meilleur des critères de décision…
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000$ | +200 000$ | +200 000$
+
+## Diapositive 4
+
+2)	Le délai de récupération actualisé
+
+Définition: temps nécessaire afin de récupérer l’investissement initial (en VA)
+
+Ici, il nous faut: DRA= 1,715 an (181 818 $+ 0,715*165 289 $)
+Encore,
+Aucun maximum ou minimum objectif
+FMs après le délai non considérés
+Le risque du projet est intégré (au taux d’actualisation), mais la limite reste établie de façon subjective
+
+Le critère reste très subjectif
+Le travail exécuté revient à calculer la VAN…
+
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000$ | +200 000$ | +200 000$
+
+## Diapositive 5
+
+3)	Le taux de rendement comptable moyen
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000 $ | +200 000 $ | +200 000 $
+
+Définition :  Bénéfice net moyen / valeur comptable moyenne
+
+Dépend des données comptables :
+Bénéfice net ≠ flux monétaires (ex.: charges d’amortissement)
+Valeur comptable ≠ valeur au marché
+Non représentatif de l’impact direct sur les FMs de l’investisseur
+
+Critère non-financier : ne se base pas sur la réalité économique
+
+## Diapositive 6
+
+4)	La VAN(valeur actuelle nette)
+
+On calcule la valeur actuelle de chacun des FMs.
+
+On mesure la valeur ajoutée du projet pour l’entreprise :
+	
+
+
+
+On trouve donc que : VAN = 47 107 $  (-300 000 $ + 181 818 $ + 165 289 $)
+	
+On tient compte du risque (à travers le taux exigé de 10 %)
+On tient compte de tous les FMs reliés au projet
+On tient compte de la valeur de l’argent dans le temps
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000 $ | +200 000 $ | +200 000 $
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000 $ | +181 818 $ | +165 289 $
+
+## Diapositive 7
+
+5) Le TRI(taux de rendement interne)
+
+Définition : taux pour lequel la VAN est nulle.
+Ou encore, on compare les entrées et sorties de fonds au même temps « t »
+
+
+	
+
+
+
+
+On trouve donc que: TRI = 21,53 %
+À l’aide d’Excel: solveur ou valeur cible (solver or goal seek)
+À l’aide de la calculatrice financière: les 3 touches: CF, NPV, IRR
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000 $ | +200 000 $ | +200 000 $
+
+Temps | t = 0 | t = 1 | t = 2
+
+FMs | -300 000 $ | +200 000 $ | +200 000 $
+
+## Diapositive 8
+
+## Diapositive 9
+
+Chapitre 9: les critères d’évaluation de projet
+
+Le conflit VAN vs TRI
+
+## Diapositive 10
+
+Le conflit VAN vs TRI
+
+Ces deux critères sont le même (TRI  VAN=0). 
+Cependant, il peut y avoir conflit entre ces deux critères :
+
+
+
+
+
+
+Il peut y avoir plusieurs TRI (les zéros de la fonction d’une VAN complexe)
+La VAN sera notre critère de décision ultime 
+TRI servira comme point d’illustration
+
+## Diapositive 11

@@ -1,0 +1,35 @@
+TP1 | Plages horaires
+
+TP1
+SÉANCE DE TRAVAUX PRATIQUES 1
+Les séances de TP vous sont fortement recommandées pour consolider vos apprentissages.
+Avant chaque séance de TP, veuillez valider la salle en allant sur le
+portail des salles
+de TP afin de vérifier qu'il n'y a aucun changement de salle
+.
+Vous devez avoir
+complété l'exercice suggéré
+avant d'assister à la séance de TP
+Les séances ne seront pas enregistrées
+Si vous êtes dans l’impossibilité de vous joindre à la séance de votre section, vous pouvez assister à la séance d'une autre section.
+TP
+SECTION
+DATE
+HEURE DÉBUT
+HEURE FIN
+SALLE
+TP1
+B60
+F20
+F21
+Mardi 22 septembre 2026
+8:30
+11:30
+Sud, François-Attendu, Salle de cours Registrariat (Decelles 4e, 70)
+TP1
+B61
+F22
+Jeudi 24 septembre 2026
+15:30
+18:30
+Sud, Matane, Salle de cours Registrariat (Decelles 4e, 70)

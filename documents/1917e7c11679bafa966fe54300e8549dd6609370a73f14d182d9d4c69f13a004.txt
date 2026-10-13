@@ -1,0 +1,16 @@
+## Page 1
+                           Feuille de formules (examen final)
+La valeur𝑉𝑉𝑉𝑉actuelle d’un flux monétaire  Le prix d’une−(1obligation+ 𝑟𝑟)−𝑡𝑡        𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉=                                              𝑃𝑃0 = 𝐶𝐶 ቈ1        ቉+La valeur(1 +actuelle𝑟𝑟)𝑡𝑡   d’une perpétuité     Le prix d’une action𝑟𝑟   avec des(1 dividendes+ 𝑟𝑟)𝑡𝑡      constants
+         𝑝𝑝𝑝𝑝𝑝𝑝                                                       𝐷𝐷1𝑉𝑉𝑉𝑉=                        =                                                      𝑃𝑃0La valeur𝑟𝑟 actuelle d’une annuité                                    Le                                             prix𝑟𝑟 d’une action avec des dividendes croissants (modèle de
+                                  Gordon)
+VAA= 𝑝𝑝𝑝𝑝𝑝𝑝 ቂ 1−(1+𝑟𝑟)−𝑡𝑡𝑟𝑟     ቃ                                                        𝐷𝐷1                                                      𝑃𝑃0 =La valeur futurre d’une annuité        La valeur𝑟𝑟−𝑔𝑔actuelle des économies d’impôt liées à l’amortissement
+                                        dégressif
+VFA= 𝑝𝑝𝑝𝑝𝑝𝑝 ቂ (1+𝑟𝑟)𝑡𝑡−1𝑟𝑟    ቃLa valeur actuelle d’une perpétuité                                                                 1en croissance                                𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉= ൤𝐶𝐶∗𝑑𝑑∗𝑡𝑡𝑚𝑚 ൨−൤𝑅𝑅∗𝑑𝑑∗𝑡𝑡𝑚𝑚 ൨∗൤                                    La valeur actuelle𝑟𝑟+des𝑑𝑑 économies𝑟𝑟+ d’impôt𝑑𝑑      (1liées+ 𝑟𝑟)𝑡𝑡൨à l’amortissement
+                                           linéaire         𝑝𝑝𝑝𝑝𝑝𝑝𝑉𝑉𝑉𝑉=La  valeur𝑟𝑟−𝑔𝑔 actuelle  d’une  annuité                                                  −(1 + 𝑟𝑟)−𝑡𝑡en croissance                                𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉𝑉= 𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴. 𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎× 𝑡𝑡𝑚𝑚ቈ1             ቉                                C : le coût                                                       𝑟𝑟
+                               d : le taux d’amortissement                     (1 + g )  t       PMT1VAAC 0 =       1 −                           tm : le taux marginal d’imposition           r − g                                                (1 + r )                r : le taux d’actualisation
+                              R : la valeur de récupération
+MÉDAF                              Équivalence de taux
+                                         (𝟏𝟏+ 𝒓𝒓𝟏𝟏)𝒎𝒎𝟏𝟏= (𝟏𝟏+ 𝒓𝒓𝟐𝟐)𝒎𝒎𝟐𝟐                            Où r1 est un taux périodique capitalisé m1 fois par année𝐸𝐸(𝑅𝑅𝑖𝑖)Bêta = 𝑅𝑅𝑓𝑓+ 𝛽𝛽𝑖𝑖൫𝐸𝐸(𝑅𝑅𝑀𝑀) −𝑅𝑅𝑓𝑓൯
+                            Où r2 est au taux périodique capitalisé m2 fois par année
+        𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐𝑐(𝑅𝑅𝑖𝑖, 𝑅𝑅𝑀𝑀)𝛽𝛽𝑖𝑖=Coût moyen𝑣𝑣𝑣𝑣𝑣𝑣(𝑅𝑅𝑀𝑀)pondéré du capital
+             𝐸𝐸       𝐷𝐷𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶= 𝑉𝑉𝑅𝑅𝐸𝐸+ 𝑉𝑉𝑅𝑅𝐷𝐷(1 −𝑇𝑇𝐶𝐶)

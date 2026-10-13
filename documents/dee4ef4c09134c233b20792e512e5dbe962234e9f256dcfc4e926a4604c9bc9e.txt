@@ -1,0 +1,11 @@
+8 | Description et objectifs de la séance
+
+Des processus standardisées et des données intégrées : le progiciel de gestion intégré
+Description
+Les progiciels de gestion intégrés (PGI) sont des solutions modernes qui regroupent toutes les fonctions d'une entreprise dans un seul système cohérent avec une base de données centralisée. Ils facilitent ainsi le partage d'information entre les départements et éliminent la duplication de données. Comme ce sont des systèmes plutôt complexes, l'assimilation des concepts importants se fait principalement de façon ludique à l'aide de la simulation Maple, développée par le laboratoire ERPsim.
+Important!
+Un 63$ bien investi! N'oubliez pas d'effectuer votre paiement avant la séance pour pouvoir jouer la simulation et faire gagner votre équipe!
+Objectifs de la séance
+Expérimenter les processus intégrés d'un PGI en prenant des décisions d'approvisionnement, de prix et de marketing dans une simulation
+Distinguer les approches d'acquisition de systèmes d'information et les modes de déploiement
+Expliquer le rôle de l'éditeur et de l'intégrateur dans l'implantation d'un PGI, et ce que signifie une implantation vanille

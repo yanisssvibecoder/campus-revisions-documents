@@ -1,0 +1,134 @@
+## Page 1
+1.  Je suis un rectangle simple aux coins non arrondis et je possède un titre à ma gauche.
+
+   QU’EST-CE QU’UN COULOIR ?
+
+2.  Je suis un rectangle aux coins arrondis et je possède un symbole dans mon coin
+    supérieur gauche.
+
+   QU’EST-CE QU’UNE ACTIVITÉ (OU UNE TÂCHE) ?
+
+3.  Je suis un rectangle présenté à la verticale avec un coin replié.
+
+   QU’EST-CE QU’UN OBJET DE DONNÉE ?
+
+4.  Je sers à illustrer le processus à l’étude ou encore les acteurs externes au processus à
+    l’étude.
+
+   QU’EST-CE QU’UNE PISCINE ?
+
+5.  Je suis représenté par le titre dans un rectangle simple aux coins non arrondis.
+
+   QU’EST-CE QU’UN ACTEUR ?
+
+6. On me représente par le symbole de la main dans le coin supérieur gauche d’un
+    rectangle aux coins arrondis.
+
+   QU’EST-CE QU’UNE TÂCHE MANUELLE ?
+
+7. On me représente par le symbole « plus » dans une boîte, en bas d’un rectangle aux
+    coins arrondis.
+
+   QU’EST-CE QU’UN SOUS-PROCESSUS FERMÉ ?
+
+8. Ce symbole, apposé dans le coin supérieur gauche de l’activité, sert à spéciﬁer que
+    celle-ci est complètement automatisée.
+
+   QU’EST-CE QU’UN ENGRENAGE ?
+
+9. On le représente par un cylindre.
+
+   QU’EST-CE QU’UN MAGASIN DE DONNÉES ?
+
+10. On peut l’apposer de façon facultative au centre d’une passerelle exclusive.
+
+   QU’EST-CE QU’UN X ?
+
+11. On le représente par la ﬂèche la plus simple retrouvée dans le formalisme BPMN.
+
+   QU’EST-CE QU’UN FLUX DE SÉQUENCE ?
+
+## Page 2
+12. Cette ﬂèche pointillée ayant une pointe ouverte sert à la représenter.
+
+   QU’EST-CE QU’UNE ASSOCIATION DE DONNÉES ?
+
+13. Je suis représenté par une ﬂèche faite de tirets, ayant un cercle vide à une extrémité et
+   un triangle vide à l’autre.
+
+   QU’EST-CE QU’UN FLUX DE MESSAGE ?
+
+14. Cette ﬂèche pointillée possède une pointe à chaque extrémité, et sert à représenter
+    cette action.
+
+   QU’EST-CE QU’UNE MISE À JOUR ?
+
+15. Je suis la seule ﬂèche qui peut passer d’une piscine à une autre.
+
+   QU’EST-CE QU’UN FLUX DE MESSAGE ?
+
+16. On le représente par un simple cercle.
+
+   QU’EST-CE QU’UN ÉVÉNEMENT DE DÉBUT GÉNÉRIQUE ?
+
+17. On le représente par un cercle au contour gras avec une enveloppe noire au centre.
+
+   QU’EST-CE QU’UN ÉVÉNEMENT DE FIN MESSAGE ?
+
+18. C’est la couleur de l’enveloppe lorsqu’un événement reçoit un message.
+
+   QU’EST-CE QUE BLANC ?
+
+19. On le représente par un cercle au contour double, avec une horloge au centre.
+
+   QU’EST-CE QU’UN ÉVÉNEMENT INTERMÉDIAIRE MINUTERIE ?
+
+20. La très grande majorité du temps, ils viennent en paire de deux.
+
+   QU’EST-CE QU’UN ÉVÉNEMENT INTERMÉDIAIRE MESSAGE (ÉMISSION + RÉCEPTION) ?
+
+21. C’est l’élément du formalisme BPMN qui est représenté par un losange.
+
+   QU’EST-CE QU’UNE PASSERELLE ?
+
+22. Elle est précédée par une activité où on ne choisit qu’une alternative parmi plusieurs.
+
+   QU’EST-CE QU’UNE PASSERELLE EXCLUSIVE ?
+
+23. Elle permet au jeton de sélectionner un chemin particulier.
+
+## Page 3
+   QU’EST-CE QU’UNE PASSERELLE DE BIFURCATION ?
+
+24. Elle récupère les jetons avant de passer à la prochaine activité.
+
+   QU’EST-CE QU’UNE PASSERELLE DE CONVERGENCE ?
+
+25. C’est la quantité maximale de chemins distincts qui peuvent être proposés après une
+    passerelle exclusive.
+
+   QU’EST-CE QUE L’INFINI ?
+
+26. C’est le nombre maximal d’activités qu’un diagramme BPMN devrait contenir avant de
+   penser à le découper en sous-processus.
+
+   QU’EST-CE QUE DIX ?
+
+27. Il permet de représenter les grandes étapes d’un processus dans un processus de
+   complexité moyenne ou élevée ?
+
+   QU’EST-CE QU’UN SOUS-PROCESSUS FERMÉ ?
+
+28. C’est ce qui représente le déclencheur d’un processus d’affaires provenant de
+    l’extérieur de celui-ci.
+
+   QU’EST-CE QU’UN FLUX DE MESSAGE (INTRANT) ?
+
+29. Il permet de suivre le chemin que suit une transaction dans un processus.
+
+   QU’EST-CE QUE LE JETON ?
+
+30. Son contenu reste invisible et seuls ses échanges de messages avec le processus à
+    l’étude sont représentés.
+
+   QU’EST-CE QU’UN ACTEUR EXTERNE (ou une piscine) ?

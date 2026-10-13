@@ -1,0 +1,315 @@
+Question 1  (20 points) 
+Avant de répondre aux questions suivantes, regardez les images ci-dessous et consultez l’information extraite du site Internet du prestigieux club de golf Royal Montréal : http://www.rmgc.org/	. Il est important de mentionner que ce club de golf est entièrement privé et qu’uniquement les membres du club peuvent y jouer. 
+Fondé en 1873, le Royal Montréal est le plus ancien club de golf en Amérique du Nord. Nos membres portent encore régulièrement un “toast” à la Reine Victoria, laquelle a octroyé au Club l’appellation “Royal” le 7 juillet 1884. Le Royal Montréal est un de seulement soixante-six véritables clubs portant l’appellation “Royal” au monde.
+Le Royal Montréal, c’est de franches camaraderies, de longues amitiés, le golf et bien sûr le verre d’après match ou le bon repas entre amis après 18 trous. Ce sont aussi les sorties en famille sur le parcours Dixie de 9 trous et le temps passé autour de la piscine. Les barbecues en famille ne manquent pas ni les évènements spéciaux tels les brunchs de Pâques avec enfants et petits-enfants ou encore les feux d’artifices de la fête du Canada devant lesquels s’extasient petits et grands.
+L’accueil de la Coupe des Présidents par le Royal Montréal en 2007 et en 2024 constitue un exploit remarquable, faisant du club le deuxième site international à organiser cet événement à plus d’une reprise — rejoignant ainsi les rangs du Royal Melbourne Golf Club en Australie. Ce fait témoigne de l’héritage durable et de l’influence du club dans le monde du golf. Bien que certains puissent considérer qu’organiser un tel événement, à plusieurs reprises, est un privilège lié à la tradition : la réalité est que le Royal Montréal a maintes fois prouvé qu’il était un lieu capable d’offrir à la fois le spectacle et le défi nécessaires pour une compétition de cette envergure.
+Nommez les deux attributs stratégiques principaux du club de golf Royal Montréal. Justifiez brièvement chacune de vos réponses. (4 points) 
+   Attribut 1 :
+Donnez un exemple concret de chacun des éléments du système opérationnel d’une partie de golf au Royal Montréal. (4 points)
+La gestion des opérations nécessite plusieurs niveaux de décisions. Donnez un exemple lié à la GOL de décision stratégique, un exemple de décision tactique et un exemple de décision opérationnelle qui devront être prises par le club de golf Royal Montréal au cours des prochaines années, des prochains mois ou encore des prochains jours. (6 points)
+Décision stratégique :
+Décision tactique :
+Décision opérationnelle :
+Dans l’industrie du golf, les prévisions doivent être faites plusieurs mois à l’avance. Analysez deux variables de l’environnement externe PESTEL en mentionnant de quelle manière chacune de ces variables pourraient avoir un impact sur la demande. Vous devez choisir deux lettres différentes de PESTEL, et celles-ci doivent être clairement identifiées dans votre réponse. (4 points)
+Variable 1 :	
+Variable 2 :
+1.5 	Nommez une caractéristique propre aux entreprises de service qui font que la gestion d’un club de golf est particulièrement complexe. Expliquez ce qui la rend complexe. (2 points)
+Question 2  (15 points) 
+2.1	Le graphique ci-dessous présente les ventes de canettes de bière d’une brasserie canadienne pour les trois dernières années.  
+Analysez les composantes de la demande de ce produit. Vous devez analyser chacune des composantes vues en classe, qu’elle soit présente ou non. (4 points)
+2.2 	Différents calculs sont effectués pour choisir la meilleure méthode de prévision de la demande. Une fois les calculs effectués, plusieurs conclusions peuvent être tirées.
+Lorsque l’on conclut qu’une méthode est biaisée, que conclut-on précisément? Quelle est la signification d’un biais? (2 points)
+Quel est la mesure permettant de conclure qu’une méthode est biaisée ou non? (1 point)
+Peut-on conclure que la méthode la moins biaisée sera aussi la moins précise? Justifiez brièvement votre réponse. (2 points)
+2.3 	Le tableau suivant présente les ventes des douze dernières périodes d’un produit X.
+Quelle serait la prévision de la demande, de la période 4, en utilisant la méthode de la moyenne mobile pondérée K = 3, 15 % - 25 % - 60 %? Présentez votre calcul. (2 points)
+Quelle serait la prévision de la demande de la période 4, en utilisant la méthode de lissage exponentiel avec α = 0,7? Présentez tous vos calculs. Note : la prévision de la période 1 est égale à la demande de la période 1. (3 points)
+En classe, nous avons présenté quelques méthodes qualitatives de prévision dont l’analogie historique. Donnez un exemple concret de l’utilisation de cette méthode. (1 point)
+Question 3  (22 points) 
+Un magasin du centre-ville vend plusieurs articles reliés à l’industrie de la musique. Pour la majorité de ses produits, le propriétaire effectue un inventaire à tous les mois. Les commandes sont effectuées auprès des différents fournisseurs en fonction de la quantité en stock au moment de la prise d’inventaire (système de gestion des stocks à réapprovisionnement périodique – intervalle fixe et quantité variable).
+Les tableaux suivants présentent les informations pertinentes pour la gestion des stocks de quatre produits différents en ce 17 octobre 2025, jour de commande auprès des fournisseurs.
+Note :	Considérez que chaque mois représente 4 semaines.
+Vous avez probablement remarqué que six cases des tableaux précédents sont vides. À l’aide de l’information fournie, remplissez les six cases laissées vides. Présentez vos calculs ci-dessous. (9 points)
+Pour le produit A06, le coût de passer une commande est de 26 $, le coût unitaire d’entreposage annuel est de 10 % du coût d’acquisition, le coût d’acquisition unitaire est de 100 $. 
+a)	Quel est le coût total annuel de gestion des stocks? Présentez tous vos calculs. (4 points)
+b)	Pour ce même article, l’intervalle de commande actuel est-il optimal? Présentez vos calculs. (3 points)
+Puisque le produit D12 est un des produits les plus importants du magasin, le propriétaire s’interroge sur les économies potentielles découlant d’une gestion des stocks différente. Si le coût unitaire d’acquisition est de 200 $, que le coût de passer une commande est de 100 $ et que le coût unitaire d’entreposage annuel est de 15 % du coût d’acquisition, quelles seraient les économies potentielles découlant de la mise en place d’un système de gestion des stocks à point de commande (intervalle variable, quantité fixe)? Considérez que le coût actuel de gestion des stocks du D12 est de 5 000 $ (cette valeur est fictive, ne cherchez pas à la calculer). (6 points)
+Question 4	(16 points) 
+DJI fabrique différents modèles de drones dont la série Phantom Pro équipée de caméras très performantes. Au début de l’année, l’entreprise souhaite élaborer son plan global pour les douze mois à venir. Voici les différentes données pertinentes qui se rattachent à ses opérations :
+Demande totale annuelle : 215 000 unités
+Coût d'embauche : 3 000 $ par employé
+Coût de mise à pied : 3 200 $ par employé
+Coût mensuel de stockage : 10 $ par unité équivalente
+Coût de pénurie : 1 000 $ par unité équivalente
+Salaire mensuel d'un employé (temps régulier) : 4 000 $
+On peut faire varier le nombre d’employés, mais ce nombre ne peut varier de plus de 25 % d’un mois à l’autre, ni plus de six fois par année. Les employés reçoivent une prime de 50 % lorsqu'ils font du temps supplémentaire, mais le temps supplémentaire ne peut représenter plus de 30 % des heures régulières. La capacité de stockage de l’entrepôt est de 15 000 unités équivalentes. On ne tolère aucune pénurie car le marché est très compétitif. Le stock de début est de 1 000 unités équivalentes et le stock souhaité à la fin de l’année est de 5 000 unités équivalentes.
+DJI a déjà élaboré deux plans (A et B) qui sont présentés aux pages suivantes (pages 8 et 9).
+4.1	DJI souhaite augmenter temporairement sa capacité de production pour une période de trois mois. D’un point de vue économique, l’entreprise devrait-elle embaucher les employés nécessaires à cette augmentation temporaire de la capacité pour les mettre à pied ensuite ou devrait-elle plutôt combler cette hausse de capacité par l’utilisation du temps supplémentaire? Justifiez votre réponse à l’aide de calculs appropriés. (4 points)
+4.2	Si l’entreprise souhaite mettre en place une stratégie de nivellement (plan C), quelle serait alors la production mensuelle en unité équivalente? Présentez vos calculs. (2 points)
+Plan A
+	Veuillez noter que seule la ligne des temps morts n’est pas complétée dans ce plan.   
+4.3	La directrice des ressources humaines vient de consulter le Plan A et elle vous indique que ce plan ne respecte pas les règles de variation de main d’œuvre. Après réflexion, vous constatez qu’elle a raison. Présentez deux raisons différentes permettant de conclure que ce plan ne respecte pas la contrainte de variation de main d’œuvre. (2 points)
+4.4	La ligne de temps morts n’a pas été complétée. Indiquez le nombre d’employés que l’on retrouverait en temps morts à chacune des périodes. Si ce nombre est de 0, laissez la case vide. (3 points)
+Plan B
+4.5	Certaines informations sont manquantes pour la période 10 du Plan B. Complétez le plan B présenté ci-dessus. Plus précisément, faites les calculs de stock, d’employés, d’embauche, de mises à pied, de supplément et de temps mort. Présentez vos résultats directement dans le plan B. (4 points) 
+4.6	Si on souhaite se débarrasser des pénuries présentes aux mois d’août et de septembre, combien d’unités supplémentaires devront être fabriquées et durant quel(s) mois? (1 point)
+Question 5  (21 points) 
+L’entreprise DJI effectue maintenant la planification détaillée des caméras de surveillance Defender. Une section de l’usine est dédiée à la fabrication de trois modèles différents : Defender+, Defender PRO et Defender Or.
+La capacité de production de cette section est de 2 000 unités équivalentes par semaine. Toutefois, pour la première semaine du mois de novembre 2025 (Nov. 1), la capacité sera limitée à 1 800 unités équivalentes puisqu’on planifie l’entretien d’un des principaux équipements utilisés. Ces produits étant stratégiques pour l’entreprise, les pénuries sont absolument à proscrire. 
+5.1	Vous trouverez ci-dessous, le plan préliminaire développé par le planificateur-adjoint. Vous devez compléter la planification sommaire des capacités. (2 points)
+Plan préliminaire
+Planification sommaire des capacités (unités équivalentes)
+5.2	Quels devraient être les changements à apporter aux plans préliminaires pour respecter les contraintes de l’entreprise de la façon la plus économique possible? Formulez vos recommandations sous forme de phrases; soyez très précis dans vos réponses. (3 points)
+Pour une autre ligne de production, les plans finaux suivants ont été développés.
+5.3	Complétez les lignes de stock projeté et de stock disponible à la vente du produit DJI GOGGLES 1. (3 points)
+5.4	Un client commercial important souhaite obtenir 20 unités du produit DJI GOGGLES 2 pour la première semaine du mois de novembre (Nov. 1). Sans modifier les plans finaux ci-dessus, l’entreprise peut-elle accepter cette nouvelle commande? Justifiez votre réponse. (2 points)
+Il est maintenant le temps de planifier les besoins matières pour fabriquer le produit Defender PRO. Vous trouverez ci-dessous les informations nécessaires à la PBM.
+Nomenclature :
+Fichier maître des stocks :
+PDP du produit Defender PRO (tel que présenté à la page 10)
+La grille de PBM de l’article Module externe est déjà complétée. En voici l’essentiel : 
+5.5	Effectuez la PBM permettant de déterminer les besoins en Pièce A. Utilisez toutes les grilles nécessaires. (7 points)
+5.6	Considérant que le délai d’assemblage du Defender PRO est d’une semaine, quel est l’horizon minimum de planification pour ce produit? (2 points)
+5.7	En supposant que vous débutez pour la première fois la planification de la production du Defender PRO et que les stocks pour toutes les composantes sont de zéro, quelle est la première composante ou quelles sont les premières composantes à fabriquer ou à commander? (2 points)
+Question 6  (6 points)
+Complétez la colonne de gauche en indiquant si chacun des énoncés ci-dessous est vrai (V) ou faux (F).
+FIN DE L’EXAMEN
+
+
+
+Attribut 2 :
+
+
+Intrant :
+Processus de transformation :
+Extrant :
+Ressource :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Période | Demande
+1 | 9 150
+2 | 11 935
+3 | 13 032
+4 | 13 273
+5 | 14 364
+6 | 13 680
+7 | 15 440
+8 | 16 745
+9 | 16 902
+10 | 20 558
+11 | 20 280
+12 | 19 866
+
+
+
+
+
+
+
+
+
+Code de produit | Demande annuelle | Écart type mensuel | Stock actuel | Délai du fournisseur
+A06 | 720 | 4 | 60 | 1 mois
+B41 |  | 6 | 102 | 2 semaines
+C27 | 1 200 | 6 |  | 2 semaines
+D12 | 2 400 | 12 | 187 | 1 semaine
+  |   |   |   |  
+  |   |   |   |  
+Code de produit | Niveau de service | Stock de sécurité | Niveau cible | Quantité à commander
+A06 |  | 8 | 120 | 
+B41 | 95 % | 13 | 120 | 31
+C27 | 98 % | 16 | 150 | 11
+D12 | 99 % |  |  | 95
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+Defender+ | X 60 | X 60 | 1 | 1 | 45 | 45 | 1,5
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions |   |   | 300 | 300 | 260 | 260 | 350 | 300
+Commandes acceptées | Commandes acceptées |   |   | 300 | 300 | 200 | 200 | 200 | 
+Stock projeté | Stock projeté | 45 | 45 | 45 | 45 | 25 | 25 | 35 | 35
+Réceptions planifiées | Réceptions planifiées |   |   | 300 | 300 | 240 | 240 | 360 | 300
+Lancements planifiés | Lancements planifiés | 300 | 300 | 240 | 240 | 360 | 360 | 300 | 
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+Defender PRO | X 100 | X 100 | 1 | 1 | 40 | 40 | 2
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions |  |  | 500 | 500 | 500 | 500 | 650 | 650
+Commandes acceptées | Commandes acceptées |  |  | 460 | 460 | 600 | 600 | 420 | 
+Stock projeté | Stock projeté | 40 | 40 | 40 | 40 | 40 | 40 | 90 | 40
+Réceptions planifiées | Réceptions planifiées |  |  | 500 | 500 | 600 | 600 | 700 | 600
+Lancements planifiés | Lancements planifiés | 500 | 500 | 600 | 600 | 700 | 700 | 600 | 
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+Defender Or | X 150 | X 150 | 1 | 1 | 40 | 40 | 1
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions |  |  | 200 | 200 | 200 | 200 | 300 | 300
+Commandes acceptées | Commandes acceptées |  |  | 250 | 250 | 180 | 180 | 140 | 
+Stock projeté | Stock projeté | 40 | 40 | 90 | 90 | 40 | 40 | 40 | 40
+Réceptions planifiées | Réceptions planifiées |  |  | 300 | 300 | 150 | 150 | 300 | 300
+Lancements planifiés | Lancements planifiés | 300 | 300 | 150 | 150 | 300 | 300 | 300 | 
+Semaine | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 3 | Nov. 4
+Capacité requise pour 
+Defender+ |  |  |  |  |  | 
+Capacité requise pour 
+Defender PRO |  |  |  |  |  | 
+Capacité requise pour
+Defender Or |  |  |  |  |  | 
+Total
+ |  |  |  |  |  | 
+Capacité disponible
+ |  |  |  |  |  | 
+
+
+
+
+
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+DJI GOGGLES 1 | X 200 | X 200 | 1 | 1 | 125 | 125 | 1
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100
+Commandes acceptées | Commandes acceptées | 86 | 86 | 115 | 115 | 93 | 93 | 100 | 89
+Stock projeté | Stock projeté |  |  |  |  |  |  |  | 
+Stock disponible à la vente | Stock disponible à la vente |  |  |  |  |  |  |  | 
+Réceptions planifiées | Réceptions planifiées |  |  | 200 | 200 |  |  | 200 | 
+Lancements planifiés | Lancements planifiés | 200 | 200 |  |  | 200 | 200 |  | 
+Produit | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | U.É
+DJI GOGGLES 2 | X100 | X100 | 2 | 2 | 25 | 25 | 2
+Semaine | Semaine | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Prévisions | Prévisions | 50 | 50 | 50 | 50 | 50 | 50 | 50 | 50
+Commandes acceptées | Commandes acceptées | 58 | 58 | 46 | 46 | 53 | 53 | 43 | 41
+Stock projeté | Stock projeté | 67 | 67 | 17 | 17 | 64 | 64 | 114 | 64
+Stock disponible à la vente | Stock disponible à la vente | 21 | 21 |  |  | 47 | 47 | 16 | 
+Réceptions planifiées | Réceptions planifiées | 100 | 100 |  |  | 100 | 100 | 100 | 
+Lancements planifiés | Lancements planifiés | 100 | 100 | 100 | 100 |  |  |  | 
+
+
+Article | Stock  | Taille de lot | Délai 
+(en semaines)
+Module externe | 100 | Min. 500 | 1
+Module interne | 2 100 | Min. 1 000 | 1
+Sous-ensemble C | 0 | X 100 | 3
+Pièce A | 5 000 | 2 semaines | 2
+Pièce B | 0 | X 300 | 4
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+Lancements planifiés |  |  | 500 | 600 | 700 | 600 | 
+Article | Taille de lot | Taille de lot | Délai | Délai | En stock | En stock | En stock
+Module externe |  |  |  |  |  |  | 
+Semaine | Oct. 2 | Oct. 3 | Oct. 3 | Oct. 4 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 2 | Nov. 3 | Nov. 4
+Besoin brut total |  |  |  | 500 | 500 | 600 | 700 | 700 | 600 | 
+Réception planifiée |  |  |  | 500 | 500 | 500 | 700 | 700 | 600 | 
+Lancement planifié |  | 500 | 500 | 500 | 500 | 700 | 600 | 600 |  | 
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  |  | 
+Besoin net |  |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  |  | 
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  |  | 
+Besoin net |  |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  |  | 
+Article | Taille de lot | Délai | En stock
+ |  |  | 
+Semaine | Oct. 2 | Oct. 3 | Oct. 4 | Nov. 1 | Nov. 2 | Nov. 3 | Nov. 4
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+Besoin brut total |  |  |  |  |  |  | 
+Stock disp. projeté |  |  |  |  |  |  | 
+Besoin net |  |  |  |  |  |  | 
+Réception planifiée |  |  |  |  |  |  | 
+Lancement planifié |  |  |  |  |  |  | 
+
+
+
+
+6.1 | Pour un salon de coiffure, les shampoings représentent une ressource. | 
+6.2 | Les méthodes de prévision qui répondent rapidement à des changements de la demande ont un grand α pour le lissage exponentiel et un petit nombre de périodes (k) pour les moyennes mobiles.  | 
+6.3 | Lorsque plusieurs articles sont commandés d’un même fournisseur, il est préférable d’utiliser le modèle du point de commande pour gérer les stocks, puisque celui-ci garantit un coût total annuel inférieur.  | 
+6.4 | Une hausse soudaine des coûts de livraison, qu’un fournisseur facture à une entreprise, fera diminuer la QEC des articles qu’il nous livre. | 
+6.5 | Une stratégie de production synchrone est préférable, lorsque les coûts d’entreposage sont très élevés. | 
+6.6 | 
+
+Selon le tableau ci-dessus, on peut conclure que la composante 33 fera partie de la classe A (classification ABC). | 

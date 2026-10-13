@@ -1,0 +1,94 @@
+## xl/worksheets/sheet1.xml
+A1: PLANS PRÉLIMINAIRES 
+A2: Nom du produit | C2: Stock au départ | D2: Taille de lot | E2: UÉ | F2: Délai
+A3: Gourde de 16 oz | C3: 400 | D3: X 150 | E3: 0.5 | F3: 0
+A5: Semaine | C5: 1 | D5: 2 | E5: 3 | F5: 4 | G5: 5 | H5: 6 | I5: 7 | J5: 8
+A6: Prévisions | C6: 500 | D6: 500 | E6: 500 | F6: 400 | G6: 300 | H6: 400 | I6: 400 | J6: 400
+A7: Commandes acceptées | C7: 450 | D7: 450 | E7: 550 | F7: 500 | G7: 500 | H7: 300 | I7: 300 | J7: 300
+A8: Stock projeté | B8: 400 [formule : C3]
+A9: Stock disponible à la vente | B9: 400 [formule : C3]
+A10: Réception planifiée
+A11: Lancement planifié
+A13: Nom du produit | C13: Stock au départ | D13: Taille de lot | E13: UÉ | F13: Délai
+A14: Gourde de 32 oz | C14: 500 | D14: X 100 | E14: 1 | F14: 1
+A16: Semaine | C16: 1 | D16: 2 | E16: 3 | F16: 4 | G16: 5 | H16: 6 | I16: 7 | J16: 8
+A17: Prévisions | C17: 300 | D17: 500 | E17: 500 | F17: 550 | G17: 500 | H17: 550 | I17: 500 | J17: 550
+A18: Commandes acceptées | C18: 300 | D18: 500 | E18: 400 | F18: 500 | G18: 650 | H18: 620 | I18: 600 | J18: 650
+A19: Stock projeté | B19: 500 [formule : C14]
+A20: Stock disponible à la vente | B20: 500 [formule : C14]
+A21: Réception planifiée
+A22: Lancement planifié
+A24: Nom du produit | C24: Stock au départ | D24: Taille de lot | E24: UÉ | F24: Délai
+A25: Groude de 64 oz | C25: 200 | D25: X 300 | E25: 2 | F25: 1
+A27: Semaine | C27: 1 | D27: 2 | E27: 3 | F27: 4 | G27: 5 | H27: 6 | I27: 7 | J27: 8
+A28: Prévisions | C28: 150 | D28: 200 | E28: 240 | F28: 260 | G28: 190 | H28: 250 | I28: 250 | J28: 210
+A29: Commandes acceptées | C29: 150 | D29: 200 | E29: 300 | F29: 250 | G29: 150 | H29: 200 | I29: 190 | J29: 150
+A30: Stock projeté | B30: 200 [formule : C25]
+A31: Stock disponible à la vente | B31: 200 [formule : C25]
+A32: Réception planifiée
+A33: Lancement planifié
+A35: PLANIFICATION SOMMAIRE DES CAPACITÉS (UNITÉS ÉQUIVALENTES)
+A36: Présentez ici la planification sommaire correspondant à vos plans préliminaires
+A37: Semaine | C37: 1 | D37: 2 | E37: 3 | F37: 4 | G37: 5 | H37: 6 | I37: 7 | J37: 8
+B38: Gourde de 16 oz [formule : A3]
+B39: Gourde de 32 oz [formule : A14]
+B40: Groude de 64 oz [formule : A25]
+A41: Capacité totale requise | C41: 0 [formule : SUM(C38:C40)] | D41: 0 [formule : None] | E41: 0 [formule : None] | F41: 0 [formule : None] | G41: 0 [formule : None] | H41: 0 [formule : None] | I41: 0 [formule : None] | J41: 0 [formule : None]
+A42: Capacité disponible
+A46: Utilisez cette espace pour déterminer les changements à apporter (cet espace ne sera pas corrigé)
+A47: Semaine | C47: 1 | D47: 2 | E47: 3 | F47: 4 | G47: 5 | H47: 6 | I47: 7 | J47: 8
+B48: Gourde de 16 oz [formule : B38]
+B49: Gourde de 32 oz [formule : B39]
+B50: Groude de 64 oz [formule : None]
+A51: Capacité totale requise | C51: 0 [formule : SUM(C48:C50)] | D51: 0 [formule : None] | E51: 0 [formule : None] | F51: 0 [formule : None] | G51: 0 [formule : None] | H51: 0 [formule : None] | I51: 0 [formule : None] | J51: 0 [formule : None]
+A52: Capacité disponible
+## xl/worksheets/sheet2.xml
+A1: PLANS FINAUX
+A2: Nom du produit | C2: Stock au départ | D2: Taille de lot | E2: UÉ | F2: Délai
+A3: Gourde de 16 oz | C3: 400 | D3: X 150 | E3: 0.5 | F3: 0
+A5: Semaine | C5: 1 | D5: 2 | E5: 3 | F5: 4 | G5: 5 | H5: 6 | I5: 7 | J5: 8
+A6: Prévisions | C6: 500 | D6: 500 | E6: 500 | F6: 400 | G6: 300 | H6: 400 | I6: 400 | J6: 400
+A7: Commandes acceptées | C7: 450 | D7: 450 | E7: 550 | F7: 500 | G7: 500 | H7: 300 | I7: 300 | J7: 300
+A8: Stock projeté | B8: 400 [formule : C3]
+A9: Stock disponible à la vente* | B9: 400 [formule : C3]
+A10: Stock disponible à la vente** | B10: 400 [formule : B9]
+A11: Réception planifiée
+A12: Lancement planifié
+A14: Nom du produit | C14: Stock au départ | D14: Taille de lot | E14: UÉ | F14: Délai
+A15: Gourde de 32 oz | C15: 500 | D15: X 100 | E15: 1 | F15: 1
+A17: Semaine | C17: 1 | D17: 2 | E17: 3 | F17: 4 | G17: 5 | H17: 6 | I17: 7 | J17: 8
+A18: Prévisions | C18: 300 | D18: 500 | E18: 500 | F18: 550 | G18: 500 | H18: 550 | I18: 500 | J18: 550
+A19: Commandes acceptées | C19: 300 | D19: 500 | E19: 400 | F19: 500 | G19: 650 | H19: 620 | I19: 600 | J19: 650
+A20: Stock projeté | B20: 500 [formule : C15]
+A21: Stock disponible à la vente* | B21: 500 [formule : C15]
+A22: Stock disponible à la vente** | B22: 500 [formule : B21]
+A23: Réception planifiée
+A24: Lancement planifié
+A26: Nom du produit | C26: Stock au départ | D26: Taille de lot | E26: UÉ | F26: Délai
+A27: Gourde de 64 oz | C27: 200 | D27: X 300 | E27: 2 | F27: 1
+A29: Semaine | C29: 1 | D29: 2 | E29: 3 | F29: 4 | G29: 5 | H29: 6 | I29: 7 | J29: 8
+A30: Prévisions | C30: 150 | D30: 200 | E30: 240 | F30: 260 | G30: 190 | H30: 250 | I30: 250 | J30: 210
+A31: Commandes acceptées | C31: 150 | D31: 200 | E31: 300 | F31: 250 | G31: 150 | H31: 200 | I31: 190 | J31: 150
+A32: Stock projeté | B32: 200 [formule : C27]
+A33: Stock disponible à la vente* | B33: 200 [formule : C27]
+A34: Stock disponible à la vente** | B34: 200 [formule : B33]
+A35: Réception planifiée
+A36: Lancement planifié
+A38: PLANIFICATION SOMMAIRE DES CAPACITÉS (UNITÉS ÉQUIVALENTES)
+A40: Semaine | C40: 1 | D40: 2 | E40: 3 | F40: 4 | G40: 5 | H40: 6 | I40: 7 | J40: 8
+B41: Gourde de 16 oz [formule : A3]
+B42: Gourde de 32 oz [formule : A15]
+B43: Gourde de 64 oz [formule : A27]
+A44: Capacité totale requise | C44: 0 [formule : SUM(C41:C43)] | D44: 0 [formule : None] | E44: 0 [formule : None] | F44: 0 [formule : None] | G44: 0 [formule : None] | H44: 0 [formule : None] | I44: 0 [formule : None] | J44: 0 [formule : None]
+A45: Capacité disponible
+A48: *Présentez ici le stock disponible à la vente sans ajustement
+A49: **Présentez ici le stock disponible à la vente avec ajustements (au besoin)
+## xl/worksheets/sheet3.xml
+A1: Question 2
+A2: Un important client voudrait passer une commande de gourdes de 64 oz à la fin de la semaine 7. 
+A3: Combien de gourdes de 64 oz pourrait-on lui promettre à la fin de la semaine 7 sans modifier les lancements et réceptions planifiés? 
+A4: Justifiez brièvement votre réponse.
+A13: Question 3
+A14: On voudrait utiliser toute la capacité disponible des semaines 1 à 7 pour produire des gourdes Hydra Flask supplémentaires. 
+A15: Combien de gourdes pourrait-on fabriquer, de quels types et à quelles semaines afin de maximiser 
+A16: l’utilisation de la capacité tout en respectant les contraintes opérationnelles? 
